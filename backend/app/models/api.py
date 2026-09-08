@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Any, List, Optional, Union
 from pydantic import BaseModel, Field
 from .article import Article, ArticleSummary, FlexReadVariant, ReadingMode, LengthTier, ToneCategory
 from .user import UserPreferences, UserProfile, UserStats
@@ -26,6 +26,7 @@ class ReadResponse(BaseModel):
     title: str
     summary: str
     actual_content: str
+    estimated_reading_time_minutes: int = 0
     variant_word_count: int
     variant_reading_time_seconds: int
     time_saved_seconds: int
@@ -70,3 +71,14 @@ class CacheStatsResponse(BaseModel):
     cached_variants: int
     hits: int
     misses: int
+
+class TransformRawTextRequest(BaseModel):
+    raw_text: str = Field(..., description="The full original article content.")
+    target_time_minutes: Union[int, str] = Field(..., description="The user's available reading budget (5, 10, 15, or full).")
+
+class TransformRawTextResponse(BaseModel):
+    title: str = Field(..., description="Adapted headline fitting the selected mode")
+    summary: str = Field(..., description="1-2 sentence executive briefing")
+    actual_content: str = Field(..., description="Markdown-formatted text body for the target mode or full text")
+    estimated_reading_time_minutes: int = Field(..., description="Target reading time in minutes or computed for full mode")
+    word_count: int = Field(..., description="Word count of actual_content")

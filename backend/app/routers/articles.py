@@ -1,6 +1,6 @@
 from typing import Optional
 from fastapi import APIRouter, HTTPException, Query, status
-from ..models.api import ArticleListResponse, IngestResponse, ReadResponse
+from ..models.api import ArticleListResponse, IngestResponse, ReadResponse, TransformRawTextRequest, TransformRawTextResponse
 from ..models.article import Article, ArticleSummary, ReadingMode
 from ..services.article_ingestion import article_ingestion_service
 from ..services.preprocessor import preprocessor_service
@@ -46,20 +46,7 @@ def list_articles(
         if not a.preprocessing or not a.preprocessing.word_count:
             a.preprocessing = preprocessor_service.process(a)
         
-        summaries.append(ArticleSummary(
-            id=a.id,
-            headline=a.headline,
-            lead=a.lead,
-            section=a.section,
-            date=a.date,
-            author=a.author,
-            url=a.url,
-            image_url=a.image_url,
-            word_count=a.preprocessing.word_count,
-            reading_time_seconds=a.preprocessing.reading_time,
-            article_length=a.preprocessing.article_length,
-            tone=a.preprocessing.tone
-        ))
+        summaries.append(a.to_summary())
         
     return ArticleListResponse(
         total=total,
@@ -73,8 +60,8 @@ def list_articles(
 def get_article_detail(article_id: str):
     """
     Retrieves complete article along with its preprocessing attributes:
-    - main points
-    - keywords
+    - main points (summary_bullets_en)
+    - keywords (tags)
     - tone
     - article_length (tier)
     - reading time
@@ -84,15 +71,34 @@ def get_article_detail(article_id: str):
     if not article:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f"Article {article_id} not found")
     
-    if not article.preprocessing or not article.preprocessing.main_points:
+    if not article.preprocessing or not article.preprocessing.main_points or not article.summary_bullets_en:
         article.preprocessing = preprocessor_service.process(article)
+        article.summary_bullets_en = list(article.preprocessing.main_points)
         
     return article
+
+@router.get("/{article_id}/summary", summary="Get article summary in standard NZZ JSON format")
+def get_article_summary_nzz(article_id: str):
+    """
+    Returns the article and its preprocessed summary matching the exact JSON format
+    of input/days/2026-08-25/articles.
+    """
+    article = article_ingestion_service.get_article(article_id)
+    if not article:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f"Article {article_id} not found")
+    
+    if not article.preprocessing or not article.preprocessing.main_points or not article.summary_bullets_en:
+        article.preprocessing = preprocessor_service.process(article)
+        article.summary_bullets_en = list(article.preprocessing.main_points)
+        
+    return article.to_nzz_json()
+
 
 @router.get("/{article_id}/read", response_model=ReadResponse, summary="Read article in chosen FlexRead length")
 def read_article_variant(
     article_id: str,
-    mode: ReadingMode = Query(ReadingMode.SIXTY_SECONDS, description="Reading mode: 60s, bullet_points, inline_simplified, full"),
+    mode: Optional[ReadingMode] = Query(None, description="Reading mode: 60s, bullet_points, inline_simplified, full, 5min, 10min, 15min"),
+    target_time_minutes: Optional[str] = Query(None, description="Target reading time: 5, 10, 15, full, or custom minutes"),
     user_id: Optional[str] = Query(None, description="Optional user ID for personalized reading speed and history tracking"),
     force_refresh: bool = Query(False, description="Bypass cache and regenerate with Gemini")
 ):
@@ -101,6 +107,9 @@ def read_article_variant(
     - 60s: 60-second essentials for quick commuting
     - bullet_points: Structured executive takeaways
     - inline_simplified: Simplified paragraphs with inline explanations for social traffic
+    - 5min: 5-minute executive briefing with structured bullets (~1,000 to 1,250 words)
+    - 10min: 10-minute balanced narrative with data metrics and context (~2,000 to 2,500 words)
+    - 15min: 15-minute full deep-dive analysis preserving quotes & perspectives (~3,000 to 3,750 words)
     - full: Original deep-dive article
 
     Guarantees standard output format: Title, summary, and actual content.
@@ -109,6 +118,16 @@ def read_article_variant(
     article = article_ingestion_service.get_article(article_id)
     if not article:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f"Article {article_id} not found")
+
+    # Resolve reading mode
+    resolved_mode = mode
+    if target_time_minutes:
+        try:
+            resolved_mode = ReadingMode(target_time_minutes)
+        except ValueError:
+            pass
+    if not resolved_mode:
+        resolved_mode = ReadingMode.SIXTY_SECONDS
 
     # Determine user-specific reading speed
     wpm = settings.DEFAULT_WPM
@@ -120,15 +139,15 @@ def read_article_variant(
     # Check cache first
     cached_variant = None
     if not force_refresh:
-        cached_variant = cache_service.get_variant(article_id, mode, wpm=wpm)
+        cached_variant = cache_service.get_variant(article_id, resolved_mode, wpm=wpm)
 
     if cached_variant:
         variant = cached_variant
     else:
         # Generate with Gemini (or editorial heuristic fallback)
-        variant = gemini_client_service.generate_variant(article, mode, wpm=wpm)
+        variant = gemini_client_service.generate_variant(article, resolved_mode, wpm=wpm)
         # Store in cache
-        cache_service.set_variant(article_id, mode, variant, wpm=wpm)
+        cache_service.set_variant(article_id, resolved_mode, variant, wpm=wpm)
 
     # Compute time saved relative to original reading time
     original_time = article.preprocessing.reading_time if article.preprocessing else 180
@@ -140,7 +159,7 @@ def read_article_variant(
             user_id=user_id,
             article_id=article.id,
             headline=article.headline,
-            mode_read=mode,
+            mode_read=resolved_mode,
             time_spent_seconds=variant.reading_time_seconds,
             completion_rate=1.0
         )
@@ -155,6 +174,7 @@ def read_article_variant(
         title=variant.title,
         summary=variant.summary,
         actual_content=variant.actual_content,
+        estimated_reading_time_minutes=variant.estimated_reading_time_minutes,
         variant_word_count=variant.word_count,
         variant_reading_time_seconds=variant.reading_time_seconds,
         time_saved_seconds=time_saved,
@@ -197,4 +217,30 @@ def batch_preprocess_from_mongo(
         warm_variants=warm_variants
     )
     return result
+
+
+@router.post("/transform", response_model=TransformRawTextResponse, summary="Transform raw article text into target time budget")
+def transform_raw_text(
+    payload: TransformRawTextRequest,
+    user_id: Optional[str] = Query(None, description="Optional user ID for personalized reading speed")
+):
+    """
+    Transforms arbitrary raw text into a target reading budget:
+    - 5-Minute Mode (5 minutes / 5min): ~1,000 to 1,250 words
+    - 10-Minute Mode (10 minutes / 10min): ~2,000 to 2,500 words
+    - 15-Minute Mode (15 minutes / 15min): ~3,000 to 3,750 words
+    - Full Mode / Full Article (full): Returns original text unaltered, estimated reading time at 200 wpm.
+    """
+    wpm = settings.DEFAULT_WPM
+    if user_id:
+        user = user_service.get_user(user_id)
+        if user:
+            wpm = user.preferences.reading_speed_wpm
+
+    result = gemini_client_service.transform_raw_text(
+        raw_text=payload.raw_text,
+        target_time_minutes=payload.target_time_minutes,
+        wpm=wpm
+    )
+    return TransformRawTextResponse(**result)
 

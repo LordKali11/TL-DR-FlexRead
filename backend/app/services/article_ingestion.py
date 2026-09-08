@@ -117,20 +117,43 @@ class ArticleIngestionService:
                 preprocessing = preprocessor_service.process(temp_article)
 
             article = Article(
-                id=clean_id,
-                source_path=doc.get("source_path", ""),
+                nzz_id=doc.get("nzz_id") or (f"ld.{clean_id[2:]}" if clean_id.startswith("ld") else f"ld.{clean_id}"),
+                document_id=doc.get("document_id") if doc.get("document_id") is not None else clean_id,
+                url=doc.get("url"),
+                language=doc.get("language", "en"),
+                machine_translated_from_de=doc.get("machine_translated_from_de", True),
+                section=section,
+                ressort_path=doc.get("ressort_path") or (section.lower().replace(" ", "-") if section else ""),
+                genre_flag=doc.get("genre_flag") or "",
+                layout=doc.get("layout") or "regular",
+                published_at=doc.get("published_at") or date,
+                last_updated=doc.get("last_updated") or doc.get("published_at") or date,
                 headline=headline,
                 lead=lead,
-                section=section,
+                author_line=doc.get("author_line") or author,
+                authors=doc.get("authors") if isinstance(doc.get("authors"), list) else ([author] if author else []),
+                reading_time_seconds=preprocessing.reading_time,
+                word_count=preprocessing.word_count,
+                character_count=doc.get("character_count") or len(raw_content or ""),
+                seo_title=doc.get("seo_title") or headline,
+                social_title=doc.get("social_title") or headline,
+                print_title=doc.get("print_title") or headline,
+                print_subtitle=doc.get("print_subtitle") or lead,
+                summary_bullets_en=doc.get("summary_bullets_en") or list(preprocessing.main_points),
+                key_questions_de=doc.get("key_questions_de") or [],
+                tags=doc.get("tags") or list(preprocessing.keywords),
+                sections_tag=doc.get("sections_tag") or section,
+                teaser_image=teaser_image,
+                original_de=doc.get("original_de") or {"headline": headline, "lead": lead, "kicker": None},
+                body=doc.get("body") or [],
+                body_text=doc.get("body_text") or raw_content,
+                id=clean_id,
+                source_path=doc.get("source_path", ""),
                 date=date,
                 author=author,
-                url=doc.get("url"),
                 image_url=image_url,
                 image_caption=image_caption,
                 raw_content=raw_content,
-                language=doc.get("language", "en"),
-                word_count=preprocessing.word_count,
-                reading_time_seconds=preprocessing.reading_time,
                 reading_time_minutes=preprocessing.reading_time_minutes,
                 article_length=preprocessing.article_length,
                 tone=preprocessing.tone,
@@ -196,11 +219,15 @@ class ArticleIngestionService:
     def ingest_all(self, force_reload: bool = False) -> Tuple[int, int, List[str]]:
         """
         Public ingestion interface called during startup and via /api/articles/ingest.
-        Directly queries the remote MongoDB database.
+        Directly queries the remote MongoDB database. If empty, seeds from input directory.
         """
         if self._articles_cache and not force_reload:
             return len(self._articles_cache), len(self._articles_cache), []
-        return self.ingest_from_mongodb()
+        found, indexed, errors = self.ingest_from_mongodb()
+        if indexed == 0 and self.input_dir and self.input_dir.exists():
+            f_disk, i_disk, e_disk = self.ingest_from_disk()
+            return f_disk, i_disk, errors + e_disk
+        return found, indexed, errors
 
     def get_article(self, article_id: str) -> Optional[Article]:
         """
@@ -263,17 +290,56 @@ class ArticleIngestionService:
         paginated = articles[offset : offset + limit]
         return paginated, total
 
-    # --------------------------------------------------------------------------
-    # Deprecated: Local Disk Path Scanning (Kept for historical reference only)
-    # --------------------------------------------------------------------------
+    def ingest_from_disk(self) -> Tuple[int, int, List[str]]:
+        """
+        Scans local disk folders in self.input_dir (e.g. days and longform subdirectories).
+        Parses JSON and MD files, seeds them into MongoDB, and populates the local cache.
+        """
+        target_dirs: List[Path] = []
+        if self.input_dir and self.input_dir.exists():
+            for sub in ("days", "longform"):
+                d = self.input_dir / sub
+                if d.exists():
+                    target_dirs.append(d)
+            if not target_dirs:
+                target_dirs.append(self.input_dir)
 
-    def ingest_from_disk_deprecated(self) -> Tuple[int, int, List[str]]:
-        """
-        DEPRECATED: Scans local disk folders (/home/lord_kali/.../input).
-        This method is deprecated in favor of ingest_from_mongodb() and should not be used in production.
-        """
-        logger.warning("ingest_from_disk_deprecated() invoked. Please use ingest_from_mongodb().")
-        return 0, 0, ["Disk ingestion is deprecated. Use MongoDB source of truth."]
+        articles_found = 0
+        articles_indexed = 0
+        errors: List[str] = []
+
+        import json
+        for directory in target_dirs:
+            for jf in sorted(directory.glob("*.json")):
+                articles_found += 1
+                try:
+                    with open(jf, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    clean_id = self.extract_id_from_path(jf)
+                    data["id"] = clean_id
+                    data["source_path"] = str(jf)
+                    
+                    if not data.get("body_text") and not data.get("raw_content"):
+                        md_sibling = jf.with_suffix(".md")
+                        if md_sibling.exists():
+                            with open(md_sibling, "r", encoding="utf-8") as mf:
+                                data["raw_content"] = mf.read().strip()
+
+                    article = self.doc_to_article(data)
+                    if article:
+                        self._articles_cache[article.id] = article
+                        try:
+                            self.db.save_article(article.model_dump())
+                        except Exception as save_err:
+                            logger.debug(f"Notice saving seeded article to MongoDB: {save_err}")
+                        articles_indexed += 1
+                    else:
+                        errors.append(f"Failed to parse {jf.name}")
+                except Exception as e:
+                    errors.append(f"Error reading {jf.name}: {e}")
+
+        logger.info(f"Disk ingestion seeded {articles_indexed}/{articles_found} articles into cache and MongoDB.")
+        return articles_found, articles_indexed, errors
 
 # Global singleton instance
 article_ingestion_service = ArticleIngestionService()

@@ -43,32 +43,59 @@ class PreprocessingService:
         if not doc:
             raise ValueError(f"Article with id '{article_id}' not found in MongoDB")
 
-        # Convert to Article domain model
-        raw_content = doc.get("raw_content") or doc.get("body_text", "")
-        if not raw_content and isinstance(doc.get("body"), list):
-            parts = []
-            for item in doc.get("body", []):
-                if isinstance(item, dict) and item.get("text"):
-                    parts.append(item["text"])
-            raw_content = "\n\n".join(parts)
+        # Convert to Article domain model using Ingestion Service (populating all 30 NZZ schema attributes)
+        try:
+            from .article_ingestion import article_ingestion_service
+            article = article_ingestion_service.doc_to_article(doc)
+        except Exception:
+            article = None
 
-        authors = doc.get("authors")
-        if isinstance(authors, list) and authors:
-            author = ", ".join(authors)
-        else:
-            author = doc.get("author_line") or doc.get("author")
+        if not article:
+            # Fallback initialization ensuring all NZZ keys are present
+            raw_id = doc.get("id") or doc.get("nzz_id") or doc.get("_id") or article_id
+            clean_id = str(raw_id).replace(".", "").lower()
+            raw_content = doc.get("body_text") or doc.get("raw_content") or ""
+            if not raw_content and isinstance(doc.get("body"), list):
+                parts = [item.get("text", "") for item in doc.get("body", []) if isinstance(item, dict) and item.get("text")]
+                raw_content = "\n\n".join(parts)
 
-        article = Article(
-            id=doc["id"],
-            source_path=doc.get("source_path", ""),
-            headline=doc.get("headline", "Untitled"),
-            lead=doc.get("lead", ""),
-            section=doc.get("section", "General"),
-            raw_content=raw_content,
-            date=doc.get("date") or doc.get("published_at"),
-            author=author,
-            preprocessing=ArticlePreprocessing()
-        )
+            author = doc.get("author_line") or doc.get("author") or ""
+            article = Article(
+                nzz_id=doc.get("nzz_id") or (f"ld.{clean_id[2:]}" if clean_id.startswith("ld") else f"ld.{clean_id}"),
+                document_id=doc.get("document_id") if doc.get("document_id") is not None else clean_id,
+                url=doc.get("url"),
+                language=doc.get("language", "en"),
+                machine_translated_from_de=doc.get("machine_translated_from_de", True),
+                section=doc.get("section", "General"),
+                ressort_path=doc.get("ressort_path"),
+                genre_flag=doc.get("genre_flag", ""),
+                layout=doc.get("layout", "regular"),
+                published_at=doc.get("published_at") or doc.get("date"),
+                last_updated=doc.get("last_updated") or doc.get("published_at") or doc.get("date"),
+                headline=doc.get("headline", "Untitled"),
+                lead=doc.get("lead", ""),
+                author_line=author,
+                authors=doc.get("authors") if isinstance(doc.get("authors"), list) else ([author] if author else []),
+                character_count=doc.get("character_count") or len(raw_content),
+                seo_title=doc.get("seo_title") or doc.get("headline", "Untitled"),
+                social_title=doc.get("social_title") or doc.get("headline", "Untitled"),
+                print_title=doc.get("print_title") or doc.get("headline", "Untitled"),
+                print_subtitle=doc.get("print_subtitle") or doc.get("lead", ""),
+                summary_bullets_en=doc.get("summary_bullets_en") or [],
+                key_questions_de=doc.get("key_questions_de") or [],
+                tags=doc.get("tags") or [],
+                sections_tag=doc.get("sections_tag") or doc.get("section", "General"),
+                teaser_image=doc.get("teaser_image"),
+                original_de=doc.get("original_de") or {"headline": doc.get("headline", ""), "lead": doc.get("lead", ""), "kicker": None},
+                body=doc.get("body") or [],
+                body_text=doc.get("body_text") or raw_content,
+                id=clean_id,
+                source_path=doc.get("source_path", ""),
+                date=doc.get("date") or doc.get("published_at"),
+                author=author,
+                raw_content=raw_content,
+                preprocessing=ArticlePreprocessing()
+            )
 
         # 2. Apply Pre-processing Logic
         prep_result = self.preprocessor.process(article, wpm=wpm)
@@ -79,32 +106,43 @@ class PreprocessingService:
         article.article_length = prep_result.article_length
         article.tone = prep_result.tone
 
+        # Summary bullets in exact NZZ format:
+        article.summary_bullets_en = list(prep_result.main_points)
+        if not article.tags:
+            article.tags = list(prep_result.keywords)
+
         # 3. Persist Pre-processing Results back into MongoDB
         prep_dict = prep_result.model_dump()
         self.db.update_article_preprocessing(article.id, prep_dict)
 
-        # Also update root-level convenience fields in MongoDB
+        # Update root-level NZZ fields in MongoDB (summary_bullets_en, word_count, etc.)
         col = self.db.get_collection("articles")
         col.update_one(
-            {"id": article.id},
+            {
+                "$or": [
+                    {"id": article.id},
+                    {"nzz_id": article.nzz_id},
+                    {"_id": article.nzz_id},
+                    {"_id": article.id}
+                ]
+            },
             {
                 "$set": {
+                    "summary_bullets_en": article.summary_bullets_en,
                     "word_count": article.word_count,
                     "reading_time_seconds": article.reading_time_seconds,
                     "reading_time_minutes": article.reading_time_minutes,
                     "article_length": article.article_length.value,
-                    "tone": article.tone.value
+                    "tone": article.tone.value,
+                    "tags": article.tags,
+                    "preprocessing": prep_dict
                 }
             }
         )
 
         # 4. Populate Redis Ultra-Fast Cache Layer
-        updated_doc = self.db.get_article(article.id)
-        self.cache.cache_preprocessed_article(updated_doc)
-
         cached_modes = []
         if warm_variants:
-            # Pre-compute and store all reading modes in Redis for instant delivery
             modes = [
                 ReadingMode.SIXTY_SECONDS,
                 ReadingMode.BULLET_POINTS,
@@ -116,24 +154,20 @@ class PreprocessingService:
                 self.cache.set_variant(article.id, mode, variant, wpm)
                 cached_modes.append(mode.value)
 
+        # Generate output dictionary matching input/days/2026-08-25/articles/*.json schema
+        nzz_response = article.to_nzz_json()
+        nzz_response["redis_cache_populated"] = True
+        nzz_response["warmed_modes"] = cached_modes
+
+        self.cache.cache_preprocessed_article(nzz_response)
+
         logger.info(
             f"Preprocessed article '{article.id}' from MongoDB. "
-            f"Words: {article.word_count}, Tone: {article.tone.value}. "
-            f"Populated Redis with {len(cached_modes)} modes."
+            f"Summary bullets: {len(article.summary_bullets_en)}, Words: {article.word_count}, "
+            f"Tone: {article.tone.value}. Populated Redis with {len(cached_modes)} modes."
         )
 
-        return {
-            "article_id": article.id,
-            "headline": article.headline,
-            "preprocessing": prep_dict,
-            "word_count": article.word_count,
-            "reading_time_seconds": article.reading_time_seconds,
-            "reading_time_minutes": article.reading_time_minutes,
-            "article_length": article.article_length.value,
-            "tone": article.tone.value,
-            "redis_cache_populated": True,
-            "warmed_modes": cached_modes
-        }
+        return nzz_response
 
     def process_unprocessed_from_mongo(
         self,
