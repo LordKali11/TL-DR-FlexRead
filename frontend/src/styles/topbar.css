@@ -1,0 +1,73 @@
+/* Header & TopBar */
+/* ==========================================================================
+   Header & Topbar
+   ========================================================================== */
+.nzz-topbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid var(--nzz-border-color);
+  font-size: 0.8125rem;
+  color: var(--nzz-medium-gray);
+  padding: 0.65rem 1.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 40;
+}
+
+.topbar-container {
+  max-width: 1240px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.topbar-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.meta-divider {
+  color: var(--nzz-light-gray);
+}
+
+.back-link {
+  color: var(--nzz-dark-gray);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 500;
+  transition: color var(--transition-fast);
+}
+
+.back-link:hover {
+  color: var(--nzz-red);
+}
+
+
+/* TopBar Dashboard Bridge */
+/* TopBar Dashboard Bridge Button */
+.btn-topbar-dashboard {
+  background: var(--nzz-black);
+  color: #ffffff;
+  border: 1px solid var(--nzz-black);
+  font-size: 0.78125rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.btn-topbar-dashboard:hover {
+  background-color: var(--nzz-red);
+  border-color: var(--nzz-red);
+}
+

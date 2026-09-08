@@ -1,0 +1,130 @@
+/* Left Editorial Panel & Swiss Value Proposition */
+/* ==========================================================================
+   Left Editorial Panel
+   ========================================================================== */
+.editorial-panel {
+  padding: 1rem 0;
+}
+
+.edition-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  color: var(--nzz-red);
+  margin-bottom: 1.25rem;
+}
+
+.badge-dot {
+  width: 7px;
+  height: 7px;
+  background-color: var(--nzz-red);
+  border-radius: 50%;
+}
+
+.editorial-headline {
+  font-family: var(--font-serif);
+  font-size: 2.5rem;
+  line-height: 1.18;
+  font-weight: 600;
+  color: var(--nzz-black);
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.015em;
+}
+
+.editorial-lead {
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  color: #424240;
+  margin-bottom: 2rem;
+  max-width: 520px;
+}
+
+/* Benefits Card */
+.benefits-card {
+  background-color: #ffffff;
+  border: 1px solid var(--nzz-border-color);
+  padding: 1.75rem;
+  border-radius: var(--radius-sm);
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow-subtle);
+}
+
+.benefits-title {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--nzz-black);
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--nzz-light-gray);
+  padding-bottom: 0.75rem;
+}
+
+.benefits-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.benefits-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.875rem;
+}
+
+.benefit-icon {
+  color: var(--nzz-red);
+  flex-shrink: 0;
+  margin-top: 0.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.benefit-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.benefit-text strong {
+  font-size: 0.9375rem;
+  color: var(--nzz-black);
+  font-weight: 600;
+}
+
+.benefit-text span {
+  font-size: 0.8125rem;
+  color: var(--nzz-medium-gray);
+  line-height: 1.45;
+}
+
+/* Editorial Quote */
+.editorial-quote {
+  border-left: 3px solid var(--nzz-red);
+  padding-left: 1.25rem;
+  margin-top: 1.5rem;
+  font-family: var(--font-serif);
+  font-style: italic;
+  color: #333332;
+}
+
+.editorial-quote p {
+  font-size: 1.0625rem;
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.editorial-quote cite {
+  font-family: var(--font-sans);
+  font-style: normal;
+  font-size: 0.75rem;
+  color: var(--nzz-medium-gray);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+

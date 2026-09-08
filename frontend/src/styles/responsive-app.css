@@ -1,0 +1,146 @@
+
+/* Reader & Dashboard Responsive Queries */
+/* ==========================================================================
+   Responsive Adaptations for Dashboard & Reader View
+   ========================================================================== */
+
+@media (max-width: 1024px) {
+  .article-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 840px) {
+  .dashboard-header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.85rem;
+  }
+
+  .header-right {
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+  }
+
+  .dashboard-metrics-bar {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .metric-sep {
+    display: none;
+  }
+
+  .tier-selector-group {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-bar-inner {
+    flex-wrap: wrap;
+    gap: 0.65rem;
+  }
+
+  .reader-center-meta {
+    order: 3;
+    width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  .dashboard-header-inner {
+    padding: 0.75rem 1rem;
+    gap: 0.75rem;
+  }
+
+  .header-left {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+    width: 100%;
+  }
+
+  .header-divider {
+    display: none;
+  }
+
+  .nzz-brand-svg {
+    max-width: 140px;
+  }
+
+  .header-edition-info {
+    font-size: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .header-right {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.6rem;
+    width: 100%;
+  }
+
+  .stats-pill, .sync-pill {
+    font-size: 0.75rem;
+    padding: 0.3rem 0.65rem;
+    justify-content: center;
+  }
+
+  .user-profile-badge {
+    width: 100%;
+    padding: 0.35rem 0.75rem;
+  }
+
+  .header-actions {
+    display: flex;
+    width: 100%;
+    gap: 0.5rem;
+  }
+
+  .header-actions .btn-header-secondary {
+    flex: 2;
+    text-align: center;
+    padding: 0.45rem;
+  }
+
+  .header-actions .btn-header-signout {
+    flex: 1;
+    text-align: center;
+    padding: 0.45rem;
+    border: 1px solid var(--nzz-border-color);
+  }
+
+  .dashboard-content {
+    padding: 1.5rem 1rem 3rem;
+  }
+
+  .hero-title {
+    font-size: 1.75rem;
+  }
+
+  .article-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-layout-container {
+    padding: 1.5rem 1rem 4rem;
+  }
+
+  .article-headline-block .article-title {
+    font-size: 1.75rem;
+  }
+
+  .completion-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .btn-mark-complete, .btn-return-grid {
+    width: 100%;
+    text-align: center;
+  }
+}
+

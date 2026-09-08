@@ -1,0 +1,504 @@
+/* Intelligent Reader, Controls Deck, Argument Layers & Paragraphs */
+/* ==========================================================================
+   Flex Read Dynamic Reader View Styles
+   ========================================================================== */
+
+.flex-reader-page {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Sticky Top Navigation & Reading Controls Bar */
+.reader-sticky-bar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.98);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--nzz-border-color);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.reader-bar-inner {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.btn-back-grid {
+  background: transparent;
+  border: 1px solid var(--nzz-border-color);
+  color: var(--nzz-black);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 0.4rem 0.85rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: all var(--transition-fast);
+}
+
+.btn-back-grid:hover {
+  background: #f5f5f2;
+  border-color: #a0a09b;
+}
+
+.reader-center-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8125rem;
+}
+
+.reader-article-kicker {
+  color: var(--nzz-red);
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+.reader-dot {
+  color: var(--nzz-border-color);
+}
+
+.reader-time-readout {
+  color: var(--nzz-medium-gray);
+  font-weight: 500;
+}
+
+.reader-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.btn-audio-toggle {
+  background: #f7f7f5;
+  border: 1px solid var(--nzz-border-color);
+  color: var(--nzz-black);
+  font-size: 0.78125rem;
+  font-weight: 600;
+  padding: 0.4rem 0.85rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.btn-audio-toggle:hover {
+  background: #efefe9;
+}
+
+.btn-audio-toggle.playing {
+  background: #fef2f2;
+  color: var(--nzz-red);
+  border-color: #fca5a5;
+}
+
+.reader-voice-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: #fdf6ec;
+  border: 1px solid #fed7aa;
+  color: #9a3412;
+  font-size: 0.71875rem;
+  font-weight: 600;
+  padding: 0.35rem 0.7rem;
+  border-radius: 9999px;
+}
+
+.badge-swiss-cross {
+  font-size: 0.85rem;
+}
+
+/* Reader Layout Container */
+.reader-layout-container {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 5rem;
+  width: 100%;
+}
+
+/* Dynamic Control Deck */
+.dynamic-control-deck {
+  margin-bottom: 3rem;
+}
+
+.control-deck-card {
+  background: #fafaf8;
+  border: 1px solid var(--nzz-border-color);
+  border-radius: var(--radius-md);
+  padding: 1.75rem;
+  box-shadow: var(--shadow-subtle);
+}
+
+.deck-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.deck-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+}
+
+.deck-step {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--nzz-black);
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.deck-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--nzz-black);
+  line-height: 1.2;
+}
+
+.deck-caption {
+  font-size: 0.8125rem;
+  color: var(--nzz-medium-gray);
+  margin-top: 0.2rem;
+}
+
+.deck-divider {
+  height: 1px;
+  background-color: #e5e5e0;
+  margin: 1.5rem 0;
+}
+
+/* 1. Tier Selector Group */
+.tier-selector-group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.85rem;
+}
+
+.tier-btn {
+  background: #ffffff;
+  border: 1px solid var(--nzz-border-color);
+  border-radius: var(--radius-sm);
+  padding: 0.85rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-align: left;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.tier-btn:hover {
+  border-color: #9e9e97;
+  background-color: #fdfdfc;
+}
+
+.tier-btn.active {
+  border: 2px solid var(--nzz-black);
+  background-color: #ffffff;
+  box-shadow: none;
+}
+
+.tier-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+.tier-labels {
+  display: flex;
+  flex-direction: column;
+}
+
+.tier-name {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--nzz-black);
+}
+
+.tier-duration {
+  font-size: 0.75rem;
+  color: var(--nzz-medium-gray);
+  margin-top: 0.15rem;
+}
+
+.tier-description-callout {
+  background: #ffffff;
+  border-left: 3px solid var(--nzz-black);
+  padding: 0.75rem 1rem;
+  font-size: 0.8125rem;
+  color: #333331;
+  border-radius: 0 var(--radius-xs) var(--radius-xs) 0;
+}
+
+/* 2. Semantic Layer Toggle Pills */
+.layer-toggle-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.layer-pill {
+  background: #ffffff;
+  border: 1px solid var(--nzz-border-color);
+  border-radius: 2px;
+  padding: 0.45rem 0.95rem;
+  font-size: 0.78125rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  color: var(--nzz-dark-gray);
+  transition: all var(--transition-fast);
+}
+
+.layer-pill:hover {
+  border-color: var(--nzz-black);
+  color: var(--nzz-black);
+}
+
+.layer-pill.selected {
+  background: var(--nzz-black);
+  color: #ffffff;
+}
+
+/* ==========================================================================
+   Sleek Broadsheet Reading Depth Toolbar & Argument Focus Drawer
+   High-elegance Swiss editorial controls embedded below the byline
+   ========================================================================== */
+
+.nzz-reading-depth-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  margin: 1.5rem 0 2rem;
+  border-top: 1px solid #e5e5e0;
+  border-bottom: 1px solid #e5e5e0;
+  background: #fdfdfc;
+  border-radius: 4px;
+}
+
+.depth-bar-left {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.depth-bar-label {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #777777;
+}
+
+.depth-bar-pills {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.depth-pill-btn {
+  background: #ffffff;
+  border: 1px solid #d5d5d0;
+  border-radius: 3px;
+  padding: 0.35rem 0.7rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  cursor: pointer;
+  transition: all 0.18s ease;
+  font-family: 'Inter', sans-serif;
+}
+
+.depth-pill-btn:hover {
+  background: #f7f6f2;
+  border-color: #111111;
+}
+
+.depth-pill-btn.active {
+  background: #111111;
+  border-color: #111111;
+  color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+}
+
+.depth-pill-time {
+  font-size: 0.71875rem;
+  font-weight: 700;
+  color: #a01a1e;
+  background: #fdf2f2;
+  padding: 0.1rem 0.35rem;
+  border-radius: 2px;
+}
+
+.depth-pill-btn.active .depth-pill-time {
+  background: #a01a1e;
+  color: #ffffff;
+}
+
+.depth-pill-title {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #222222;
+}
+
+.depth-pill-btn.active .depth-pill-title {
+  color: #ffffff;
+}
+
+.depth-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btn-filter-layers-toggle {
+  background: transparent;
+  border: 1px solid #dcdcd6;
+  border-radius: 3px;
+  padding: 0.35rem 0.65rem;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #555555;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all 0.18s ease;
+}
+
+.btn-filter-layers-toggle:hover,
+.btn-filter-layers-toggle.active {
+  background: #ffffff;
+  border-color: #111111;
+  color: #111111;
+}
+
+.filter-layers-chevron {
+  font-size: 0.625rem;
+  color: #888888;
+}
+
+/* Layer / Argument Focus Pills Drawer */
+.layer-pills-drawer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  padding: 0.85rem 1rem;
+  margin: -1.25rem 0 1.75rem;
+  background: #f7f7f4;
+  border: 1px solid #e2e2dc;
+  border-radius: 4px;
+  animation: drawerSlideDown 0.2s ease-out forwards;
+}
+
+.drawer-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #e8e8e2;
+  padding-bottom: 0.35rem;
+}
+
+.drawer-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  color: #555550;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.drawer-caption {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.6875rem;
+  color: #777770;
+}
+
+.argument-pills-list {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.argument-focus-pill {
+  background: #ffffff;
+  border: 1px solid #d4d4cd;
+  border-radius: 3px;
+  padding: 0.35rem 0.65rem;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #333330;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: all 0.15s ease;
+}
+
+.argument-focus-pill:hover {
+  border-color: #111111;
+  background: #ffffff;
+  color: #111111;
+}
+
+.argument-focus-pill.active {
+  background: #111111;
+  border-color: #111111;
+  color: #ffffff;
+}
+
+.argument-pill-tag {
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #c51a1a;
+  background: rgba(197, 26, 26, 0.08);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
+
+.argument-focus-pill.active .argument-pill-tag {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.argument-pill-count {
+  font-size: 0.6875rem;
+  opacity: 0.7;
+}
+
+@keyframes drawerSlideDown {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+

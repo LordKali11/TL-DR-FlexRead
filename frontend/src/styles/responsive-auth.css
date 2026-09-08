@@ -1,0 +1,344 @@
+/* Media Queries & Responsive Adaptations */
+/* ==========================================================================
+   Responsive Breakpoints: Desktop, Tablet & Mobile
+   ========================================================================== */
+
+/* Tablets & Small Laptops (<= 992px) */
+@media (max-width: 992px) {
+  .page-wrapper {
+    display: block;
+    width: 100%;
+    padding: 1.5rem 1rem 3rem;
+  }
+
+  .content-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    width: 100%;
+    max-width: 540px;
+    margin: 0 auto;
+  }
+
+  /* Show authentication card FIRST so mobile/tablet users can sign in immediately */
+  .auth-panel {
+    order: 1;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .editorial-panel {
+    order: 2;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--nzz-border-color);
+  }
+
+  .editorial-headline {
+    font-size: 2.2rem;
+  }
+
+  .editorial-lead {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .benefits-card {
+    text-align: left;
+  }
+
+  .editorial-quote {
+    text-align: left;
+  }
+
+  .auth-card {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
+/* Mobile Devices (<= 640px) */
+@media (max-width: 640px) {
+  .nzz-topbar {
+    padding: 0.625rem 1rem;
+  }
+
+  .topbar-container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+  }
+
+  .topbar-meta {
+    font-size: 0.75rem;
+  }
+
+  .back-link {
+    font-size: 0.75rem;
+    padding: 0.25rem 0;
+    flex-shrink: 0;
+  }
+
+  .page-wrapper {
+    display: block;
+    width: 100%;
+    padding: 1rem 0.75rem 2.5rem;
+  }
+
+  .content-grid {
+    width: 100%;
+    max-width: 100%;
+    gap: 2rem;
+  }
+
+  .auth-panel {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .editorial-panel {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .editorial-badge {
+    font-size: 0.6875rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .editorial-headline {
+    font-size: 1.65rem;
+    line-height: 1.25;
+    margin-bottom: 0.75rem;
+  }
+
+  .editorial-lead {
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+  }
+
+  .benefits-card {
+    padding: 1.25rem 1rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .benefits-title {
+    font-size: 1rem;
+  }
+
+  .benefit-icon {
+    width: 24px;
+    height: 24px;
+  }
+
+  .benefit-text strong {
+    font-size: 0.8125rem;
+  }
+
+  .benefit-text span {
+    font-size: 0.75rem;
+  }
+
+  .editorial-quote {
+    padding-left: 1rem;
+    margin-top: 1rem;
+  }
+
+  .editorial-quote p {
+    font-size: 0.9375rem;
+  }
+
+  /* Auth Card Mobile Optimizations */
+  .auth-card {
+    width: 100%;
+    max-width: 100%;
+    padding: 1.5rem 1rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .brand-header {
+    margin-bottom: 1.25rem;
+  }
+
+  .nzz-logo {
+    height: 32px;
+    width: 170px;
+  }
+
+  .brand-subline {
+    font-size: 0.875rem;
+  }
+
+  .tab-group {
+    margin-bottom: 1.25rem;
+  }
+
+  .tab-btn {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.875rem;
+    min-height: 44px; /* Minimum accessible touch target */
+  }
+
+  .demo-bar {
+    padding: 0.5rem 0.625rem;
+    font-size: 0.75rem;
+    gap: 0.5rem;
+  }
+
+  .btn-demo {
+    padding: 0.35rem 0.6rem;
+    font-size: 0.75rem;
+  }
+
+  .form-group {
+    margin-bottom: 1rem;
+  }
+
+  .form-label {
+    font-size: 0.8125rem;
+  }
+
+  /* Prevent auto-zoom on iOS Safari */
+  .form-input {
+    font-size: 16px !important;
+    padding: 0.75rem 0.75rem;
+    min-height: 44px;
+  }
+
+  .input-wrapper .form-input {
+    padding-right: 2.75rem;
+  }
+
+  .field-icon,
+  .password-toggle-btn {
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .name-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .consent-block {
+    margin: 1.25rem 0;
+  }
+
+  .custom-checkbox {
+    min-height: 44px;
+    align-items: flex-start;
+  }
+
+  .checkbox-indicator {
+    width: 18px;
+    height: 18px;
+    margin-top: 2px;
+  }
+
+  .checkbox-text {
+    font-size: 0.8125rem;
+    line-height: 1.45;
+  }
+
+  .btn-primary {
+    padding: 0.85rem 1rem;
+    font-size: 0.9375rem;
+    min-height: 48px; /* Comfortable mobile thumb tap */
+  }
+
+  .btn-secondary {
+    padding: 0.75rem 0.85rem;
+    font-size: 0.8125rem;
+    min-height: 44px;
+  }
+
+  .social-button-grid {
+    grid-template-columns: 1fr;
+    gap: 0.625rem;
+  }
+
+  .btn-social {
+    padding: 0.75rem 0.85rem;
+    font-size: 0.8125rem;
+    min-height: 44px;
+    justify-content: center;
+  }
+
+  /* Modal on Mobile */
+  .modal-overlay {
+    padding: 1rem;
+    align-items: center;
+  }
+
+  .modal-card {
+    padding: 1.25rem 1rem;
+    max-width: 100%;
+    border-radius: var(--radius-sm);
+  }
+
+  .modal-title {
+    font-size: 1.2rem;
+  }
+
+  .modal-actions {
+    flex-direction: column-reverse;
+    gap: 0.5rem;
+  }
+
+  .modal-actions .btn-secondary,
+  .modal-actions .btn-primary {
+    width: 100%;
+    min-height: 44px;
+  }
+
+  /* Footer on Mobile */
+  .nzz-footer {
+    padding: 1.25rem 1rem 2rem;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.875rem;
+  }
+
+  .footer-nav {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+/* Very Small Mobile Screens (<= 360px) */
+@media (max-width: 360px) {
+  .page-wrapper {
+    padding: 0.75rem 0.5rem 2rem;
+  }
+
+  .auth-card {
+    padding: 1.25rem 0.75rem;
+  }
+
+  .tab-btn {
+    font-size: 0.8125rem;
+  }
+
+  .editorial-headline {
+    font-size: 1.45rem;
+  }
+
+  .topbar-container {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+}
+

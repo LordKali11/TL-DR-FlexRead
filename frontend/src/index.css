@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Neue Zürcher Zeitung (NZZ) - Modular Editorial Stylesheet
+   Swiss Typographic & Editorial Design System
+   All sub-modules strictly kept under 400 lines
+   ========================================================================== */
+
+@import './styles/variables.css';
+@import './styles/base.css';
+@import './styles/topbar.css';
+@import './styles/editorial-panel.css';
+@import './styles/auth-card.css';
+@import './styles/auth-forms.css';
+@import './styles/dashboard-hero.css';
+@import './styles/dashboard-grid.css';
+@import './styles/reader-deck.css';
+@import './styles/reader-content.css';
+@import './styles/read-more.css';
+@import './styles/floating-bubble.css';
+@import './styles/nzz-transition.css';
+@import './styles/toast-modal.css';
+@import './styles/responsive-auth.css';
+@import './styles/responsive-app.css';

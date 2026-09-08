@@ -1,0 +1,45 @@
+/* ==========================================================================
+   Neue Zürcher Zeitung (NZZ) - React Editorial Stylesheet
+   Swiss Typographic & Editorial Design System
+   ========================================================================== */
+
+:root {
+  /* Brand Core Colors */
+  --nzz-black: #111111;
+  --nzz-dark-gray: #2b2b2a;
+  --nzz-medium-gray: #6e6e6c;
+  --nzz-light-gray: #e2e2df;
+  --nzz-border-color: #d6d6d2;
+  --nzz-background: #f8f8f6;
+  --nzz-card-bg: #ffffff;
+  
+  /* Signature NZZ Accent Red */
+  --nzz-red: #a01a1e;
+  --nzz-red-hover: #831417;
+  --nzz-red-light: #fbeeed;
+
+  /* Status Colors */
+  --nzz-success: #1b7a43;
+  --nzz-success-light: #eaf6ef;
+  --nzz-warning: #c26900;
+  --nzz-warning-light: #fff8eb;
+  --nzz-error: #c91a1a;
+  --nzz-error-light: #fef0f0;
+
+  /* Typography */
+  --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  /* Shadows & Radius */
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.05), 0 10px 25px rgba(0, 0, 0, 0.03);
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-elevated: 0 12px 32px rgba(0, 0, 0, 0.12);
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+}
+

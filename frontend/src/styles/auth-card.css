@@ -1,0 +1,254 @@
+/* Authentication Cards & Form Controls */
+/* ==========================================================================
+   Right Authentication Card
+   ========================================================================== */
+.auth-panel {
+  display: flex;
+  justify-content: center;
+}
+
+.auth-card {
+  background: var(--nzz-card-bg);
+  border: 1px solid var(--nzz-border-color);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-card);
+  width: 100%;
+  max-width: 480px;
+  padding: 2.25rem;
+  position: relative;
+}
+
+.brand-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.nzz-logo {
+  height: 38px;
+  width: 210px;
+  max-width: 100%;
+  display: inline-block;
+  object-fit: contain;
+  vertical-align: middle;
+  padding: 0 4px;
+}
+
+.brand-subline {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--nzz-medium-gray);
+  margin-top: 0.35rem;
+}
+
+/* Tab Switcher */
+.tab-group {
+  display: flex;
+  border-bottom: 2px solid var(--nzz-light-gray);
+  margin-bottom: 1.5rem;
+}
+
+.tab-btn {
+  flex: 1;
+  background: none;
+  border: none;
+  padding: 0.75rem 0.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--nzz-medium-gray);
+  cursor: pointer;
+  position: relative;
+  transition: color var(--transition-fast);
+  outline: none;
+}
+
+.tab-btn:hover {
+  color: var(--nzz-black);
+}
+
+.tab-btn.active {
+  color: var(--nzz-black);
+}
+
+.tab-btn.active::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: var(--nzz-red);
+}
+
+/* Demo Data Quick Bar */
+.demo-bar {
+  background-color: var(--nzz-background);
+  border: 1px dashed var(--nzz-border-color);
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-xs);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--nzz-medium-gray);
+  margin-bottom: 1.5rem;
+}
+
+.btn-demo {
+  background: #ffffff;
+  border: 1px solid var(--nzz-border-color);
+  border-radius: var(--radius-xs);
+  padding: 0.25rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--nzz-black);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.btn-demo:hover {
+  background-color: var(--nzz-red-light);
+  border-color: var(--nzz-red);
+  color: var(--nzz-red);
+}
+
+/* ==========================================================================
+   Form Controls
+   ========================================================================== */
+.form-group {
+  margin-bottom: 1.25rem;
+  text-align: left;
+}
+
+.label-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.35rem;
+}
+
+.form-label {
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--nzz-black);
+  margin-bottom: 0.35rem;
+}
+
+.required-mark {
+  color: var(--nzz-red);
+  margin-left: 0.15rem;
+}
+
+.field-hint {
+  font-size: 0.75rem;
+  color: var(--nzz-medium-gray);
+}
+
+.input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.75rem 0.875rem;
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  color: var(--nzz-black);
+  background-color: #ffffff;
+  border: 1px solid var(--nzz-border-color);
+  border-radius: var(--radius-xs);
+  transition:
+    border-color var(--transition-fast),
+    box-shadow var(--transition-fast);
+  outline: none;
+}
+
+.input-wrapper .form-input {
+  padding-right: 2.75rem;
+}
+
+.form-input:focus {
+  border-color: var(--nzz-black);
+  box-shadow: 0 0 0 1px var(--nzz-black);
+}
+
+.form-input.has-error {
+  border-color: var(--nzz-error);
+  background-color: var(--nzz-error-light);
+}
+
+.form-input.has-error:focus {
+  box-shadow: 0 0 0 1px var(--nzz-error);
+}
+
+.field-icon {
+  position: absolute;
+  right: 0.875rem;
+  color: var(--nzz-medium-gray);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+}
+
+.password-toggle-btn {
+  position: absolute;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  padding: 0.35rem;
+  color: var(--nzz-medium-gray);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-xs);
+  transition: color var(--transition-fast);
+}
+
+.password-toggle-btn:hover {
+  color: var(--nzz-black);
+}
+
+.error-feedback {
+  font-size: 0.75rem;
+  color: var(--nzz-error);
+  margin-top: 0.35rem;
+  display: none;
+}
+
+.error-feedback.visible {
+  display: block;
+}
+
+.inline-link {
+  background: none;
+  border: none;
+  color: var(--nzz-red);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0;
+  transition: color var(--transition-fast);
+}
+
+.inline-link:hover {
+  color: var(--nzz-red-hover);
+  text-decoration: underline;
+}
+
+/* Radio Pill Group (Salutation) */
+.radio-pill-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.radio-pill {
+  flex: 1;
+}

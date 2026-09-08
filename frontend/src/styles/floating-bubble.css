@@ -1,0 +1,387 @@
+/* floating-bubble.css - Floating Reading Depth Bubble & Interactive Toggling */
+
+.floating-depth-bubble-wrapper {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  z-index: 1500;
+  font-family: var(--font-sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
+}
+
+/* Floating Action Trigger Button */
+.floating-depth-bubble-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #111111;
+  color: #ffffff;
+  padding: 10px 18px;
+  border-radius: 9999px;
+  border: 1.5px solid #a01a1e;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.24);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: -0.01em;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 0.2s ease,
+              border-color 0.2s ease;
+  user-select: none;
+}
+
+.floating-depth-bubble-button:hover {
+  background-color: #1a1a1a;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(160, 26, 30, 0.32);
+}
+
+.floating-depth-bubble-button:active {
+  transform: translateY(0);
+}
+
+.floating-depth-bubble-button.is-active {
+  background-color: #a01a1e;
+  border-color: #ffffff;
+  box-shadow: 0 8px 26px rgba(160, 26, 30, 0.45);
+}
+
+.bubble-btn-icon {
+  font-size: 1rem;
+}
+
+.bubble-btn-time {
+  font-weight: 700;
+  color: #fcfbf9;
+}
+
+.bubble-btn-divider {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.bubble-btn-label {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.bubble-btn-arrow {
+  color: #e5b4b6;
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-left: 2px;
+}
+
+.floating-depth-bubble-button.is-active .bubble-btn-arrow {
+  color: #ffffff;
+}
+
+/* Floating Popover Drawer */
+.depth-bubble-popover {
+  position: absolute;
+  bottom: calc(100% + 14px);
+  right: 0;
+  width: 400px;
+  max-width: calc(100vw - 36px);
+  max-height: 80vh;
+  overflow-y: auto;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.22);
+  padding: 22px;
+  animation: bubbleSlideUp 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-sizing: border-box;
+}
+
+@keyframes bubbleSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Popover Header */
+.bubble-popover-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.bubble-kicker {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #a01a1e;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+
+.bubble-title {
+  font-family: var(--font-serif, "Newsreader", Georgia, serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111111;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.btn-bubble-close {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  color: #666666;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 4px;
+  line-height: 1;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.btn-bubble-close:hover {
+  background-color: #f3f2ee;
+  color: #111111;
+}
+
+/* Current Reading Status Pill */
+.bubble-current-tier-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: #fbf8f5;
+  border: 1px solid #ebd8d8;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin: 14px 0;
+}
+
+.current-tier-dot {
+  color: #a01a1e;
+  font-size: 0.85rem;
+}
+
+.current-tier-text {
+  flex: 1;
+}
+
+.current-tier-label {
+  display: block;
+  font-size: 0.72rem;
+  color: #666666;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 1px;
+}
+
+.current-tier-name {
+  display: block;
+  font-size: 0.95rem;
+  color: #111111;
+  font-weight: 700;
+}
+
+.current-tier-badge {
+  background-color: #a01a1e;
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 9999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Options Section */
+.bubble-options-section {
+  margin-bottom: 16px;
+}
+
+.bubble-section-label {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 10px;
+}
+
+.bubble-section-label span:first-child {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #222222;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.bubble-section-note {
+  font-size: 0.72rem;
+  color: #777777;
+}
+
+.bubble-tier-options-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Alternative Depth Cards */
+.bubble-alt-tier-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  text-align: left;
+  background-color: #faf9f7;
+  border: 1px solid #e5e2dc;
+  border-radius: 8px;
+  padding: 12px 14px;
+  cursor: pointer;
+  transition: background-color 0.15s ease,
+              border-color 0.15s ease,
+              box-shadow 0.15s ease,
+              transform 0.15s ease;
+  box-sizing: border-box;
+}
+
+.bubble-alt-tier-card:hover {
+  background-color: #ffffff;
+  border-color: #a01a1e;
+  box-shadow: 0 4px 14px rgba(160, 26, 30, 0.12);
+  transform: translateY(-1px);
+}
+
+.alt-tier-left {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  flex: 1;
+}
+
+.alt-tier-time-pill {
+  background-color: #111111;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.8rem;
+  padding: 4px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.alt-tier-info {
+  flex: 1;
+}
+
+.alt-tier-name-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.alt-tier-name {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #111111;
+}
+
+.alt-tier-delta {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #a01a1e;
+  background-color: rgba(160, 26, 30, 0.08);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.alt-tier-desc {
+  font-size: 0.76rem;
+  color: #666666;
+  margin: 4px 0 0 0;
+  line-height: 1.35;
+}
+
+.alt-tier-arrow {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #a01a1e;
+  white-space: nowrap;
+  margin-left: 10px;
+}
+
+/* Next Stories Section */
+.bubble-next-stories-section {
+  padding-top: 14px;
+  border-top: 1px dashed #dddddd;
+}
+
+.bubble-next-stories-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.bubble-next-story-item {
+  background-color: #faf9f7;
+  border: 1px solid #e8e6e1;
+  border-radius: 6px;
+  padding: 9px 11px;
+}
+
+.bubble-next-story-title {
+  font-family: var(--font-serif, "Newsreader", Georgia, serif);
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: #222222;
+  margin-bottom: 6px;
+  line-height: 1.25;
+}
+
+.bubble-next-story-actions {
+  display: flex;
+  gap: 6px;
+}
+
+.btn-bubble-quick-tier {
+  flex: 1;
+  font-size: 0.72rem;
+  padding: 5px 6px;
+  border: 1px solid #d5d1cb;
+  background-color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  color: #333333;
+  transition: all 0.15s ease;
+}
+
+.btn-bubble-quick-tier strong {
+  color: #a01a1e;
+}
+
+.btn-bubble-quick-tier:hover {
+  background-color: #111111;
+  color: #ffffff;
+  border-color: #111111;
+}
+
+.btn-bubble-quick-tier:hover strong {
+  color: #ffffff;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .floating-depth-bubble-wrapper {
+    bottom: 16px;
+    right: 16px;
+  }
+  .depth-bubble-popover {
+    width: calc(100vw - 32px);
+    right: 0;
+    bottom: calc(100% + 10px);
+    max-height: 75vh;
+  }
+}

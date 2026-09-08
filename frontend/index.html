@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="NZZ Flex Read – Intelligent Dynamic Journalism with Agentic Depth Calibration">
+  <title>NZZ Flex Read – Neue Zürcher Zeitung</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,600&display=swap" rel="stylesheet">
+  
+  <!-- Modular Stylesheets -->
+  <link rel="stylesheet" href="src/index.css">
+  <link rel="stylesheet" href="src/styles/reader-deck.css">
+  <link rel="stylesheet" href="src/styles/reader-content.css">
+  <link rel="stylesheet" href="src/styles/read-more.css">
+  <link rel="stylesheet" href="src/styles/floating-bubble.css">
+  <link rel="stylesheet" href="src/styles/nzz-transition.css">
+  
+  <!-- React 18 & In-Browser Babel Compiler -->
+  <script src="vendor/react.js"></script>
+  <script src="vendor/react-dom.js"></script>
+  <script src="vendor/babel.min.js"></script>
+  <!-- Inline Preloader Styles for Zero-Latency Instant Rendering -->
+  <style id="nzz-preloader-css">
+    .nzz-press-loader {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #f4f3ef;
+      padding: 1.5rem;
+      font-family: 'Newsreader', 'Times New Roman', serif;
+      perspective: 1200px;
+    }
+    .press-sheet-card {
+      position: relative;
+      width: 100%;
+      max-width: 440px;
+      background: #fbfaf7;
+      color: #111111;
+      border: 1px solid #222222;
+      box-shadow:
+        0 24px 50px rgba(0, 0, 0, 0.12),
+        0 4px 16px rgba(0, 0, 0, 0.06),
+        0 0 0 5px #fbfaf7,
+        0 0 0 6px #111111;
+      padding: 1.5rem 1.6rem 1.25rem;
+      border-radius: 1px;
+      animation: pressFloat 3s ease-in-out infinite alternate;
+      overflow: hidden;
+    }
+    .press-sheet-crease {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      width: 2px;
+      background: linear-gradient(to right, rgba(0, 0, 0, 0.07), rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.07));
+      pointer-events: none;
+      z-index: 5;
+    }
+    .press-sheet-header {
+      border-bottom: 2px solid #111111;
+      padding-bottom: 0.5rem;
+      margin-bottom: 0.85rem;
+      text-align: center;
+    }
+    .press-sheet-topmeta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: 0.5625rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #666666;
+      border-bottom: 1px solid #ddddda;
+      padding-bottom: 0.25rem;
+      margin-bottom: 0.45rem;
+    }
+    .press-sheet-edition {
+      color: #c51a1a;
+      background: rgba(197, 26, 26, 0.08);
+      padding: 1px 6px;
+      border-radius: 2px;
+    }
+    .press-sheet-masthead {
+      padding: 0.35rem 0;
+      display: flex;
+      justify-content: center;
+    }
+    .press-sheet-logo {
+      height: 28px;
+      width: auto;
+      max-width: 82%;
+      display: block;
+    }
+    .press-sheet-submeta {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: 0.59375rem;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: #777775;
+      margin-top: 0.25rem;
+    }
+    .press-sheet-plate {
+      margin-bottom: 1rem;
+      padding: 0.25rem 0;
+    }
+    .press-headline-bar {
+      height: 14px;
+      background: #222220;
+      width: 90%;
+      margin: 0 auto 0.4rem;
+      border-radius: 1px;
+    }
+    .press-kicker-bar {
+      height: 6px;
+      background: #c51a1a;
+      width: 38%;
+      margin: 0 auto 0.85rem;
+      border-radius: 1px;
+    }
+    .press-columns-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+    .press-col {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    .press-line {
+      height: 5px;
+      background: linear-gradient(90deg, #ddddd8 0%, #bbbbb4 50%, #ddddd8 100%);
+      background-size: 200% 100%;
+      border-radius: 1px;
+      animation: inkShimmer 1.8s infinite ease-in-out;
+    }
+    .line-100 { width: 100%; }
+    .line-95  { width: 95%; }
+    .line-90  { width: 90%; }
+    .line-85  { width: 85%; }
+    .line-80  { width: 80%; }
+    .line-75  { width: 75%; }
+    .line-70  { width: 70%; }
+    .press-status-strip {
+      background: #f4f3ef;
+      border: 1px solid #e5e5df;
+      border-radius: 2px;
+      padding: 0.65rem 0.85rem;
+      text-align: center;
+    }
+    .press-status-msg {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.45rem;
+      margin-bottom: 0.45rem;
+    }
+    .press-pulse-bead {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #c51a1a;
+      box-shadow: 0 0 0 2px rgba(197, 26, 26, 0.2);
+      animation: pressPulse 1.4s infinite;
+    }
+    .press-status-title {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: 0.71875rem;
+      font-weight: 600;
+      color: #222222;
+      letter-spacing: 0.02em;
+    }
+    .press-meter-track {
+      width: 100%;
+      height: 3px;
+      background: #e2e1dc;
+      border-radius: 2px;
+      overflow: hidden;
+      margin-bottom: 0.4rem;
+    }
+    .press-meter-bar {
+      width: 40%;
+      height: 100%;
+      background: #c51a1a;
+      border-radius: 2px;
+      animation: pressProgress 2s infinite ease-in-out;
+    }
+    .press-status-legend {
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: 0.625rem;
+      color: #777775;
+      letter-spacing: 0.05em;
+      font-weight: 500;
+    }
+    .press-seal-badge {
+      position: absolute;
+      bottom: 12px;
+      right: 14px;
+      font-family: 'Inter', -apple-system, sans-serif;
+      font-size: 0.5rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      color: #c51a1a;
+      border: 1px solid #c51a1a;
+      padding: 1px 4px;
+      transform: rotate(-4deg);
+      opacity: 0.75;
+    }
+    @keyframes pressFloat {
+      0% { transform: translateY(0px) rotateX(1deg); }
+      100% { transform: translateY(-4px) rotateX(0deg); }
+    }
+    @keyframes pressPulse {
+      0%, 100% { opacity: 0.6; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+    @keyframes pressProgress {
+      0% { transform: translateX(-100%); }
+      50% { transform: translateX(120%); }
+      100% { transform: translateX(300%); }
+    }
+    @keyframes inkShimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+  </style>
+</head>
+<body>
+  <div id="root">
+    <div class="nzz-press-loader" role="status" aria-label="Loading NZZ Flex Read">
+      <div class="press-sheet-card">
+        <div class="press-sheet-crease"></div>
+        
+        <header class="press-sheet-header">
+          <div class="press-sheet-topmeta">
+            <span>SEIT 1780 · ZÜRICH</span>
+            <span class="press-sheet-edition">SONDERAUSGABE</span>
+            <span>INTELLIGENTE REDAKTION</span>
+          </div>
+          <div class="press-sheet-masthead">
+            <img src="assets/nzz-logo.svg" alt="Neue Zürcher Zeitung" class="press-sheet-logo" />
+          </div>
+          <div class="press-sheet-submeta">
+            FLEX READ · AGENTISCHE TIEFEN-KALIBRIERUNG
+          </div>
+        </header>
+
+        <div class="press-sheet-plate">
+          <div class="press-headline-bar"></div>
+          <div class="press-kicker-bar"></div>
+          
+          <div class="press-columns-grid">
+            <div class="press-col">
+              <div class="press-line line-100"></div>
+              <div class="press-line line-85"></div>
+              <div class="press-line line-95"></div>
+              <div class="press-line line-70"></div>
+            </div>
+            <div class="press-col">
+              <div class="press-line line-90"></div>
+              <div class="press-line line-100"></div>
+              <div class="press-line line-75"></div>
+              <div class="press-line line-80"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="press-status-strip">
+          <div class="press-status-msg">
+            <span class="press-pulse-bead"></span>
+            <span class="press-status-title">Redaktionelle Lesestufen werden kalibriert...</span>
+          </div>
+          <div class="press-meter-track">
+            <div class="press-meter-bar"></div>
+          </div>
+          <div class="press-status-legend">
+            <span>3m Briefing</span> · <span>7m Analyse</span> · <span>18m Vollversion</span>
+          </div>
+        </div>
+
+        <div class="press-seal-badge">
+          <span>ORIGINAL NZZ</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modular Data & React Components (Each strictly under 400 lines) -->
+  <script type="text/babel" src="scripts/data/mockArticles.js"></script>
+  <script type="text/babel" src="scripts/components/Toast.js"></script>
+  <script type="text/babel" src="scripts/components/TopBar.js"></script>
+  <script type="text/babel" src="scripts/components/EditorialPanel.js"></script>
+  <script type="text/babel" src="scripts/components/PasswordStrengthMeter.js"></script>
+  <script type="text/babel" src="scripts/components/LoginForm.js"></script>
+  <script type="text/babel" src="scripts/components/RegisterForm.js"></script>
+  <script type="text/babel" src="scripts/components/ForgotPasswordModal.js"></script>
+  <script type="text/babel" src="scripts/components/AuthCard.js"></script>
+  <script type="text/babel" src="scripts/components/DashboardTopBar.js"></script>
+  <script type="text/babel" src="scripts/components/ArticleCard.js"></script>
+  <script type="text/babel" src="scripts/components/ArticleGrid.js"></script>
+  <script type="text/babel" src="scripts/components/ReadMoreDecisionHub.js"></script>
+  <script type="text/babel" src="scripts/components/FloatingDepthBubble.js"></script>
+  <script type="text/babel" src="scripts/components/NzzTransitionOverlay.js"></script>
+  <script type="text/babel" src="scripts/components/FlexReaderView.js"></script>
+  <script type="text/babel" src="scripts/components/Footer.js"></script>
+  <script type="text/babel" src="scripts/App.js"></script>
+</body>
+</html>
