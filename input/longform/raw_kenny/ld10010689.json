@@ -1,0 +1,2175 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jqoc747n0",
+   "content": {
+    "title": "SpaceX prepares for the biggest IPO in history: the 10 most important questions and answers",
+    "lead": "SpaceX, the aerospace company, is going public, fueling euphoria in the technology sector. Investors are hoping for rising share prices, but the IPO carries risks.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jqoc747n1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Michael Ferber",
+       "url": "/impressum/michael-ferber-ld.1085430",
+       "teaserImage": {
+        "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4547,
+        "height": 3032,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "4547,2558,x0,y432"
+         },
+         {
+          "name": "1:1",
+          "crop": "2396,2396,x938,y397"
+         },
+         {
+          "name": "4:3",
+          "crop": "4043,3032,x252,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2274,3032,x1137,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jqoeh3730",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Malin Hunziker",
+       "url": "/impressum/malin-hunziker-ld.1910790",
+       "teaserImage": {
+        "originalUrl": "/2025/11/10/555761e2-e23d-428d-873b-927deb05ee80.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/10/555761e2-e23d-428d-873b-927deb05ee80.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "6000,3375,x0,y313"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x333,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1500,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jqp8cpih0",
+   "content": {
+    "image": {
+     "author": "Steve Nesius / Reuters",
+     "caption": "A SpaceX Starship rocket on its way to the launch pad for a test flight last August.",
+     "originalUrl": "/2026/06/10/e286c549-550c-4da6-b7e7-3d955475c52d.jpg?crop=6048,4024,x0,y0",
+     "width": 6048,
+     "height": 4024,
+     "altText": "A SpaceX Starship spacecraft rolls out toward its launch pad past the Starbase Manufacturing Facility before its 10th test flight from the company's complex in Starbase, Texas, US, August 23, 2025. REUTERS/Steve Nesius TPX IMAGES OF THE DAY",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2173471966"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6048,
+      "height": 4024,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6048,
+       "height": 4024,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A SpaceX Starship rocket on its way to the launch pad for a test flight last August.",
+    "author": "Steve Nesius / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqk0",
+   "content": {
+    "text": "It is a debut of superlatives: SpaceX goes public on Friday. The company operates in the fields of space travel, satellites and artificial intelligence (AI) and is controlled by Elon Musk. The transaction could raise around $75 billion for SpaceX."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-7d57c03a",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiql0",
+   "content": {
+    "text": "This would make the IPO the largest in the world to date. The current record holder is the 2019 Initial Public Offering (IPO) of the oil company Saudi Aramco, which raised $29.4 billion."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqm0",
+   "content": {
+    "text": "The total value of SpaceX would subsequently be around $1.8 trillion. With the SpaceX IPO, only about 5% of the company's shares will be freely tradable. The company is offering 555.6 million shares at a fixed price of $135 per share. SpaceX is set to be traded on the Nasdaq technology exchange under the ticker symbol «SPCX». These are the most important questions and answers about the IPO."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqm1",
+   "content": {
+    "title": "1. What does SpaceX consist of?",
+    "id": "subtitle-1-was-geh-rt-alles-zu-spacex"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqn0",
+   "content": {
+    "text": "SpaceX is a type of conglomerate, a diversified group of companies. Some are successful, others less so. On the one hand, the company includes the rocket division, which was the first to successfully send rockets into space, land parts of them back on Earth under control, and reuse them."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqp22gbq1",
+   "content": {
+    "text": "In February of this year, SpaceX also acquired Elon Musk's AI company xAI for $250 billion, which includes the social network X, formerly Twitter. In addition, there is the Connectivity division with its Starlink satellite network. This brings satellite internet to the most remote corners of the world. It is the only profitable division – the rest are operating at a loss."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jqovmhnf0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "93cc90db5ec9eff5aefa6008b8738cc8",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_93cc90db5ec9eff5aefa6008b8738cc8_q872780068e4b40a0a0219a881940c39e_container\"        data-q-item-id=\"93cc90db5ec9eff5aefa6008b8738cc8\"        data-q-request-id=\"4c46c45a97c6f20513937a87c1b10b6cf9ef7fcf\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"93cc90db5ec9eff5aefa6008b8738cc8\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"93cc90db5ec9eff5aefa6008b8738cc8\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"4c46c45a97c6f20513937a87c1b10b6cf9ef7fcf\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_93cc90db5ec9eff5aefa6008b8738cc8_q872780068e4b40a0a0219a881940c39e_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"93cc90db5ec9eff5aefa6008b8738cc8\",\"allowDownloadData\":false,\"title\":\"Big ambitions, small yield\",\"subtitle\":\"Key figures at SpaceX (in billion dollars)\",\"publication\":\"nzz\",\"acronym\":\"\",\"data\":[[null,\"Sales volume\",\"Profit/Loss\"],[\"2024\",\"14\",\"0.8\"],[\"2025\",\"18.7\",\"-4.9\"]],\"sources\":[{\"text\":\"SpaceX\",\"link\":{\"url\":\"https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Bar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"year\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"updatedDate\":\"2026-06-11T06:13:44.386Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_93cc90db5ec9eff5aefa6008b8738cc8_q872780068e4b40a0a0219a881940c39e\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqoe9i6k1",
+   "content": {
+    "text": "Investment experts at Liechtenstein's VP Bank commented that instead of a homogeneous business model, SpaceX combines several segments with very different revenue models. They noted that in the past, the largest U.S. technology companies had compelling business models that required little capital and generated high margins. Now, they said, the focus in the sector is shifting «from stable cash flows to uncertain future expectations.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "alias-teaser-embed"
+  },
+  {
+   "identifier": "alias-teaser-embed",
+   "id": "doc-1jqqnh2na0",
+   "content": {
+    "title": "Newsletter «Quantensprung»",
+    "owner": "NZZ",
+    "teaserImage": {
+     "originalUrl": "/2025/09/24/6d6f028d-9ebc-437e-8da2-9a868eff9a8f.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/09/24/6d6f028d-9ebc-437e-8da2-9a868eff9a8f.png?width=1024&quality=75&auto=webp",
+     "width": 2100,
+     "height": 2100,
+     "crops": [
+      {
+       "name": "web-teaser",
+       "crop": "2100,1181,x0,y458"
+      },
+      {
+       "name": "1:1",
+       "crop": "2100,2100,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2100,1575,x0,y262"
+      },
+      {
+       "name": "3:4",
+       "crop": "1575,2100,x263,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2100,1400,x0,y370"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "We examine ideas that could truly make a difference – and how they can become reality. Every Friday, our science editors discuss visionary research and its impact on the world – as a podcast and newsletter.",
+     "teaserAuthor": "Lena Waltle"
+    },
+    "teaserAuthor": "Lena Waltle",
+    "urlAliasTeaser": "https://abo.nzz.ch/benutzerkonto/newsletter/NQUA/",
+    "urlLabel": "Subscribe now for free",
+    "nzzId": "ld.1903943",
+    "product": "NZZ.ch",
+    "documentId": 1903943,
+    "layout": "alias-teaser",
+    "publicationDate": "2025-09-24T11:07:22.915Z",
+    "publicationLastUpdated": "2026-03-25T16:43:26.537Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-09-24T23:07:22.915Z",
+    "teaserCaption": "We examine ideas that could truly make a difference – and how they can become reality. Every Friday, our science editors discuss visionary research and its impact on the world – as a podcast and newsletter.",
+    "url": "https://abo.nzz.ch/benutzerkonto/newsletter/NQUA/",
+    "department": {},
+    "leadText": "We examine ideas that could truly make a difference – and how they can become reality. Every Friday, our science editors discuss visionary research and its impact on the world – as a podcast and newsletter."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqo0",
+   "content": {
+    "text": "SpaceX is a prime example of this, the bank's experts said. They see the Starlink satellite internet business as the group's only predictable pillar. The space business, with its rocket launches, is structurally weaker and capital-intensive, they added. Regarding future projects – namely the rocket systems and AI data centers – they noted that high investments would be met with long development cycles and uncertain monetization."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "alias-teaser-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqp0",
+   "content": {
+    "title": "2. How should SpaceX's high valuation be interpreted?",
+    "id": "subtitle-2-wie-ist-die-hohe-bewertung-von-spacex-einzuordnen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqoejkim0",
+   "content": {
+    "text": "SpaceX generated $18.7 billion in revenue and a loss of $4.9 billion last year. In this context, the expected valuation of around $1.8 trillion is extremely high. For comparison, companies in the S&P 500 stock index were valued at roughly three times their annual revenue at the end of 2025 – SpaceX's estimated valuation would be equivalent to 100 times the company's annual revenue."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqom8pfi1",
+   "content": {
+    "text": "Investors in SpaceX should be aware that they are buying into a big bet. It could pay off – or it might not."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqom5adc1",
+   "content": {
+    "text": "In its <a href=\"https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\">prospectus,</a> SpaceX states astronomically high goals: Among other things, the company wants to produce systems and technologies to make life interplanetary and «carry the light of consciousness to the stars.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqol4iri0",
+   "content": {
+    "text": "First, a lunar base is to be established, and then Mars is to be colonized. Data centers are also planned for space, which could be used to train and operate artificial intelligence. SpaceX intends to use its rockets for transport into space, while its Starlink division will supply the necessary satellites."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqolo9o30",
+   "content": {
+    "text": "The company sees future markets in areas such as space tourism, space freight, industrial production in space or «asteroid mining» – the extraction of metals such as nickel, cobalt or rare earth elements from minor planets."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqq0",
+   "content": {
+    "title": "3. How much control will Elon Musk exercise?",
+    "id": "subtitle-3-wie-viel-kontrolle-wird-elon-musk-aus-ben"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocvgef0",
+   "content": {
+    "text": "SpaceX has two different share classes. Investors in Class A shares receive one vote per share, while those in Class B shares receive 10 votes per share. Since Elon Musk will receive almost 94% of the Class B shares, he will hold a particularly large amount of voting power and can thereby effectively control the company."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqojr2890",
+   "content": {
+    "text": "This raises the question of how independently SpaceX can operate. Musk has interwoven many of his companies. For example, xAI's AI is also used for Tesla, and for the past year, xAI has also included the social network X, formerly Twitter. <a href=\"https://www.nzz.ch/wirtschaft/elon-der-allmaechtige-musk-plant-offenbar-eine-fusion-von-tesla-und-spacex-ld.10008823\">Analysts suspect</a> that Musk could be aiming for a merger of Tesla and SpaceX. This dense corporate web poses a concentration risk, and Musk's consolidation of power could lead to conflicts of interest."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqojrru60",
+   "content": {
+    "title": "4. How rich will Elon Musk become through the IPO?",
+    "id": "subtitle-4-wie-reich-wird-elon-musk-durch-den-b-rsengang"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqojrtm50",
+   "content": {
+    "text": "Musk's stake in SpaceX, based on the targeted offering price of $135 per share, is likely to be worth approximately $866 billion. Since he also holds Tesla shares worth about $350 billion, this could make Musk the world's first dollar trillionaire."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqoreai10",
+   "content": {
+    "text": "However, over 1 billion of the SpaceX shares issued to Musk are tied to performance targets and subject to a lock-up period: The prospectus states that Musk will receive 1 billion performance-based Class B shares if SpaceX achieves certain market capitalization goals and can establish «a permanent human colony on Mars with at least one million inhabitants.» He will receive a further 302 million shares if, in addition to meeting market value targets, he has completed data centers in space that deliver 100 terawatts of computing power per year."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqq1",
+   "content": {
+    "title": "5. What opportunities does the SpaceX IPO offer investors?",
+    "id": "subtitle-5-welche-chancen-bietet-der-b-rsengang-von-spacex-f-r-anleger"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqr0",
+   "content": {
+    "text": "According to a report by the Reuters news agency on Tuesday, investor demand for SpaceX shares had already reached $250 billion."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqr1",
+   "content": {
+    "text": "The IPOs of major U.S. technology companies are currently a dominant theme on the stock market. Other tech firms are poised for their own IPOs, including the AI companies Anthropic and OpenAI. The SpaceX IPO could become a litmus test of whether the market can absorb several mega-IPOs within a short period, according to VP Bank."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqopdnt90",
+   "content": {
+    "text": "If SpaceX's IPO is a success, it could boost sentiment on the stock market and open the door to further IPOs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqs0",
+   "content": {
+    "title": "6. What risks do investors face when investing in SpaceX?",
+    "id": "subtitle-6-welche-risiken-gehen-anleger-bei-einer-investition-in-spacex-ein"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqs1",
+   "content": {
+    "text": "Meanwhile, the IPO evokes unpleasant memories of the dot-com bubble of the late 1990s. Investment experts at asset manager Feri commented that companies like SpaceX are currently using the environment «to raise capital on the market at ambitious valuations.» They noted that during the New Economy boom, the mega-IPOs of that era had been harbingers of the bursting of the dot-com bubble."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqod98ro1",
+   "content": {
+    "text": "If the currently planned IPOs take place at the expected valuations, these companies would face the threat of disappointing returns in the medium term, Feri added."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqod9g6r1",
+   "content": {
+    "text": "Representatives of the financial institution Bantleon, however, pointed out that the technology and communication sectors now account for almost 50% of the S&P 500, the U.S. blue-chip index. During the dot-com bubble, they noted, the corresponding figure had been «only» 40%. They added that this is undoubtedly a risk factor in the medium term and that even slight doubts about the AI bet could lead to noticeable price declines on the stock markets."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqod9s241",
+   "content": {
+    "text": "The environment for IPOs is generally favorable when there is a positive mood on the stock market, or ideally even a certain degree of euphoria. However, due to the cyclical nature of the stock market, this can be a poor entry point for investors."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqt0",
+   "content": {
+    "title": "7. How can private investors invest in SpaceX?",
+    "id": "subtitle-7-wie-k-nnen-privatanleger-in-spacex-investieren"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqod16st0",
+   "content": {
+    "text": "It is primarily U.S. investment banks that are taking SpaceX public. Swiss or German private investors are generally not clients of these companies. Therefore, it is difficult to participate directly in the IPO."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqoq9ib90",
+   "content": {
+    "text": "After the IPO, private investors can buy SpaceX shares on the stock exchange. However, they should be aware of the risks of such an investment. Tax implications should also be considered."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqt1",
+   "content": {
+    "title": "8. What impact will the IPO have on the major stock market indices?",
+    "id": "subtitle-8-welche-auswirkungen-hat-der-b-rsengang-auf-die-g-ngigen-b-rsenindizes"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqu0",
+   "content": {
+    "text": "Normally, stocks are only included in stock indices after a certain period following their initial public offering (IPO). The index providers aim to monitor the performance of the respective company. The exact timeframes and methodology for inclusion depend on the index regulations of the different providers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqor4m0v1",
+   "content": {
+    "text": "According to investment experts at VP Bank, major index providers have announced they will relax their rules to ensure faster inclusion of SpaceX shares. S&P, however, will reportedly not include SpaceX until at least 12 months after its IPO, forgoing an accelerated index adjustment. Consequently, the path to the S&P 500 benchmark U.S. stock market index could be somewhat longer for SpaceX and the other U.S. tech companies going public."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqocqiqu1",
+   "content": {
+    "text": "The shares are also likely to appear in several global stock indices soon. According to an analysis by the consulting firm PPCmetrics, SpaceX shares are expected to be included in the relevant benchmarks of index provider MSCI. These include, for example, the MSCI World and MSCI ACWI global stock indices, and the U.S. benchmark MSCI USA. Large Swiss investors primarily use MSCI indices to track the performance of global stocks."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqodadsp1",
+   "content": {
+    "text": "According to PPCmetrics, the MSCI indices do not take into account the total enterprise value of SpaceX, but only the free float – that is, the shares traded on the stock exchange."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqof7nhh0",
+   "content": {
+    "title": "9. What does inclusion in the indices mean for investors?",
+    "id": "subtitle-9-was-bedeutet-die-aufnahme-in-die-indizes-f-r-anleger"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqodaj5k1",
+   "content": {
+    "text": "The impact on passive investors – those invested in index funds and ETFs – is manageable for now. SpaceX is expected to represent less than 0.13% of the major MSCI indices at the time of its IPO, according to estimates by PPCmetrics. Musk's company is therefore unlikely to be among the 100 largest companies in the MSCI World stock index. The consulting firm thus sees no need for action on the part of investors whose portfolios are based on MSCI indices."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqodan721",
+   "content": {
+    "text": "However, that would only reflect the situation at the time of the IPO. This could change if Musk later releases more SpaceX shares into the free float or if the company's stock price rises significantly."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqp4l1dh0",
+   "content": {
+    "text": "Meanwhile, strong demand for SpaceX shares from index funds and exchange-traded funds (ETFs) could drive the stock price higher. According to a Bloomberg report, passive investors could hold around 30% of SpaceX's free-floating shares after 15 trading days."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqocqiqv0",
+   "content": {
+    "title": "10. What does the IPO mean for the economy?",
+    "id": "subtitle-10-was-bedeutet-der-b-rsengang-f-r-die-wirtschaft"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqod1pjn1",
+   "content": {
+    "text": "The prospect of SpaceX launching the largest IPO in history also affects other companies. The IPO is set to absorb a great deal of liquidity on the capital market – capital that will then be unavailable to other firms planning to go public or that are already listed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqopi0il0",
+   "content": {
+    "text": "In addition, after the mega-IPO from SpaceX, two more major IPOs are expected this year from OpenAI and Anthropic. This wave of IPOs among tech firms suggests that private funding for AI investments is gradually becoming scarce, prompting them to turn to the public markets, where retail investors can also participate."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jqoc747n4",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jqoc747n5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jqoc747n6",
+      "content": {
+       "title": "The millionaire machine: the SpaceX IPO is also making tradespeople and engineers rich – and the banks are lying in wait",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/09/5ef15778-8774-4dcd-b816-3c5f75ba0d41.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/09/5ef15778-8774-4dcd-b816-3c5f75ba0d41.jpg?width=1024&quality=75&auto=webp",
+        "width": 4256,
+        "height": 2838,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3869,2176,x219,y50"
+         },
+         {
+          "name": "4:3",
+          "crop": "3784,2838,x111,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2345,2345,x1002,y90"
+         },
+         {
+          "name": "3:4",
+          "crop": "2129,2838,x997,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4256,2837,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In what is likely the largest IPO in history, more private wealth will be created on Friday than ever before. SpaceX employees know just how sought-after they suddenly are.",
+        "teaserAuthor": "Eric Gay / AP"
+       },
+       "teaserAuthor": "Eric Gay / AP",
+       "nzzId": "ld.10010417",
+       "readingTime": 300,
+       "paywallQuestionOne": "How do SpaceX employees benefit from the IPO?",
+       "paywallQuestionTwo": "What role do banks play in the SpaceX IPO?",
+       "paywallQuestionThree": "How does the SpaceX IPO affect asset management?",
+       "characterCount": 7286,
+       "product": "NZZ.ch",
+       "documentId": 10010417,
+       "layout": "regular",
+       "publicationDate": "2026-06-10T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-10T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-10T15:30:00.000Z",
+       "teaserCaption": "In what is likely the largest IPO in history, more private wealth will be created on Friday than ever before. SpaceX employees know just how sought-after they suddenly are.",
+       "authorLine": "André Müller, New York",
+       "authorImage": {
+        "originalUrl": "/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+        "width": 8106,
+        "height": 5404,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1351,
+         "y": 0,
+         "width": 5404,
+         "height": 5404
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/die-millionaersmaschine-der-spacex-boersengang-macht-auch-handwerker-und-ingenieurinnen-reich-und-die-banken-liegen-auf-der-lauer-ld.10010417",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1080,
+       "leadText": "In what is likely the largest IPO in history, more private wealth will be created on Friday than ever before. SpaceX employees know just how sought-after they suddenly are.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jqoc747n7",
+      "content": {
+       "title": "How to invest in SpaceX before its IPO – even on a Sunday morning",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "nzzasFootnote": true,
+       "teaserImage": {
+        "originalUrl": "/2026/06/01/ba5e3753-1320-4125-9ffb-79ac2c2e1898.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/01/ba5e3753-1320-4125-9ffb-79ac2c2e1898.jpg?width=1024&quality=75&auto=webp",
+        "width": 6434,
+        "height": 4290,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6434,3619,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5720,4290,x232,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2930,2930,x1639,y154"
+         },
+         {
+          "name": "3:4",
+          "crop": "3218,4290,x1494,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6434,4289,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Crypto trading platforms like Hyperliquid or Lighter allow investors to participate in the price movements of SpaceX shares.",
+        "teaserAuthor": "Eric Gay / AP"
+       },
+       "teaserAuthor": "Eric Gay / AP",
+       "nzzId": "ld.10010083",
+       "readingTime": 120,
+       "paywallQuestionOne": "How do crypto platforms enable investment in SpaceX before its IPO?",
+       "paywallQuestionTwo": "What risks and mechanisms are associated with perpetual futures?",
+       "paywallQuestionThree": "Why is the funding rate crucial for perpetual futures?",
+       "characterCount": 3003,
+       "product": "NZZ.ch",
+       "documentId": 10010083,
+       "layout": "regular",
+       "publicationDate": "2026-06-07T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-07T18:28:59.346Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-07T15:30:00.000Z",
+       "teaserCaption": "Crypto trading platforms like Hyperliquid or Lighter allow investors to participate in the price movements of SpaceX shares.",
+       "authorLine": "Markus Städeli",
+       "authorImage": {
+        "originalUrl": "/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024&quality=75&auto=webp",
+       "url": "/finanzen/so-kann-man-schon-vor-dem-boersengang-in-spacex-investieren-auch-an-einem-sonntagmorgen-ld.10010083",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 481,
+       "leadText": "Crypto trading platforms like Hyperliquid or Lighter allow investors to participate in the price movements of SpaceX shares.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jqoc747n8",
+      "content": {
+       "owner": "NZZ",
+       "teaserImage": {
+        "originalUrl": "/2026/06/02/cca7933f-b8e0-429c-9c8e-e01a36ce045f.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/02/cca7933f-b8e0-429c-9c8e-e01a36ce045f.jpg?width=1024&quality=75&auto=webp",
+        "width": 2222,
+        "height": 833,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1481,833,x371,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1111,833,x556,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "833,833,x695,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "625,833,x799,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1250,833,x486,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Satellite internet, data centers in space, artificial intelligence, gigantic rockets – Musk is pushing into new business areas. He wants to finance his dream of Mars with the largest IPO in history."
+       },
+       "showHeader": true,
+       "tags": [
+        "Wissenschaft aktuell",
+        "Technologie aktuell",
+        "Wissenschaft Empfehlungen",
+        "Technologie: Empfehlungen"
+       ],
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Podcast «NZZ Quantum Leap»",
+       "showComments": true,
+       "title": "SpaceX: What technologies make Elon Musk's company worth $1.8 trillion?",
+       "nzzId": "ld.10009544",
+       "readingTime": 180,
+       "embeds": {
+        "videos": [
+         {
+          "id": "0TFeMTrn",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "paywallQuestionOne": "How does SpaceX plan to finance its Mars dream with Starlink and Starship?",
+       "paywallQuestionTwo": "What role do data centers in space play in SpaceX's future plans?",
+       "paywallQuestionThree": "Can SpaceX remain competitive in the long term with its AI division xAI?",
+       "characterCount": 3773,
+       "product": "NZZ.ch",
+       "documentId": 10009544,
+       "layout": "regular",
+       "publicationDate": "2026-06-05T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-10T05:53:47.637Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-05T15:30:00.000Z",
+       "teaserCaption": "Satellite internet, data centers in space, artificial intelligence, gigantic rockets – Musk is pushing into new business areas. He wants to finance his dream of Mars with the largest IPO in history.",
+       "authorLine": "Lena Waltle",
+       "authorImage": {
+        "originalUrl": "/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2809,2809,x1693,y209"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/podcast/spacex-ipo-was-macht-musks-firma-18-billionen-dollar-wert-ld.10009544",
+       "department": {
+        "name": "Podcast",
+        "path": "/podcast"
+       },
+       "estimationWordCount": 605,
+       "leadText": "Satellite internet, data centers in space, artificial intelligence, gigantic rockets – Musk is pushing into new business areas. He wants to finance his dream of Mars with the largest IPO in history.",
+       "nzzSummaryIsAuto": true,
+       "teaserPodcastTitle": "SpaceX: The technologies behind Elon Musk's $1.8 trillion company",
+       "teaserPodcastAuthor": "Lena Waltle",
+       "teaserPodcastDate": "5.6.26",
+       "teaserPodcastUrl": "https://audio.podigee-cdn.net/2512592-m-60842b3cd8604d9ace9f5cc9e94082aa.mp3",
+       "teaserPodcastDuration": "24",
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "articlelist"
+  },
+  {
+   "identifier": "articlelist",
+   "id": "doc-1jqp2j6700",
+   "containers": {
+    "articlelist-area": [
+     {
+      "identifier": "article-list-teaser",
+      "id": "doc-1jqp2j6701",
+      "content": {
+       "title": "Elon Musk is aiming for a valuation of $1.8 trillion in SpaceX's IPO – and is once again playing by his own rules",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/04/9a7b0f36-2fc8-498d-91bb-ed72193b48ef.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/04/9a7b0f36-2fc8-498d-91bb-ed72193b48ef.jpg?width=1024&quality=75&auto=webp",
+        "width": 5414,
+        "height": 2896,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5148,2896,x266,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3861,2896,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2896,2896,x1259,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2172,2896,x1621,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4344,2896,x535,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Elon Musk is setting new standards with the SpaceX IPO. But the most spectacular number could ultimately concern his own fortune.",
+        "teaserAuthor": "Steve Nesius / Reuters"
+       },
+       "teaserAuthor": "Steve Nesius / Reuters",
+       "nzzId": "ld.10009810",
+       "readingTime": 240,
+       "paywallQuestionOne": "How does SpaceX justify a valuation of $1.8 trillion despite losses?",
+       "paywallQuestionTwo": "Why is SpaceX setting its own IPO price and breaking with Wall Street rules?",
+       "paywallQuestionThree": "How will Elon Musk secure control of SpaceX after the IPO?",
+       "characterCount": 5550,
+       "product": "NZZ.ch",
+       "documentId": 10009810,
+       "layout": "regular",
+       "publicationDate": "2026-06-04T06:55:17.220Z",
+       "publicationLastUpdated": "2026-06-04T14:45:51.127Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-04T18:55:17.220Z",
+       "teaserCaption": "Elon Musk is setting new standards with the SpaceX IPO. But the most spectacular number could ultimately concern his own fortune.",
+       "authorLine": "Thomas Fuster",
+       "authorImage": {
+        "originalUrl": "/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1976,
+        "height": 2716,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "1976,1976,x0,y370"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/elon-musk-strebt-beim-boersengang-von-spacex-eine-bewertung-von-18-billionen-dollar-an-und-spielt-einmal-mehr-nach-eigenen-regeln-ld.10009810",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 842,
+       "leadText": "Elon Musk is setting new standards with the SpaceX IPO. But the most spectacular number could ultimately concern his own fortune.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "article-list-teaser",
+      "id": "doc-1jqp2j6702",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Podcast «NZZ Akzent»",
+       "title": "The two-trillion-dollar bet: Why the SpaceX IPO is a risk",
+       "teaserImage": {
+        "originalUrl": "/2026/05/28/e6c48fc2-86de-43ba-aa16-21fd926ea131.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/28/e6c48fc2-86de-43ba-aa16-21fd926ea131.jpg?width=1024&quality=75&auto=webp",
+        "width": 3000,
+        "height": 3000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3000,3000,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3000,3000,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3000,3000,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,3000,x0,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3000,3000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "SpaceX, the aerospace company, is going public – founder Elon Musk could become the world's first trillionaire. But the company's valuation is based on future visions."
+       },
+       "showHeader": true,
+       "showComments": true,
+       "paywallQuestionOne": "How do SpaceX losses affect the valuation at the IPO?",
+       "paywallQuestionTwo": "Why is the SpaceX IPO considered a risky bet?",
+       "paywallQuestionThree": "What role do Musk's visions play in the high valuation?",
+       "language": {
+        "locale": "de"
+       },
+       "readingTime": 60,
+       "nzzId": "ld.10008929",
+       "characterCount": 1192,
+       "product": "NZZ.ch",
+       "documentId": 10008929,
+       "layout": "regular",
+       "publicationDate": "2026-06-01T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-01T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-01T15:30:00.000Z",
+       "teaserCaption": "SpaceX, the aerospace company, is going public – founder Elon Musk could become the world's first trillionaire. But the company's valuation is based on future visions.",
+       "authorLine": "Antonia Moser",
+       "authorImage": {
+        "originalUrl": "/2023/06/14/db6f81ad-eed1-4e1b-ba66-0af3cd69924e.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/06/14/db6f81ad-eed1-4e1b-ba66-0af3cd69924e.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/db6f81ad-eed1-4e1b-ba66-0af3cd69924e.png?width=1024&quality=75&auto=webp",
+       "url": "/podcast/die-zwei-billionen-dollar-wette-warum-der-spacex-boersengang-ein-risiko-ist-ld.10008929",
+       "department": {
+        "name": "Podcast",
+        "path": "/podcast"
+       },
+       "estimationWordCount": 196,
+       "leadText": "SpaceX, the aerospace company, is going public – founder Elon Musk could become the world's first trillionaire. But the company's valuation is based on future visions.",
+       "nzzSummaryIsAuto": true,
+       "teaserPodcastTitle": "The two-trillion-dollar bet: Why the SpaceX IPO is a risk",
+       "teaserPodcastAuthor": "Antonia Moser mit Malin Hunziker",
+       "teaserPodcastDate": "01.06.2026",
+       "teaserPodcastUrl": "https://audio.podigee-cdn.net/2507829-m-bdf262b65b19f3b62b7b652e57d2f9c1.mp3",
+       "teaserPodcastDuration": "16",
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "article-list-teaser",
+      "id": "doc-1jqp2j6703",
+      "content": {
+       "title": "Are SpaceX shares attractive? The answer depends entirely on which year after the IPO you buy them",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/23/24a70313-5ff0-4b92-acc0-953f38fec278.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/23/24a70313-5ff0-4b92-acc0-953f38fec278.jpg?width=1024&quality=75&auto=webp",
+        "width": 5131,
+        "height": 3193,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5131,2886,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4257,3193,x363,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1639,1639,x1887,y614"
+         },
+         {
+          "name": "3:4",
+          "crop": "2395,3193,x813,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4790,3193,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Anyone familiar with the performance of Tesla shares knows that the SpaceX share price will also be extremely volatile.",
+        "teaserAuthor": "Steve Nesius / Reuters"
+       },
+       "teaserAuthor": "Steve Nesius / Reuters",
+       "nzzasFootnote": true,
+       "nzzId": "ld.10009177",
+       "readingTime": 180,
+       "paywallQuestionOne": "How does SpaceX's monopoly position affect the attractiveness of its shares?",
+       "paywallQuestionTwo": "What risks does a potential merger of SpaceX and Tesla pose for investors?",
+       "paywallQuestionThree": "Why might SpaceX shares lose significant value after the IPO?",
+       "characterCount": 3119,
+       "product": "NZZ.ch",
+       "documentId": 10009177,
+       "layout": "regular",
+       "publicationDate": "2026-05-31T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-31T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-31T15:30:00.000Z",
+       "teaserCaption": "Anyone familiar with the performance of Tesla shares knows that the SpaceX share price will also be extremely volatile.",
+       "authorLine": "Markus Städeli",
+       "authorImage": {
+        "originalUrl": "/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/sind-spacex-aktien-attraktiv-die-antwort-haengt-ganz-davon-ab-in-welchem-jahr-nach-dem-boersengang-man-sie-kauft-ld.10009177",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 511,
+       "leadText": "Anyone familiar with the performance of Tesla shares knows that the SpaceX share price will also be extremely volatile.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "related-articles-container",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "SpaceX will have the biggest IPO in history: These are the ten most important questions and answers",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/06/10/e286c549-550c-4da6-b7e7-3d955475c52d.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/06/10/e286c549-550c-4da6-b7e7-3d955475c52d.jpg?width=1024&quality=75&auto=webp",
+   "width": 6048,
+   "height": 4024,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6048,3402,x0,y247"
+    },
+    {
+     "name": "4:3",
+     "crop": "5365,4024,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1551,1551,x684,y235"
+    },
+    {
+     "name": "3:4",
+     "crop": "3018,4024,x0,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6036,4024,x6,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "SpaceX, the aerospace company, is going public, fueling euphoria in the technology sector. Investors are hoping for rising share prices, but the IPO carries risks.",
+   "teaserAuthor": "Steve Nesius / Reuters"
+  },
+  "teaserAuthor": "Steve Nesius / Reuters",
+  "nzzId": "ld.10010689",
+  "readingTime": 480,
+  "flag": "Explained",
+  "characterCount": 11464,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10010689,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-06-11T03:30:00.000Z",
+  "publicationDate": "2026-06-11T03:30:00.000Z",
+  "publicationLastUpdated": "2026-06-11T08:08:53.029Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-06-11T15:30:00.000Z",
+  "teaserCaption": "SpaceX, the aerospace company, is going public, fueling euphoria in the technology sector. Investors are hoping for rising share prices, but the IPO carries risks.",
+  "nzzAuthors": [
+   {
+    "id": 1372418,
+    "name": "Michael Ferber",
+    "shortName": "feb",
+    "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+    "external": false
+   },
+   {
+    "id": 1842759,
+    "name": "Malin Hunziker",
+    "shortName": "hum",
+    "pianoId": "d8ac7fbe-c4ca-4457-af8a-afb7c7aef89e",
+    "external": false
+   }
+  ],
+  "authorLine": "Michael Ferber, Malin Hunziker",
+  "authorImage": {
+   "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4547,
+   "height": 3032,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2396,2396,x938,y397"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1085430,
+    "name": "Michael Ferber Imprint Finance Business",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1910790,
+    "name": "Malin Hunziker",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/11/10/555761e2-e23d-428d-873b-927deb05ee80.jpg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 1649,
+  "leadText": "SpaceX, the aerospace company, is going public, fueling euphoria in the technology sector. Investors are hoping for rising share prices, but the IPO carries risks.",
+  "nzzSummaryEN": "- SpaceX plans an IPO that could raise approximately 75 billion dollars, increasing the company's value to about 1800 billion dollars, with only 5% of shares tradable.\n- The main revenue source is the profitable satellite internet business Starlink; other segments, like rocket launches and AI technologies, are costly and operate at a loss.\n- Elon Musk will retain control thanks to his voting power and may become the first dollar trillionaire if the IPO succeeds, though risks like power concentration and high investment uncertainties remain.",
+  "nzzSummaryDE": "SpaceX is planning an IPO that could raise around $75 billion and increase the company's value to about $1.8 trillion, with only 5% of the shares being tradable.\n - The main source of revenue is the profitable satellite internet business Starlink; other segments, such as rocket launches and AI technologies, are costly and loss-making.\n - Elon Musk will retain control thanks to his voting rights and could become the first dollar billionaire if the IPO is successful, however, there are risks such as concentration of power and high investment uncertainties.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "SpaceX takes off: This means the biggest stock market debut in history",
+  "nzzPrintSubtitle": "Elon Musk's space company SpaceX is going public, further fueling the euphoria in the technology sector. But the IPO also carries some risks.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+   "title": "Elon Musk's SpaceX IPO: The biggest IPO in history explained",
+   "socialMediaTitle": "Elon Musk's SpaceX goes public: These are important questions and answers",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/06/10/e286c549-550c-4da6-b7e7-3d955475c52d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6048,3402,x0,y247&wmark=nzz"
+  },
+  "ldPublicationId": 2443522,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "SpaceX",
+    "slug": "/themen/spacex"
+   },
+   {
+    "name": "Elon Musk",
+    "slug": "/themen/elon-musk"
+   },
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   },
+   {
+    "name": "Starlink",
+    "slug": "/themen/starlink"
+   },
+   {
+    "name": "Tesla",
+    "slug": "/themen/tesla"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10010417",
+    "ld.10010083",
+    "ld.10009544"
+   ],
+   "artikelListe": [
+    "ld.10009810",
+    "ld.10008929",
+    "ld.10009177"
+   ],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 784224,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "spacex",
+   "name": "SpaceX",
+   "tagName": "SpaceX",
+   "qId": "Q193701",
+   "seoTitle": "SpaceX – All articles about the company | NZZ",
+   "description": "Elon Musk founded the aerospace company SpaceX in 2002 with the goal of sending humans into space and using it for humane, ecological growth on other planets. The primary objective is to develop the necessary technologies to colonize Mars in the coming years. Here you can find all NZZ articles about SpaceX.",
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 16:48:04.978Z",
+   "imageURL": "https://img.nzz.ch/2019/4/12/4c8db0c1-4319-4ceb-8f45-21e696faea02.jpeg?width=1360&height=906&fit=crop&quality=75&auto=webp",
+   "imageCroppedURL": null,
+   "imageWidth": 1360,
+   "imageHeight": 906,
+   "imageCredits": "Thom Baur / Reuters",
+   "url": "https://nzz.ch/themen/spacex",
+   "size": 256,
+   "relatedTopics": [
+    {
+     "name": "Elon Musk",
+     "slug": "/themen/elon-musk"
+    },
+    {
+     "name": "Künstliche Intelligenz (KI)",
+     "slug": "/themen/kuenstliche-intelligenz-ki"
+    },
+    {
+     "name": "Starlink",
+     "slug": "/themen/starlink"
+    },
+    {
+     "name": "Tesla",
+     "slug": "/themen/tesla"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Russia to launch Starlink alternative by 2027, but the start is rocky",
+    "showHeader": false,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Wissenschaft aktuell",
+     "Visuals"
+    ],
+    "paywallQuestionOne": "How realistic is the timeline for the launch of the Russian satellite service Rassvet by 2027?",
+    "paywallQuestionTwo": "What challenges does Russia face in building Rassvet?",
+    "paywallQuestionThree": "How does the war in Ukraine affect the development of Rasswet?",
+    "nzzId": "ld.10021297",
+    "readingTime": 360,
+    "characterCount": 8804,
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/70ccd566-a9ab-4e99-b0af-5e9358c76a0c.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/70ccd566-a9ab-4e99-b0af-5e9358c76a0c.png?width=1024&quality=75&auto=webp",
+     "width": 1800,
+     "height": 1350,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1800,1012,x0,y160"
+      },
+      {
+       "name": "4:3",
+       "crop": "1800,1350,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1350,1350,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1012,1350,x394,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1800,1200,x0,y75"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Access to SpaceX's communication satellites gives Ukraine a decisive advantage in the war with Russia. For how long?"
+    },
+    "product": "NZZ.ch",
+    "documentId": "10021297",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "Access to SpaceX's communication satellites gives Ukraine a decisive advantage in the war with Russia. For how long?",
+    "authorLine": "Christian Speicher, Cian Jochem",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b644fda6-c8b6-4b0d-9641-ace4566957c0.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wissenschaft/russlands-antwort-auf-starlink-wird-rasswet-bis-2027-realitaet-ld.10021297",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1226,
+    "premium": true,
+    "leadText": "Access to SpaceX's communication satellites gives Ukraine a decisive advantage in the war with Russia. For how long?",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Supposed to sink, rescued after a month at sea: The odyssey of SpaceX’s latest rocket",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/3b55a9b2-fd5a-4ddc-ba00-3c8ff51f6b4e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/3b55a9b2-fd5a-4ddc-ba00-3c8ff51f6b4e.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y330"
+      },
+      {
+       "name": "4:3",
+       "crop": "3556,2667,x287,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2667,2667,x382,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2000,2667,x551,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A Starship spacecraft drifted in the ocean for weeks until SpaceX recovered it in an improvised rescue operation. They can learn a lot from the wreckage.",
+     "teaserAuthor": "Reginald Mathalone / Getty"
+    },
+    "teaserAuthor": "Reginald Mathalone / Getty",
+    "tags": [
+     "Wissenschaft aktuell",
+     "Wissenschaft Empfehlungen",
+     "Astronomie und Raumfahrt"
+    ],
+    "videoTeaser": "XSw4uwSc",
+    "nzzId": "ld.10021432",
+    "readingTime": 360,
+    "embeds": {
+     "videos": [
+      {
+       "id": "XSw4uwSc",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 8,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/XSw4uwSc-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How could Starship's reusability revolutionize space travel?",
+    "paywallQuestionTwo": "What insights does SpaceX hope to gain from the recovery of Ship 40?",
+    "paywallQuestionThree": "Why is developing a reusable heat shield so difficult?",
+    "characterCount": 6460,
+    "product": "NZZ.ch",
+    "documentId": "10021432",
+    "layout": "longformvisual",
+    "publicationDate": "2026-08-28T14:52:55.094Z",
+    "publicationLastUpdated": "2026-09-02T08:12:21.125Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T02:52:55.094Z",
+    "teaserCaption": "A Starship spacecraft drifted in the ocean for weeks until SpaceX recovered it in an improvised rescue operation. They can learn a lot from the wreckage.",
+    "authorLine": "Anna Weber",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wissenschaft/sie-haette-im-meer-versinken-sollen-jetzt-wurde-sie-nach-einem-monat-auf-see-gerettet-die-odyssee-der-neuesten-spacex-rakete-ld.10021432",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1139,
+    "leadText": "A Starship spacecraft drifted in the ocean for weeks until SpaceX recovered it in an improvised rescue operation. They can learn a lot from the wreckage.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A SpaceX rocket crashes into the moon, leaving a new crater: First images released",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/b2a9585e-3813-4050-89b3-26859e8c7544.gif?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/b2a9585e-3813-4050-89b3-26859e8c7544.gif?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 1200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y263"
+      },
+      {
+       "name": "4:3",
+       "crop": "1200,900,x0,y150"
+      },
+      {
+       "name": "1:1",
+       "crop": "1200,1200,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "900,1200,x150,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1200,800,x0,y200"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In early August, a discarded Falcon 9 rocket created a new crater on the moon. This was not planned.",
+     "teaserAuthor": "Wolfgang Maria Weber / Imago"
+    },
+    "teaserAuthor": "Wolfgang Maria Weber / Imago",
+    "tags": [
+     "Wissenschaft aktuell",
+     "Astronomie und Raumfahrt"
+    ],
+    "nzzId": "ld.10017597",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why did a SpaceX rocket crash uncontrollably into the moon?",
+    "paywallQuestionTwo": "What scientific insights are expected from the rocket impact?",
+    "paywallQuestionThree": "How were amateur astronomers able to observe the rocket's impact?",
+    "characterCount": 7294,
+    "videoTeaser": "",
+    "product": "NZZ.ch",
+    "documentId": "10017597",
+    "layout": "regular",
+    "publicationDate": "2026-08-19T08:41:23.576Z",
+    "publicationLastUpdated": "2026-08-19T09:31:54.205Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-19T20:41:23.576Z",
+    "teaserCaption": "In early August, a discarded Falcon 9 rocket created a new crater on the moon. This was not planned.",
+    "authorLine": "Anna Weber",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wissenschaft/morgen-kracht-eine-spacex-rakete-in-den-mond-mit-einem-teleskop-kann-man-von-der-erde-aus-zuschauen-ld.10017597",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1156,
+    "leadText": "In early August, a discarded Falcon 9 rocket created a new crater on the moon. This was not planned.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Elon Musk's SpaceX has almost doubled its revenue – but investors react with disappointment to the first quarterly figures",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/04/7a9b5580-123f-41a0-9ba3-b090565f02f6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/04/7a9b5580-123f-41a0-9ba3-b090565f02f6.jpg?width=1024&quality=75&auto=webp",
+     "width": 4733,
+     "height": 2824,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4733,2662,x0,y8"
+      },
+      {
+       "name": "4:3",
+       "crop": "3765,2824,x770,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2824,2824,x1348,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2118,2824,x1849,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4236,2824,x497,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The space company presents impressive growth figures shortly after its IPO, but high investments in new AI computing power are causing a stir.",
+     "teaserAuthor": "Steve Nesius / Reuters"
+    },
+    "teaserAuthor": "Steve Nesius / Reuters",
+    "nzzId": "ld.10018240",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do high AI investments affect SpaceX's profitability?",
+    "paywallQuestionTwo": "Why are investors reacting with disappointment to SpaceX's impressive revenue growth?",
+    "paywallQuestionThree": "What risks are associated with the planned sale of blocked SpaceX shares?",
+    "characterCount": 7760,
+    "product": "NZZ.ch",
+    "documentId": "10018240",
+    "layout": "regular",
+    "publicationDate": "2026-08-05T00:59:43.595Z",
+    "publicationLastUpdated": "2026-08-05T16:08:00.869Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-05T12:59:43.595Z",
+    "teaserCaption": "The space company presents impressive growth figures shortly after its IPO, but high investments in new AI computing power are causing a stir.",
+    "authorLine": "André Müller, New York",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/spacex-hat-seinen-umsatz-fast-verdoppelt-dennoch-reagieren-die-anleger-enttaeuscht-auf-die-ersten-quartalszahlen-ld.10018240",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1128,
+    "leadText": "The space company presents impressive growth figures shortly after its IPO, but high investments in new AI computing power are causing a stir.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "A «hidden tax» brings Switzerland 23 billion francs",
+    "nzzId": "ld.10018056",
+    "teaserImage": {
+     "originalUrl": "/2026/08/03/cf96936c-92ed-45e8-a96f-a3b4345fb719.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/03/cf96936c-92ed-45e8-a96f-a3b4345fb719.webp?width=1024&quality=75&auto=webp",
+     "width": 2048,
+     "height": 1365,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2048,1152,x0,y107"
+      },
+      {
+       "name": "4:3",
+       "crop": "1820,1365,x114,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1365,1365,x342,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1024,1365,x512,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2048,1365,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The most important news this morning: Switzerland quietly rakes in billions ++ The role of social media in the Ceuta onslaught ++ SpaceX rocket crashes into the moon",
+     "teaserAuthor": "Gaëtan Bally / Keystone"
+    },
+    "teaserAuthor": "Gaëtan Bally / Keystone",
+    "language": {
+     "locale": "de"
+    },
+    "editor": "1889242",
+    "readingTime": 360,
+    "characterCount": 7789,
+    "product": "NZZ.ch",
+    "documentId": "10018056",
+    "layout": "briefing",
+    "publicationDate": "2026-08-04T03:48:31.912Z",
+    "publicationLastUpdated": "2026-08-04T03:48:31.912Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-04T15:48:31.912Z",
+    "teaserCaption": "The most important news this morning: Switzerland quietly rakes in billions ++ The role of social media in the Ceuta onslaught ++ SpaceX rocket crashes into the moon",
+    "url": "https://www.nzz.ch/eine-hidden-tax-bringt-der-schweiz-23-milliarden-franken-ein-ld.10018056",
+    "department": {},
+    "estimationWordCount": 1133,
+    "leadText": "The most important news this morning: Switzerland quietly rakes in billions ++ The role of social media in the Ceuta onslaught ++ SpaceX rocket crashes into the moon",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "The trial against the «Reichsbürger» is progressing only slowly",
+    "nzzId": "ld.10018057",
+    "teaserImage": {
+     "originalUrl": "/2026/08/04/b44d7f06-7455-4c5f-a19c-e9f07c26dbb1.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/04/b44d7f06-7455-4c5f-a19c-e9f07c26dbb1.webp?width=1024&quality=75&auto=webp",
+     "width": 2048,
+     "height": 1366,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2048,1152,x0,y107"
+      },
+      {
+       "name": "4:3",
+       "crop": "1821,1366,x113,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1366,1366,x341,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1025,1366,x512,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2048,1365,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The most important news this morning: Hardly any progress in the «Reichsbürger» trial ++ The role of social media in the Ceuta influx ++ SpaceX rocket crashes into the moon",
+     "teaserAuthor": "www.imago-images.de"
+    },
+    "teaserAuthor": "www.imago-images.de",
+    "language": {
+     "locale": "de"
+    },
+    "editor": "1889242",
+    "readingTime": 300,
+    "characterCount": 7457,
+    "product": "NZZ.ch",
+    "documentId": "10018057",
+    "layout": "briefing-intl",
+    "publicationDate": "2026-08-04T03:48:04.602Z",
+    "publicationLastUpdated": "2026-08-04T03:48:04.602Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-04T15:48:04.602Z",
+    "teaserCaption": "The most important news this morning: Hardly any progress in the «Reichsbürger» trial ++ The role of social media in the Ceuta influx ++ SpaceX rocket crashes into the moon",
+    "url": "https://www.nzz.ch/der-prozess-gegen-die-reichsbuerger-kommt-nur-schleppend-voran-ld.10018057",
+    "department": {},
+    "estimationWordCount": 1081,
+    "leadText": "The most important news this morning: Hardly any progress in the «Reichsbürger» trial ++ The role of social media in the Ceuta influx ++ SpaceX rocket crashes into the moon",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10010689",
+    "name": "SpaceX will have the biggest IPO in history: These are the ten most important questions and answers",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "SpaceX will have the biggest IPO in history: These are the ten most important questions and answers",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372418,
+       "name": "Michael Ferber",
+       "shortName": "feb",
+       "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+       "external": false
+      },
+      {
+       "id": 1842759,
+       "name": "Malin Hunziker",
+       "shortName": "hum",
+       "pianoId": "d8ac7fbe-c4ca-4457-af8a-afb7c7aef89e",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-06-11T03:30:00.000Z",
+     "updateTimestamp": "2026-06-11T08:08:53.029Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Explained",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10010689",
+   "pageType": "regular",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Elon Musk's SpaceX IPO: The biggest IPO in history explained",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/06/10/e286c549-550c-4da6-b7e7-3d955475c52d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6048,3402,x0,y247&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Michael Ferber, Malin Hunziker",
+  "description": "SpaceX, the aerospace company, is going public, fueling euphoria in the technology sector. Investors are hoping for rising share prices, but the IPO carries risks.",
+  "news_keywords": "SpaceX will be the biggest IPO in history: These are the ten most important questions and answers, Explained, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-06-11T12:08:53+02:00",
+  "date": "2026-06-11T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "EXPLAINED - SpaceX will be the biggest IPO in history: These are the ten most important questions and answers",
+  "ogTitle": "Elon Musk's SpaceX goes public: These are important questions and answers",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+  "mrf:cms_id": "nzz:ld.10010689",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10010689",
+  "nzzAuthors": [
+   {
+    "id": 1372418,
+    "name": "Michael Ferber",
+    "shortName": "feb",
+    "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+    "external": false
+   },
+   {
+    "id": 1842759,
+    "name": "Malin Hunziker",
+    "shortName": "hum",
+    "pianoId": "d8ac7fbe-c4ca-4457-af8a-afb7c7aef89e",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:51:33 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Elon Musk's SpaceX IPO: The biggest IPO in history explained"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689"
+   },
+   "headline": "Elon Musk's SpaceX IPO: The biggest IPO in history explained",
+   "datePublished": "2026-06-11T07:30:00+02:00",
+   "dateModified": "2026-06-11T12:08:53+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "SpaceX, the aerospace company, is going public, fueling euphoria in the technology sector. Investors are hoping for rising share prices, but the IPO carries risks.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/06/10/e286c549-550c-4da6-b7e7-3d955475c52d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6048,3402,x0,y247&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Michael Ferber"
+    },
+    {
+     "@type": "Person",
+     "name": "Malin Hunziker"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 784224,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/boersengang-von-elon-musks-spacex-das-groesste-ipo-der-geschichte-erklaert-ld.10010689",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "erklärt",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10010689",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2026-06-11T03:30:00.000Z",
+   "ContentAuthor": "Michael Ferber, Malin Hunziker",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie beeinflusst die hohe Bewertung von SpaceX die Anlegerperspektive?\nWelche Risiken birgt der Börsengang von SpaceX für Investoren?\nWie stark bleibt Elon Musk nach dem IPO in Kontrolle von SpaceX?",
+   "ldId": "ld.10010689",
+   "channel": "Wirtschaft",
+   "heading": "SpaceX wird der grösste Börsengang der Geschichte: Das sind die zehn wichtigsten Fragen und Antworten",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

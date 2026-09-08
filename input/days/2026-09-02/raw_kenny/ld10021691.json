@@ -1,0 +1,1458 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1b8pqj91",
+   "content": {
+    "title": "The Roman Empire is under pressure, a slave woman rules among the Parthians, and in Palestine Jesus preaches about the end of time: Around the year zero, the world begins to falter",
+    "lead": "History from stories: In his new new book, Moritz Aisslinger sketches a panorama of a time when the foundations of Europe were laid.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1b8pqj92",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Thomas Ribi",
+       "url": "/impressum/thomas-ribi-ld.1086067",
+       "teaserImage": {
+        "originalUrl": "/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4334,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2405,2405,x2136,y436"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1e15gms1",
+   "content": {
+    "image": {
+     "author": "Vincenzo Fontana / Corbis Historical / Getty",
+     "caption": "Look at this man! Jesus Christ is condemned to death by the Roman governor Pontius Pilate. Painting by Antonio Ciseri (circa 1860)",
+     "originalUrl": "/2026/09/01/0b901806-bb88-4553-b562-fd1b3b182429.jpg?crop=2518,1923,x0,y0",
+     "width": 2518,
+     "height": 1923,
+     "altText": "Ecce Homo by Antonio Ciseri (Photo by © Arte & Immagini srl/CORBIS/Corbis via Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180342097"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2518,
+      "height": 1923,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2518,
+       "height": 1923,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Look at this man! Jesus Christ is condemned to death by the Roman governor Pontius Pilate. Painting by Antonio Ciseri (circa 1860)",
+    "author": "Vincenzo Fontana / Corbis Historical / Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb7u1",
+   "content": {
+    "text": "The greatest historical upheavals are often those you don't feel, even when you are right in the thick of them. You only notice them when they are over. The turning point at the beginning of our calendar, for example. What actually happened then? Not much. Nothing happened in the year zero. Because there never was a year zero. A lot happened in the years around it. But hardly anything that would have indicated an epochal shift. Contemporaries did not have the impression of living in a special time."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-b817cc28",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb7v0",
+   "content": {
+    "text": "In Rome, Augustus had secured his sole rule and tried, as desperately as he was unsuccessfully, to regulate his succession. In Jerusalem, King Herod had one family member after another murdered, fearing he would be overthrown. In China, a nobleman seized power in a coup, became emperor, and tried to establish an ideal state. And in Palestine, a young man named Jesus traveled through the land, announcing the end of times."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb800",
+   "content": {
+    "text": "Five centuries later, Dionysius Exiguus, a monk from the Black Sea region, invented a new calendar that began with the birth of Jesus Christ. He calculated his birth date from the temporal information in the Gospels and the Acts of the Apostles in the New Testament. Not quite correctly; he was a few years off. Jesus was probably born not in 1 AD, but between 7 and 4 BC. But the new calendar caught on. It was common in Europe from the 8th century on, and gradually the entire Christian world adopted it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb801",
+   "content": {
+    "text": "For Christians, the birth of Jesus Christ marked the beginning of a new era, even though the year one, with which Dionysius began the new era, was entirely unremarkable. In the decades around the birth of Jesus, however, the world fundamentally changed. Not only in the Roman Empire, which encompassed the entire Mediterranean region, but also in distant parts of the world: in Africa, the Middle East, India, Iran, and China. Moritz Aisslinger shows this in his new book."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1e5naqc0",
+   "content": {
+    "title": "A gift for the king",
+    "id": "subtitle-ein-geschenk-f-r-den-k-nig"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb810",
+   "content": {
+    "text": "Aisslinger is a historian and journalist. In a grand tableau, he describes developments that unfolded simultaneously in different parts of the world during the same period. The book In the Year Zero. Rome, Egypt, and a Prophet in Palestine revolves around the decades between 30 BC and 30 AD. From Rome to Jerusalem, from Africa to China, Aisslinger's gaze wanders, and he tells stories. Of rulers, upheavals, wars. Of intrigues, journeys to unknown lands, and natural disasters. Of new ideas conquering the world. Of people who lose everything, and others who find a new life."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb820",
+   "content": {
+    "text": "Like Musa, who came to the court of the Parthian Empire in present-day Iran around 20 BC. A young woman, not yet twenty. A slave in the entourage of Emperor Augustus, who traveled to the Parthian king to sign a peace treaty. Decades earlier, the Parthians had wiped out three legions on the plain of Carrhae in present-day eastern Turkey. A disgrace for Rome. The adversaries had killed and captured thousands of Roman soldiers and captured the troops' standards: the legionary eagle and the vexilla (military banners)."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb821",
+   "content": {
+    "text": "The reputation of the invincible Roman army had suffered. Augustus had not succeeded in defeating the Parthians. And he could not afford to have them as an enemy in the long run: the Silk Road ran right through their sphere of influence. Caravans of merchants transported silk, spices, and precious stones from China and India across the Iranian plateau and Mesopotamia to the West. To Rome, too."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb830",
+   "content": {
+    "text": "Therefore, Augustus decided to negotiate. To create favorable conditions, he brought gifts for the Parthian king Phraates IV: gold and silver vessels, precious fabrics. And slave women like Musa. For the court's harem. Musa's origin was unknown, and at the time, nobody cared. Slaves were property like horses, furniture, or jewelry. They were disposed of and given away at will. One can only guess what feelings Musa had as she entered Phraates' palace."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1e5nenh0",
+   "content": {
+    "title": "Pepper from India, silk from China",
+    "id": "subtitle-pfeffer-aus-indien-seide-aus-china"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb840",
+   "content": {
+    "text": "Augustus' charm offensive was successful; the treaty was concluded. The standards were returned, and the living prisoners of war were exchanged. Many prisoners, however, did not want this at all, having built new lives in Parthia. Some reportedly threatened suicide if they were forced to return to Rome."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb841",
+   "content": {
+    "text": "The Parthian problem was solved. But the Roman Empire was under pressure from various sides. To the north were the Germanic tribes, who remained untamed. In 9 AD, they inflicted a severe defeat on the troops of General Varus in the Teutoburg Forest. In present-day Sudan, the Queen of Kush fiercely resisted the Roman troops. In Jerusalem, serious unrest over the succession erupted after the death of King Herod."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb850",
+   "content": {
+    "text": "And Rome always had to react. With comparatively modest military means. For an area of about three and a half million square kilometers from the Euphrates to the Atlantic and from the North Sea to the Sahara, where about sixty million people lived, only twenty-eight legions and auxiliary troops were available. Just over three hundred thousand soldiers. That was barely enough to secure the hotspots."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb851",
+   "content": {
+    "text": "But the world extended far beyond the Roman Empire. Trade relations with the Far East had existed for a long time. Indian pepper and silk from China were common luxury goods in Rome, Athens, or Alexandria. And in China, there were astonishing developments. The same year Varus was overrun by the Germanic tribes, a nobleman in the Chinese capital Chang’an overthrew a centuries-old imperial dynasty, seized power himself, and undertook a tremendous socio-political experiment."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1e5o1qv0",
+   "content": {
+    "title": "The socialist emperor",
+    "id": "subtitle-der-sozialistische-kaiser"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb860",
+   "content": {
+    "text": "The man was named Wang Mang, had risen through the ranks to the inner circle of the court, and had become an indispensable advisor to the imperial family. When Emperor Ping died childless in 6 AD, Wang orchestrated the appointment of a nearly two-year-old child as crown prince – and himself as his advisor. Three years later, he ended the masquerade, deposed the child emperor, and granted himself absolute governing power."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb870",
+   "content": {
+    "text": "As soon as he took power, Wang announced unprecedented things. Slavery would be abolished, he said, calling it inhumane. Land ownership, he declared, would be collectivized because it was unjust. Wang had all the land belonging to noble families expropriated and distributed among the peasants. He founded an imperial bank that granted loans. At state-fixed interest rates, to put an end to usurers."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb871",
+   "content": {
+    "text": "Prices for everyday goods were determined by government officials. An income tax was created. Artisans, merchants, hunters, and livestock breeders had to surrender ten percent of their income. A great experiment, a radical reform. A socialism by imperial decree. However, it was short-lived. After fourteen years, Wang Mang was overthrown. His reforms were reversed. He himself had already revised parts of these reforms to avert economic chaos."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb880",
+   "content": {
+    "text": "A few years after Wang Mang was killed in a peasant uprising, Jesus of Nazareth began to wander through Palestine: a Jew who promised to heal the sick and predicted a new world order. He called God his father and gathered followers around him. Jesus was not the only wandering preacher at the time. But he was the only one condemned to death by the Roman governor and who became the founder of a religion that would spread throughout the world."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1e5o4r30",
+   "content": {
+    "title": "The slave woman from the West",
+    "id": "subtitle-die-sklavin-aus-dem-westen"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb881",
+   "content": {
+    "text": "Moritz Aisslinger tells the story of a time when the world began to falter – gently but lastingly. He presents the grand narrative in small stories. From loosely assembled mosaic pieces emerges a picture of a time when the foundations for Europe's next thousand years were laid: The Christian Church became the dominant institution of Western culture, and the organizational structures of the Roman Empire remained decisive for Europe's development, even long after the empire had collapsed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e5lb890",
+   "content": {
+    "text": "Incidentally, Musa, the slave woman from Augustus' entourage, made a career in the Parthian Empire. Ten years after she had been presented at court as a gift, she was queen. She bore Phraates IV a son and urged him to send his older sons to Rome to make her son the heir to the throne. A few years later, she married her own son Phraatakes and ruled the empire alongside him. Phraates had been poisoned. Probably by Musa."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k1b93atg0",
+   "content": {
+    "text": "Moritz Aisslinger: In the Year Zero. Rome, Egypt, and a Prophet in Palestine. Propyläen-Verlag, Berlin 2026. 400 pp., 38.90 Swiss francs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1b8pqj95",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1b8pqj96",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1b8pqj97",
+      "content": {
+       "owner": "NZZ",
+       "flag": "series",
+       "title": "Around twenty thousand people lost their lives in the Battle of the Teutoburg Forest: In the Germanic forests, the Roman Empire experienced one of its worst defeats",
+       "teaserImage": {
+        "originalUrl": "/2025/04/07/31e53be3-ddba-4d9f-bde6-ee14600db3bb.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/04/07/31e53be3-ddba-4d9f-bde6-ee14600db3bb.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3502,
+        "height": 4924,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3502,1970,x0,y1344"
+         },
+         {
+          "name": "1:1",
+          "crop": "2767,2767,x461,y421"
+         },
+         {
+          "name": "4:3",
+          "crop": "3502,2627,x0,y717"
+         },
+         {
+          "name": "3:4",
+          "crop": "3502,4669,x0,y255"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In the autumn of 9 AD, Germanic tribes under Arminius decisively defeated three Roman legions. What exactly happened remains unclear to this day. This only fuels the myth that has grown up around the battle.",
+        "teaserAuthor": "Universal Images / Getty"
+       },
+       "teaserAuthor": "Universal Images / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1879162",
+       "readingTime": 840,
+       "authorLine": "Thomas Ribi",
+       "characterCount": 18196,
+       "product": "NZZ.ch",
+       "documentId": 1879162,
+       "layout": "longformstandard",
+       "publicationDate": "2025-04-13T03:30:00.000Z",
+       "publicationLastUpdated": "2025-05-21T12:41:45.263Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-04-13T15:30:00.000Z",
+       "teaserCaption": "In the autumn of 9 AD, Germanic tribes under Arminius decisively defeated three Roman legions. What exactly happened remains unclear to this day. This only fuels the myth that has grown up around the battle.",
+       "url": "/feuilleton/varusschlacht-im-teutoburger-wald-wurden-roms-legionen-vernichtend-geschlagen-ld.1879162",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 2777,
+       "leadText": "In the autumn of 9 AD, Germanic tribes under Arminius decisively defeated three Roman legions. What exactly happened remains unclear to this day. This only fuels the myth that has grown up around the battle.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1b8pqj98",
+      "content": {
+       "title": "The legacy of dictator Julius Caesar: how Octavian transformed into Augustus and the Roman Republic became an autocracy",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/08/a0ddd067-d02f-41a2-8b82-7ddd50eb166d.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/08/a0ddd067-d02f-41a2-8b82-7ddd50eb166d.jpg?width=1024&quality=75&auto=webp",
+        "width": 4291,
+        "height": 3376,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4291,2414,x0,y481"
+         },
+         {
+          "name": "4:3",
+          "crop": "4291,3218,x0,y79"
+         },
+         {
+          "name": "1:1",
+          "crop": "3376,3376,x458,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2532,3376,x880,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4291,2861,x0,y258"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "He came from nowhere and became the most powerful man in the Roman Empire: Augustus eliminated the existing elite and created a completely new form of government that lasted for centuries.",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "nzzId": "ld.10006382",
+       "readingTime": 1020,
+       "paywallQuestionOne": "How did Octavian transform the republic into an autocracy?",
+       "paywallQuestionTwo": "What role did the Senate play in Octavian's rise to power?",
+       "paywallQuestionThree": "Why was Octavian called Augustus?",
+       "tags": [
+        "Magazin Geschichte"
+       ],
+       "characterCount": 21854,
+       "product": "NZZ.ch",
+       "documentId": 10006382,
+       "layout": "longformstandard",
+       "publicationDate": "2026-05-08T15:06:59.408Z",
+       "publicationLastUpdated": "2026-06-30T06:59:43.729Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-09T03:06:59.408Z",
+       "teaserCaption": "He came from nowhere and became the most powerful man in the Roman Empire: Augustus eliminated the existing elite and created a completely new form of government that lasted for centuries.",
+       "authorLine": "Thomas Ribi",
+       "authorImage": {
+        "originalUrl": "/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4334,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2405,2405,x2136,y436"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/der-aufstieg-des-augustus-vom-buergerkrieg-zum-prinzipat-ld.10006382",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 3369,
+       "leadText": "He came from nowhere and became the most powerful man in the Roman Empire: Augustus eliminated the existing elite and created a completely new form of government that lasted for centuries.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1b8pqj99",
+      "content": {
+       "title": "The debate on foreign influence: Did the Roman Empire actually collapse because of heavy immigration?",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/04/e982b159-59e1-4b54-8d73-4796decf7f35.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/04/e982b159-59e1-4b54-8d73-4796decf7f35.jpg?width=1024&quality=75&auto=webp",
+        "width": 5005,
+        "height": 3337,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5005,2815,x0,y522"
+         },
+         {
+          "name": "4:3",
+          "crop": "4449,3337,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3337,3337,x141,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2503,3337,x0,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5005,3337,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Not a country of 10 million, but an empire of 60 million: The Imperium Romanum was a melting pot of people, languages and religions. And it endured for centuries, despite the pressures of overcrowding.",
+        "teaserAuthor": "Claudia Chieppa/Anadolu via Getty"
+       },
+       "teaserAuthor": "Claudia Chieppa/Anadolu via Getty",
+       "showComments": true,
+       "nzzId": "ld.10009773",
+       "readingTime": 420,
+       "paywallQuestionOne": "Was foreign infiltration really the reason for the fall of the Roman Empire?",
+       "paywallQuestionTwo": "How did the integration of foreigners contribute to the strength of the empire?",
+       "paywallQuestionThree": "What factors actually led to the collapse of the Roman Empire?",
+       "characterCount": 9575,
+       "product": "NZZ.ch",
+       "documentId": 10009773,
+       "layout": "longformstandard",
+       "publicationDate": "2026-06-05T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-05T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-05T15:30:00.000Z",
+       "teaserCaption": "Not a country of 10 million, but an empire of 60 million: The Imperium Romanum was a melting pot of people, languages and religions. And it endured for centuries, despite the pressures of overcrowding.",
+       "authorLine": "Thomas Ribi",
+       "authorImage": {
+        "originalUrl": "/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4334,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2405,2405,x2136,y436"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/ueberfremdungsdebatte-ging-das-roemische-reich-tatsaechlich-wegen-der-starken-einwanderung-zugrunde-ld.10009773",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1445,
+       "premium": true,
+       "leadText": "Not a country of 10 million, but an empire of 60 million: The Imperium Romanum was a melting pot of people, languages and religions. And it endured for centuries, despite the pressures of overcrowding.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The Roman Empire is under pressure, a slave rules the Parthians, and in Palestine Jesus preaches about the end of time: Around the year zero, the world began to falter",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/0b901806-bb88-4553-b562-fd1b3b182429.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/0b901806-bb88-4553-b562-fd1b3b182429.jpg?width=1024&quality=75&auto=webp",
+   "width": 2518,
+   "height": 1923,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2518,1416,x0,y253"
+    },
+    {
+     "name": "4:3",
+     "crop": "2518,1889,x0,y17"
+    },
+    {
+     "name": "1:1",
+     "crop": "1923,1923,x298,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1442,1923,x538,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2518,1679,x0,y122"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "History told through stories: In his new book, Moritz Aisslinger outlines the panorama of a time when Europe's foundations were laid.",
+   "teaserAuthor": "Vincenzo Fontana / Corbis Historical / Getty"
+  },
+  "teaserAuthor": "Vincenzo Fontana / Corbis Historical / Getty",
+  "nzzId": "ld.10021691",
+  "readingTime": 420,
+  "characterCount": 9199,
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021691,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "History told through stories: In his new book, Moritz Aisslinger outlines the panorama of a time when Europe's foundations were laid.",
+  "nzzAuthors": [
+   {
+    "id": 1373539,
+    "name": "Thomas Ribi",
+    "shortName": "rib",
+    "pianoId": "35e8ac26-13f6-4c94-aca0-dd86af29e642",
+    "external": false
+   }
+  ],
+  "authorLine": "Thomas Ribi",
+  "authorImage": {
+   "originalUrl": "/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4334,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2405,2405,x2136,y436"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1086067,
+    "name": "Thomas Ribi (rib.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/09/8aa6d866-47ba-4846-8b2c-520eb7cb88c3.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691",
+  "department": {
+   "name": "Arts & Culture",
+   "path": "/feuilleton"
+  },
+  "estimationWordCount": 1437,
+  "leadText": "History told through stories: In his new book, Moritz Aisslinger outlines the panorama of a time when Europe's foundations were laid.",
+  "nzzSummaryEN": "- Moritz Aisslinger's book explores the era around year zero, marking pivotal events in Europe, Asia, and the Middle East, including the rise of Christianity and political-military shifts.\n- Historical figures such as Augustus, Jesus Christ, and Musa, a gift-slave in the Parthian Empire, play key roles in the narrative mosaic.\n- The book also highlights global interconnections like trade along the Silk Road and reforms in China.",
+  "nzzSummaryDE": "Moritz Aisslinger's book explores the period around the year zero, a time of pivotal events in Europe, Asia, and the Middle East, including the establishment of Christianity and political and military upheavals. Historical figures such as Augustus, Jesus Christ, and Musa, a gifted slave in the Parthian Empire, are central to this narrative mosaic. The book also focuses on the interconnectedness of global developments, such as trade along the Silk Road and reforms in China.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "When the world began to shake",
+  "nzzPrintSubtitle": "Rome is under pressure, and in Palestine the Messiah preaches: Moritz Aisslinger depicts this turning point in history on a grand scale. By Thomas Ribi",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691",
+   "title": "Emperor, queen and a messiah: What happened around the year zero",
+   "socialMediaTitle": "Emperor, queen and a messiah: Around the year zero, the foundations of Europe were laid",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/0b901806-bb88-4553-b562-fd1b3b182429.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2518,1416,x0,y253&wmark=nzz"
+  },
+  "ldPublicationId": 2487191,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Palestine",
+    "slug": "/themen/palastina"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   },
+   {
+    "name": "Religion",
+    "slug": "/themen/religion"
+   },
+   {
+    "name": "Iran",
+    "slug": "/themen/iran"
+   },
+   {
+    "name": "India",
+    "slug": "/themen/indien"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1879162",
+    "ld.10006382",
+    "ld.10009773"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 573120,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "palastina",
+   "name": "Palestine",
+   "tagName": "Palestine",
+   "qId": "Q219060",
+   "seoTitle": "Palestine News – All articles and information from the NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:56:26.013Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/palastina",
+   "size": 1476,
+   "relatedTopics": [
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    },
+    {
+     "name": "Religion",
+     "slug": "/themen/religion"
+    },
+    {
+     "name": "Iran",
+     "slug": "/themen/iran"
+    },
+    {
+     "name": "Indien",
+     "slug": "/themen/indien"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "A state for the emir – How the Kingdom of Jordan arises from the bankrupt estate of the Ottoman Empire",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Chaim Noll",
+    "flag": "Guest opinion",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/23927cf3-0489-4244-bc5b-4248a63fdf33.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/23927cf3-0489-4244-bc5b-4248a63fdf33.jpg?width=1024&quality=75&auto=webp",
+     "width": 5000,
+     "height": 3486,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5000,2812,x0,y80"
+      },
+      {
+       "name": "4:3",
+       "crop": "4648,3486,x352,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3486,3486,x1514,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2615,3486,x2385,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5000,3333,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4071,
+      "y": 1486
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Progressive Western circles often criticize Israel as a settler-colonialist state that has destroyed the established Arab order. This denunciatory view is historically unfounded. The origins of the state of Jordan, for example, clearly demonstrate this.",
+     "teaserAuthor": "UIG / Getty"
+    },
+    "teaserAuthor": "UIG / Getty",
+    "showComments": true,
+    "paywallQuestionOne": "How did Jordan emerge from the bankrupt remains of the Ottoman Empire?",
+    "paywallQuestionTwo": "What role did Great Britain play in the founding of Jordan?",
+    "paywallQuestionThree": "Is Israel rightly criticized as colonialist?",
+    "nzzId": "ld.10017128",
+    "readingTime": 540,
+    "characterCount": 12821,
+    "product": "NZZ.ch",
+    "documentId": "10017128",
+    "layout": "opinion",
+    "publicationDate": "2026-08-31T07:36:35.870Z",
+    "publicationLastUpdated": "2026-08-31T07:36:35.870Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T19:36:35.870Z",
+    "teaserCaption": "Progressive Western circles often criticize Israel as a settler-colonialist state that has destroyed the established Arab order. This denunciatory view is historically unfounded. The origins of the state of Jordan, for example, clearly demonstrate this.",
+    "url": "https://www.nzz.ch/meinung/ein-staat-fuer-den-emir-wie-das-koenigreich-jordanien-aus-der-konkursmasse-des-osmanischen-reiches-zustande-kam-ld.10017128",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1861,
+    "premium": true,
+    "leadText": "Progressive Western circles often criticize Israel as a settler-colonialist state that has destroyed the established Arab order. This denunciatory view is historically unfounded. The origins of the state of Jordan, for example, clearly demonstrate this.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The lesson of Munich has not been forgotten – why the Czech Republic remains Israel's most loyal friend to this day",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Jan Kapusnak",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/d4081a11-a312-43e1-abe9-7d499d41729b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/d4081a11-a312-43e1-abe9-7d499d41729b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5079,
+     "height": 3521,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5079,2857,x0,y542"
+      },
+      {
+       "name": "4:3",
+       "crop": "4695,3521,x192,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1234,1234,x2026,y801"
+      },
+      {
+       "name": "3:4",
+       "crop": "2401,3200,x1346,y321"
+      },
+      {
+       "name": "3:2",
+       "crop": "5079,3385,x0,y136"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "While the political climate in Europe is increasingly turning against Israel due to the effects of the culture war surrounding October 7th, the Czech Republic remains steadfastly loyal to the Jewish state. This has historical roots and is based on democratic clarity.",
+     "teaserAuthor": "Esaias Baitel / Gamma Rapho / Getty"
+    },
+    "teaserAuthor": "Esaias Baitel / Gamma Rapho / Getty",
+    "nzzId": "ld.10016705",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why is the Czech Republic Israel's most loyal European ally?",
+    "paywallQuestionTwo": "What historical roots shape the Czech-Israeli friendship?",
+    "paywallQuestionThree": "How does selective moralism influence Czech support for Israel?",
+    "characterCount": 10883,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10016705",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-24T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-24T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T15:30:00.000Z",
+    "teaserCaption": "While the political climate in Europe is increasingly turning against Israel due to the effects of the culture war surrounding October 7th, the Czech Republic remains steadfastly loyal to the Jewish state. This has historical roots and is based on democratic clarity.",
+    "url": "https://www.nzz.ch/feuilleton/die-lektion-von-muenchen-ist-nicht-vergessen-warum-tschechien-bis-heute-israels-treuester-freund-ist-ld.10016705",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1490,
+    "premium": true,
+    "leadText": "While the political climate in Europe is increasingly turning against Israel due to the effects of the culture war surrounding October 7th, the Czech Republic remains steadfastly loyal to the Jewish state. This has historical roots and is based on democratic clarity.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Middle East conflict from the perspective of a Palestinian refugee: We are heroes, they are perpetrators",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Bühne"
+    ],
+    "editor": "1373927",
+    "teaserImage": {
+     "originalUrl": "/2026/08/23/5df0754a-147a-402b-991d-e58283b63209.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/23/5df0754a-147a-402b-991d-e58283b63209.jpg?width=1024&quality=75&auto=webp",
+     "width": 400,
+     "height": 300,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "400,225,x0,y1"
+      },
+      {
+       "name": "4:3",
+       "crop": "400,300,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "300,300,x50,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "225,300,x123,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "400,267,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "At the Zurich Theater Spectacle, «Trapped in Hope» proves to be a piece of propaganda. Political reality is lost in the banality of good and evil."
+    },
+    "nzzId": "ld.10020493",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does propaganda influence artistic freedom in theatre?",
+    "paywallQuestionTwo": "What role does the audience play in Nabil Al-Raee's performance?",
+    "paywallQuestionThree": "How is the Middle East conflict portrayed in 'Trapped in Hope'?",
+    "characterCount": 3676,
+    "product": "NZZ.ch",
+    "documentId": "10020493",
+    "layout": "regular",
+    "publicationDate": "2026-08-23T15:48:35.083Z",
+    "publicationLastUpdated": "2026-08-23T19:21:32.709Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T03:48:35.083Z",
+    "teaserCaption": "At the Zurich Theater Spectacle, «Trapped in Hope» proves to be a piece of propaganda. Political reality is lost in the banality of good and evil.",
+    "authorLine": "Ueli Bernays",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/buehne/nahostkonflikt-auf-der-buehne-trapped-in-hope-beim-theaterspektakel-ld.10020493",
+    "department": {
+     "name": "Theatre & Stage",
+     "path": "/feuilleton/buehne"
+    },
+    "estimationWordCount": 580,
+    "leadText": "At the Zurich Theater Spectacle, «Trapped in Hope» proves to be a piece of propaganda. Political reality is lost in the banality of good and evil.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "The latest developments",
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/17296f9a-b6bb-42bc-bd17-78e75dc79067.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/17296f9a-b6bb-42bc-bd17-78e75dc79067.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y118"
+      },
+      {
+       "name": "4:3",
+       "crop": "3556,2667,x188,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2667,2667,x640,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2000,2667,x1470,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The ceasefire between Israel and Hamas is fragile. There is a long way to go until lasting peace in the Middle East. Key questions and answers.",
+     "teaserAuthor": "Erik Marmor / Getty Images Europe"
+    },
+    "teaserAuthor": "Erik Marmor / Getty Images Europe",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1920307",
+    "readingTime": 540,
+    "authorLine": "NZZ Newsroom",
+    "videoTeaser": "",
+    "paywallQuestionOne": "How stable is the current ceasefire between Israel and Hamas?",
+    "paywallQuestionTwo": "What challenges are hindering the implementation of the 20-point peace plan?",
+    "paywallQuestionThree": "What is the humanitarian situation in the Gaza Strip after the two-year war?",
+    "title": "Situation in the Gaza Strip: Clashes between Palestinians and Israeli soldiers in the West Bank",
+    "characterCount": 12741,
+    "product": "NZZ.ch",
+    "documentId": "1920307",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T08:33:42.960Z",
+    "publicationLastUpdated": "2026-09-03T08:33:42.960Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T20:33:42.960Z",
+    "teaserCaption": "The ceasefire between Israel and Hamas is fragile. There is a long way to go until lasting peace in the Middle East. Key questions and answers.",
+    "url": "https://www.nzz.ch/international/waffenruhe-im-gazastreifen-guterres-warnt-vor-100-millionen-us-dollar-grosser-finanzierungsluecke-bei-palaestinenserhilfswerk-unrwa-ld.1920307",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1770,
+    "leadText": "The ceasefire between Israel and Hamas is fragile. There is a long way to go until lasting peace in the Middle East. Key questions and answers.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/41c51ace-f076-45b6-95d6-45163210c22d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/41c51ace-f076-45b6-95d6-45163210c22d.jpg?width=1024&quality=75&auto=webp",
+     "width": 6720,
+     "height": 4480,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5554,3124,x1135,y905"
+      },
+      {
+       "name": "4:3",
+       "crop": "3065,2299,x2628,y1638"
+      },
+      {
+       "name": "1:1",
+       "crop": "2529,2529,x2757,y1364"
+      },
+      {
+       "name": "3:4",
+       "crop": "2777,3702,x2574,y778"
+      },
+      {
+       "name": "3:2",
+       "crop": "6720,4480,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In February, Fifa signed an agreement with Donald Trump’s Board of Peace, announcing the establishment of a new football ecosystem in the Gaza Strip. Six months later, the plans appear stalled, due in part to the situation on the ground.",
+     "teaserAuthor": "Ahmed al-Arini / Imago"
+    },
+    "teaserAuthor": "Ahmed al-Arini / Imago",
+    "title": "Infantino promised Fifa would build football pitches in Gaza; six months later, he has made no progress",
+    "nzzId": "ld.10020062",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why has FIFA not yet implemented its promises for Gaza?",
+    "paywallQuestionTwo": "What role does the political situation play in the delays to FIFA's plans?",
+    "paywallQuestionThree": "Why was the Palestinian Football Association not included in the plans?",
+    "characterCount": 8824,
+    "product": "NZZ.ch",
+    "documentId": "10020062",
+    "layout": "regular",
+    "publicationDate": "2026-08-23T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-23T10:00:10.389Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+    "teaserCaption": "In February, Fifa signed an agreement with Donald Trump’s Board of Peace, announcing the establishment of a new football ecosystem in the Gaza Strip. Six months later, the plans appear stalled, due in part to the situation on the ground.",
+    "authorLine": "Dominic Wirth, Karin A. Wenger, Thaer Abed, Gaza",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/29/47b045ec-f793-4b72-a662-bb06855c8b1a.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/fifa-chef-infantino-hat-gaza-fussballplaetze-versprochen-bisher-fehlt-jede-spur-ld.10020062",
+    "department": {
+     "name": "Sport",
+     "path": "/sport"
+    },
+    "estimationWordCount": 1339,
+    "leadText": "In February, Fifa signed an agreement with Donald Trump’s Board of Peace, announcing the establishment of a new football ecosystem in the Gaza Strip. Six months later, the plans appear stalled, due in part to the situation on the ground.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "No, Israel’s Security Minister Does Not Call for Indiscriminate Murders of Palestinians",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/191dbc88-40f3-43f9-86fc-d96995ddfcba.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/191dbc88-40f3-43f9-86fc-d96995ddfcba.jpg?width=1024&quality=75&auto=webp",
+     "width": 3780,
+     "height": 2520,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3780,2126,x0,y394"
+      },
+      {
+       "name": "4:3",
+       "crop": "3360,2520,x224,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2520,2520,x644,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1890,2520,x959,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3780,2520,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1904,
+      "y": 2033
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Those who, like the Western media, distort Itamar Ben-Gvir's statements are playing into the hands of the radical Israeli minister. Yet, there were other things in the same interview that would have been worthy of outrage.",
+     "teaserAuthor": "Matteo Placucci / Imago"
+    },
+    "teaserAuthor": "Matteo Placucci / Imago",
+    "tags": [
+     "Nahost und Afrika"
+    ],
+    "showComments": true,
+    "flag": "Opinion",
+    "nzzId": "ld.10020541",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does Ben-Gvir's rhetoric influence Israeli democracy?",
+    "paywallQuestionTwo": "Why was Ben-Gvir's demand for expulsion hardly addressed?",
+    "paywallQuestionThree": "How are international actors reacting to Ben-Gvir's statements?",
+    "characterCount": 4222,
+    "product": "NZZ.ch",
+    "documentId": "10020541",
+    "layout": "opinion",
+    "publicationDate": "2026-08-22T02:30:00.000Z",
+    "publicationLastUpdated": "2026-08-22T02:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T14:30:00.000Z",
+    "teaserCaption": "Those who, like the Western media, distort Itamar Ben-Gvir's statements are playing into the hands of the radical Israeli minister. Yet, there were other things in the same interview that would have been worthy of outrage.",
+    "authorLine": "Johannes C. Bockenheimer, Tel Aviv",
+    "authorImage": {
+     "originalUrl": "/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0",
+     "width": 1745,
+     "height": 1744,
+     "crop": {
+      "x": 1,
+      "y": 0,
+      "width": 1744,
+      "height": 1744,
+      "name": "1:1"
+     },
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/nein-israels-sicherheitsminister-hat-nicht-zu-wahllosen-morden-an-palaestinensern-aufgerufen-ld.10020541",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 657,
+    "leadText": "Those who, like the Western media, distort Itamar Ben-Gvir's statements are playing into the hands of the radical Israeli minister. Yet, there were other things in the same interview that would have been worthy of outrage.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 57,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021691",
+    "name": "The Roman Empire is under pressure, a slave rules the Parthians, and in Palestine Jesus preaches about the end of time: Around the year zero, the world began to falter",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The Roman Empire is under pressure, a slave rules the Parthians, and in Palestine Jesus preaches about the end of time: Around the year zero, the world began to falter",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373539,
+       "name": "Thomas Ribi",
+       "shortName": "rib",
+       "pianoId": "35e8ac26-13f6-4c94-aca0-dd86af29e642",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021691",
+   "pageType": "longformstandard",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Emperor, queen and a messiah: What happened around the year zero",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/0b901806-bb88-4553-b562-fd1b3b182429.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2518,1416,x0,y253&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Thomas Ribi",
+  "description": "History told through stories: In his new book, Moritz Aisslinger outlines the panorama of a time when Europe's foundations were laid.",
+  "news_keywords": "The Roman Empire is under pressure, a slave rules the Parthians, and in Palestine Jesus preaches about the end of time: Around the year zero, the world began to falter. (Feuilleton, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-09-02T07:30:00+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The Roman Empire is under pressure, a slave rules the Parthians, and in Palestine Jesus preaches about the end of time: Around the year zero, the world began to falter",
+  "ogTitle": "Emperor, queen and a messiah: Around the year zero, the foundations of Europe were laid",
+  "ogUrl": "https://www.nzz.ch/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691",
+  "mrf:cms_id": "nzz:ld.10021691",
+  "mrf:sections": "Feuilleton",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021691",
+  "nzzAuthors": [
+   {
+    "id": 1373539,
+    "name": "Thomas Ribi",
+    "shortName": "rib",
+    "pianoId": "35e8ac26-13f6-4c94-aca0-dd86af29e642",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:51 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Emperor, queen and a messiah: What happened around the year zero"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691"
+   },
+   "headline": "Emperor, queen and a messiah: What happened around the year zero",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "History told through stories: In his new book, Moritz Aisslinger outlines the panorama of a time when Europe's foundations were laid.",
+   "isAccessibleForFree": false,
+   "articleSection": "Feuilleton",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/0b901806-bb88-4553-b562-fd1b3b182429.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2518,1416,x0,y253&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Thomas Ribi"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 573120,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/das-roemische-reich-wird-bedraengt-bei-den-parthern-herrscht-eine-sklavin-und-in-palaestina-predigt-jesus-vom-ende-der-zeit-um-das-jahr-null-wurden-europas-fundamente-gelegt-ld.10021691",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021691",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "Thomas Ribi",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie beeinflusste die Zeitenwende um das Jahr null Europas Entwicklung?\nWelche Rolle spielte Musa im Partherreich, und wie wurde sie zur Königin?\nWelche Reformen führte Wang Mang in China durch, und warum scheiterten sie?",
+   "ldId": "ld.10021691",
+   "channel": "Feuilleton",
+   "heading": "Das Römische Reich wird bedrängt, bei den Parthern herrscht eine Sklavin, und in Palästina predigt Jesus vom Ende der Zeit: Um das Jahr null kam die Welt ins Wanken",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

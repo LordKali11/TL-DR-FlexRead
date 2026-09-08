@@ -1,0 +1,951 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1c5bjf40",
+   "content": {
+    "title": "The Authorities in Music: The Work, the Conductor, and I",
+    "lead": "In his documentary film «Unisono,» Swiss director Georges Gachot shows a young orchestra rehearsing; suddenly, Finnish pianist Iiro Rantala appears and causes unrest",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1c5bjf41",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Ueli Bernays",
+       "url": "/impressum/ueli-bernays-ld.1086069",
+       "teaserImage": {
+        "originalUrl": "/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1825,
+        "height": 2738,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "1825,1027,x0,y856"
+         },
+         {
+          "name": "1:1",
+          "crop": "1825,1825,x0,y457"
+         },
+         {
+          "name": "4:3",
+          "crop": "1825,1369,x0,y685"
+         },
+         {
+          "name": "3:4",
+          "crop": "1825,2433,x0,y152"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1duma6h1",
+   "content": {
+    "image": {
+     "author": "Anderdog Film",
+     "caption": "The perspective of the orchestral musicians on the conductor.",
+     "originalUrl": "/2026/09/01/6aaddc29-c623-4471-811a-60b292b8ee0a.jpg?crop=1400,787,x0,y0",
+     "width": 1400,
+     "height": 787,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180341487"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1400,
+      "height": 787,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1400,
+       "height": 787,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The perspective of the orchestral musicians on the conductor.",
+    "author": "Anderdog Film"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c5bjf43",
+   "content": {
+    "text": "It sounds like technical instructions: «Number seven again!» Or: «Number 197, five bars before the woodwinds enter!» Or: «Bar 47 again, strings enter.» In fact, it’s about music — specific passages from orchestral works that conductor Hugo Bollschweiler is rehearsing with the Aargau Youth Symphony Orchestra (JSAG)."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-387c03d3",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp01po1",
+   "content": {
+    "text": "Swiss filmmaker Georges Gachot is also present. He has placed the cameras right among the young musicians, so that viewers of his documentary film «Unisono. Of the Love for Music» find themselves, as it were, between instruments and music stands."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp0fst1",
+   "content": {
+    "text": "One listens to various passages from works by Richard Strauss, Antonín Dvořák, and Henryk Górecki. One also hears the conductor’s sometimes whimsical demands: «First violin, that passage again – but chopped! Like minced meat with pasta.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1dvodim0",
+   "content": {
+    "title": "High motivation",
+    "id": "subtitle-alle-sind-motiviert"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp0m6o1",
+   "content": {
+    "text": "The orchestra, composed of talented young people, music students, and young professionals, retreated to the Künstlerhaus Alte Kirche in Boswil in 2020 for a week of rehearsals (everyone still wore face masks due to Corona). Gachot captures the concentrated work in a reportage style. He shows the instrumentalists during sectional rehearsals, but also during daily relaxation exercises."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp18or1",
+   "content": {
+    "text": "In addition, he conducts interviews with the musicians. The young people presented here could hardly be more well-behaved. Everyone seems highly motivated and ready to dedicate eight hours a day to music for a week."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp23sq1",
+   "content": {
+    "text": "The cello is a retreat for him, says the shy cellist, who sits somewhat uncertainly behind his instrument. Playing music promotes discipline, says a strict oboist. And the flutist finds that her better self emerges when making music. She says that in a flute solo she may sometimes be the orchestra diva for a few bars, but then she subordinates herself to the overall sound again."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1dumg2t1",
+   "content": {
+    "image": {
+     "author": "Anderdog Film",
+     "caption": "Rehearsals with Iiro Rantala.",
+     "originalUrl": "/2026/09/01/ea37ee08-83e0-4a60-9f35-ff2e69b44e12.jpg?crop=2100,1181,x0,y0",
+     "width": 2100,
+     "height": 1181,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180341498"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2100,
+      "height": 1181,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2100,
+       "height": 1181,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Rehearsals with Iiro Rantala.",
+    "author": "Anderdog Film"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp2jbb1",
+   "content": {
+    "text": "Subordination to a common goal: This initially seems to be the aesthetic imperative during this rehearsal week. And one also wonders if this is the value system conveyed by classical music. In that respect, one would have liked to learn more about the social environment and cultural background of the orchestral members, who are as talented as they are disciplined."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp2opt1",
+   "content": {
+    "text": "However, Gachot’s film suddenly takes a surprising turn. Hugo Bollschweiler has invited jazz pianist and composer Iiro Rantala to Boswil. The Finnish maverick, as familiar with classical music as with jazz, rehearses some of his own pieces with the JSAG. He also wants to encourage the young instrumentalists to try improvisational self-experiments."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1e1bo431",
+   "content": {
+    "text": "The ensemble freezes for a moment as if in shock. Suddenly, the focus is no longer supposed to be on a single work, but on the personal musicality of each individual, Rantala says. It is the tubist, then, who engages in a duo improvisation with Rantala — and makes a good impression."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1dvp87q0",
+   "content": {
+    "title": "The conductor’s baton",
+    "id": "subtitle-das-st-ckchen-des-dirigenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp3bpc1",
+   "content": {
+    "text": "Rantala, as his explanations in Gachot’s stimulating film later show, believes that improvisation can strengthen one’s artistic personality and sense of musical presence. He believes that the current generation should be allowed to incorporate influences from jazz, rock, and pop into their classical interpretations."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cp3ihh0",
+   "content": {
+    "text": "The young musicians do not seem entirely convinced. They praise Rantala for his openness and flexibility. They also see the importance of crossover in the musical future. But they are glad if they do not have to improvise at the final concert and can instead rely on their conductor’s baton."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1dumjc11",
+   "content": {
+    "image": {
+     "author": "Anderdog Film",
+     "caption": "Improvisation promotes one’s own personality.",
+     "originalUrl": "/2026/09/01/65442f14-aab4-430f-bd57-d4464927635c.jpg?crop=2099,1181,x0,y0",
+     "width": 2099,
+     "height": 1181,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180341501"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2099,
+      "height": 1181,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2099,
+       "height": 1181,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Improvisation promotes one’s own personality.",
+    "author": "Anderdog Film"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1c5bjf44",
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1c5bjf45",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1c5bjf46",
+      "content": {
+       "owner": "NZZ",
+       "title": "Jazz musician Erroll Garner was a genius. His ten fingers transformed a piano into an orchestra",
+       "teaserImage": {
+        "originalUrl": "/2025/01/02/3887cbaf-6724-4aee-92db-e8411f46b08c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/02/3887cbaf-6724-4aee-92db-e8411f46b08c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3000,
+        "height": 1990,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3000,1687,x0,y177"
+         },
+         {
+          "name": "1:1",
+          "crop": "1990,1990,x459,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2653,1990,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1493,1990,x762,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "«Misty» is Erroll Garner's most famous composition – and now also the title of an atmospheric documentary film that Georges Gachot has dedicated to the incomparable jazz musician.",
+        "teaserAuthor": "NBC / Getty"
+       },
+       "teaserAuthor": "NBC / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1861538",
+       "readingTime": 240,
+       "authorLine": "Ueli Bernays",
+       "characterCount": 4824,
+       "product": "NZZ.ch",
+       "documentId": 1861538,
+       "layout": "regular",
+       "publicationDate": "2024-12-28T04:30:00.000Z",
+       "publicationLastUpdated": "2025-01-02T13:59:20.406Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-12-28T16:30:00.000Z",
+       "teaserCaption": "«Misty» is Erroll Garner's most famous composition – and now also the title of an atmospheric documentary film that Georges Gachot has dedicated to the incomparable jazz musician.",
+       "url": "/feuilleton/misty-jazzlegende-erroll-garner-in-einem-filmportraet-ld.1861538",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 764,
+       "leadText": "«Misty» is Erroll Garner's most famous composition – and now also the title of an atmospheric documentary film that Georges Gachot has dedicated to the incomparable jazz musician."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1c5bjf47",
+      "content": {
+       "title": "Protest fuels her music, her music fuels the protest against Donald Trump",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "editor": "1373927",
+       "teaserImage": {
+        "originalUrl": "/2026/08/17/215a20cc-6ce0-45f4-a6ed-857d1101f71b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/17/215a20cc-6ce0-45f4-a6ed-857d1101f71b.jpg?width=1024&quality=75&auto=webp",
+        "width": 5381,
+        "height": 8071,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5381,3027,x0,y632"
+         },
+         {
+          "name": "4:3",
+          "crop": "5381,4036,x0,y364"
+         },
+         {
+          "name": "1:1",
+          "crop": "3037,3037,x1015,y577"
+         },
+         {
+          "name": "3:4",
+          "crop": "5381,7175,x0,y217"
+         },
+         {
+          "name": "3:2",
+          "crop": "5381,3587,x0,y638"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Drummer Terri Lyne Carrington is one of the most influential instrumentalists in the American music scene. In conversation, she expresses surprise that her colleagues are hardly resisting the current administration.",
+        "teaserAuthor": "Meredith Truax"
+       },
+       "teaserAuthor": "Meredith Truax",
+       "nzzId": "ld.10019434",
+       "readingTime": 360,
+       "paywallQuestionOne": "How does Terri Lyne Carrington's music influence political protest?",
+       "paywallQuestionTwo": "What role does the Civil Rights Movement play in Carrington's work?",
+       "paywallQuestionThree": "How is the jazz scene reacting to Carrington's political activism?",
+       "characterCount": 7328,
+       "product": "NZZ.ch",
+       "documentId": 10019434,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-18T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-18T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-18T15:30:00.000Z",
+       "teaserCaption": "Drummer Terri Lyne Carrington is one of the most influential instrumentalists in the American music scene. In conversation, she expresses surprise that her colleagues are hardly resisting the current administration.",
+       "authorLine": "Ueli Bernays",
+       "authorImage": {
+        "originalUrl": "/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1825,
+        "height": 2738,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "1825,1825,x0,y457"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/musik/terri-lyne-carrington-black-music-als-protest-gegen-trump-ld.10019434",
+       "department": {
+        "name": "Music",
+        "path": "/feuilleton/musik"
+       },
+       "estimationWordCount": 1122,
+       "leadText": "Drummer Terri Lyne Carrington is one of the most influential instrumentalists in the American music scene. In conversation, she expresses surprise that her colleagues are hardly resisting the current administration.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1c5bjf48",
+      "content": {
+       "title": "Europeans applaud enthusiastically – but to the wrong beat. Melvin Gibbs explains how Black music conquered pop culture",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "characterCount": 7596,
+       "teaserImage": {
+        "originalUrl": "/2026/07/14/7ca87d90-b83e-4c86-bbbb-96e0d04697c4.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/14/7ca87d90-b83e-4c86-bbbb-96e0d04697c4.jpg?width=1024&quality=75&auto=webp",
+        "width": 2700,
+        "height": 3600,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2700,1519,x0,y193"
+         },
+         {
+          "name": "4:3",
+          "crop": "2700,2025,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2700,2700,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2700,3600,x0,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2700,1800,x0,y52"
+         }
+        ],
+        "focalPoint": {
+         "x": 1432,
+         "y": 952
+        },
+        "imageService": "fastly",
+        "teaserCaption": "Musician and musicologist Melvin Gibbs has written a fascinating and controversial book about Black music. He aims to show how African musicality differs from Western musicality.",
+        "teaserAuthor": "Galen Fletcher / Redux via Laif"
+       },
+       "teaserAuthor": "Galen Fletcher / Redux via Laif",
+       "editor": "1373927",
+       "nzzId": "ld.10013517",
+       "readingTime": 360,
+       "paywallQuestionOne": "According to Gibbs, how does African musicality differ from Western musicality?",
+       "paywallQuestionTwo": "Why does Black Music emphasize beats two and four instead of one and three?",
+       "paywallQuestionThree": "How does improvisation influence the development of Black music?",
+       "tags": [
+        "Musik"
+       ],
+       "product": "NZZ.ch",
+       "documentId": 10013517,
+       "layout": "regular",
+       "publicationDate": "2026-07-16T03:30:00.000Z",
+       "publicationLastUpdated": "2026-07-16T18:23:30.588Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-16T15:30:00.000Z",
+       "teaserCaption": "Musician and musicologist Melvin Gibbs has written a fascinating and controversial book about Black music. He aims to show how African musicality differs from Western musicality.",
+       "authorLine": "Ueli Bernays",
+       "authorImage": {
+        "originalUrl": "/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1825,
+        "height": 2738,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "1825,1825,x0,y457"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/musik/afrikanische-musik-vs-westliche-theorie-ein-buch-von-melvin-gibbs-ld.10013517",
+       "department": {
+        "name": "Music",
+        "path": "/feuilleton/musik"
+       },
+       "estimationWordCount": 1109,
+       "leadText": "Musician and musicologist Melvin Gibbs has written a fascinating and controversial book about Black music. He aims to show how African musicality differs from Western musicality.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/6aaddc29-c623-4471-811a-60b292b8ee0a.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/6aaddc29-c623-4471-811a-60b292b8ee0a.jpg?width=1024&quality=75&auto=webp",
+   "width": 1400,
+   "height": 787,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1399,787,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "1049,787,x159,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "787,787,x339,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "590,787,x405,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "1181,787,x110,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "In his documentary «Unisono,» Swiss director Georges Gachot shows a young orchestra rehearsing. Suddenly, Finnish pianist Iiro Rantala appears and causes a stir.",
+   "teaserAuthor": "Anderdog Film"
+  },
+  "teaserAuthor": "Anderdog Film",
+  "title": "The Authorities in Music: The Work, the Conductor, and I",
+  "nzzId": "ld.10021802",
+  "readingTime": 180,
+  "characterCount": 3620,
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   },
+   {
+    "name": "Music",
+    "path": "/feuilleton/musik"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021802,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "In his documentary «Unisono,» Swiss director Georges Gachot shows a young orchestra rehearsing. Suddenly, Finnish pianist Iiro Rantala appears and causes a stir.",
+  "nzzAuthors": [
+   {
+    "id": 1373927,
+    "name": "Ueli Bernays",
+    "shortName": "ubs",
+    "pianoId": "561b974b-1eaf-4d01-ae2c-9acb88e29cc9",
+    "external": false
+   }
+  ],
+  "authorLine": "Ueli Bernays",
+  "authorImage": {
+   "originalUrl": "/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+   "width": 1825,
+   "height": 2738,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "1825,1825,x0,y457"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1086069,
+    "name": "Ueli Bernays (subs.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802",
+  "department": {
+   "name": "Music",
+   "path": "/feuilleton/musik"
+  },
+  "estimationWordCount": 559,
+  "leadText": "In his documentary «Unisono,» Swiss director Georges Gachot shows a young orchestra rehearsing. Suddenly, Finnish pianist Iiro Rantala appears and causes a stir.",
+  "nzzSummaryEN": "- The film \"Unisono\" by Georges Gachot documents the rehearsals of a young orchestra, highlighting the musicians' discipline and dedication.\n- A surprising turn comes with Finnish pianist Iiro Rantala encouraging the musicians to try improvisation, which elicits mixed reactions.\n- Ultimately, the participants feel more secure with traditional, conductor-led performance and emphasize the importance of classical structures.",
+  "nzzSummaryDE": "- The film «Unisono» by Georges Gachot documents the rehearsals of a young orchestra and highlights the discipline and dedication of the musicians.\n - A surprising twist comes from Finnish pianist Iiro Rantala, who encourages the musicians to improvise, which elicits mixed reactions.\n - Ultimately, the participants feel more secure in the traditional, conducted style of playing and emphasize the importance of classical structures.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The authorities in music",
+  "nzzPrintSubtitle": "In the Swiss documentary film «Unisono», Swiss director Georges Gachot shows a young orchestra during rehearsals. ",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802",
+   "title": "Swiss documentary film «Unisono»: An insight into the rehearsals of the Aargau Youth Orchestra",
+   "socialMediaTitle": "An orchestra between tradition and jazz: The Swiss documentary film «Unisono»",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/6aaddc29-c623-4471-811a-60b292b8ee0a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1399,787,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2487124,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1861538",
+    "ld.10019434",
+    "ld.10013517"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 245136,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021802",
+    "name": "The Authorities in Music: The Work, the Conductor, and I",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "Musik",
+    "attributes": {
+     "headline": "The Authorities in Music: The Work, the Conductor, and I",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373927,
+       "name": "Ueli Bernays",
+       "shortName": "ubs",
+       "pianoId": "561b974b-1eaf-4d01-ae2c-9acb88e29cc9",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021802",
+   "pageType": "regular",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "Musik",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Swiss documentary film «Unisono»: An insight into the rehearsals of the Aargau Youth Orchestra",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/6aaddc29-c623-4471-811a-60b292b8ee0a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1399,787,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Ueli Bernays",
+  "description": "In his documentary «Unisono,» Swiss director Georges Gachot shows a young orchestra rehearsing. Suddenly, Finnish pianist Iiro Rantala appears and causes a stir.",
+  "news_keywords": "The authorities in music: The work, the conductor and I, Music, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:30:00+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The Authorities in Music: The Work, the Conductor, and I",
+  "ogTitle": "An orchestra between tradition and jazz: The Swiss documentary film «Unisono»",
+  "ogUrl": "https://www.nzz.ch/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802",
+  "mrf:cms_id": "nzz:ld.10021802",
+  "mrf:sections": "Feuilleton;Musik",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021802",
+  "nzzAuthors": [
+   {
+    "id": 1373927,
+    "name": "Ueli Bernays",
+    "shortName": "ubs",
+    "pianoId": "561b974b-1eaf-4d01-ae2c-9acb88e29cc9",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:50 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/feuilleton/musik",
+      "name": "Music"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Swiss documentary film «Unisono»: An insight into the rehearsals of the Aargau Youth Orchestra"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802"
+   },
+   "headline": "Swiss documentary film «Unisono»: An insight into the rehearsals of the Aargau Youth Orchestra",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "In his documentary «Unisono,» Swiss director Georges Gachot shows a young orchestra rehearsing. Suddenly, Finnish pianist Iiro Rantala appears and causes a stir.",
+   "isAccessibleForFree": false,
+   "articleSection": "Musik",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/6aaddc29-c623-4471-811a-60b292b8ee0a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1399,787,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Ueli Bernays"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 245136,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/musik/die-autoritaeten-in-der-musik-das-werk-der-dirigent-und-ich-ld.10021802",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021802",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "Ueli Bernays",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie verändert Improvisation die Dynamik in einem klassischen Orchester?\nWelche Rolle spielt Disziplin in der musikalischen Ausbildung junger Talente?\nWarum bevorzugen Musiker das Dirigenten-Stöckchen gegenüber Improvisation?",
+   "ldId": "ld.10021802",
+   "channel": "Feuilleton",
+   "subChannel": "Musik",
+   "heading": "Die Autoritäten in der Musik: Das Werk, der Dirigent und ich",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

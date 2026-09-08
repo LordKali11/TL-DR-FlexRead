@@ -1,0 +1,96 @@
+# Who negotiates for Europe: Brussels or the most powerful member states?
+
+*Top politicians are divided over who should take the lead in potential talks with Russia. It's an old dilemma that has gained in urgency.*
+
+**Ulrich Speck** · Pro · 2026-06-26 · 1610 words · [ld.10013007](https://www.nzz.ch/pro/wer-verhandelt-fuer-europa-bruessel-oder-die-maechtigsten-mitgliedstaaten-ld.10013007)
+
+![The central powers' claim to leadership: Poland's Prime Minister Donald Tusk, France's President Emmanuel Macron, Germany's Chancellor Friedrich Merz, Italy's Prime Minister Giorgia Meloni and Keir Starmer from Great Britain at a meeting in Berlin on June 24.](https://img-msp-prod.nzz.ch/2026/06/24/68924418-ff05-4fd9-8c61-fb3c2c10f978.jpg?crop=6000,4000,x0,y0)
+*The central powers' claim to leadership: Poland's Prime Minister Donald Tusk, France's President Emmanuel Macron, Germany's Chancellor Friedrich Merz, Italy's Prime Minister Giorgia Meloni and Keir Starmer from Great Britain at a meeting in Berlin on June 24.* (Michael Kappeler / AP)
+
+Henry Kissinger, the legendary national security advisor and Secretary of State to American Presidents Richard Nixon and Gerald Ford, is said to have remarked in the early 1970s: «Who do I call when I want to talk to Europe?»
+
+The saying became famous because it pinpointed a problem: that in Europe – at that time only Western Europe – there was no unity and no clear political leadership. Today, a similar question arises: Who is calling Moscow on behalf of Europe to conduct negotiations on Ukraine and the European security order?
+
+Today, it is no longer about an object called upon by the hegemonic superpower, the U.S. It is about a Europe that aspires to take responsibility as a geopolitical actor in matters of war and peace. This, however, requires clarifying one crucial question: Who is allowed to speak for Europe, and who will enjoy broad support as its leading spokesperson?
+
+The environment has changed dramatically in recent decades. Europe has grown – since the end of the Cold War, the eastern part of the continent has largely become part of it. At the same time, the Soviet Union collapsed; what remains is the core state of the empire, Russia. The U.S., on the other hand, wants to concentrate on its own neighborhood. And it wants to play a leading role in Asia – in the world's most economically dynamic region, which has also become the stage for rivalry with China.
+
+## Two options present themselves
+
+In this complex situation, Europeans have two alternatives: either they pursue their own foreign and security policies as states, or they try to act collectively and establish «Europe» as an actor on the world stage.
+
+When it comes to trade issues, global action is relatively straightforward for the EU. The Commission in Brussels has a clear mandate, although it can hardly act without the consent of the most powerful member states. However, in matters of war and peace, responsibility lies, even formally, with the member states. For decades, they have largely entrusted their fate to NATO. There is no independent European format for security policy.
+
+During the Cold War, this situation was unproblematic; the fate of Western Europe was intertwined with that of the United States. After 1989, military issues receded into the background, and the major powers seemed to become more deeply intertwined. In order to uphold the American security guarantee, European states participated in the war in Afghanistan after September 11, 2001.
+
+The Western reaction to the Russian invasion of Ukraine in February 2022 seemed to confirm a strategy that continued to rely on U.S. support. U.S. President Joe Biden, previously a foreign policy expert in Congress at the end of the Cold War, reacted entirely in line with the time-tested transatlantic logic: Washington led and brought the Europeans on board.
+
+![A handshake, but no result: Donald Trump and Vladimir Putin at a meeting in Alaska in August 2025 to end the war in Ukraine.](https://img-msp-prod.nzz.ch/2026/06/25/3fa0be52-d6d2-4df4-8804-6fa50e6c68c7.jpg?crop=6500,4098,x0,y0)
+*A handshake, but no result: Donald Trump and Vladimir Putin at a meeting in Alaska in August 2025 to end the war in Ukraine.*
+
+Despite all the shrill rhetoric, even Donald Trump initially seemed to follow tradition. However, his negotiations with Moscow yielded no results. Trump turned to other conflicts. At the same time, irritation grew in Europe over the U.S. president's statements about annexing Greenland. Added to this is the nervousness about a withdrawal of American troops and the announced withdrawal of military capabilities. Skepticism regarding a long-term U.S. commitment in Europe has grown.
+
+## The middle powers' claim to leadership
+
+Against this background, the three most important European powers – France, Great Britain and Germany – have joined forces and currently act as the «E3» with a claim to geopolitical leadership.
+
+Since there is no European institution responsible for security policy, the E3 is assuming this role. The trio has already spoken with Ukrainian President Volodymyr Zelensky about possible negotiations with Moscow. The group aims to play a central role in talks with Moscow to end the war. Apparently, the initiative for this came primarily from French President Emmanuel Macron.
+
+Macron stated that negotiations should primarily involve those powers that would provide future security guarantees to Ukraine, namely France and Great Britain. What such guarantees would actually be worth, however, remains an open question. Would the U.S., in turn, offer guarantees for the European guarantor powers? This was how Macron justified his claim to leadership. Great Britain and Germany are going along with it.
+
+## Criticism comes from Rome and Eastern Europe
+
+However, this approach is being questioned on several fronts. The criticism from Poland is particularly vehement. Warsaw will «not respect any arrangement reached without its participation,» stated Polish Prime Minister Donald Tusk. Italy, a member of the G-7 group of leading industrialized nations, is also demanding to be involved in the talks.
+
+In response to the criticism from Warsaw, German Chancellor Friedrich Merz had his government spokesman announce that the question of the negotiation format is not currently an issue. European negotiating steps would «always be coordinated very closely» with Poland, the spokesman added.
+
+The three Western European countries cannot negotiate over the heads of Poland and the other Central and Eastern European «frontline states.» These countries face the greatest threat from Russia and, due to their history, possess a deeper understanding of Russian strategy.
+
+Poland has also been investing heavily in its armed forces for years and has become a central component of any European deterrence and defense strategy. The country is at the forefront of support for Ukraine, as Polish Foreign Minister Radoslaw Sikorski emphasized.
+
+## Meeting of heads of government in Berlin
+
+Nevertheless, the German Chancellor is apparently trying to push through the E3 format. To deflect criticism, Merz invited participants to a meeting in Berlin on Wednesday – the E5 format, which includes Poland and Italy. Any dissent that likely existed was not made public. Instead, the E5 presented an image of unity. However, the joint declaration deliberately omitted the question of who represents Europe.
+
+There was agreement on the content of the negotiations, the «conditions for a just and lasting peace,» as the communiqué stated. Regarding the format, it was only said that the E5 supported «proposals for a direct dialogue between Ukraine and Russia with the active participation of the United States and Europe.»
+
+## Brussels also wants to play a role
+
+Poland was not the only country to voice criticism. EU High Representative Kaja Kallas also expressed similar sentiments. Speaking to the German business newspaper Handelsblatt, the former Estonian prime minister said the negotiating team must include someone who understands Russia and knows the «Russian tricks.» That, she said, is not currently the case: «Do you see any Eastern European who is actually involved in these preparations?» Furthermore, she added, «no single country, not even a particularly large one,» has a mandate to represent all other EU countries.
+
+A third strand of opposition to the E3 comes from the President of the European Council, António Costa. Within the Brussels institutional framework, the European Council represents the member states – with a certain role in common foreign policy.
+
+The fact that the Chief of Staff of the President of the European Council had called the Russian government caused quite a stir at last week's EU summit. In other words, he himself is claiming a leading role in talks with Moscow. And apparently, he is doing so behind the backs of those on whom he depends: the heads of state and government of the EU.
+
+Macron and Merz were reportedly irritated when they learned of it. However, some EU member states, such as Belgium and Slovakia, also expressed their approval. Commission President Ursula von der Leyen also defended Costa's initiative – she too wants Brussels to be at the center of any potential negotiations with Moscow.
+
+![The leadership question remains unresolved: Cypriot President Nikos Christodoulides, Costa and von der Leyen at a press conference after the EU summit in Brussels on June 19.](https://img-msp-prod.nzz.ch/2026/06/25/85b8759f-9852-4fdc-90aa-73dec128dcea.jpg?crop=2916,1944,x0,y0)
+*The leadership question remains unresolved: Cypriot President Nikos Christodoulides, Costa and von der Leyen at a press conference after the EU summit in Brussels on June 19.* (Laia Ros / Reuters)
+
+## The question of the phone number remains open
+
+It is becoming clear: The question of leadership in the EU is unresolved. It is not just a phone number that is still missing. There is also no agreement on who should play a leading role in negotiations on the European security order.
+
+There is indeed a backstory to this. In 2014, after Russia's attack on Crimea and eastern Ukraine, German Chancellor Angela Merkel, together with then-French President François Hollande, assumed the leading role in negotiations between Russia and Ukraine. This met with little opposition. The conflict in Ukraine was not yet a matter of global politics, but rather seemed to be a regional problem.
+
+Today, the situation is different. The war in Ukraine has become a matter of destiny for Europe. It is through this war that Europeans are defining their relationship with Russia. Ukraine's position is also central to the future security of Europe.
+
+At the same time, very tangible power issues are at stake: Who will be able to claim precedence in foreign and security policy matters in the future? If the E3 were to establish itself as a format, this would be at the expense of medium-sized and smaller countries in Europe. At the same time, it is clear that not all 27 EU member states can enter into difficult geopolitical negotiations together, each with its own representatives.
+
+## An old problem with renewed urgency
+
+The dilemma is not new. But it has rarely been as clear as it is today. And it has gained in urgency.
+
+During the decades of generally benevolent American hegemony, the question of who led Europe was less important. Within the EU, the focus was primarily on economic issues – and these could be resolved behind closed doors through compromises.
+
+However, on matters of war and peace, states have considerably less room for negotiation. At the same time, the EU's typical method of protracted negotiations cannot be applied to geopolitical conflicts, where rapid decisions are required.
+
+The current dispute demonstrates one thing: a lasting solution to the European leadership question is not to be expected. Fault lines are emerging between large countries on the one hand and smaller and medium-sized member states and the institutions in Brussels on the other. This also applies to the East-West divide. If the Europeans are at the negotiating table, it will likely be an improvisation.
+
+But at the moment, it does not look that way. Ukraine is stronger, but is not – yet – clearly winning. Russia is weakened, but Putin's will seems unbroken.
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Debates about Europe's leadership in potential negotiations with Russia have arisen, particularly between Brussels and major member states like Germany, France, and Britain.
+- Criticism has come from Poland and Italy, which also demand participation in these talks, while the EU Commission and Brussels institutions claim a role as well.
+- Delays in resolving the leadership question hinder Europe's unity, especially in geopolitical decisions like the Ukraine crisis.

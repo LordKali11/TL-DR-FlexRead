@@ -1,0 +1,1770 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k07vh2fp1",
+   "content": {
+    "title": "Dominik Kaiser sold his TV station 3plus for over 100 million Swiss francs: «I first had to realize what wealth actually means»",
+    "lead": "As founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he discusses how he made «The Bachelor» a success and how his life has changed since selling his company.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k07vh2fp2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Rico Bandle (Text)",
+       "url": "/impressum/rico-bandle-ld.1894615",
+       "teaserImage": {
+        "originalUrl": "/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?crop=2809,2809,x1747,y398",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?crop=2809,2809,x1747,y398&width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1747,
+         "y": 398,
+         "width": 2809,
+         "height": 2809
+        }
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0hnps6k0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Silas Zindel (images)",
+       "url": "",
+       "teaserImage": {}
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k07vh2fq0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "«We were amused by all the critics»: Media entrepreneur Dominik Kaiser in a bar in Zurich.",
+     "originalUrl": "/2026/08/21/ca5e5b2a-339a-4e91-b3c0-e48916dcd610.jpg?crop=4572,6854,x0,y0",
+     "width": 4572,
+     "height": 6854,
+     "altText": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180135728"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4572,
+      "height": 6854,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4572,
+       "height": 6854,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "«We were amused by all the critics»: Media entrepreneur Dominik Kaiser in a bar in Zurich.",
+    "author": ""
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07vh2fq1",
+   "content": {
+    "text": "With his Hawaiian shirt and relaxed manner, Dominik Kaiser seems more like a surfing instructor than a media entrepreneur. Twenty years ago, he launched his private station 3+ and, with shows like «The Bachelor» and «Bauer, ledig, sucht . . .,» succeeded where everyone before him had failed: running a profitable private television business in Switzerland. He sold his station group to CH Media seven years ago, after which he disappeared from the public eye. Now he is speaking out for the first time."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-82dcd12a",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqda10",
+   "content": {
+    "text": "When was the last time you watched television?"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqda50",
+   "content": {
+    "text": "I don’t know, it’s been quite a while."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqda51",
+   "content": {
+    "text": "Does the medium no longer interest you?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqda60",
+   "content": {
+    "text": "I’m no longer involved. If I watch TV, it’s time-shifted. Since I’m not interested in soccer, the World Cup wasn’t a live event for me either. Professionally, I’ve closed the chapter on television."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqda61",
+   "content": {
+    "text": "You sold your station group to CH Media in 2019 for a reported price of around 150 million francs. Many people say that this was your greatest achievement."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqda70",
+   "content": {
+    "text": "I’m not allowed to comment on the sale price. The basis for the sale price was the high ratings and economic success of the stations. What was done with the stations afterward had nothing to do with me. During the sale negotiations, I was asked for my assessment of the future. I said that I expected several more years of stable advertising revenue for private Swiss stations. That has more or less proven true – with the unforeseeable dip during Covid."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqda71",
+   "content": {
+    "text": "Let’s talk about the beginnings. When you started the station 20 years ago, you were an unknown, and all the experts predicted a swift failure."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqda72",
+   "content": {
+    "text": "In 2001, Switzerland’s two national private stations – TV3 from the media group Tamedia and Tele24, a station founded by Roger Schawinski – ceased operations. I saw that as an opportunity. I closely studied their viewership figures, spending on in-house productions and licenses, and advertising revenue. In doing so, I realized that their revenues were actually good, but their costs were too high. I became convinced that with a different approach, profitable private television was possible in Switzerland. After a lot of preparatory work, I also found a major investor, but he pulled out a few months before the planned launch."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqda80",
+   "content": {
+    "text": "And then?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqda81",
+   "content": {
+    "text": "I had to change plans and cut costs further, designing the programming so that I could finance a large part of it myself. The first major in-house production came a few months after the launch. In retrospect, the investor's withdrawal proved to be a stroke of luck. We quickly broke even and were then able to reinvest everything each year and learn a lot."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqda90",
+   "content": {
+    "text": "In the beginning, you mainly ran cheap American series."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqda91",
+   "content": {
+    "text": "The idea was to acquire the Swiss rights for American series that were already running very successfully on German private stations, for example «CSI.» We just aired them on a different day. Anyone who missed an episode on RTL could then watch it on our station. That worked brilliantly."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pjdh1v1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "«The fight for love should always be accompanied by a wink,» says Dominik Kaiser about «The Bachelor».",
+     "originalUrl": "/2026/08/21/ef821141-5581-48e2-9ed3-cca3e0af0f26.jpg?crop=4616,6920,x0,y0",
+     "width": 4616,
+     "height": 6920,
+     "altText": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180135744"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4616,
+      "height": 6920,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4616,
+       "height": 6920,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "«The fight for love should always be accompanied by a wink,» says Dominik Kaiser about «The Bachelor».",
+    "author": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdaa0",
+   "content": {
+    "text": "But it was mainly your reality shows like «The Bachelor» or «Bauer, ledig, sucht . . .» that got people talking."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdaa1",
+   "content": {
+    "text": "The first real in-house production was «Superstar,» a music casting show. Shows like that were very popular at the time, like «Deutschland sucht den Superstar.»"
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdaa2",
+   "content": {
+    "text": "The show flopped, even though you managed to get Chris von Rohr as a judge."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdaa3",
+   "content": {
+    "text": "The show did okay, but it wasn't a big hit. We learned a lot from it."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdab0",
+   "content": {
+    "text": "You soon became the king of Swiss trash TV, the bogeyman of all cultural pessimists. The SRG director general at the time, Roger de Weck, said: «I find ‹Bachelor› to be contemptuous of both women and men.»"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdab1",
+   "content": {
+    "text": "There were quite a few statements like that. It didn't bother me. Everyone is entitled to their opinion, that's the beauty of democracy."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdab2",
+   "content": {
+    "text": "You’re laughing."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdab3",
+   "content": {
+    "text": "Statements like Roger de Weck's were a badge of honor for us. We had a good laugh about all the critics. It was more difficult at the beginning, when all the experts said our business model was doomed to fail. That unsettled us a bit, even though we had calculated everything precisely. Our clients also began to have doubts. After the first big ratings successes, that was no longer an issue. We had fun with our work, the ratings were good and we were commercially successful – that was the most important thing."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdac0",
+   "content": {
+    "text": "The shoots for «Bachelor» must have been a lot of fun."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdac1",
+   "content": {
+    "text": "I was never there."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdac2",
+   "content": {
+    "text": "You were never at the shoots for your most successful show?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdad0",
+   "content": {
+    "text": "It wasn't necessary. I had a great team. It wouldn't have been any better if I had interfered. I also didn't have the time."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdad1",
+   "content": {
+    "text": "But during the final review, you did make sure there were enough funny and embarrassing scenes, right?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdae0",
+   "content": {
+    "text": "Of course, we had planned in detail what we wanted to do before filming. The storytelling is very important. And casting is crucial. That's why we built up a large, expensive casting department that scouted people like Vujo Gavric, who brought us top ratings as the Bachelor. The American version of «The Bachelor» is very serious. We deliberately turned it into more of a comedy format. The battle for love should always be a bit tongue-in-cheek on our shows. The rights holder, Warner Brothers, was not very happy with our approach. But when they saw how successful we were, our version became an international model."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdaf1",
+   "content": {
+    "text": "How did you come up with the format? The first globally successful reality TV format was «Big Brother,» then came «Dschungelcamp.» You opted for «The Bachelor.»"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdaf2",
+   "content": {
+    "text": "We studied the viewership figures in countries where the format was already running and which are culturally similar to us. Of course, we also had our doubts about whether this strange situation, with 20 women vying for one guy, could work here. But when we visited the set of the American «Bachelorette,» we realized that this constellation triggers something in the human psyche."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdag0",
+   "content": {
+    "text": "You sold your station group seven years ago. Why?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdag1",
+   "content": {
+    "text": "That was a process. As CEO of the 3Plus Group, I worked an average of around 80 hours a week. And with great pleasure. About two years before the sale, I noticed I wasn't enjoying going to the office as much in the morning. Due to our strong growth, I had increasingly become a manager. In addition, Netflix and other streaming platforms were emerging at that time. It was clear to me that I would have had to rethink our business model in the long term, and we were working on that. I only realized how tired I was after the sale. Looking back, I have to say: I probably would have gotten sick if I had continued like that."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hnpc6e1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "«I still live in the same place as before, and I still don't have a car»: Dominik Kaiser.",
+     "originalUrl": "/2026/08/21/ffdab458-27aa-4a74-a852-093fcb9d68d4.jpg?crop=5010,7511,x0,y0",
+     "width": 5010,
+     "height": 7511,
+     "altText": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180135735"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5010,
+      "height": 7511,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5010,
+       "height": 7511,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "«I still live in the same place as before, and I still don't have a car»: Dominik Kaiser.",
+    "author": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdag2",
+   "content": {
+    "text": "You disappeared from the public eye after the sale. What have you been doing?"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdag3",
+   "content": {
+    "text": "I decided not to start anything new for a year. I allowed myself to make notes on new ideas, but no research. Gradually, I realized that it's great not to work for a while, but to read books, travel and discover other cultures. I love to learn and am very curious. So I started taking a lot of courses on strategy, economics, statistics, but especially on AI. At first online, because of Covid. I really enjoyed that. After that, I attended numerous other courses at top American universities. More than 30 in total."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pf3q830",
+   "content": {
+    "text": "You never had enough?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pf3p1c1",
+   "content": {
+    "text": "Learning has become a passion. I had never gone to university before and realized how much fun I have doing it. I also did a few consulting projects abroad, and eventually the desire to be an entrepreneur again slowly returned."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdah0",
+   "content": {
+    "text": "In what area?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdah1",
+   "content": {
+    "text": "I don't know yet. Probably something with entertainment again. I interviewed students in Korea, Taiwan and Japan to understand the culture and trends there. The U.S. used to be the pioneer in this area, but now I find Asia more exciting."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdah2",
+   "content": {
+    "text": "What are your findings from the interviews?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdah3",
+   "content": {
+    "text": "Two trends particularly fascinated me. In these countries, artificial intelligence is often used as a fortune teller. People want to know from the AI what the future holds, which job they should take, when to quit, whom they should date, even what dress they should wear to have a great day. Fortune telling is a huge topic."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdai0",
+   "content": {
+    "text": "Are you getting into the fortune-telling business?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdai1",
+   "content": {
+    "text": "Probably not, but I found it interesting because the topic is emotionally charged. There are already much bigger players working on AI as a life coach. For many people, ChatGPT and Claude are already their best friend, best advisor and therapist."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdai2",
+   "content": {
+    "text": "And the second trend?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdaj0",
+   "content": {
+    "text": "That one is from Japan, pretty crazy. I came across a pronounced fan culture there among young women that goes much further than what I knew from Europe. They maintain a fictional relationship with a star. A photo of this star hangs on their backpack, and in a café, they place the photo on the table so they can have tea with him. At the women's request, the AI then creates romantic stories that these women experience together with their star. If the story is too tame, they type in «more spicy,» and the story becomes more titillating. But for most, the AI doesn't go far enough. That's not so far removed from «The Bachelor» . . ."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdaj1",
+   "content": {
+    "text": "The challenge now is to develop a business model."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdaj2",
+   "content": {
+    "text": "I find that much more difficult than when I founded 3+. Back then, parameters like distribution, the advertising market and viewer behavior were quite clear and reasonably stable. Today, media and entertainment are changing rapidly. To found a company, you have to be able to see an approximate target of where the world will be in five years. What will AI be capable of then? Will distribution channels fragment even more? Which ones will be relevant? What will people's entertainment needs be? Pursuing that is very exciting, but finding answers is complex."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdaj3",
+   "content": {
+    "text": "Does classic television still have a future, apart from sports broadcasts?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdak0",
+   "content": {
+    "text": "I think so, if it continues to evolve. It's still about launching hits and offering and marketing them on all possible channels. How you do that has changed. But a lot is the same as it used to be."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdak1",
+   "content": {
+    "text": "With the sale of 3plus, you became a hundred-millionaire overnight. How did that change you?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdak2",
+   "content": {
+    "text": "I'm not allowed to comment on my share either. I worked so much before that I didn't think much about my own money. Actually, I could have sold a small stake earlier and become wealthy. The idea didn't occur to me; I was too focused on 3+. When it happened, I first had to realize what wealth actually means. That was also a process. It's a huge privilege to be in a situation where you can do only what brings you joy or what you find interesting."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pbqdak3",
+   "content": {
+    "text": "You didn't buy a villa and a Ferrari?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pbqdal0",
+   "content": {
+    "text": "My interests are a bit different. I still live in the same place as before, and I still don't have a car. My luxury is being able to travel a lot and take courses at the best universities. I have the opportunity to learn from the best people — to pursue my unbridled curiosity. I read a lot, I swim a lot, I have great friends and I'm developing my next project."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "personbox"
+  },
+  {
+   "identifier": "personbox",
+   "id": "doc-1k0pfl98p0",
+   "content": {
+    "name": "He had his first company at 16",
+    "bio": "Dominik Kaiser, 56, trained as a radio and television electrician. At 16, he founded his first company, which imported computers. Before launching the television channel 3plus in 2006, he was Managing Director of the music channel Viva-Plus in Germany and a board member of the Street Parade in Zurich. He also produced comedy programs for SRF (Swiss Radio and Television) with his company and ran a successful techno music label.",
+    "image": {
+     "author": "",
+     "caption": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ",
+     "component": "image",
+     "identifier": "p:1:1.image",
+     "id": "doc-1k0pfl98q0",
+     "content": {
+      "image": {
+       "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/24/2e7ee420-7fda-43a2-81e9-70682e014c62.jpg",
+       "mediaId": "CPq2HFIdjklA",
+       "key": "2026/08/24/2e7ee420-7fda-43a2-81e9-70682e014c62.jpg",
+       "width": 7295,
+       "height": 4866,
+       "mimeType": "image/jpeg",
+       "altText": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ",
+       "origins": [
+        {
+         "name": "Hugo",
+         "identifier": "2180135722"
+        }
+       ],
+       "crop": {
+        "x": 1930,
+        "y": 176,
+        "width": 3160,
+        "height": 4213,
+        "name": "article-image"
+       },
+       "namedCrops": [
+        {
+         "x": 1930,
+         "y": 176,
+         "width": 3160,
+         "height": 4213,
+         "name": "article-image"
+        }
+       ],
+       "imageService": "fastly",
+       "url": "https://img-msp-prod.nzz.ch/2026/08/24/2e7ee420-7fda-43a2-81e9-70682e014c62.jpg?crop=3160,4213,x1930,y176&width=1024&quality=75&auto=webp"
+      },
+      "caption": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ"
+     }
+    },
+    "author": "",
+    "caption": "Portrait of Dominik Kaiser, Swiss film, television, and music producer and entrepreneur. Photographed at Bar Campo in Zurich. August 20, 2026 © Silas Zindel for NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k07vh2fq2",
+   "paidContent": true,
+   "prevElement": "personbox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k07vh2fq3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k07vh2fq4",
+      "content": {
+       "title": "«Sorry, that’s fake news» – media entrepreneur Peter Wanner on the swan songs for his empire",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "interview",
+       "teaserImage": {
+        "originalUrl": "/2026/05/29/0186db5a-5a2d-4439-b771-88bb7ae3905a.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/29/0186db5a-5a2d-4439-b771-88bb7ae3905a.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3753,2111,x127,y17"
+         },
+         {
+          "name": "4:3",
+          "crop": "3669,2752,x233,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2068,2068,x887,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x1000,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4128,2752,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The owner of CH Media is defiant. He believes his company has a great future, even if the printed newspaper eventually ceases to be published daily. And he intends to broadcast the Champions League football match on television.",
+        "teaserAuthor": "NZZ"
+       },
+       "teaserAuthor": "NZZ",
+       "nzzId": "ld.10007028",
+       "readingTime": 720,
+       "paywallQuestionOne": "How does CH Media intend to successfully master digitalization despite a later start?",
+       "paywallQuestionTwo": "Why does Peter Wanner still believe in the future of regional journalism?",
+       "paywallQuestionThree": "How does CH Media plan to remain profitable without additional subsidies?",
+       "characterCount": 15363,
+       "product": "NZZ.ch",
+       "documentId": 10007028,
+       "layout": "regular",
+       "publicationDate": "2026-06-01T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-01T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-01T15:30:00.000Z",
+       "teaserCaption": "The owner of CH Media is defiant. He believes his company has a great future, even if the printed newspaper eventually ceases to be published daily. And he intends to broadcast the Champions League football match on television.",
+       "authorLine": "Rico Bandle, Guido Schätti, Karin Hofer",
+       "authorImage": {
+        "originalUrl": "/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2809,2809,x1747,y398"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/medien/sorry-das-sind-fake-news-medienunternehmer-peter-wanner-ueber-die-abgesaenge-auf-sein-imperium-ld.10007028",
+       "department": {
+        "name": "Media",
+        "path": "/feuilleton/medien"
+       },
+       "estimationWordCount": 2410,
+       "leadText": "The owner of CH Media is defiant. He believes his company has a great future, even if the printed newspaper eventually ceases to be published daily. And he intends to broadcast the Champions League football match on television.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k07vh2fq5",
+      "content": {
+       "owner": "NZZ",
+       "title": "Roger who? The new SRF director is a complete unknown",
+       "teaserImage": {
+        "originalUrl": "/2026/03/11/46ad3ea5-4752-4194-8a01-4d4188291653.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/11/46ad3ea5-4752-4194-8a01-4d4188291653.jpg?width=1024&quality=75&auto=webp",
+        "width": 8256,
+        "height": 6192,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5154,2899,x1829,y298"
+         },
+         {
+          "name": "1:1",
+          "crop": "2715,2715,x3109,y335"
+         },
+         {
+          "name": "4:3",
+          "crop": "8256,6192,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "4644,6192,x2326,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "8256,5504,x0,y199"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "With the appointment of media manager Roger Elsener, Swiss Radio and Television has made a non-ideological choice. This can only benefit the organization – but the appointment is still likely to generate discussion.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1928549",
+       "readingTime": 240,
+       "authorLine": "Sebastian Briellmann",
+       "characterCount": 5416,
+       "product": "NZZ.ch",
+       "documentId": 1928549,
+       "layout": "regular",
+       "publicationDate": "2026-03-11T09:14:45.241Z",
+       "publicationLastUpdated": "2026-03-11T17:22:22.325Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-03-11T21:14:45.241Z",
+       "teaserCaption": "With the appointment of media manager Roger Elsener, Swiss Radio and Television has made a non-ideological choice. This can only benefit the organization – but the appointment is still likely to generate discussion.",
+       "authorImage": {
+        "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/roger-who-der-neue-srf-direktor-ist-ein-grosser-unbekannter-ld.1928549",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 865,
+       "leadText": "With the appointment of media manager Roger Elsener, Swiss Radio and Television has made a non-ideological choice. This can only benefit the organization – but the appointment is still likely to generate discussion.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Dominik Kaiser sold his TV channel 3plus for over 100 million Swiss francs: «I first had to become aware of what wealth actually means.»",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/21/ca5e5b2a-339a-4e91-b3c0-e48916dcd610.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/ca5e5b2a-339a-4e91-b3c0-e48916dcd610.jpg?width=1024&quality=75&auto=webp",
+   "width": 4572,
+   "height": 6854,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4572,2572,x0,y1371"
+    },
+    {
+     "name": "4:3",
+     "crop": "4156,3117,x173,y1353"
+    },
+    {
+     "name": "1:1",
+     "crop": "4572,4572,x0,y1141"
+    },
+    {
+     "name": "3:4",
+     "crop": "4572,6096,x0,y379"
+    },
+    {
+     "name": "3:2",
+     "crop": "4572,3048,x0,y1353"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he talks about how he made «The Bachelor» a success and how his life has changed since selling the company."
+  },
+  "flag": "interview",
+  "editor": "1373070",
+  "nzzId": "ld.10019878",
+  "readingTime": 600,
+  "characterCount": 11944,
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   },
+   {
+    "name": "Media",
+    "path": "/feuilleton/medien"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10019878,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T18:17:56.416Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he talks about how he made «The Bachelor» a success and how his life has changed since selling the company.",
+  "nzzAuthors": [
+   {
+    "id": 1874431,
+    "name": "Rico Bandle",
+    "shortName": "rb",
+    "external": false
+   },
+   {
+    "id": 10003466,
+    "name": "Fotografinnen und Fotografen",
+    "shortName": "FF",
+    "external": true
+   }
+  ],
+  "authorLine": "Rico Bandle (text), Silas Zindel (images)",
+  "authorImage": {
+   "originalUrl": "/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?crop=2809,2809,x1747,y398",
+   "url": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?crop=2809,2809,x1747,y398&width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 4000,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 1747,
+    "y": 398,
+    "width": 2809,
+    "height": 2809
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1894615,
+    "name": "Rico Bandle (Text)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?crop=2809,2809,x1747,y398&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?crop=2809,2809,x1747,y398&width=1024&quality=75&auto=webp",
+  "url": "/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878",
+  "department": {
+   "name": "Media",
+   "path": "/feuilleton/medien"
+  },
+  "estimationWordCount": 1966,
+  "leadText": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he talks about how he made «The Bachelor» a success and how his life has changed since selling the company.",
+  "nzzSummaryEN": "- Dominik Kaiser sold his TV channel 3plus in 2019 for over 100 million Swiss francs to CH Media, after pioneering profitable private television in Switzerland 13 years earlier.\n- Since the sale, he has focused on personal growth, traveling, and education, particularly in AI and entertainment trends in Asia.\n- He plans to start a new project, possibly in the entertainment sector again, while reflecting on the evolving media landscape and the challenges of AI.",
+  "nzzSummaryDE": "- Dominik Kaiser sold his TV channel 3plus to CH Media for over 100 million Swiss francs in 2019, after having established profitable private television in Switzerland 13 years earlier.\n Since the sale, he has focused on personal growth, travel and further education, particularly in artificial intelligence and entertainment trends in Asia.\n - He plans to start a new project, possibly again in the entertainment sector, and reflects on the changing media landscape and the challenges of AI.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "«We were amused by all the critics.»",
+  "nzzPrintSubtitle": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In conversation with Rico Bandle, he talks about how he made «The Bachelor» a success and how his life has changed since selling his company.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878",
+   "title": "Dominik Kaiser: «We were amused by all the ‹Bachelor› critics.» ",
+   "socialMediaTitle": "Dominik Kaiser speaks for the first time since selling his TV station 3plus: «I first had to become aware of what wealth actually means.»",
+   "description": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he talks about how he made «The Bachelor» a success and how his life has changed since selling his company for over 100 million Swiss francs.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/21/ca5e5b2a-339a-4e91-b3c0-e48916dcd610.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4572,2572,x0,y1371&wmark=nzz"
+  },
+  "ldPublicationId": 2483664,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10007028",
+    "ld.1928549"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 746448,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "kuenstliche-intelligenz-ki",
+   "name": "Artificial Intelligence (AI)",
+   "tagName": "Artificial Intelligence (AI)",
+   "qId": "Q11660",
+   "seoTitle": "AI News – All NZZ articles on the topic of Artificial Intelligence",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:28:45.240Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/kuenstliche-intelligenz-ki",
+   "size": 2276,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Explained",
+    "title": "What is artificial intelligence? How does deep learning work? An overview",
+    "teaserImage": {
+     "originalUrl": "/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4661,
+     "height": 3097,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4661,2622,x0,y238"
+      },
+      {
+       "name": "1:1",
+       "crop": "3097,3097,x782,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4129,3097,x266,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2323,3097,x1169,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4646,3097,x8,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+     "teaserAuthor": "Miguel Candela / Imago"
+    },
+    "teaserAuthor": "Miguel Candela / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1632034",
+    "readingTime": 660,
+    "authorLine": "Ruth Fulterer, Eveline Geiser",
+    "characterCount": 15561,
+    "product": "NZZ.ch",
+    "documentId": "1632034",
+    "layout": "regular",
+    "publicationDate": "2021-11-05T08:27:54.281Z",
+    "publicationLastUpdated": "2026-04-29T10:01:03.477Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2021-11-05T20:27:54.281Z",
+    "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/kuenstliche-intelligenz-ki-deep-learning-einfach-erklaert-ld.1632034",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 2180,
+    "leadText": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "hasQ": true
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "The chip war reaches the logistics industry: Kühne + Nagel scrutinizes Asian subsidiary after US authorities' investigation",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3667,3667,x917,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+     "teaserAuthor": "Benoit Tessier / Reuters"
+    },
+    "teaserAuthor": "Benoit Tessier / Reuters",
+    "nzzId": "ld.10021434",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is the chip war affecting the logistics industry?",
+    "paywallQuestionTwo": "What role does Apex Logistics play in the Nvidia chip smuggling?",
+    "paywallQuestionThree": "How is Kühne + Nagel reacting to the investigations by the US authorities?",
+    "characterCount": 5867,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021434",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T10:04:23.699Z",
+    "publicationLastUpdated": "2026-09-01T07:43:01.458Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T22:04:23.699Z",
+    "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "authorLine": "Dominik Feldges",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/16/52e0b698-52d3-4f00-915a-fa5563d57443.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/kuehne-nagel-und-nvidia-transport-chip-krieg-erreicht-logistikbranche-ld.10021434",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 873,
+    "premium": true,
+    "leadText": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Countless videos circulate after Nepal disaster: Whether they are real is increasingly secondary for the public",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 675,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "615,461,x585,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "675,675,x525,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "506,675,x694,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1013,675,x187,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+     "teaserAuthor": "Screenshot Instagram; edited by NZZ"
+    },
+    "teaserAuthor": "Screenshot Instagram; edited by NZZ",
+    "editor": "1373070",
+    "tags": [
+     "Fotografie"
+    ],
+    "nzzId": "ld.10021416",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does AI-generated content influence the perception of disaster images?",
+    "paywallQuestionTwo": "What role does the labeling of AI content play in viewer trust?",
+    "paywallQuestionThree": "How does the mixing of real and fake images change our reactions?",
+    "characterCount": 6702,
+    "product": "NZZ.ch",
+    "documentId": "10021416",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T09:47:44.143Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "authorLine": "Dario Veréb",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/01/08/843b2812-68de-4f43-be8e-ade4c1e4f7e2.png?crop=1728,1728,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/medien/nach-der-katastrophe-in-nepal-kursieren-unzaehlige-videos-ob-sie-echt-sind-ist-fuer-das-publikum-zunehmend-zweitrangig-ld.10021416",
+    "department": {
+     "name": "Media",
+     "path": "/feuilleton/medien"
+    },
+    "estimationWordCount": 1068,
+    "leadText": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Constantly reachable and exhausted – China is the world's digital pioneer; this shows what awaits us in the near future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Oliver Radtke",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x611,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3334,3334,x1712,y333"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x1860,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+     "teaserAuthor": "Go Nakamura / Reuters"
+    },
+    "teaserAuthor": "Go Nakamura / Reuters",
+    "nzzId": "ld.10020483",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does digitalization affect mental health in China?",
+    "paywallQuestionTwo": "What social and economic pressures increase the burden?",
+    "paywallQuestionThree": "How is China responding to the challenges posed by AI and digitalization?",
+    "characterCount": 10235,
+    "tags": [
+     "Zeitgeschehen"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020483",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "url": "https://www.nzz.ch/feuilleton/dauererreichbar-und-erschoepft-china-ist-der-digitale-vorreiter-der-welt-hier-zeigt-sich-was-uns-in-naher-zukunft-bevorsteht-ld.10020483",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1407,
+    "leadText": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Madonna or Machine? Australia bans AI songs from charts – Switzerland to follow by year-end",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024&quality=75&auto=webp",
+     "width": 1972,
+     "height": 1315,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1972,1109,x0,y103"
+      },
+      {
+       "name": "4:3",
+       "crop": "1753,1315,x109,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1315,1315,x329,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "986,1315,x493,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1972,1315,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+     "teaserAuthor": "Brendan McDermid / Reuters"
+    },
+    "teaserAuthor": "Brendan McDermid / Reuters",
+    "nzzId": "ld.10021251",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why does Australia exclude AI-generated music from the charts?",
+    "paywallQuestionTwo": "How does AI affect music production and artists' rights?",
+    "paywallQuestionThree": "What measures is Switzerland planning to take against AI-generated music in the charts?",
+    "characterCount": 5105,
+    "product": "NZZ.ch",
+    "documentId": "10021251",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "authorLine": "Janique Weder",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/658595c2-7b09-41f4-b098-616595fb9540.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/madonna-oder-maschine-australien-verbannt-ki-songs-aus-den-charts-die-schweiz-zieht-bis-ende-jahr-nach-ld.10021251",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 790,
+    "leadText": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10019878",
+    "name": "Dominik Kaiser sold his TV channel 3plus for over 100 million Swiss francs: «I first had to become aware of what wealth actually means.»",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "Medien",
+    "attributes": {
+     "headline": "Dominik Kaiser sold his TV channel 3plus for over 100 million Swiss francs: «I first had to become aware of what wealth actually means.»",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1874431,
+       "name": "Rico Bandle",
+       "shortName": "rb",
+       "external": false
+      },
+      {
+       "id": 10003466,
+       "name": "Fotografinnen und Fotografen",
+       "shortName": "FF",
+       "external": true
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T18:17:56.416Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "interview",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10019878",
+   "pageType": "longformstandard",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "Medien",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Dominik Kaiser: «We were amused by all the ‹Bachelor› critics.» ",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/ca5e5b2a-339a-4e91-b3c0-e48916dcd610.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4572,2572,x0,y1371&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Rico Bandle (text), Silas Zindel (images)",
+  "description": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he talks about how he made «The Bachelor» a success and how his life has changed since selling his company for over 100 million Swiss francs.",
+  "news_keywords": "Dominik Kaiser sold his TV channel 3plus for over 100 million Swiss francs: «I first had to realize what wealth actually means,» Interview, Media, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T22:17:56+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "INTERVIEW - Dominik Kaiser sold his TV channel 3plus for over 100 million Swiss francs: «I first had to become aware of what wealth actually means.»",
+  "ogTitle": "Dominik Kaiser speaks for the first time since selling his TV station 3plus: «I first had to become aware of what wealth actually means.»",
+  "ogUrl": "https://www.nzz.ch/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878",
+  "mrf:cms_id": "nzz:ld.10019878",
+  "mrf:sections": "Feuilleton;Medien",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10019878",
+  "nzzAuthors": [
+   {
+    "id": 1874431,
+    "name": "Rico Bandle",
+    "shortName": "rb",
+    "external": false
+   },
+   {
+    "id": 10003466,
+    "name": "Fotografinnen und Fotografen",
+    "shortName": "FF",
+    "external": true
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:13 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/feuilleton/medien",
+      "name": "Media"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Dominik Kaiser: «We were amused by all the ‹Bachelor› critics.» "
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878"
+   },
+   "headline": "Dominik Kaiser: «We were amused by all the ‹Bachelor› critics.» ",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T22:17:56+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "As the founder of the 3plus Group, Dominik Kaiser became the king of Swiss private television. In this interview, he talks about how he made «The Bachelor» a success and how his life has changed since selling his company for over 100 million Swiss francs.",
+   "isAccessibleForFree": false,
+   "articleSection": "Medien",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/21/ca5e5b2a-339a-4e91-b3c0-e48916dcd610.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4572,2572,x0,y1371&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Rico Bandle"
+    },
+    {
+     "@type": "Person",
+     "name": "Photographers"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 746448,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/medien/dominik-kaiser-verkaufte-seinen-tv-sender-3plus-fuer-ueber-100-millionen-franken-ich-musste-mir-zuerst-bewusst-werden-was-reichtum-eigentlich-bedeutet-ld.10019878",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "interview",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10019878",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Rico Bandle (Text), Silas Zindel (Bilder)",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie gelang Dominik Kaiser der Durchbruch im Schweizer Privatfernsehen?\nWarum entschied sich Kaiser für den Verkauf seiner Sendergruppe?\nWelche Trends sieht Kaiser in der Zukunft der Medien und Unterhaltung?",
+   "ldId": "ld.10019878",
+   "channel": "Feuilleton",
+   "subChannel": "Medien",
+   "heading": "Dominik Kaiser verkaufte seinen TV-Sender 3plus für über 100 Millionen Franken: «Ich musste mir zuerst bewusst werden, was Reichtum eigentlich bedeutet»",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

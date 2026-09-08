@@ -1,0 +1,1996 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1jsr7np4p1",
+   "content": {
+    "title": "Switzerland's forgotten pass",
+    "lead": "The Münstertal celebrates the 125th anniversary of the Umbrail Pass road. Its most formative period was from 1914 to 1918, when Switzerland defended its neutrality during the war. A hike with the man who preserves the military historical heritage.",
+    "image": {
+     "author": "Swiss soldiers stationed in the Umbrail region during the First World War observe the fighting between opposing Austrian and Italian mountain troops through a telescope at close range; undated photograph from the war years between 1914 and 1918. (KEYSTONE/PHOTOPRESS-ARCHIV/Str)",
+     "caption": "Swiss Army soldiers were positioned in the Umbrail Pass area during the First World War. They observed the warfare between Austria-Hungary and Italy in close proximity.",
+     "originalUrl": "/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?crop=5564,3649,x0,y0",
+     "width": 5564,
+     "height": 3649,
+     "altText": "Swiss soldiers stationed in the Umbrail region during the First World War observe the fighting between opposing Austrian and Italian mountain troops through a telescope at close range; undated photograph from the war years between 1914 and 1918. (KEYSTONE/PHOTOPRESS-ARCHIV/Str)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145394"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5564,
+      "height": 3649,
+      "name": "desktop"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5564,
+       "height": 3649,
+       "name": "desktop"
+      },
+      {
+       "x": 1414,
+       "y": 0,
+       "width": 2737,
+       "height": 3649,
+       "name": "tablet",
+       "isAutomatic": true
+      },
+      {
+       "x": 1756,
+       "y": 0,
+       "width": 2053,
+       "height": 3649,
+       "name": "mobile",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "Photopress / Keystone",
+    "caption": "Swiss Army soldiers were positioned in the Umbrail Pass area during the First World War. They observed the warfare between Austria-Hungary and Italy in close proximity.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jsr7np4p2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Corina Gall, Münstertal",
+       "url": "/impressum/corina-gall-ld.1695470",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?crop=800,800,x0,y0",
+        "width": 800,
+        "height": 800,
+        "crop": {
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800,
+         "name": "1:1"
+        },
+        "imageService": "fastly",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jsr7np4q2",
+   "content": {
+    "text": "The Umbrail is the highest navigable pass in Switzerland. From the small village of Santa Maria in the Münstertal, the pass road leads over narrow hairpin bends and switchbacks up to 8,200 feet (2,500 meters) above sea level. David Accola, from Canton Graubünden, knows every curve here. During a drive into the mountains in mid-July, he speaks like a mountain and tourist guide. He is 63 years old, early retired, tanned, with a three-day beard and hiking clothes."
+   },
+   "data": {},
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-13a028b1",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0flu4h71",
+   "content": {
+    "text": "The road is heavily trafficked in summer. Racing cyclists, motorcycle groups, and car travelers reach the legendary Passo dello Stelvio, the Stelvio Pass, Italy's highest mountain pass at 8,858 feet (2,700 meters) above sea level, which connects South Tyrol with Lombardy, via the Umbrail. At the top there are restaurants, hotels, and souvenir shops. Italo-pop blares from a convertible, and the smell of bratwurst, fries, and gasoline hangs in the air."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1n70",
+   "content": {
+    "text": "In the restaurants, David Accola greets the employees by their first names, cracks casual jokes and tells good village stories as if he had spent his entire life here. But Accola grew up in Flims and was a career officer in the Swiss Army for 35 years. He was a Colonel in the General Staff, and as Chief of Staff, he was responsible for the deployment of ground troops at the WEF in Davos for many years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hr2doo1",
+   "content": {
+    "image": {
+     "author": "Michael Szönyi / Imago",
+     "caption": "The Umbrail Pass in Canton Graubünden is the highest navigable pass in Switzerland.",
+     "originalUrl": "/2026/08/21/a980f34d-9166-4995-93a9-59b9f908fa29.jpg?crop=7200,4802,x0,y0",
+     "width": 7200,
+     "height": 4802,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145628"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7200,
+      "height": 4802,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7200,
+       "height": 4802,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The Umbrail Pass in Canton Graubünden is the highest navigable pass in Switzerland.",
+    "author": "Michael Szönyi / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hqv0g31",
+   "content": {
+    "image": {
+     "author": "Santiago Urquijo / Getty",
+     "caption": "In the summer months, the pass is a popular route for motorcyclists and racing cyclists. Photographers stand ready on the bends, later selling their pictures online.",
+     "originalUrl": "/2026/08/21/b7ea8a97-4c7f-4ecc-8066-e03627bf1508.jpg?crop=6000,4000,x0,y0",
+     "width": 6000,
+     "height": 4000,
+     "altText": "Motorbikes climbing Umbrail Pass, Val Müstair, Inn, Graubünden, Switzerland",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145623"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 4000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 4000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In the summer months, the pass is a popular route for motorcyclists and racing cyclists. Photographers stand ready on the bends, later selling their pictures online.",
+    "author": "Santiago Urquijo / Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1na0",
+   "content": {
+    "text": "Accola is interested in the Umbrail Pass because of its unique military history. He is president of the Stelvio-Umbrail 14/18 association, which he founded in 2000 with friends from the Münstertal. Now the pass road over the Umbrail is 125 years old, the valley celebrated grandly in the summer, and Accola is in his element."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1ne0",
+   "content": {
+    "text": "The Umbrail is Swiss history. In the First World War, from 1914 to 1918, it was the Swiss Army's first line of defense. The Austro-Hungarian Empire and the Kingdom of Italy fought each other in the adjacent high mountains with artillery, at over 9,800 feet (3,000 meters) above sea level, in rock, snow, and ice. The Swiss soldiers maintained the neutral border in the tri-border area."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1nh0",
+   "content": {
+    "text": "On the peaks and ridges, the ruins of the Swiss, Austrian, and Italian troop camps still stand. Trenches trace wavy furrows in the earth, rusted barbed wire lies around. The relics from the mountain war remained unnoticed for decades. Until David Accola and his association colleagues rummaged through archives and soldiers' diaries. And turned the Münstertal into a destination for military tourists."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hr94j41",
+   "content": {
+    "image": {
+     "author": "Archaeological Service of Graubünden",
+     "caption": "An aerial photograph of the Umbrail and Stelvio Pass roads shows the furrows of the Swiss trenches from the First World War.",
+     "originalUrl": "/2026/08/21/14eea6d1-3c19-443a-8c6a-928fbfdf700d.jpg?crop=3648,2736,x0,y0",
+     "width": 3648,
+     "height": 2736,
+     "altText": "Umbrail Pass photos courtesy of career officer David Accola for a contribution by Corinna Gall",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179652916"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3648,
+      "height": 2736,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3648,
+       "height": 2736,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "An aerial photograph of the Umbrail and Stelvio Pass roads shows the furrows of the Swiss trenches from the First World War.",
+    "author": "Archaeological Service of Graubünden"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvons1nl0",
+   "content": {
+    "title": "A life for the army",
+    "id": "subtitle-ein-leben-f-r-die-armee"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1nn0",
+   "content": {
+    "text": "The history of war has accompanied David Accola for half his life. In the mid-1990s, he wrote a study on mountain warfare at the military academy. His diploma thesis dealt with the «Significance of Neutrality in Border Areas in the Context of Conflicts.» He read about the events at the Umbrail, and like Alice in Wonderland, Accola metaphorically fell down a rabbit hole. The more he knew, the more interested he became."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1nq1",
+   "content": {
+    "text": "The current Umbrail Pass road opened in 1901, and the First World War broke out in 1914. To prevent Italy from advancing into Austria via Switzerland, the army occupied the national border in August 1914. Switzerland sent soldiers to Santa Maria and later also to the Dreisprachenspitze, at 9,300 feet (2,843 meters) above sea level, directly on the border with Austria and Italy."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k004p3860",
+   "content": {
+    "text": "After Italy entered the war in spring 1915, the Swiss reinforced their presence. David Accola says that «the skirmishes between the Italian and Austrian artillery were so close that shell fragments landed on Swiss territory.» However, the Umbrail soldiers were proud that, compared to soldiers in other border sections, they had truly been in the war."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jtnkbdcs0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "35d2f8d21d6ddcb4cba22a510e841373",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-locator_map-container\"        id=\"q_locator_map_35d2f8d21d6ddcb4cba22a510e841373_q5e3c69bc279f41fe940599db12f4d288_container\"        data-q-item-id=\"35d2f8d21d6ddcb4cba22a510e841373\"        data-q-request-id=\"156ea98d1cfd9b981fe5a23f93f118bffdf352ef\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"35d2f8d21d6ddcb4cba22a510e841373\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"locator_map\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"35d2f8d21d6ddcb4cba22a510e841373\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"locator_map\"}},\"156ea98d1cfd9b981fe5a23f93f118bffdf352ef\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_locator_map_35d2f8d21d6ddcb4cba22a510e841373_q5e3c69bc279f41fe940599db12f4d288_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"35d2f8d21d6ddcb4cba22a510e841373\",\"title\":\"The Umbrail Pass road and the Stelvio Pass (copy from August 21, 2026, 10:57 AM)\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"cog.\",\"sources\":[],\"geojsonList\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.423512964765592,46.60159085821388]},\"id\":\"custom-layer-v5DIzRCwu2-nq6O8ZJIAe\",\"properties\":{\"label\":\"Santa Maria\",\"type\":\"point\",\"labelPosition\":\"left\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.452971297265776,46.528656903519504]},\"id\":\"custom-layer-WmDtZBOoMvqvy9M2zB7vc\",\"properties\":{\"label\":\"Stelvio Pass\",\"type\":\"point\",\"labelPosition\":\"right\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.43312209264164,46.54238351528792]},\"id\":\"custom-layer-oL9wwSx_NxtxJgR_wBW3L\",\"properties\":{\"label\":\"Umbrail Pass\",\"type\":\"mountain\",\"labelPosition\":\"left\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.571083485005431,46.553606920667676]},\"id\":\"custom-layer-q131kWVkoHcY-HbrOV9WK\",\"properties\":{\"label\":\"South Tyrol\",\"type\":\"label\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.39817917802776,46.49905342924387]},\"id\":\"custom-layer-QiB7yn3h9bQ9o8KTvbpP8\",\"properties\":{\"label\":\"Lombardy\",\"type\":\"label\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.421198982211166,46.57787440102709]},\"id\":\"custom-layer--C3pzc_ToIPosurdTN3_q\",\"properties\":{\"label\":\"Graubünden\",\"type\":\"label\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.377465672791004,46.46767068017462]},\"id\":\"custom-layer-Hs53Hbdg7wZ9_A5ndD3-D\",\"properties\":{\"label\":\"Bormio\",\"type\":\"city\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.446619391441345,46.62709167440559]},\"id\":\"custom-layer-zTleukz1_MNo0edL5mgbj\",\"properties\":{\"label\":\"Müstair\",\"type\":\"city\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.549129182018248,46.8677679063031]},\"id\":\"custom-layer-W6mAEevtHohl8kp5PMeRl\",\"properties\":{\"label\":\"Austria\",\"type\":\"country\",\"labelPosition\":\"left\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.252274802025738,46.72901435478417]},\"id\":\"custom-layer-9IkFEfL2c8gxsLX-HLjO1\",\"properties\":{\"label\":\"Switzerland\",\"type\":\"country\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"properties\":{\"label\":\"former border\"},\"geometry\":{\"type\":\"LineString\",\"coordinates\":[[10.4520827,46.5307105],[10.4531661,46.5262384],[10.4577705,46.5107694],[10.4699585,46.5018215],[10.4734794,46.5005164],[10.4753753,46.497347],[10.4756462,46.4956689],[10.4853966,46.4936179],[10.4900009,46.4979063],[10.4943344,46.4984656],[10.4997513,46.4969741],[10.5059807,46.4958554],[10.5097725,46.4960418],[10.5122101,46.4954825],[10.5254815,46.495296],[10.5295441,46.4941773],[10.5341485,46.4924992],[10.5376695,46.4917533],[10.5468781,46.4924992],[10.5514825,46.4919398],[10.5544618,46.4898886],[10.5571833,46.4855408],[10.5586598,46.4839142],[10.5602839,46.4823892],[10.5641228,46.4813725],[10.567814,46.4789323],[10.5695858,46.4782206],[10.5703241,46.4771022],[10.5751965,46.4753736],[10.5771159,46.47334],[10.5833172,46.471713],[10.5896661,46.4724248],[10.5932097,46.4702893],[10.5957197,46.4700859],[10.5982298,46.4692724],[10.6005921,46.4687639],[10.6215573,46.4482218],[10.6158979,46.4435099],[10.6161337,46.4422099],[10.6199066,46.4357099],[10.6184918,46.4334347],[10.6173128,46.4301842],[10.6156621,46.4296966],[10.6177844,46.4253082],[10.6180202,46.4223823],[10.619435,46.4188061],[10.6173128,46.4171805],[10.6180202,46.4150671],[10.6220289,46.412791],[10.6250944,46.4082386],[10.6281599,46.4075882],[10.6302822,46.408076],[10.62893,46.4035918],[10.6321816,46.4019101],[10.6273043,46.4009758],[10.6259494,46.3989203],[10.6224269,46.3976122],[10.621343,46.3959303],[10.6170076,46.3923796],[10.6161947,46.3884547],[10.6077947,46.3862119],[10.6086076,46.3826605],[10.6072528,46.3794827]]},\"id\":\"custom-layer-RTm3rAERnGP6We0k9b5R9\"}]},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.545129877868646,46.515161892699155]},\"id\":\"custom-layer-3n5sw8erF74Bgsyz-7w0C\",\"properties\":{\"label\":\"Ortler\",\"type\":\"mountain\",\"labelPosition\":\"right\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[10.511643798977275,46.49659915914057]},\"id\":\"custom-layer-wEI-mQ8dZa_FzXiaUE6zM\",\"properties\":{\"label\":\"Trafoi ice wall\",\"type\":\"mountain\",\"labelPosition\":\"bottom\",\"index\":0}}],\"options\":{\"baseLayer\":{\"layers\":{\"label\":false},\"style\":\"basic\"},\"dimension\":{\"bbox\":[10.30127097923014,46.396505055723594,10.662805945272993,46.645273046168654],\"useDefaultAspectRatio\":true},\"highlightRegion\":[{\"id\":\"Q11925\",\"label\":\"Graubünden\"}],\"initialZoomLevel\":-1,\"labelsBelowMap\":false,\"labelsBelowMapOneRow\":false,\"minimap\":{\"showMinimap\":false,\"options\":{\"type\":\"region\",\"position\":\"top-right\",\"region\":{\"id\":\"Q39\"}}},\"scale\":{\"options\":{\"position\":\"bottom-left\"}},\"showLegend\":true},\"updatedDate\":\"2026-08-21T12:44:26.547Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_locator_map_35d2f8d21d6ddcb4cba22a510e841373_q5e3c69bc279f41fe940599db12f4d288\",\"fontBaseUrl\":\"https://qv1-server.nzz.ch/files/locator_map/fonts/\",\"toolBaseUrl\":\"https://q-server.nzz.ch/locator_map\",\"apiKey\":\"UUOJDlqQTsVSgwOM1KVX\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qLocatorMap) {              clearInterval(checkAndInitialize);              new window.qLocatorMap({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qLocatorMap after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1ns0",
+   "content": {
+    "text": "Accola treats himself to a Corretto Grappa upon arrival at the Stelvio Pass. After the effortless car ride to 8,858 feet (2,700 meters) above sea level, he says, it is important to first get used to the altitude. A little later, he stands at the Dreisprachenspitze and illustrates the national borders on the ground with his hiking poles. Back then, they formed a Y-shape, with the Swiss in the northern triangle, the Italian Valtellina to the west, and Austrian South Tyrol to the east. The adversaries had eye contact, Accola says; «occasionally they were within hand grenade throwing distance.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hs08gb1",
+   "content": {
+    "image": {
+     "author": "Photopress / Keystone",
+     "caption": "Soldiers of the Swiss Army took up positions on the Dreisprachenspitze (Three Languages ​​Peak) at what was then the national border with Italy and Austria.",
+     "originalUrl": "/2026/08/21/c127aa99-6a71-4627-bfb5-f4914df5bce9.jpg?crop=5417,3611,x0,y127",
+     "width": 5417,
+     "height": 3866,
+     "altText": "Swiss Army soldiers took up positions on the border with Italy at the Dreisprachenspitze (Three Languages ​​Peak), Silvretta, Canton of Graubünden, undated photograph from the war years between 1914 and 1918. (KEYSTONE/PHOTOPRESS-ARCHIV/Str)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145843"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 127,
+      "width": 5417,
+      "height": 3611,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 127,
+       "width": 5417,
+       "height": 3611,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Soldiers of the Swiss Army took up positions on the Dreisprachenspitze (Three Languages ​​Peak) at what was then the national border with Italy and Austria.",
+    "author": "Photopress / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hrc17j1",
+   "content": {
+    "image": {
+     "author": "Photopress / Keystone",
+     "caption": "Most of the time, the Swiss soldiers spent guarding the border.",
+     "originalUrl": "/2026/08/21/6f8ebca1-5d1e-492c-9efe-b3ad60deff1c.jpg?crop=5961,3980,x10,y328",
+     "width": 5971,
+     "height": 4308,
+     "altText": "During World War I, two border guards of the Swiss Army keep watch at the Swiss border with Austria and Italy at the «Three Languages ​​Tip» of the Silvretta mountain range in the Canton of Grisons, Switzerland. Undated image taken during the war years between 1914 and 1918. (KEYSTONE/PHOTOPRESS-ARCHIV/Str)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145424"
+      }
+     ],
+     "crop": {
+      "x": 10,
+      "y": 328,
+      "width": 5961,
+      "height": 3980,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 10,
+       "y": 328,
+       "width": 5961,
+       "height": 3980,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Most of the time, the Swiss soldiers spent guarding the border.",
+    "author": "Photopress / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1nu0",
+   "content": {
+    "text": "The warring parties had an interest in the Swiss remaining, Accola says. The area on the border with Switzerland served as protection for them. To be hit there, he explained, the enemy would have had to shoot around the corner. Accola throws a stone over the hiking poles, for illustration. Once, the Swiss accommodation on the Dreisprachenspitze caught fire, he noted. «The Austrians rushed to put it out.»"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvons1nv0",
+   "content": {
+    "title": "Diaries found in Vienna",
+    "id": "subtitle-tageb-cher-in-wien-gefunden"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o00",
+   "content": {
+    "text": "The Stelvio-Umbrail 14/18 association was founded to make the traces of war accessible. Today there are 40 kilometers of hiking trails and 60 historical information boards. Accola drew the illustrations himself. A local artist created steel soldier figures, which now stand in the mountains. In Santa Maria, they have set up a museum, and Accola wrote the brochures for it. In winter, for more than 20 years, he has been building a relief of the terrain north and south of the Stelvio Pass. The shell is in the museum; it is 12 square meters large."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hrps241",
+   "content": {
+    "image": {
+     "author": "Corina Gall / NZZ",
+     "caption": "To commemorate the military historical heritage of the region, the Stelvio-Umbrail 14/18 association has placed steel soldier figures on the Dreisprachenspitze. A local artist created the figures. The figure in the picture shows a Swiss soldier, recognizable by the shape of his hat.",
+     "originalUrl": "/2026/08/21/5ceadd77-532d-428f-a615-a03ad5aed7a7.jpg?crop=4000,3000,x0,y0",
+     "width": 4000,
+     "height": 3000,
+     "altText": "Photo provided by Corina Gall for the Umbrail article.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145581"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4000,
+      "height": 3000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4000,
+       "height": 3000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "To commemorate the military historical heritage of the region, the Stelvio-Umbrail 14/18 association has placed steel soldier figures on the Dreisprachenspitze. A local artist created the figures. The figure in the picture shows a Swiss soldier, recognizable by the shape of his hat.",
+    "author": "Corina Gall / NZZ"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o11",
+   "content": {
+    "text": "The association members did this voluntarily. But many of the founding members have passed away or are no longer able to actively help. The paths need to be maintained, the museum looked after, and the website updated, Accola says. «Friends and acquaintances help with the work in the field; without them, it wouldn't work,» he adds."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k007ob270",
+   "content": {
+    "text": "In addition, money must be raised. Around 30,000 Swiss francs have been invested this summer and last year, according to Accola. Most of the money comes from private donors, he states. He knows many of them from his active time in the army. He still benefits from his contacts in Bern. This summer, eight mountain specialists on a refresher course helped secure a challenging section of the path on Piz Umbrail with fixed ropes. «We are preserving a significant piece of Swiss army history, so Bern should also provide supportive assistance,» Accola says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o21",
+   "content": {
+    "text": "When the first Swiss troops were moved to the Umbrail Pass in 1915, the army did not yet have mountain infantry. «The soldiers first had to learn to ski,» Accola says. Or as the army called it: «moving forward on skis.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0ht1r3v1",
+   "content": {
+    "image": {
+     "author": "IBA Archive / Keystone",
+     "caption": "In the First World War, there were no mountain infantry in the Swiss Army. The soldiers stationed in the mountains first had to learn to move on skis.",
+     "originalUrl": "/2026/08/21/bc360774-cb20-42e9-af21-1c984b9996e0.jpg?crop=3304,4735,x0,y0",
+     "width": 3304,
+     "height": 4735,
+     "altText": "Swiss Army mountain troops jump over a ski jump, photographed in Switzerland around 1915 during the First World War. (KEYSTONE/IBA-ARCHIV/Str)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145467"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3304,
+      "height": 4735,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3304,
+       "height": 4735,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In the First World War, there were no mountain infantry in the Swiss Army. The soldiers stationed in the mountains first had to learn to move on skis.",
+    "author": "IBA Archive / Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fu7ra41",
+   "content": {
+    "text": "In their diaries, the soldiers mainly report on the weather. The winters were long, with up to four meters of snow at minus 40 degrees, and the accommodations were barely insulated. They spent the summers chopping wood for heating, and in winter they cleared the chimneys of snow. «The alternatives were simple: freeze to death or suffocate,» Accola says."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k00899831",
+   "content": {
+    "text": "Switzerland suffered few casualties; among the Austrians and Italians, there were significantly more. The cause of death was rarely a warlike event, but rather avalanches, frostbite, flu, lightning strikes, and falls into crevasses in the then still mighty glaciers."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hs45gg0",
+   "content": {
+    "image": {
+     "author": "Photopress / Keystone",
+     "caption": "An officer's ski patrol of the Swiss Army mountain troops during the First World War, conducting combat shooting on the border with Italy below Piz Umbrail.",
+     "originalUrl": "/2026/08/21/77f81b08-437b-4a80-a2ac-03340c994c92.jpg?crop=6294,4140,x0,y0",
+     "width": 6294,
+     "height": 4140,
+     "altText": "An officer ski patrol of the Swiss Army's mountain troops during World War I, conducting live-fire exercises on the border with Italy below Piz Umbrail, Canton of Graubünden. Undated photograph from the war years between 1914 and 1918. (KEYSTONE/PHOTOPRESS-ARCHIV/Str)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145395"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6294,
+      "height": 4140,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6294,
+       "height": 4140,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "An officer's ski patrol of the Swiss Army mountain troops during the First World War, conducting combat shooting on the border with Italy below Piz Umbrail.",
+    "author": "Photopress / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o31",
+   "content": {
+    "text": "Much of the information about life at the front comes from the commanders' diaries. Accola unearthed the Austrian reports in the State Archives in Vienna. The association also received diaries, photo albums, and letters from the soldiers' descendants. Accola himself is now an archive: years, front lines, curious anecdotes about love affairs in the soldiers' quarters – he knows and names them all."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvons1o50",
+   "content": {
+    "title": "Cannons on the Ortler",
+    "id": "subtitle-kanonen-auf-dem-ortler"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o60",
+   "content": {
+    "text": "When David Accola explains the mountains, the conceptually distant First World War suddenly seems very close. A few hundred meters from the Dreisprachenspitze, where the Swiss were positioned, stand the ruins of a large Austrian troop camp. The stone stove is still visible. Rusty cans lie around as if the Austrians had only withdrawn a few years ago."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0vgeb6d1",
+   "content": {
+    "image": {
+     "author": "NZZ",
+     "caption": "David Accola.",
+     "originalUrl": "/2026/08/21/ac4fcc7d-e727-4490-8e8d-0c375cc476c8.jpg?crop=1128,1507,x0,y0",
+     "width": 1128,
+     "height": 1507,
+     "altText": "David Accola. Photo credit: PD.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180145652"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1128,
+      "height": 1507,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1128,
+       "height": 1507,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "David Accola.",
+    "author": "NZZ"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--right"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o71",
+   "content": {
+    "text": "Accola says he found a can near an Italian camp. He could still read what was inside: Portuguese sardines, he recounts. He once met Austria's last empress, Zita, in an ophthalmologist's waiting room, Accola recounts. She spent the last years of her life in Zizers in the Chur Rhine Valley. Accola describes such stories as insignificant, yet he has a joyful grin on his face when he tells them."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fspbpj1",
+   "content": {
+    "text": "Accola is also the factual military expert when he says: «Due to my profession, I am primarily interested in conflicts from an operational, tactical, and combat engineering perspective.» Up in the mountains, he wears a baseball cap with a «Bleuet de France» pinned to it, a blue cornflower, the official symbol of France in remembrance of the victims of both World Wars. On his wrist, he wears a rubber band with the British commemorative symbol, the red poppy blossom. Accola bought the souvenirs during travels to military historical sites."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1o81",
+   "content": {
+    "text": "The front section at the Stelvio Pass was not decisive for the outcome of the First World War. But the way the warring parties fought each other in this inhospitable region was insane and surreal, Accola says. Back then, there were still mighty glaciers, and snow lay on the peaks year-round. «The area was hardly worth conquering for Italy,» Accola says. But for the Tyroleans, it was their homeland, which had to be defended with all their might."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hsse0b0",
+   "content": {
+    "image": {
+     "author": "Swiss Federal Archives / DPA/Keystone",
+     "caption": "Austrian soldiers lined up on the snowy Dreisprachenspitze in the tri-border area of Austria, Italy, and Switzerland during the First World War to receive their breakfast at the troop accommodation.",
+     "originalUrl": "/2026/08/21/edabcffb-4441-400e-ace4-e1aa90094819.jpg?crop=3000,1946,x0,y0",
+     "width": 3000,
+     "height": 1946,
+     "altText": "HANDOUT - Austrian soldiers assembled on the snow-covered Dreisprachenspitze (Three Languages ​​Peak) in the border region of Austria, Italy, and Switzerland during the First World War to receive their breakfast. Photo: Swiss Federal Archives/dpa (from dpa thematic package «First World War» of May 12, 2014 - ATTENTION: Use only for editorial purposes in accordance with the Creative Commons license «CC-BY-SA 3.0/CH» and with full attribution to «Swiss Federal Archives/dpa») +++(c) dpa - Picture Service+++",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180146041"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3000,
+      "height": 1946,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3000,
+       "height": 1946,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Austrian soldiers lined up on the snowy Dreisprachenspitze in the tri-border area of Austria, Italy, and Switzerland during the First World War to receive their breakfast at the troop accommodation.",
+    "author": "Swiss Federal Archives / DPA/Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1oa0",
+   "content": {
+    "text": "The Austrians wanted to defend themselves in the valley; Hungarian reservists and 38,000 riflemen were called up. However, the Tyrolean riflemen wanted to secure their own farmsteads, which lay in front of the established valley barriers. The Tyroleans moved into the mountains with their weapons, and the Italians followed. For whoever is positioned higher has a better view of the enemy's positions in the valley. The Hungarian reservists saw snow for the first time in their lives."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1ob1",
+   "content": {
+    "text": "An impressive episode occurred on the Trafoier Eiswand, a mountain on the then border between Austria and Italy, a few kilometers from the Swiss border. During the war, it was initially occupied by the Italians. In autumn 1917, the Austrians succeeded in driving the Alpini from the summit. The soldiers dug a tunnel through the steep ice wall, at more than 11,150 feet (3,400 meters) above sea level."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1od0",
+   "content": {
+    "text": "The Austrians also established the highest artillery position of the war on the nearby Ortler: involving Russian prisoners of war, they dragged several mountain cannons up to 12,800 feet (3,900 meters) above sea level. Accola raises his eyebrows when he tells this, as if he can hardly wait for the listener's astonishment."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k00c5rkf0",
+   "content": {
+    "title": "The key to the customs barrier",
+    "id": "subtitle-der-schl-ssel-zur-zollschranke"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvons1oe0",
+   "content": {
+    "text": "For the opening of the first three hiking trails, the association invited military delegations. Austrians, Italians, and Swiss. In mixed groups, uniformed but unarmed, they walked the trails. «The necessary approval from the Italian ministry took more time than the establishment of the hiking trails,» Accola says. Nothing moves quickly and pragmatically, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ftmbfo0",
+   "content": {
+    "text": "But Accola can inspire people with his ideas. When he talks about his successes, he grins proudly. The relics of the mountain war lie on Italian and Swiss soil. In Italy there is a national park, with an administration in Valtellina and one in South Tyrol, so Accola had to get the hiking trails approved twice."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0785h991",
+   "content": {
+    "text": "The director from Valtellina requested a dinner in Bormio. «We only talked about the project for five minutes,» Accola says. The director only wanted to know who he was dealing with, Accola recalls. The gentlemen enjoyed a Braulio in Bormio, and the matter was settled. But Accola was running late after dinner. In 2000, there was still a customs barrier between Switzerland and Italy, and it closed at 10 p.m. Accola says mischievously: «The director reached into his pocket and gave me the key.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jsr7np4q3",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jsr7np4q4",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jsr7np4q5",
+      "content": {
+       "owner": "NZZ",
+       "title": "God, Starbucks and lived history: a journey to the end of time in Val Müstair",
+       "teaserImage": {
+        "originalUrl": "/2024/07/30/a64c444f-1c41-4920-bd2b-64e9c5d4a1ee.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/07/30/a64c444f-1c41-4920-bd2b-64e9c5d4a1ee.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1775,
+        "height": 1240,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1775,998,x0,y211"
+         },
+         {
+          "name": "1:1",
+          "crop": "1240,1240,x210,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1653,1240,x122,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "581,774,x270,y466"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Founded by Charlemagne and renowned as a UNESCO World Heritage Site for its frescoes, the Convent of St. John attracts 45,000 tourists to Val Müstair every year. Today, only eight nuns still live there. They face an uncertain future.",
+        "teaserAuthor": "Veronique Hoegger"
+       },
+       "teaserAuthor": "Veronique Hoegger",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1841536",
+       "readingTime": 660,
+       "authorLine": "Annalena Müller",
+       "characterCount": 13726,
+       "product": "NZZ.ch",
+       "documentId": 1841536,
+       "layout": "longformstandard",
+       "publicationDate": "2024-08-06T03:30:00.000Z",
+       "publicationLastUpdated": "2024-08-06T16:12:56.513Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-08-06T15:30:00.000Z",
+       "teaserCaption": "Founded by Charlemagne and renowned as a UNESCO World Heritage Site for its frescoes, the Convent of St. John attracts 45,000 tourists to Val Müstair every year. Today, only eight nuns still live there. They face an uncertain future.",
+       "url": "/schweiz/gott-starbucks-und-gelebte-geschichte-eine-reise-zum-ende-der-zeit-ins-val-muestair-ld.1841536",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 2143,
+       "leadText": "Founded by Charlemagne and renowned as a UNESCO World Heritage Site for its frescoes, the Convent of St. John attracts 45,000 tourists to Val Müstair every year. Today, only eight nuns still live there. They face an uncertain future."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jsr7np4q6",
+      "content": {
+       "title": "A war in ice and snow",
+       "teaserImage": {
+        "originalUrl": "/2018/1/16/66ae1c4d-3534-46d0-bc2c-a4138e4e6279.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2018/1/16/66ae1c4d-3534-46d0-bc2c-a4138e4e6279.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5658,
+        "height": 3397,
+        "imageService": "fastly",
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5658,3183,x0,y107"
+         },
+         {
+          "name": "1:1",
+          "crop": "3397,3397,x1131,y0"
+         }
+        ],
+        "teaserCaption": "Following in the footsteps of the soldiers of the Alpine front – South Tyrol, Trentino and the legacy of the First World War"
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1335343",
+       "readingTime": 660,
+       "authorLine": "Stefan Reis, Swiss, Trentino-South Tyrol",
+       "characterCount": 14661,
+       "product": "NZZ.ch",
+       "documentId": 1335343,
+       "layout": "longformstandard",
+       "publicationDate": "2018-01-16T23:20:14.511Z",
+       "publicationLastUpdated": "2018-08-22T07:39:21.726Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2018-01-17T11:20:14.511Z",
+       "teaserCaption": "Following in the footsteps of the soldiers of the Alpine front – South Tyrol, Trentino and the legacy of the First World War",
+       "url": "/international/ein-krieg-in-eis-und-schnee-ld.1335343",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 2147,
+       "leadText": "Following in the footsteps of the soldiers of the Alpine front – South Tyrol, Trentino and the legacy of the First World War",
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Switzerland's forgotten passport",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "characterCount": 11744,
+  "teaserImage": {
+   "originalUrl": "/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1024&quality=75&auto=webp",
+   "width": 5564,
+   "height": 3649,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5564,3130,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "4865,3649,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3649,3649,x681,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2737,3649,x1787,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5474,3649,x90,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The Münstertal celebrates the 125th anniversary of the Umbrail Pass road. Its most formative period was from 1914 to 1918, when Switzerland defended its neutrality during the war. A hike with the man who preserves the military historical heritage.",
+   "teaserAuthor": "Michael Szönyi / Imago"
+  },
+  "teaserAuthor": "Michael Szönyi / Imago",
+  "teaserCarouselOne": {
+   "originalUrl": "/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1024&quality=75&auto=webp",
+   "width": 5564,
+   "height": 3649,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5564,3130,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3649,3649,x708,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "4865,3649,x349,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2737,3649,x1800,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5474,3649,x90,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselTwo": {
+   "originalUrl": "/2026/08/21/bc360774-cb20-42e9-af21-1c984b9996e0.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/bc360774-cb20-42e9-af21-1c984b9996e0.jpg?width=1024&quality=75&auto=webp",
+   "width": 3304,
+   "height": 4735,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3304,1858,x0,y1524"
+    },
+    {
+     "name": "1:1",
+     "crop": "2257,2257,x738,y1363"
+    },
+    {
+     "name": "4:3",
+     "crop": "3304,2478,x0,y1270"
+    },
+    {
+     "name": "3:4",
+     "crop": "2483,3309,x709,y996"
+    },
+    {
+     "name": "3:2",
+     "crop": "3304,2203,x0,y1439"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselThree": {
+   "originalUrl": "/2026/08/21/77f81b08-437b-4a80-a2ac-03340c994c92.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/77f81b08-437b-4a80-a2ac-03340c994c92.jpg?width=1024&quality=75&auto=webp",
+   "width": 6294,
+   "height": 4140,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6294,3540,x0,y600"
+    },
+    {
+     "name": "1:1",
+     "crop": "4140,4140,x1464,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "5520,4140,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3105,4140,x1523,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6210,4140,x84,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzId": "ld.10014266",
+  "readingTime": 600,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10014266,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-08-27T03:28:00.000Z",
+  "publicationDate": "2026-08-27T03:28:00.000Z",
+  "publicationLastUpdated": "2026-08-27T03:28:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:28:00.000Z",
+  "teaserCaption": "The Münstertal celebrates the 125th anniversary of the Umbrail Pass road. Its most formative period was from 1914 to 1918, when Switzerland defended its neutrality during the war. A hike with the man who preserves the military historical heritage.",
+  "nzzAuthors": [
+   {
+    "id": 1398648,
+    "name": "Corina Gall",
+    "shortName": "cog.",
+    "pianoId": "1727c1fe-d3c3-4fed-bbfa-f58b153441bd",
+    "external": false
+   }
+  ],
+  "authorLine": "Corina Gall, Münstertal",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?crop=800,800,x0,y0",
+   "width": 800,
+   "height": 800,
+   "crop": {
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 800,
+    "name": "1:1"
+   },
+   "imageService": "fastly",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1695470,
+    "name": "Corina Gall, Münstertal",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/schweiz/der-vergessene-pass-der-schweiz-ld.10014266",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 1977,
+  "leadText": "The Münstertal celebrates the 125th anniversary of the Umbrail Pass road. Its most formative period was from 1914 to 1918, when Switzerland defended its neutrality during the war. A hike with the man who preserves the military historical heritage.",
+  "nzzSummaryEN": "- The Umbrail Pass, the highest navigable pass in Switzerland, holds a rich history, particularly during World War I when it served as a defense line for Switzerland.\n- David Accola, a former professional officer, is dedicated to preserving the pass's historical legacy, heading the Stelvio-Umbrail 14/18 association, which organizes hiking trails and a museum to commemorate the region's history.\n- Despite challenges such as lack of support, the association keeps the military-historical heritage alive and has made significant relics accessible.",
+  "nzzSummaryDE": "- The Umbrail Pass, the highest drivable pass in Switzerland, has a rich history, especially during the First World War when it served as a defensive line for Switzerland.\n - David Accola, a former career officer, is committed to preserving the historical heritage of the pass, heads the Stelvio-Umbrail 14/18 association and organizes hiking trails and a museum to commemorate the history of the region.\n Despite challenges such as a lack of support, the association keeps the military-historical heritage alive and has made significant relics accessible.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The legacy of the First World War on the Umbrail Pass",
+  "nzzPrintSubtitle": "A hike over a mountain pass with the man who preserves the military historical heritage in the Münstertal valley",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/der-vergessene-pass-der-schweiz-ld.10014266",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/der-vergessene-pass-der-schweiz-ld.10014266",
+   "title": "Umbrail and Stelvio Pass: Where Switzerland defended its neutrality",
+   "socialMediaTitle": "How Switzerland defended its neutrality at the Umbrail Pass",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5564,3130,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2484273,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "World War I",
+    "slug": "/themen/erster-weltkrieg"
+   },
+   {
+    "name": "Italy",
+    "slug": "/themen/italien"
+   },
+   {
+    "name": "Austria",
+    "slug": "/themen/osterreich"
+   },
+   {
+    "name": "Swiss Army",
+    "slug": "/themen/schweizer-armee"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1841536",
+    "ld.1335343"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 821328,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "erster-weltkrieg",
+   "name": "World War I",
+   "tagName": "World War I",
+   "qId": "Q361",
+   "seoTitle": "World War I – All articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "EVENT",
+   "createdDate": "2025-04-08 18:13:04.024Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/erster-weltkrieg",
+   "size": 127,
+   "relatedTopics": [
+    {
+     "name": "Italien",
+     "slug": "/themen/italien"
+    },
+    {
+     "name": "Österreich",
+     "slug": "/themen/osterreich"
+    },
+    {
+     "name": "Schweizer Armee",
+     "slug": "/themen/schweizer-armee"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "A state for the emir – How the Kingdom of Jordan arises from the bankrupt estate of the Ottoman Empire",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Chaim Noll",
+    "flag": "Guest opinion",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/23927cf3-0489-4244-bc5b-4248a63fdf33.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/23927cf3-0489-4244-bc5b-4248a63fdf33.jpg?width=1024&quality=75&auto=webp",
+     "width": 5000,
+     "height": 3486,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5000,2812,x0,y80"
+      },
+      {
+       "name": "4:3",
+       "crop": "4648,3486,x352,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3486,3486,x1514,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2615,3486,x2385,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5000,3333,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4071,
+      "y": 1486
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Progressive Western circles often criticize Israel as a settler-colonialist state that has destroyed the established Arab order. This denunciatory view is historically unfounded. The origins of the state of Jordan, for example, clearly demonstrate this.",
+     "teaserAuthor": "UIG / Getty"
+    },
+    "teaserAuthor": "UIG / Getty",
+    "showComments": true,
+    "paywallQuestionOne": "How did Jordan emerge from the bankrupt remains of the Ottoman Empire?",
+    "paywallQuestionTwo": "What role did Great Britain play in the founding of Jordan?",
+    "paywallQuestionThree": "Is Israel rightly criticized as colonialist?",
+    "nzzId": "ld.10017128",
+    "readingTime": 540,
+    "characterCount": 12821,
+    "product": "NZZ.ch",
+    "documentId": "10017128",
+    "layout": "opinion",
+    "publicationDate": "2026-08-31T07:36:35.870Z",
+    "publicationLastUpdated": "2026-08-31T07:36:35.870Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T19:36:35.870Z",
+    "teaserCaption": "Progressive Western circles often criticize Israel as a settler-colonialist state that has destroyed the established Arab order. This denunciatory view is historically unfounded. The origins of the state of Jordan, for example, clearly demonstrate this.",
+    "url": "https://www.nzz.ch/meinung/ein-staat-fuer-den-emir-wie-das-koenigreich-jordanien-aus-der-konkursmasse-des-osmanischen-reiches-zustande-kam-ld.10017128",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1861,
+    "premium": true,
+    "leadText": "Progressive Western circles often criticize Israel as a settler-colonialist state that has destroyed the established Arab order. This denunciatory view is historically unfounded. The origins of the state of Jordan, for example, clearly demonstrate this.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZaS",
+    "flag": "interview",
+    "title": "China's development reminds him of Germany before the First World War, says the historian: «And this rapid rise is frightening»",
+    "teaserImage": {
+     "originalUrl": "/2026/04/09/51ad0b61-bb40-4b6c-97d8-c75842f21997.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/09/51ad0b61-bb40-4b6c-97d8-c75842f21997.jpg?width=1024&quality=75&auto=webp",
+     "width": 5942,
+     "height": 4195,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5942,3342,x0,y384"
+      },
+      {
+       "name": "1:1",
+       "crop": "4195,4195,x1054,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5593,4195,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2486,3315,x1530,y740"
+      },
+      {
+       "name": "3:2",
+       "crop": "5942,3961,x0,y135"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Some see a new Cold War looming between the U.S. and China. «Wrong,» says Odd Arne Westad, a history professor at Yale. The geopolitical situation, he says, is more like that in Europe in 1914.",
+     "teaserAuthor": "Brandstaetter Images/Hulton Archive/Getty"
+    },
+    "teaserAuthor": "Brandstaetter Images/Hulton Archive/Getty",
+    "nzzasFootnote": true,
+    "folioFootnote": false,
+    "authorLine": "Thomas Isler",
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1932646",
+    "readingTime": 540,
+    "characterCount": 11544,
+    "product": "NZZ.ch",
+    "documentId": "1932646",
+    "layout": "longformstandard",
+    "publicationDate": "2026-04-12T03:30:00.000Z",
+    "publicationLastUpdated": "2026-04-17T14:30:36.257Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-04-12T15:30:00.000Z",
+    "teaserCaption": "Some see a new Cold War looming between the U.S. and China. «Wrong,» says Odd Arne Westad, a history professor at Yale. The geopolitical situation, he says, is more like that in Europe in 1914.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/e72b9ddd-930d-4b11-a7f3-57eae14d4d29.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/was-hat-die-welt-von-heute-mit-1914-zu-tun-ein-historiker-warnt-vor-parallelen-ld.1932646",
+    "department": {
+     "name": "NZZ am Sonntag - Report and Debate",
+     "path": "/nzz-am-sonntag/report-und-debatte"
+    },
+    "estimationWordCount": 1850,
+    "leadText": "Some see a new Cold War looming between the U.S. and China. «Wrong,» says Odd Arne Westad, a history professor at Yale. The geopolitical situation, he says, is more like that in Europe in 1914.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "geschichte",
+    "title": "How to finance an army",
+    "teaserImage": {
+     "originalUrl": "/2026/03/25/471454f6-4ce6-412e-84a5-055aaec30f02.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/25/471454f6-4ce6-412e-84a5-055aaec30f02.jpg?width=1024&quality=75&auto=webp",
+     "width": 5220,
+     "height": 5473,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5220,2936,x0,y1268"
+      },
+      {
+       "name": "1:1",
+       "crop": "5220,5220,x0,y127"
+      },
+      {
+       "name": "4:3",
+       "crop": "5220,3915,x0,y779"
+      },
+      {
+       "name": "3:4",
+       "crop": "4105,5473,x558,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5220,3480,x0,y997"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "There has long been a rule: To overhaul the military, the federal government levied new taxes in wartime. Today, this policy of addition appears to be reaching its limits. A historical look ahead.",
+     "teaserAuthor": "Swiss Federal Archives, E5792#1988/204#913*"
+    },
+    "teaserAuthor": "Swiss Federal Archives, E5792#1988/204#913*",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "showComments": true,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1931002",
+    "readingTime": 1200,
+    "authorLine": "Christoph A. Schaltegger, Marcel Schelbert and Thomas Studer",
+    "characterCount": 26595,
+    "product": "NZZ.ch",
+    "documentId": "1931002",
+    "layout": "longformstandard",
+    "publicationDate": "2026-04-06T03:30:00.000Z",
+    "publicationLastUpdated": "2026-04-06T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-04-06T15:30:00.000Z",
+    "teaserCaption": "There has long been a rule: To overhaul the military, the federal government levied new taxes in wartime. Today, this policy of addition appears to be reaching its limits. A historical look ahead.",
+    "url": "https://www.nzz.ch/pro/aufruestung-wie-finanziert-man-die-schweizer-armee-ld.1931002",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 3961,
+    "premium": true,
+    "leadText": "There has long been a rule: To overhaul the military, the federal government levied new taxes in wartime. Today, this policy of addition appears to be reaching its limits. A historical look ahead.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 4,
+    "openToComment": false
+   },
+   {
+    "owner": "NZZ",
+    "title": "Disguised as a soldier, she went to fight in the First World War and was a loyal follower of Hitler: Stephanie Hollenstein knew no bounds.",
+    "teaserImage": {
+     "originalUrl": "/2026/01/12/48c99685-9d66-4fc7-a370-a88cc95e6839.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/01/12/48c99685-9d66-4fc7-a370-a88cc95e6839.jpg?width=1024&quality=75&auto=webp",
+     "width": 2702,
+     "height": 3842,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1898,1068,x358,y610"
+      },
+      {
+       "name": "1:1",
+       "crop": "740,740,x510,y588"
+      },
+      {
+       "name": "4:3",
+       "crop": "1898,1424,x361,y509"
+      },
+      {
+       "name": "3:4",
+       "crop": "1499,1999,x360,y604"
+      },
+      {
+       "name": "3:2",
+       "crop": "1898,1265,x347,y595"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "She was a lesbian, created \"degenerate\" art, and was highly respected by the Nazis: Stephanie Hollenstein defied all contradictions. Nina Schedlmayer tells the story of the Austrian painter's life.",
+     "teaserAuthor": "Historical Archive Lustenau"
+    },
+    "teaserAuthor": "Historical Archive Lustenau",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1919547",
+    "readingTime": 240,
+    "authorLine": "Oliver Pfohlmann",
+    "characterCount": 5582,
+    "product": "NZZ.ch",
+    "documentId": "1919547",
+    "layout": "longformstandard",
+    "publicationDate": "2026-01-10T04:30:00.000Z",
+    "publicationLastUpdated": "2026-01-12T11:11:34.133Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-01-10T16:30:00.000Z",
+    "teaserCaption": "She was a lesbian, created \"degenerate\" art, and was highly respected by the Nazis: Stephanie Hollenstein defied all contradictions. Nina Schedlmayer tells the story of the Austrian painter's life.",
+    "url": "https://www.nzz.ch/feuilleton/stephanie-hollenstein-sie-war-queer-ueberzeugte-nazi-und-machte-entartete-kunst-ld.1919547",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 854,
+    "leadText": "She was a lesbian, created \"degenerate\" art, and was highly respected by the Nazis: Stephanie Hollenstein defied all contradictions. Nina Schedlmayer tells the story of the Austrian painter's life.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "China and the US are vying for influence in the new world order. Technology is crucial.",
+    "teaserImage": {
+     "originalUrl": "/2025/12/09/ae67ce63-a669-499c-9bf1-30f305071438.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/09/ae67ce63-a669-499c-9bf1-30f305071438.jpg?width=1024&quality=75&auto=webp",
+     "width": 3093,
+     "height": 2062,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3093,1740,x0,y219"
+      },
+      {
+       "name": "1:1",
+       "crop": "2062,2062,x775,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2749,2062,x97,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1547,2062,x952,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3093,2062,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Technology means power. It is becoming even more important in a multipolar world, as the example of artificial intelligence shows. An analysis from three locations.",
+     "teaserAuthor": "Luke Dray / Getty"
+    },
+    "teaserAuthor": "Luke Dray / Getty",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "paywallQuestionOne": "How does technology influence global power relations?",
+    "paywallQuestionTwo": "What role does Europe play in the US-China tech conflict?",
+    "paywallQuestionThree": "How is China strengthening its technological influence worldwide?",
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1913271",
+    "readingTime": 600,
+    "showComments": true,
+    "authorLine": "Lukas Mäder",
+    "characterCount": 14222,
+    "product": "NZZ.ch",
+    "documentId": "1913271",
+    "layout": "longformstandard",
+    "publicationDate": "2025-12-10T04:30:00.000Z",
+    "publicationLastUpdated": "2025-12-10T07:51:21.338Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-12-10T16:30:00.000Z",
+    "teaserCaption": "Technology means power. It is becoming even more important in a multipolar world, as the example of artificial intelligence shows. An analysis from three locations.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/12d7dab6-c0cd-4722-a463-d8cc7c14d74f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/china-und-die-usa-kaempfen-um-ihren-einfluss-in-der-neuen-weltordnung-wichtig-dabei-ist-technologie-ld.1913271",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 2059,
+    "premium": true,
+    "leadText": "Technology means power. It is becoming even more important in a multipolar world, as the example of artificial intelligence shows. An analysis from three locations.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 5,
+    "openToComment": false,
+    "hasQ": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "If Europeans are not careful, the transatlantic partnership will end with the peace between Russia and Ukraine.",
+    "teaserImage": {
+     "originalUrl": "/2025/12/08/88c20cc0-2d31-4ae5-9951-72510348647f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/08/88c20cc0-2d31-4ae5-9951-72510348647f.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y544"
+      },
+      {
+       "name": "1:1",
+       "crop": "1386,1386,x1403,y768"
+      },
+      {
+       "name": "4:3",
+       "crop": "4740,3556,x0,y357"
+      },
+      {
+       "name": "3:4",
+       "crop": "2667,3556,x770,y361"
+      },
+      {
+       "name": "3:2",
+       "crop": "5333,3556,x0,y349"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "No peace agreement has yet been reached in the Ukraine war. But from a historical perspective, the draft peace plan contains a few pitfalls.",
+     "teaserAuthor": "Julia Demaree Nikhinson / AP"
+    },
+    "teaserAuthor": "Julia Demaree Nikhinson / AP",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1915407",
+    "readingTime": 420,
+    "showComments": true,
+    "authorLine": "Ulrich Schlie",
+    "characterCount": 9394,
+    "product": "NZZ.ch",
+    "documentId": "1915407",
+    "layout": "longformstandard",
+    "publicationDate": "2025-12-09T04:30:00.000Z",
+    "publicationLastUpdated": "2025-12-09T04:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-12-09T16:30:00.000Z",
+    "teaserCaption": "No peace agreement has yet been reached in the Ukraine war. But from a historical perspective, the draft peace plan contains a few pitfalls.",
+    "url": "https://www.nzz.ch/feuilleton/wenn-die-europaeer-nicht-aufpassen-endet-mit-dem-frieden-zwischen-russland-und-der-ukraine-die-transatlantische-partnerschaft-ld.1915407",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1389,
+    "premium": true,
+    "leadText": "No peace agreement has yet been reached in the Ukraine war. But from a historical perspective, the draft peace plan contains a few pitfalls.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 22,
+    "openToComment": false
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10014266",
+    "name": "Switzerland's forgotten passport",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Switzerland's forgotten passport",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1398648,
+       "name": "Corina Gall",
+       "shortName": "cog.",
+       "pianoId": "1727c1fe-d3c3-4fed-bbfa-f58b153441bd",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:28:00.000Z",
+     "updateTimestamp": "2026-08-27T03:28:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10014266",
+   "pageType": "longformvisual",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Umbrail and Stelvio Pass: Where Switzerland defended its neutrality",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5564,3130,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Corina Gall, Münstertal",
+  "description": "The Münstertal celebrates the 125th anniversary of the Umbrail Pass road. Its most formative period was from 1914 to 1918, when Switzerland defended its neutrality during the war. A hike with the man who preserves the military historical heritage.",
+  "news_keywords": "Switzerland's forgotten passport, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T07:28:00+02:00",
+  "date": "2026-08-27T07:28:00+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/der-vergessene-pass-der-schweiz-ld.10014266",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Switzerland's forgotten passport",
+  "ogTitle": "How Switzerland defended its neutrality at the Umbrail Pass",
+  "ogUrl": "https://www.nzz.ch/schweiz/der-vergessene-pass-der-schweiz-ld.10014266",
+  "mrf:cms_id": "nzz:ld.10014266",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10014266",
+  "nzzAuthors": [
+   {
+    "id": 1398648,
+    "name": "Corina Gall",
+    "shortName": "cog.",
+    "pianoId": "1727c1fe-d3c3-4fed-bbfa-f58b153441bd",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/der-vergessene-pass-der-schweiz-ld.10014266"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:12 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Umbrail and Stelvio Pass: Where Switzerland defended its neutrality"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/der-vergessene-pass-der-schweiz-ld.10014266"
+   },
+   "headline": "Umbrail and Stelvio Pass: Where Switzerland defended its neutrality",
+   "datePublished": "2026-08-27T07:28:00+02:00",
+   "dateModified": "2026-08-27T07:28:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The Münstertal celebrates the 125th anniversary of the Umbrail Pass road. Its most formative period was from 1914 to 1918, when Switzerland defended its neutrality during the war. A hike with the man who preserves the military historical heritage.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/21/397b4d78-0988-40d6-acf0-dd7d06775edc.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5564,3130,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Corina Gall"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 821328,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/der-vergessene-pass-der-schweiz-ld.10014266",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformvisual",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10014266",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-27T03:28:00.000Z",
+   "ContentAuthor": "Corina Gall, Münstertal",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie prägte der Erste Weltkrieg die Geschichte des Umbrailpasses?\nWelche Rolle spielt David Accola bei der Erhaltung des militärhistorischen Erbes?\nWie wird das Gebirgskriegserbe für Touristen zugänglich gemacht?",
+   "ldId": "ld.10014266",
+   "channel": "Schweiz",
+   "heading": "Der vergessene Pass der Schweiz",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

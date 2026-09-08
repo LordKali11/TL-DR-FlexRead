@@ -1,0 +1,687 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjc27ihb0",
+   "content": {
+    "subject": "Iran reagiert gelassen auf die Ankündigung neuer US-Sanktionen",
+    "preheader": "Das Wichtigste des Tages im Rückblick."
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-fc35cec4",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-newsletter-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-newsletter-subtitle",
+   "id": "doc-1jjc27ihc4",
+   "content": {
+    "title": "The most important events of the day in review"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjc27ihc7",
+   "content": {
+    "text": "<strong>The most important topics of the evening:</strong> Reactions to Trump's sanctions against Iran and the Israeli-Turkish power struggle in Syria"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-newsletter-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc290gv0",
+   "content": {
+    "text": "<strong>And you'll only read this in the NZZ:</strong> In Poland, the war in neighboring Russia is part of everyday life. Now Warsaw is systematically preparing its civilian population for a worst-case scenario: The entire society should be able to withstand the threat from Russia. A new study by an Eastern Europe expert recommends that Switzerland learn from this approach. It, too, is threatened by the Kremlin's hybrid warfare. <a data-li-document-ref=\"10020371\" href=\"https://www.nzz.ch/ld.10020371\">For more information, see the «NZZ Pro» background article.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2a8b40",
+   "content": {
+    "title": "This Evening's Most Important News"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2ahhg0",
+   "content": {
+    "title": "Washington's increased pressure – Tehran unimpressed"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1ju7oe7vi0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10020976",
+     "$ref": "document",
+     "reference": {
+      "id": "10020976"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp",
+     "mediaId": "buMHN3pgrNlF",
+     "key": "2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp",
+     "width": 2048,
+     "height": 1365,
+     "mimeType": "image/webp",
+     "altText": "An Iranian woman walks in a local market as the value of the Iranian rial drops, in Tehran, Iran, December 20, 2025. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS ATTENTION EDITORS - THIS PICTURE WAS PROVIDED BY A THIRD PARTY",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Majid Asgaripour / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2ap7v0",
+   "content": {
+    "text": "<strong>What happened:</strong> The U.S. is intensifying economic pressure on Iran and also threatening its trading partners with sanctions. Tehran remains undeterred and, for its part, threatens to restrict oil flow in the Persian Gulf. Washington faces a dilemma: Iran is difficult to isolate as long as China, as the most important buyer of Iranian oil, remains on its side. Beijing signals that it will not be deterred from trading with Iran by U.S. threats. <a href=\"https://www.nzz.ch/ld.10020976\">To the analysis</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0slejb80",
+   "content": {
+    "text": "<strong>Why it matters:</strong> If it were up to the U.S. government, all countries were to cut their economic ties with Iran. Last week, American President Donald Trump had spoken of «measures of historical proportions.» However, the steps presented on Monday fell short of this announcement."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2b5jt0",
+   "content": {
+    "text": "<strong>What the expert says:</strong> «Even if sanction pressure is further increased, a short-term change in Tehran's strategic calculus in the war is unlikely,» says Iran expert Ali Fathollah-Nejad. In the medium or long term, however, targeted sanctions against the regime could pave the way for Iran to re-evaluate its strategic calculus and develop a greater willingness for understanding and concessions."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2befn0",
+   "content": {
+    "title": "Israel's bombing of Syria, targeting Turkey"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sio1jl0",
+   "content": {
+    "text": "<strong>What happened:</strong> Israeli fighter jets attacked a military base in the Syrian province of Idlib last week. Damascus spoke of an «act of aggression.» Israeli Prime Minister Benjamin Netanyahu explained his motives that evening. His country and Syria had agreed on a status quo in security matters, according to a report. But in Israel itself, doubts are emerging as to whether the plan will work out. <a href=\"https://www.nzz.ch/ld.10020882\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2braf0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Syria has thus definitively become the scene of the Israeli-Turkish power struggle. This had already been hinted at 10 years ago. At that time, the Turkish army moved into northern Syria. Officially, the operation has since protected the border from Islamist terrorists and Kurdish militias. In Israel, however, this was always also seen as Turkish expansionism."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sjh3js0",
+   "content": {
+    "text": "<strong>Reactions:</strong> In Israel, voices are warning against the weaknesses of the new doctrine, not least with regard to Syria. When Bashar al-Assad's regime collapsed at the end of 2024, Israeli troops advanced on the Golan Heights. They have occupied the strip ever since. Danny Citrinowicz of the Institute for National Security Studies recently wrote that this brought little security, adding that the longer it takes, the more expensive it will become."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2ldtc0",
+   "content": {
+    "title": "What Else Happened"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjc2mckq0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sig2hq0",
+      "content": {
+       "text": "<strong>Continued decrease in asylum applications in Switzerland:</strong> The State Secretariat for Migration (SEM) expects significantly fewer asylum seekers this year than originally assumed. The federal government is lowering its forecast from previously about 26,000 to probably about 22,000 applications. <a href=\"https://www.nzz.ch/ld.10020886\">To the short news items</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0skgbfo0",
+      "content": {
+       "text": "<strong>Glacier collapse threat on Weisshorn in Valais municipality of Randa:</strong> The first collapses occurred on Monday. Randa has increased monitoring of the Weisshorn East hanging glacier above the village, and the area has been extensively cordoned off. It is unclear whether the increased danger will continue or subside. <a href=\"https://www.nzz.ch/ld.10020894\">To the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sih26a0",
+      "content": {
+       "text": "<strong>Swiss aircraft emergency landing due to chemical odor:</strong> On Tuesday morning, a flight from Chicago to Zurich over the Atlantic issued a distress call. The aircraft then landed in the Azores. All 222 passengers and the crew were able to exit the aircraft normally. <a href=\"https://www.nzz.ch/ld.10020892\">To the report</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "FXyDtWAE9NAM": {
+          "start": 209,
+          "end": 217,
+          "text": "Terceira"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sih2cd0",
+      "content": {
+       "text": "<strong>Man's rampage in Zurich luxury hotels; 167,000 Swiss francs in damage:</strong> The man, who stood before the Zurich District Court on Tuesday, booked luxury rooms in the «Baur au Lac» and Hotel «Storchen» in October 2024. The then 32-year-old claims to have committed his acts while high on cocaine. <a href=\"https://www.nzz.ch/ld.10020913\">To the report</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "lmJGiSuLucRW": {
+          "start": 146,
+          "end": 151,
+          "text": "stand"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mckq1",
+      "content": {
+       "text": "<strong>Chip giant Nvidia's impact on nervous stock markets:</strong> For the global economy, Nvidia's financial results are as important as a U.S. central bank interest rate decision. The quarterly figures, which will be published on Wednesday, absolutely must show a positive result, otherwise a market crash threatens. <a href=\"https://www.nzz.ch/ld.10020939\">To the analysis</a><a href=\"https://www.nzz.ch/ld.10020939\"></a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "rojQKuRQXUKC": {
+          "start": 304,
+          "end": 304,
+          "text": "splans"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0s6qhqe0",
+      "content": {
+       "text": "<strong>Another vehicle without steering wheel or pedals soon on U.S. roads:</strong> Tesla plans to launch its new Cybercabs in Austin this month. They play a key role in CEO Elon Musk's plan to dominate the robotaxi market. <a href=\"https://www.nzz.ch/ld.10020472\">To the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sk9g480",
+      "content": {
+       "text": "<strong>Basketball player Sophie Cunningham, a sudden star in the culture war:</strong> Athletically, Cunningham is not one of the big figures in the American basketball league. But with her criticism of trans athletes in an interview, she has become a favorite of the MAGA movement – even though no trans woman currently plays in the league. <a href=\"https://www.nzz.ch/ld.10020859\">To the report</a><a href=\"https://www.nzz.ch/ld.10020859\"></a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "ISmbVt28wAZV": {
+          "start": 179,
+          "end": 183,
+          "text": "WNBA"
+         }
+        }
+       }
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2nlqu0",
+   "content": {
+    "title": "Our recommendation for «NZZ Pro» subscribers"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjc2o9ei0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10019389",
+     "$ref": "document",
+     "reference": {
+      "id": "10019389"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/d3192a8d-e83a-4678-b8ec-85b2bf261a8c.webp",
+     "mediaId": "Pr1kNVqIWj64",
+     "key": "2026/08/25/d3192a8d-e83a-4678-b8ec-85b2bf261a8c.webp",
+     "width": 1200,
+     "height": 880,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/d3192a8d-e83a-4678-b8ec-85b2bf261a8c.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Bob Riha Jr / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjc2okv20",
+   "content": {
+    "text": "<strong>Aviation security:</strong> Since the terrorist attack of Sept. 11, 2001, in the U.S., much has changed regarding aviation security. The term stands for the prevention of interventions in air traffic. Since then, further attacks with aircraft have been prevented. The question, however, is whether this success will last. <a href=\"https://www.nzz.ch/ld.10019389\">To the background article</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-footnote"
+  },
+  {
+   "identifier": "newsletter_baukasten-footnote",
+   "id": "doc-1jjc2pk0h0",
+   "content": {
+    "text": "With the premium newsletter «NZZ Pro,» you get a look ahead at the global economy and geopolitics. Test it free for 30 days now. <a href=\"http://abo.nzz.ch/newsletter/pro\">Register here</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2qi8q0",
+   "content": {
+    "title": "Our Recommendations Today"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-footnote",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjc2qrde0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10020798",
+     "$ref": "document",
+     "reference": {
+      "id": "10020798"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/2335615b-a563-401d-8345-e691b0ceaa2e.webp",
+     "mediaId": "Xg50fttmjXDW",
+     "key": "2026/08/25/2335615b-a563-401d-8345-e691b0ceaa2e.webp",
+     "width": 1200,
+     "height": 800,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/2335615b-a563-401d-8345-e691b0ceaa2e.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Sammy Kogan / AP"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjc2r0390",
+   "content": {
+    "text": "<strong>Trade dispute with the U.S.:</strong> Since Mark Carney took office as head of government in March 2025, he has invoked Canadian sovereignty like a mantra. Carney seems prepared for the arduous conflict with Trump – however, it remains unclear how long the Canadian population is willing to bear the economic burdens for it. <a href=\"https://www.nzz.ch/ld.10020798\">To the background article</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sgghr80",
+   "content": {
+    "text": "<strong>Frequent stomach aches:</strong> «When in doubt, operate to remove the appendix,» that's what they used to say. But today, it is much easier to determine whether the appendix is actually inflamed. Fortunately, because in children, indeterminate abdominal pain can also have completely different causes. And not infrequently, the pain originates more in the head than in the stomach. <a href=\"https://www.nzz.ch/ld.10014468\">To the column «The main thing is health»</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2rng90",
+   "content": {
+    "title": "Before You Go On"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2s2t20",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Ukraine handles a significant part of its exports through the ports near Odesa. Now Russia is intensifying its attacks on the region. A decisive battle for Ukraine's economic survival is being fought far from the front. Foreign editor Jonas Roth was on site and describes in «NZZ Akzent» how the city is trying to defend itself against Russia. <a href=\"https://www.nzz.ch/ld.10020514\">To the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2sab20",
+   "content": {
+    "text": "<strong>🎶 Experience:</strong> This year's Lucerne Festival features maximum contrasts. Three concerts with different works push the boundaries of both volume and silence at the KKL Luzern. A tightrope walk that makes one hear the monumental «Alpine Symphony» differently, in particular. The festival runs until Sept. 13. <a href=\"https://www.nzz.ch/ld.10020769\">To the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2skk80",
+   "content": {
+    "text": "I wished you a relaxing Tuesday evening.<br>Lillybelle Eisele"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654588"
+   }
+  },
+  "issueDate": "2026-08-25T00:00:00.000Z",
+  "title": "Iran reacts calmly to the announcement of new US sanctions",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10020920",
+  "product": "NZZ.ch",
+  "documentId": 10020920,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T14:57:57.068Z",
+  "publicationDate": "2026-08-25T14:57:57.068Z",
+  "publicationLastUpdated": "2026-08-25T14:57:57.068Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T02:57:57.068Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10020920",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10020920",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483540,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020920",
+    "name": "Iran reacts calmly to the announcement of new US sanctions",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Iran reacts calmly to the announcement of new US sanctions",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T14:57:57.068Z",
+     "updateTimestamp": "2026-08-25T14:57:57.068Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020920",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Iran reacts calmly to the announcement of new US sanctions | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Iran reacts calmly to the announcement of new US sanctions, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T18:57:57+02:00",
+  "date": "2026-08-25T18:57:57+02:00",
+  "canonical": "https://www.nzz.ch/ld.10020920",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Iran reacts calmly to the announcement of new US sanctions",
+  "ogTitle": "Iran reacts calmly to the announcement of new US sanctions | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10020920",
+  "mrf:cms_id": "nzz:ld.10020920",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020920",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10020920"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:25 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Iran reacts calmly to the announcement of new US sanctions"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10020920"
+   },
+   "headline": "Iran reacts calmly to the announcement of new US sanctions | NZZ",
+   "datePublished": "2026-08-25T18:57:57+02:00",
+   "dateModified": "2026-08-25T18:57:57+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10020920",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020920"
+   ],
+   "ContentCreated": "2026-08-25T14:57:57.068Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020920",
+   "heading": "Iran reagiert gelassen auf die Ankündigung neuer US-Sanktionen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

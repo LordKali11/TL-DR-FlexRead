@@ -1,0 +1,1572 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k11b3o1v1",
+   "content": {
+    "title": "Dolly Parton: A darling for the poor and the rich, Blacks and whites, Republicans and Democrats",
+    "lead": "The American country diva, who died on Tuesday at the age of eighty, was not only an outstanding singer and songwriter. With her music and her wit, she proved to be the last star who could bridge societal divides.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k11b3o1v2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Ueli Bernays",
+       "url": "/impressum/ueli-bernays-ld.1086069",
+       "teaserImage": {
+        "originalUrl": "/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1825,
+        "height": 2738,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "1825,1027,x0,y856"
+         },
+         {
+          "name": "1:1",
+          "crop": "1825,1825,x0,y457"
+         },
+         {
+          "name": "4:3",
+          "crop": "1825,1369,x0,y685"
+         },
+         {
+          "name": "3:4",
+          "crop": "1825,2433,x0,y152"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11b3o200",
+   "content": {
+    "image": {
+     "author": "Bettmann / Getty",
+     "caption": "Dolly Parton – the darling of almost all Americans.",
+     "originalUrl": "/2026/08/27/1ff3e9d7-db85-478d-9731-c16a71feecb9.jpg?crop=2806,4260,x0,y0",
+     "width": 2806,
+     "height": 4260,
+     "altText": "(Original Caption) The lunchtime crowd is treated to a concert by country music star Dolly Parton and her band from the steps of City hall here August 21. The noon concert was in part a treat for those fans who have been unable to purchase tickets for her sold out performance August 22 at the Palladium.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180245423"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2806,
+      "height": 4260,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2806,
+       "height": 4260,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Dolly Parton – the darling of almost all Americans.",
+    "author": "Bettmann / Getty"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b3o201",
+   "content": {
+    "text": "When were Democrats and Republicans last in agreement? That was likely in 2021 in Tennessee, when the legislature decided to replace a monument to a controversial Confederate general with a statue of Dolly Parton. The corresponding bill had been introduced by representatives from both parties. However, it failed due to the artist’s own objection. It probably seemed too early to her to be fossilized and immortalized on a pedestal."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-0e22a4d3",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlf0",
+   "content": {
+    "text": "The episode, however, is symptomatic of the phenomenal country singer’s popularity; she died on Tuesday at the age of eighty. «Dolly» had long been the nation’s «darling» – from rural Tennessee, where the singer was born in 1946, to the depths of New York’s high society. «Is there anything we can all agree on?» asked the «New York Times» in a 2021 headline, and answered itself: «Yes: Dolly Parton.»"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11e2njp0",
+   "content": {
+    "title": "No Politics",
+    "id": "subtitle-keine-politik"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlh0",
+   "content": {
+    "text": "In light of her death, all Americans profess to be Dolly Parton fans. Even President Donald Trump, who had the American flag lowered to half-mast in mourning for the country singer. One might wonder whether Dolly Parton herself, given her incomparable popularity, might not have been a viable candidate for the presidency."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mli0",
+   "content": {
+    "text": "What a wonderful image, the diva with the touching girlish voice, the blond hairstyle, the large bust, and the even larger soul as a representative of her country! Given the intelligence she displayed not only as an artist but also as a producer, entrepreneur, and quick-witted media star, she could have been entrusted with the task. However, she deliberately stayed out of party politics. She liked to express herself on political issues in her songs or in the media, but not on politicians."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlj0",
+   "content": {
+    "text": "Politicians represent interests, parties, regions, which they defend against opposing interests, parties, regions. Their business is designed for competition. Other spheres must ensure that a society holds together, such as religion or culture: art, literature, music. And Dolly Parton actually seems to have been an artist who wanted to balance social tensions and bridge political divides."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlj1",
+   "content": {
+    "text": "Are there other examples? Bob Dylan, perhaps, who resists any political co-option? He is probably too reserved, too elitist. Bruce Springsteen or Taylor Swift? They conquered a wide audience with their all-American sound. But then Donald Trump’s controversial politics provoked them to take a clear stance against him. So today one must look to the realm of the dead to find other unifying figures like Dolly Parton – mythical figures like Elvis Presley or Aretha Franklin."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11e3pcg0",
+   "content": {
+    "title": "Out of Poverty",
+    "id": "subtitle-weg-aus-der-armut"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlk0",
+   "content": {
+    "text": "The prerequisite for Dolly Parton’s broad appeal was initially her talent. Without her warbling soprano and bubbling creativity, the country singer would not have succeeded in Nashville’s competitive music scene. Her talents also fostered the feminist self-confidence with which she emancipated herself from her patron, Porter Wagoner, at the right time. In 1973, she bid farewell to the mentor whose TV show she had joined in 1967 by writing him a friendly farewell song: «I Will Always Love You.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlk1",
+   "content": {
+    "text": "Afterwards, the singer landed hit after hit. Success slowly carried Dolly Parton, who had grown up in extreme poverty, up the ladder into American high society. Her home remained the rural society of Tennessee, but thanks to 100 million albums sold, she soon counted among the super-rich. «To look as cheap as she did, it would take a lot of money,» the artist quipped, who never made a secret of her cosmetic surgeries. In fact, however, she gained sympathy everywhere because she philanthropically invested her capital – for example, in the Imagination Library, a project that provided children with free books, or in the development of a COVID vaccine."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mll0",
+   "content": {
+    "text": "Born in the Appalachian Mountains, deep in the rural music scene’s hinterland, the singer grew up, in a sense, into the pure culture of country music. But her expressiveness was already nourished by contrasting sources. She learned to sing through the hymns sung in her grandfather’s church services. Her uncle, however, taught her to play the guitar. Thus, profane and religious motifs blended in her music even before she moved to Nashville at the age of seventeen."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlm0",
+   "content": {
+    "text": "Anyone as deeply rooted in a tradition as Dolly Parton can afford stylistic excursions. In Nashville, she became acquainted with a more modern, opulent country style. Later, with songs like «Here You Come Again» (1977), she went straight into pop. This flexibility, however, not only brought her additional income but also enabled her to connect with different milieus and generations. Her country repertoire continued to prove itself a musical home for an audience for whom pop was too fleeting and superficial. Her forays into contemporary song productions, however, kept her relevant."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11e5bpp0",
+   "content": {
+    "title": "The Pillar Saint",
+    "id": "subtitle-die-s-ulenheilige"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mln0",
+   "content": {
+    "text": "In her lyrics, Dolly Parton championed women and showed solidarity with minorities: country music is considered the music of white people in the USA. Dolly Parton, however, welcomed it when her songs were covered by Black female artists. Whitney Houston’s version of «I Will Always Love You» became a global hit. In 2024, Parton herself re-recorded «Jolene» with Beyoncé. She also became an idol for the African American population by supporting the «Black Lives Matter» movement: «Of course Black lives matter; do we think our little white asses are the only ones that count?» she said in a 2020 interview."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b4mlo0",
+   "content": {
+    "text": "Dolly Parton was thus an idol of country music; nevertheless, she led an artistic life beyond stylistic, social, or political constraints. Familiar with the poor and the rich, with whites and Blacks, with rural farmers and city dwellers, she lived out her Christian faith in worldly reality. She embodied, as it were, old Christian values – and represented democratic ideas regarding homosexuality and queerness."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11feq331",
+   "content": {
+    "text": "Perhaps the shared grief for Dolly Parton will once again provide unity between Democrats and Republicans. Perhaps they can now finally erect a monument to the pillar saint of American patriotism. Preferably right in front of the White House."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k11b3o202",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k11b3o203",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11b3o204",
+      "content": {
+       "title": "Glitter for eternity: Country singer Dolly Parton has died. An obituary",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/01/14/14f2c318-42b2-422c-8455-ff0fc66fa9fc.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/14f2c318-42b2-422c-8455-ff0fc66fa9fc.jpg?width=1024&quality=75&auto=webp",
+        "width": 2403,
+        "height": 3000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2403,1352,x0,y566"
+         },
+         {
+          "name": "4:3",
+          "crop": "2403,1802,x0,y315"
+         },
+         {
+          "name": "1:1",
+          "crop": "2403,2403,x0,y57"
+         },
+         {
+          "name": "3:4",
+          "crop": "2250,3000,x153,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2403,1602,x0,y304"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Dolly Parton, who turned artificiality into an art form and self-irony into a kind of sovereignty, dies at 80. Her songs transcended the boundaries between tradition and pop.",
+        "teaserAuthor": "Michael Ochs Archives / Getty"
+       },
+       "teaserAuthor": "Michael Ochs Archives / Getty",
+       "nzzId": "ld.10021046",
+       "readingTime": 360,
+       "paywallQuestionOne": "What made Dolly Parton a country music legend?",
+       "paywallQuestionTwo": "How did Dolly Parton shape the world of music and film?",
+       "paywallQuestionThree": "What legacy does Dolly Parton leave behind offstage?",
+       "characterCount": 7114,
+       "authorLine": "Jonathan Fischer",
+       "product": "NZZ.ch",
+       "documentId": 10021046,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-25T19:25:01.301Z",
+       "publicationLastUpdated": "2026-08-26T13:06:11.544Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-26T07:25:01.301Z",
+       "teaserCaption": "Dolly Parton, who turned artificiality into an art form and self-irony into a kind of sovereignty, dies at 80. Her songs transcended the boundaries between tradition and pop.",
+       "url": "/feuilleton/die-us-country-saengerin-dolly-parton-ist-gestorben-sie-wurde-80-jahre-alt-ld.10021046",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1155,
+       "leadText": "Dolly Parton, who turned artificiality into an art form and self-irony into a kind of sovereignty, dies at 80. Her songs transcended the boundaries between tradition and pop.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11b3o205",
+      "content": {
+       "owner": "NZZ",
+       "title": "The United States of Dolly Parton: The musician supposedly loves everyone – therein lies her power",
+       "teaserImage": {
+        "originalUrl": "/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024&quality=75&auto=webp",
+        "width": 2400,
+        "height": 3300,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2400,1350,x0,y711"
+         },
+         {
+          "name": "1:1",
+          "crop": "935,935,x725,y740"
+         },
+         {
+          "name": "4:3",
+          "crop": "2400,1800,x0,y446"
+         },
+         {
+          "name": "3:4",
+          "crop": "2400,3200,x0,y100"
+         },
+         {
+          "name": "3:2",
+          "crop": "2400,1600,x0,y551"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For decades, even divided parties of the left and right have been able to agree on Dolly Parton. Now she is turning 80.",
+        "teaserAuthor": "Michael Ochs Archives / Getty"
+       },
+       "teaserAuthor": "Michael Ochs Archives / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024&quality=75&auto=webp",
+        "width": 2400,
+        "height": 3300,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2400,1350,x0,y732"
+         },
+         {
+          "name": "1:1",
+          "crop": "2400,2400,x0,y118"
+         },
+         {
+          "name": "4:3",
+          "crop": "2400,1800,x0,y403"
+         },
+         {
+          "name": "3:4",
+          "crop": "2400,3200,x0,y50"
+         },
+         {
+          "name": "3:2",
+          "crop": "2400,1600,x0,y651"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/01/14/d7129356-0054-4cf5-9fbf-07d8a565659d.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/d7129356-0054-4cf5-9fbf-07d8a565659d.jpg?width=1024&quality=75&auto=webp",
+        "width": 2328,
+        "height": 1788,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2328,1309,x0,y168"
+         },
+         {
+          "name": "1:1",
+          "crop": "1788,1788,x540,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2328,1746,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1341,1788,x758,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2328,1552,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024&quality=75&auto=webp",
+        "width": 4609,
+        "height": 3073,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4609,2593,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1516,1516,x1565,y160"
+         },
+         {
+          "name": "4:3",
+          "crop": "4097,3073,x256,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1821,2428,x1455,y170"
+         },
+         {
+          "name": "3:2",
+          "crop": "4609,3073,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1920106",
+       "readingTime": 360,
+       "authorLine": "Rahel Zingg",
+       "characterCount": 6512,
+       "product": "NZZ.ch",
+       "documentId": 1920106,
+       "layout": "longformvisual",
+       "publicationDate": "2026-01-19T04:30:00.000Z",
+       "publicationLastUpdated": "2026-01-19T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-01-19T16:30:00.000Z",
+       "teaserCaption": "For decades, even divided parties of the left and right have been able to agree on Dolly Parton. Now she is turning 80.",
+       "authorImage": {
+        "originalUrl": "/2023/06/14/21d364d0-08ad-4702-a2cc-385027e0009f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/06/14/21d364d0-08ad-4702-a2cc-385027e0009f.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/21d364d0-08ad-4702-a2cc-385027e0009f.png?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/die-vereinigten-staaten-von-dolly-parton-die-musikerin-liebt-angeblich-alle-darin-liegt-ihre-macht-ld.1920106",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1219,
+       "leadText": "For decades, even divided parties of the left and right have been able to agree on Dolly Parton. Now she is turning 80.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11b3o206",
+      "content": {
+       "title": "Songs for all time: The six greatest songs by Dolly Parton",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "videoTeaser": "",
+       "teaserImage": {
+        "originalUrl": "/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024&quality=75&auto=webp",
+        "width": 4609,
+        "height": 3073,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4609,2593,x0,y123"
+         },
+         {
+          "name": "4:3",
+          "crop": "4097,3073,x329,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1577,1577,x1567,y191"
+         },
+         {
+          "name": "3:4",
+          "crop": "2305,3073,x1661,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4609,3073,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+        "teaserAuthor": "Brandon Sloter / Getty"
+       },
+       "teaserAuthor": "Brandon Sloter / Getty",
+       "nzzId": "ld.10021051",
+       "readingTime": 300,
+       "paywallQuestionOne": "What themes characterize Dolly Parton's biggest hits?",
+       "paywallQuestionTwo": "How did Dolly Parton integrate her country roots into pop hits?",
+       "paywallQuestionThree": "What messages do Dolly's songs convey about love and loss?",
+       "characterCount": 5910,
+       "product": "NZZ.ch",
+       "documentId": 10021051,
+       "layout": "regular",
+       "publicationDate": "2026-08-25T20:25:22.436Z",
+       "publicationLastUpdated": "2026-08-26T08:45:37.161Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-26T08:25:22.436Z",
+       "teaserCaption": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+       "authorLine": "Ivo Mijnssen, Inna Hartwich, Lisa Aeschlimann",
+       "authorImage": {
+        "originalUrl": "/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024&quality=75&auto=webp",
+        "width": 7953,
+        "height": 5293,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "5293,5293,x1330,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 937,
+       "leadText": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Dolly Parton: A darling for the poor and the rich, Blacks and whites, Republicans and Democrats",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "tags": [
+   "Musik"
+  ],
+  "editor": "1373927",
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/1ff3e9d7-db85-478d-9731-c16a71feecb9.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/1ff3e9d7-db85-478d-9731-c16a71feecb9.jpg?width=1024&quality=75&auto=webp",
+   "width": 2806,
+   "height": 4260,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2806,1578,x0,y1535"
+    },
+    {
+     "name": "4:3",
+     "crop": "2806,2105,x0,y1358"
+    },
+    {
+     "name": "1:1",
+     "crop": "2806,2806,x0,y781"
+    },
+    {
+     "name": "3:4",
+     "crop": "2806,3741,x0,y519"
+    },
+    {
+     "name": "3:2",
+     "crop": "2806,1871,x0,y1373"
+    }
+   ],
+   "focalPoint": {
+    "x": 1389,
+    "y": 2359
+   },
+   "imageService": "fastly",
+   "teaserCaption": "The American country diva, who died on Tuesday at the age of eighty, was not only an outstanding singer and songwriter. With her music and her playful spirit, she proved herself to be the last star who could transcend social divides.",
+   "teaserAuthor": "Bettmann / Getty"
+  },
+  "teaserAuthor": "Bettmann / Getty",
+  "nzzId": "ld.10021300",
+  "readingTime": 300,
+  "characterCount": 6681,
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   },
+   {
+    "name": "Music",
+    "path": "/feuilleton/musik"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021300,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T13:05:32.676Z",
+  "publicationDate": "2026-08-27T13:05:32.676Z",
+  "publicationLastUpdated": "2026-08-27T14:29:30.890Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T01:05:32.676Z",
+  "teaserCaption": "The American country diva, who died on Tuesday at the age of eighty, was not only an outstanding singer and songwriter. With her music and her playful spirit, she proved herself to be the last star who could transcend social divides.",
+  "nzzAuthors": [
+   {
+    "id": 1373927,
+    "name": "Ueli Bernays",
+    "shortName": "ubs",
+    "pianoId": "561b974b-1eaf-4d01-ae2c-9acb88e29cc9",
+    "external": false
+   }
+  ],
+  "authorLine": "Ueli Bernays",
+  "authorImage": {
+   "originalUrl": "/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+   "width": 1825,
+   "height": 2738,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "1825,1825,x0,y457"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1086069,
+    "name": "Ueli Bernays (subs.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/dac6a344-dfc7-4948-8ff5-f4abf64c3d2b.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300",
+  "department": {
+   "name": "Music",
+   "path": "/feuilleton/musik"
+  },
+  "estimationWordCount": 997,
+  "leadText": "The American country diva, who died on Tuesday at the age of eighty, was not only an outstanding singer and songwriter. With her music and her playful spirit, she proved herself to be the last star who could transcend social divides.",
+  "nzzSummaryEN": "- Dolly Parton, a beloved country singer and songwriter, passed away at 80 and was seen as a symbol of unity across societal and political divides.\n- Her music and philanthropic projects, including support for the Black Lives Matter movement and funding a Covid vaccine, made her an icon for many Americans.\n- She successfully blended country and pop music and championed women, minorities, and equality while remaining apolitical.",
+  "nzzSummaryDE": "Dolly Parton, a beloved country singer and songwriter, died at the age of eighty and was considered a symbol of unity across social and political divides. Her music and philanthropic projects, such as supporting the Black Lives Matter movement and funding a Covid vaccine, made her an icon for many Americans. She successfully blended country and pop music and championed women, minorities, and equality, yet always remained apolitical.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "She sang for reconciliation",
+  "nzzPrintSubtitle": "Dolly Parton was not only a style-defining country singer. She also proved herself to be a social unifying figure",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300",
+   "title": "Dolly Parton: the icon caught between societal divides",
+   "socialMediaTitle": "Dolly Parton: The artist who united America",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/1ff3e9d7-db85-478d-9731-c16a71feecb9.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2806,1578,x0,y1535&wmark=nzz"
+  },
+  "ldPublicationId": 2484729,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021046",
+    "ld.1920106",
+    "ld.10021051"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 434424,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "usa",
+   "name": "USA",
+   "tagName": "USA",
+   "qId": "Q30",
+   "seoTitle": "USA – All news and articles about the United States of America | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:37:30.759Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/usa",
+   "size": 8112,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Data analysis",
+    "title": "How Popular Is Donald Trump?",
+    "teaserImage": {
+     "originalUrl": "/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024&quality=75&auto=webp",
+     "width": 1801,
+     "height": 1351,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1801,1013,x0,y169"
+      },
+      {
+       "name": "4:3",
+       "crop": "1801,1351,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1351,1351,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1013,1351,x394,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1801,1201,x0,y75"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+     "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ"
+    },
+    "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1883243",
+    "readingTime": 120,
+    "authorLine": "Nikolai Thelitz",
+    "paywallQuestionOne": "Why has Trump's popularity declined?",
+    "paywallQuestionTwo": "What is Trump's stance on the economic situation?",
+    "paywallQuestionThree": "How do Americans view Trump's immigration policy?",
+    "characterCount": 2062,
+    "product": "NZZ.ch",
+    "documentId": "1883243",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:57:50.000Z",
+    "publicationLastUpdated": "2026-09-03T07:57:50.000Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:57:50.000Z",
+    "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/06/08/e254b9af-5f2d-4473-af8c-a9de53509f60.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2026-so-beliebt-ist-er-in-den-usa-ld.1883243",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 317,
+    "leadText": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "10 dollars for a coffee, 600% inflation – and hope for new oil billions: Welcome to everyday life in Venezuela",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y776"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x255,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4298,4298,x1520,y635"
+      },
+      {
+       "name": "3:4",
+       "crop": "3223,4298,x2395,y902"
+      },
+      {
+       "name": "3:2",
+       "crop": "7091,4727,x300,y472"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "showComments": true,
+    "tags": [
+     "Fotografie"
+    ],
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y388"
+      },
+      {
+       "name": "1:1",
+       "crop": "5200,5200,x1332,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x465,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3900,5200,x1982,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7800,5200,x32,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4659,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4659,4659,x340,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6212,4659,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3494,4659,x922,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6989,4659,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2669,
+      "y": 1695
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4629,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y646"
+      },
+      {
+       "name": "1:1",
+       "crop": "4629,4629,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6172,4629,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3472,4629,x331,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6944,4629,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2067,
+      "y": 2614
+     },
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10020261",
+    "readingTime": 600,
+    "paywallQuestionOne": "How will Trump's oil deal affect Venezuela's economic future?",
+    "paywallQuestionTwo": "What role do returning refugees and investors play in Venezuela's recovery?",
+    "paywallQuestionThree": "Why does the oil sector remain unsafe for investors despite reforms?",
+    "characterCount": 11936,
+    "product": "NZZ.ch",
+    "documentId": "10020261",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "authorLine": "Alexander Busch (text), Ana Gosen (images), Caracas",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/10-dollar-fuer-einen-kaffee-600-prozent-inflation-und-hoffnung-auf-neue-erdoelmilliarden-willkommen-im-alltag-in-venezuela-ld.10020261",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1908,
+    "premium": true,
+    "leadText": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 2,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Tanker for Tanker»: Trump escalates further in the Strait of Hormuz",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y306"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x427,y62"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x536,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2273,3030,x487,y185"
+      },
+      {
+       "name": "3:2",
+       "crop": "4999,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+     "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters"
+    },
+    "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Iran-Krieg",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10022048",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the escalation in Hormuz affect the global oil supply?",
+    "paywallQuestionTwo": "What goals is Trump pursuing with the blockade against Iran?",
+    "paywallQuestionThree": "How is Iran reacting to the US attacks?",
+    "characterCount": 5043,
+    "product": "NZZ.ch",
+    "documentId": "10022048",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:30:00.880Z",
+    "publicationLastUpdated": "2026-09-02T12:17:04.250Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:30:00.880Z",
+    "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "authorLine": "Christian Weisflog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/tanker-fuer-tanker-trump-zuendet-in-der-strasse-von-hormuz-die-naechste-eskalationsstufe-ld.10022048",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 776,
+    "leadText": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump's grab for Venezuela's oil reserves remains a paper tiger",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3668,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4891,3668,x305,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3668,3668,x916,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2751,3668,x1375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+     "teaserAuthor": "Gaby Oraa / Reuters"
+    },
+    "teaserAuthor": "Gaby Oraa / Reuters",
+    "flag": "Opinion",
+    "showComments": true,
+    "nzzId": "ld.10021740",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why does Trump's deal with Venezuela remain meaningless for the world market?",
+    "paywallQuestionTwo": "How do mismanagement and sanctions affect Venezuela's oil production?",
+    "paywallQuestionThree": "What challenges exist for investments in Venezuela's oil sector?",
+    "characterCount": 4369,
+    "product": "NZZ.ch",
+    "documentId": "10021740",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T06:50:39.452Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "authorLine": "Catherine Bosley",
+    "authorImage": {
+     "originalUrl": "/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/trumps-griff-nach-venezuelas-erdoelschaetzen-bleibt-ein-papiertiger-ld.10021740",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 637,
+    "premium": true,
+    "leadText": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021300",
+    "name": "Dolly Parton: A darling for the poor and the rich, Blacks and whites, Republicans and Democrats",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "Musik",
+    "attributes": {
+     "headline": "Dolly Parton: A darling for the poor and the rich, Blacks and whites, Republicans and Democrats",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373927,
+       "name": "Ueli Bernays",
+       "shortName": "ubs",
+       "pianoId": "561b974b-1eaf-4d01-ae2c-9acb88e29cc9",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T13:05:32.676Z",
+     "updateTimestamp": "2026-08-27T14:29:30.890Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021300",
+   "pageType": "regular",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "Musik",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Dolly Parton: the icon caught between societal divides",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/1ff3e9d7-db85-478d-9731-c16a71feecb9.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2806,1578,x0,y1535&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Ueli Bernays",
+  "description": "The American country diva, who died on Tuesday at the age of eighty, was not only an outstanding singer and songwriter. With her music and her playful spirit, she proved herself to be the last star who could transcend social divides.",
+  "news_keywords": "Dolly Parton: A darling for the poor and the rich, the black and the white, the Republicans and the Democrats, Music, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T18:29:30+02:00",
+  "date": "2026-08-27T17:05:32+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Dolly Parton: A darling for the poor and the rich, Blacks and whites, Republicans and Democrats",
+  "ogTitle": "Dolly Parton: The artist who united America",
+  "ogUrl": "https://www.nzz.ch/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300",
+  "mrf:cms_id": "nzz:ld.10021300",
+  "mrf:sections": "Feuilleton;Musik",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021300",
+  "nzzAuthors": [
+   {
+    "id": 1373927,
+    "name": "Ueli Bernays",
+    "shortName": "ubs",
+    "pianoId": "561b974b-1eaf-4d01-ae2c-9acb88e29cc9",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:53 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/feuilleton/musik",
+      "name": "Music"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Dolly Parton: the icon caught between societal divides"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300"
+   },
+   "headline": "Dolly Parton: the icon caught between societal divides",
+   "datePublished": "2026-08-27T17:05:32+02:00",
+   "dateModified": "2026-08-27T18:29:30+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The American country diva, who died on Tuesday at the age of eighty, was not only an outstanding singer and songwriter. With her music and her playful spirit, she proved herself to be the last star who could transcend social divides.",
+   "isAccessibleForFree": false,
+   "articleSection": "Musik",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/1ff3e9d7-db85-478d-9731-c16a71feecb9.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2806,1578,x0,y1535&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Ueli Bernays"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 434424,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/musik/dolly-parton-die-ikone-zwischen-gesellschaftlichen-graeben-ld.10021300",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021300",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-08-27T13:05:32.676Z",
+   "ContentAuthor": "Ueli Bernays",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie gelang es Dolly Parton, gesellschaftliche Gräben zu überbrücken?\nWelche Rolle spielte ihre Musik für ihre Popularität und Integration?\nWarum hielt sich Dolly Parton bewusst aus der Parteipolitik heraus?",
+   "ldId": "ld.10021300",
+   "channel": "Feuilleton",
+   "subChannel": "Musik",
+   "heading": "Dolly Parton: Ein Darling für die Armen und die Reichen, die Schwarzen und die Weissen, die Republikaner und die Demokraten",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

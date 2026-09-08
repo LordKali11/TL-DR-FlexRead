@@ -1,0 +1,2126 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jvltbkst1",
+   "content": {
+    "title": "Europe's dangerous missile gap",
+    "lead": "The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates this deficit.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jvltbkst2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Marco Seliger",
+       "url": "/impressum/marco-seliger-ld.1746755",
+       "teaserImage": {
+        "originalUrl": "/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jvltbkst3",
+   "content": {
+    "image": {
+     "author": "Jacek Marczewski/Wyborcza/Reuters",
+     "caption": "A Patriot air defense system, set up at a Polish Armed Forces base in Dec. 2025.",
+     "originalUrl": "/2026/08/16/bfe2db76-feb3-4cdd-a08f-7a703e191ac6.jpg?crop=6000,4000,x0,y0",
+     "width": 6000,
+     "height": 4000,
+     "altText": "FILE PHOTO: 37th Air Defense Missile Squadron's Patriot missile systems, on the day of a ceremony announcing it's full combat readiness for the Integrated Battle Command System (IBCS) attended by Poland's Defense Minister Wladyslaw Kosiniak-Kamysz and US Ambassador to Poland Thomas Rose, at the 3rd Warsaw Air Defense Missile Brigade's base in Sochaczew, Poland, December 18, 2025. Agencja Wyborcza.pl/Jacek Marczewski via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. POLAND OUT. NO COMMERCIAL OR EDITORIAL SALES IN POLAND./File Photo",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179277100"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 4000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 4000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A Patriot air defense system, set up at a Polish Armed Forces base in Dec. 2025.",
+    "author": "Jacek Marczewski/Wyborcza/Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pmo0",
+   "content": {
+    "text": "It was the night of Aug. 4 of this year when Russia launched one of its most devastating air attacks of the entire war on Kyiv. 24 ballistic Iskander missiles and four Zircon hypersonic missiles flew toward the capital, accompanied by more than a hundred long-range drones. The Ukrainian air defense could not stop any of the 28 missiles because the interceptor missiles used against such weapons had become scarce."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-31f3069f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pmt0",
+   "content": {
+    "text": "The attack on Kyiv highlighted a problem that had long extended far beyond Ukraine. European states and the U.S. lack guided missiles with which they can defend themselves against rockets. Simply put, it is about finding and hitting a rapidly moving missile with an equally rapidly moving missile in the air within a few seconds."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pmu2",
+   "content": {
+    "text": "Missile defense is among the most demanding products of the defense industry. The U.S. masters this technology, as do some European states, such as Germany, France and Norway. But their stocks are low, having dramatically shrunk in some cases. Hardly any Western country is willing to part with large quantities."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pmv1",
+   "content": {
+    "text": "How could the West put itself, and especially Ukraine, in this situation? How can it be that Russia, in the fifth year of the war, is still superior to the Europeans in the ratio of ballistic offensive weapons to interceptor missiles?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jvltbtp80",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "5671de33bf9380522f9d12dc570389bf",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_5671de33bf9380522f9d12dc570389bf_qf109b4851d254649aeedb7ac9a7a31f1_container\"        data-q-item-id=\"5671de33bf9380522f9d12dc570389bf\"        data-q-request-id=\"642aee11f0f4b397b043feb10f8240b22f7f0ffa\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"5671de33bf9380522f9d12dc570389bf\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"5671de33bf9380522f9d12dc570389bf\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"642aee11f0f4b397b043feb10f8240b22f7f0ffa\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_5671de33bf9380522f9d12dc570389bf_qf109b4851d254649aeedb7ac9a7a31f1_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"5671de33bf9380522f9d12dc570389bf\",\"title\":\"Guided missiles\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"lea.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/08/10/LenkflugkorperZeichenflache-124x-19faa1afacec5439400ce6762c6f0b66.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/08/10/LenkflugkorperZeichenflache-124x-19faa1afacec5439400ce6762c6f0b66.png\",\"size\":27319,\"type\":\"image/png\",\"originalName\":\"LenkflugkörperZeichenfläche 12@4x.png\",\"width\":1481,\"height\":1151}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/08/10/LenkflugkorperZeichenflache-12-Kopie4x-d5f71515ebec97f922e40621cbe78201.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/08/10/LenkflugkorperZeichenflache-12-Kopie4x-d5f71515ebec97f922e40621cbe78201.png\",\"size\":43227,\"type\":\"image/png\",\"originalName\":\"LenkflugkörperZeichenfläche 12 Kopie@4x.png\",\"width\":2521,\"height\":1486}],\"minWidth\":630}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-08-10T12:56:07.864Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_5671de33bf9380522f9d12dc570389bf_qf109b4851d254649aeedb7ac9a7a31f1\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k052bgbk0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "642f0a360bf03480a6d9f8c67c23bb3a",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-table-container\"        id=\"q_table_642f0a360bf03480a6d9f8c67c23bb3a_q28dbb7e8c95d4463ad00b7f56f0a054a_container\"        data-q-item-id=\"642f0a360bf03480a6d9f8c67c23bb3a\"        data-q-request-id=\"c64bd26f3e05b41ac73b9d19bab64375db2c1e65\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"642f0a360bf03480a6d9f8c67c23bb3a\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"table\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"642f0a360bf03480a6d9f8c67c23bb3a\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"table\"}},\"c64bd26f3e05b41ac73b9d19bab64375db2c1e65\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_table_642f0a360bf03480a6d9f8c67c23bb3a_q28dbb7e8c95d4463ad00b7f56f0a054a_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"642f0a360bf03480a6d9f8c67c23bb3a\",\"title\":\"A multitude of supply chains\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"mse.\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]},\"data\":{\"table\":[[\"component\",\"Required supply chains\",\"Basic materials\"],[\"Search head, cover\",\"Ceramics, composite materials, printed circuit boards, RF semiconductors, wafers\",\"Aluminum, arsenic, beryllium, gallium, germanium, yttrium, magnesium, nickel, silicon\"],[\"warhead\",\"Casings, detonators, energetic chemicals, explosives, fuses\",\"Copper, molybdenum, tungsten, zirconium\"],[\"Weapon control units\",\"Chemicals, chips, connectors, industrial gases, circuit boards, sensors\",\"Gallium, silicon, tantalum\"],[\"Framework/Structure\",\"Alloys, coatings, composite materials, forgings\",\"Molybdenum, steel, tantalum, tungsten\"],[\"Drivetrain\",\"Binders, metal powders, engine housings, nozzle materials, oxidizing agents\",\"Boron, niobium, nickel, steel, titanium, vanadium\"],[\"power supply\",null,\"Iron, lithium, silicon\"],[\"Actuators (drives)\",null,\"Cobalt, dysprosium, neodymium, praseodymium, samarium\"]],\"metaData\":{\"cells\":[]}},\"sources\":[{\"text\":\"IISS\",\"link\":{\"url\":\"\"}}],\"options\":{\"hideTableHeader\":false,\"showTableSearch\":false,\"cardLayout\":false,\"cardLayoutIfSmall\":true,\"hideLegend\":false,\"frozenRowKey\":null,\"sorting\":[],\"formatting\":[],\"minibar\":{\"selectedColumn\":null,\"invertColors\":false,\"barColor\":{\"positive\":{\"className\":\"\",\"colorCode\":\"#ff0000\"},\"negative\":{\"className\":\"\",\"colorCode\":\"#ff0000\"}}},\"colorColumn\":{\"colorColumnType\":\"numerical\",\"selectedColumn\":[],\"numericalOptions\":{\"labelLegend\":\"noLabel\",\"bucketType\":\"ckmeans\",\"numberBuckets\":5,\"scale\":\"sequential\",\"colorScheme\":\"one\",\"invertColorScheme\":false,\"colorOverwrites\":[],\"customBuckets\":\"\"},\"categoricalOptions\":{\"colorOverwrites\":[],\"customCategoriesOrder\":[]}}},\"updatedDate\":\"2026-08-19T14:00:00.378Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_table_642f0a360bf03480a6d9f8c67c23bb3a_q28dbb7e8c95d4463ad00b7f56f0a054a\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qTable) {              clearInterval(checkAndInitialize);              new window.qTable({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qTable after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn01",
+   "content": {
+    "text": "The first part of the answer is quickly told. European governments invested too little in the military in the past. Interceptor missiles were procured only in small numbers. This led the industry, particularly in Europe, to dimension its production facilities and supply chains for small quantities."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn11",
+   "content": {
+    "text": "The other part of the answer is more complicated. The production of a guided missile requires, among other things, solid rocket propellants, batteries, circuit boards, semiconductors, industrial gases and test stands. For some components, there is great dependence on foreign countries."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k04ohtb90",
+   "content": {
+    "title": "Enormous dependencies on China",
+    "id": "subtitle-enorme-abh-ngigkeiten-von-china"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn20",
+   "content": {
+    "text": "According to the <a href=\"https://www.iiss.org/online-analysis/military-balance/2026/05/defence-supply-chains-beyond-crms-dependencies-and-bottlenecks/\">International Institute for Strategic Studies (IISS)</a>, around 90% of all circuit boards worldwide are manufactured in Asia, with a good 60% alone in plants of Taiwanese, Japanese, South Korean and American companies in China. Such circuit boards are among the numerous electronic components of modern guided missiles."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn30",
+   "content": {
+    "text": "The authors also write that there are only a few suppliers worldwide for military-grade HTPB. HTPB is a binder for solid rocket propellants. The U.S. Department of Defense has since classified weapon-grade HTPB as a security-relevant material because it was previously procured from only one source."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k04ticpk0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "cef08512eb60919cd5c0b85336c08c1f",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_cef08512eb60919cd5c0b85336c08c1f_q909e40173d06417bb45c94ff37c67b90_container\"        data-q-item-id=\"cef08512eb60919cd5c0b85336c08c1f\"        data-q-request-id=\"43338d7b14eb2ac191c977cc46bef300d56c575b\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"cef08512eb60919cd5c0b85336c08c1f\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"cef08512eb60919cd5c0b85336c08c1f\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"43338d7b14eb2ac191c977cc46bef300d56c575b\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_cef08512eb60919cd5c0b85336c08c1f_q909e40173d06417bb45c94ff37c67b90_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"cef08512eb60919cd5c0b85336c08c1f\",\"allowDownloadData\":false,\"title\":\"Russia attacks with a record number of missiles in July\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"A. R.\",\"data\":[[\"Month\",\"attacks\",\"Repelled\"],[\"Jan.\",\"79\",\"30\"],[\"Feb.\",\"118\",\"38\"],[\"March\",\"44\",\"22\"],[\"Apr.\",\"50\",\"9\"],[\"May\",\"88\",\"27\"],[\"June\",\"102\",\"39\"],[\"July\",\"126\",\"36\"]],\"sources\":[{\"text\":\"CSIS\",\"link\":{\"url\":\"https://www.csis.org/programs/futures-lab/projects/russian-firepower-strike-tracker-analyzing-missile-attacks-ukraine\"}},{\"text\":\"Air Force Ukraine\",\"link\":{\"url\":\"https://t.me/s/kpszsu\"}}],\"events\":[],\"options\":{\"annotations\":{\"valuesOnBars\":false},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Bar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[{\"color\":\"#383751\",\"colorLight\":\"#cdcdd1\",\"position\":1}],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"}]},\"updatedDate\":\"2026-08-05T11:09:54.314Z\",\"notes\":\"Ballistic missiles of the Iskander-M and S-300/400 types, according to Ukrainian military sources.\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_cef08512eb60919cd5c0b85336c08c1f_q909e40173d06417bb45c94ff37c67b90\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn32",
+   "content": {
+    "text": "But these are not all the dependencies and bottlenecks. A modern interceptor missile must detect a target moving at multiple times the speed of sound within a few seconds, calculate its trajectory and continuously correct its own course. This requires sensors, electronics and control technology. These components require rare earths, for which China is globally dominant."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn41",
+   "content": {
+    "text": "Given these dependencies, it is likely to be difficult to do exactly what is needed in response to the shortage of interceptor missiles: increase production. But that is the plan. For example, the American defense contractor Lockheed Martin <a href=\"https://news.lockheedmartin.com/2026-01-06-Lockheed-Martin-and-Department-of-War-Advance-Landmark-Acquisition-Transformation-to-Accelerate-PAC-3-R-MSE-Production\">aims to increase the number of PAC-3 MSE missiles for Patriot from 620 the previous year to 2000 by 2030</a>. The German missile manufacturer MBDA plans to commission a production line for PAC-2 GEM-T Patriot missiles this year, while Diehl from Überlingen is expanding the production of Iris-T guided missiles."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k04ok9q80",
+   "content": {
+    "title": "Expansion of Russian missile production",
+    "id": "subtitle-russland-hat-die-raketenproduktion-ausgebaut"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn51",
+   "content": {
+    "text": "There is a problem, however: the additional missiles will not arrive for several years, but the demand exists today. This is also because Russia has significantly expanded its missile production."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn60",
+   "content": {
+    "text": "Already in Sept. of last year, the Washington think tank <a href=\"https://www.csis.org/analysis/crink-security-ties-growing-cooperation-anchored-china-and-russia\">Center for Strategic and International Studies (CSIS) reported</a> that modern Chinese machinery had helped Russia triple the production of the ballistic Iskander-M between 2023 and 2024. At the same time, around 70% of Russian imports of ammonium perchlorate, an important component of solid rocket propellants, had come from China in 2024, it stated."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn70",
+   "content": {
+    "text": "It is to be assumed that Russia has since further expanded the production of missiles and cruise missiles. The deputy head of Ukrainian military intelligence recently told Reuters that Russia's Iskander-M inventory stood at about 130 missiles. Russia alone had produced 65 new ones in July, he said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k04p7cv11",
+   "content": {
+    "image": {
+     "author": "Eloisa Lopez / Reuters",
+     "caption": "Launch of a Patriot interceptor missile.",
+     "originalUrl": "/2026/07/14/bb91531a-f878-4070-ae65-a30974a4d0dc.jpg?crop=4000,2667,x0,y0",
+     "width": 4000,
+     "height": 2667,
+     "altText": "A Patriot air missile system is fired during a live fire exercise in the annual joint military exercises between US and Philippine troops called «Balikatan» or shoulder-to-shoulder, at a naval base in San Antonio, Zambales province, Philippines, April 25, 2023. REUTERS/Eloisa Lopez TPX IMAGES OF THE DAY",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177736794"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4000,
+      "height": 2667,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4000,
+       "height": 2667,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Launch of a Patriot interceptor missile.",
+    "author": "Eloisa Lopez / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn72",
+   "content": {
+    "text": "These intelligence figures cannot be independently verified. However, a separate <a href=\"https://www.reutersconnect.com/item/trumps-promise-on-patriots-will-take-time-leaving-ukraine-facing-tough-choices/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNjcwMzA5MDcyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwNjY3MDMwOTA3MjAyNlJQMQ?utm_sou%20(https://www.reutersconnect.com/item/trumps-promise-on-patriots-will-take-time-leaving-ukraine-facing-tough-choices/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNjcwMzA5MDcyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwNjY3MDMwOTA3MjAyNlJQMQ?utm_sou)\">estimate by missile expert Fabian Hoffmann from the Norwegian Institute for Defence Studies</a> points in the same direction. In July 2026, Reuters quoted him as saying that Russia probably produced around 600 to 800 ballistic missiles annually, mainly Iskander-M and Kinzhal."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pn81",
+   "content": {
+    "text": "The «Ukraine Air War Monitor» of the Konrad-Adenauer-Stiftung <a href=\"https://www.kas.de/en/web/ukraine/blickpunkt-ukraine/detail/-/content/ukraine-air-war-monitor-vol-xi\">reported for the previous year</a> around 600 deployed Iskander-M and Kinzhal missiles, as well as about 1,300 cruise missiles. But Russia apparently does not fire its entire production. The «Ukraine Air War Monitor» assumes that Moscow is simultaneously holding back ballistic missiles and building up its stocks."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0d2pqol1",
+   "content": {
+    "text": "This explains the Ukrainian president's increasingly urgent pleas for interceptor missiles and, at the same time, the Europeans' reluctance."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k04ol4dv0",
+   "content": {
+    "title": "U.S. maneuvering into a bottleneck",
+    "id": "subtitle-die-usa-man-vrieren-sich-selbst-in-einen-engpass"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnb0",
+   "content": {
+    "text": "Europeans can hardly rely on the U.S. here. The war against Iran has maneuvered the Americans themselves into a bottleneck. According to <a href=\"https://www.csis.org/analysis/rebuilding-us-missile-inventory-multiyear-project\">CSIS calculations</a>, U.S. forces fired an estimated 1,060 to 1,430 Patriot interceptor missiles in the first 39 days of the war alone. The institute estimates the American pre-war stock of PAC-3 and PAC-3 MSE at around 2,330 units. The actual stocks are secret."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnc1",
+   "content": {
+    "text": "The Washington Post reported on Feb. 23 of this year that General Dan Caine, Chairman of the Joint Chiefs of Staff and the president's top military adviser, <a href=\"https://www.washingtonpost.com/national-security/2026/02/23/dan-caine-iran-risk-trump/\">had warned Trump about the risks of an attack.</a> The newspaper noted that his concerns had explicitly included the limited stocks of anti-aircraft missiles. Trump publicly presented Caine's stance differently and declared that his general considered a war against Iran easily winnable."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k04vrt640",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "0bab4f4ac565cbdff5f5748d6c42d2a3",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_0bab4f4ac565cbdff5f5748d6c42d2a3_q78183c15d63c42ae8c2155b117a67af8_container\"        data-q-item-id=\"0bab4f4ac565cbdff5f5748d6c42d2a3\"        data-q-request-id=\"775faa59e0035eb0a4ba5751c8e3499275006188\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"0bab4f4ac565cbdff5f5748d6c42d2a3\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"0bab4f4ac565cbdff5f5748d6c42d2a3\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"775faa59e0035eb0a4ba5751c8e3499275006188\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_0bab4f4ac565cbdff5f5748d6c42d2a3_q78183c15d63c42ae8c2155b117a67af8_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"0bab4f4ac565cbdff5f5748d6c42d2a3\",\"title\":\"Chronicle of the Iran War\",\"subtitle\":\"Number of airstrikes, drone attacks, artillery fire and missile attacks in the Iran war\",\"publication\":\"nzz\",\"acronym\":\"fio.\",\"sources\":[{\"text\":\"Acled\",\"link\":{\"url\":\"https://acleddata.com/\"}}],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/08/20/Mobile_KorrigiertZeichenflache-12-Kopie-43x-100-0cdc6fa9b238bed8080c1c84a3a90851.jpeg\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/08/20/Mobile_KorrigiertZeichenflache-12-Kopie-43x-100-0cdc6fa9b238bed8080c1c84a3a90851.jpeg\",\"size\":1031246,\"type\":\"image/jpeg\",\"originalName\":\"Mobile_KorrigiertZeichenfläche 12 Kopie 4@3x-100.jpg\",\"width\":1111,\"height\":3301}],\"minWidth\":0},{\"images\":[{}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/07/21/Neu3Zeichenflache-15-Kopie-63x-100-6a2b853a4158a5d1a9350e8254aada86.jpeg\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/07/21/Neu3Zeichenflache-15-Kopie-63x-100-6a2b853a4158a5d1a9350e8254aada86.jpeg\",\"size\":1002423,\"type\":\"image/jpeg\",\"originalName\":\"Neu3Zeichenfläche 15 Kopie 6@3x-100.jpg\",\"width\":3001,\"height\":1542}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-08-20T14:33:28.611Z\",\"notes\":\"Data up to July 17, 2026.\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_0bab4f4ac565cbdff5f5748d6c42d2a3_q78183c15d63c42ae8c2155b117a67af8\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnd0",
+   "content": {
+    "text": "If, however, the military leadership warned Trump about scarce missile stocks, the question arises as to why the U.S. nevertheless started a war against an opponent whose central retaliatory weapon, besides drones, is primarily ballistic missiles. According to the CSIS, it could now take three years or more for the U.S. to reach pre-war stock levels again. This would primarily affect guided missiles for Patriot and Thaad, but also offensive weapons such as the Tomahawk cruise missile, it stated."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pne0",
+   "content": {
+    "text": "European Patriot production will also do little to change this in the short term. Germany, the Netherlands, Spain and other states have ordered more than 1,000 older-generation PAC-2 missiles. For this purpose, a new production line is being set up at the German guided missile manufacturer MBDA in cooperation with the American company Raytheon. It is scheduled to start operating at the end of this year."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnf0",
+   "content": {
+    "text": "The modern PAC-3 MSE, which are particularly needed for defending against sophisticated ballistic missiles, are not yet produced in Europe. <a href=\"https://www.reuters.com/business/aerospace-defense/us-talks-europe-missile-co-production-source-says-2026-07-07/\">The U.S. initially plans only a European maintenance center.</a> At the NATO summit in Ankara in July, however, the U.S. government indicated that it was in principle open to external PAC-3 MSE production."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "infobox-advanced"
+  },
+  {
+   "identifier": "infobox-advanced",
+   "id": "doc-1k04remf50",
+   "containers": {
+    "infobox": [
+     {
+      "identifier": "subtitle",
+      "id": "doc-1k04remf60",
+      "content": {
+       "title": "The various Patriot missiles"
+      }
+     },
+     {
+      "identifier": "p-text",
+      "id": "doc-1k04remf61",
+      "content": {
+       "text": "<strong>PAC-3:</strong> Operates on the «hit-to-kill» principle, meaning a direct hit against missiles, cruise missiles and aircraft."
+      }
+     },
+     {
+      "identifier": "p-text",
+      "id": "doc-1k04s6qhi0",
+      "content": {
+       "text": "<strong>PAC-3 MSE:</strong> An evolution of the PAC-3 with a larger range, higher intercept altitude and better maneuverability, especially against ballistic missiles."
+      }
+     },
+     {
+      "identifier": "p-text",
+      "id": "doc-1k04s929k0",
+      "content": {
+       "text": "<strong>PAC-2 GEM-T:</strong> Larger, older Patriot missile with an explosive warhead instead of «hit-to-kill,» primarily against aircraft and cruise missiles, also against ballistic missiles."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnf2",
+   "content": {
+    "text": "However, Japan shows how difficult licensed production is. Mitsubishi produces PAC-3 missiles there but could not double its own production as planned. The reason is that Boeing could not supply enough of the seekers manufactured in Alabama."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "infobox-advanced",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k04svc0t0",
+   "content": {
+    "title": "Tomahawks also missing now",
+    "id": "subtitle-nun-fehlen-auch-noch-die-tomahawks"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372png1",
+   "content": {
+    "text": "The shortage of guided missiles is challenging enough in itself. But another problem is emerging. Germany wants to procure Tomahawks as quickly as possible to combat Russian missile systems deep in the hinterland. This could now take time, as the Americans first have to replenish their own stocks here as well."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnh0",
+   "content": {
+    "text": "The CSIS estimates that the U.S. fired more than 1,000 Tomahawks in the war against Iran, but refers to reports in <a href=\"https://www.csis.org/analysis/last-rounds-status-key-munitions-iran-war-ceasefire\">American media</a>. According to these reports, fewer than 200 Tomahawks had been produced annually recently. Even the now drastically increased American orders are, according to current plans, only scheduled for delivery from 2030 onwards. It is therefore uncertain when Germany will receive its Tomahawks."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pnh1",
+   "content": {
+    "text": "The problem thus extends far beyond missing Patriot missiles. Already in 2017, <a href=\"https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/left-of-launch-countering-theater-ballistic-missiles/\">American strategists warned against relying solely on intercepting incoming missiles during massive missile attacks.</a> They argued that an effective defense must also include the possibility of interrupting the attack chain before launch."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k04tah000",
+   "content": {
+    "title": "Europe's gap on the escalation ladder",
+    "id": "subtitle-europa-hat-eine-l-cke-auf-der-eskalationsleiter"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pni0",
+   "content": {
+    "text": "Almost ten years later, Europe lacks both in sufficient measure. The European West possesses too few interceptor missiles to conduct a long Russian missile war, as currently in Ukraine, purely defensively. At the same time, Europeans lack long-range conventional weapons with which they can combat Russian launch sites, depots and other parts of the attack chain deep in the hinterland in large numbers."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0372pni1",
+   "content": {
+    "text": "This is more than a gap in arsenals. It is a gap on the escalation ladder. Because against an opponent like Russia, which has a large arsenal of ballistic missiles and also nuclear weapons, Europe lacks precisely those conventional options that lie between merely intercepting an attack and a significantly higher escalation level."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jvltbkst5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-d5542314",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 4,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Erwin Dufner",
+      "text": "Bas and Klingbeil, at least, are ensuring that there are absolutely no cuts in the social sector; on the contrary, it is being expanded. What is Pistorius doing about this deficiency? He's basking in his undeserved popularity.",
+      "created_at": "2026-08-27T03:29:28.919Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Peter Dransfeld",
+      "text": "Currently, defense with PAC-3 MSE or PAC-2 GEM-T missiles is about 3-5 times more expensive than attacking with Iskander-M missiles. This is, of course, cheaper than losing a power plant or similar infrastructure. However, this doesn't change the fact that new, cheaper interceptor weapons urgently need to be developed if we don't want to suffer economic ruin.",
+      "created_at": "2026-08-25T10:11:30.657Z",
+      "like_count": 4,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jvltbkst6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvltbkst7",
+      "content": {
+       "title": "«We are burning down the Russian empire» – the missiles of Ukrainian arms manufacturer Denis Shtilerman are putting Putin in a tight spot",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Simon Shuster",
+       "nzzasFootnote": true,
+       "teaserImage": {
+        "originalUrl": "/2025/08/22/eed39bb1-42ac-4c12-b56e-cf2dd05d8539.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/08/22/eed39bb1-42ac-4c12-b56e-cf2dd05d8539.jpg?width=1024&quality=75&auto=webp",
+        "width": 5014,
+        "height": 3342,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5014,2820,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4456,3342,x168,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3342,3342,x1125,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2507,3342,x2003,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5013,3342,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "He is considered a somewhat shady businessman who once made his fortune in Moscow. Now, the head of the Ukrainian arms company Fire Point wants to build a missile defense shield for the Europeans.",
+        "teaserAuthor": "Viacheslav Ratynskkyi / Imago"
+       },
+       "teaserAuthor": "Viacheslav Ratynskkyi / Imago",
+       "nzzId": "ld.10019205",
+       "readingTime": 420,
+       "paywallQuestionOne": "How does Denis Shtilerman influence the Ukraine conflict with his missiles?",
+       "paywallQuestionTwo": "What role does Ukraine play in the planned European missile defense shield?",
+       "paywallQuestionThree": "How does Schtilerman react to accusations and corruption scandals?",
+       "characterCount": 9140,
+       "product": "NZZ.ch",
+       "documentId": 10019205,
+       "layout": "regular",
+       "publicationDate": "2026-08-16T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-16T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-16T15:30:00.000Z",
+       "teaserCaption": "He is considered a somewhat shady businessman who once made his fortune in Moscow. Now, the head of the Ukrainian arms company Fire Point wants to build a missile defense shield for the Europeans.",
+       "url": "/international/wir-brennen-das-russische-imperium-nieder-die-raketen-des-ukrainischen-waffenproduzenten-denis-schtilerman-bringen-putin-in-bedraengnis-ld.10019205",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1404,
+       "leadText": "He is considered a somewhat shady businessman who once made his fortune in Moscow. Now, the head of the Ukrainian arms company Fire Point wants to build a missile defense shield for the Europeans.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvltbkst8",
+      "content": {
+       "title": "The Mystery of Russia's Kamikaze Drones: Kremlin Changes Air War Tactics",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/15/23b3857b-82d0-4b8e-93b6-e1a57a365c53.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/15/23b3857b-82d0-4b8e-93b6-e1a57a365c53.jpg?width=1024&quality=75&auto=webp",
+        "width": 2158,
+        "height": 1438,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2158,1214,x0,y110"
+         },
+         {
+          "name": "4:3",
+          "crop": "1917,1438,x85,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1438,1438,x329,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1079,1438,x528,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2157,1438,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Until recently, the widely deployed Shahed drones were the biggest threat to Ukrainian cities – now such attacks are significantly rarer. However, Ukraine cannot breathe a sigh of relief, as Russia launched a record number of missiles in July.",
+        "teaserAuthor": "Efrem Lukatsky / AP"
+       },
+       "teaserAuthor": "Efrem Lukatsky / AP",
+       "tags": [
+        "Ukraine-Krieg"
+       ],
+       "paywallQuestionOne": "Why is Russia using fewer kamikaze drones and more missiles?",
+       "paywallQuestionTwo": "What role do new drone types play in the Russian air war?",
+       "paywallQuestionThree": "How is Ukraine reacting to Russia's changed tactics?",
+       "nzzId": "ld.10018084",
+       "readingTime": 300,
+       "embeds": {
+        "videos": [
+         {
+          "id": "LmT0GJSh",
+          "provider": "jw",
+          "teaser": true
+         },
+         {
+          "id": "RlonqndX",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "characterCount": 6345,
+       "videoTeaser": "LmT0GJSh",
+       "product": "NZZ.ch",
+       "documentId": 10018084,
+       "layout": "regular",
+       "publicationDate": "2026-08-05T07:41:51.105Z",
+       "publicationLastUpdated": "2026-08-05T11:13:28.478Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-05T19:41:51.105Z",
+       "teaserCaption": "Until recently, the widely deployed Shahed drones were the biggest threat to Ukrainian cities – now such attacks are significantly rarer. However, Ukraine cannot breathe a sigh of relief, as Russia launched a record number of missiles in July.",
+       "authorLine": "Andreas Rüesch",
+       "authorImage": {
+        "originalUrl": "/2024/09/23/b6be8592-31cf-4a48-b022-81e3c315218a.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/09/23/b6be8592-31cf-4a48-b022-81e3c315218a.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2809,2809,x1566,y389"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/23/b6be8592-31cf-4a48-b022-81e3c315218a.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/international/raetsel-um-russlands-kamikazedrohnen-der-kreml-aendert-seine-taktik-im-luftkrieg-ld.10018084",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 970,
+       "premium": true,
+       "leadText": "Until recently, the widely deployed Shahed drones were the biggest threat to Ukrainian cities – now such attacks are significantly rarer. However, Ukraine cannot breathe a sigh of relief, as Russia launched a record number of missiles in July.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvltbkst9",
+      "content": {
+       "title": "Someone must have decided to kill old Lyubov Fedosova – how the Russians are hunting civilians with drones",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/10/1f5b8d3b-bb06-4340-9a94-fe814e64a115.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/10/1f5b8d3b-bb06-4340-9a94-fe814e64a115.jpg?width=1024&quality=75&auto=webp",
+        "width": 5707,
+        "height": 3833,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5707,3210,x0,y623"
+         },
+         {
+          "name": "4:3",
+          "crop": "5111,3833,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3833,3833,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2875,3833,x428,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5707,3805,x0,y28"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Russian methods of killing grow more sophisticated: Sergei Gerasimov feels targeted",
+        "teaserAuthor": "Sergey Kozlov / EPA"
+       },
+       "authorLine": "Sergei Gerasimow",
+       "teaserAuthor": "Sergey Kozlov / EPA",
+       "tags": [
+        "Ukraine-Krieg"
+       ],
+       "editor": "1371769",
+       "videoTeaser": "o5MqOjQF",
+       "nzzId": "ld.10016682",
+       "readingTime": 540,
+       "embeds": {
+        "videos": [
+         {
+          "id": "o5MqOjQF",
+          "provider": "jw",
+          "teaser": true
+         },
+         {
+          "id": "tzMg5snB",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "characterCount": 11974,
+       "product": "NZZ.ch",
+       "documentId": 10016682,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-11T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-11T13:44:19.227Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-11T15:30:00.000Z",
+       "teaserCaption": "Russian methods of killing grow more sophisticated: Sergei Gerasimov feels targeted",
+       "url": "/feuilleton/wie-die-russen-mit-drohnen-zivilisten-jagen-jemand-muss-beschlossen-haben-die-alte-ljubow-fedosowa-zu-toeten-ld.10016682",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1891,
+       "leadText": "Russian methods of killing grow more sophisticated: Sergei Gerasimov feels targeted",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Europe's dangerous missile gap",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/16/bfe2db76-feb3-4cdd-a08f-7a703e191ac6.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/16/bfe2db76-feb3-4cdd-a08f-7a703e191ac6.jpg?width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 4000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6000,3375,x0,y124"
+    },
+    {
+     "name": "4:3",
+     "crop": "5333,4000,x667,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4000,4000,x1794,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3000,4000,x2294,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6000,4000,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 3794,
+    "y": 1811
+   },
+   "imageService": "fastly",
+   "teaserCaption": "The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates this deficit.",
+   "teaserAuthor": "Jacek Marczewski/Wyborcza/Reuters"
+  },
+  "teaserAuthor": "Jacek Marczewski/Wyborcza/Reuters",
+  "editor": "1750700",
+  "showComments": true,
+  "nzzId": "ld.10018958",
+  "readingTime": 420,
+  "characterCount": 10541,
+  "breadcrumbs": [
+   {
+    "name": "Pro",
+    "path": "/pro"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10018958,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates this deficit.",
+  "nzzAuthors": [
+   {
+    "id": 1720515,
+    "name": "Marco Seliger",
+    "shortName": "mse",
+    "pianoId": "7df8a3bd-b304-4a24-9f11-a808a207a32c",
+    "external": false
+   }
+  ],
+  "authorLine": "Marco Seliger",
+  "authorImage": {
+   "originalUrl": "/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1746755,
+    "name": "Marco Seliger (mse.) Editor for Security and Defense Policy",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958",
+  "department": {
+   "name": "Pro",
+   "path": "/pro"
+  },
+  "estimationWordCount": 1452,
+  "premium": true,
+  "leadText": "The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates this deficit.",
+  "nzzSummaryEN": "- European nations and the US face significant missile defense deficits due to limited stockpiles and supply chains optimized for smaller quantities, as highlighted by Russia's airstrikes on Ukraine.\n- Dependencies on global suppliers, especially from China, hinder the production of modern interceptors. Critical materials, including rare earths, are lacking.\n- Long-term production increases by Western defense firms could address the issue, but expansion will not meet current demands in time.",
+  "nzzSummaryDE": "European states and the USA have significant shortcomings in missile defense, as stockpiles are limited and supply chains are designed for smaller quantities. This is clearly demonstrated by Russia's air strikes on Ukraine.\n Dependence on global suppliers, particularly from China, complicates the production of modern interceptor missiles. Rare earth elements and other critical materials are in short supply.\n - Long-term production increases at Western arms companies could solve the problem, however, the expansion is not coming in time to meet current demand.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Europe's missile gap: Between shortage and dependence",
+  "nzzPrintSubtitle": "Russia's missile superiority exposes Europe's shortcomings in defense systems and long-range weapons.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958",
+   "title": "Missing interceptor missiles: Europe's dangerous defense gap",
+   "socialMediaTitle": "Europe's missile gap: Defense systems and offensive weapons are lacking",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/16/bfe2db76-feb3-4cdd-a08f-7a703e191ac6.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y124&wmark=nzz"
+  },
+  "ldPublicationId": 2483061,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   },
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Iran",
+    "slug": "/themen/iran"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   },
+   {
+    "name": "Donald Trump",
+    "slug": "/themen/donald-trump"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 4,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Erwin Dufner",
+     "text": "Bas and Klingbeil, at least, are ensuring that there are absolutely no cuts in the social sector; on the contrary, it is being expanded. What is Pistorius doing about this deficiency? He's basking in his undeserved popularity.",
+     "created_at": "2026-08-27T03:29:28.919Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Peter Dransfeld",
+     "text": "Currently, defense with PAC-3 MSE or PAC-2 GEM-T missiles is about 3-5 times more expensive than attacking with Iskander-M missiles. This is, of course, cheaper than losing a power plant or similar infrastructure. However, this doesn't change the fact that new, cheaper interceptor weapons urgently need to be developed if we don't want to suffer economic ruin.",
+     "created_at": "2026-08-25T10:11:30.657Z",
+     "like_count": 4,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019205",
+    "ld.10018084",
+    "ld.10016682"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 662040,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "usa",
+   "name": "USA",
+   "tagName": "USA",
+   "qId": "Q30",
+   "seoTitle": "USA – All news and articles about the United States of America | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:37:30.759Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/usa",
+   "size": 8112,
+   "relatedTopics": [
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    },
+    {
+     "name": "Ukraine",
+     "slug": "/themen/ukraine"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    },
+    {
+     "name": "Iran",
+     "slug": "/themen/iran"
+    },
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    },
+    {
+     "name": "Donald Trump",
+     "slug": "/themen/donald-trump"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Data analysis",
+    "title": "How Popular Is Donald Trump?",
+    "teaserImage": {
+     "originalUrl": "/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024&quality=75&auto=webp",
+     "width": 1801,
+     "height": 1351,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1801,1013,x0,y169"
+      },
+      {
+       "name": "4:3",
+       "crop": "1801,1351,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1351,1351,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1013,1351,x394,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1801,1201,x0,y75"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+     "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ"
+    },
+    "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1883243",
+    "readingTime": 120,
+    "authorLine": "Nikolai Thelitz",
+    "paywallQuestionOne": "Why has Trump's popularity declined?",
+    "paywallQuestionTwo": "What is Trump's stance on the economic situation?",
+    "paywallQuestionThree": "How do Americans view Trump's immigration policy?",
+    "characterCount": 2062,
+    "product": "NZZ.ch",
+    "documentId": "1883243",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:57:50.000Z",
+    "publicationLastUpdated": "2026-09-03T07:57:50.000Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:57:50.000Z",
+    "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/06/08/e254b9af-5f2d-4473-af8c-a9de53509f60.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2026-so-beliebt-ist-er-in-den-usa-ld.1883243",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 317,
+    "leadText": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "10 dollars for a coffee, 600% inflation – and hope for new oil billions: Welcome to everyday life in Venezuela",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y776"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x255,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4298,4298,x1520,y635"
+      },
+      {
+       "name": "3:4",
+       "crop": "3223,4298,x2395,y902"
+      },
+      {
+       "name": "3:2",
+       "crop": "7091,4727,x300,y472"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "showComments": true,
+    "tags": [
+     "Fotografie"
+    ],
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y388"
+      },
+      {
+       "name": "1:1",
+       "crop": "5200,5200,x1332,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x465,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3900,5200,x1982,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7800,5200,x32,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4659,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4659,4659,x340,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6212,4659,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3494,4659,x922,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6989,4659,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2669,
+      "y": 1695
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4629,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y646"
+      },
+      {
+       "name": "1:1",
+       "crop": "4629,4629,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6172,4629,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3472,4629,x331,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6944,4629,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2067,
+      "y": 2614
+     },
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10020261",
+    "readingTime": 600,
+    "paywallQuestionOne": "How will Trump's oil deal affect Venezuela's economic future?",
+    "paywallQuestionTwo": "What role do returning refugees and investors play in Venezuela's recovery?",
+    "paywallQuestionThree": "Why does the oil sector remain unsafe for investors despite reforms?",
+    "characterCount": 11936,
+    "product": "NZZ.ch",
+    "documentId": "10020261",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "authorLine": "Alexander Busch (text), Ana Gosen (images), Caracas",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/10-dollar-fuer-einen-kaffee-600-prozent-inflation-und-hoffnung-auf-neue-erdoelmilliarden-willkommen-im-alltag-in-venezuela-ld.10020261",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1908,
+    "premium": true,
+    "leadText": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 2,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Tanker for Tanker»: Trump escalates further in the Strait of Hormuz",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y306"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x427,y62"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x536,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2273,3030,x487,y185"
+      },
+      {
+       "name": "3:2",
+       "crop": "4999,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+     "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters"
+    },
+    "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Iran-Krieg",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10022048",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the escalation in Hormuz affect the global oil supply?",
+    "paywallQuestionTwo": "What goals is Trump pursuing with the blockade against Iran?",
+    "paywallQuestionThree": "How is Iran reacting to the US attacks?",
+    "characterCount": 5043,
+    "product": "NZZ.ch",
+    "documentId": "10022048",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:30:00.880Z",
+    "publicationLastUpdated": "2026-09-02T12:17:04.250Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:30:00.880Z",
+    "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "authorLine": "Christian Weisflog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/tanker-fuer-tanker-trump-zuendet-in-der-strasse-von-hormuz-die-naechste-eskalationsstufe-ld.10022048",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 776,
+    "leadText": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump's grab for Venezuela's oil reserves remains a paper tiger",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3668,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4891,3668,x305,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3668,3668,x916,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2751,3668,x1375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+     "teaserAuthor": "Gaby Oraa / Reuters"
+    },
+    "teaserAuthor": "Gaby Oraa / Reuters",
+    "flag": "Opinion",
+    "showComments": true,
+    "nzzId": "ld.10021740",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why does Trump's deal with Venezuela remain meaningless for the world market?",
+    "paywallQuestionTwo": "How do mismanagement and sanctions affect Venezuela's oil production?",
+    "paywallQuestionThree": "What challenges exist for investments in Venezuela's oil sector?",
+    "characterCount": 4369,
+    "product": "NZZ.ch",
+    "documentId": "10021740",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T06:50:39.452Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "authorLine": "Catherine Bosley",
+    "authorImage": {
+     "originalUrl": "/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/trumps-griff-nach-venezuelas-erdoelschaetzen-bleibt-ein-papiertiger-ld.10021740",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 637,
+    "premium": true,
+    "leadText": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10018958",
+    "name": "Europe's dangerous missile gap",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Pro",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Europe's dangerous missile gap",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1720515,
+       "name": "Marco Seliger",
+       "shortName": "mse",
+       "pianoId": "7df8a3bd-b304-4a24-9f11-a808a207a32c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10018958",
+   "pageType": "longformstandard",
+   "primaryCategory": "Pro",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Missing interceptor missiles: Europe's dangerous defense gap",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/16/bfe2db76-feb3-4cdd-a08f-7a703e191ac6.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y124&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Marco Seliger",
+  "description": "The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates this deficit.",
+  "news_keywords": "Europe's dangerous missile gap, Pro, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T07:30:00+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Europe's dangerous missile gap",
+  "ogTitle": "Europe's missile gap: Defense systems and offensive weapons are lacking",
+  "ogUrl": "https://www.nzz.ch/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958",
+  "mrf:cms_id": "nzz:ld.10018958",
+  "mrf:sections": "Pro",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10018958",
+  "nzzAuthors": [
+   {
+    "id": 1720515,
+    "name": "Marco Seliger",
+    "shortName": "mse",
+    "pianoId": "7df8a3bd-b304-4a24-9f11-a808a207a32c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:22 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/pro",
+      "name": "Pro"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Missing interceptor missiles: Europe's dangerous defense gap"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958"
+   },
+   "headline": "Missing interceptor missiles: Europe's dangerous defense gap",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates this deficit.",
+   "isAccessibleForFree": false,
+   "articleSection": "Pro",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/16/bfe2db76-feb3-4cdd-a08f-7a703e191ac6.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y124&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Marco Seliger"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 662040,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958",
+    "classification=premium",
+    "relevance=germany",
+    "layout=longformstandard",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10018958",
+    "channel=Pro"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Marco Seliger",
+   "ContentSection": "Pro",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Warum fehlen dem Westen Abfangraketen gegen russische Angriffe?\nWie beeinflussen Abhängigkeiten von China die Raketenproduktion?\nWelche Folgen hat der Mangel an weitreichenden Waffen für Europa?",
+   "ldId": "ld.10018958",
+   "channel": "Pro",
+   "heading": "Europas gefährliche Raketenlücke",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

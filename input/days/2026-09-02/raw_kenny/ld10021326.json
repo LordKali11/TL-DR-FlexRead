@@ -1,0 +1,2081 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k11kqbs61",
+   "content": {
+    "title": "«When a young chef is hyped up by Gault-Millau, starts with 15 points and charges 300 francs for the menu, people get skeptical,» says top chef Didi Bruna",
+    "lead": "Many cooks are only concerned with self-fulfillment, a top Zurich chef believes. Now he is calling it quits.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k11kqbs62",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Isabel Heusser",
+       "url": "/impressum/isabel-heusser-ld.1678302",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k11kqj410",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Tobias Marti",
+       "url": "/impressum/tobias-marti-ld.1735278",
+       "teaserImage": {
+        "originalUrl": "/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1c32re40",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Karin Hofer",
+       "url": "/impressum/karin-hofer-ld.1288092",
+       "teaserImage": {
+        "originalUrl": "/2023/02/03/7415707d-02c7-4262-b5e4-1b596fff00cc.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/02/03/7415707d-02c7-4262-b5e4-1b596fff00cc.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1c2n55s1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Didi Bruna at his restaurant «Didi's Frieden» on Stampfenbachstrasse. He will run it only until the end of September.",
+     "originalUrl": "/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?crop=3057,2199,x391,y374",
+     "width": 4128,
+     "height": 2752,
+     "altText": "Didi Bruna in his restaurant Didis Frieden in Zurich, August 27, 2026.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180248559"
+      }
+     ],
+     "crop": {
+      "x": 391,
+      "y": 374,
+      "width": 3057,
+      "height": 2199,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 391,
+       "y": 374,
+       "width": 3057,
+       "height": 2199,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Didi Bruna at his restaurant «Didi's Frieden» on Stampfenbachstrasse. He will run it only until the end of September.",
+    "author": ""
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11kqbs64",
+   "content": {
+    "text": "<strong></strong>"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-f56814a3",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11l9q1i0",
+   "content": {
+    "text": "A few minutes' walk from Central, on the inconspicuous Stampfenbachstrasse, lies a top address for gourmets: «Didi's Frieden,» a restaurant awarded 15 Gault-Millau points. Didi Bruna has been a fixture of Zurich's gastronomy scene for decades – besides his cuisine, he became known for his handwritten menus and the small chocolate drawings on his dessert plates."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c1to6m1",
+   "content": {
+    "text": "In a few weeks, Bruna will be retiring, and he has decided to close his restaurant."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ag0",
+   "content": {
+    "text": "You have been a restaurateur in Zurich for over 40 years. Now you are calling it quits – why?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0aj0",
+   "content": {
+    "text": "I have to close. The property where «Didi's Frieden» is located is being renovated. There will be a restaurant again, but with conditions that no longer work for me and my head chef, Markus Furtner."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ak0",
+   "content": {
+    "text": "What conditions?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0ak1",
+   "content": {
+    "text": "The owners are breaking through the wall in the dining room and are planning for 100 seats. That's far too many for us. We currently have 50 seats inside and 50 outside, which is optimal."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ak2",
+   "content": {
+    "text": "But isn't more space in the restaurant a good thing?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0al0",
+   "content": {
+    "text": "Not for us. We cook with fresh ingredients, and the kitchen is already very small for that. After the renovation, it will stay the same size, but the storage rooms will be smaller because they want to add more apartments. Whoever cooks here in the future will be relying on chain catering or installing a pizza oven. It won't work for our style of cuisine. The owners actually wanted to start four years ago, but I was able to negotiate with them to wait until my retirement. Now, it's over on Sept. 30; four days later I turn 65. For me, that works out. Even if we are very busy right now. Everyone wants to come visit us one last time. Someone is constantly wandering into my kitchen to say goodbye. I can't get anything done anymore."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0al1",
+   "content": {
+    "text": "In recent years, many gourmet restaurants have had to close: «Elmira» in Zurich, «Skins» in Lenzburg, «Trübli» in Winterthur. Is fine dining in crisis?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0al2",
+   "content": {
+    "text": "It's quite astonishing: «Elmira» always had good reviews, and suddenly the restaurant is gone. But with fine dining, that's how it is: If the restaurant isn't in the right location, if you don't have the right personality, or if the concept isn't right, it gets difficult. Unfortunately, it's not enough to just be a great cook. On top of that, the value for the price has to be right. Even 20 years ago, young chefs were hyped up by the critics, then you'd go eat there and think, yes, that was special. But also expensive. A year later, the restaurant was closed."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0an0",
+   "content": {
+    "text": "So what is a good concept?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0an1",
+   "content": {
+    "text": "Offering what the guests want. Sure, with big names like Andreas Caminada and his peers, the guests travel from all over. But he also had to establish himself first. When a young chef is hyped up by Gault-Millau, starts with 15 points and charges 300 francs for the menu, people get skeptical. Only a few guests are prepared to spend that much money. Many cooks simply don't take the guests' wishes into account. They only want to do what they think is good."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0an2",
+   "content": {
+    "text": "So self-fulfillment in gastronomy doesn't work?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0an3",
+   "content": {
+    "text": "It's difficult. What's the use of plating with tweezers if the guest doesn't leave full but has spent a lot of money? That way, no one leaves the restaurant satisfied. And then they just don't come back."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ao0",
+   "content": {
+    "text": "How important are Gault-Millau points to you? Your restaurant has also been recognized, with 15 points."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0ao1",
+   "content": {
+    "text": "Yes, and they are a nice recognition. But at the same time, guests then arrive with expectations. Everything has to be perfect. That's why I don't have any signs or points on the door today. I want people to come to us without any preconceptions. I'm shaped by an experience I had as head chef at the Neumarkt restaurant."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11m144n0",
+   "content": {
+    "text": "What happened back then?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11m13de1",
+   "content": {
+    "text": "We had a huge garden for 250 guests. We couldn't have cooked for so many guests without semi-prepared products. A critic came by; I knew him well. Of course we gave him the best table, and I spontaneously cooked him a six-course meal that wasn't on the menu like that. After that, we had 14 points. I thought, this can't be true – for this kind of simple eatery. If a normal guest comes in now, there's no way they can make sense of that rating."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ao2",
+   "content": {
+    "text": "Many chefs report feeling great pressure because they are afraid of making a mistake when the critics visit."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0ao3",
+   "content": {
+    "text": "I have friends in Michelin-starred gastronomy. I witnessed some of them having burnouts. The whole ratings business has also destroyed livelihoods. That's why I just cook to my own taste. I also never did any paid advertising. For me, the most important thing is that the guest leaves satisfied and tells others that they had a good meal."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1dvvom01",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "The chandeliers on the restaurant's ceiling are decorated with wine glasses.",
+     "originalUrl": "/2026/09/01/61179d3d-6708-445c-8a77-0ce4ad6330db.jpg?crop=4128,2752,x0,y0",
+     "width": 4128,
+     "height": 2752,
+     "altText": "Restaurant Didis Frieden in Zurich, August 27, 2026.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180248580"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4128,
+      "height": 2752,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4128,
+       "height": 2752,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The chandeliers on the restaurant's ceiling are decorated with wine glasses.",
+    "author": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ap1",
+   "content": {
+    "text": "There are said to be chefs who look for a patron – so they can do exactly what they want."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0ap2",
+   "content": {
+    "text": "I know a few such patrons. And I can tell you: They also want to see black ink at some point."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ap3",
+   "content": {
+    "text": "In many high-point and Michelin-starred restaurants, guests have to order at least a seven-course meal, but would prefer to eat less."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0ap4",
+   "content": {
+    "text": "It's true: Many people these days prefer to order individual dishes from the menu. It was particularly bad during the pandemic: A couple would sit there with two plates of ravioli, drink tap water and discuss their relationship problems until closing time. Maybe they would order a verbena tea as well. We didn't make any money from that. So we thought of something new."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11l30p61",
+   "content": {
+    "text": "Which was?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0aq2",
+   "content": {
+    "text": "In the evening, a three-course meal is the minimum, but people can put together the dishes from the menu. With an amuse-bouche, that costs 85 francs. And if someone doesn't feel like dessert, we serve them a glass of sparkling wine to start or a digestif as an alternative. We are happy when people take their time to eat. Unfortunately, that is increasingly rare. It has to be quick, especially at lunchtime. People rush in at 12 o'clock, and an hour later they're gone again."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ar1",
+   "content": {
+    "text": "Was it different in the past?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0ar3",
+   "content": {
+    "text": "Oh, yes. In the 1980s, I was the head chef at the «Blaue Ente» near Tiefenbrunnen station. At every table, the ad men were drinking a bottle of Gaja, Margaux or Château Mouton-Rothschild even at lunchtime, and eating a multi-course meal that went on late into the afternoon. Those were the golden days. Then the recession came in 1992, and everyone switched to tap water. The banks suddenly cut back on expenses."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0ar4",
+   "content": {
+    "text": "So the opulence has been over for a long time."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0as1",
+   "content": {
+    "text": "I wouldn't say that in such general terms. We tend to have older guests, who perhaps deliberately behave differently from what the mainstream dictates. Like on the evening of Jan. 8, we had just reopened after the New Year's holidays. The first two tables didn't drink a drop of alcohol. I was already thinking: Uh-oh... Dry January is striking! But then suddenly every table was ordering red wine, white wine – really going for it! It seemed like an act of defiance to me."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1e03fs61",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Doves are a recurring motif in the restaurant.",
+     "originalUrl": "/2026/09/01/fae4cac2-7d0b-4551-a265-b557a5577849.jpg?crop=4128,2752,x0,y0",
+     "width": 4128,
+     "height": 2752,
+     "altText": "Restaurant Didis Frieden in Zurich, August 27, 2026.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180248563"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4128,
+      "height": 2752,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4128,
+       "height": 2752,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Doves are a recurring motif in the restaurant.",
+    "author": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0as2",
+   "content": {
+    "text": "You once said the «Kronenhalle» was a role model for you. Why?"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0as3",
+   "content": {
+    "text": "In 1983, I joined the «Kronenhalle» as chef entremétier (station chef for vegetables, soups and starches), back when Ruedi Weber was the head chef. At that time, the legendary landlady Hulda Zumsteg was still alive; I even saw her a few times. I was immediately fascinated by how people in that establishment treated each other. I have never seen a restaurant where the cooks or waiters stayed for 30 or 40 years. Back then I told myself: If I open my own place, I don't want to close it down right away either. Of course, one can argue about the cuisine at the «Kronenhalle.» But certain dishes still work to this day. I go there once a year. I like that consistency."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0at0",
+   "content": {
+    "text": "But you don't always have the same dishes on the menu, do you?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0at1",
+   "content": {
+    "text": "No. We change the menu every six weeks. I love new things. I could come up with different menus every week. But guests often don't appreciate that. That's why I'm cautious and sleep on a menu three times before deciding. I had to put cordon bleu on the menu at my restaurant to please the owners. I did, and to my chagrin it became the best-selling main course. Today I have it on the menu in winter; I can't get rid of it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0at2",
+   "content": {
+    "text": "In the fine-dining segment, chefs like Andreas Caminada of Schloss Schauenstein or Peter Knogl at «Les Trois Rois» are treated like stars. Is that good or bad for your industry?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0at3",
+   "content": {
+    "text": "The image of chefs has improved; in the past, people automatically thought we were all hot-tempered. But actually, we chefs are rather introverted. When I opened my first restaurant on Asylstrasse in Zurich in 1998, I realized: Now you have to play the boss and show yourself to the guests. That was unusual for me. Today I find it wonderful. I get to know so many people I wouldn't meet in another life. Members of the cantonal government and City Council come to my restaurant. City President Raphael Golta once said in an interview that «Didi's Frieden» was his favorite restaurant. I was very pleased about that."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0at4",
+   "content": {
+    "text": "Let's talk about food. What do you like to order in a restaurant?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0au0",
+   "content": {
+    "text": "I love hearty cuisine. Sausage with potato salad – wonderful. I'm a meat eater, much to the chagrin of my partner, who is less fond of it. But we can work things out. Sometimes I also go to a top chef and let myself be pampered."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0au2",
+   "content": {
+    "text": "And at home?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0au4",
+   "content": {
+    "text": "At home, I like it simple. Pasta and salad, that's all it takes. When I have guests, I often prepare the food at the restaurant. Like recently, I seared a rack of veal here in the kitchen and finished it in the oven at home."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0av0",
+   "content": {
+    "text": "Many people get nervous when they host guests at home. What simple dish can you use to impress visitors?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0av2",
+   "content": {
+    "text": "A good meal starts with the right preparation. You should go shopping early and then do a mise en place; that's the be-all and end-all. Otherwise things get stressful and the guests have to wait. Anything you can slide into the oven is a good bet. Then just fry up some spätzle in a pan on the side, and you're done."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0av4",
+   "content": {
+    "text": "Which dish do amateur cooks make the most mistakes with?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0av5",
+   "content": {
+    "text": "With risotto – it always sounds so simple, but it really requires a delicate touch. The rice can quickly get mushy. You have to have made it at least a thousand times before you can do it with your eyes closed."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0b02",
+   "content": {
+    "text": "You now have only a few weeks left at «Frieden.» Is there a dish you absolutely want to present to your guests one last time as a farewell?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0b03",
+   "content": {
+    "text": "We recently changed the menu, and that will stay until the end. Our head chef Markus Furtner's Wiener Schnitzel is on it. It's the best in all of Zurich, but nobody has noticed yet (laughs)."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0b04",
+   "content": {
+    "text": "What's next for you?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0b10",
+   "content": {
+    "text": "A friend of ours found a new place for Markus Furtner in Uster. He's opening there at the beginning of November. I'm helping him with the wine list, because I still have so much stuff in stock. I'll help him out a bit at the new place. When a new place opens, it's always hectic. You need all hands on deck then."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0b11",
+   "content": {
+    "text": "You're not taking a vacation?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0b12",
+   "content": {
+    "text": "Yes, I am. In January, I want to go away with my partner for a month, maybe to South Africa. I haven't been away for that long since «Didi's Frieden» opened. And when I did take vacations, I would check my phone at least once a day to see if there was anything wrong with the restaurant. I'm looking forward to doing nothing for a while. Although, the last time that happened, it didn't agree with me at all."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11kr0b13",
+   "content": {
+    "text": "What happened?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11kr0b20",
+   "content": {
+    "text": "When I closed «Didi's Bistro» in 2001 after three years, I fell into a deep hole. I completely underestimated what it means to no longer have a purpose. Luckily, after two months, Michel Péclard called me, whom I didn't know at the time. He asked me if I wanted to help out as head chef at the «Münsterhof.» I really liked it there. I ended up staying for half a year, much longer than originally planned. But now it's really over. Goodbye, door closed, that's it."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1c2t4a11",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "The «Kronenhalle» is a role model for Didi Bruna: «I've never seen a restaurant where the cooks or waiters have stayed for 30 or 40 years.» At the «Kronenhalle,» that is the case.",
+     "originalUrl": "/2026/08/31/f7e4d57c-c496-45a9-9493-0f76431dd4f5.jpg?crop=2752,4128,x0,y0",
+     "width": 2752,
+     "height": 4128,
+     "altText": "Didi Bruna in his restaurant Didis Frieden in Zurich, August 27, 2026.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180248545"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2752,
+      "height": 4128,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2752,
+       "height": 4128,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The «Kronenhalle» is a role model for Didi Bruna: «I've never seen a restaurant where the cooks or waiters have stayed for 30 or 40 years.» At the «Kronenhalle,» that is the case.",
+    "author": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k11kqbs65",
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k11kqbs66",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11kqbs67",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "Peter Knogl is one of the best chefs in the world – also because he resists trends: \"We don't look for vegetarian guests.\"",
+       "teaserImage": {
+        "originalUrl": "/2025/12/17/73169608-f572-4923-a550-64d6cc5d3715.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/17/73169608-f572-4923-a550-64d6cc5d3715.jpg?width=1024&quality=75&auto=webp",
+        "width": 6720,
+        "height": 4480,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6720,3779,x0,y701"
+         },
+         {
+          "name": "1:1",
+          "crop": "1964,1964,x1485,y1353"
+         },
+         {
+          "name": "4:3",
+          "crop": "5309,3982,x0,y498"
+         },
+         {
+          "name": "3:4",
+          "crop": "2655,3539,x1134,y941"
+         },
+         {
+          "name": "3:2",
+          "crop": "6720,4480,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Why tradition stands the test of time, why foie gras shouldn't be banned, and why visitors are becoming increasingly impatient: the big conversation about top-class gastronomy with the chef of the three-star restaurant \"Cheval Blanc\" in Basel."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1916559",
+       "readingTime": 1020,
+       "authorLine": "Sebastian Briellmann, Daniel Gerny (text), Kostas Maros (images)",
+       "characterCount": 20483,
+       "product": "NZZ.ch",
+       "documentId": 1916559,
+       "layout": "longformvisual",
+       "publicationDate": "2025-12-22T04:30:00.000Z",
+       "publicationLastUpdated": "2025-12-23T04:58:58.028Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-22T16:30:00.000Z",
+       "teaserCaption": "Why tradition stands the test of time, why foie gras shouldn't be banned, and why visitors are becoming increasingly impatient: the big conversation about top-class gastronomy with the chef of the three-star restaurant \"Cheval Blanc\" in Basel.",
+       "authorImage": {
+        "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/peter-knogl-ist-einer-der-besten-koeche-der-welt-auch-weil-er-trends-widersteht-wir-suchen-den-vegetarischen-gast-nicht-ld.1916559",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 3374,
+       "leadText": "Why tradition stands the test of time, why foie gras shouldn't be banned, and why visitors are becoming increasingly impatient: the big conversation about top-class gastronomy with the chef of the three-star restaurant \"Cheval Blanc\" in Basel.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11kqbs68",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "Restaurant critic Urs Heller: \"Many things that German-speaking Swiss find funny or even frightening are highly valued in French-speaking Switzerland.\"",
+       "teaserImage": {
+        "originalUrl": "/2023/09/22/fb4fa1c9-7078-479a-8e90-6cf33a31876e.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/09/22/fb4fa1c9-7078-479a-8e90-6cf33a31876e.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4749,
+        "height": 3166,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4749,2671,x0,y349"
+         },
+         {
+          "name": "1:1",
+          "crop": "1097,1097,x1306,y812"
+         },
+         {
+          "name": "4:3",
+          "crop": "4221,3166,x306,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1668,2224,x909,y804"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Urs Heller and his restaurant guide \"Gault-Millau\" will be judging the country's chefs next week in Zurich. He'll explain how he discovers talent and why he doesn't put much stock in TripAdvisor reviews."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1757476",
+       "readingTime": 720,
+       "authorLine": "Tobias Marti (text), Karin Hofer (images)",
+       "characterCount": 14028,
+       "product": "NZZ.ch",
+       "documentId": 1757476,
+       "layout": "longformstandard",
+       "publicationDate": "2023-09-23T03:18:00.000Z",
+       "publicationLastUpdated": "2023-09-25T07:54:53.296Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2023-09-23T15:18:00.000Z",
+       "teaserCaption": "Urs Heller and his restaurant guide \"Gault-Millau\" will be judging the country's chefs next week in Zurich. He'll explain how he discovers talent and why he doesn't put much stock in TripAdvisor reviews.",
+       "url": "/zuerich/gault-millau-restaurantkritiker-urs-heller-ueber-caminada-humm-und-grandits-ld.1757476",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 2323,
+       "premium": false,
+       "leadText": "Urs Heller and his restaurant guide \"Gault-Millau\" will be judging the country's chefs next week in Zurich. He'll explain how he discovers talent and why he doesn't put much stock in TripAdvisor reviews."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11kqbs69",
+      "content": {
+       "title": "Entrepreneur Silvio Denz reopens the legendary «Florhof»: «In terms of price, we are well below the five-star hotels in Zurich»",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5455,3068,x3,y174"
+         },
+         {
+          "name": "4:3",
+          "crop": "4007,3005,x0,y322"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x134,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x150,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5455,3636,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "He wants at least one star for the signature restaurant – and for Zurich locals to come to the brasserie to play Jass",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "nzzId": "ld.10017981",
+       "readingTime": 660,
+       "paywallQuestionOne": "What makes Villa Florhof unique in the Zurich hotel market?",
+       "paywallQuestionTwo": "How does Villa Florhof combine history with modern luxury?",
+       "paywallQuestionThree": "Why is Silvio Denz focusing on experiential hotels in Zurich?",
+       "characterCount": 14183,
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y42"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x86,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4848,3636,x0,y177"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1103,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4959,3306,x0,y181"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/08/05/7d06bfd5-9383-4315-a624-bf554cd813f6.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/7d06bfd5-9383-4315-a624-bf554cd813f6.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4128,2322,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x154,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3669,2752,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x638,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3753,2502,x164,y173"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2026/08/05/f010bf8e-f57d-4243-9853-546026c544cc.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/f010bf8e-f57d-4243-9853-546026c544cc.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4128,2322,x0,y424"
+         },
+         {
+          "name": "1:1",
+          "crop": "2274,2274,x697,y461"
+         },
+         {
+          "name": "4:3",
+          "crop": "3335,2502,x390,y224"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x970,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3753,2501,x103,y251"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselFour": {
+        "originalUrl": "/2026/08/05/cff0614e-80ed-4b68-8ce8-b54ec9a98fab.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/cff0614e-80ed-4b68-8ce8-b54ec9a98fab.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2751,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4128,2322,x0,y429"
+         },
+         {
+          "name": "1:1",
+          "crop": "2751,2751,x547,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3668,2751,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2063,2751,x714,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4127,2751,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "product": "NZZ.ch",
+       "documentId": 10017981,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-06T03:00:00.000Z",
+       "publicationLastUpdated": "2026-08-06T12:23:58.736Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-06T15:00:00.000Z",
+       "teaserCaption": "He wants at least one star for the signature restaurant – and for Zurich locals to come to the brasserie to play Jass",
+       "authorLine": "Isabel Heusser (text), Karin Hofer (images)",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/zuerich/villa-florhof-das-traditionshaus-in-zuerich-wird-zum-boutique-hotel-ld.10017981",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 2295,
+       "leadText": "He wants at least one star for the signature restaurant – and for Zurich locals to come to the brasserie to play Jass",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "«If a young chef is hyped up by Gault-Millau, starts with 15 points and charges 300 Swiss francs for the menu, people get skeptical,» says top chef Didi Bruna",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2819,1586,x701,y488"
+    },
+    {
+     "name": "4:3",
+     "crop": "2757,2068,x629,y421"
+    },
+    {
+     "name": "1:1",
+     "crop": "1284,1284,x1339,y637"
+    },
+    {
+     "name": "3:4",
+     "crop": "1410,1880,x1342,y566"
+    },
+    {
+     "name": "3:2",
+     "crop": "2819,1880,x648,y575"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring."
+  },
+  "flag": "interview",
+  "nzzId": "ld.10021326",
+  "readingTime": 600,
+  "characterCount": 11879,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021326,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:00:00.000Z",
+  "publicationDate": "2026-09-02T03:00:00.000Z",
+  "publicationLastUpdated": "2026-09-02T11:02:09.986Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:00:00.000Z",
+  "teaserCaption": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring.",
+  "nzzAuthors": [
+   {
+    "id": 1648381,
+    "name": "Isabel Heusser",
+    "shortName": "heu",
+    "pianoId": "4fa4cc7b-2903-473e-93fc-75a09106b64f",
+    "external": false
+   },
+   {
+    "id": 1721467,
+    "name": "Tobias Marti",
+    "shortName": "tma",
+    "pianoId": "82d32012-1811-4b5f-9f07-b6868312ae4c",
+    "external": false
+   },
+   {
+    "id": 1372635,
+    "name": "Karin Hofer",
+    "shortName": "hfk",
+    "pianoId": "a4d176bf-5bbb-44ac-ab85-8e91e0c0a6ec",
+    "external": false
+   }
+  ],
+  "authorLine": "Isabel Heusser, Tobias Marti, Karin Hofer",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1678302,
+    "name": "Isabel Heusser (heu.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1735278,
+    "name": "Tobias Marti (tma.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1288092,
+    "name": "Karin Hofer (hfk.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/02/03/7415707d-02c7-4262-b5e4-1b596fff00cc.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 2030,
+  "leadText": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring.",
+  "nzzSummaryEN": "- Didi Bruna is closing his Zurich restaurant 'Didi's Frieden' due to renovations and new leasing terms that don't suit him.\n- Bruna criticizes developments in the fine dining industry, including pressure from critics and chefs ignoring guest preferences.\n- After closing, he plans to assist his chef at a new location and looks forward to his first extended break in years.",
+  "nzzSummaryDE": "- Didi Bruna is closing his Zurich restaurant «Didi's Frieden» because the property is being renovated and re-let under conditions that are not suitable for him.\n - Bruna criticizes developments in the gourmet industry, including the high pressure from critic reviews and the neglect of guest demands by chefs.\n - After the closure, he plans to work in his chef's new restaurant and is looking forward to his first extended break in years.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "«It's not enough to simply be a great cook.»",
+  "nzzPrintSubtitle": "Many chefs are only interested in self-realization, says top Zurich restaurateur Didi Bruna in an interview with Isabel Heusser and Tobias Marti. Now he is retiring.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+   "title": "Zurich: Top chef Didi Bruna on Gault-Millau, expensive food and risotto",
+   "socialMediaTitle": "Zurich: Top chef Didi Bruna on Gault-Millau, expensive food and the golden eighties",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2819,1586,x701,y488&wmark=nzz"
+  },
+  "ldPublicationId": 2487556,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "gastronomy",
+    "slug": "/themen/gastronomie"
+   },
+   {
+    "name": "Gault Millau",
+    "slug": "/themen/gault-millau"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1916559",
+    "ld.1757476",
+    "ld.10017981"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 746784,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "gastronomie",
+   "name": "gastronomy",
+   "tagName": "gastronomy",
+   "qId": "Q41958",
+   "seoTitle": "Gastronomy – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-09-30 03:35:39.623Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/gastronomie",
+   "size": 1080,
+   "relatedTopics": [
+    {
+     "name": "Gault Millau",
+     "slug": "/themen/gault-millau"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "Consolation with toast and stuzzichini",
+    "teaserImage": {
+     "originalUrl": "/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024&quality=75&auto=webp",
+     "width": 579,
+     "height": 579,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "579,326,x0,y127"
+      },
+      {
+       "name": "4:3",
+       "crop": "579,434,x0,y72"
+      },
+      {
+       "name": "1:1",
+       "crop": "579,579,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "434,579,x72,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "579,386,x0,y97"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Locarno is still waiting for the Grand Hotel to be resurrected. But now there's a new Grand Café – thanks to a bit of clever marketing.",
+     "teaserAuthor": "Illustration by Benedikt Rugar"
+    },
+    "teaserAuthor": "Illustration by Benedikt Rugar",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "tags": [
+     "Zürich Restaurantkritiken"
+    ],
+    "authorLine": "Urs Bühler",
+    "paywallQuestionOne": "How does Locarno plan to revive the Grand Hotel?",
+    "paywallQuestionTwo": "What role does the Grand Café Paolino play in Locarno's transformation?",
+    "paywallQuestionThree": "How does the gastronomy sector influence Locarno's pursuit of former glory?",
+    "language": {
+     "locale": "de-CH"
+    },
+    "readingTime": 240,
+    "nzzId": "ld.10017985",
+    "characterCount": 4861,
+    "product": "NZZ.ch",
+    "documentId": "10017985",
+    "layout": "opinion",
+    "publicationDate": "2026-08-06T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-06T09:50:12.078Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-06T15:30:00.000Z",
+    "teaserCaption": "Locarno is still waiting for the Grand Hotel to be resurrected. But now there's a new Grand Café – thanks to a bit of clever marketing.",
+    "authorImage": {
+     "originalUrl": "/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+     "width": 480,
+     "height": 640,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "480,480,x0,y80"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/trostpflaster-mit-toast-und-stuzzichetti-ld.10017985",
+    "department": {
+     "name": "table or counter",
+     "path": "/gesellschaft/tisch-oder-theke"
+    },
+    "estimationWordCount": 744,
+    "leadText": "Locarno is still waiting for the Grand Hotel to be resurrected. But now there's a new Grand Café – thanks to a bit of clever marketing.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 11360,
+    "teaserImage": {
+     "originalUrl": "/2025/07/10/d4685b47-3d13-447c-a0ca-d425b55c79ba.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/07/10/d4685b47-3d13-447c-a0ca-d425b55c79ba.jpeg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3992,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "5323,3992,x18,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2727,2727,x963,y160"
+      },
+      {
+       "name": "3:4",
+       "crop": "2994,3992,x1096,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5988,3992,x6,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Are there illegal conditions on Lake Zurich? A busy boater is arguing with celebrity restaurateur Michel Péclard.",
+     "teaserAuthor": "Dominic Nahr / NZZ"
+    },
+    "teaserAuthor": "Dominic Nahr / NZZ",
+    "title": "Dispute among freshwater captains: A boat trip for Heidi Klum sparked a years-long dispute in Zurich",
+    "nzzId": "ld.10009732",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does the dispute over boat tours affect regulation on Lake Zurich?",
+    "paywallQuestionTwo": "What arguments do Péclard and Oppelt put forward in the conflict over commercial activity?",
+    "paywallQuestionThree": "Why does the implementation of the regulations on Swiss lakes remain controversial?",
+    "product": "NZZ.ch",
+    "documentId": "10009732",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-23T03:00:00.000Z",
+    "publicationLastUpdated": "2026-07-23T08:29:55.699Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-23T15:00:00.000Z",
+    "teaserCaption": "Are there illegal conditions on Lake Zurich? A busy boater is arguing with celebrity restaurateur Michel Péclard.",
+    "authorLine": "Tobias Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/krieg-der-suesswasser-kapitaene-wie-eine-bootsfahrt-fuer-heidi-klum-einen-jahrelangen-streit-ausloest-ld.10009732",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1740,
+    "leadText": "Are there illegal conditions on Lake Zurich? A busy boater is arguing with celebrity restaurateur Michel Péclard.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Stadler Rail CEO Peter Spuhler is co-owner of the traditional «Florhof» hotel in a shake-up: The head chef is leaving before the opening",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/20/55ba3b8c-7119-449b-ad62-9e06843fff9a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/20/55ba3b8c-7119-449b-ad62-9e06843fff9a.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y135"
+      },
+      {
+       "name": "4:3",
+       "crop": "4848,3636,x683,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1866,1866,x1978,y787"
+      },
+      {
+       "name": "3:4",
+       "crop": "2479,3306,x1540,y277"
+      },
+      {
+       "name": "3:2",
+       "crop": "5455,3636,x288,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "At a previous workplace, employees had accused the award-winning restaurateur Christian Jürgens of inappropriate behavior.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "nzzId": "ld.10016175",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is head chef Christian Jürgens leaving the Hotel «Florhof» before its opening?",
+    "paywallQuestionTwo": "What role do the allegations against Jürgens play in the delay of the hotel project?",
+    "paywallQuestionThree": "How will the resignations and criticism affect the future of the Hotel «Florhof»?",
+    "characterCount": 5663,
+    "product": "NZZ.ch",
+    "documentId": "10016175",
+    "layout": "regular",
+    "publicationDate": "2026-07-20T16:38:53.116Z",
+    "publicationLastUpdated": "2026-07-21T04:50:56.370Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-21T04:38:53.116Z",
+    "teaserCaption": "At a previous workplace, employees had accused the award-winning restaurateur Christian Jürgens of inappropriate behavior.",
+    "authorLine": "Isabel Heusser",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/knall-im-neuen-edel-hotel-florhof-des-stadler-rail-chefs-peter-spuhler-noch-vor-der-eroeffnung-verlaesst-der-chefkoch-das-traditionshaus-ld.10016175",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 850,
+    "leadText": "At a previous workplace, employees had accused the award-winning restaurateur Christian Jürgens of inappropriate behavior.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Flood of fake reviews: How Google stars are losing their power",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/09/301a4cdf-0d21-4f97-8de6-af74db18aded.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/09/301a4cdf-0d21-4f97-8de6-af74db18aded.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y113"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2000,2000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x26,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Restaurants, hotels, even dentists. Everything gets a review on Google and other platforms. Because this is a burden for businesses, companies in Germany are having reviews deleted. And what about Switzerland?",
+     "teaserAuthor": "Illustration Dario Veréb / NZZaS"
+    },
+    "teaserAuthor": "Illustration Dario Veréb / NZZaS",
+    "characterCount": 8079,
+    "nzzId": "ld.10014615",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do fake reviews affect the credibility of Google star ratings?",
+    "paywallQuestionTwo": "Why is deleting reviews more common in Germany than in Switzerland?",
+    "paywallQuestionThree": "Could Google star ratings soon lose value due to manipulation?",
+    "product": "NZZ.ch",
+    "documentId": "10014615",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-15T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-15T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-15T15:30:00.000Z",
+    "teaserCaption": "Restaurants, hotels, even dentists. Everything gets a review on Google and other platforms. Because this is a burden for businesses, companies in Germany are having reviews deleted. And what about Switzerland?",
+    "authorLine": "Elena Oberholzer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/08/29/d095402d-e0ec-41fc-b2ce-136c621788ea.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/flut-an-falschen-bewertungen-wie-die-google-sterne-ihre-macht-verlieren-ld.10014615",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1178,
+    "leadText": "Restaurants, hotels, even dentists. Everything gets a review on Google and other platforms. Because this is a burden for businesses, companies in Germany are having reviews deleted. And what about Switzerland?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZaS",
+    "title": "An obstacle course between restaurant tables – on a double shift in service",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Monique Misteli",
+    "editor": "1588601",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/06/11/96636dd8-79e5-4752-ac9c-e9ef0c49baf6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/11/96636dd8-79e5-4752-ac9c-e9ef0c49baf6.jpg?width=1024&quality=75&auto=webp",
+     "width": 5145,
+     "height": 5332,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5145,2894,x0,y1229"
+      },
+      {
+       "name": "4:3",
+       "crop": "5145,3859,x0,y580"
+      },
+      {
+       "name": "1:1",
+       "crop": "5145,5145,x0,y164"
+      },
+      {
+       "name": "3:4",
+       "crop": "3999,5332,x1146,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5145,3430,x0,y1016"
+      }
+     ],
+     "focalPoint": {
+      "x": 2581,
+      "y": 2042
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Zurich is not alone in its reputation for poor service in restaurants and cafes, and almost no one wants to train as a waiter anymore. It's high time to defend the profession's honor.",
+     "teaserAuthor": "Photopress Archive / Keystone"
+    },
+    "teaserAuthor": "Photopress Archive / Keystone",
+    "nzzId": "ld.10010890",
+    "readingTime": 720,
+    "paywallQuestionOne": "Why are fewer and fewer people choosing a career in the service industry?",
+    "paywallQuestionTwo": "How does the staff shortage affect working conditions in the catering industry?",
+    "paywallQuestionThree": "What skills are crucial for long-term success in the service industry?",
+    "characterCount": 15359,
+    "product": "NZZ.ch",
+    "documentId": "10010890",
+    "layout": "longformvisual",
+    "publicationDate": "2026-06-14T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-14T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-14T15:30:00.000Z",
+    "teaserCaption": "Zurich is not alone in its reputation for poor service in restaurants and cafes, and almost no one wants to train as a waiter anymore. It's high time to defend the profession's honor.",
+    "url": "https://www.nzz.ch/nzz-am-sonntag-magazin/hindernislauf-zwischen-den-tischen-auf-doppelschicht-im-service-ld.10010890",
+    "department": {
+     "name": "NZZ am Sonntag Magazine",
+     "path": "/nzz-am-sonntag-magazin"
+    },
+    "estimationWordCount": 2460,
+    "leadText": "Zurich is not alone in its reputation for poor service in restaurants and cafes, and almost no one wants to train as a waiter anymore. It's high time to defend the profession's honor.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Volleys of laughter from the Land of Smiles",
+    "teaserImage": {
+     "originalUrl": "/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024&quality=75&auto=webp",
+     "width": 579,
+     "height": 579,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "579,326,x0,y127"
+      },
+      {
+       "name": "4:3",
+       "crop": "579,434,x0,y72"
+      },
+      {
+       "name": "1:1",
+       "crop": "579,579,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "434,579,x72,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "579,386,x0,y97"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Hotel Greulich in Zurich is considered a design classic. A restaurant team has moved into its ground floor, celebrating trash – and Thai street kitchens.",
+     "teaserAuthor": "Illustration by Benedikt Rugar"
+    },
+    "teaserAuthor": "Illustration by Benedikt Rugar",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "tags": [
+     "Zürich Restaurantkritiken"
+    ],
+    "authorLine": "Urs Bühler",
+    "language": {
+     "locale": "de-CH"
+    },
+    "readingTime": 240,
+    "nzzId": "ld.10008574",
+    "paywallQuestionOne": "How does the restaurant «555+» combine trash with Thai street food?",
+    "paywallQuestionTwo": "Why is the price level of the «555+» so high despite its trashy concept?",
+    "paywallQuestionThree": "How does the «555+» fit with the purist style of the Hotel Greulich?",
+    "characterCount": 4854,
+    "product": "NZZ.ch",
+    "documentId": "10008574",
+    "layout": "opinion",
+    "publicationDate": "2026-05-28T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-04T07:05:58.956Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-05-28T15:30:00.000Z",
+    "teaserCaption": "The Hotel Greulich in Zurich is considered a design classic. A restaurant team has moved into its ground floor, celebrating trash – and Thai street kitchens.",
+    "authorImage": {
+     "originalUrl": "/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+     "width": 480,
+     "height": 640,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "480,480,x0,y80"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/der-nachtfalter-haelt-inne-ld.10008574",
+    "department": {
+     "name": "table or counter",
+     "path": "/gesellschaft/tisch-oder-theke"
+    },
+    "estimationWordCount": 712,
+    "leadText": "The Hotel Greulich in Zurich is considered a design classic. A restaurant team has moved into its ground floor, celebrating trash – and Thai street kitchens.",
+    "nzzSummaryIsAuto": true
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021326",
+    "name": "«If a young chef is hyped up by Gault-Millau, starts with 15 points and charges 300 Swiss francs for the menu, people get skeptical,» says top chef Didi Bruna",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "«If a young chef is hyped up by Gault-Millau, starts with 15 points and charges 300 Swiss francs for the menu, people get skeptical,» says top chef Didi Bruna",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1648381,
+       "name": "Isabel Heusser",
+       "shortName": "heu",
+       "pianoId": "4fa4cc7b-2903-473e-93fc-75a09106b64f",
+       "external": false
+      },
+      {
+       "id": 1721467,
+       "name": "Tobias Marti",
+       "shortName": "tma",
+       "pianoId": "82d32012-1811-4b5f-9f07-b6868312ae4c",
+       "external": false
+      },
+      {
+       "id": 1372635,
+       "name": "Karin Hofer",
+       "shortName": "hfk",
+       "pianoId": "a4d176bf-5bbb-44ac-ab85-8e91e0c0a6ec",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:00:00.000Z",
+     "updateTimestamp": "2026-09-02T11:02:09.986Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "interview",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021326",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Zurich: Top chef Didi Bruna on Gault-Millau, expensive food and risotto",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2819,1586,x701,y488&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Isabel Heusser, Tobias Marti, Karin Hofer",
+  "description": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring.",
+  "news_keywords": "«When a young chef is lauded by Gault-Millau, starts with 15 points and charges 300 francs for the menu, people become skeptical,» says top chef Didi Bruna, interview, Zurich, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T15:02:09+02:00",
+  "date": "2026-09-02T07:00:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "INTERVIEW - «When a young chef is lauded by Gault-Millau, starts with 15 points and charges 300 francs for the menu, people become skeptical,» says top chef Didi Bruna",
+  "ogTitle": "Zurich: Top chef Didi Bruna on Gault-Millau, expensive food and the golden eighties",
+  "ogUrl": "https://www.nzz.ch/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+  "mrf:cms_id": "nzz:ld.10021326",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021326",
+  "nzzAuthors": [
+   {
+    "id": 1648381,
+    "name": "Isabel Heusser",
+    "shortName": "heu",
+    "pianoId": "4fa4cc7b-2903-473e-93fc-75a09106b64f",
+    "external": false
+   },
+   {
+    "id": 1721467,
+    "name": "Tobias Marti",
+    "shortName": "tma",
+    "pianoId": "82d32012-1811-4b5f-9f07-b6868312ae4c",
+    "external": false
+   },
+   {
+    "id": 1372635,
+    "name": "Karin Hofer",
+    "shortName": "hfk",
+    "pianoId": "a4d176bf-5bbb-44ac-ab85-8e91e0c0a6ec",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:40 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Zurich: Top chef Didi Bruna on Gault-Millau, expensive food and risotto"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326"
+   },
+   "headline": "Zurich: Top chef Didi Bruna on Gault-Millau, expensive food and risotto",
+   "datePublished": "2026-09-02T07:00:00+02:00",
+   "dateModified": "2026-09-02T15:02:09+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2819,1586,x701,y488&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Isabel Heusser"
+    },
+    {
+     "@type": "Person",
+     "name": "Tobias Marti"
+    },
+    {
+     "@type": "Person",
+     "name": "Karin Hofer"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 746784,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "interview",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021326",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-09-02T03:00:00.000Z",
+   "ContentAuthor": "Isabel Heusser, Tobias Marti, Karin Hofer",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum schliesst Didi Bruna sein Restaurant trotz Erfolg?\nIst Fine Dining in der Schweiz in einer Krise?\nWie beeinflussen Gault-Millau-Punkte die Erwartungen der Gäste?",
+   "ldId": "ld.10021326",
+   "channel": "Zürich",
+   "heading": "«Wenn ein junger Koch von Gault-Millau hochgejubelt wird, mit 15 Punkten beginnt und 300 Franken für das Menu verlangt, werden die Leute skeptisch», sagt der Spitzenkoch Didi Bruna",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

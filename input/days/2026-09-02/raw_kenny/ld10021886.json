@@ -1,0 +1,723 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1e5c0m10",
+   "content": {
+    "title": "Wetzikon's crisis-hit hospital prefers rescue by Thurgau Cantonal Hospital Group over private investors",
+    "lead": "The plan only works if the creditors, to whom the hospital owes a lot of money, participate. It will soon become clear whether they will do so.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1e5c0m11",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Jan Hudec",
+       "url": "/impressum/jan-hudec-ld.1086096",
+       "teaserImage": {
+        "originalUrl": "/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024&quality=75&auto=webp",
+        "width": 320,
+        "height": 320,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "320,180,x0,y70"
+         },
+         {
+          "name": "1:1",
+          "crop": "320,320,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "320,240,x0,y40"
+         },
+         {
+          "name": "3:4",
+          "crop": "240,320,x40,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1hg2ijq0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Marius Huber",
+       "url": "/impressum/marius-huber-ld.1736128",
+       "teaserImage": {
+        "originalUrl": "/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1e5c0m12",
+   "content": {
+    "image": {
+     "author": "Karin Hofer / NZZ",
+     "caption": "The new building, which remains unfinished, plunged Wetzikon Hospital into crisis.",
+     "originalUrl": "/2026/09/02/c533bcc3-b4e9-4af8-ba97-71cfc23864e8.jpg?crop=2400,1627,x0,y0",
+     "width": 2400,
+     "height": 1627,
+     "altText": "The still-unfinished new building has plunged Wetzikon Hospital into crisis. Karin Hofer / NZZ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2178262632"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2400,
+      "height": 1627,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2400,
+       "height": 1627,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The new building, which remains unfinished, plunged Wetzikon Hospital into crisis.",
+    "author": "Karin Hofer / NZZ"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ei8sgv0",
+   "content": {
+    "text": "Time is running out: In October, a decision will be made on whether Wetzikon Hospital has a future. For over two years, its management has been struggling against collapse because an expensive new building triggered acute financial distress. In the midst of this difficult phase, two offers emerged this summer to rescue the hospital. One came from an American investment company that wanted to acquire the hospital with a private Swiss hospital group. The other came from the public sector: The Thurgau hospital group Thurmed wanted to participate in Wetzikon."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-73441b6b",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ei8sh40",
+   "content": {
+    "text": "Now, the hospital and its owner communities have decided which path they want to take, announcing on Wednesday evening that they considered Thurmed's offer to be the best. They added that a «financially viable restructuring» would be possible with this offer."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hfjf3m0",
+   "content": {
+    "text": "Moreover, this option would yield the most for the creditors, they said. This is crucial, because the creditors must approve the deal. Under the previous restructuring concept, they would have had to waive around two-thirds of their claims, amounting to up to 180 million Swiss francs, they argued. Many were vehemently opposed and preferred to let the hospital go bankrupt."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hddas81",
+   "content": {
+    "text": "With the involvement of the Thurmed Group, creditors would recover up to 47.5% of their claims, according to the hospital. Depending on business performance, further repayments would even be possible, sources said in a statement. This would be more attractive for creditors than bankruptcy, in which they would only recover about one-fifth of their capital, according to the hospital's calculations."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hdmam10",
+   "content": {
+    "text": "Thurmed wanted to inject 35 million Swiss francs into the deal. In addition, it would provide the hospital with a loan of another 35 million Swiss francs to complete the new building, which is currently only a shell, it said. In return, Thurmed would acquire a majority stake in Wetzikon, and 49% would remain with the shareholder communities, it added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hg1ug81",
+   "content": {
+    "text": "The eleven communities agreed to this and supported the offer. A shareholder agreement would ensure that they could co-determine strategic decisions, for example if the sale of properties became an issue, they stated."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hemjrd0",
+   "content": {
+    "text": "The communities, for their part, contributed to the hospital's restructuring. They injected 50 million Swiss francs. However, the money from the communities and the Thurmed Group would only flow if the creditors approved the composition agreement in October."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hf0ca80",
+   "content": {
+    "text": "Thurmed would participate in Wetzikon with its own funds, and no state money would flow, the group wrote in a statement. With its involvement in the Zurich Oberland, Thurmed hoped for efficiency gains. It had already centralized key tasks in its hospitals and was financially successful."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ei9gst0",
+   "content": {
+    "text": "In Thurgau, however, the commitment was not uncontroversial. Cantonal parliamentarians spoke of a «high-risk investment.» However, the cantonal government, not the parliament, decided on the participation."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hcufri0",
+   "content": {
+    "text": "Wetzikon hospital management had also had two offers from private companies reviewed in addition to Thurmed's offer. One was the aforementioned offer with American involvement; the other had emerged in the summer and was previously unknown to the public. However, both were less advantageous, in the opinion of the hospital management."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hdg47b0",
+   "content": {
+    "text": "In the first case, the American investment company would have acquired the properties, and Swiss Medical Network (SMN), Switzerland's second-largest private clinic group, would have taken over hospital operations, they said. This plan suffered from the fact that SMN would have had to take over the cantonal service mandate from the current hospital, they added. There was no guarantee that this would actually happen after a sale of the hospital. Without a service mandate, operations would have too little revenue, they noted."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hduv1f0",
+   "content": {
+    "text": "The other private offer was probably a consequence of the failed first one, as the same entrepreneur, <a href=\"https://www.nzz.ch/ld.1932993\">Valais investor Antoine Hubert</a>, stood behind it. With a partner, he controlled not only Swiss Medical Network through the holding company Aevis Victoria, but also Infracore, a real estate company specializing in hospital buildings. This company made an offer to buy the Wetzikon buildings and then lease them back to a hospital operator – for example, the current Wetzikon Hospital AG."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1heemc60",
+   "content": {
+    "text": "Infracore would therefore have had nothing to do with the operational business – and thus no problems with the service mandate, it was said. Following the same model, the company had already invested in See-Spital in Horgen this summer, where it also acquired the buildings. Almost simultaneously, it went public, raising around 200 million Swiss francs in fresh capital – money it could have invested in Wetzikon."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hepftp1",
+   "content": {
+    "text": "However, the review of the Infracore offer by financial advisor PricewaterhouseCoopers yielded an unfavorable result, according to Wetzikon hospital management. No scenario was apparent that would be financially sustainable for the hospital operator and at the same time would have secured a higher repayment for creditors, they stated. In addition, in this case, the shareholder communities would not have injected additional capital amounting to millions."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1heq2i80",
+   "content": {
+    "text": "The ball was now in the creditors' court. They would decide in October which proposal suited them best. Or even choose the most radical option: bankruptcy."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ei9gt10",
+   "content": {
+    "text": "<strong></strong>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "infobox-advanced"
+  },
+  {
+   "identifier": "infobox-advanced",
+   "id": "doc-1k1eil02r0",
+   "content": {
+    "title": "Why Wetzikon Hospital is in crisis"
+   },
+   "containers": {
+    "infobox": [
+     {
+      "identifier": "p-text",
+      "id": "doc-1k1eil02s1",
+      "content": {
+       "text": "The beginning of the hospital's crisis dated back a long time. In 2014, the hospital had raised a bond of 170 million Swiss francs on the market. It needed this money for a new building – which remained unfinished today. The hospital should have repaid the money in June 2024. But it was unable to do so. It neither found the necessary capital on the market, nor was the canton willing to rescue the distressed hospital – even if this would mean its end. Since the end of April 2024, the hospital has been under a moratorium on debt restructuring."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1e5c0m14",
+   "paidContent": true,
+   "prevElement": "infobox-advanced",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The crisis-ridden hospital in Wetzikon would prefer to be rescued by the Thurgau cantonal hospital group rather than by private investors. This is considered the best financial solution for everyone involved",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/c533bcc3-b4e9-4af8-ba97-71cfc23864e8.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/c533bcc3-b4e9-4af8-ba97-71cfc23864e8.jpg?width=1024&quality=75&auto=webp",
+   "width": 2400,
+   "height": 1627,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2400,1350,x0,y170"
+    },
+    {
+     "name": "4:3",
+     "crop": "2169,1627,x231,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1351,1345,x491,y136"
+    },
+    {
+     "name": "3:4",
+     "crop": "1220,1627,x613,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2400,1600,x0,y27"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The plan only works if the creditors, to whom the hospital owes a lot of money, participate. It will soon become clear whether they will do so.",
+   "teaserAuthor": "Karin Hofer / NZZ"
+  },
+  "teaserAuthor": "Karin Hofer / NZZ",
+  "nzzId": "ld.10021886",
+  "readingTime": 240,
+  "characterCount": 5802,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021886,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T18:46:03.822Z",
+  "publicationDate": "2026-09-02T18:46:03.822Z",
+  "publicationLastUpdated": "2026-09-02T18:46:03.822Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T06:46:03.822Z",
+  "teaserCaption": "The plan only works if the creditors, to whom the hospital owes a lot of money, participate. It will soon become clear whether they will do so.",
+  "nzzAuthors": [
+   {
+    "id": 1372800,
+    "name": "Jan Hudec",
+    "shortName": "jhu",
+    "pianoId": "ad5e0490-f103-4ce3-a3e0-87ee62b3e54a",
+    "external": false
+   },
+   {
+    "id": 1719533,
+    "name": "Marius Huber",
+    "shortName": "hub",
+    "pianoId": "76a9fd28-13ba-4678-a2cc-e872d776b83d",
+    "external": false
+   }
+  ],
+  "authorLine": "Jan Hudec, Marius Huber",
+  "authorImage": {
+   "originalUrl": "/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024&quality=75&auto=webp",
+   "width": 320,
+   "height": 320,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "320,320,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1086096,
+    "name": "Jan Hudec (jhu.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1736128,
+    "name": "Marius Huber (hub.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 876,
+  "leadText": "The plan only works if the creditors, to whom the hospital owes a lot of money, participate. It will soon become clear whether they will do so.",
+  "nzzSummaryEN": "- The Wetzikon hospital opts for a restructuring proposal from the Thurgau hospital group Thurmed, which is financially viable and could repay creditors up to 47.5% of their claims.\n- Thurmed invests 35 million francs and grants a loan of the same amount to complete the new building, while the owning municipalities contribute an additional 50 million francs.\n- Creditors must approve the plan in October; otherwise, the hospital faces bankruptcy.",
+  "nzzSummaryDE": "- The Wetzikon hospital has opted for a restructuring offer from the Thurgau hospital group Thurmed, which is financially viable and could repay creditors up to 47.5% of their claims.\n Thurmed is investing 35 million Swiss francs and granting a loan of the same amount for the completion of the new building, while the owner municipalities are contributing an additional 50 million Swiss francs.\n - The creditors must approve the plan in October, otherwise the hospital faces bankruptcy.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Zurich crisis hospital wants to be rescued by Thurgau",
+  "nzzPrintSubtitle": "The municipalities and the hospital support an offer from the Thurgau hospital group. However, the creditors have the final say",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886",
+   "title": "Wetzikon Hospital: Municipalities and hospital want Thurgau rescue service",
+   "socialMediaTitle": "Wetzikon Hospital: Municipalities and hospital support Thurgau's rescue service",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/c533bcc3-b4e9-4af8-ba97-71cfc23864e8.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y170&wmark=nzz"
+  },
+  "ldPublicationId": 2487933,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 380976,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021886",
+    "name": "The crisis-ridden hospital in Wetzikon would prefer to be rescued by the Thurgau cantonal hospital group rather than by private investors. This is considered the best financial solution for everyone involved",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The crisis-ridden hospital in Wetzikon would prefer to be rescued by the Thurgau cantonal hospital group rather than by private investors. This is considered the best financial solution for everyone involved",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372800,
+       "name": "Jan Hudec",
+       "shortName": "jhu",
+       "pianoId": "ad5e0490-f103-4ce3-a3e0-87ee62b3e54a",
+       "external": false
+      },
+      {
+       "id": 1719533,
+       "name": "Marius Huber",
+       "shortName": "hub",
+       "pianoId": "76a9fd28-13ba-4678-a2cc-e872d776b83d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T18:46:03.822Z",
+     "updateTimestamp": "2026-09-02T18:46:03.822Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021886",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Wetzikon Hospital: Municipalities and hospital want Thurgau rescue service",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/c533bcc3-b4e9-4af8-ba97-71cfc23864e8.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y170&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Jan Hudec, Marius Huber",
+  "description": "The plan only works if the creditors, to whom the hospital owes a lot of money, participate. It will soon become clear whether they will do so.",
+  "news_keywords": "The crisis-ridden hospital in Wetzikon would prefer to be rescued by the Thurgau cantonal hospital group rather than by private investors. This is financially the best option for everyone, Zurich News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T22:46:03+02:00",
+  "date": "2026-09-02T22:46:03+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The crisis-ridden hospital in Wetzikon would prefer to be rescued by the Thurgau cantonal hospital group rather than by private investors. This is considered the best financial solution for everyone involved",
+  "ogTitle": "Wetzikon Hospital: Municipalities and hospital support Thurgau's rescue service",
+  "ogUrl": "https://www.nzz.ch/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886",
+  "mrf:cms_id": "nzz:ld.10021886",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021886",
+  "nzzAuthors": [
+   {
+    "id": 1372800,
+    "name": "Jan Hudec",
+    "shortName": "jhu",
+    "pianoId": "ad5e0490-f103-4ce3-a3e0-87ee62b3e54a",
+    "external": false
+   },
+   {
+    "id": 1719533,
+    "name": "Marius Huber",
+    "shortName": "hub",
+    "pianoId": "76a9fd28-13ba-4678-a2cc-e872d776b83d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:21 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Wetzikon Hospital: Municipalities and hospital want Thurgau rescue service"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886"
+   },
+   "headline": "Wetzikon Hospital: Municipalities and hospital want Thurgau rescue service",
+   "datePublished": "2026-09-02T22:46:03+02:00",
+   "dateModified": "2026-09-02T22:46:03+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The plan only works if the creditors, to whom the hospital owes a lot of money, participate. It will soon become clear whether they will do so.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/c533bcc3-b4e9-4af8-ba97-71cfc23864e8.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y170&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Jan Hudec"
+    },
+    {
+     "@type": "Person",
+     "name": "Marius Huber"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 380976,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/das-krisen-spital-von-wetzikon-will-sich-lieber-von-der-spitalgruppe-des-kantons-thurgau-retten-lassen-als-von-privaten-das-sei-finanziell-fuer-alle-das-beste-ld.10021886",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021886",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-09-02T18:46:03.822Z",
+   "ContentAuthor": "Jan Hudec, Marius Huber",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum bevorzugt das Spital Wetzikon das Angebot der Thurmed-Gruppe?\nWie viel könnten die Gläubiger durch das Thurmed-Angebot zurückerhalten?\nWelche Risiken sehen Kritiker im Engagement der Thurmed-Gruppe?",
+   "ldId": "ld.10021886",
+   "channel": "Zürich",
+   "heading": "Das Krisen-Spital von Wetzikon will sich lieber von der Spitalgruppe des Kantons Thurgau retten lassen als von Privaten. Das sei finanziell für alle das Beste",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

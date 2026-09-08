@@ -1,0 +1,1665 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0cs05m91",
+   "content": {
+    "title": "Zurich vote on 40-meter building heights",
+    "lead": "Zurich voters to decide on new high-rise guidelines on Sept. 27: An overview of the proposal and the counter-proposal.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0cs05ma0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Francesca Prader",
+       "url": "/impressum/francesca-prader-ld.1748962",
+       "teaserImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0i4pd9j1",
+   "content": {
+    "image": {
+     "author": "Juliet Haller / Architectural History Archive",
+     "caption": "The green high-rise on Birmensdorferstrasse in District 3 rises about 34 meters. The majority of the City Parliament believes this building height should only be permitted in a few locations in Zurich.",
+     "originalUrl": "/2026/08/21/78d1781f-080c-40ad-92bf-35d7f8d39e59.jpg?crop=3053,2036,x0,y0",
+     "width": 3053,
+     "height": 2036,
+     "altText": "Birmensdorferstrasse",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180147518"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3053,
+      "height": 2036,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3053,
+       "height": 2036,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The green high-rise on Birmensdorferstrasse in District 3 rises about 34 meters. The majority of the City Parliament believes this building height should only be permitted in a few locations in Zurich.",
+    "author": "Juliet Haller / Architectural History Archive"
+   },
+   "prevElement": "header",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cs0d590",
+   "content": {
+    "title": "The proposal",
+    "id": "subtitle-darum-geht-es-in-der-vorlage"
+   },
+   "contentTable": false,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cs127i0",
+   "content": {
+    "text": "Two years ago, the Zurich City Council presented its draft for <a href=\"https://www.nzz.ch/zuerich/hochhaeuser-in-zuerich-stadt-verschaerft-die-regeln-und-schraenkt-gebiete-ein-ld.1837667\">new high-rise guidelines</a>. This includes various areas where buildings up to 40, 60, and 80 meters high may be constructed. These are primarily located in Zurich West and Zurich North."
+   },
+   "data": {},
+   "prevElement": "subtitle",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-f8ea17e0",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0cto4q20",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "67ce4c17538bee4a128c65667bd4a064",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_67ce4c17538bee4a128c65667bd4a064_q17441e4a2c3d4e8a803920453b97932d_container\"        data-q-item-id=\"67ce4c17538bee4a128c65667bd4a064\"        data-q-request-id=\"b7daf016ed2443eda09fd44b029646f19dcbe360\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-q%23master,sophie-viz-color%23master[diverging-one-5].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"67ce4c17538bee4a128c65667bd4a064\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"67ce4c17538bee4a128c65667bd4a064\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"b7daf016ed2443eda09fd44b029646f19dcbe360\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_67ce4c17538bee4a128c65667bd4a064_q17441e4a2c3d4e8a803920453b97932d_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"67ce4c17538bee4a128c65667bd4a064\",\"publication\":\"nzz\",\"acronym\":\"olm.\",\"title\":\"The city council's proposal shows in which areas and how high buildings would have been allowed.\",\"subtitle\":\"Zurich high-rise building guidelines\",\"images\":{\"variants\":[{\"images\":[{\"url\":\"https://nzz-q-assets.s3.eu-west-1.amazonaws.com/2024/07/03/kartemw@3x-960d03c5f1da4677708ca54a7359f10c.png\",\"key\":\"2024/07/03/kartemw@3x-960d03c5f1da4677708ca54a7359f10c.png\",\"width\":1110,\"height\":1289,\"size\":692121,\"type\":\"image/png\"}]},{\"minWidth\":500,\"images\":[{\"url\":\"https://nzz-q-assets.s3.eu-west-1.amazonaws.com/2024/07/03/kartecw@3x-9513093d9fca9d5cc37029b724590195.png\",\"key\":\"2024/07/03/kartecw@3x-9513093d9fca9d5cc37029b724590195.png\",\"width\":1890,\"height\":1200,\"size\":909401,\"type\":\"image/png\"}]}]},\"sources\":[{\"text\":\"Office for Urban Development Zurich 2024\",\"link\":{}}],\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-02-20T10:20:50.338Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_67ce4c17538bee4a128c65667bd4a064_q17441e4a2c3d4e8a803920453b97932d\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hpdunl0",
+   "content": {
+    "text": "The City emphasizes that the creation of these high-rise areas is not about increasing density, but about establishing binding rules for developers and granting them more flexibility in how a plot of land can be developed. For example, if 1,000 square meters of living space can be created on a plot and distributed over 10 floors of 100 square meters each, more space remains for green areas around it than if only five floors of 200 square meters each were built."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i4lc9f1",
+   "content": {
+    "text": "In other cases, where a high-rise aims for higher utilization, this requires rezoning or a planning instrument, such as a development plan. If that is the case, the Parliament has the final say."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0da24c11",
+   "content": {
+    "text": "In addition to the high-rise areas, the guidelines also specify the requirements that projects must meet if they include tall buildings."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0d9n7h20",
+   "content": {
+    "text": "In the City Parliament, there was particular debate about the areas where the City Council wants to permit buildings up to 40 meters high. These include large parts of Altstetten, Albisrieden, and Wiedikon, as well as Affoltern, Oerlikon, and Schwamendingen."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "datawrapper"
+  },
+  {
+   "identifier": "datawrapper",
+   "id": "doc-1k0ctq7sd0",
+   "content": {
+    "html": {
+     "service": "free-html",
+     "params": {
+      "embedCode": "<iframe title=\"Der Gemeinderat reduziert die Zürcher Hochhausgebiete\" aria-label=\"Locator-Karte\" id=\"datawrapper-chart-LRFL3\" src=\"https://datawrapper.dwcdn.net/LRFL3/10/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"678\" data-external=\"1\"></iframe><script type=\"text/javascript\">window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}});</script>"
+     },
+     "resolvedValue": {
+      "html": "<iframe title=\"Der Gemeinderat reduziert die Zürcher Hochhausgebiete\" aria-label=\"Locator-Karte\" id=\"datawrapper-chart-LRFL3\" src=\"https://datawrapper.dwcdn.net/LRFL3/10/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"678\" data-external=\"1\"></iframe><script type=\"text/javascript\">window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}});</script>"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0d9urro0",
+   "content": {
+    "text": "Together with the Swiss People's Party (SVP), the left-wing parties pushed through the removal of these areas from the high-rise regulations. They also argued that a development plan must be drawn up for buildings 60 meters and taller."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "datawrapper",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0dag2k40",
+   "content": {
+    "text": "The Liberals (FDP), Green Liberal Party (GLP), and The Centre (Mitte) <a href=\"https://www.nzz.ch/zuerich/hochhausreferendum-in-zuerich-stadtrat-bringt-eigene-vorlage-als-gegenvorschlag-ld.10007886\">launched a referendum</a> against these high-rise guidelines, which had been significantly revised by the City Parliament. This is why a vote will take place."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0da6v9p0",
+   "content": {
+    "text": "On Sept. 27, voters can decide not only on the version of the guidelines that found a majority in the City Parliament, but also choose between this and the original version from the City Council."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cs1f1c0",
+   "content": {
+    "title": "Proponents of the Parliament's proposal",
+    "id": "subtitle-das-sagen-die-bef-rworter-der-vorlage-des-parlaments"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ctn2o20",
+   "content": {
+    "text": "Behind the City Parliament's proposal is an unusual alliance of left-wing parties and the SVP. Their reasons for arguing that the city should largely forgo areas for 40-meter towers vary accordingly."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0dau88v0",
+   "content": {
+    "text": "The left-wing parties primarily argued in the City Parliament with social and ecological concerns. According to the Social Democrats (SP), for example, the high-rise guidelines revised by them are intended to prevent «profit-driven constructions.» They contend that tall buildings contribute to the displacement of poorer sections of the population from the city. The party also noted that the construction of tall buildings is expensive, and to create space for them, buildings with affordable housing must be removed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0f6qk440",
+   "content": {
+    "text": "The SVP, however, fears that more high-rises would stimulate immigration. It argues that the city cannot continue to grow unchecked. The party also believes high-rises are not a suitable means for increasing density. Instead, it maintains, they would destroy proven neighborhood structures and fuel the rise in rents."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cs27b60",
+   "content": {
+    "title": "Proponents of the counter-proposal",
+    "id": "subtitle-das-sagen-die-bef-rworter-des-gegenvorschlags"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cs09v10",
+   "content": {
+    "text": "The FDP, GLP, and Mitte support the counter-proposal with the high-rise guidelines originally defined by the City Council. The FDP and GLP had launched the referendum against the City Parliament's revised version."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ho1kkg0",
+   "content": {
+    "text": "They complain that the parliamentary majority's proposal hinders «qualitative urban development.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ho7vfn0",
+   "content": {
+    "text": "For example, the GLP writes that the City Council, with its proposal, created a «reasonable, pragmatic, and future-oriented foundation.» The party adds that with areas for buildings up to 40 meters high, «significantly more urban planning flexibility is made possible in the neighborhoods.» It also states that additional living space can be created without the need for large-scale area developments. «This opens up scope for structural renewal, the preservation of existing structures, and better open spaces in the surrounding environment,» it says."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hoev500",
+   "content": {
+    "text": "The FDP also criticizes that the City Parliament «unobjectively» complicated the high-rise guidelines and did so «contrary to the technical assessments of the SP-led Department of Building Construction.» The party adds that construction upwards would thereby be «massively hindered or even made impossible.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hp4r4h0",
+   "content": {
+    "text": "The FDP argues that for a growing city, it is indispensable to be able to build upwards. It contends that sustainable urban development is not feasible without high-rises."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cs0a440",
+   "content": {
+    "title": "Party positions",
+    "id": "subtitle-die-haltung-der-parteien"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hpt6pn0",
+   "content": {
+    "text": "Not all parties have yet issued their official recommendations."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0csn8sm0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "5ac6c46e68d792829522cc66f2866b21",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-party_slogans-container\"        id=\"q_party_slogans_5ac6c46e68d792829522cc66f2866b21_q0b2cfc63eb184e27960ec10b5706a067_container\"        data-q-item-id=\"5ac6c46e68d792829522cc66f2866b21\"        data-q-request-id=\"1422e81ca1ccf4ee459bedb91335345bbd23645e\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-q%23master,sophie-viz-color%23master[diverging-one-5].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/partySlogans/q-partySlogans-1.1.11.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"5ac6c46e68d792829522cc66f2866b21\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"party_slogans\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"5ac6c46e68d792829522cc66f2866b21\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"party_slogans\"}},\"1422e81ca1ccf4ee459bedb91335345bbd23645e\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/partySlogans/q-partySlogans-1.1.11.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_party_slogans_5ac6c46e68d792829522cc66f2866b21_q0b2cfc63eb184e27960ec10b5706a067_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"5ac6c46e68d792829522cc66f2866b21\",\"title\":\"This is how the Zurich political parties feel about the city parliament's proposal\",\"subtitle\":\"Slogans as of August 21, 2026\",\"publication\":\"nzz\",\"acronym\":\"fpr.\",\"sources\":[],\"data\":{\"yes\":{\"organisations\":[],\"parties\":[\"SP\",\"SVP\",\"Greens\"]},\"no\":{\"organisations\":[],\"parties\":[\"FDP\",\"GLP\",\"Center\"]},\"undecided\":{\"organisations\":[],\"parties\":[]}},\"options\":{},\"updatedDate\":\"2026-08-21T09:23:52.333Z\",\"notes\":\"\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_party_slogans_5ac6c46e68d792829522cc66f2866b21_q0b2cfc63eb184e27960ec10b5706a067\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qPartySlogans) {              clearInterval(checkAndInitialize);              new window.qPartySlogans({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qPartySlogans after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0csnatl0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "eba29ab8b3563c62c88b5868e08321cb",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-party_slogans-container\"        id=\"q_party_slogans_eba29ab8b3563c62c88b5868e08321cb_q4a3586879e7348e59387d8a7fe2ea0e1_container\"        data-q-item-id=\"eba29ab8b3563c62c88b5868e08321cb\"        data-q-request-id=\"321473bd6e9b481b88e5369fc521cb15577d6bb1\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-q%23master,sophie-viz-color%23master[diverging-one-5].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/partySlogans/q-partySlogans-1.1.11.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"eba29ab8b3563c62c88b5868e08321cb\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"party_slogans\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"eba29ab8b3563c62c88b5868e08321cb\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"party_slogans\"}},\"321473bd6e9b481b88e5369fc521cb15577d6bb1\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/partySlogans/q-partySlogans-1.1.11.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_party_slogans_eba29ab8b3563c62c88b5868e08321cb_q4a3586879e7348e59387d8a7fe2ea0e1_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"eba29ab8b3563c62c88b5868e08321cb\",\"title\":\"This is how the Zurich political parties feel about the city council's counter-proposal\",\"subtitle\":\"As of August 21, 2026\",\"publication\":\"nzz\",\"acronym\":\"fpr.\",\"sources\":[],\"data\":{\"yes\":{\"organisations\":[],\"parties\":[\"FDP\",\"GLP\",\"Center\"]},\"no\":{\"organisations\":[],\"parties\":[\"SP\",\"SVP\",\"Greens\"]},\"undecided\":{\"organisations\":[],\"parties\":[]}},\"options\":{},\"updatedDate\":\"2026-08-21T09:23:41.491Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_party_slogans_eba29ab8b3563c62c88b5868e08321cb_q4a3586879e7348e59387d8a7fe2ea0e1\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qPartySlogans) {              clearInterval(checkAndInitialize);              new window.qPartySlogans({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qPartySlogans after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cs3bi70",
+   "content": {
+    "title": "The NZZ's position",
+    "id": "subtitle-die-haltung-der-nzz"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cs0a9b0",
+   "content": {
+    "text": "The NZZ recommends a yes to the City Council's counter-proposal. The city of Zurich is growing, and available land is increasingly scarce. Therefore, various options are needed for developing plots of land – including with buildings up to 40 meters high. Waiving this option, as envisioned in the Municipal Council's proposal, restricts developers and negatively impacts construction activity."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0cs05ma3",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0cs05ma4",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0cs05ma6",
+      "content": {
+       "owner": "NZZ",
+       "title": "«SP and SVP have turned the high-rise guidelines into high-rise demonization guidelines,» says a Zurich FDP politician as his party and others launch a referendum",
+       "teaserImage": {
+        "originalUrl": "/2026/02/20/eb154df3-0718-43c8-94d3-ffde8df39307.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/20/eb154df3-0718-43c8-94d3-ffde8df39307.jpg?width=1024&quality=75&auto=webp",
+        "width": 5000,
+        "height": 3332,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5000,2811,x0,y521"
+         },
+         {
+          "name": "1:1",
+          "crop": "2633,2632,x1967,y700"
+         },
+         {
+          "name": "4:3",
+          "crop": "4443,3332,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2499,3332,x1230,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4998,3332,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Should Zurich grow vertically in the future? The electorate is now set to address this question. The Alternative List (AL) and the Green Party are putting forward new demands.",
+        "teaserAuthor": "Gaëtan Bally / Keystone"
+       },
+       "teaserAuthor": "Gaëtan Bally / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1930040",
+       "readingTime": 180,
+       "authorLine": "Francesca Prader",
+       "characterCount": 4056,
+       "product": "NZZ.ch",
+       "documentId": 1930040,
+       "layout": "regular",
+       "publicationDate": "2026-03-19T15:10:37.581Z",
+       "publicationLastUpdated": "2026-03-19T15:10:37.581Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-03-20T03:10:37.581Z",
+       "teaserCaption": "Should Zurich grow vertically in the future? The electorate is now set to address this question. The Alternative List (AL) and the Green Party are putting forward new demands.",
+       "authorImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/streit-um-hochhaeuser-in-zuerich-fdp-glp-und-mitte-ergreifen-das-referendum-ld.1930040",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 635,
+       "leadText": "Should Zurich grow vertically in the future? The electorate is now set to address this question. The Alternative List (AL) and the Green Party are putting forward new demands.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0cs05ma7",
+      "content": {
+       "title": "Zurich urgently needs more space for skyscrapers – and the courage for genuine development",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Opinion",
+       "teaserImage": {
+        "originalUrl": "/2026/08/06/75318cb9-4198-44c5-8de8-fc89b458c250.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/06/75318cb9-4198-44c5-8de8-fc89b458c250.jpg?width=1024&quality=75&auto=webp",
+        "width": 3508,
+        "height": 2647,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3508,1973,x0,y337"
+         },
+         {
+          "name": "4:3",
+          "crop": "3508,2631,x0,y8"
+         },
+         {
+          "name": "1:1",
+          "crop": "2647,2647,x431,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1985,2647,x761,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3508,2339,x0,y154"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Zurich will soon vote on whether more high-rise buildings should be allowed in the city. The vote is an opportunity for Zurich to reaffirm its claim to be a metropolis. The city should seize this opportunity.",
+        "teaserAuthor": "Erwin Küenzi / Architectural History Archive Zurich"
+       },
+       "teaserAuthor": "Erwin Küenzi / Architectural History Archive Zurich",
+       "nzzId": "ld.10017323",
+       "readingTime": 420,
+       "paywallQuestionOne": "Why should Zurich build more skyscrapers?",
+       "paywallQuestionTwo": "How does historic preservation influence urban development?",
+       "paywallQuestionThree": "What arguments speak against high-rise buildings in Zurich?",
+       "characterCount": 9898,
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10017323,
+       "layout": "opinion",
+       "publicationDate": "2026-08-07T03:32:00.000Z",
+       "publicationLastUpdated": "2026-08-07T07:39:46.796Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-07T15:32:00.000Z",
+       "teaserCaption": "Zurich will soon vote on whether more high-rise buildings should be allowed in the city. The vote is an opportunity for Zurich to reaffirm its claim to be a metropolis. The city should seize this opportunity.",
+       "authorLine": "Andrea Marti",
+       "authorImage": {
+        "originalUrl": "/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/meinung/zuerich-braucht-endlich-mehr-platz-fuer-hochhaeuser-und-mut-fuer-echte-entwicklung-ld.10017323",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 1490,
+       "leadText": "Zurich will soon vote on whether more high-rise buildings should be allowed in the city. The vote is an opportunity for Zurich to reaffirm its claim to be a metropolis. The city should seize this opportunity.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0cs05ma5",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "title": "Dispute over 40-meter towers in Zurich: The municipal council has tightened the city council's regulations – now both versions will go to a vote",
+       "teaserImage": {
+        "originalUrl": "/2026/05/13/a984ec8d-d0e5-49d0-a2f8-a3f4d5a6a2a5.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/13/a984ec8d-d0e5-49d0-a2f8-a3f4d5a6a2a5.jpg?width=1024&quality=75&auto=webp",
+        "width": 7885,
+        "height": 5257,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7885,4435,x0,y411"
+         },
+         {
+          "name": "4:3",
+          "crop": "7009,5257,x438,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "5257,5257,x1314,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3943,5257,x1971,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7885,5257,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In September, Zurich's voters will decide where the city should grow vertically in the future.",
+        "teaserAuthor": "CHRISTIAN BEUTLER / KEYSTONE"
+       },
+       "teaserAuthor": "CHRISTIAN BEUTLER / KEYSTONE",
+       "nzzId": "ld.10007886",
+       "readingTime": 120,
+       "paywallQuestionOne": "Why were high-rise building areas in Zurich severely restricted?",
+       "paywallQuestionTwo": "What arguments support the city council's proposal?",
+       "paywallQuestionThree": "How do political parties react to the city council's counter-proposals?",
+       "characterCount": 1928,
+       "product": "NZZ.ch",
+       "documentId": 10007886,
+       "layout": "regular",
+       "publicationDate": "2026-05-20T14:52:04.225Z",
+       "publicationLastUpdated": "2026-05-20T14:52:04.225Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-21T02:52:04.225Z",
+       "teaserCaption": "In September, Zurich's voters will decide where the city should grow vertically in the future.",
+       "authorLine": "Francesca Prader",
+       "authorImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/hochhausreferendum-in-zuerich-stadtrat-bringt-eigene-vorlage-als-gegenvorschlag-ld.10007886",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 333,
+       "leadText": "In September, Zurich's voters will decide where the city should grow vertically in the future.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "title": "Zurich vote on 40-meter building heights",
+  "teaserImage": {
+   "originalUrl": "/2026/08/21/78d1781f-080c-40ad-92bf-35d7f8d39e59.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/78d1781f-080c-40ad-92bf-35d7f8d39e59.jpg?width=1024&quality=75&auto=webp",
+   "width": 3053,
+   "height": 2036,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3053,1717,x0,y47"
+    },
+    {
+     "name": "4:3",
+     "crop": "2715,2036,x338,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2036,2036,x778,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1527,2036,x1092,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3053,2035,x0,y1"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Zurich voters to decide on new high-rise guidelines on Sept. 27: An overview of the proposal and the counter-proposal.",
+   "teaserAuthor": "Juliet Haller / Architectural History Archive"
+  },
+  "teaserAuthor": "Juliet Haller / Architectural History Archive",
+  "flag": "Explained",
+  "editor": "1719533",
+  "nzzId": "ld.10020168",
+  "readingTime": 240,
+  "characterCount": 4820,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020168,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T03:07:00.000Z",
+  "publicationDate": "2026-08-25T03:07:00.000Z",
+  "publicationLastUpdated": "2026-08-25T04:20:16.678Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:07:00.000Z",
+  "teaserCaption": "Zurich voters to decide on new high-rise guidelines on Sept. 27: An overview of the proposal and the counter-proposal.",
+  "nzzAuthors": [
+   {
+    "id": 1740520,
+    "name": "Francesca Prader",
+    "shortName": "fpr",
+    "pianoId": "1fbf2b70-875a-4464-8b73-4838b981c67f",
+    "external": false
+   }
+  ],
+  "authorLine": "Francesca Prader",
+  "authorImage": {
+   "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1748962,
+    "name": "Francesca Prader (fpr.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 721,
+  "leadText": "Zurich voters to decide on new high-rise guidelines on Sept. 27: An overview of the proposal and the counter-proposal.",
+  "nzzSummaryEN": "- The city of Zurich will vote on September 27 on new high-rise guidelines that would allow buildings up to 40 meters tall in certain areas.\n- The city council's proposal heavily restricts high-rise construction, while the counterproposal from the city executive offers more flexibility and permits projects up to 40 meters.\n- Left-wing parties and the SVP raise social and ecological concerns, while the FDP and GLP see the counterproposal as forward-looking.",
+  "nzzSummaryDE": "- The city of Zurich will vote on new high-rise building guidelines on September 27th, which would allow buildings up to 40 meters high in certain areas.\n - The city parliament's proposal severely restricts high-rise construction, while the city council's counter-proposal offers more flexibility and allows projects up to 40 meters high.\n Left-wing parties and the SVP criticize social and environmental aspects, while the FDP and GLP view the counter-proposal as future-oriented.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Zurich vote on 40-meter building heights",
+  "nzzPrintSubtitle": "New high-rise building regulations will be voted on on September 27th. An overview of the proposal and the counter-proposal",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168",
+   "title": "Zurich decides on 40-meter high-rise buildings. An overview of the referendum proposal",
+   "socialMediaTitle": "On September 27th, Zurich will decide whether buildings up to 40 meters high will be allowed in the city",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/21/78d1781f-080c-40ad-92bf-35d7f8d39e59.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3053,1717,x0,y47&wmark=nzz"
+  },
+  "ldPublicationId": 2483207,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "FDP Switzerland",
+    "slug": "/themen/fdp-schweiz"
+   },
+   {
+    "name": "GLP",
+    "slug": "/themen/glp"
+   },
+   {
+    "name": "SVP",
+    "slug": "/themen/svp"
+   },
+   {
+    "name": "SP",
+    "slug": "/themen/sp"
+   }
+  ],
+  "barrierIndex": 4,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1930040",
+    "ld.10017323",
+    "ld.10007886"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 331800,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "fdp-schweiz",
+   "name": "FDP Switzerland",
+   "tagName": "FDP Switzerland",
+   "qId": "Q202638",
+   "seoTitle": "FDP Switzerland – All articles about the party | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 16:16:21.509Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/fdp-schweiz",
+   "size": 1690,
+   "relatedTopics": [
+    {
+     "name": "GLP",
+     "slug": "/themen/glp"
+    },
+    {
+     "name": "SVP",
+     "slug": "/themen/svp"
+    },
+    {
+     "name": "SP",
+     "slug": "/themen/sp"
+    }
+   ]
+  },
+  "data": [
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024&quality=75&auto=webp",
+     "width": 5602,
+     "height": 3735,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5602,3151,x0,y439"
+      },
+      {
+       "name": "4:3",
+       "crop": "4116,3087,x1,y503"
+      },
+      {
+       "name": "1:1",
+       "crop": "2806,2806,x622,y594"
+      },
+      {
+       "name": "3:4",
+       "crop": "2315,3087,x842,y567"
+      },
+      {
+       "name": "3:2",
+       "crop": "4209,2806,x0,y492"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+     "teaserAuthor": "Andrea Zahle"
+    },
+    "teaserAuthor": "Andrea Zahle",
+    "title": "FDP co-president Susanne Vincenz-Stauffacher on the start of the European debate: «That was a false start»",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020993",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does the FDP assess the attempts to change the EU negotiation outcome?",
+    "paywallQuestionTwo": "Why is the FDP ignoring the vote of its delegates against the majority of cantons?",
+    "paywallQuestionThree": "How does the FDP intend to finance the army without raising taxes?",
+    "characterCount": 11294,
+    "flag": "interview",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020993",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T19:45:00.000Z",
+    "publicationLastUpdated": "2026-08-31T08:16:16.249Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T07:45:00.000Z",
+    "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "authorLine": "Daniel Foppa, Simon Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/fdp-co-praesidentin-vincenz-stauffacher-zum-auftakt-der-europadebatte-das-war-ein-fehlstart-ld.10020993",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Andri Silberschmidt is no longer the liberal rebel he once was. Nevertheless, he says: «My skepticism towards an all-powerful state remains.»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/cfa324cf-96ad-4559-abb1-e01a81b27402.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/cfa324cf-96ad-4559-abb1-e01a81b27402.jpg?width=1024&quality=75&auto=webp",
+     "width": 3929,
+     "height": 5500,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3929,2210,x0,y1346"
+      },
+      {
+       "name": "4:3",
+       "crop": "3929,2947,x0,y1382"
+      },
+      {
+       "name": "1:1",
+       "crop": "1666,1666,x1087,y1403"
+      },
+      {
+       "name": "3:4",
+       "crop": "3572,4763,x156,y737"
+      },
+      {
+       "name": "3:2",
+       "crop": "3929,2619,x0,y1291"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Once a provocative Young Liberal, today a statesmanlike candidate for the cantonal government: Andri Silberschmidt has changed. Now the FDP's great hope wants to change the canton of Zurich as well.",
+     "teaserAuthor": "Michael Buholzer / Keystone"
+    },
+    "teaserAuthor": "Michael Buholzer / Keystone",
+    "flag": "interview",
+    "nzzId": "ld.10020969",
+    "readingTime": 360,
+    "paywallQuestionOne": "How has Andri Silberschmidt's political stance changed?",
+    "paywallQuestionTwo": "What is Silberschmidt's vision for the Canton of Zurich?",
+    "paywallQuestionThree": "How does Silberschmidt intend to make the state more efficient?",
+    "characterCount": 7382,
+    "product": "NZZ.ch",
+    "documentId": "10020969",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T03:00:00.000Z",
+    "publicationLastUpdated": "2026-08-29T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:00:00.000Z",
+    "teaserCaption": "Once a provocative Young Liberal, today a statesmanlike candidate for the cantonal government: Andri Silberschmidt has changed. Now the FDP's great hope wants to change the canton of Zurich as well.",
+    "authorLine": "Daniel Fritzsche",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/andri-silberschmidt-und-seine-vision-fuer-zuerichs-zukunft-ld.10020969",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1144,
+    "leadText": "Once a provocative Young Liberal, today a statesmanlike candidate for the cantonal government: Andri Silberschmidt has changed. Now the FDP's great hope wants to change the canton of Zurich as well.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A city on a buying spree: Zurich has spent 1.3 billion francs on real estate within four years – the Social Democratic Party (SP) and the Free Democratic Party (FDP) are calling for a change of thinking",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/e7d9b982-b20e-4782-84b7-0c896d9fad93.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/e7d9b982-b20e-4782-84b7-0c896d9fad93.jpg?width=1024&quality=75&auto=webp",
+     "width": 5364,
+     "height": 3576,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5364,3017,x0,y559"
+      },
+      {
+       "name": "4:3",
+       "crop": "4768,3576,x596,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3251,3250,x819,y326"
+      },
+      {
+       "name": "3:4",
+       "crop": "2438,3250,x1298,y326"
+      },
+      {
+       "name": "3:2",
+       "crop": "5364,3576,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+     "teaserAuthor": "Claudio Thoma / Keystone"
+    },
+    "teaserAuthor": "Claudio Thoma / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10021257",
+    "readingTime": 660,
+    "paywallQuestionOne": "How does Zurich's real estate strategy affect the city's finances?",
+    "paywallQuestionTwo": "Why does the potential of acquired properties often remain unrealized?",
+    "paywallQuestionThree": "What challenges arise from the follow-up costs of real estate purchases?",
+    "characterCount": 14967,
+    "product": "NZZ.ch",
+    "documentId": "10021257",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T08:30:25.167Z",
+    "publicationLastUpdated": "2026-08-31T08:14:02.744Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T20:30:25.167Z",
+    "teaserCaption": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+    "authorLine": "Francesca Prader",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/milliardenausgaben-fuer-immobilien-bericht-zeigt-den-zuercher-kaufrausch-ld.10021257",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2138,
+    "leadText": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Zurich FDP loses its last district school board presidency. Përparim Avdili says: «My incomprehension of the GLP could hardly be greater.»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/913d70f5-fb23-4e20-9eb7-0d0a9d36d715.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/913d70f5-fb23-4e20-9eb7-0d0a9d36d715.jpg?width=1024&quality=75&auto=webp",
+     "width": 3888,
+     "height": 2592,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3888,2187,x0,y141"
+      },
+      {
+       "name": "4:3",
+       "crop": "3456,2592,x432,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2356,2356,x191,y51"
+      },
+      {
+       "name": "3:4",
+       "crop": "1944,2592,x1944,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3888,2592,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+     "teaserAuthor": "Karin Hofer / NZZ"
+    },
+    "teaserAuthor": "Karin Hofer / NZZ",
+    "editor": "1371941",
+    "nzzId": "ld.10020746",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is the FDP losing its last district school board presidency to the SP?",
+    "paywallQuestionTwo": "What role did the GLP play in the election of the district school president?",
+    "paywallQuestionThree": "How is the administration of Zurich's schools criticized and reformed?",
+    "characterCount": 5113,
+    "product": "NZZ.ch",
+    "documentId": "10020746",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T03:06:00.000Z",
+    "publicationLastUpdated": "2026-08-25T03:06:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-25T15:06:00.000Z",
+    "teaserCaption": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+    "authorLine": "Andrea Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/fdp-zuerich-verliert-letztes-kreisschulpraesidium-an-sp-ld.10020746",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 774,
+    "leadText": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "He sees Valérie Dittli as a kind of Joan of Arc: The controversial state councillor's biggest fan is a well-connected winemaker",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/7400a290-c535-49b0-947c-71f1514ec111.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/7400a290-c535-49b0-947c-71f1514ec111.jpg?width=1024&quality=75&auto=webp",
+     "width": 7472,
+     "height": 4981,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6793,3821,x605,y267"
+      },
+      {
+       "name": "4:3",
+       "crop": "6641,4981,x831,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4117,4117,x2765,y78"
+      },
+      {
+       "name": "3:4",
+       "crop": "3736,4981,x2536,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6793,4528,x679,y237"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Valérie Dittli has another body within her centrist party opposed to her. But Philippe Gex, a former member of the FDP, stands by her unconditionally – and has been mobilizing supporters for her election campaign for a year.",
+     "teaserAuthor": "Jean-Christophe Bott / Keystone"
+    },
+    "teaserAuthor": "Jean-Christophe Bott / Keystone",
+    "editor": "1372106",
+    "nzzId": "ld.10019972",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why does Philippe Gex support Valérie Dittli despite her political isolation?",
+    "paywallQuestionTwo": "How does Dittli's candidacy affect the political landscape in Vaud?",
+    "paywallQuestionThree": "Can Gex's network effectively help Dittli with her re-election?",
+    "characterCount": 8476,
+    "product": "NZZ.ch",
+    "documentId": "10019972",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-24T05:51:09.399Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T15:30:00.000Z",
+    "teaserCaption": "Valérie Dittli has another body within her centrist party opposed to her. But Philippe Gex, a former member of the FDP, stands by her unconditionally – and has been mobilizing supporters for her election campaign for a year.",
+    "authorLine": "Matthias Sander, Yvorne (VD)",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/10/6e2eaac9-0e34-47f5-9fbc-10d3256cf742.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/wer-einen-termin-beim-ceo-von-nestle-will-fragt-am-besten-philippe-gex-valerie-dittlis-groesster-fan-ist-ein-bestens-vernetzter-winzer-ld.10019972",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1289,
+    "leadText": "Valérie Dittli has another body within her centrist party opposed to her. But Philippe Gex, a former member of the FDP, stands by her unconditionally – and has been mobilizing supporters for her election campaign for a year.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The city of Zurich is to get a baby hatch – the FDP, SP and AL are joining forces for a controversial idea",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/afb46ec2-0316-44b8-8548-748b2ec8d4ae.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/afb46ec2-0316-44b8-8548-748b2ec8d4ae.jpg?width=1024&quality=75&auto=webp",
+     "width": 4368,
+     "height": 2912,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4368,2457,x0,y291"
+      },
+      {
+       "name": "4:3",
+       "crop": "3883,2912,x309,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2912,2912,x714,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2184,2912,x1035,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3971,2647,x206,y132"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+     "teaserAuthor": "Peter Schneider / Keystone"
+    },
+    "teaserAuthor": "Peter Schneider / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10020341",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why should Zurich get a baby hatch?",
+    "paywallQuestionTwo": "How could baby hatches save lives?",
+    "paywallQuestionThree": "What political controversies surround baby hatches?",
+    "characterCount": 6180,
+    "product": "NZZ.ch",
+    "documentId": "10020341",
+    "layout": "regular",
+    "publicationDate": "2026-08-22T03:02:00.000Z",
+    "publicationLastUpdated": "2026-08-22T03:02:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T15:02:00.000Z",
+    "teaserCaption": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+    "authorLine": "Francesca Prader",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/ein-ungewoehnliches-trio-setzt-sich-fuer-eine-babyfenster-in-der-stadt-zuerich-ein-ld.10020341",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 940,
+    "leadText": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020168",
+    "name": "Zurich vote on 40-meter building heights",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Zurich vote on 40-meter building heights",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1740520,
+       "name": "Francesca Prader",
+       "shortName": "fpr",
+       "pianoId": "1fbf2b70-875a-4464-8b73-4838b981c67f",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:07:00.000Z",
+     "updateTimestamp": "2026-08-25T04:20:16.678Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Explained",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020168",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Zurich decides on 40-meter high-rise buildings. An overview of the referendum proposal",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/78d1781f-080c-40ad-92bf-35d7f8d39e59.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3053,1717,x0,y47&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Francesca Prader",
+  "description": "Zurich voters to decide on new high-rise guidelines on Sept. 27: An overview of the proposal and the counter-proposal.",
+  "news_keywords": "Zurich will soon decide whether buildings up to 40 meters high will be allowed in the city, explains Zurich News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T08:20:16+02:00",
+  "date": "2026-08-25T07:07:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "EXPLAINED - Zurich will soon decide whether buildings up to 40 meters high will be allowed in the city",
+  "ogTitle": "On September 27th, Zurich will decide whether buildings up to 40 meters high will be allowed in the city",
+  "ogUrl": "https://www.nzz.ch/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168",
+  "mrf:cms_id": "nzz:ld.10020168",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020168",
+  "nzzAuthors": [
+   {
+    "id": 1740520,
+    "name": "Francesca Prader",
+    "shortName": "fpr",
+    "pianoId": "1fbf2b70-875a-4464-8b73-4838b981c67f",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:09 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Zurich decides on 40-meter high-rise buildings. An overview of the referendum proposal"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168"
+   },
+   "headline": "Zurich decides on 40-meter high-rise buildings. An overview of the referendum proposal",
+   "datePublished": "2026-08-25T07:07:00+02:00",
+   "dateModified": "2026-08-25T08:20:16+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Zurich voters to decide on new high-rise guidelines on Sept. 27: An overview of the proposal and the counter-proposal.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/21/78d1781f-080c-40ad-92bf-35d7f8d39e59.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3053,1717,x0,y47&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Francesca Prader"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 331800,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/zuerich-entscheidet-ueber-40-meter-hochhaeuser-die-abstimmungsvorlage-im-ueberblick-ld.10020168",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "erklärt",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020168",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-08-25T03:07:00.000Z",
+   "ContentAuthor": "Francesca Prader",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Welche Argumente sprechen für die Vorlage des Stadtparlaments?\nWarum unterstützt die NZZ den Gegenvorschlag des Stadtrats?\nWie beeinflussen Hochhäuser die Stadtentwicklung Zürichs?",
+   "ldId": "ld.10020168",
+   "channel": "Zürich",
+   "heading": "Bald entscheidet Zürich, ob in der Stadt bis 40 Meter in die Höhe gebaut werden darf",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

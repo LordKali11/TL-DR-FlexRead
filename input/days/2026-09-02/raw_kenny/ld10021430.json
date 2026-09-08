@@ -1,0 +1,1403 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k13mqtlp0",
+   "content": {
+    "title": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+    "lead": "EU aims to strengthen key industries with new laws: Swissmem warns strict origin rules jeopardize Swiss suppliers",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k13mqtlp1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Jürg Meier",
+       "url": "/impressum/juerg-meier-ld.1723373",
+       "teaserImage": {
+        "originalUrl": "/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1e5jrt81",
+   "content": {
+    "image": {
+     "author": "Maxim Shemetov / Reuters",
+     "caption": "The EU is concerned about the growing importance of Chinese car manufacturers: a new sports car from the BYD Group at a car show in Beijing.",
+     "originalUrl": "/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?crop=8192,5387,x0,y0",
+     "width": 8192,
+     "height": 5387,
+     "altText": "A newly presented electric roadster Formula",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180343352"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 8192,
+      "height": 5387,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 8192,
+       "height": 5387,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The EU is concerned about the growing importance of Chinese car manufacturers: a new sports car from the BYD Group at a car show in Beijing.",
+    "author": "Maxim Shemetov / Reuters"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "h9wfY9kxeIxV": {
+       "start": 0,
+       "end": 139,
+       "text": "The EU is concerned about the growing importance of Chinese car manufacturers: A new sports car from the BYD Group at a car show in Beijing."
+      }
+     }
+    }
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mqtlp3",
+   "content": {
+    "text": "The European Union no longer tolerates industrial competition distorted by Chinese subsidies. In early March, the EU Commission presented a draft for the Industrial Accelerator Act (IAA). The broad framework law aims to strengthen domestic economic sectors like steel and aluminum production or green technologies and secure industrial manufacturing capacities in Europe."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-83196dfd",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gb1",
+   "content": {
+    "text": "The automotive industry is a key focus. The goal is to protect it from growing competition from Chinese imports. To this end, the draft law relies on origin requirements for public procurement and certain state funding programs. For electric vehicles supported under such programs, strict conditions would apply: they must be assembled in the EU, and at least 70% of the value of components – excluding the battery – must be of European origin."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gd0",
+   "content": {
+    "text": "Negotiations on the law are underway in Brussels. However, it is becoming clear: depending on the outcome, the Swiss automotive supply industry could become collateral damage of the planned regulation. It remains unclear whether Swiss companies will ultimately be recognized as European suppliers at the end of the political process."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k13nmrjv0",
+   "content": {
+    "title": "Major concerns at Swissmem",
+    "id": "subtitle-grosse-sorgen-bei-swissmem"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gd2",
+   "content": {
+    "text": "«We are very concerned about the EU's Industrial Accelerator Act,» Stefan Brupbacher, director of the industrial association Swissmem, confirms. «From our perspective, this development is extremely dangerous for our automotive suppliers and the entire industrial base.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k143vl2d0",
+   "content": {
+    "text": "Brupbacher says the central question is how the EU will precisely define the origin requirements in the final legal text. Opinions on this, however, appear to diverge widely. He adds that a conflict between protectionists and proponents of open markets is underway within the EU."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gi0",
+   "content": {
+    "text": "France, he notes, notably advocates a strict definition, pushing to limit the requirement to suppliers from the EU. This approach is based on a calculation. A strict regulation is intended to give domestic industry an advantage, while competitors from the United Kingdom or Switzerland would be at a disadvantage."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gi2",
+   "content": {
+    "text": "German industrial circles, for example, demand that the requirement for European origin must necessarily include Switzerland and other partner countries, he explains. They fear a significant increase in vehicle prices if supply chains are primarily limited to the EU internal market."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k13nojsq0",
+   "content": {
+    "title": "Struggling suppliers",
+    "id": "subtitle-kriselnde-zulieferer"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1440sch0",
+   "content": {
+    "text": "The nervousness among Swiss suppliers on this issue is not without reason. The companies are already under immense pressure. A study by the consulting firm Berylls shows that revenues for surveyed Swiss suppliers fell by an average of 13.4% in 2025."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c2cekr1",
+   "content": {
+    "text": "In comparison, for the world's 100 largest suppliers, the decline during the same period was only 2.2%. Global corporations were able to stabilize their business through growth in software and electronics. Swiss companies, however, are heavily dependent on the European automotive industry, particularly on German car manufacturers, to whom they primarily supply classic precision parts. The crisis in this core market therefore hits them with full force."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1442ijc0",
+   "content": {
+    "text": "The industry association Swissmem's main concern is for smaller businesses. Stefan Brupbacher says larger corporations could relocate production to the EU if necessary. But about half of Swiss suppliers are small companies that lack these alternatives. «They depend on access to the EU market,» he says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1442ibl1",
+   "content": {
+    "text": "Aargau-based component manufacturer Jehle shares the industry association's concerns. The company generates between 35% and 40% of its revenue from the automotive industry, supplying, for example, safety-critical steering components. Its most important sales market in the automotive segment is the EU."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1443j1i1",
+   "content": {
+    "text": "A strict new origin requirement «would be anything but helpful for us,» Robert Reimann, CEO, says. The same applies to the entire industry. «Increased protectionism in the EU would hit the Swiss supplier industry hard,» he says – especially companies that are entirely dependent on the automotive sector."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13npqqv1",
+   "content": {
+    "text": "Reimann argues that the consequence of such a tightening would by no means be that car manufacturers would buy more in the EU, as apparently hoped in France. Instead, he says, manufacturers would take a different approach: for all vehicles they build for the global market outside Europe, they would specifically look for cheaper alternatives – for example, from suppliers in Asia."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gk0",
+   "content": {
+    "text": "The entire European automotive industry would suffer the damage, Reimann says. «Supply chains are also innovation partnerships,» he explains. Swiss suppliers put a lot of effort into developing their products further, which then benefits car manufacturers, he adds. «If the EU isolates itself, the entire European automotive industry loses competitiveness,» the Jehle CEO warns, adding, «China would ultimately be the one to benefit.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k13nq6ds0",
+   "content": {
+    "title": "Underestimated problem",
+    "id": "subtitle-untersch-tztes-problem"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gl0",
+   "content": {
+    "text": "Stefan Brupbacher, director of Swissmem, believes the problem is still greatly underestimated in Switzerland. The reason: Many believe Switzerland is on the safe side because it has a free trade agreement with the EU. Such countries are generally included in the draft law. However, he warns, this is «a dangerous misjudgment.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gl2",
+   "content": {
+    "text": "The warning stems from the EU's dealings with other free trade partners. China, he says, is currently investing billions to build manufacturing capacities in countries like Morocco or Turkey to circumvent EU tariffs. The EU, he adds, will not watch this development indefinitely and will introduce stricter rules to prevent this circumvention."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1dt1od11",
+   "content": {
+    "text": "The free trade agreement, Brupbacher explains, protects against tariffs, but not against such tightening – with the risk that, in addition to Chinese companies, Swiss suppliers will also be affected."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gm2",
+   "content": {
+    "text": "The State Secretariat for Economic Affairs (Seco) is closely following discussions about the Industrial Accelerator Act, a spokesman says. EU Commission President Ursula von der Leyen had already commented on this law as part of the Bilateral III package, the spokesman notes. In doing so, she stated that «there is no interest in not including Switzerland,» the spokesman adds. Bern, however, is not content with this declaration of intent from Brussels. Switzerland, he says, is actively working with EU institutions and member states to ensure that «domestic companies do not suffer disadvantages.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k13mr0gn0",
+   "content": {
+    "text": "Jehle CEO Robert Reimann says one thing is clear: «Not only do we want to keep our supply partnerships, but also our customers in the EU.» Therefore, he says, Switzerland must be included in any requirement regarding the origin of components. However, what would be best for the competitiveness of the entire EU, Reimann contends, would be something else entirely: if Brussels did not introduce such a requirement at all."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k13mqtlp4",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k13mqtlp5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k13mqtlp6",
+      "content": {
+       "title": "Turn the tables – how Europe can level the playing field against China in the industrial policy match",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Veit V. Dengler and Tom Tugendhat",
+       "teaserImage": {
+        "originalUrl": "/2026/08/27/6cfd004e-21b6-4d5f-a752-ddbca8eeeb80.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/27/6cfd004e-21b6-4d5f-a752-ddbca8eeeb80.jpg?width=1024&quality=75&auto=webp",
+        "width": 5341,
+        "height": 3004,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4413,2483,x441,y309"
+         },
+         {
+          "name": "4:3",
+          "crop": "3310,2483,x988,y304"
+         },
+         {
+          "name": "1:1",
+          "crop": "2731,2731,x1337,y175"
+         },
+         {
+          "name": "3:4",
+          "crop": "2253,3004,x1404,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4506,3004,x418,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Europe's «deep strategic reciprocity» linking China's market access to domestic value creation"
+       },
+       "flag": "Guest opinion",
+       "editor": "1372118",
+       "nzzId": "ld.10020310",
+       "readingTime": 300,
+       "paywallQuestionOne": "How can Europe link China's market access to domestic value creation?",
+       "paywallQuestionTwo": "What role do energy prices play in Europe's competitiveness?",
+       "paywallQuestionThree": "How could a unified European trade policy strengthen industry?",
+       "characterCount": 7703,
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10020310,
+       "layout": "opinion",
+       "publicationDate": "2026-08-29T03:35:00.000Z",
+       "publicationLastUpdated": "2026-08-29T03:35:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-29T15:35:00.000Z",
+       "teaserCaption": "Europe's «deep strategic reciprocity» linking China's market access to domestic value creation",
+       "url": "/meinung/den-spiess-umdrehen-wie-europa-im-industriepolitischen-match-gegen-china-wieder-ausgleichen-kann-ld.10020310",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 1012,
+       "premium": true,
+       "leadText": "Europe's «deep strategic reciprocity» linking China's market access to domestic value creation",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k13mqtlp7",
+      "content": {
+       "title": "The Drama of «Made in Italy»: How China’s New Control Strategy Squeezes Italian Family Capitalism",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Ulrike Sauer, Rome",
+       "teaserImage": {
+        "originalUrl": "/2026/08/18/18c4099a-2a45-4604-824d-f367d163e981.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/18/18c4099a-2a45-4604-824d-f367d163e981.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4000,2250,x0,y209"
+         },
+         {
+          "name": "4:3",
+          "crop": "3556,2667,x222,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2667,2667,x667,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2000,2667,x1000,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4000,2667,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The days of easy money from the Far East are over. Chinese state-owned enterprises were once hailed as saviors in times of need. Today, however, fears of technology transfer and espionage are rampant, as the battle for yacht builder Ferretti demonstrates.",
+        "teaserAuthor": "Marc Hill / Bloomberg / Getty"
+       },
+       "teaserAuthor": "Marc Hill / Bloomberg / Getty",
+       "nzzId": "ld.10019797",
+       "readingTime": 420,
+       "paywallQuestionOne": "How does China's control strategy affect Italian companies?",
+       "paywallQuestionTwo": "Why is the Golden Power law becoming increasingly important for Italy?",
+       "paywallQuestionThree": "What role does a lack of domestic capital play in Italy's economy?",
+       "characterCount": 8797,
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10019797,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-22T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-22T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-22T15:30:00.000Z",
+       "teaserCaption": "The days of easy money from the Far East are over. Chinese state-owned enterprises were once hailed as saviors in times of need. Today, however, fears of technology transfer and espionage are rampant, as the battle for yacht builder Ferretti demonstrates.",
+       "url": "/wirtschaft/das-drama-um-made-in-italy-wie-chinas-neue-kontrollstrategie-den-italienischen-familienkapitalismus-in-die-zange-nimmt-ld.10019797",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1310,
+       "premium": true,
+       "leadText": "The days of easy money from the Far East are over. Chinese state-owned enterprises were once hailed as saviors in times of need. Today, however, fears of technology transfer and espionage are rampant, as the battle for yacht builder Ferretti demonstrates.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k13mqtlp8",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/07/7ea0efc8-cfb7-4f1c-8965-49fee4ba2382.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/07/7ea0efc8-cfb7-4f1c-8965-49fee4ba2382.jpg?width=1024&quality=75&auto=webp",
+        "width": 8192,
+        "height": 5464,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5595,3147,x1562,y1636"
+         },
+         {
+          "name": "4:3",
+          "crop": "5473,4105,x1617,y1279"
+         },
+         {
+          "name": "1:1",
+          "crop": "4516,4516,x2101,y750"
+         },
+         {
+          "name": "3:4",
+          "crop": "4098,5464,x2612,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6155,4103,x1630,y925"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Sales are shrinking, while Chinese competition is growing unabated. VW, BMW, and others are reacting with job cuts, fewer models, and a shift of production abroad. Is that enough?",
+        "teaserAuthor": "Sean Gallup / Getty"
+       },
+       "teaserAuthor": "Sean Gallup / Getty",
+       "title": "Auto expert Dudenhöffer: «The German manufacturers have a future. But it does not lie in Germany»",
+       "authorLine": "Cornelius Welp",
+       "nzzId": "ld.10018242",
+       "readingTime": 480,
+       "paywallQuestionOne": "How does Chinese competition threaten the German automotive industry?",
+       "paywallQuestionTwo": "What strategies are German car manufacturers pursuing to remain competitive?",
+       "paywallQuestionThree": "Why does expert Dudenhöffer see the future of the German automotive industry abroad?",
+       "characterCount": 11156,
+       "product": "NZZ.ch",
+       "documentId": 10018242,
+       "layout": "regular",
+       "publicationDate": "2026-08-07T16:07:17.775Z",
+       "publicationLastUpdated": "2026-08-11T12:09:22.104Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-08T04:07:17.775Z",
+       "teaserCaption": "Sales are shrinking, while Chinese competition is growing unabated. VW, BMW, and others are reacting with job cuts, fewer models, and a shift of production abroad. Is that enough?",
+       "url": "/wirtschaft/die-letzte-chance-so-kaempft-die-deutsche-autobranche-gegen-ihren-untergang-ld.10018242",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1540,
+       "leadText": "Sales are shrinking, while Chinese competition is growing unabated. VW, BMW, and others are reacting with job cuts, fewer models, and a shift of production abroad. Is that enough?",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1024&quality=75&auto=webp",
+   "width": 8192,
+   "height": 5387,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "8192,4608,x0,y164"
+    },
+    {
+     "name": "4:3",
+     "crop": "7183,5387,x505,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "5387,5387,x1403,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "4040,5387,x2076,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "8081,5387,x56,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+   "teaserAuthor": "Maxim Shemetov / Reuters"
+  },
+  "teaserAuthor": "Maxim Shemetov / Reuters",
+  "nzzId": "ld.10021430",
+  "readingTime": 300,
+  "characterCount": 7133,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021430,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T04:49:58.326Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+  "nzzAuthors": [
+   {
+    "id": 1373186,
+    "name": "Jürg Meier",
+    "shortName": "mju",
+    "pianoId": "0c846e7c-1764-43ba-80e6-d38fbf50a446",
+    "external": false
+   }
+  ],
+  "authorLine": "Jürg Meier",
+  "authorImage": {
+   "originalUrl": "/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1723373,
+    "name": "Jürg Meier (mju.) Business Editor NZZ",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp",
+  "url": "/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 1012,
+  "leadText": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+  "nzzSummaryEN": "- The EU plans stricter origin rules through the Industrial Accelerator Act, potentially threatening Swiss automotive suppliers.\n- Larger companies might relocate production to the EU, while smaller suppliers are existentially reliant on access to the EU market.\n- Critics warn this could harm innovation and reduce competitiveness, with China potentially benefiting.",
+  "nzzSummaryDE": "- The EU is planning stricter rules on origin through the Industrial Accelerator Act, which could threaten Swiss automotive suppliers.\n Larger companies could relocate production to the EU, while smaller suppliers are existentially dependent on the EU market.\n Critics warn that this could harm innovation and reduce competitiveness, while China would benefit.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Swiss automotive suppliers fear EU hurdles",
+  "nzzPrintSubtitle": "New regulations from Brussels could make market access more difficult in the most important sales region",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+   "title": "Swiss automotive suppliers threatened by EU rules of origin",
+   "socialMediaTitle": "Danger for Swiss suppliers: EU plans stricter rules of origin",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8192,4608,x0,y164&wmark=nzz"
+  },
+  "ldPublicationId": 2487389,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "EU",
+    "slug": "/themen/eu"
+   },
+   {
+    "name": "Swissmem",
+    "slug": "/themen/swissmem"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10020310",
+    "ld.10019797",
+    "ld.10018242"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 447696,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "eu",
+   "name": "European Union (EU)",
+   "tagName": "EU",
+   "qId": "Q458",
+   "seoTitle": "EU – All news and articles about the European Union | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 15:41:16.127Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/eu",
+   "size": 3667,
+   "relatedTopics": [
+    {
+     "name": "Swissmem",
+     "slug": "/themen/swissmem"
+    },
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Economy: Inflation in Switzerland higher than expected +++ Novartis to cut up to 130 jobs in Basel",
+    "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Short news items",
+    "authorLine": "NZZ Newsroom",
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+    },
+    "nzzId": "ld.10020450",
+    "readingTime": 1020,
+    "paywallQuestionOne": "Why is Roche investing USD 750 million in a new plant in Hillsboro?",
+    "paywallQuestionTwo": "What role does the new facility play in Roche's drug pipeline?",
+    "paywallQuestionThree": "How is Roche supporting the expansion of its production capacities in the USA?",
+    "characterCount": 24423,
+    "product": "NZZ.ch",
+    "documentId": "10020450",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:00:05.234Z",
+    "publicationLastUpdated": "2026-09-03T07:25:57.392Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:00:05.234Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/wirtschaft/wirtschaft-roche-baut-produktion-in-den-usa-weiter-aus-ld.10020450",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 3370,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Iceland referendum brutally shows the EU: The bloc is not attractive enough for rich countries",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/75ccfdf9-0b2d-457d-8fc2-e525990fbc29.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/75ccfdf9-0b2d-457d-8fc2-e525990fbc29.jpg?width=1024&quality=75&auto=webp",
+     "width": 5703,
+     "height": 3772,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5703,3208,x0,y282"
+      },
+      {
+       "name": "4:3",
+       "crop": "5029,3772,x337,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3772,3772,x966,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2829,3772,x1437,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5658,3772,x23,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Iceland has decided against EU accession talks. This should give Brussels pause. Progressive centralization deters successful states.",
+     "teaserAuthor": "Leonhard Foeger / Reuters"
+    },
+    "teaserAuthor": "Leonhard Foeger / Reuters",
+    "language": {
+     "locale": "de"
+    },
+    "nzzId": "ld.10021909",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is the EU less attractive for wealthy countries like Iceland?",
+    "paywallQuestionTwo": "What role does EU centralization play in Iceland's rejection?",
+    "paywallQuestionThree": "How do economic interests influence the decision against EU membership?",
+    "characterCount": 3880,
+    "showComments": true,
+    "flag": "Opinion",
+    "product": "NZZ.ch",
+    "documentId": "10021909",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T14:40:52.488Z",
+    "publicationLastUpdated": "2026-09-01T14:50:41.669Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T02:40:52.488Z",
+    "teaserCaption": "Iceland has decided against EU accession talks. This should give Brussels pause. Progressive centralization deters successful states.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/das-island-referendum-zeigt-der-eu-schonungslos-auf-fuer-reiche-laender-ist-der-staatenverbund-zu-wenig-attraktiv-ld.10021909",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 585,
+    "leadText": "Iceland has decided against EU accession talks. This should give Brussels pause. Progressive centralization deters successful states.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 37,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«It is incomprehensible that a higher hurdle is needed for the vote on cow horns than for the EU treaties,» says the president of the Swiss Trade Association",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2020/1/22/5fea9b2f-aa20-45f9-bda8-9f30a996de99.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2020/1/22/5fea9b2f-aa20-45f9-bda8-9f30a996de99.jpeg?width=1024&quality=75&auto=webp",
+     "width": 8688,
+     "height": 5792,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8688,4887,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7723,5792,x734,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5792,5792,x1699,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4344,5792,x2423,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8688,5792,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4595,
+      "y": 2010
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "flag": "interview",
+    "nzzId": "ld.10021632",
+    "readingTime": 540,
+    "paywallQuestionOne": "What conditions does the SGV set for its approval of the EU treaties?",
+    "paywallQuestionTwo": "How should SMEs be relieved of burdens through the EU treaties?",
+    "paywallQuestionThree": "Why does the SGV reject the new food safety rules?",
+    "characterCount": 11090,
+    "product": "NZZ.ch",
+    "documentId": "10021632",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:31:00.000Z",
+    "publicationLastUpdated": "2026-09-01T08:45:08.432Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:31:00.000Z",
+    "teaserCaption": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+    "authorLine": "Katharina Fontana",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/25/7c05952b-935d-4db1-8c88-431369489c1b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sgv-praesident-fabio-regazzi-es-ist-eine-selbstverstaendlichkeit-dass-das-parlament-bei-den-eu-vertraegen-mitreden-will-ld.10021632",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Council of States aims to conclude mammoth debate on new EU agreements in three days",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/03/27/b7bda767-c45f-4bd3-ba07-4c8a59fa3665.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/27/b7bda767-c45f-4bd3-ba07-4c8a59fa3665.jpg?width=1024&quality=75&auto=webp",
+     "width": 5104,
+     "height": 3403,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5104,2871,x0,y471"
+      },
+      {
+       "name": "4:3",
+       "crop": "4537,3403,x523,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2812,2812,x1315,y556"
+      },
+      {
+       "name": "3:4",
+       "crop": "2320,3094,x1569,y309"
+      },
+      {
+       "name": "3:2",
+       "crop": "5104,3403,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "nzzId": "ld.10021730",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the majority of the cantons influence the debate on the new EU agreements?",
+    "paywallQuestionTwo": "Which topics are particularly controversial during the detailed deliberations on the EU treaties?",
+    "paywallQuestionThree": "Why is the scope of action of the Council of States limited with regard to EU agreements?",
+    "characterCount": 5016,
+    "product": "NZZ.ch",
+    "documentId": "10021730",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T07:25:13.650Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+    "authorLine": "Tobias Gafafer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/der-staenderat-will-die-mammutdebatte-ueber-die-neuen-eu-abkommen-in-drei-tagen-abschliessen-ld.10021730",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 726,
+    "leadText": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Why should we sacrifice the right to asylum if we can control irregular migration without breaking the law?» asks migration researcher Gerald Knaus",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "interview",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/5378d714-b68c-4171-ab4f-e0683e5fd48a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/5378d714-b68c-4171-ab4f-e0683e5fd48a.jpg?width=1024&quality=75&auto=webp",
+     "width": 1600,
+     "height": 2240,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1600,900,x0,y133"
+      },
+      {
+       "name": "4:3",
+       "crop": "1600,1200,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1600,1600,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1600,2133,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1600,1067,x0,y3"
+      }
+     ],
+     "focalPoint": {
+      "x": 773,
+      "y": 536
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+     "teaserAuthor": "Olesia Ponomarenko"
+    },
+    "teaserAuthor": "Olesia Ponomarenko",
+    "editor": "1629317",
+    "paywallQuestionOne": "How can Europe control irregular migration without sacrificing the right to asylum?",
+    "paywallQuestionTwo": "Are secure agreements with third countries a solution to the migration problem?",
+    "paywallQuestionThree": "Why is violence not a sustainable solution for border control in democracies?",
+    "nzzId": "ld.10021725",
+    "readingTime": 360,
+    "characterCount": 7987,
+    "product": "NZZ.ch",
+    "documentId": "10021725",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-01T02:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T04:08:48.552Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T14:30:00.000Z",
+    "teaserCaption": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+    "authorLine": "Beatrice Achterberg",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/02/02/bac65a52-2f61-46af-bf38-aba408bfa0a4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/deutschland/warum-sollten-wir-das-asylrecht-opfern-wenn-wir-irregulaere-migration-kontrollieren-koennen-ohne-recht-zu-brechen-fragt-migrationsforscher-gerald-knaus-ld.10021725",
+    "department": {
+     "name": "Homepage (Germany)",
+     "path": "/deutschland"
+    },
+    "estimationWordCount": 1182,
+    "leadText": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021430",
+    "name": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373186,
+       "name": "Jürg Meier",
+       "shortName": "mju",
+       "pianoId": "0c846e7c-1764-43ba-80e6-d38fbf50a446",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T04:49:58.326Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021430",
+   "pageType": "regular",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Swiss automotive suppliers threatened by EU rules of origin",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8192,4608,x0,y164&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Jürg Meier",
+  "description": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+  "news_keywords": "Europe's new protectionism threatens Swiss car suppliers – is China the laughing third party?, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T08:49:58+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+  "ogTitle": "Danger for Swiss suppliers: EU plans stricter rules of origin",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+  "mrf:cms_id": "nzz:ld.10021430",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021430",
+  "nzzAuthors": [
+   {
+    "id": 1373186,
+    "name": "Jürg Meier",
+    "shortName": "mju",
+    "pianoId": "0c846e7c-1764-43ba-80e6-d38fbf50a446",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:03 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Swiss automotive suppliers threatened by EU rules of origin"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430"
+   },
+   "headline": "Swiss automotive suppliers threatened by EU rules of origin",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T08:49:58+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8192,4608,x0,y164&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Jürg Meier"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 447696,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021430",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "Jürg Meier",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie gefährdet der EU-Protektionismus Schweizer Autozulieferer?\nWelche Folgen hätte eine strenge Herkunftsvorgabe für die EU und Schweiz?\nWarum wird das Problem in der Schweiz unterschätzt?",
+   "ldId": "ld.10021430",
+   "channel": "Wirtschaft",
+   "heading": "Europas neuer Protektionismus bedroht Schweizer Autozulieferer – ist China der lachende Dritte?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,1455 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0r2uv1q1",
+   "content": {
+    "title": "Israel's bombing of Syria, targeting Turkey",
+    "lead": "Israel's new doctrine: Idlib attack risks NATO confrontation, raises doubts",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0r2uv1q2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Johannes C. Bockenheimer, Tel Aviv",
+       "url": "/impressum/johannes-c-bockenheimer-ld.1759640",
+       "teaserImage": {
+        "originalUrl": "/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0",
+        "width": 1745,
+        "height": 1744,
+        "crop": {
+         "x": 1,
+         "y": 0,
+         "width": 1744,
+         "height": 1744,
+         "name": "1:1"
+        },
+        "imageService": "fastly",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0r2uv1q3",
+   "content": {
+    "image": {
+     "author": "Pleiades Neo Airbus DS 2026 / Handout",
+     "caption": "Israel has destroyed the runway of the Syrian airfield in Abu al-Duhur.",
+     "originalUrl": "/2026/08/25/56621473-be9d-4945-afa8-b161a13ee2df.jpg?crop=1590,895,x10,y167",
+     "width": 2560,
+     "height": 1442,
+     "altText": "A satellite image shows craters on the runways of Abu al-Duhur airbase near Syria's Aleppo after an Israeli attack, August 19, 2026. Pleiades Neo © Airbus DS 2026/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO SALES. NO ARCHIVES. MANDATORY CREDIT.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180132591"
+      }
+     ],
+     "crop": {
+      "x": 10,
+      "y": 167,
+      "width": 1590,
+      "height": 895,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 10,
+       "y": 167,
+       "width": 1590,
+       "height": 895,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Israel has destroyed the runway of the Syrian airfield in Abu al-Duhur.",
+    "author": "Pleiades Neo Airbus DS 2026 / Handout"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r2uv1q4",
+   "content": {
+    "text": "Dan Schueftan cultivates a dry sense of humor. What happened in Syria last week was primarily a message to Turkey, says the Israeli security expert, who served as an advisor to several heads of government. In the Middle East, however, such messages are not sent with diplomats. «If you need an envoy, an F-16 or an F-35 is the better choice,» he says. That way, the message reaches the other side faster."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-a448ea4a",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r37e200",
+   "content": {
+    "text": "What Schueftan is referring to is the bombardment of Abu al-Duhur airfield. Israeli fighter jets attacked the military base in the Syrian province of Idlib last Tuesday. The runway and apparently storage buildings were hit. Immediate outrage ensued: Damascus called it an «act of aggression,» and Washington an «unnecessary escalation.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r37e230",
+   "content": {
+    "text": "Israeli Prime Minister Benjamin Netanyahu, in turn, explained his motives that evening. His country and Syria had agreed on a security status quo, according to a statement from his office. However, the Israelis regarded Damascus’s invitation to Ankara to station Turkish soldiers there as an imminent breach of that informal agreement."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0r37r5k0",
+   "content": {
+    "title": "Dispute over the Mediterranean",
+    "id": "subtitle-streit-ums-mittelmeer"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r37tv30",
+   "content": {
+    "text": "Syria has thus definitively become the scene of the Israeli-Turkish power struggle. This had already been hinted at ten years ago. At that time, the Turkish army moved into northern Syria. Officially, the operation has protected the border from Islamist terrorists and Kurdish militias ever since. In Israel, however, this was also always seen as Turkish expansionism."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3atro0",
+   "content": {
+    "text": "Especially as the two states repeatedly clash elsewhere. Recently, President Recep Tayyip Erdogan offered, for example, that Turkey could become part of a new security order in southern Lebanon. The UN force Unifil, which has monitored the border with Israel since 1978, will cease its work there at the end of this year. Turkish soldiers, he suggested, would then stand on Israel’s northern border."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3atrp0",
+   "content": {
+    "text": "In Gaza, too, Ankara had eagerly offered to participate in a peacekeeping force. Israel brusquely rejected the offer. Donald Trump, however, considered Turkish soldiers most suitable for disarming Hamas."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3atrq0",
+   "content": {
+    "text": "Most immediately, however, the two confront each other in the eastern Mediterranean. For years, Ankara has pursued the doctrine of the <a href=\"https://www.nzz.ch/international/an-der-tuerkei-fuehrt-im-oestlichen-mittelmeer-kein-weg-vorbei-ld.1560594\">«Blue Homeland»</a> there and claims maritime areas that Greece and Cyprus assert for themselves."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3atrq1",
+   "content": {
+    "text": "Turkey was therefore excluded from the Gas Forum, an energy alliance founded by Israel, Cyprus, Greece, and Egypt. Whoever dreams of restoring empires, Netanyahu said last December, would find that this would not happen."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0r3b9hb0",
+   "content": {
+    "title": "Erdogan's increasingly strident rhetoric",
+    "id": "subtitle-erdogans-rhetorik-wird-immer-schriller"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3bb6t0",
+   "content": {
+    "text": "<a href=\"https://www.nzz.ch/international/in-israel-fuerchtet-man-einen-krieg-mit-recep-tayyip-erdogan-ld.10013685\">Erdogan, for his part, repeatedly lashed out in recent years.</a> Shortly after the Hamas massacre of Oct. 7, 2023, he called Israel a «terrorist state.» Two years later, he wished that God would bring «destruction and misery» upon the country. Israel, he added at the beginning of June, was «a threat to all humanity.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3cfso0",
+   "content": {
+    "text": "Schueftan identifies two motives behind the Turkish head of state’s actions and words. Firstly, he says, it is a strategic one. Israel, he adds, increasingly appeared to the Turkish leadership as an obstacle to Ankara’s ambition to expand its influence in the Middle East."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3cfss0",
+   "content": {
+    "text": "This neo-Ottoman thinking is deeply rooted in Erdogan’s government. At the beginning of June, Interior Minister Mustafa Ciftci said at an event of the ruling AKP that Turkey would one day «liberate» Jerusalem. «As before, these territories will be ours again,» Ciftci said. He added: «God willing, they will be under our rule again.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3cfss1",
+   "content": {
+    "text": "In addition, Erdogan’s hostility also has ideological-Islamist reasons, Schueftan believes. Until 2010, the president had essentially presented himself as a reasonable European head of government, he notes."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3cfss2",
+   "content": {
+    "text": "Then came the incident concerning the «Mavi Marmara,» an activist ship that sought to break the Gaza blockade. During its storming by Israeli soldiers, ten Turkish activists were killed. «Then Erdogan’s deeply antisemitic element became increasingly prominent,» Schueftan says regarding the Turkish president’s increasingly drastic condemnations of the Jewish state."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3d8ld0",
+   "content": {
+    "text": "Ultimately, Israel had learned an important lesson from the 2023 Hamas massacre, Schueftan says. The country, he adds, no longer waits for its opponents to attack but instead destroys their military buildup. This applies, he observes, to Gaza, Lebanon, and now also to Syria."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0r3ctje0",
+   "content": {
+    "title": "Doubts about the government's approach",
+    "id": "subtitle-zweifel-am-vorgehen-der-regierung"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3cma80",
+   "content": {
+    "text": "However, there are also voices in Israel that warn against the weaknesses of the new doctrine, not least with regard to Syria. When Bashar al-Assad’s regime collapsed at the end of 2024, Israeli troops moved into the buffer zone on the Golan Heights, a strip UN observers had monitored since 1974. Since then, they have occupied it and some areas behind it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3dp740",
+   "content": {
+    "text": "This brought little security, Danny Citrinowicz of the Institute for National Security Studies (INSS) recently wrote. He added that the longer it lasted, the more expensive it would become. Without a political way out, he contended, occupied land would eventually become a burden. Not only Damascus and Ankara, he noted, were annoyed about this, but also Washington and Riyadh."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3dp750",
+   "content": {
+    "text": "His proposal, Citrinowicz wrote, was for Israel to return to the 1974 agreement with Syria. In return, Damascus, he stated, must accept restrictions, both for its own rearmament and for cooperation with Turkey. It must also prevent Iran, he added, from again supplying weapons to Hezbollah through Syria. Channels for this already existed, he pointed out, and senior Syrian officials were speaking directly with Israeli security personnel."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3dp751",
+   "content": {
+    "text": "Citrinowicz also points to a second contradiction. Israel, he notes, is among the few states that want to weaken the new ruler Ahmed al-Sharaa. His past as an Islamist, he adds, gives cause for caution, but he must be judged by what he does. So far, his government, he observes, has sought no confrontation. If it were overthrown, he warns, Iran could return to Syria, and that would be the opposite of what Jerusalem wants to achieve."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0r3ef4r0",
+   "content": {
+    "title": "Is a new war looming?",
+    "id": "subtitle-droht-ein-neuer-krieg"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3e7pn0",
+   "content": {
+    "text": "Schueftan, meanwhile, remains skeptical about a restrained, compromise-oriented approach towards the neighborhood. The situation could certainly be improved, he says, as the peace agreement with Egypt showed. And yes, he concedes, such agreements are also possible with Syria and Lebanon in the future. However, he cautions, there will be no final solution. Schueftan explains: «In the Middle East, the rule is: If someone is not afraid of you, you must be afraid of them.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3eouo0",
+   "content": {
+    "text": "This applies not least to the Turkish president, he adds. «Erdogan is a barbarian, and one can only deal with a barbarian in this way.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r3f4291",
+   "content": {
+    "text": "Schueftan, however, does not anticipate a military confrontation between the two states. «I don’t believe that Erdogan or anyone else in Turkey is so dramatically irresponsible as to drive things towards war,» he says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0r2uv1r0",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0r2uv1r1",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0r2uv1r2",
+      "content": {
+       "owner": "NZZ",
+       "flag": "The latest developments",
+       "title": "Crisis in Syria: Kurdish SDF dissolves",
+       "teaserImage": {
+        "originalUrl": "/2026/01/09/66528c83-ceb0-46a0-ac0f-463d99294d5d.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/09/66528c83-ceb0-46a0-ac0f-463d99294d5d.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y313"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x333,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1500,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Since the overthrow of longtime ruler Bashar al-Asad in late 2024, Syria has been experiencing uncertain times. This is how the situation currently stands.",
+        "teaserAuthor": "Ghaith Alsayed / AP"
+       },
+       "teaserAuthor": "Ghaith Alsayed / AP",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1536230",
+       "readingTime": 780,
+       "authorLine": "NZZ Newsroom",
+       "paywallQuestionOne": "What chemical weapons stockpiles were discovered in Syria?",
+       "paywallQuestionTwo": "What is the political transition in Syria looking like?",
+       "paywallQuestionThree": "What challenges does the new Syrian government face?",
+       "characterCount": 17981,
+       "product": "NZZ.ch",
+       "documentId": 1536230,
+       "layout": "regular",
+       "publicationDate": "2026-08-26T06:06:17.204Z",
+       "publicationLastUpdated": "2026-08-26T06:37:10.311Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-26T18:06:17.204Z",
+       "teaserCaption": "Since the overthrow of longtime ruler Bashar al-Asad in late 2024, Syria has been experiencing uncertain times. This is how the situation currently stands.",
+       "url": "/international/krise-in-syrien-usa-streicht-syrien-von-liste-der-terrorunterstuetzer-ld.1536230",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 2588,
+       "leadText": "Since the overthrow of longtime ruler Bashar al-Asad in late 2024, Syria has been experiencing uncertain times. This is how the situation currently stands.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0r2uv1r3",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/19/74caa6fa-c20b-4755-8749-6655b4085504.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/19/74caa6fa-c20b-4755-8749-6655b4085504.jpg?width=1024&quality=75&auto=webp",
+        "width": 3644,
+        "height": 3636,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3644,2050,x0,y793"
+         },
+         {
+          "name": "4:3",
+          "crop": "3644,2733,x0,y451"
+         },
+         {
+          "name": "1:1",
+          "crop": "3636,3636,x4,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2727,3636,x459,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3644,2429,x0,y603"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Officially, Syria never had a nuclear program. Now the government in Damascus has announced the discovery of several tons of nuclear material – and is cooperating with the International Atomic Energy Agency.",
+        "teaserAuthor": "Digital Globe / Getty"
+       },
+       "teaserAuthor": "Digital Globe / Getty",
+       "title": "Mystery surrounding Syria's nuclear material: What was the Assad regime's intention?",
+       "tags": [
+        "Krieg in Nahost",
+        "Nahost und Afrika"
+       ],
+       "nzzId": "ld.10020191",
+       "readingTime": 240,
+       "paywallQuestionOne": "Why is Syria only now reporting the discovery of nuclear material?",
+       "paywallQuestionTwo": "What role does the IAEA play in the investigation of the material?",
+       "paywallQuestionThree": "How will Syria ensure transparency regarding its nuclear activities?",
+       "characterCount": 4791,
+       "product": "NZZ.ch",
+       "documentId": 10020191,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-20T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-20T10:06:40.482Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-20T15:30:00.000Z",
+       "teaserCaption": "Officially, Syria never had a nuclear program. Now the government in Damascus has announced the discovery of several tons of nuclear material – and is cooperating with the International Atomic Energy Agency.",
+       "authorLine": "Anne Allmeling",
+       "authorImage": {
+        "originalUrl": "/2024/12/18/c2216812-cc68-4cbb-93a7-cf77bddf76b0.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/18/c2216812-cc68-4cbb-93a7-cf77bddf76b0.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2174,2174,x938,y166"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/18/c2216812-cc68-4cbb-93a7-cf77bddf76b0.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/international/syrien-entdeckt-tonnenweise-nuklearmaterial-kooperation-mit-iaea-ld.10020191",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 723,
+       "leadText": "Officially, Syria never had a nuclear program. Now the government in Damascus has announced the discovery of several tons of nuclear material – and is cooperating with the International Atomic Energy Agency.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0r2uv1r4",
+      "content": {
+       "title": "How Russia's military maintains a foothold in Syria and why Damascus does not completely break with Moscow",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "tags": [
+        "Nahost und Afrika"
+       ],
+       "teaserImage": {
+        "originalUrl": "/2026/08/11/a58293c8-7ec8-415c-bb55-e49bf14db614.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/11/a58293c8-7ec8-415c-bb55-e49bf14db614.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3374,x0,y626"
+         },
+         {
+          "name": "4:3",
+          "crop": "4407,3306,x1593,y633"
+         },
+         {
+          "name": "1:1",
+          "crop": "2258,2258,x1654,y683"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,3999,x2172,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For years, Russia was the overthrown dictator Bashar al-Assad's most important ally. Nevertheless, Syria's new government has now concluded a military cooperation agreement with Moscow. It has good reasons for doing so.",
+        "teaserAuthor": "Umit Bektas / Reuters"
+       },
+       "teaserAuthor": "Umit Bektas / Reuters",
+       "nzzId": "ld.10019017",
+       "readingTime": 300,
+       "paywallQuestionOne": "Why is Syria converting Russian military bases into training centers?",
+       "paywallQuestionTwo": "How does Russia's dependence affect Syria's military cooperation?",
+       "paywallQuestionThree": "What role does pragmatism play in Syria's relationship with Russia?",
+       "characterCount": 6319,
+       "product": "NZZ.ch",
+       "documentId": 10019017,
+       "layout": "regular",
+       "publicationDate": "2026-08-11T12:52:42.186Z",
+       "publicationLastUpdated": "2026-08-11T13:08:42.539Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-12T00:52:42.186Z",
+       "teaserCaption": "For years, Russia was the overthrown dictator Bashar al-Assad's most important ally. Nevertheless, Syria's new government has now concluded a military cooperation agreement with Moscow. It has good reasons for doing so.",
+       "authorLine": "Rewert Hoffer, Beirut",
+       "authorImage": {
+        "originalUrl": "/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/russland-kann-seinen-einfluss-in-syrien-teilweise-behalten-ld.10019017",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 971,
+       "leadText": "For years, Russia was the overthrown dictator Bashar al-Assad's most important ally. Nevertheless, Syria's new government has now concluded a military cooperation agreement with Moscow. It has good reasons for doing so.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Israel's bombing of Syria, targeting Turkey",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "tags": [
+   "Krieg in Nahost",
+   "Nahost und Afrika"
+  ],
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/56621473-be9d-4945-afa8-b161a13ee2df.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/56621473-be9d-4945-afa8-b161a13ee2df.jpg?width=1024&quality=75&auto=webp",
+   "width": 2560,
+   "height": 1442,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1749,984,x128,y124"
+    },
+    {
+     "name": "4:3",
+     "crop": "1923,1442,x319,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1442,1442,x559,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1082,1442,x739,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2163,1442,x199,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Israel's new doctrine: Idlib attack risks NATO confrontation, raises doubts",
+   "teaserAuthor": "Pleiades Neo Airbus DS 2026 / Handout"
+  },
+  "teaserAuthor": "Pleiades Neo Airbus DS 2026 / Handout",
+  "nzzId": "ld.10020882",
+  "readingTime": 300,
+  "characterCount": 6941,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020882,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T11:18:59.802Z",
+  "publicationDate": "2026-08-25T11:18:59.802Z",
+  "publicationLastUpdated": "2026-08-25T12:45:19.263Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T23:18:59.802Z",
+  "teaserCaption": "Israel's new doctrine: Idlib attack risks NATO confrontation, raises doubts",
+  "nzzAuthors": [
+   {
+    "id": 1733196,
+    "name": "Johannes Bockenheimer",
+    "shortName": "JCB",
+    "pianoId": "9747df19-123a-49be-ac62-5a6dd59c79af",
+    "external": false
+   }
+  ],
+  "authorLine": "Johannes C. Bockenheimer, Tel Aviv",
+  "authorImage": {
+   "originalUrl": "/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0",
+   "width": 1745,
+   "height": 1744,
+   "crop": {
+    "x": 1,
+    "y": 0,
+    "width": 1744,
+    "height": 1744,
+    "name": "1:1"
+   },
+   "imageService": "fastly",
+   "url": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1759640,
+    "name": "Johannes C. Bockenheimer, Tel Aviv",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+  "url": "/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 1038,
+  "leadText": "Israel's new doctrine: Idlib attack risks NATO confrontation, raises doubts",
+  "nzzSummaryEN": "- Israel bombed a military base in Syria's Idlib province in response to Turkey's deployment of troops in Syria, which Israel perceived as a breach of an informal security agreement.\n- Tensions between Israel and Turkey are escalating, particularly due to Turkish involvement in Syria and potential regional presence.\n- In Israel, there is internal debate over the new preventive military strategy, with concerns about potential escalation and long-term stability.",
+  "nzzSummaryDE": "Israel bombed a military base in the Syrian province of Idlib in response to the deployment of Turkish troops in Syria, which was seen as a breach of an informal security agreement.\n - Tensions between Israel and Turkey are increasing, mainly due to Turkey's involvement in Syria and a possible presence in the region.\n - In Israel, there are disagreements about the new policy of military prevention, with some expressing concerns about potential escalation and long-term stability.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Israel's bombing of Syria, targeting Turkey",
+  "nzzPrintSubtitle": "With its attack in Syria, Jerusalem is following a new doctrine and is not shying away from confrontation with a NATO state. Within Israel itself, doubts are growing as to whether this strategy will pay off",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882",
+   "title": "Attack on Syria: Israel's message to Turkey",
+   "socialMediaTitle": "Attack on Syria: Israel's message to Turkey",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/56621473-be9d-4945-afa8-b161a13ee2df.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1749,984,x128,y124&wmark=nzz"
+  },
+  "ldPublicationId": 2483437,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Turkey",
+    "slug": "/themen/tuerkei"
+   },
+   {
+    "name": "Israel",
+    "slug": "/themen/israel"
+   },
+   {
+    "name": "Syria",
+    "slug": "/themen/syrien"
+   },
+   {
+    "name": "Recep Tayyip Erdogan",
+    "slug": "/themen/recep-tayyip-erdogan"
+   },
+   {
+    "name": "Idlib",
+    "slug": "/themen/idlib"
+   },
+   {
+    "name": "Benjamin Netanyahu",
+    "slug": "/themen/benjamin-netanyahu"
+   },
+   {
+    "name": "Lebanon",
+    "slug": "/themen/libanon"
+   },
+   {
+    "name": "Bashar al-Assad",
+    "slug": "/themen/bashar-alasad"
+   },
+   {
+    "name": "Gaza Strip",
+    "slug": "/themen/gazastreifen"
+   },
+   {
+    "name": "Hamas",
+    "slug": "/themen/hamas"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1536230",
+    "ld.10020191",
+    "ld.10019017"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 451776,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "tuerkei",
+   "name": "Turkey",
+   "tagName": "Turkey",
+   "qId": "Q43",
+   "seoTitle": "Türkiye – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 17:37:30.938Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/tuerkei",
+   "size": 2272,
+   "relatedTopics": [
+    {
+     "name": "Israel",
+     "slug": "/themen/israel"
+    },
+    {
+     "name": "Syrien",
+     "slug": "/themen/syrien"
+    },
+    {
+     "name": "Recep Tayyip Erdogan",
+     "slug": "/themen/recep-tayyip-erdogan"
+    },
+    {
+     "name": "Idlib",
+     "slug": "/themen/idlib"
+    },
+    {
+     "name": "Benjamin Netanyahu",
+     "slug": "/themen/benjamin-netanyahu"
+    },
+    {
+     "name": "Libanon",
+     "slug": "/themen/libanon"
+    },
+    {
+     "name": "Bashar al-Asad",
+     "slug": "/themen/bashar-alasad"
+    },
+    {
+     "name": "Gazastreifen",
+     "slug": "/themen/gazastreifen"
+    },
+    {
+     "name": "Hamas",
+     "slug": "/themen/hamas"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "«Why should we sacrifice the right to asylum if we can control irregular migration without breaking the law?» asks migration researcher Gerald Knaus",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "interview",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/5378d714-b68c-4171-ab4f-e0683e5fd48a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/5378d714-b68c-4171-ab4f-e0683e5fd48a.jpg?width=1024&quality=75&auto=webp",
+     "width": 1600,
+     "height": 2240,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1600,900,x0,y133"
+      },
+      {
+       "name": "4:3",
+       "crop": "1600,1200,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1600,1600,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1600,2133,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1600,1067,x0,y3"
+      }
+     ],
+     "focalPoint": {
+      "x": 773,
+      "y": 536
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+     "teaserAuthor": "Olesia Ponomarenko"
+    },
+    "teaserAuthor": "Olesia Ponomarenko",
+    "editor": "1629317",
+    "paywallQuestionOne": "How can Europe control irregular migration without sacrificing the right to asylum?",
+    "paywallQuestionTwo": "Are secure agreements with third countries a solution to the migration problem?",
+    "paywallQuestionThree": "Why is violence not a sustainable solution for border control in democracies?",
+    "nzzId": "ld.10021725",
+    "readingTime": 360,
+    "characterCount": 7987,
+    "product": "NZZ.ch",
+    "documentId": "10021725",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-01T02:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T04:08:48.552Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T14:30:00.000Z",
+    "teaserCaption": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+    "authorLine": "Beatrice Achterberg",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/02/02/bac65a52-2f61-46af-bf38-aba408bfa0a4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/deutschland/warum-sollten-wir-das-asylrecht-opfern-wenn-wir-irregulaere-migration-kontrollieren-koennen-ohne-recht-zu-brechen-fragt-migrationsforscher-gerald-knaus-ld.10021725",
+    "department": {
+     "name": "Homepage (Germany)",
+     "path": "/deutschland"
+    },
+    "estimationWordCount": 1182,
+    "leadText": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Peace process between Turkey and the Kurdistan Workers' Party (PKK) gains momentum",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/3dac773e-1fbe-4cfd-9575-e98f7e27fa7c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/3dac773e-1fbe-4cfd-9575-e98f7e27fa7c.jpg?width=1024&quality=75&auto=webp",
+     "width": 6960,
+     "height": 4640,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6960,3915,x0,y660"
+      },
+      {
+       "name": "4:3",
+       "crop": "6187,4640,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4218,4218,x1405,y191"
+      },
+      {
+       "name": "3:4",
+       "crop": "3480,4640,x1740,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6960,4640,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Following the Kurds' defeat on the battlefield, Erdogan wants to make concessions to them. Four working groups are to expedite the implementation of the amnesty law. However, it remains to be seen whether the concessions will extend beyond a mere leniency.",
+     "teaserAuthor": "Mehmet Masum Suer / Imago"
+    },
+    "teaserAuthor": "Mehmet Masum Suer / Imago",
+    "editor": "1374076",
+    "nzzId": "ld.10021283",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the PKK's military defeat affect the peace process?",
+    "paywallQuestionTwo": "What role does the amnesty law play in Kurdish reintegration?",
+    "paywallQuestionThree": "Can Erdogan's concessions truly lead to democratization?",
+    "characterCount": 4335,
+    "authorLine": "Andreas Ernst",
+    "product": "NZZ.ch",
+    "documentId": "10021283",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T06:55:17.437Z",
+    "publicationLastUpdated": "2026-08-31T08:08:40.263Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T18:55:17.437Z",
+    "teaserCaption": "Following the Kurds' defeat on the battlefield, Erdogan wants to make concessions to them. Four working groups are to expedite the implementation of the amnesty law. However, it remains to be seen whether the concessions will extend beyond a mere leniency.",
+    "url": "https://www.nzz.ch/international/der-friedensprozess-der-tuerkei-und-der-pkk-gewinnt-an-tempo-ld.10021283",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 651,
+    "premium": true,
+    "leadText": "Following the Kurds' defeat on the battlefield, Erdogan wants to make concessions to them. Four working groups are to expedite the implementation of the amnesty law. However, it remains to be seen whether the concessions will extend beyond a mere leniency.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "How can irregular migration to Europe be stopped, Gerald Knaus?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Machtspiel»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/6950034f-d34f-4a67-b016-353b7b348c1c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/6950034f-d34f-4a67-b016-353b7b348c1c.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y596"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y375"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x616,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y361"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He is one of the most renowned migration researchers in the German-speaking world. Austrian Gerald Knaus wants to outsource asylum procedures to «safe third countries.» In «NZZ Machtspiel,» Knaus explains how this is supposed to work."
+    },
+    "editor": "10006019",
+    "nzzId": "ld.10020751",
+    "readingTime": 60,
+    "paywallQuestionOne": "How can safe third countries prevent irregular migration?",
+    "paywallQuestionTwo": "Why does Gerald Knaus describe border controls as «theatrical politics»?",
+    "paywallQuestionThree": "How does Knaus view the right to asylum as part of European identity?",
+    "characterCount": 1913,
+    "product": "NZZ.ch",
+    "documentId": "10020751",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-27T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+    "teaserCaption": "He is one of the most renowned migration researchers in the German-speaking world. Austrian Gerald Knaus wants to outsource asylum procedures to «safe third countries.» In «NZZ Machtspiel,» Knaus explains how this is supposed to work.",
+    "authorLine": "",
+    "url": "https://www.nzz.ch/podcast/machtspiel/wie-kann-man-irregulaere-migration-nach-europa-beenden-gerald-knaus-ld.10020751",
+    "department": {
+     "name": "Power play",
+     "path": "/podcast/machtspiel"
+    },
+    "estimationWordCount": 297,
+    "leadText": "He is one of the most renowned migration researchers in the German-speaking world. Austrian Gerald Knaus wants to outsource asylum procedures to «safe third countries.» In «NZZ Machtspiel,» Knaus explains how this is supposed to work.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "How can irregular migration to Europe be stopped, Gerald Knaus?",
+    "teaserPodcastAuthor": "Beatrice Achterberg, Gerald Knaus",
+    "teaserPodcastDate": "27.08.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2580263-m-be0e60780fdf7c2424d5fd82a219f3cb.mp3",
+    "teaserPodcastDuration": "36",
+    "locale": "de-CH"
+   },
+   {
+    "title": "Osman Kavala case: Human Rights Court condemns Turkey",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2021/11/2/7cab39b8-d17f-4bae-8c1a-6f786f99da1d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/11/2/7cab39b8-d17f-4bae-8c1a-6f786f99da1d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 798,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "992,558,x105,y177"
+      },
+      {
+       "name": "4:3",
+       "crop": "1064,798,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "798,798,x67,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "599,798,x167,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1197,798,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 466,
+      "y": 307
+     },
+     "imageService": "fastly",
+     "teaserCaption": "More than seven years ago, the Strasbourg court demanded the release of Turkish cultural patron Kavala. Now the court finds further human rights violations.",
+     "teaserAuthor": "Reuters"
+    },
+    "teaserAuthor": "Reuters",
+    "nzzId": "ld.10020940",
+    "readingTime": 120,
+    "paywallQuestionOne": "Why is the ECHR demanding the immediate release of Osman Kavala?",
+    "paywallQuestionTwo": "How does the ECtHR assess the independence of Turkish courts in the Kavala case?",
+    "paywallQuestionThree": "What consequences does the ECHR ruling have for Turkey as a member of the Council of Europe?",
+    "characterCount": 3029,
+    "product": "NZZ.ch",
+    "documentId": "10020940",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T10:27:46.962Z",
+    "publicationLastUpdated": "2026-08-25T10:27:46.962Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-25T22:27:46.962Z",
+    "teaserCaption": "More than seven years ago, the Strasbourg court demanded the release of Turkish cultural patron Kavala. Now the court finds further human rights violations.",
+    "url": "https://www.nzz.ch/international/fall-osman-kavala-menschenrechtsgericht-verurteilt-tuerkei-ld.10020940",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 442,
+    "leadText": "More than seven years ago, the Strasbourg court demanded the release of Turkish cultural patron Kavala. Now the court finds further human rights violations.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Turkey and the Mecca Alliance: Ankara seeks regional security",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Europa",
+     "Krieg in Nahost"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/d3d022bd-19f9-43e3-9eb5-66b08a8994c8.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/d3d022bd-19f9-43e3-9eb5-66b08a8994c8.jpg?width=1024&quality=75&auto=webp",
+     "width": 4722,
+     "height": 3167,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4293,2415,x220,y752"
+      },
+      {
+       "name": "4:3",
+       "crop": "4223,3167,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "917,917,x2164,y798"
+      },
+      {
+       "name": "3:4",
+       "crop": "1622,2163,x1762,y665"
+      },
+      {
+       "name": "3:2",
+       "crop": "4722,3148,x0,y19"
+      }
+     ],
+     "focalPoint": {
+      "x": 2760,
+      "y": 2305
+     },
+     "imageService": "fastly",
+     "teaserCaption": "By joining the Mecca Pact, Turkey is not abandoning NATO. Instead, Ankara seeks to close security gaps and find new partners.",
+     "teaserAuthor": "Murat Cetinmuhurdar/PPO via Reuters"
+    },
+    "teaserAuthor": "Murat Cetinmuhurdar/PPO via Reuters",
+    "paywallQuestionOne": "Why is Turkey striving to expand the Mecca alliance?",
+    "paywallQuestionTwo": "How does the rivalry with Israel influence Turkish foreign policy?",
+    "paywallQuestionThree": "What role does the Mecca Pact play in Turkey's strategic autonomy?",
+    "showComments": true,
+    "nzzId": "ld.10019519",
+    "readingTime": 240,
+    "characterCount": 6129,
+    "product": "NZZ.ch",
+    "documentId": "10019519",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-21T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T15:30:00.000Z",
+    "teaserCaption": "By joining the Mecca Pact, Turkey is not abandoning NATO. Instead, Ankara seeks to close security gaps and find new partners.",
+    "authorLine": "Nicole Anliker, Istanbul",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/0fa9ee7c-9745-4631-b30a-193344bc8d89.jpeg?crop=3164,3164,x791,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/die-tuerkei-und-das-mekka-buendnis-ankara-will-sich-regional-absichern-ld.10019519",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 833,
+    "premium": true,
+    "leadText": "By joining the Mecca Pact, Turkey is not abandoning NATO. Instead, Ankara seeks to close security gaps and find new partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020882",
+    "name": "Israel's bombing of Syria, targeting Turkey",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Israel's bombing of Syria, targeting Turkey",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1733196,
+       "name": "Johannes Bockenheimer",
+       "shortName": "JCB",
+       "pianoId": "9747df19-123a-49be-ac62-5a6dd59c79af",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T11:18:59.802Z",
+     "updateTimestamp": "2026-08-25T12:45:19.263Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020882",
+   "pageType": "longformstandard",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Attack on Syria: Israel's message to Turkey",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/56621473-be9d-4945-afa8-b161a13ee2df.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1749,984,x128,y124&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Johannes C. Bockenheimer, Tel Aviv",
+  "description": "Israel's new doctrine: Idlib attack risks NATO confrontation, raises doubts",
+  "news_keywords": "Israel bombs Syria and targets Turkey, International, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T16:45:19+02:00",
+  "date": "2026-08-25T15:18:59+02:00",
+  "canonical": "https://www.nzz.ch/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Israel's bombing of Syria, targeting Turkey",
+  "ogTitle": "Attack on Syria: Israel's message to Turkey",
+  "ogUrl": "https://www.nzz.ch/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882",
+  "mrf:cms_id": "nzz:ld.10020882",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020882",
+  "nzzAuthors": [
+   {
+    "id": 1733196,
+    "name": "Johannes Bockenheimer",
+    "shortName": "JCB",
+    "pianoId": "9747df19-123a-49be-ac62-5a6dd59c79af",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:46 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Attack on Syria: Israel's message to Turkey"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882"
+   },
+   "headline": "Attack on Syria: Israel's message to Turkey",
+   "datePublished": "2026-08-25T15:18:59+02:00",
+   "dateModified": "2026-08-25T16:45:19+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Israel's new doctrine: Idlib attack risks NATO confrontation, raises doubts",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/56621473-be9d-4945-afa8-b161a13ee2df.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1749,984,x128,y124&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Johannes Bockenheimer"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 451776,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/israel-bombardiert-syrien-und-zielt-auf-die-tuerkei-ld.10020882",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020882",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-08-25T11:18:59.802Z",
+   "ContentAuthor": "Johannes C. Bockenheimer, Tel Aviv",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Warum bombardierte Israel den syrischen Flugplatz Abu al-Duhur?\nWie beeinflusst der israelisch-türkische Machtkampf die Region?\nWelche Risiken birgt Israels neue Sicherheitsdoktrin?",
+   "ldId": "ld.10020882",
+   "channel": "International",
+   "heading": "Israel bombardiert Syrien und zielt auf die Türkei",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

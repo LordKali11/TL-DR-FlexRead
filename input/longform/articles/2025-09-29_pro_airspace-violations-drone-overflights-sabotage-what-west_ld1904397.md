@@ -1,0 +1,79 @@
+# Airspace violations, drone overflights, sabotage – what the West must now do about the Russian provocations
+
+*The sense of security among citizens in Europe is increasingly eroding. Germany and other states must act more decisively to prevent their populations from completely losing trust in the state.*
+
+**Marco Seliger, Berlin** · Pro · 2025-09-29 · 1610 words · [ld.1904397](https://www.nzz.ch/pro/russische-nadelstiche-und-provokationen-wie-europa-jetzt-reagieren-ld.1904397)
+
+![Two Russian MiG-31 fighter jets, here not in Estonian airspace, but during the Zapad 2025 exercise.](https://img-msp-prod.nzz.ch/2025/09/26/bd5a5ff3-67a6-4c95-b433-74983f39022a.jpg?crop=2019,1514,x440,y0)
+*Two Russian MiG-31 fighter jets, here not in Estonian airspace, but during the Zapad 2025 exercise.* (Russian Defense Ministry / Keystone)
+
+Russian fighter jets are penetrating Estonian airspace. Russian drones are landing in Poland. Russian fighter jets are flying dangerously low over a German frigate in the Baltic Sea. Danish and Norwegian airports are forced to suspend operations because illegal drones, presumably commissioned by Russia, are circling the runways. In Germany, suspected acts of sabotage against railway infrastructure are increasing, sometimes resulting in line closures and train cancellations lasting for days.
+
+All of this has happened repeatedly in recent weeks. These are not large-scale military strikes, not acts of war. But they are targeted, confirmed, or presumably Russian pinpricks. They leave behind images of MiG fighter jets flying seemingly unhindered through NATO territory, of state-of-the-art F-35s firing expensive missiles at cheap drones, of closed airports, of police officers on Danish runways and German railway tracks.
+
+These are images that sear themselves into the collective consciousness. They generate uncertainty and fear, make people doubt whether the state is still in control, and erode trust. This is precisely the goal of hybrid attacks. The attackers don't operate with tanks on the battlefield, but rather want to create a climate in which people believe their country's institutions can no longer protect them. Much remains vague, and attribution is often ambiguous. In such an atmosphere, people react increasingly irrationally.
+
+## The public's sense of security is suffering
+
+The Russian attacks on various NATO states, some proven, others suspected, have demonstrated that Europe still lacks the capacity to adequately defend itself. This is not simply about repelling physical or digital attacks. The real challenge lies in restoring the public's sense of security. Only when the population is convinced that its government is capable of acting effectively will this major shift in security policy have a chance of succeeding.
+
+Germany and other European states are facing a fundamental reorganization of their foreign and security policies today, much like in the years following World War II and the fall of the Berlin Wall. The three-pronged approach of American protection, cheap Russian raw materials, and Chinese markets is no longer working. The US is redefining its role in the world, while the European Union is struggling with internal cohesion. This is a dangerous situation.
+
+NATO repeatedly points to the year 2029, when, according to the organization's assessment, the regime in Russia could attack one of its member states. Against this backdrop, not only state budgets and armies must be adapted to the new risks, but also Western societies. Without a resilient «home front,» the concept of military readiness remains mere rhetoric.
+
+## Building trust through three measures
+
+This is the crux of the problem, which has become particularly evident in recent weeks: The unease among Western populations stems less from descriptions of the general threat situation than from very concrete disruptions in everyday life; airports closed for hours because of illegal drones controlled by unknown individuals, railway shutdowns because criminals have set fire to cable ducts, or photos of Russian drones on Polish territory – these directly impact people's sense of security. It is the small but visible incidents that undermine public confidence.
+
+![Danish police officers at the edge of the runway at Kastrup Airport after illegal drones appeared there and flight operations had to be temporarily suspended.](https://img-msp-prod.nzz.ch/2025/09/26/a7bfc286-4cc0-467b-9c2f-22d2ddc690f3.jpg?width=1024)
+*Danish police officers at the edge of the runway at Kastrup Airport after illegal drones appeared there and flight operations had to be temporarily suspended.* (Johan Nilsson / Imago)
+
+What is needed now is a three-pronged approach: preventing further attacks, quickly containing disruptions, and providing transparent information.
+
+All three measures are needed in the airspace. People need to see that NATO can control its airspace. Three Russian jets circling undisturbed in the sky over Estonia for twelve minutes before being forced to turn away seems frighteningly long to many people. Perhaps NATO should henceforth keep fighter jets permanently airborne along its eastern flank, instead of «only» having them on standby on the ground.
+
+Furthermore, effective drone defense is needed: at military bases, airports, and critical infrastructure. These must be systems capable of detecting, jamming, and, if necessary, shooting down or otherwise bringing down drones. This requires clear rules: Who is authorized to jam a drone, and when? Who is authorized to shoot it, and when?
+
+Then there's the legal dimension. When seconds count, as in dealing with an illegal drone, authorities can't afford to wait to determine jurisdiction. In Germany, a corresponding amendment to the Air Security Act has so far failed because the Bundestag was unable to function for months due to the collapse of the coalition government. The new government now intends to introduce the revised law to parliament in the coming weeks. Until it's passed, however, the powers to disrupt and shoot down drones in Germany remain unclear.
+
+Uncertainty among security authorities immediately spreads to the population. No airport should remain closed for long, regardless of how many drones appear. Daily life in Israel demonstrates that people's sense of security doesn't stem from absolute invulnerability, but from reliable procedures in crisis situations. These procedures help prevent restrictions.
+
+## NATO needs to better explain its approach
+
+After Russian fighter jets were allowed to fly through NATO airspace for several minutes, questions arose as to how this was possible and why these aircraft weren't simply shot down. It is presumed to be a deliberate provocation by the Russians. However, NATO could have provided a better explanation for its actions.
+
+The relevant regulations state that the use of force is the «last resort» and is handled with the utmost restraint. A shootdown is only permissible in the case of a clearly identifiable hostile act or imminent threat. Furthermore, it must be authorized by the government that dispatched the NATO aircraft or by the NATO Supreme Allied Commander.
+
+NATO could have stated that it had agreed upon common principles and rules for such situations. These apply in peacetime, including now. NATO is not at war with Russia. Accordingly, defense, de-escalation, and territorial integrity are the primary objectives of air policing. The goal is to prevent an armed conflict if at all possible.
+
+This may not be satisfying for many who want a tougher stance against Russia. But it explains why NATO in Estonia «merely» attempted to intercept the Russian aircraft and escort them out of its own airspace. President Donald Trump recently expressed support for shooting down Russian aircraft if they violate NATO airspace. However, whether he, as commander-in-chief of the American armed forces, would actually issue such an order remains to be seen.
+
+Turkey experienced the potential consequences of such actions in 2015. At that time, it shot down a Russian fighter jet that had briefly entered Turkish airspace from Syria. This resulted in a serious diplomatic crisis. The question is whether, given today's highly tense security situation, Trump and NATO would have preferred to avoid a repeat of that scenario.
+
+Russian airspace violations, drones flying over European airports, acts of sabotage on railways or underwater pipelines – none of these are necessarily harbingers of a hot war. But they are tools for sowing uncertainty. Europe's defense must therefore be two-pronged.
+
+## The railway company plans to increase its security personnel
+
+Trust is also crucial on the ground. Cable ducts, substations, and chemical plants cannot be completely monitored, but they can be more targeted than before. Increased lighting, surveillance cameras, redundancies in the railway's signaling network, and regular nighttime patrols by the police and private security services should significantly improve security. Deutsche Bahn has clearly understood this. It intends to increase its security personnel , who will be specifically deployed to protect the rail network.
+
+The railway, for example, can hardly protect its 34,000-kilometer network effectively and completely. But it does have repair teams that it can send to sites of sabotage. Often, however, it takes several days to repair the damage. Citizens often don't know the specifics of the situation. This leads to the spread of rumors.
+
+It is equally important that the police, intelligence services, and businesses work together. Information about the various incidents must be collected and analyzed in one place so that patterns can be identified. The public should be informed of the findings of this work. Citizens can help prevent attacks. To do so, however, they need to know what to look out for and to whom to report what.
+
+Communication is at the heart of every protection and defense strategy. Silence and contradictory messages are poison for people's sense of security. People are more likely to accept disruptions if they know what has happened, what the danger is, and how long it will take for operations at, for example, an airport or railway to return to normal.
+
+## Russian espionage activities on the coasts
+
+Numerous incidents on coastlines, in ports, and underwater have caused concern and uncertainty in recent years. Illegal drones, presumably of Russian origin, have repeatedly appeared over offshore wind farms in the North Sea, chemical plants on the coast, and the Kiel Canal. Many of these drones were likely launched from ships.
+
+German police recently searched a Russian freighter in the Kiel Canal near Kiel, from which spy drones were suspected to have been launched. Following the appearance of drones over Danish and Norwegian airports, a Russian warship was discovered that had anchored undetected off the Danish coast for several days. The drones may have originated from there.
+
+These are just examples of suspected Russian espionage activity on European coasts. More intensive controls in anchorage areas off port cities are therefore just as essential as patrols above and below water along pipelines and data cables. NATO and civilian security agencies have already begun implementing these measures. They must become routine. Combating Russia's hybrid attacks is likely to be a costly and lengthy undertaking.
+
+Firstly, it is essential to prevent minor disruptions from paralyzing daily life, both technically and organizationally. Secondly, those in charge must explain what is happening and how they intend to respond. This creates the most important effect in crisis situations: people feel that their safety is being taken seriously. Then they are also willing to accept restrictions. And they don't immediately panic when a serious emergency occurs.
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Russian provocations, such as airspace violations, drone flyovers, and sabotage, are unsettling European populations and aim to erode trust in state institutions.
+- Experts call for measures like permanent air patrols, more effective drone defense systems, and better coordination of security information to restore public confidence.
+- Clear communication, legal adjustments, and coordinated strategies between police, intelligence services, and businesses are essential to effectively counter hybrid threats.

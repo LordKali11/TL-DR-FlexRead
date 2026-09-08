@@ -1,0 +1,2197 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1k0uoh8gd0",
+   "content": {
+    "title": "Suffering fish, stranded trucks, and grounded ships – how the state of emergency changes life on Lake Zurich",
+    "lead": "Unprecedented drought at Lake Zurich: Drastic consequences from an exceptional summer of heat",
+    "image": {
+     "author": "A seagull on a sandbank in Lake Zurich, on Thursday, August 20, 2026, in Zurich. Lake Zurich has broken a 74-year-old record low water level. The water level at the official measuring station near the Zürichhorn fell to 405.45 meters above sea level. This is about half a meter lower than usual for August. The previous low of 405.46 meters was recorded in March 1952. (KEYSTONE/Andreas Becker)",
+     "caption": "A seagull on a sandbank in Lake Zurich, on Thursday, August 20, 2026, in Zurich. Lake Zurich has broken a 74-year-old record low water level. The water level at the official measuring station near the Zürichhorn fell to 405.45 meters above sea level. This is about half a meter lower than usual for August. The previous low of 405.46 meters was recorded in March 1952. (KEYSTONE/Andreas Becker)",
+     "originalUrl": "/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?crop=7219,4813,x0,y0",
+     "width": 7219,
+     "height": 4813,
+     "altText": "A seagull on a sandbank in Lake Zurich, on Thursday, August 20, 2026, in Zurich. Lake Zurich has broken a 74-year-old record low water level. The water level at the official measuring station near the Zürichhorn fell to 405.45 meters above sea level. This is about half a meter lower than usual for August. The previous low of 405.46 meters was recorded in March 1952. (KEYSTONE/Andreas Becker)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180134912"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7219,
+      "height": 4813,
+      "name": "desktop"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7219,
+       "height": 4813,
+       "name": "desktop"
+      },
+      {
+       "x": 1805,
+       "y": 0,
+       "width": 3610,
+       "height": 4813,
+       "name": "tablet",
+       "isAutomatic": true
+      },
+      {
+       "x": 2256,
+       "y": 0,
+       "width": 2707,
+       "height": 4813,
+       "name": "mobile",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "Andreas Becker/Keystone",
+    "caption": "",
+    "author": ""
+   },
+   "data": {},
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0uoh8gd2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Claudia Rey",
+       "url": "/impressum/claudia-rey-ld.1105931",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0uohvk10",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Tobias Marti",
+       "url": "/impressum/tobias-marti-ld.1735278",
+       "teaserImage": {
+        "originalUrl": "/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0uoi2bn0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Fabian Baumgartner",
+       "url": "/impressum/fabian-baumgartner-ld.1086094",
+       "teaserImage": {
+        "originalUrl": "/2024/05/28/c1be84e1-cf24-426f-b7ee-e1e6194c575b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/28/c1be84e1-cf24-426f-b7ee-e1e6194c575b.png?width=1024&quality=75&auto=webp",
+        "width": 320,
+        "height": 320,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "320,180,x0,y70"
+         },
+         {
+          "name": "1:1",
+          "crop": "320,320,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "320,240,x0,y40"
+         },
+         {
+          "name": "3:4",
+          "crop": "240,320,x40,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s25gh70",
+   "content": {
+    "text": "Michel Péclard stands at the helm of his motorboat and turns right. Before him, a green carpet floats on the waters of Lake Zurich. The seagrass covers an area of several football fields near the shore."
+   },
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-814130e4",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sdrhun0",
+   "content": {
+    "text": "The celebrity restaurateur, who runs eleven establishments on Lake Zurich alone, says: «It has never proliferated like this summer. I have never seen anything like it.»"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0se0j8l0",
+   "content": {
+    "text": "For swimmers, it is unpleasant when the plants wrap around their legs. For stand-up paddlers, they are annoying. For boats, they can become a problem. If the seagrass gets into the propeller, forward motion eventually stops."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0uop07j1",
+   "content": {
+    "image": {
+     "author": "Andreas Becker/Keystone",
+     "caption": "The water level of Lake Zurich reached a historic low on Aug. 18: 405.45 meters above sea level. Despite showers, the level has only risen by a few centimeters.",
+     "originalUrl": "/2026/08/20/391dbfae-08a7-4a04-8775-75749c50361f.jpg?crop=8129,5419,x0,y0",
+     "width": 8129,
+     "height": 5419,
+     "altText": "The current record low water level is visible on a wall along the shore of Lake Zurich on Thursday, August 20, 2026, in Zurich. Lake Zurich has broken a 74-year-old record low. The water level at the official measuring station near the Zürichhorn fell to 405.45 meters above sea level. This is about half a meter lower than usual for August. The previous low of 405.46 meters was recorded in March 1952. (KEYSTONE/Andreas Becker)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180134918"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 8129,
+      "height": 5419,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 8129,
+       "height": 5419,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The water level of Lake Zurich reached a historic low on Aug. 18: 405.45 meters above sea level. Despite showers, the level has only risen by a few centimeters.",
+    "author": "Andreas Becker/Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0se3fhm1",
+   "content": {
+    "text": "Such seagrass fields could be a sight to get used to on Lake Zurich. The canton stopped operating its mowing boat in fall 2025. The boat was popularly called «Seekuh» (sea cow) and was sold to Morges on Lake Geneva. It was hardly used anymore. Due to high water quality, the Seekuh only had to be deployed two days a year recently. Now it might prove quite useful again."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ptu0kh0",
+   "content": {
+    "text": "The lush growth of aquatic plants is related to the water level. The water level of Lake Zurich reached a historic low on Aug. 18: 405.45 meters above sea level. This is about half a meter less than is usual in summer. The previous lowest value, 405.46 meters, was measured more than 70 years ago, in March 1952. At that time, the weir at Zurich's Platzspitz, which regulates the lake, had just been put into operation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sf09911",
+   "content": {
+    "text": "Even rain cannot change the state of emergency at the moment. Despite some showers, the lake level has only risen by a few centimeters in recent days. According to the Department of Public Works, it was at 405.53 meters on Wednesday. For a sustained recovery, it would need far more rainy periods."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s29r450",
+   "content": {
+    "text": "The drought has consequences. Not only for fish and other creatures in the lake but also for those who live and work by the canton's largest body of water."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "datawrapper"
+  },
+  {
+   "identifier": "datawrapper",
+   "id": "doc-1k0q1l2th0",
+   "content": {
+    "html": {
+     "service": "free-html",
+     "params": {
+      "embedCode": "<iframe title=\"Wenig Wasser im Zürichsee\" aria-label=\"Liniendiagramm\" id=\"datawrapper-chart-OY9jY\" src=\"https://datawrapper.dwcdn.net/OY9jY/2/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"529\" data-external=\"1\"></iframe><script type=\"text/javascript\">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>"
+     },
+     "resolvedValue": {
+      "html": "<iframe title=\"Wenig Wasser im Zürichsee\" aria-label=\"Liniendiagramm\" id=\"datawrapper-chart-OY9jY\" src=\"https://datawrapper.dwcdn.net/OY9jY/2/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"529\" data-external=\"1\"></iframe><script type=\"text/javascript\">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0s4ri300",
+   "content": {
+    "title": "Unexpected problems",
+    "id": "subtitle-unerwartete-probleme"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "datawrapper",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ptq2s31",
+   "content": {
+    "text": "Adrian Meier looks from Horgen harbor toward Meilen this Aug. morning. He has worked for the Lake Zurich ferry for 23 years, now as head of technology and deputy managing director. Meier, with a baseball cap on his head and an imperturbable gaze, says he has never experienced anything like it. He reports on stranded trucks and unexpected problems faced by his colleagues."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pvi6lk0",
+   "content": {
+    "text": "Since 1932, the ferries have connected the Gold Coast and the Pfnüsel Coast, with a 10-minute travel time. Depending on the route, motorists can save 45 minutes of driving and a lot of stress."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ptu0ki0",
+   "content": {
+    "text": "However, ferry employees recently had to turn away vehicles for the first time. The lower the water level, the steeper the ramp over which cars, trucks, and bicycles drive onto and off the ship. Currently, it is so steep that trucks and lowered sports cars get stuck. It's a problem they had never encountered before in ferry operations."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0umutoq1",
+   "content": {
+    "image": {
+     "author": "NZZ",
+     "caption": "The lower the water level, the steeper the ramp over which cars, trucks, and bicycles drive onto the Lake Zurich ferry.",
+     "originalUrl": "/2026/08/26/0c795fd6-2040-4ad0-9d4f-f2c73570c75d.jpg?crop=4032,3024,x0,y0",
+     "width": 4032,
+     "height": 3024,
+     "altText": "Horgen ferry August 2026",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180226980"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4032,
+      "height": 3024,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4032,
+       "height": 3024,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The lower the water level, the steeper the ramp over which cars, trucks, and bicycles drive onto the Lake Zurich ferry.",
+    "author": "NZZ"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ptu0ki2",
+   "content": {
+    "text": "This has not led to conflicts so far, Meier says: «We can't help it that the water level is so low. And if we then have damage, nobody benefits from it.» They only allow sports car drivers onto the ship at their own risk. «Some know their car very well and know how to slalom over the ramp without getting caught.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ptu0kj3",
+   "content": {
+    "text": "There are problems not only for guests but also for the Lake Zurich ferry team. Meier says that the shorter employees sometimes have hardly been able to reach the ramp's control buttons on land from the ferry because the ship is so far down."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ptu0kj5",
+   "content": {
+    "text": "«Nobody expected such a low water level,» says Meier, who has already experienced numerous storms and floods on Lake Zurich. Structurally, he explains, the ferry operation was only prepared for high water. Therefore, the pillars in the water had to be clad provisionally. Now, wooden protective rails are intended to prevent ships from being torn open upon contact with the pillars."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0va9i451",
+   "content": {
+    "text": "Last week in Meilen, a truck also got stuck while disembarking from the ferry. However, a solution was still found, Meier says: «We provisionally built a ramp and got it out that way.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pu03h30",
+   "content": {
+    "text": "At least the worst case has not occurred, Meier says. The canton recently predicted that the water level could drop by another 20 centimeters by the end of the month, but now it has even risen a little. «Otherwise, it would have become critical for us,» says Meier. Similar to Obersee, where ferry operations have been suspended since Aug. 8."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0s63rul0",
+   "content": {
+    "title": "Ship captains on sandbanks and dry harbors",
+    "id": "subtitle-schiffskapit-ne-auf-sandb-nken-und-trockengefallene-h-fen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s63lac0",
+   "content": {
+    "text": "The consequences of the drought are now visible everywhere around the lake. In Horgen, the floating pool of the sports complex on Lake Zurich ran aground. Diving platforms and slides in lidos had to be temporarily closed because the water is no longer deep enough. Some harbor facilities around the lake can no longer be approached. Ships lie dry. Boat captains are struggling with unexpected shallows."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s63jp50",
+   "content": {
+    "text": "Suddenly, things become visible that normally no one thinks about. For example, small sandbanks in the shallow shore area or concrete blocks on which the fender piles of the ship berths stand. Normally, the foundations lie deep enough underwater. But with the falling water level, they came closer and closer to the ship hulls. This became a problem at the Ufnau peninsula. The ships of the Lake Zurich Navigation Company (ZSG) could no longer dock."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0un8hjf0",
+   "content": {
+    "image": {
+     "author": "Andreas Becker/Keystone",
+     "caption": "Suddenly, things become visible that normally no one thinks about. For example, sandbanks in the shallow shore area or concrete blocks on which the fender piles of the ship berths stand.",
+     "originalUrl": "/2026/08/20/fc6c18cd-b1e7-4b48-966f-6b4369c9860b.jpg?crop=8255,5503,x0,y0",
+     "width": 8255,
+     "height": 5503,
+     "altText": "People enjoy the sun on rocks along the shore of Lake Zurich on Thursday, August 20, 2026, in Zurich. Lake Zurich has broken a 74-year-old record low water level. The water level at the official measuring station near the Zürichhorn fell to 405.45 meters above sea level. This is about half a meter lower than usual for August. The previous record low of 405.46 meters was set in March 1952. (KEYSTONE/Andreas Becker)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180134922"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 8255,
+      "height": 5503,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 8255,
+       "height": 5503,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Suddenly, things become visible that normally no one thinks about. For example, sandbanks in the shallow shore area or concrete blocks on which the fender piles of the ship berths stand.",
+    "author": "Andreas Becker/Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s63jp70",
+   "content": {
+    "text": "An unpleasant situation for restaurateur Michel Péclard, who runs a restaurant on Ufnau. His guests arrive by ship. A solution was needed. Last week, the ZSG had the piles at the jetty clad with wood. This means the ships remain 20 centimeters further away from the foundation. A simple solution for a problem that had not existed in this form for a long time."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s63jp80",
+   "content": {
+    "text": "Otherwise, improvisation skills are required on Lake Zurich this summer. Sascha Gattiker knows this. He runs the Wakeboard Academy in Wollishofen. Normally, his customers board the boat directly at his jetty. Currently, that is not possible. The water there is so shallow that the boats could be damaged. Gattiker therefore picks up his guests in the neighboring harbor. Because this costs time, he can take fewer customers and makes less revenue."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s63jpa0",
+   "content": {
+    "text": "Then there's the way into the boat. The further the water level falls, the greater the height difference between the jetty and the water. Previously, guests simply boarded. «Today, guests almost have to jump into the boat,» says Gattiker."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0s50e360",
+   "content": {
+    "title": "Winter already too dry",
+    "id": "subtitle-schon-der-winter-war-zu-trocken"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s7aoka0",
+   "content": {
+    "text": "It was already too dry much earlier this year. The canton therefore throttled the outflow into the Limmat River for the first time in winter; in June, it reduced the outflow quantity again. In mid-July, it was finally reduced to 30 cubic meters per second."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sg6oha1",
+   "content": {
+    "text": "The option of further reducing the outflow was discussed. However, according to the Department of Public Works, this was rejected because the outflow was already so low. This represented a great strain on fish and other aquatic life in the Limmat. The situation was further exacerbated by high water temperatures, which were above 25 degrees between late June and mid-August."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0uom5c50",
+   "content": {
+    "image": {
+     "author": "Andreas Becker/Keystone",
+     "caption": "High water temperatures above 25 degrees and the low outflow of the Limmat River are becoming a burden for fish and crabs.",
+     "originalUrl": "/2026/08/17/520ae23d-e139-4744-a8e1-d133e1d40f36.jpg?crop=8248,5499,x0,y0",
+     "width": 8248,
+     "height": 5499,
+     "altText": "The low water level of the Limmat River at the Zurich Limmatquai station on Wednesday, August 12, 2026, in Zurich. Due to the low water level, the Zurich Lake Shipping Company (ZSG) has had to cancel several services and can no longer serve some stations until further notice. The boat tour on the Limmat has been suspended. (KEYSTONE/Andreas Becker)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180012364"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 8248,
+      "height": 5499,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 8248,
+       "height": 5499,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "High water temperatures above 25 degrees and the low outflow of the Limmat River are becoming a burden for fish and crabs.",
+    "author": "Andreas Becker/Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s74n2b0",
+   "content": {
+    "text": "According to the canton, the river currently carries just enough water to prevent the situation from escalating further. The rain showers have so far only brought temporary relief. In addition, many other rivers or streams in the canton carry hardly any water or have even completely dried up in places. This has serious consequences for the ecosystems around the waters, the Department of Public Works writes."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1t7a0",
+   "content": {
+    "text": "Lukas Bammatter stands on the Hardturm jetty in Zurich, looking down at the Limmat. The co-head of the cantonal Fisheries and Game Administration can easily see the bottom of the river — and that is not a good sign."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1ooc0",
+   "content": {
+    "text": "The lower the outflow volume in the river, the higher the losses among fish. This is partly due to high water temperatures. From 22 degrees, stress begins for cold-loving species such as grayling or river trout. «Their metabolism runs at full speed; it's like being permanently in a sauna,» says Bammatter. From 25 degrees, it becomes critical; at 27 degrees, the fish die."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1ook0",
+   "content": {
+    "text": "The warm water is compounded by stress caused by swimmers or rubber boats on the Limmat. Because of the low water, the fish lack the deep spots that serve as their refuge. To avoid people, they constantly swim from one bank to the other, which takes a toll on their reserves."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1oon0",
+   "content": {
+    "text": "What concerns Bammatter this summer is that despite the difficult conditions, he receives few reports of dead fish. However, this does not mean that grayling and trout are doing well against expectations, he says, but rather that there are significantly fewer of them."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv6qpd1",
+   "content": {
+    "text": "In the High Rhine, the grayling population has not recovered from the massive losses in the hot summer of 2003. At that time, around 20 tons of the heat-sensitive fish died. Today, the grayling population in the Rhine is estimated at less than 5% of the 2003 population."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v9mbf00",
+   "content": {
+    "text": "Annual surveys of grayling fry indicated a slight recovery of populations across the canton in recent years. However, it is feared that this summer of heat will undo the positive development."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1oop0",
+   "content": {
+    "text": "But even species like the barbel, which copes comparatively well with higher water temperatures, are increasingly retreating to cooler sections of water. In the lower reaches of the Sihl, it is significantly rarer to find them today, Bammatter says. However, they are more frequently observed in the cooler upper reaches near the cantonal border with Schwyz, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1oos0",
+   "content": {
+    "text": "However, what employees of the cantonal Fisheries Administration have hardly done since 2018 are emergency fish removals. That is, relocating fish when no more water flows in a section of a stream. This only worsens the situation at the new location where the fish are released, Bammatter says."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v9qe7e1",
+   "content": {
+    "text": "Many fish in drying streams are already severely weakened. An emergency fish removal, in which fish are stunned with electricity, means additional stress. At the release site, competition for already scarce habitat and food is exacerbated. Predators like the gray heron then have an easy time with the concentrated fish. Emergency fish removals are therefore only carried out today in justified exceptional cases."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1op20",
+   "content": {
+    "text": "Bammatter and his team are trying to improve the situation in another way, for example by establishing cold water zones. These are cooler river areas fed by streams or groundwater. One such protected shore area, which is taboo for swimmers, is located near the Chuetränki in Rheinau on the Rhine. Here, fish find a vital refuge on hot days. There is also such a zone in the Limmat, in the mouth area of the Rietbach near Dietikon."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uvfshl1",
+   "content": {
+    "text": "Using helicopters and thermal imaging cameras, ZHAW researchers are currently searching for further cold water zones on Zurich rivers. On this basis, it is conceivable that the canton will establish further zones in the future. But Bammatter is aware that this can at best provide relief for a few weeks. In a pronounced summer of heat like 2026, however, the effect of such measures is limited."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uv1op50",
+   "content": {
+    "text": "This is the current situation for flora and fauna in Zurich's rivers. Only for fish in Lake Zurich is the situation less problematic. They can still retreat to deeper layers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0ptq2s32",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0ptq2s33",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0ptq2s34",
+      "content": {
+       "title": "Lake Zurich is getting warmer: This particularly pleases jellyfish and shrimp",
+       "showHeader": false,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Jasmin Hegetschweiler (illustration), Samuel Meier (text), Nicolas Staub (development)",
+       "nzzId": "ld.10019542",
+       "readingTime": 60,
+       "embeds": {
+        "videos": [
+         {
+          "id": "BOK800Q1",
+          "provider": "jw",
+          "teaser": true
+         }
+        ]
+       },
+       "paywallQuestionOne": "How does warming affect the ecosystems of Lake Zurich?",
+       "paywallQuestionTwo": "What role does the Limnological Institute play in research?",
+       "paywallQuestionThree": "What measures could protect the lake from further damage?",
+       "characterCount": 176,
+       "videoTeaser": "BOK800Q1",
+       "teaserImage": {
+        "originalUrl": "/2026/08/14/c30db5ad-792c-4336-878a-a52c3275f027.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/c30db5ad-792c-4336-878a-a52c3275f027.jpg?width=1024&quality=75&auto=webp",
+        "width": 1800,
+        "height": 1012,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1800,1012,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1349,1012,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "759,1012,x41,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1518,1012,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "From icy winters to hot summers: A visual dive"
+       },
+       "tags": [
+        "Visuals",
+        "Wissenschaft aktuell",
+        "Klima, Umwelt, Erde"
+       ],
+       "product": "NZZ.ch",
+       "documentId": 10019542,
+       "layout": "headlesslongformvisual",
+       "publicationDate": "2026-08-15T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-20T15:40:06.302Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-15T15:30:00.000Z",
+       "teaserCaption": "From icy winters to hot summers: A visual dive",
+       "authorImage": {
+        "originalUrl": "/2025/09/01/af4e978f-5cd9-4c95-bc27-cfa694de9f03.jpg?crop=1376,1376,x344,y0",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/01/af4e978f-5cd9-4c95-bc27-cfa694de9f03.jpg?crop=1376,1376,x344,y0&width=1024&quality=75&auto=webp",
+        "width": 2064,
+        "height": 1376,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 344,
+         "y": 0,
+         "width": 1376,
+         "height": 1376
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/01/af4e978f-5cd9-4c95-bc27-cfa694de9f03.jpg?crop=1376,1376,x344,y0&width=1024&quality=75&auto=webp",
+       "url": "/visuals/der-see-stirbt-es-lebe-der-see-ld.10019542",
+       "department": {
+        "name": "Visual Stories",
+        "path": "/visuals"
+       },
+       "estimationWordCount": 62,
+       "leadText": "From icy winters to hot summers: A visual dive",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0ptq2s35",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "characterCount": 11360,
+       "teaserImage": {
+        "originalUrl": "/2025/07/10/d4685b47-3d13-447c-a0ca-d425b55c79ba.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/10/d4685b47-3d13-447c-a0ca-d425b55c79ba.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y234"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x18,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2727,2727,x963,y160"
+         },
+         {
+          "name": "3:4",
+          "crop": "2994,3992,x1096,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x6,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Are there illegal conditions on Lake Zurich? A busy boater is arguing with celebrity restaurateur Michel Péclard.",
+        "teaserAuthor": "Dominic Nahr / NZZ"
+       },
+       "teaserAuthor": "Dominic Nahr / NZZ",
+       "title": "Dispute among freshwater captains: A boat trip for Heidi Klum sparked a years-long dispute in Zurich",
+       "nzzId": "ld.10009732",
+       "readingTime": 540,
+       "paywallQuestionOne": "How does the dispute over boat tours affect regulation on Lake Zurich?",
+       "paywallQuestionTwo": "What arguments do Péclard and Oppelt put forward in the conflict over commercial activity?",
+       "paywallQuestionThree": "Why does the implementation of the regulations on Swiss lakes remain controversial?",
+       "product": "NZZ.ch",
+       "documentId": 10009732,
+       "layout": "longformstandard",
+       "publicationDate": "2026-07-23T03:00:00.000Z",
+       "publicationLastUpdated": "2026-07-23T08:29:55.699Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-23T15:00:00.000Z",
+       "teaserCaption": "Are there illegal conditions on Lake Zurich? A busy boater is arguing with celebrity restaurateur Michel Péclard.",
+       "authorLine": "Tobias Marti",
+       "authorImage": {
+        "originalUrl": "/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/krieg-der-suesswasser-kapitaene-wie-eine-bootsfahrt-fuer-heidi-klum-einen-jahrelangen-streit-ausloest-ld.10009732",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1740,
+       "leadText": "Are there illegal conditions on Lake Zurich? A busy boater is arguing with celebrity restaurateur Michel Péclard.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0ptq2s36",
+      "content": {
+       "owner": "NZZ",
+       "title": "The captain who knows what happens on Zurich's yachts",
+       "teaserImage": {
+        "originalUrl": "/2025/07/10/0060c1ce-c13e-4480-b0e7-e8fe9fd3bf52.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/10/0060c1ce-c13e-4480-b0e7-e8fe9fd3bf52.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y456"
+         },
+         {
+          "name": "1:1",
+          "crop": "1751,1751,x3260,y901"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x226,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3993,x2381,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Party, police and «yacht girls» on Lake Zurich: Water taxi driver Beat Lang gives insights into the hidden world of motorboats and sailing yachts."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2025/07/10/0060c1ce-c13e-4480-b0e7-e8fe9fd3bf52.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/10/0060c1ce-c13e-4480-b0e7-e8fe9fd3bf52.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y434"
+         },
+         {
+          "name": "1:1",
+          "crop": "1970,1970,x3248,y716"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x390,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2663,3550,x2528,y444"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2025/07/10/d4685b47-3d13-447c-a0ca-d425b55c79ba.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/10/d4685b47-3d13-447c-a0ca-d425b55c79ba.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y455"
+         },
+         {
+          "name": "1:1",
+          "crop": "2804,2804,x1393,y1177"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x77,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2994,3992,x1556,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x6,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2025/07/10/ee5e1dec-e008-45d0-9637-a5c58005fdc4.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/10/ee5e1dec-e008-45d0-9637-a5c58005fdc4.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5333,3000,x288,y992"
+         },
+         {
+          "name": "1:1",
+          "crop": "2492,2492,x1870,y1500"
+         },
+         {
+          "name": "4:3",
+          "crop": "4206,3154,x883,y838"
+         },
+         {
+          "name": "3:4",
+          "crop": "1661,2215,x1897,y1776"
+         },
+         {
+          "name": "3:2",
+          "crop": "4206,2804,x995,y1188"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1892426",
+       "readingTime": 600,
+       "authorLine": "Tobias Marti (text), Dominic Nahr (images)",
+       "characterCount": 11504,
+       "product": "NZZ.ch",
+       "documentId": 1892426,
+       "layout": "longformvisual",
+       "publicationDate": "2025-07-20T03:03:00.000Z",
+       "publicationLastUpdated": "2025-07-20T03:03:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-07-20T15:03:00.000Z",
+       "teaserCaption": "Party, police and «yacht girls» on Lake Zurich: Water taxi driver Beat Lang gives insights into the hidden world of motorboats and sailing yachts.",
+       "url": "/zuerich/der-suesswasser-kapitaen-der-weiss-was-auf-zuerichs-jachten-passiert-ld.1892426",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1920,
+       "leadText": "Party, police and «yacht girls» on Lake Zurich: Water taxi driver Beat Lang gives insights into the hidden world of motorboats and sailing yachts.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "title": "Suffering fish, stranded trucks, and grounded ships – how the state of emergency changes life on Lake Zurich",
+  "teaserImage": {
+   "originalUrl": "/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1024&quality=75&auto=webp",
+   "width": 7219,
+   "height": 4813,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7219,4061,x0,y294"
+    },
+    {
+     "name": "4:3",
+     "crop": "6417,4813,x504,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3978,3978,x1986,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3610,4813,x2580,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7219,4813,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The largest lake in the canton of Zurich has never been so dry. The record low water level has had far-reaching consequences. Scenes from an exceptionally hot summer.",
+   "teaserAuthor": "Andreas Becker/Keystone"
+  },
+  "teaserAuthor": "Andreas Becker/Keystone",
+  "teaserCarouselOne": {
+   "originalUrl": "/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1024&quality=75&auto=webp",
+   "width": 7219,
+   "height": 4813,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7219,4061,x0,y153"
+    },
+    {
+     "name": "1:1",
+     "crop": "3616,3616,x1906,y353"
+    },
+    {
+     "name": "4:3",
+     "crop": "6417,4813,x328,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3610,4813,x2120,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6563,4375,x345,y114"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselTwo": {
+   "originalUrl": "/2026/08/26/6f45429d-812c-4096-ae81-9dafe00e41a7.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/26/6f45429d-812c-4096-ae81-9dafe00e41a7.jpg?width=1024&quality=75&auto=webp",
+   "width": 7304,
+   "height": 4869,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7304,4108,x0,y166"
+    },
+    {
+     "name": "1:1",
+     "crop": "3658,3658,x3245,y647"
+    },
+    {
+     "name": "4:3",
+     "crop": "5902,4426,x690,y132"
+    },
+    {
+     "name": "3:4",
+     "crop": "3652,4869,x1128,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7304,4869,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselThree": {
+   "originalUrl": "/2026/08/17/520ae23d-e139-4744-a8e1-d133e1d40f36.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/17/520ae23d-e139-4744-a8e1-d133e1d40f36.jpg?width=1024&quality=75&auto=webp",
+   "width": 8248,
+   "height": 5499,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "8248,4639,x0,y249"
+    },
+    {
+     "name": "1:1",
+     "crop": "5499,5499,x2749,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "7332,5499,x916,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "4124,5499,x1910,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "8248,5499,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzId": "ld.10020811",
+  "readingTime": 540,
+  "characterCount": 11558,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020811,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-27T03:00:00.000Z",
+  "publicationDate": "2026-08-27T03:00:00.000Z",
+  "publicationLastUpdated": "2026-08-27T06:54:51.057Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:00:00.000Z",
+  "teaserCaption": "The largest lake in the canton of Zurich has never been so dry. The record low water level has had far-reaching consequences. Scenes from an exceptionally hot summer.",
+  "nzzAuthors": [
+   {
+    "id": 1372172,
+    "name": "Claudia Rey",
+    "shortName": "clr",
+    "pianoId": "af004827-a925-4270-a05d-e9a0c6b30c71",
+    "external": false
+   },
+   {
+    "id": 1721467,
+    "name": "Tobias Marti",
+    "shortName": "tma",
+    "pianoId": "82d32012-1811-4b5f-9f07-b6868312ae4c",
+    "external": false
+   },
+   {
+    "id": 1372409,
+    "name": "Fabian Baumgartner",
+    "shortName": "fbi",
+    "pianoId": "d0def895-1aec-490a-8d6e-4f2713b4c3ef",
+    "external": false
+   }
+  ],
+  "authorLine": "Claudia Rey, Tobias Marti, Fabian Baumgartner",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1105931,
+    "name": "Claudia Rey (clr.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1735278,
+    "name": "Tobias Marti (tma.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1086094,
+    "name": "Fabian Baumgartner (fbi.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/c1be84e1-cf24-426f-b7ee-e1e6194c575b.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 1840,
+  "leadText": "The largest lake in the canton of Zurich has never been so dry. The record low water level has had far-reaching consequences. Scenes from an exceptionally hot summer.",
+  "nzzSummaryEN": "- Lake Zurich hits a historic low of 405.45 meters above sea level, causing significant disruptions to shipping, wildlife, and tourism.\n- Issues such as trucks stuck on ferries, dried-up harbors, and overgrown water plants highlight the impact of drought.\n- High temperatures and low water levels particularly threaten cold-sensitive fish species like graylings.",
+  "nzzSummaryDE": "- Lake Zurich has reached a historic low of 405.45 meters above sea level, with significant consequences for shipping, wildlife, and tourism. - Problems such as trucks stuck at ferry crossings, dried-up harbors, and damaged aquatic plants demonstrate the effects of the drought. - The high temperatures and low water level pose a particular threat to cold-sensitive fish species such as the grayling.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Suffering fish, stuck trucks and grounded ships – the effects of the historically low water level of Lake Zurich",
+  "nzzPrintSubtitle": "The drought has had drastic consequences. Scenes from an exceptionally hot summer.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811",
+   "title": "Historic low water level on Lake Zurich: What the state of emergency is changing",
+   "socialMediaTitle": "It has never been so dry. How the historically low water level of Lake Zurich is affecting things",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7219,4061,x0,y294&wmark=nzz"
+  },
+  "ldPublicationId": 2484407,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "gastronomy",
+    "slug": "/themen/gastronomie"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019542",
+    "ld.10009732",
+    "ld.1892426"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 775416,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "gastronomie",
+   "name": "gastronomy",
+   "tagName": "gastronomy",
+   "qId": "Q41958",
+   "seoTitle": "Gastronomy – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-09-30 03:35:39.623Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/gastronomie",
+   "size": 1080,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "title": "«If a young chef is hyped up by Gault-Millau, starts with 15 points and charges 300 Swiss francs for the menu, people get skeptical,» says top chef Didi Bruna",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/6cbd973d-9c00-4746-8e28-ef545cd7eaa4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2819,1586,x701,y488"
+      },
+      {
+       "name": "4:3",
+       "crop": "2757,2068,x629,y421"
+      },
+      {
+       "name": "1:1",
+       "crop": "1284,1284,x1339,y637"
+      },
+      {
+       "name": "3:4",
+       "crop": "1410,1880,x1342,y566"
+      },
+      {
+       "name": "3:2",
+       "crop": "2819,1880,x648,y575"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring."
+    },
+    "flag": "interview",
+    "nzzId": "ld.10021326",
+    "readingTime": 600,
+    "paywallQuestionOne": "Why is Didi Bruna closing his restaurant despite its success?",
+    "paywallQuestionTwo": "Is fine dining in Switzerland in crisis?",
+    "paywallQuestionThree": "How do Gault-Millau points influence guests' expectations?",
+    "characterCount": 11879,
+    "product": "NZZ.ch",
+    "documentId": "10021326",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:00:00.000Z",
+    "publicationLastUpdated": "2026-09-02T11:02:09.986Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:00:00.000Z",
+    "teaserCaption": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring.",
+    "authorLine": "Isabel Heusser, Tobias Marti, Karin Hofer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/zuerich-spitzenkoch-didi-bruna-ueber-gault-millau-teueres-essen-und-risotto-ld.10021326",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2030,
+    "leadText": "Many chefs are only interested in self-realization, according to the top Zurich restaurateur. Now he is retiring.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Consolation with toast and stuzzichini",
+    "teaserImage": {
+     "originalUrl": "/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024&quality=75&auto=webp",
+     "width": 579,
+     "height": 579,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "579,326,x0,y127"
+      },
+      {
+       "name": "4:3",
+       "crop": "579,434,x0,y72"
+      },
+      {
+       "name": "1:1",
+       "crop": "579,579,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "434,579,x72,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "579,386,x0,y97"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Locarno is still waiting for the Grand Hotel to be resurrected. But now there's a new Grand Café – thanks to a bit of clever marketing.",
+     "teaserAuthor": "Illustration by Benedikt Rugar"
+    },
+    "teaserAuthor": "Illustration by Benedikt Rugar",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "tags": [
+     "Zürich Restaurantkritiken"
+    ],
+    "authorLine": "Urs Bühler",
+    "paywallQuestionOne": "How does Locarno plan to revive the Grand Hotel?",
+    "paywallQuestionTwo": "What role does the Grand Café Paolino play in Locarno's transformation?",
+    "paywallQuestionThree": "How does the gastronomy sector influence Locarno's pursuit of former glory?",
+    "language": {
+     "locale": "de-CH"
+    },
+    "readingTime": 240,
+    "nzzId": "ld.10017985",
+    "characterCount": 4861,
+    "product": "NZZ.ch",
+    "documentId": "10017985",
+    "layout": "opinion",
+    "publicationDate": "2026-08-06T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-06T09:50:12.078Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-06T15:30:00.000Z",
+    "teaserCaption": "Locarno is still waiting for the Grand Hotel to be resurrected. But now there's a new Grand Café – thanks to a bit of clever marketing.",
+    "authorImage": {
+     "originalUrl": "/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+     "width": 480,
+     "height": 640,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "480,480,x0,y80"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/trostpflaster-mit-toast-und-stuzzichetti-ld.10017985",
+    "department": {
+     "name": "table or counter",
+     "path": "/gesellschaft/tisch-oder-theke"
+    },
+    "estimationWordCount": 744,
+    "leadText": "Locarno is still waiting for the Grand Hotel to be resurrected. But now there's a new Grand Café – thanks to a bit of clever marketing.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "title": "Entrepreneur Silvio Denz reopens the legendary «Florhof»: «In terms of price, we are well below the five-star hotels in Zurich»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5455,3068,x3,y174"
+      },
+      {
+       "name": "4:3",
+       "crop": "4007,3005,x0,y322"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x134,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x150,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5455,3636,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He wants at least one star for the signature restaurant – and for Zurich locals to come to the brasserie to play Jass",
+     "teaserAuthor": "PD"
+    },
+    "teaserAuthor": "PD",
+    "nzzId": "ld.10017981",
+    "readingTime": 660,
+    "paywallQuestionOne": "What makes Villa Florhof unique in the Zurich hotel market?",
+    "paywallQuestionTwo": "How does Villa Florhof combine history with modern luxury?",
+    "paywallQuestionThree": "Why is Silvio Denz focusing on experiential hotels in Zurich?",
+    "characterCount": 14183,
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/a9e616f5-f8a4-4176-9085-daabb714423f.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y42"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x86,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4848,3636,x0,y177"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1103,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4959,3306,x0,y181"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/05/7d06bfd5-9383-4315-a624-bf554cd813f6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/7d06bfd5-9383-4315-a624-bf554cd813f6.jpg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4128,2322,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2752,2752,x154,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3669,2752,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2064,2752,x638,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3753,2502,x164,y173"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/05/f010bf8e-f57d-4243-9853-546026c544cc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/f010bf8e-f57d-4243-9853-546026c544cc.jpg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4128,2322,x0,y424"
+      },
+      {
+       "name": "1:1",
+       "crop": "2274,2274,x697,y461"
+      },
+      {
+       "name": "4:3",
+       "crop": "3335,2502,x390,y224"
+      },
+      {
+       "name": "3:4",
+       "crop": "2064,2752,x970,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3753,2501,x103,y251"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselFour": {
+     "originalUrl": "/2026/08/05/cff0614e-80ed-4b68-8ce8-b54ec9a98fab.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/cff0614e-80ed-4b68-8ce8-b54ec9a98fab.jpg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2751,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4128,2322,x0,y429"
+      },
+      {
+       "name": "1:1",
+       "crop": "2751,2751,x547,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3668,2751,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2063,2751,x714,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4127,2751,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "product": "NZZ.ch",
+    "documentId": "10017981",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-06T03:00:00.000Z",
+    "publicationLastUpdated": "2026-08-06T12:23:58.736Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-06T15:00:00.000Z",
+    "teaserCaption": "He wants at least one star for the signature restaurant – and for Zurich locals to come to the brasserie to play Jass",
+    "authorLine": "Isabel Heusser (text), Karin Hofer (images)",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/villa-florhof-das-traditionshaus-in-zuerich-wird-zum-boutique-hotel-ld.10017981",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2295,
+    "leadText": "He wants at least one star for the signature restaurant – and for Zurich locals to come to the brasserie to play Jass",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Stadler Rail CEO Peter Spuhler is co-owner of the traditional «Florhof» hotel in a shake-up: The head chef is leaving before the opening",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/20/55ba3b8c-7119-449b-ad62-9e06843fff9a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/20/55ba3b8c-7119-449b-ad62-9e06843fff9a.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y135"
+      },
+      {
+       "name": "4:3",
+       "crop": "4848,3636,x683,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1866,1866,x1978,y787"
+      },
+      {
+       "name": "3:4",
+       "crop": "2479,3306,x1540,y277"
+      },
+      {
+       "name": "3:2",
+       "crop": "5455,3636,x288,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "At a previous workplace, employees had accused the award-winning restaurateur Christian Jürgens of inappropriate behavior.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "nzzId": "ld.10016175",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is head chef Christian Jürgens leaving the Hotel «Florhof» before its opening?",
+    "paywallQuestionTwo": "What role do the allegations against Jürgens play in the delay of the hotel project?",
+    "paywallQuestionThree": "How will the resignations and criticism affect the future of the Hotel «Florhof»?",
+    "characterCount": 5663,
+    "product": "NZZ.ch",
+    "documentId": "10016175",
+    "layout": "regular",
+    "publicationDate": "2026-07-20T16:38:53.116Z",
+    "publicationLastUpdated": "2026-07-21T04:50:56.370Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-21T04:38:53.116Z",
+    "teaserCaption": "At a previous workplace, employees had accused the award-winning restaurateur Christian Jürgens of inappropriate behavior.",
+    "authorLine": "Isabel Heusser",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/knall-im-neuen-edel-hotel-florhof-des-stadler-rail-chefs-peter-spuhler-noch-vor-der-eroeffnung-verlaesst-der-chefkoch-das-traditionshaus-ld.10016175",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 850,
+    "leadText": "At a previous workplace, employees had accused the award-winning restaurateur Christian Jürgens of inappropriate behavior.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Flood of fake reviews: How Google stars are losing their power",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/09/301a4cdf-0d21-4f97-8de6-af74db18aded.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/09/301a4cdf-0d21-4f97-8de6-af74db18aded.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y113"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2000,2000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x26,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Restaurants, hotels, even dentists. Everything gets a review on Google and other platforms. Because this is a burden for businesses, companies in Germany are having reviews deleted. And what about Switzerland?",
+     "teaserAuthor": "Illustration Dario Veréb / NZZaS"
+    },
+    "teaserAuthor": "Illustration Dario Veréb / NZZaS",
+    "characterCount": 8079,
+    "nzzId": "ld.10014615",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do fake reviews affect the credibility of Google star ratings?",
+    "paywallQuestionTwo": "Why is deleting reviews more common in Germany than in Switzerland?",
+    "paywallQuestionThree": "Could Google star ratings soon lose value due to manipulation?",
+    "product": "NZZ.ch",
+    "documentId": "10014615",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-15T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-15T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-15T15:30:00.000Z",
+    "teaserCaption": "Restaurants, hotels, even dentists. Everything gets a review on Google and other platforms. Because this is a burden for businesses, companies in Germany are having reviews deleted. And what about Switzerland?",
+    "authorLine": "Elena Oberholzer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/08/29/d095402d-e0ec-41fc-b2ce-136c621788ea.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/flut-an-falschen-bewertungen-wie-die-google-sterne-ihre-macht-verlieren-ld.10014615",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1178,
+    "leadText": "Restaurants, hotels, even dentists. Everything gets a review on Google and other platforms. Because this is a burden for businesses, companies in Germany are having reviews deleted. And what about Switzerland?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZaS",
+    "title": "An obstacle course between restaurant tables – on a double shift in service",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Monique Misteli",
+    "editor": "1588601",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/06/11/96636dd8-79e5-4752-ac9c-e9ef0c49baf6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/11/96636dd8-79e5-4752-ac9c-e9ef0c49baf6.jpg?width=1024&quality=75&auto=webp",
+     "width": 5145,
+     "height": 5332,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5145,2894,x0,y1229"
+      },
+      {
+       "name": "4:3",
+       "crop": "5145,3859,x0,y580"
+      },
+      {
+       "name": "1:1",
+       "crop": "5145,5145,x0,y164"
+      },
+      {
+       "name": "3:4",
+       "crop": "3999,5332,x1146,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5145,3430,x0,y1016"
+      }
+     ],
+     "focalPoint": {
+      "x": 2581,
+      "y": 2042
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Zurich is not alone in its reputation for poor service in restaurants and cafes, and almost no one wants to train as a waiter anymore. It's high time to defend the profession's honor.",
+     "teaserAuthor": "Photopress Archive / Keystone"
+    },
+    "teaserAuthor": "Photopress Archive / Keystone",
+    "nzzId": "ld.10010890",
+    "readingTime": 720,
+    "paywallQuestionOne": "Why are fewer and fewer people choosing a career in the service industry?",
+    "paywallQuestionTwo": "How does the staff shortage affect working conditions in the catering industry?",
+    "paywallQuestionThree": "What skills are crucial for long-term success in the service industry?",
+    "characterCount": 15359,
+    "product": "NZZ.ch",
+    "documentId": "10010890",
+    "layout": "longformvisual",
+    "publicationDate": "2026-06-14T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-14T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-14T15:30:00.000Z",
+    "teaserCaption": "Zurich is not alone in its reputation for poor service in restaurants and cafes, and almost no one wants to train as a waiter anymore. It's high time to defend the profession's honor.",
+    "url": "https://www.nzz.ch/nzz-am-sonntag-magazin/hindernislauf-zwischen-den-tischen-auf-doppelschicht-im-service-ld.10010890",
+    "department": {
+     "name": "NZZ am Sonntag Magazine",
+     "path": "/nzz-am-sonntag-magazin"
+    },
+    "estimationWordCount": 2460,
+    "leadText": "Zurich is not alone in its reputation for poor service in restaurants and cafes, and almost no one wants to train as a waiter anymore. It's high time to defend the profession's honor.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020811",
+    "name": "Suffering fish, stranded trucks, and grounded ships – how the state of emergency changes life on Lake Zurich",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Suffering fish, stranded trucks, and grounded ships – how the state of emergency changes life on Lake Zurich",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372172,
+       "name": "Claudia Rey",
+       "shortName": "clr",
+       "pianoId": "af004827-a925-4270-a05d-e9a0c6b30c71",
+       "external": false
+      },
+      {
+       "id": 1721467,
+       "name": "Tobias Marti",
+       "shortName": "tma",
+       "pianoId": "82d32012-1811-4b5f-9f07-b6868312ae4c",
+       "external": false
+      },
+      {
+       "id": 1372409,
+       "name": "Fabian Baumgartner",
+       "shortName": "fbi",
+       "pianoId": "d0def895-1aec-490a-8d6e-4f2713b4c3ef",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:00:00.000Z",
+     "updateTimestamp": "2026-08-27T06:54:51.057Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020811",
+   "pageType": "longformstandard",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Historic low water level on Lake Zurich: What the state of emergency is changing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7219,4061,x0,y294&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Claudia Rey, Tobias Marti, Fabian Baumgartner",
+  "description": "The largest lake in the canton of Zurich has never been so dry. The record low water level has had far-reaching consequences. Scenes from an exceptionally hot summer.",
+  "news_keywords": "Suffering fish, stranded trucks and grounded ships – how the state of emergency is changing life on Lake Zurich, Zurich, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T10:54:51+02:00",
+  "date": "2026-08-27T07:00:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Suffering fish, stranded trucks, and grounded ships – how the state of emergency changes life on Lake Zurich",
+  "ogTitle": "It has never been so dry. How the historically low water level of Lake Zurich is affecting things",
+  "ogUrl": "https://www.nzz.ch/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811",
+  "mrf:cms_id": "nzz:ld.10020811",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020811",
+  "nzzAuthors": [
+   {
+    "id": 1372172,
+    "name": "Claudia Rey",
+    "shortName": "clr",
+    "pianoId": "af004827-a925-4270-a05d-e9a0c6b30c71",
+    "external": false
+   },
+   {
+    "id": 1721467,
+    "name": "Tobias Marti",
+    "shortName": "tma",
+    "pianoId": "82d32012-1811-4b5f-9f07-b6868312ae4c",
+    "external": false
+   },
+   {
+    "id": 1372409,
+    "name": "Fabian Baumgartner",
+    "shortName": "fbi",
+    "pianoId": "d0def895-1aec-490a-8d6e-4f2713b4c3ef",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:09 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Historic low water level on Lake Zurich: What the state of emergency is changing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811"
+   },
+   "headline": "Historic low water level on Lake Zurich: What the state of emergency is changing",
+   "datePublished": "2026-08-27T07:00:00+02:00",
+   "dateModified": "2026-08-27T10:54:51+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The largest lake in the canton of Zurich has never been so dry. The record low water level has had far-reaching consequences. Scenes from an exceptionally hot summer.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/20/821334d9-38bf-43ba-bb5f-f33d679505f4.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7219,4061,x0,y294&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Claudia Rey"
+    },
+    {
+     "@type": "Person",
+     "name": "Tobias Marti"
+    },
+    {
+     "@type": "Person",
+     "name": "Fabian Baumgartner"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 775416,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/leidende-fische-stecken-gebliebene-lastwagen-und-aufgelaufene-schiffe-wie-der-ausnahmezustand-das-leben-am-zuerichsee-veraendert-ld.10020811",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020811",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-08-27T03:00:00.000Z",
+   "ContentAuthor": "Claudia Rey, Tobias Marti, Fabian Baumgartner",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie beeinflusst der historische Tiefstand des Zürichsees das Leben der Anwohner?\nWelche Massnahmen werden ergriffen, um die Folgen der Trockenheit zu mildern?\nWie wirkt sich der niedrige Wasserstand auf die Tierwelt des Zürichsees aus?",
+   "ldId": "ld.10020811",
+   "channel": "Zürich",
+   "heading": "Leidende Fische, steckengebliebene Lastwagen und aufgelaufene Schiffe – wie der Ausnahmezustand das Leben am Zürichsee verändert",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,1161 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1e31qmmv90",
+   "content": {
+    "title": "The trauma of 9/11: Veterans tell how the wars in Afghanistan and Iraq continue to resonate today",
+    "lead": "Hundreds of thousands of veterans returned from the wars after September 11, 2001. They have been struggling with their wounds to this day.",
+    "authorline": "Nadine Landert",
+    "author": "Nadine Landert"
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-Oh7NWTjsHZ",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Nadine Landert",
+       "url": "/impressum/nadine-landert-ld.1551656",
+       "teaserImage": {
+        "originalUrl": "/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "5568,3132,x0,y290"
+         },
+         {
+          "name": "1:1",
+          "crop": "3712,3712,x928,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4949,3712,x309,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2784,3712,x1392,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "audio-url",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "audio-url",
+   "id": "doc-1e6eonbvp0",
+   "content": {
+    "image": {
+     "author": "Nadine Landert and Andreas Scheiner",
+     "caption": "",
+     "originalUrl": "/2026/09/01/c54abbcc-f85d-4894-982a-03e3695d4fa4.jpg?width=1024",
+     "width": 3000,
+     "height": 3000,
+     "imageService": "fastly"
+    },
+    "audioname": "After 9/11: The forgotten veterans of the USA",
+    "author": "Nadine Landert and Andreas Scheiner",
+    "audiosrc": {
+     "service": "podigee-audio-url",
+     "params": {
+      "src": "https://audio.podigee-cdn.net/2584498-m-3b65de8f16a5d83563e03f90c5f8b80b.mp3"
+     }
+    },
+    "duration": 970.501224489796,
+    "caption": ""
+   },
+   "data": {
+    "_audiosrcDirective": {},
+    "_audionameDirective": {
+     "highlightedTextRanges": {
+      "pbs5aevPvXKC": {
+       "start": 0,
+       "end": 55,
+       "text": "Ukraine: The most important battle is being fought in Odessa"
+      }
+     }
+    },
+    "_dateDirective": {},
+    "_authorDirective": {}
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-a646b572",
+   "identifier": "barrier",
+   "prevElement": "audio-url",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1e6gu5akk0",
+   "content": {
+    "text": "<em>Listen and subscribe to the podcast «NZZ Akzent» on <a href=\"https://open.spotify.com/show/4uoTZbK8rBcVAzAk5f7tIr?si=Qog1qTM4ROaG-fzLBxIgNA\">Spotify,</a> <a href=\"https://podcasts.apple.com/ch/podcast/nzz-akzent/id1506761994\">Apple Podcasts,</a> or <a href=\"https://castbox.fm/channel/NZZ-Akzent-id2982237\">Castbox.</a></em><a href=\"https://podcasts.apple.com/ch/podcast/nzz-corona-podcast/id1506761994\"></a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1e31r87h90",
+   "content": {
+    "title": "In this podcast episode",
+    "id": "subtitle-in-dieser-podcast-episode"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11pnmlb1",
+   "content": {
+    "text": "It began like any normal day for Sergeant Earl Lundy. The paratrooper was preparing food at the U.S. base in Afghanistan. Suddenly there was a white light, then darkness. Lundy found himself buried under meters of rubble. His leg was trapped under a steel beam. Doctors would later tell him he would never walk again. A suicide bomber had blown himself up, and two of his comrades died."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1edb0j21",
+   "content": {
+    "text": "There are thousands of stories like Earl Lundy's. 25 years after the September 11 attacks, troops have withdrawn from Afghanistan and Iraq, but the wars continue to rage in the minds of the soldiers. Official sources indicate that over 40% of veterans suffer from post-traumatic stress disorder, depression, or addiction. However, the state system usually leaves them to fend for themselves after their wartime deployment."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ea8gnm0",
+   "content": {
+    "text": "U.S. correspondent Andreas Scheiner spoke with several veterans who went to war for the U.S. after 9/11. In the podcast «NZZ Akzent,» he reports on these encounters and his visit to the «Warriors Heart Ranch,» where traumatized veterans try to put their lives back together."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1icgi7ejd1",
+   "content": {
+    "text": "<em>All episodes of «NZZ Akzent» can be found in <a href=\"http://www.nzz.ch/podcast/akzent\">this overview</a>.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1fab2afhl0",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "authorLine": "Nadine Landert",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/1569b7d1-d8cd-466d-8546-9463e9389d40.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/1569b7d1-d8cd-466d-8546-9463e9389d40.jpg?width=1024&quality=75&auto=webp",
+   "width": 3000,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3000,1687,x0,y54"
+    },
+    {
+     "name": "4:3",
+     "crop": "3000,2250,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x305,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3000,2000,x0,y104"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Hundreds of thousands of veterans returned from the wars following September 11, 2001. They are still struggling with their wounds today."
+  },
+  "flag": "Podcast «NZZ Akzent»",
+  "title": "The traumas of 9/11: Veterans recount how the wars in Afghanistan and Iraq continue to have an impact today",
+  "showComments": true,
+  "nzzId": "ld.10021892",
+  "readingTime": 60,
+  "characterCount": 1476,
+  "tags": [
+   "Pro: 25 Jahre 9/11"
+  ],
+  "breadcrumbs": [
+   {
+    "name": "Podcast",
+    "path": "/podcast"
+   },
+   {
+    "name": "accent",
+    "path": "/podcast/akzent"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021892,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "Hundreds of thousands of veterans returned from the wars following September 11, 2001. They are still struggling with their wounds today.",
+  "nzzAuthors": [
+   {
+    "id": 1532349,
+    "name": "Nadine Landert",
+    "shortName": "nla",
+    "pianoId": "786bbd2e-575d-47b3-ac58-7cd2ec9460fa",
+    "external": false
+   }
+  ],
+  "authorImage": {
+   "originalUrl": "/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp",
+   "width": 5568,
+   "height": 3712,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "3712,3712,x928,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1551656,
+    "name": "Nadine Landert (lna.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp",
+  "url": "/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892",
+  "department": {
+   "name": "accent",
+   "path": "/podcast/akzent"
+  },
+  "estimationWordCount": 263,
+  "leadText": "Hundreds of thousands of veterans returned from the wars following September 11, 2001. They are still struggling with their wounds today.",
+  "nzzSummaryEN": "- Thousands of veterans continue to struggle with psychological and physical consequences of the post-9/11 wars, often including PTSD.\n- The U.S. government provides limited support, while facilities like the \"Warriors Heart Ranch\" offer rehabilitation assistance.",
+  "nzzSummaryDE": "Thousands of veterans continue to struggle with psychological and physical consequences, often including post-traumatic stress disorder, even years after the wars following 9/11.\n - The state system in the USA only provides limited support for veterans, while facilities like the «Warriors Heart Ranch» offer help with rehabilitation.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "25 years after 9/11: Wars that continue in people's minds",
+  "nzzPrintSubtitle": "After 9/11: War on Terror veterans continue to suffer from psychological wounds.",
+  "teaserPodcastTitle": "After 9/11: The forgotten veterans of the USA",
+  "teaserPodcastAuthor": "Nadine Landert, Andreas Scheiner",
+  "teaserPodcastDate": "2.9.2026",
+  "teaserPodcastUrl": "https://audio.podigee-cdn.net/2584498-m-3b65de8f16a5d83563e03f90c5f8b80b.mp3",
+  "teaserPodcastDuration": "16",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892",
+   "title": "9/11 Veterans: The Continuing Consequences of the War on Terror",
+   "socialMediaTitle": "The forgotten veterans of the «War on Terror»: 25 years after 9/11",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/1569b7d1-d8cd-466d-8546-9463e9389d40.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y54&wmark=nzz"
+  },
+  "ldPublicationId": 2487331,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "9/11",
+    "slug": "/themen/911"
+   },
+   {
+    "name": "Afghanistan",
+    "slug": "/themen/afghanistan"
+   },
+   {
+    "name": "Iraq",
+    "slug": "/themen/irak"
+   },
+   {
+    "name": "terrorism",
+    "slug": "/themen/terrorismus"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "alcohol",
+    "slug": "/themen/alkohol"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 0,
+   "openToComment": false,
+   "newestTopComments": [],
+   "confirmed": true
+  },
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": false,
+  "locale": "de-CH",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "911",
+   "name": "9/11",
+   "tagName": "9/11",
+   "qId": "Q10806",
+   "seoTitle": "9/11 – All articles about the attacks of September 11, 2001 | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "EVENT",
+   "createdDate": "2025-04-08 15:23:02.521Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/911",
+   "size": 140,
+   "relatedTopics": [
+    {
+     "name": "Afghanistan",
+     "slug": "/themen/afghanistan"
+    },
+    {
+     "name": "Irak",
+     "slug": "/themen/irak"
+    },
+    {
+     "name": "Terrorismus",
+     "slug": "/themen/terrorismus"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Alkohol",
+     "slug": "/themen/alkohol"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Islam comes under suspicion: 9/11 ignites a debate that continues today",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/38a7281e-9377-48f0-937a-08723ddf9c53.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/38a7281e-9377-48f0-937a-08723ddf9c53.jpg?width=1024&quality=75&auto=webp",
+     "width": 1992,
+     "height": 1332,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1992,1120,x0,y106"
+      },
+      {
+       "name": "4:3",
+       "crop": "1776,1332,x108,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1332,1332,x330,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "999,1332,x497,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1992,1328,x0,y2"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After 9/11: Muslim states condemn violence, but honest debate lacking",
+     "teaserAuthor": "Gene Boyars / AP"
+    },
+    "teaserAuthor": "Gene Boyars / AP",
+    "tags": [
+     "Pro: 25 Jahre 9/11"
+    ],
+    "showComments": true,
+    "nzzId": "ld.10018067",
+    "readingTime": 480,
+    "paywallQuestionOne": "How did 9/11 influence the West's relationship with the Islamic world?",
+    "paywallQuestionTwo": "Why did an honest debate about Islam and violence fail to materialize after 9/11?",
+    "paywallQuestionThree": "What role did Saudi Arabia play in the radicalization of the understanding of Islam?",
+    "characterCount": 11265,
+    "product": "NZZ.ch",
+    "documentId": "10018067",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "After 9/11: Muslim states condemn violence, but honest debate lacking",
+    "authorLine": "Ulrich von Schwerin, Mumbai",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/25-jahre-911-was-hat-der-islam-mit-gewalt-zu-tun-ld.10018067",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1644,
+    "premium": true,
+    "leadText": "After 9/11: Muslim states condemn violence, but honest debate lacking",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 23,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Khalid Sheikh Mohammed is considered the mastermind of the September 11 attacks – but his confession obtained under torture will not be admitted in court",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/37d06642-8daf-4b37-8b9f-78a3c3490d37.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/37d06642-8daf-4b37-8b9f-78a3c3490d37.jpg?width=1024&quality=75&auto=webp",
+     "width": 655,
+     "height": 970,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "655,368,x0,y68"
+      },
+      {
+       "name": "4:3",
+       "crop": "492,369,x84,y58"
+      },
+      {
+       "name": "1:1",
+       "crop": "407,407,x143,y68"
+      },
+      {
+       "name": "3:4",
+       "crop": "655,873,x0,y13"
+      },
+      {
+       "name": "3:2",
+       "crop": "655,437,x0,y267"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "For twenty years, Khalid Sheikh Mohammed has been imprisoned in the high-security detention facility at Guantánamo. In 2028, the Kuwaiti architect of 9/11 is finally set to appear before a judge. CIA torture methods complicate the trial.",
+     "teaserAuthor": "United States Department of Defense"
+    },
+    "teaserAuthor": "United States Department of Defense",
+    "tags": [
+     "Amerika",
+     "Pro: 25 Jahre 9/11"
+    ],
+    "nzzId": "ld.10021329",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why did it take 20 years for Khalid Sheikh Mohammed to be brought to trial?",
+    "paywallQuestionTwo": "What role does torture by the CIA play in the legal dispute surrounding Mohammed?",
+    "paywallQuestionThree": "Why was the comparison of life imprisonment instead of the death penalty withdrawn?",
+    "characterCount": 7408,
+    "product": "NZZ.ch",
+    "documentId": "10021329",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T19:37:03.484Z",
+    "publicationLastUpdated": "2026-08-28T19:44:52.172Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-29T07:37:03.484Z",
+    "teaserCaption": "For twenty years, Khalid Sheikh Mohammed has been imprisoned in the high-security detention facility at Guantánamo. In 2028, the Kuwaiti architect of 9/11 is finally set to appear before a judge. CIA torture methods complicate the trial.",
+    "authorLine": "Niklaus Nuspliger, Washington",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/khaled-sheikh-mohammed-gilt-als-mastermind-der-anschlaege-vom-11-september-nun-wollen-ihm-die-usa-endlich-den-prozess-machen-ld.10021329",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1078,
+    "leadText": "For twenty years, Khalid Sheikh Mohammed has been imprisoned in the high-security detention facility at Guantánamo. In 2028, the Kuwaiti architect of 9/11 is finally set to appear before a judge. CIA torture methods complicate the trial.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Pro: 25 Jahre 9/11"
+    ],
+    "title": "A spark that quickly burned out: September 11, 2001 deepened the rift between Russia and the USA",
+    "paywallQuestionOne": "Why did September 11th deepen the divide between Russia and the USA?",
+    "paywallQuestionTwo": "What illusions shaped relationships after September 11, 2001?",
+    "paywallQuestionThree": "How did Putin's policies influence the geopolitical situation after 2001?",
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/7b8c32b0-2543-4f86-843b-224ec90d5976.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b8c32b0-2543-4f86-843b-224ec90d5976.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2239,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2727,1534,x102,y69"
+      },
+      {
+       "name": "4:3",
+       "crop": "2985,2239,x7,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1390,1390,x794,y34"
+      },
+      {
+       "name": "3:4",
+       "crop": "1679,2239,x690,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y71"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After September 11, 2001, there was a brief glimmer of hope for a new order in which Russia and America would work together to combat international terrorism. This proved to be an illusion and acted as a catalyst for the deepest rift since 1989.",
+     "teaserAuthor": "Mark Wilson / Getty"
+    },
+    "teaserAuthor": "Mark Wilson / Getty",
+    "showComments": true,
+    "nzzId": "ld.10019991",
+    "readingTime": 360,
+    "characterCount": 8557,
+    "product": "NZZ.ch",
+    "documentId": "10019991",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-27T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-27T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+    "teaserCaption": "After September 11, 2001, there was a brief glimmer of hope for a new order in which Russia and America would work together to combat international terrorism. This proved to be an illusion and acted as a catalyst for the deepest rift since 1989.",
+    "authorLine": "Markus Ackeret",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/8e9e1175-c900-481e-88b1-2e2984786b30.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/25-jahre-nach-911-russlands-und-amerikas-gescheiterter-schulterschluss-ld.10019991",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1266,
+    "premium": true,
+    "leadText": "After September 11, 2001, there was a brief glimmer of hope for a new order in which Russia and America would work together to combat international terrorism. This proved to be an illusion and acted as a catalyst for the deepest rift since 1989.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Afghanistan soldier wants to kill herself, ex-Marine ends up in prison as alcoholic – How the «War on Terror» still haunts America",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Amerika",
+     "Fotografie"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/fe2a4957-b8c0-4113-912f-6a284f25dfa7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/fe2a4957-b8c0-4113-912f-6a284f25dfa7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5939,
+     "height": 3959,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5939,3341,x0,y309"
+      },
+      {
+       "name": "4:3",
+       "crop": "5279,3959,x330,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3959,3959,x990,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2969,3959,x1485,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5939,3959,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Hundreds of thousands of post-9/11 veterans sustain lasting injuries: A report."
+    },
+    "nzzId": "ld.10019607",
+    "readingTime": 840,
+    "paywallQuestionOne": "How does the «War on Terror» affect the mental health of veterans?",
+    "paywallQuestionTwo": "What role does the Warriors Heart rehabilitation ranch play for war-wounded veterans?",
+    "paywallQuestionThree": "Why do many veterans feel socially unacceptable after their return?",
+    "characterCount": 16763,
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/25/11fc2132-a956-4056-94b0-6338f6abf584.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/11fc2132-a956-4056-94b0-6338f6abf584.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y474"
+      },
+      {
+       "name": "1:1",
+       "crop": "3636,3636,x2182,y292"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,3999,x667,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x2009,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5455,3636,x504,y190"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/25/fe2a4957-b8c0-4113-912f-6a284f25dfa7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/fe2a4957-b8c0-4113-912f-6a284f25dfa7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5939,
+     "height": 3959,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5939,3341,x0,y204"
+      },
+      {
+       "name": "1:1",
+       "crop": "3959,3959,x221,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5279,3959,x441,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2969,3959,x923,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5939,3959,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/25/6754263a-e0a6-436c-95dc-0aeeb34ea2f0.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/6754263a-e0a6-436c-95dc-0aeeb34ea2f0.jpg?width=1024&quality=75&auto=webp",
+     "width": 5404,
+     "height": 3595,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5404,3040,x0,y438"
+      },
+      {
+       "name": "1:1",
+       "crop": "3595,3595,x1150,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4793,3595,x550,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2696,3595,x1747,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5393,3595,x11,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "product": "NZZ.ch",
+    "documentId": "10019607",
+    "layout": "longformvisual",
+    "publicationDate": "2026-08-26T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-26T13:11:32.687Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-26T15:30:00.000Z",
+    "teaserCaption": "Hundreds of thousands of post-9/11 veterans sustain lasting injuries: A report.",
+    "authorLine": "Andreas Scheiner (text), Danielle Villasana (images), Houston and Bandera",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/25-jahre-nach-911-veteranen-aus-dem-war-on-terror-bleiben-traumatisiert-ld.10019607",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 2790,
+    "leadText": "Hundreds of thousands of post-9/11 veterans sustain lasting injuries: A report.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "9/11 still shapes America: That's also why Trump cannot win the Iran war",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/14/558bc1a2-e163-4e58-9b22-6d7b6b6d2947.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/14/558bc1a2-e163-4e58-9b22-6d7b6b6d2947.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y625"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3306,3305,x500,y695"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x629,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After the Sept. 11, 2001, terrorist attacks, the U.S. began two wars. Afghanistan and Iraq would permanently change American foreign policy. Part 2 of the «NZZ Pro» series on 9/11.",
+     "teaserAuthor": "Eduardo Munoz / Reuters"
+    },
+    "teaserAuthor": "Eduardo Munoz / Reuters",
+    "showComments": true,
+    "nzzId": "ld.10019562",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do the «forever wars» continue to shape American foreign policy today?",
+    "paywallQuestionTwo": "Why can't Trump escalate the Iran war with ground troops?",
+    "paywallQuestionThree": "What lessons has America learned from the wars after 9/11?",
+    "characterCount": 8228,
+    "tags": [
+     "Pro: Fokus",
+     "Pro: 25 Jahre 9/11"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019562",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-18T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-18T06:39:15.829Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-18T15:30:00.000Z",
+    "teaserCaption": "After the Sept. 11, 2001, terrorist attacks, the U.S. began two wars. Afghanistan and Iraq would permanently change American foreign policy. Part 2 of the «NZZ Pro» series on 9/11.",
+    "authorLine": "Ulrich Speck",
+    "url": "https://www.nzz.ch/pro/25-jahre-911-die-folgen-fuer-die-us-aussenpolitik-bis-trump-ld.10019562",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1226,
+    "premium": true,
+    "leadText": "After the Sept. 11, 2001, terrorist attacks, the U.S. began two wars. Afghanistan and Iraq would permanently change American foreign policy. Part 2 of the «NZZ Pro» series on 9/11.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Twenty-five years ago this autumn, planes crashed into the World Trade Center. What exactly happened on 9/11?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/07/344ae33c-ce73-4333-afdb-bedd6e399cd4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/07/344ae33c-ce73-4333-afdb-bedd6e399cd4.jpg?width=1024&quality=75&auto=webp",
+     "width": 5761,
+     "height": 3241,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5761,3241,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4321,3241,x720,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3241,3241,x1260,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2431,3241,x1665,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4862,3241,x450,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A visual reconstruction of a day that changed the world. Part 1 of the «NZZ Pro» series on 9/11.",
+     "teaserAuthor": "x"
+    },
+    "teaserAuthor": "x",
+    "tags": [
+     "Visuals",
+     "Pro: 25 Jahre 9/11"
+    ],
+    "nzzId": "ld.10018621",
+    "readingTime": 420,
+    "paywallQuestionOne": "What happened during the attacks on the World Trade Center on September 11, 2001?",
+    "paywallQuestionTwo": "What were the terrorists' objectives with the four hijacked planes?",
+    "paywallQuestionThree": "How did 9/11 affect health and infrastructure in New York in the long term?",
+    "characterCount": 8623,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10018621",
+    "layout": "longformvisual",
+    "publicationDate": "2026-08-11T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-17T14:59:03.184Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-11T15:30:00.000Z",
+    "teaserCaption": "A visual reconstruction of a day that changed the world. Part 1 of the «NZZ Pro» series on 9/11.",
+    "authorLine": "Gian Andrea Marti, Esthy Rüdiger, Olivia Fischer, Anja Lemcke",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/04/29/4810acad-2a2a-4b29-8b12-e8120dcd55d0.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/was-passierte-an-911-eine-visuelle-rekonstruktion-ld.10018621",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1339,
+    "premium": true,
+    "leadText": "A visual reconstruction of a day that changed the world. Part 1 of the «NZZ Pro» series on 9/11.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 9,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021892",
+    "name": "The traumas of 9/11: Veterans recount how the wars in Afghanistan and Iraq continue to have an impact today",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Podcast",
+    "subCategory1": "Akzent",
+    "attributes": {
+     "headline": "The traumas of 9/11: Veterans recount how the wars in Afghanistan and Iraq continue to have an impact today",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1532349,
+       "name": "Nadine Landert",
+       "shortName": "nla",
+       "pianoId": "786bbd2e-575d-47b3-ac58-7cd2ec9460fa",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Podcast «NZZ Akzent»",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021892",
+   "pageType": "regular",
+   "primaryCategory": "Podcast",
+   "subCategory1": "Akzent",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "9/11 Veterans: The Continuing Consequences of the War on Terror",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/1569b7d1-d8cd-466d-8546-9463e9389d40.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y54&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Nadine Landert",
+  "description": "Hundreds of thousands of veterans returned from the wars following September 11, 2001. They are still struggling with their wounds today.",
+  "news_keywords": "The traumas of 9/11: Veterans recount how the wars in Afghanistan and Iraq continue to have an impact today, Podcast «NZZ Akzent», Akzent, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:30:00+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "PODCAST «NZZ AKZENT» - The traumas of 9/11: Veterans recount how the wars in Afghanistan and Iraq continue to have an impact today",
+  "ogTitle": "The forgotten veterans of the «War on Terror»: 25 years after 9/11",
+  "ogUrl": "https://www.nzz.ch/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892",
+  "mrf:cms_id": "nzz:ld.10021892",
+  "mrf:sections": "Podcast;Akzent",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021892",
+  "nzzAuthors": [
+   {
+    "id": 1532349,
+    "name": "Nadine Landert",
+    "shortName": "nla",
+    "pianoId": "786bbd2e-575d-47b3-ac58-7cd2ec9460fa",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:56 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/podcast",
+      "name": "Podcast"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/podcast/akzent",
+      "name": "accent"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "9/11 Veterans: The Continuing Consequences of the War on Terror"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892"
+   },
+   "headline": "9/11 Veterans: The Continuing Consequences of the War on Terror",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Hundreds of thousands of veterans returned from the wars following September 11, 2001. They are still struggling with their wounds today.",
+   "isAccessibleForFree": false,
+   "articleSection": "Akzent",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/1569b7d1-d8cd-466d-8546-9463e9389d40.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y54&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Nadine Landert"
+    }
+   ],
+   "inLanguage": "de"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "AudioObject",
+   "@id": "https://www.nzz.ch/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892#id-doc-1e6eonbvp0",
+   "inLanguage": "de-CH",
+   "name": "After 9/11: The forgotten veterans of the USA",
+   "author": "Nadine Landert and Andreas Scheiner",
+   "contentUrl": {
+    "service": "podigee-audio-url",
+    "params": {
+     "src": "https://audio.podigee-cdn.net/2584498-m-3b65de8f16a5d83563e03f90c5f8b80b.mp3"
+    }
+   },
+   "thumbnailUrl": "https://img-msp-prod.nzz.ch/2026/09/01/c54abbcc-f85d-4894-982a-03e3695d4fa4.jpg?width=1024&quality=75&auto=webp?width=120&height=120&fit=bound&quality=75&auto=webp",
+   "timeRequired": "PT0H16M10S"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/podcast/akzent/nach-911-die-vergessenen-veteranen-der-usa-ld.10021892",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "podcast-«nzz-akzent»",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021892",
+    "channel=Podcast"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "Nadine Landert",
+   "ContentSection": "Podcast",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie beeinflussen posttraumatische Belastungsstörungen die Veteranen?\nWarum überlässt das staatliche System die Veteranen sich selbst?\nWelche Rolle spielt die «Warriors Heart Ranch» für traumatisierte Soldaten?",
+   "ldId": "ld.10021892",
+   "channel": "Podcast",
+   "subChannel": "Akzent",
+   "heading": "Die Traumata von 9/11: Veteranen erzählen, wie die Kriege in Afghanistan und Irak bis heute nachwirken",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,704 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjhab5ln0",
+   "content": {
+    "subject": "Der Akademiker-Absturz",
+    "preheader": "Die Erwerbslosigkeit steigt stark an"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-bb63bba7",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-block-small"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-block-small",
+   "id": "doc-1jjhacc230",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/27/1db7c65b-7441-4409-b9a8-d6fd56c8a724.jpg",
+     "mediaId": "H6dDmYE5P-Xx",
+     "key": "2026/08/27/1db7c65b-7441-4409-b9a8-d6fd56c8a724.jpg",
+     "width": 800,
+     "height": 800,
+     "mimeType": "image/jpeg",
+     "altText": "Susanna Rusterholz",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1db7c65b-7441-4409-b9a8-d6fd56c8a724.jpg?width=1024&quality=75&auto=webp"
+    },
+    "authorname": "by Sebastian Briellmann",
+    "authorrole": "Domestic Editor"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhab5ln8",
+   "content": {
+    "text": "Is studying in Switzerland still the best path, as is always promoted in primary school?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-block-small",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na8ef0",
+   "content": {
+    "text": "One may have doubts about this when looking at the latest figures from the Federal Statistical Office."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhads170",
+   "content": {
+    "title": "Land of Plenty is over"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjhae2570",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2023/01/06/05b74f81-cb17-42d0-b555-e76c166e9fe2.jpeg",
+     "mediaId": "K8sSxx8Lj4rG",
+     "key": "2023/01/06/05b74f81-cb17-42d0-b555-e76c166e9fe2.jpeg",
+     "width": 4908,
+     "height": 3272,
+     "mimeType": "image/jpeg",
+     "altText": "Almost empty lecture hall",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2125767630"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2023/01/06/05b74f81-cb17-42d0-b555-e76c166e9fe2.jpeg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Soon to be extinct? A lecture hall at the university in St. Gallen.",
+    "source": "Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhae7fe0",
+   "content": {
+    "text": "Between 2000 and 2020, the number of university students doubled. And the university entrance qualification rates have remained high ever since – especially in urban cantons. In Geneva, for example, only 15 percent of young people started vocational training this year. Yet the figures clearly show that those who study no longer face – as was undoubtedly the case in the past – a life of ease. Job security, good pay, high social standing."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t00",
+   "content": {
+    "text": "Much is changing in the labor market. The unemployment rate for academics has risen to over 2% – and has already aligned with that of non-academics. And for those who have only recently completed their studies, the outlook is even less rosy. New figures from the Federal Statistical Office show this."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1k11nfick0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k11nficl0",
+      "content": {
+       "text": "Between 2023 and 2025, unemployment among university graduates rose significantly one year after graduation."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k11nfoec0",
+      "content": {
+       "text": "Among master's graduates at universities, it rose from 3.9 percent to 6.4 percent – ​​and among bachelor's graduates from 3.4 percent to 4.9 percent."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k11ng0h80",
+      "content": {
+       "text": "These figures are higher than for the general population, whose unemployment rate is 4.8 percent."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t11",
+   "content": {
+    "text": "There are significant differences within various fields of study. Those who study music, theater, or other arts at a university of applied sciences—or who have pursued further education in design or applied linguistics—face particular difficulties. One in ten of these graduates subsequently fails to find employment. At universities, it is primarily graduates from the «Interdisciplinary and Other» department group who are unable to find work (8.6 percent). This includes niche subjects such as Urban Studies. In the humanities and social sciences, the unemployment rate generally rose from 5.1 to 8.5 percent."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t20",
+   "content": {
+    "text": "In comparison, traditional subjects continue to have the lowest unemployment rates: Those who complete a Master's degree in Medicine or Pharmacy at a university are almost guaranteed a job (1.6 percent). Bachelor's graduates from universities of applied sciences in the fields of health and social work are also in high demand. Only 1.7 and 1.5 percent, respectively, are unemployed one year after graduation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1k11ng98t0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k11ng98t1",
+      "content": {
+       "text": "However, the downturn in the job market is not limited to niche subjects. The unemployment rate in university economics programs has more than doubled in just two years – from 3.5 to 8.5 percent."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k11ngekd0",
+      "content": {
+       "text": "Even a bachelor's degree in IT from a university of applied sciences no longer guarantees a job: The unemployment rate rose from 3 percent to 6.4 percent."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t30",
+   "content": {
+    "text": "Furthermore, almost half of university graduates are only employed on a temporary basis one year after graduation. Naturally, this includes medical graduates who work in various hospitals to obtain their specialist qualifications. However, this alone does not explain the high number. Nearly half of humanities and social science graduates also have temporary contracts. A third of university graduates even work as interns. By comparison, this is practically the case for graduates of universities of applied sciences. However, more of them—compared to university graduates—have risen to management positions."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t31",
+   "content": {
+    "text": "Unemployment – ​​or temporary jobs – is not the only reason why university graduates are no longer the «masters of the universe» and their living conditions are becoming increasingly precarious. Part-time work also plays a significant role: in the humanities and social sciences, it accounts for almost 60 percent, and in interdisciplinary programs, it is over half. These two groups also report being «underemployed» most frequently one year after graduation. By comparison, less than a quarter of graduates from other faculties work part-time."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t40",
+   "content": {
+    "text": "Overall, almost half of university graduates report having no opportunity or offer of full-time employment. At universities of applied sciences, this figure is around one-third. However, in these fields, it is a personal decision and only applies to certain areas. Over 70 percent of those who studied music, theater, or social work do not work full-time. In contrast, in construction and planning, IT, or business, the figure is significantly less than 20 percent. Across all higher education institutions, women are significantly overrepresented among part-time employees."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t41",
+   "content": {
+    "text": "This also affects wages: The median wage of university of applied sciences graduates with a bachelor's degree is higher than that of university graduates with a master's degree. And only at universities are there graduates who earn less than 50,000 Swiss francs. Besides lawyers in traineeships, this also applies to humanities and social science graduates."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t50",
+   "content": {
+    "text": "The reason for the shortage of university graduates is clear. Companies are currently hiring fewer entry-level candidates. On the one hand, this is because they are reacting to economic and geopolitical crises. On the other hand, they want to wait and see how AI will affect the job market. In short: which jobs will even be needed in the near future. The economist Mathias Binswanger has long said that it will primarily affect university graduates who hold so-called «bullshit jobs,» which are purely administrative, self-serving tasks."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t51",
+   "content": {
+    "text": "In addition, the federal government and cantons must save money. The public sector, a paradise for many university graduates, offers fewer entry-level jobs than it used to. This is now becoming noticeable."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11na2t52",
+   "content": {
+    "text": "The land of milk and honey has also closed its doors in Switzerland."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k11m126p0",
+   "content": {
+    "title": "The man of the day: Andreas Glarner"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k11nl9rf0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/27/0b9a4716-86b4-4fc6-b3b6-ac0831afbda6.jpg",
+     "mediaId": "hL0Fo2LkJX3K",
+     "key": "2026/08/27/0b9a4716-86b4-4fc6-b3b6-ac0831afbda6.jpg",
+     "width": 1300,
+     "height": 867,
+     "mimeType": "image/jpeg",
+     "altText": "National Councillor Andreas Glarner (SVP-AG), in an interview with Matthias Steimer, Federal Parliament correspondent for TeleZurich, before his hearing before the Council of States' Legal Affairs Committee (RK-SR) on Friday, June 27, 2025, in the Federal Parliament Building in Bern. The committee considered two requests to lift the immunity of the Aargau SVP National Councillor. One concerned a statement about Islam on social media, and the other a deepfake video in which rival politician Sibel Arslan (Greens) calls for voters to support him in the federal elections and to deport all Turkish criminals. (KEYSTONE/Anthony Anex)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2174569652"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/0b9a4716-86b4-4fc6-b3b6-ac0831afbda6.jpg?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11m160l0",
+   "content": {
+    "text": "He is an influential politician, a provocateur with a penchant for pushing boundaries – but is he also a far-right extremist, as he can officially be called? Andreas Glarner, the SVP National Councillor, has kept Swiss politics on its toes for more than a decade. Now he is resigning from his posts. <a data-li-document-ref=\"1890876\" href=\"https://www.nzz.ch/ld.1890876\">Read a retrospective on his turbulent career here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhafv390",
+   "content": {
+    "title": "The platform"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjhagfod0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/03/12/7cb29522-f9d7-46ef-8428-21ba4214a982.webp",
+     "mediaId": "SXl0hsx0l-Nd",
+     "key": "2026/03/12/7cb29522-f9d7-46ef-8428-21ba4214a982.webp",
+     "width": 2048,
+     "height": 553,
+     "mimeType": "image/webp",
+     "altText": "N/A",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/12/7cb29522-f9d7-46ef-8428-21ba4214a982.webp?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhah8aq0",
+   "content": {
+    "text": "What has annoyed or pleased you in recent days? What's on your mind, and what topics would you like to be better informed about? We appreciate your suggestions and tips for our research. Please send your ideas and suggestions to <a href=\"mailto:gutenmorgenschweiz@nzz.ch\">gutenmorgenschweiz@nzz.ch</a> . Thank you!<a href=\"mailto:gutenmorgenschweiz@nzz.ch\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhalegi0",
+   "content": {
+    "title": "My recommendations from the NZZ"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjhalp5v0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2025/07/02/f8577365-68b4-424f-8f72-1ba3c3572ab1.jpeg",
+     "mediaId": "YmSNVtLVb0hq",
+     "key": "2025/07/02/f8577365-68b4-424f-8f72-1ba3c3572ab1.jpeg",
+     "width": 4128,
+     "height": 2752,
+     "mimeType": "image/jpeg",
+     "altText": "Farmer Markus Freiburghaus is a critic of current agricultural policy. Christian Hofer, Director of the Federal Office for Agriculture, visited Markus and Ursula Freiburghaus at their farm in Gümmenen on May 20, 2025.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2169995856"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2025/07/02/f8577365-68b4-424f-8f72-1ba3c3572ab1.jpeg?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhals5q0",
+   "content": {
+    "text": "<strong>Russian roulette?</strong> The farmers' association is resisting Mercosur and threatening to vote no on the EU package as well. Agricultural strategist Christof Dietler considers this course dangerous. He warns of an agricultural sector that isolates itself and hardly allows for any debate about greater market participation. <a data-li-document-ref=\"10020063\" href=\"https://www.nzz.ch/ld.10020063\">An interview by David Vonplon.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjham5q80",
+   "content": {
+    "text": "<strong>Do cardiologists really earn too much?</strong> David Koller works faster and cheaper than many of his colleagues. But starting next year, he could receive significantly less pay. A visit to a cardiology practice. <a data-li-document-ref=\"10020167\" href=\"https://www.nzz.ch/ld.10020167\">A report by Isabelle Wachter.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjhama8t0",
+   "content": {
+    "text": "<strong>Have we reached our limits?</strong> An influencer's child is groped at a Zurich public swimming pool. She screams – but no one helps. Is it because the city's outdoor pools rely on personal responsibility instead of security? <a data-li-document-ref=\"10020274\" href=\"https://www.nzz.ch/ld.10020274\">An analysis by Valentina Winkler.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhamsd20",
+   "content": {
+    "title": "Do you like the «Good Morning Switzerland» newsletter? Then forward it to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhamqt30",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/guten-morgen-schweiz/\">Sign up for «Good Morning Switzerland» here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhanohs0",
+   "content": {
+    "text": "I wish you an educational day."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjhao2870",
+   "content": {
+    "text": "Sebastian Briellmann"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654589"
+   }
+  },
+  "title": "Good morning Switzerland, August 28, 2026",
+  "owner": "NZZ",
+  "dependencies": {},
+  "issueDate": "2026-08-28T00:00:00.000Z",
+  "nzzId": "ld.10021332",
+  "product": "NZZ.ch",
+  "documentId": 10021332,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-27T16:37:18.759Z",
+  "publicationDate": "2026-08-27T16:37:18.759Z",
+  "publicationLastUpdated": "2026-08-27T16:37:18.759Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T04:37:18.759Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021332",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021332",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2484852,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021332",
+    "name": "Good morning Switzerland, August 28, 2026",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Good morning Switzerland, August 28, 2026",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T16:37:18.759Z",
+     "updateTimestamp": "2026-08-27T16:37:18.759Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021332",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Good morning Switzerland, August 28, 2026 | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Good morning Switzerland, August 28, 2026, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T20:37:18+02:00",
+  "date": "2026-08-27T20:37:18+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021332",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Good morning Switzerland, August 28, 2026",
+  "ogTitle": "Good morning Switzerland, August 28, 2026 | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021332",
+  "mrf:cms_id": "nzz:ld.10021332",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021332",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021332"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:40 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Good morning Switzerland, August 28, 2026"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021332"
+   },
+   "headline": "Good morning Switzerland, August 28, 2026 | NZZ",
+   "datePublished": "2026-08-27T20:37:18+02:00",
+   "dateModified": "2026-08-27T20:37:18+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021332",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021332"
+   ],
+   "ContentCreated": "2026-08-27T16:37:18.759Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021332",
+   "heading": "Guten Morgen Schweiz 28.8.2026",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

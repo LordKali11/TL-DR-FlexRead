@@ -1,0 +1,2659 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1jiacc00m0",
+   "content": {
+    "title": "Ten ideas for better social networks that tech companies have kept quiet about",
+    "lead": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/27/703f53c3-1b38-43cd-8021-61bbfc34bbad.jpg?crop=5761,3241,x0,y0",
+     "width": 5761,
+     "height": 3241,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177603132"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5761,
+      "height": 3241,
+      "name": "desktop",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5761,
+       "height": 3241,
+       "name": "desktop",
+       "isAutomatic": true
+      },
+      {
+       "x": 1665,
+       "y": 0,
+       "width": 2431,
+       "height": 3241,
+       "name": "tablet",
+       "isAutomatic": true
+      },
+      {
+       "x": 1969,
+       "y": 0,
+       "width": 1823,
+       "height": 3241,
+       "name": "mobile",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "",
+    "caption": "",
+    "author": ""
+   },
+   "data": {
+    "_leadDirective": {}
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-o017vJeE2J",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Ruth Fulterer",
+       "url": "/impressum/ruth-fulterer-ld.1601051",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-DQ8mAUzxwv",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Gioia da Silva",
+       "url": "/impressum/gioia-da-silva-ld.1837886",
+       "teaserImage": {
+        "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "4128,2322,x0,y215"
+         },
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3669,2752,x229,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x1032,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-cEzjfuHKb5",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Olivia Fischer (Illustration)",
+       "url": "/impressum/olivia-fischer-ld.10019030",
+       "teaserImage": {
+        "originalUrl": "/2026/03/05/656f9fd4-e885-4896-9a61-b9142ec06df4.jpg?crop=4000,4000,x1000,y0",
+        "width": 6000,
+        "height": 4000,
+        "crop": {
+         "x": 1000,
+         "y": 0,
+         "width": 4000,
+         "height": 4000,
+         "name": "1:1"
+        },
+        "imageService": "fastly",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/05/656f9fd4-e885-4896-9a61-b9142ec06df4.jpg?crop=4000,4000,x1000,y0&width=1024&quality=75&auto=webp"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpu0",
+   "content": {
+    "text": "What are Instagram, TikTok, and other social media platforms doing to young people? This concern is on many people's minds. <a target=\"_blank\" href=\"https://www.nzz.ch/technologie/verbietet-frankreich-jugendlichen-social-media-ist-das-technisch-ueberhaupt-moeglich-und-was-sagt-die-forschung-ueber-solche-verbote-ld.1922437\">Governments are discussing bans</a> . In Switzerland, entrepreneur Guido Fluri launched an initiative this week aimed at providing greater protection in the digital sphere and holding tech companies accountable. And courts in the US will soon decide whether these platforms <a href=\"https://www.nzz.ch/technologie/der-tabak-moment-von-social-media-junge-erwachsene-beschuldigen-instagram-tiktok-und-co-sie-suechtig-gemacht-zu-haben-ld.1923401\">can be held responsible for the depression, anxiety, and eating disorders of their young users.</a>"
+   },
+   "data": {},
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-d1c3a8ad",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jipv2rti1",
+   "content": {
+    "text": "The plaintiffs argue that social networks are designed to harm and addict young people. Among the strongest <a target=\"_blank\" href=\"https://www.lacourt.ca.gov/pages/lp/access-a-case/tp/find-case-information/cp/os-civil-case-access\">pieces of evidence</a> in court are <a target=\"_blank\" href=\"https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf\">internal documents</a> such as <a target=\"_blank\" href=\"https://techoversight.org/2026/01/25/top-report-mdl-jan-25/?ref=dispatch.techoversight.org\">emails and presentations</a> from the tech companies, as well as <a target=\"_blank\" href=\"https://www.judiciary.senate.gov/imo/media/doc/6ccd5abd-cbb9-5107-d48d-b99e821eb244/2025-09-09%20-%20Testimony%20-%20Sattizahn1.pdf\">statements from whistleblowers</a> . Many of these documents were brought to light for the first time through the trials."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jipv5jbp1",
+   "content": {
+    "text": "The documents show that employees recognized a risk to the mental health of young users and worked on measures to make social networks a safer place for teenagers. Based on these documents, we highlight their most creative ideas and why they were rarely implemented."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jj1qc4i60",
+   "content": {
+    "text": "We confronted the companies with the allegations from this article. We were only able to include responses from TikTok. We received no statement from Meta and Snap, the owners of Instagram and Snapchat."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkpu2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddmhbv0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/a6e77f32-f109-44c2-86d5-2e3fca08e997.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkpu4",
+   "content": {
+    "text": "1.<br> Avoiding<br> FOMO elements"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpu5",
+   "content": {
+    "text": "On TikTok, Snapchat, Instagram and even WhatsApp, there are posts that disappear after 24 hours, known as Stories. Among teenagers, these create a fear of missing out (FOMO). Anyone who isn't online often enough might miss a friend's post. These ephemeral elements could simply be eliminated for children – or Stories for them could be set to disappear later, for example, after a week. This would relieve them of the pressure to be constantly online."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkpu6",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddnd7m0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/4ebc7b0b-16b4-4c51-8f8c-16d5ac1478bd.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkpu8",
+   "content": {
+    "text": "2.<br> Mental hygiene streak<br> instead of Snapstreak"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jif4vkap1",
+   "content": {
+    "text": "Social media platforms are turning teenage friendships into a business model. If two users on Snapchat send each other a picture or video every day for three days, the app displays a fire emoji (🔥) next to their friend's name. This is called a streak. After four consecutive days, they're rewarded with a counter. If the two users continue to send each other a photo or video daily, the counter keeps increasing. However, if they don't reply within 24 hours, the fire goes out. All the effort was for nothing; the streak is over."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpu10",
+   "content": {
+    "text": "Teenagers are thus forced to log into Snapchat at least once a day. Forced to abstain from online activity, some therefore have others maintain their streaks. For example, they entrust their smartphones to their parents during ski trips so that the parents can keep the streak going. Other teenagers have emailed Evan Spiegel, the CEO of Snap, asking him to reactivate a streak that had died."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jif5gir91",
+   "content": {
+    "text": "Spiegel recognized how problematic this feature was. <a target=\"_blank\" href=\"https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf\">Documents from the plaintiffs</a> cite internal records indicating that Spiegel himself had requested a plan to «kill» the Streak feature, calling it «the right thing to do.» However, the change Snapchat actually implemented went in a different direction: Since 2023, users have been able to pay to restore a Streak. According to the plaintiffs' documents, the feature is said to have generated $47 million in revenue in its first year."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpu11",
+   "content": {
+    "text": "Reward elements also work for «healthy» goals, such as in learning, fitness, and meditation apps. What if they were used to encourage responsible app use? Why not include reward emojis for «not using the app at night,» «48-hour digital detox,» or «only opening the app for 15 minutes»?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkpu12",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddp4cm0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/b431ab8b-6fa3-425f-848d-b5545a8ab43f.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkpv0",
+   "content": {
+    "text": "3.<br> Night mode to<br> protect sleep"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv1",
+   "content": {
+    "text": "Teenagers are sleeping less than they would like because they can't put their phones down. Internal studies by the platforms themselves confirm this. This could be changed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jif5ldq11",
+   "content": {
+    "text": "According to presentation slides available to the plaintiffs, Instagram found that nearly half of all teenagers visit the platform at least once a week between midnight and 4 a.m. – in two out of three cases prompted by a notification. Such notifications can be turned off at night. After years of pressure, TikTok and Instagram finally did so. Snapchat does not offer a similar sleep mode."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv3",
+   "content": {
+    "text": "Furthermore, a color filter, such as black and white or a strong blue light filter, could make the content less stimulating. Such a filter was discussed at Instagram but not implemented. <a target=\"_blank\" href=\"https://techoversight.org/wp-content/uploads/2026/02/Christakis-report.pdf\">The plaintiffs cite the testimony of former employees.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv4",
+   "content": {
+    "text": "China shows that things can be done very differently: The country enforced a strict nighttime curfew for young people on Douyin, the Chinese version of TikTok. The app is completely blocked for young users at night."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkpv5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddpn470",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/9330c951-27e7-476a-98c0-a83b3700dd74.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkpv7",
+   "content": {
+    "text": "4.<br> Tools for parents<br> to set usage time"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv8",
+   "content": {
+    "text": "In China, the state regulates screen time – in the West, this could at least be made possible for parents. Parents already have the option of linking their profiles to those of their teenagers on some social networks. On TikTok and Instagram, they can set time limits for their children, establish blackout periods, and see how long their child spends on the platform. This allows them to adjust blackout times to their individual sleep needs and ensure that a child doesn't access social media during school hours."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv9",
+   "content": {
+    "text": "However, this appears to have little effect. Meta's own research found that parental controls have hardly any impact on teenagers' usage. Paradoxically, teenagers whose parents reported more strictly controlling their usage actually spent more time on the platform, <a target=\"_blank\" href=\"https://techoversight.org/wp-content/uploads/2026/02/Christakis-report.pdf\">according to an internal document cited by plaintiffs</a> . This could indicate that parents only increase their monitoring when they are already worried about their child."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv10",
+   "content": {
+    "text": "The situation might be different if all parents were required to grant access to their children's profiles. The approval process could be designed in such a way as to raise parents' awareness of potential harm and dangers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkpv11",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddq9r70",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/7dee83de-e4ae-4728-99ad-0ded8793d4ae.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkpv13",
+   "content": {
+    "text": "5.<br> No like counter"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv15",
+   "content": {
+    "text": "Under the codename «Project Daisy,» Instagram intensively researched how to hide public like counters. Participants in the experiment could still see how many people had liked their picture. However, the counter remained hidden from all other users."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jif67o2p1",
+   "content": {
+    "text": "Internal tests proved this improved well-being and significantly reduced social pressure. Users would be «significantly less likely to feel worse,» plaintiffs quoted from an internal document. Meta nevertheless decided to keep the public like counter. Tests showed that removing it had reduced user dwell time by 0.29% and advertising revenue by 1%."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jif784b91",
+   "content": {
+    "text": "Instead, the feature was buried deep in the settings as an opt-in option. As a result, it is hardly ever used."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkpv16",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddqq170",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/e3c7474f-5e02-4583-a7e2-9616c4f2d58e.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkpv18",
+   "content": {
+    "text": "6.<br> A way out of the rabbit hole"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkpv19",
+   "content": {
+    "text": "The platforms are aware that young people can quickly fall into harmful filter bubbles. For example, an Instagram product manager wrote in an internal message, which the plaintiffs quote: «If you start following borderline accounts or interacting with such content, our recommendation algorithms will push you into a rabbit hole with even worse content.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jisi2v821",
+   "content": {
+    "text": "The algorithm increasingly shows young people content they are attracted to, even if it involves the glorification of suicide or eating disorders. This problem could be fixed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq00",
+   "content": {
+    "text": "A team at Meta developed an artificial intelligence that recognizes videos that trigger self-deprecation in teenagers. For one in ten teenagers, 57% of the suggested videos fell into this category. These videos could easily be blocked for users under 16. According to <a target=\"_blank\" href=\"https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf\">statements from those involved</a> in the plaintiffs' documents, Instagram CEO Adam Mosseri halted the project. Two employees reportedly resigned in disappointment as a result."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkq02",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddrf1f0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/2fbd1b55-e2da-4823-83b2-ff758fd79ed6.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkq04",
+   "content": {
+    "text": "7.<br> Abolishing<br> location sharing"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq05",
+   "content": {
+    "text": "Snapchat encourages young people to constantly share their location with their contacts. These contacts can see the location of all their friends at a glance on a map. Negative feelings are practically guaranteed when someone realizes that friends are meeting up without them."
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq06",
+   "content": {
+    "text": "Even more serious: Snapchat's location sharing feature has already been used by several men to <a target=\"_blank\" href=\"https://www.12news.com/article/news/crime/scottsdale-peeping-tom/75-27e3e2c5-09be-4a68-a411-af23993e26cc\">determine</a> the whereabouts of teenage girls or to <a target=\"_blank\" href=\"https://www.bryanfagan.com/2024/02/the-surging-dangers-of-location-sharing-snapchat-stalker/\">stalk</a> them. The men pretended to be teenage girls on Snapchat in order to befriend them and constantly access their location."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jinaea4n0",
+   "content": {
+    "text": "Snapchat didn't remove this feature after these incidents. Instead, competitor Instagram followed suit in 2025. At least on Instagram, location sharing is disabled by default, not enabled. Instagram only shares the location when the app is open."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkq08",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddsab00",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/96e10892-7b26-4f74-8392-59ba20234d05.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkq010",
+   "content": {
+    "text": "8.<br> Slowed-down scrolling"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jifa1c390",
+   "content": {
+    "text": "Douyin, the Chinese version of TikTok, enforces a five-second break for users under 14 who have been scrolling for an extended period. These breaks cannot be shortened. After 40 minutes of use, the app locks itself – a requirement of the Chinese government. This measure has curbed the excessive use of the app by young teenagers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jifaral00",
+   "content": {
+    "text": "TikTok, the parent company of Douyin, has not implemented mandatory screen timeouts. Former Google ethicist Tristan Harris, among others, compared Douyin to spinach and TikTok to opium for this reason. TikTok told the NZZ that there is no consensus on how much screen time is «too much.» However, <a target=\"_blank\" href=\"https://newsroom.tiktok.com/neue-funktionen-fuer-jugendliche-und-familien-auf-tiktok?lang=de-DE\">since 2023</a> , underage TikTok users have had to enter a code after 60 minutes to continue scrolling."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jifagbkh0",
+   "content": {
+    "text": "Scrolling could also be slowed down in other ways. For example, by not allowing videos to play automatically (autoplay), but instead requiring users to click on each video to start it. This would make watching new videos a more conscious decision. Such measures have been discussed at all tech companies, but only YouTube has disabled autoplay for young people in the default settings."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkq012",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddsq6f0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/e522593b-bb73-4368-bed5-a999f98eb2a9.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkq014",
+   "content": {
+    "text": "9.<br> No contact<br> from strangers"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq015",
+   "content": {
+    "text": "In 2020, 500,000 teenagers on Instagram had «inappropriate interactions» with adults every day – and that's just in English-speaking countries. <a target=\"_blank\" href=\"https://techoversight.org/wp-content/uploads/2026/02/Christakis-report.pdf\">This is according to internal company documents.</a> For years, employees have been discussing the fact that cyber grooming, in which adults establish contact with minors to <a href=\"https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/wie-paedokriminelle-mit-ki-gezielt-jagd-auf-maennliche-teenager-machen-ld.1883385\">sexually harass, manipulate, abuse, or even blackmail them</a> , is a real problem."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq016",
+   "content": {
+    "text": "For a long time, nothing happened. But the solution is simple: young people should only be able to receive direct messages from people they already follow. Unknown adults should not be able to contact them, nor should they be able to add them to group chats."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq017",
+   "content": {
+    "text": "After years of external pressure, Instagram, Snapchat and TikTok now have such restrictions – however, there are still loopholes, for example through comments or when teenagers or adults provide a false age."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jiddfkq018",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jiddt9gg0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/26/f4a59f8c-5332-4468-a540-33426adc5fe4.png?width=1024",
+     "width": 1891,
+     "height": 1080,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jiddfkq020",
+   "content": {
+    "text": "10.<br> Effective age limits"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jiddfkq021",
+   "content": {
+    "text": "Effective age verification is a fundamental prerequisite for all the measures described here. After all, young people can circumvent any protection by using adult accounts. Currently, children often use social networks even before the official minimum age of 13, that is, before they are cognitively capable of assessing the impact, consequences, and manipulation of images and videos online."
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jifcnrnj1",
+   "content": {
+    "text": "Some platforms, including Instagram, now use <a href=\"https://www.nzz.ch/technologie/wie-alt-schaetzt-die-ki-ihr-gesicht-eine-kurze-anleitung-zum-selbstversuch-ld.1860018\">facial scans to estimate the age of their users</a>. This is an infringement on user privacy and can also be circumvented. Yet for at least four years, there have been systems to verify age online that <a href=\"https://www.nzz.ch/technologie/porno-statt-pingu-im-internet-finden-kinder-uneingeschraenkt-sexvideos-das-liesse-sich-verhindern-ld.1838724\">preserve user privacy</a>. These can, for example, prove that a user belongs to a certain age group – such as over 18 or between 13 and 16 – without the user having to disclose a photo of their face, their name or their date of birth. The Swiss e-ID and the planned EU Digital Identity Wallet are also examples of such secure systems."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jj1qs89v0",
+   "content": {
+    "text": "TikTok says it strives to combine privacy and security. However, users can simply enter a date of birth. The company attempts to identify users under 13 based on published videos and their behavior on the platform. Through a <a target=\"_blank\" href=\"https://newsroom.tiktok.com/update-zur-durchsetzung-altersgerechter-nutzungserlebnisse-von-tiktok-in-europa?lang=de-DE\">pilot project</a>, «thousands» of accounts belonging to children under 13 were reportedly deleted in 2025."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jifcqr760",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jj1j2lb31",
+   "content": {
+    "text": "The research shows that the companies behind social networks have dedicated employees with good ideas for making the platforms a safer place for young people. It's high time management implemented at least a few of these ideas."
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "nzzas-footnote"
+  },
+  {
+   "identifier": "nzzas-footnote",
+   "id": "doc-89d2df99",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jiddfkq13",
+   "paidContent": true,
+   "prevElement": "nzzas-footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jiacc00m4",
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jiacc00m5",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Opinion",
+       "title": "Banning teenagers from social media is paternalistic and dangerous. There are better ways to protect children online.",
+       "teaserImage": {
+        "originalUrl": "/2026/02/16/0d501ed2-55a0-4922-93fe-59c044ed42e8.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/16/0d501ed2-55a0-4922-93fe-59c044ed42e8.jpg?width=1024&quality=75&auto=webp",
+        "width": 4500,
+        "height": 3000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4500,2531,x0,y245"
+         },
+         {
+          "name": "1:1",
+          "crop": "2667,2667,x836,y173"
+         },
+         {
+          "name": "4:3",
+          "crop": "3556,2667,x472,y167"
+         },
+         {
+          "name": "3:4",
+          "crop": "2250,3000,x996,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4000,2667,x250,y167"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Social networks are important public spaces. Young people should be able to participate in them. With the right guidance, they can learn how to use the internet responsibly. Yet, the platforms themselves must finally take action.",
+        "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+       },
+       "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1924102",
+       "readingTime": 420,
+       "showComments": true,
+       "authorLine": "Gioia da Silva",
+       "tags": [
+        "Technologie: Empfehlungen"
+       ],
+       "characterCount": 8578,
+       "product": "NZZ.ch",
+       "documentId": 1924102,
+       "layout": "opinion",
+       "publicationDate": "2026-02-19T04:30:00.000Z",
+       "publicationLastUpdated": "2026-05-13T13:21:13.544Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-02-19T16:30:00.000Z",
+       "teaserCaption": "Social networks are important public spaces. Young people should be able to participate in them. With the right guidance, they can learn how to use the internet responsibly. Yet, the platforms themselves must finally take action.",
+       "authorImage": {
+        "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/das-social-media-verbot-fuer-teenager-ist-paternalistisch-und-gefaehrlich-es-gibt-bessere-mittel-um-kinder-im-internet-zu-schuetzen-ld.1924102",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1306,
+       "leadText": "Social networks are important public spaces. Young people should be able to participate in them. With the right guidance, they can learn how to use the internet responsibly. Yet, the platforms themselves must finally take action."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jiacc00m6",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Explained",
+       "title": "Should we ban social networks for young people? Is that even technically feasible? And what does research say about such bans?",
+       "teaserImage": {
+        "originalUrl": "/2022/08/02/682a8a7b-f606-4143-beb6-f846212c9a4d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/08/02/682a8a7b-f606-4143-beb6-f846212c9a4d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3850,
+        "height": 2706,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3850,2166,x0,y270"
+         },
+         {
+          "name": "1:1",
+          "crop": "2706,2706,x572,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3608,2706,x121,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2030,2706,x910,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3850,2567,x0,y70"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The most important questions and answers about age limits on social networks.",
+        "teaserAuthor": "Jessica Hill / AP"
+       },
+       "teaserAuthor": "Jessica Hill / AP",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1922437",
+       "readingTime": 540,
+       "authorLine": "Gioia da Silva, Ruth Fulterer, Eva Mell",
+       "tags": [
+        "Psyche und Hirnforschung",
+        "Soziale Netzwerke"
+       ],
+       "paywallQuestionOne": "What arguments support a social media ban for young people?",
+       "paywallQuestionTwo": "How do social networks affect the well-being of young people?",
+       "paywallQuestionThree": "What technical solutions exist for age verification on online platforms?",
+       "characterCount": 12868,
+       "product": "NZZ.ch",
+       "documentId": 1922437,
+       "layout": "longformstandard",
+       "publicationDate": "2026-07-21T18:56:35.905Z",
+       "publicationLastUpdated": "2026-07-22T07:11:14.731Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-07-22T06:56:35.905Z",
+       "teaserCaption": "The most important questions and answers about age limits on social networks.",
+       "authorImage": {
+        "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/verbietet-frankreich-jugendlichen-social-media-ist-das-technisch-ueberhaupt-moeglich-und-was-sagt-die-forschung-ueber-solche-verbote-ld.1922437",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1797,
+       "leadText": "The most important questions and answers about age limits on social networks.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jiacc00m7",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "\"Turn off the algorithm!\" The chief lawyer for the social media plaintiffs is demanding a radical overhaul of the platforms.",
+       "teaserImage": {
+        "originalUrl": "/2026/02/06/be105007-1790-4532-8557-b1d8b8f9b0fc.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/06/be105007-1790-4532-8557-b1d8b8f9b0fc.jpg?width=1024&quality=75&auto=webp",
+        "width": 6192,
+        "height": 4128,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6192,3482,x0,y646"
+         },
+         {
+          "name": "1:1",
+          "crop": "2577,2577,x1738,y1463"
+         },
+         {
+          "name": "4:3",
+          "crop": "4349,3261,x1020,y867"
+         },
+         {
+          "name": "3:4",
+          "crop": "1933,2577,x1999,y1551"
+         },
+         {
+          "name": "3:2",
+          "crop": "4349,2899,x926,y1229"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Matthew Bergman is currently the tech industry's biggest nightmare. On behalf of 1,500 families, he is suing platforms like Instagram, YouTube, and TikTok. Here he explains why he believes he will win.",
+        "teaserAuthor": "Inga Erhan / Imago"
+       },
+       "teaserAuthor": "Inga Erhan / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "paywallQuestionOne": "Previous lawsuits against social media companies have failed. What's different this time?",
+       "paywallQuestionTwo": "What is the parallel between a harmless social media video and a cigarette?",
+       "paywallQuestionThree": "What does Bergman demand to make social media platforms safer for young people? ",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1923757",
+       "embeds": {
+        "videos": [
+         {
+          "id": "N0fyJzjC",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "readingTime": 480,
+       "showComments": true,
+       "authorLine": "Gioia da Silva",
+       "tags": [
+        "Soziale Netzwerke"
+       ],
+       "characterCount": 10347,
+       "product": "NZZ.ch",
+       "documentId": 1923757,
+       "layout": "regular",
+       "publicationDate": "2026-02-09T04:30:00.000Z",
+       "publicationLastUpdated": "2026-05-19T13:15:45.288Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-02-09T16:30:00.000Z",
+       "teaserCaption": "Matthew Bergman is currently the tech industry's biggest nightmare. On behalf of 1,500 families, he is suing platforms like Instagram, YouTube, and TikTok. Here he explains why he believes he will win.",
+       "authorImage": {
+        "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/schalten-sie-den-algorithmus-aus-chef-anwalt-der-social-media-klaeger-fordert-einen-radikalen-umbau-der-plattformen-ld.1923757",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1520,
+       "premium": true,
+       "leadText": "Matthew Bergman is currently the tech industry's biggest nightmare. On behalf of 1,500 families, he is suing platforms like Instagram, YouTube, and TikTok. Here he explains why he believes he will win.",
+       "nzzSummaryIsAuto": false
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jipvm6qm0",
+      "content": {
+       "owner": "NZZ",
+       "title": "Why we can't resist social media",
+       "teaserImage": {
+        "originalUrl": "/2023/04/12/3fe08280-b1db-46e9-afa9-fed2223b8396.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/04/12/3fe08280-b1db-46e9-afa9-fed2223b8396.png?width=1024&quality=75&auto=webp",
+        "width": 1906,
+        "height": 1072,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1906,1072,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1072,1072,x417,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Facebook, YouTube, TikTok, and similar platforms are designed to make us dependent. The corporations behind these platforms have perfected the art of manipulating our dopamine levels."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1733551",
+       "embeds": {
+        "videos": [
+         {
+          "id": "N0fyJzjC",
+          "provider": "jw",
+          "teaser": true
+         }
+        ]
+       },
+       "readingTime": 300,
+       "authorLine": "Pascal Burkhard, Jasmine Rueegg",
+       "characterCount": 6564,
+       "product": "NZZ.ch",
+       "documentId": 1733551,
+       "layout": "video",
+       "publicationDate": "2023-04-12T14:10:03.518Z",
+       "publicationLastUpdated": "2023-04-13T04:51:46.963Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2023-04-13T02:10:03.518Z",
+       "teaserCaption": "Facebook, YouTube, TikTok, and similar platforms are designed to make us dependent. The corporations behind these platforms have perfected the art of manipulating our dopamine levels.",
+       "url": "/technologie/warum-wir-den-sozialen-netzwerken-nicht-widerstehen-koennen-ld.1733551",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1002,
+       "leadText": "Facebook, YouTube, TikTok, and similar platforms are designed to make us dependent. The corporations behind these platforms have perfected the art of manipulating our dopamine levels."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZaS",
+  "title": "Ten ideas for better social networks that tech companies have kept quiet about",
+  "teaserImage": {
+   "originalUrl": "/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1024&quality=75&auto=webp",
+   "width": 5761,
+   "height": 3241,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5761,3241,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "998,998,x2479,y928"
+    },
+    {
+     "name": "4:3",
+     "crop": "4321,3241,x600,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1921,2561,x2467,y444"
+    },
+    {
+     "name": "3:2",
+     "crop": "4862,3241,x450,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors."
+  },
+  "nzzasFootnote": true,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1926585",
+  "readingTime": 540,
+  "colorSchema": "color-schema--linden",
+  "authorLine": "Ruth Fulterer, Gioia da Silva, Olivia Fischer (illustration)",
+  "tags": [
+   "Technologie: Empfehlungen"
+  ],
+  "dependencies": {},
+  "characterCount": 12769,
+  "breadcrumbs": [
+   {
+    "name": "Technology",
+    "path": "/technologie"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1926585,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-03-08T04:30:00.000Z",
+  "publicationDate": "2026-03-08T04:30:00.000Z",
+  "publicationLastUpdated": "2026-05-13T13:21:57.442Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-03-08T16:30:00.000Z",
+  "teaserCaption": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+  "nzzAuthors": [
+   {
+    "id": 1532351,
+    "name": "Ruth Fulterer",
+    "shortName": "ful",
+    "pianoId": "84c1f069-1900-49fa-8ab5-45d154bf1174",
+    "external": false
+   },
+   {
+    "id": 1572105,
+    "name": "Gioia da Silva",
+    "shortName": "gds",
+    "pianoId": "fd9b3a05-4d23-4ac1-8985-8c23a3e05570",
+    "external": false
+   },
+   {
+    "id": 1894720,
+    "name": "Olivia Fischer",
+    "shortName": "fio",
+    "external": false
+   }
+  ],
+  "authorImage": {
+   "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1601051,
+    "name": "Ruth Fulterer (ful.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1837886,
+    "name": "Gioia da Silva (gds.) ",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 10019030,
+    "name": "Olivia Fischer (Illustration)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2026/03/05/656f9fd4-e885-4896-9a61-b9142ec06df4.jpg?crop=4000,4000,x1000,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+  "url": "/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+  "department": {
+   "name": "Technology",
+   "path": "/technologie"
+  },
+  "estimationWordCount": 1859,
+  "leadText": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+  "nzzSummaryEN": "- Internal documents from tech companies like Meta, Tiktok, and Snap show that the companies recognized the dangers their platforms pose to the mental health of young people. Although employees developed numerous concrete ideas to better protect young users, these measures were often not implemented for profit-related reasons.\n- Many of the proposals aimed to mitigate addictive and socially stressful design elements. These included ideas like hiding public \"Like\" counters to reduce social pressure and abolishing short-lived \"Stories\" that fuel the fear of missing out.\n- Other concepts included technical safeguards to increase control over usage and limit harmful content. Proposals included, among other things, night modes to protect sleep, the ability for users to reset their recommendation algorithm to break out of content bubbles (\"rabbit holes\"), and the introduction of effective age gates so that protective measures cannot be bypassed.",
+  "nzzSummaryDE": "Internal documents from tech companies like Meta, TikTok, and Snap show that the companies recognized the dangers their platforms posed to the mental health of young people. Although employees developed numerous concrete ideas for better protecting young users, these measures were often not implemented for profit reasons.\n Many of the proposals aimed to mitigate addictive and socially stressful design elements. These included ideas such as hiding public «like» counters to reduce social pressure and eliminating short-lived «stories» that fuel fear of loss.\n Other concepts included technical safeguards to increase control over usage and limit harmful content. Proposals included night modes to protect sleep, the ability for users to reset their recommendation algorithm to escape content bubbles («rabbit holes»), and the introduction of effective age restrictions to prevent circumvention of safeguards.",
+  "nzzSummaryIsAuto": false,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Ten ideas for better social networks that tech companies have kept quiet about",
+  "nzzPrintSubtitle": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+   "title": "These ideas for better youth protection have been kept secret from social networks.",
+   "socialMediaTitle": "Ten ideas for better social networks that tech companies have kept quiet about",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2428145,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Social Media",
+    "slug": "/themen/social-media"
+   },
+   {
+    "name": "Instagram",
+    "slug": "/themen/instagram"
+   },
+   {
+    "name": "TikTok",
+    "slug": "/themen/tiktok"
+   },
+   {
+    "name": "Depression",
+    "slug": "/themen/depression"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1924102",
+    "ld.1922437",
+    "ld.1923757",
+    "ld.1733551"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 871824,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "social-media",
+   "name": "Social Media",
+   "tagName": "Social Media",
+   "qId": "Q202833",
+   "seoTitle": "Social Media – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:58:24.738Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/social-media",
+   "size": 879,
+   "relatedTopics": [
+    {
+     "name": "Instagram",
+     "slug": "/themen/instagram"
+    },
+    {
+     "name": "Tiktok",
+     "slug": "/themen/tiktok"
+    },
+    {
+     "name": "Depression",
+     "slug": "/themen/depression"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "Meta and the billion-dollar settlement: Will social media now be safer?",
+    "authorLine": "Nadine Landert",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Akzent»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/e69bac7b-a2b7-470c-a4bd-474b51ee2740.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/e69bac7b-a2b7-470c-a4bd-474b51ee2740.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y470"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y315"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x397,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y359"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?"
+    },
+    "nzzId": "ld.10021292",
+    "readingTime": 60,
+    "paywallQuestionOne": "How does the billion-dollar settlement affect security on social media?",
+    "paywallQuestionTwo": "What role did Arturo Béjar play in the trial against Meta?",
+    "paywallQuestionThree": "What measures must Meta implement to protect young people?",
+    "characterCount": 1624,
+    "product": "NZZ.ch",
+    "documentId": "10021292",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-28T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T15:30:00.000Z",
+    "teaserCaption": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/akzent/meta-und-der-milliarden-vergleich-wird-social-media-jetzt-sicherer-ld.10021292",
+    "department": {
+     "name": "accent",
+     "path": "/podcast/akzent"
+    },
+    "estimationWordCount": 282,
+    "leadText": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Meta and the billion-dollar comparison: Is social media becoming safer now?",
+    "teaserPodcastAuthor": "Nadine Landert, Gioia da Silva",
+    "teaserPodcastDate": "28.8.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2581151-m-6eebfd055f1a3ec428a3493a7509ab62.mp3",
+    "teaserPodcastDuration": "14",
+    "locale": "de-CH"
+   },
+   {
+    "title": "Good news for the younger generation: Social networks are finally being forced to take responsibility",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2912,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3636,2045,x262,y416"
+      },
+      {
+       "name": "4:3",
+       "crop": "3883,2912,x59,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2912,2912,x1088,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2184,2912,x1523,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y123"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+     "teaserAuthor": "Manuel Orbegozo / Reuters"
+    },
+    "teaserAuthor": "Manuel Orbegozo / Reuters",
+    "flag": "Opinion",
+    "nzzId": "ld.10021209",
+    "readingTime": 180,
+    "paywallQuestionOne": "What youth protection measures does Meta implement on Instagram and Facebook?",
+    "paywallQuestionTwo": "How does this comparison affect the entire social media industry?",
+    "paywallQuestionThree": "What restrictions apply to young people when using meta-apps?",
+    "characterCount": 4018,
+    "tags": [
+     "Technologie aktuell"
+    ],
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021209",
+    "layout": "opinion",
+    "publicationDate": "2026-08-27T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-27T07:38:25.032Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+    "teaserCaption": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+    "authorLine": "Ruth Fulterer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 617,
+    "leadText": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 11,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Latest developments",
+    "title": "Social media addiction: Meta settles for up to $18 billion, restricts use for adolescents",
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/267ef739-96dd-4554-8852-ddd44a38104b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/267ef739-96dd-4554-8852-ddd44a38104b.jpg?width=1024&quality=75&auto=webp",
+     "width": 3256,
+     "height": 2223,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3256,1831,x0,y82"
+      },
+      {
+       "name": "4:3",
+       "crop": "2964,2223,x240,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1837,1837,x823,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1667,2223,x883,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3256,2171,x0,y26"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In the US, Facebook's parent company, Meta, had to answer for itself in court. Several states accused Meta of intentionally encouraging children to engage in excessive social media use. The consequences are far-reaching.",
+     "teaserAuthor": "Mike Blake / Reuters"
+    },
+    "teaserAuthor": "Mike Blake / Reuters",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1923401",
+    "readingTime": 480,
+    "authorLine": "Marie-Astrid Langer, San Francisco, Ruth Fulterer",
+    "tags": [
+     "Soziale Netzwerke"
+    ],
+    "characterCount": 10667,
+    "paywallQuestionOne": "What are the central allegations in the trial against Meta?",
+    "paywallQuestionTwo": "How do internal documents affect the lawsuit against Meta?",
+    "paywallQuestionThree": "What parallels exist with lawsuits against the tobacco industry?",
+    "product": "NZZ.ch",
+    "documentId": "1923401",
+    "layout": "regular",
+    "publicationDate": "2026-08-26T20:08:00.040Z",
+    "publicationLastUpdated": "2026-08-27T07:31:10.225Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-27T08:08:00.040Z",
+    "teaserCaption": "In the US, Facebook's parent company, Meta, had to answer for itself in court. Several states accused Meta of intentionally encouraging children to engage in excessive social media use. The consequences are far-reaching.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/der-tabak-moment-von-social-media-junge-erwachsene-beschuldigen-instagram-tiktok-und-co-sie-suechtig-gemacht-zu-haben-ld.1923401",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 1564,
+    "leadText": "In the US, Facebook's parent company, Meta, had to answer for itself in court. Several states accused Meta of intentionally encouraging children to engage in excessive social media use. The consequences are far-reaching.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "Running until you drop: Ultramarathons are booming",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Akzent»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/e9a4ed03-c23f-46b5-b42a-f7b72bd245a6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/e9a4ed03-c23f-46b5-b42a-f7b72bd245a6.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2999,1687,x1,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x416,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y112"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Ultramarathons are extremely demanding, both physically and mentally. But you can make money from them if you cleverly market the extreme sport on social media."
+    },
+    "tags": [
+     "Extremsport"
+    ],
+    "editor": "1727730",
+    "nzzId": "ld.10020411",
+    "readingTime": 60,
+    "paywallQuestionOne": "Why are ultramarathons booming despite the extreme physical strain?",
+    "paywallQuestionTwo": "How does social media influence the popularity of ultramarathons?",
+    "paywallQuestionThree": "What makes the «backyard» format particularly attractive for runners?",
+    "characterCount": 1465,
+    "product": "NZZ.ch",
+    "documentId": "10020411",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-24T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T15:30:00.000Z",
+    "teaserCaption": "Ultramarathons are extremely demanding, both physically and mentally. But you can make money from them if you cleverly market the extreme sport on social media.",
+    "authorLine": "Simon Schaffer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/akzent/laufen-bis-zum-umfallen-ultramarathons-boomen-ld.10020411",
+    "department": {
+     "name": "accent",
+     "path": "/podcast/akzent"
+    },
+    "estimationWordCount": 268,
+    "leadText": "Ultramarathons are extremely demanding, both physically and mentally. But you can make money from them if you cleverly market the extreme sport on social media.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Running until you drop: Ultramarathons are booming ",
+    "teaserPodcastAuthor": "Simon Schaffer mit Ines Häfliger",
+    "teaserPodcastDate": "24.08.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2575728-m-988c6406bea6e7637860d8b6fb344c0f.mp3?source=feed",
+    "teaserPodcastDuration": "15",
+    "locale": "de-CH"
+   },
+   {
+    "title": "How do you commercialize war? That's the question posed by Germany's most famous military influencer",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/46e1723a-318f-4b92-babc-ecd4ab4a83a2.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/46e1723a-318f-4b92-babc-ecd4ab4a83a2.jpg?width=1024&quality=75&auto=webp",
+     "width": 3990,
+     "height": 5985,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3990,2244,x0,y971"
+      },
+      {
+       "name": "4:3",
+       "crop": "3990,2993,x0,y1496"
+      },
+      {
+       "name": "1:1",
+       "crop": "1861,1861,x1484,y1051"
+      },
+      {
+       "name": "3:4",
+       "crop": "3627,4836,x363,y1045"
+      },
+      {
+       "name": "3:2",
+       "crop": "3990,2660,x0,y924"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The German government, the defense industry, and NATO are counting on David Matei. He gets clicks and attention, but he earns little money. Yet, with his videos, Matei is helping to shape the world of tomorrow.",
+     "teaserAuthor": "Heinz Heiss"
+    },
+    "editor": "1541188",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/21/46e1723a-318f-4b92-babc-ecd4ab4a83a2.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/46e1723a-318f-4b92-babc-ecd4ab4a83a2.jpg?width=1024&quality=75&auto=webp",
+     "width": 3990,
+     "height": 5985,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3627,2040,x363,y1012"
+      },
+      {
+       "name": "1:1",
+       "crop": "1861,1861,x1483,y1082"
+      },
+      {
+       "name": "4:3",
+       "crop": "3298,2474,x692,y1004"
+      },
+      {
+       "name": "3:4",
+       "crop": "3627,4836,x363,y965"
+      },
+      {
+       "name": "3:2",
+       "crop": "3298,2198,x692,y1051"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/21/03956504-24f8-4834-8e2c-c8fa4758ea1b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/03956504-24f8-4834-8e2c-c8fa4758ea1b.jpg?width=1024&quality=75&auto=webp",
+     "width": 3169,
+     "height": 3961,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3169,1783,x0,y320"
+      },
+      {
+       "name": "1:1",
+       "crop": "1968,1968,x605,y277"
+      },
+      {
+       "name": "4:3",
+       "crop": "3169,2377,x0,y289"
+      },
+      {
+       "name": "3:4",
+       "crop": "2701,3601,x246,y249"
+      },
+      {
+       "name": "3:2",
+       "crop": "3169,2113,x0,y278"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "tags": [
+     "Pro: Fokus"
+    ],
+    "showComments": true,
+    "teaserAuthor": "Heinz Heiss",
+    "nzzId": "ld.10020480",
+    "readingTime": 780,
+    "paywallQuestionOne": "How does David Matei influence German Gen Z with security policy content?",
+    "paywallQuestionTwo": "What challenges does Matei face in monetizing its content?",
+    "paywallQuestionThree": "How does NATO use influencers like Matei for its communication strategy?",
+    "characterCount": 16704,
+    "product": "NZZ.ch",
+    "documentId": "10020480",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-22T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-22T13:57:24.814Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T15:30:00.000Z",
+    "teaserCaption": "The German government, the defense industry, and NATO are counting on David Matei. He gets clicks and attention, but he earns little money. Yet, with his videos, Matei is helping to shape the world of tomorrow.",
+    "authorLine": "Leon Hedgehog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/12/eb10e36e-8f54-4722-adf7-421086aa6dd9.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/gesellschaft/david-matei-der-influencer-bringt-die-zeitenwende-in-die-sozialen-netzwerke-ld.10020480",
+    "department": {
+     "name": "Society",
+     "path": "/gesellschaft"
+    },
+    "estimationWordCount": 2672,
+    "premium": true,
+    "leadText": "The German government, the defense industry, and NATO are counting on David Matei. He gets clicks and attention, but he earns little money. Yet, with his videos, Matei is helping to shape the world of tomorrow.",
+    "nzzSummaryIsAuto": true,
+    "nzzMessage": "For the front page: The military influencer",
+    "commentsCount": 6,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Swiss tourist sentenced to one year in prison in Bali for social media video",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/a30470a6-1e81-4d2c-90f7-9dc6723ed2c9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/a30470a6-1e81-4d2c-90f7-9dc6723ed2c9.jpg?width=1024&quality=75&auto=webp",
+     "width": 4025,
+     "height": 2684,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4025,2264,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3579,2684,x241,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2218,2218,x613,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2013,2684,x563,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4025,2683,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1623,
+      "y": 422
+     },
+     "imageService": "fastly",
+     "teaserCaption": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+     "teaserAuthor": "AP"
+    },
+    "teaserAuthor": "AP",
+    "nzzId": "ld.10020509",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why was the Swiss tourist sentenced to one year in prison in Bali?",
+    "paywallQuestionTwo": "How do Southeast Asians react to tourists who disregard local rules?",
+    "paywallQuestionThree": "What role does tourism play in the economies of Southeast Asia?",
+    "characterCount": 3785,
+    "product": "NZZ.ch",
+    "documentId": "10020509",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T14:48:14.908Z",
+    "publicationLastUpdated": "2026-08-24T07:48:46.729Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-22T02:48:14.908Z",
+    "teaserCaption": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+    "authorLine": "Andreas Babst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/fb7cc9c4-ab5a-4d06-8baf-cb9eb53c8ee1.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/schweizer-tourist-auf-bali-wegen-video-auf-social-media-zu-einem-jahr-haft-verurteilt-ld.10020509",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 590,
+    "leadText": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "btaNZZaSFeed": {
+  "meta": {
+   "name": "NZZ am Sonntag",
+   "path": "/nzz-am-sonntag"
+  },
+  "data": [
+   {
+    "title": "Hybrid Warfare and Playing with Fire on the Eastern Flank: How Far Will Putin Go? And are Europeans prepared?",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Andrea Jeska, David Axe, Alain Zucker",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10021091",
+    "readingTime": 420,
+    "paywallQuestionOne": "How is Europe responding to Russia's hybrid attacks?",
+    "paywallQuestionTwo": "What role does support for Ukraine play in the conflict?",
+    "paywallQuestionThree": "How could Russia escalate further?",
+    "characterCount": 10159,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/f81cc725-5d33-4092-b102-c0c15f310843.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/f81cc725-5d33-4092-b102-c0c15f310843.jpg?width=1024&quality=75&auto=webp",
+     "width": 2836,
+     "height": 1474,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2620,1474,x111,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1965,1474,x417,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1474,1474,x671,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1106,1474,x825,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2211,1474,x329,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+     "teaserAuthor": "Illustration by Elia Barbieri for NZZaS"
+    },
+    "teaserAuthor": "Illustration by Elia Barbieri for NZZaS",
+    "product": "NZZ.ch",
+    "documentId": 10021091,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+    "url": "https://www.nzz.ch/international/hybrider-krieg-und-das-zuendeln-an-der-ostflanke-wie-weit-wird-putin-gehen-und-sind-die-europaeer-vorbereitet-ld.10021091",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1481,
+    "leadText": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 1,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024&quality=75&auto=webp",
+     "width": 5602,
+     "height": 3735,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5602,3151,x0,y439"
+      },
+      {
+       "name": "4:3",
+       "crop": "4116,3087,x1,y503"
+      },
+      {
+       "name": "1:1",
+       "crop": "2806,2806,x622,y594"
+      },
+      {
+       "name": "3:4",
+       "crop": "2315,3087,x842,y567"
+      },
+      {
+       "name": "3:2",
+       "crop": "4209,2806,x0,y492"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+     "teaserAuthor": "Andrea Zahle"
+    },
+    "teaserAuthor": "Andrea Zahle",
+    "title": "FDP co-president Susanne Vincenz-Stauffacher on the start of the European debate: «That was a false start»",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020993",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does the FDP assess the attempts to change the EU negotiation outcome?",
+    "paywallQuestionTwo": "Why is the FDP ignoring the vote of its delegates against the majority of cantons?",
+    "paywallQuestionThree": "How does the FDP intend to finance the army without raising taxes?",
+    "characterCount": 11294,
+    "flag": "interview",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "product": "NZZ.ch",
+    "documentId": 10020993,
+    "layout": "regular",
+    "publicationDate": "2026-08-29T19:45:00.000Z",
+    "publicationLastUpdated": "2026-08-31T08:16:16.249Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T07:45:00.000Z",
+    "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "authorLine": "Daniel Foppa, Simon Marti",
+    "authorImage": {
+     "originalUrl": "/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+     "width": 480,
+     "height": 480,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "480,480,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/fdp-co-praesidentin-vincenz-stauffacher-zum-auftakt-der-europadebatte-das-war-ein-fehlstart-ld.10020993",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 2,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Deep relaxation in nature, young people with ideas, and the best butter tea in the world. A small ode to Nepal",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Stephanie Geiger",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/d217a4cb-2734-400a-9291-ed353fc801cc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/d217a4cb-2734-400a-9291-ed353fc801cc.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3712,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y309"
+      },
+      {
+       "name": "4:3",
+       "crop": "4949,3712,x275,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3712,3712,x894,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2784,3712,x1358,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y23"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Despite the tragedy: A return to Nepal soon",
+     "teaserAuthor": "Francis Mascarenhas / Reuters"
+    },
+    "teaserAuthor": "Francis Mascarenhas / Reuters",
+    "nzzId": "ld.10021585",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do natural disasters affect the lives of people in Nepal?",
+    "paywallQuestionTwo": "How is Nepal changing through electromobility and infrastructure projects?",
+    "paywallQuestionThree": "What role does the younger generation play in Nepal's development?",
+    "characterCount": 7555,
+    "product": "NZZ.ch",
+    "documentId": 10021585,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Despite the tragedy: A return to Nepal soon",
+    "url": "https://www.nzz.ch/international/tiefenentspannung-in-der-natur-junge-menschen-mit-ideen-und-der-beste-buttertee-der-welt-eine-kleine-ode-an-nepal-ld.10021585",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1239,
+    "leadText": "Despite the tragedy: A return to Nepal soon",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 3,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Rapper Stress: «I measured my self-worth by how successful I am. Nothing good can come of that. Not even good music»",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1920,1440,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1440,1440,x373,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1080,1440,x553,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1920,1280,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1093,
+      "y": 307
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+     "teaserAuthor": "Sébastien Agnetti"
+    },
+    "teaserAuthor": "Sébastien Agnetti",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10018314",
+    "readingTime": 780,
+    "paywallQuestionOne": "How did Stress's success affect his mental health?",
+    "paywallQuestionTwo": "Why does Stress view his book more as a testimony than as a guide?",
+    "paywallQuestionThree": "What role does childhood play in Stress's personal development?",
+    "characterCount": 14907,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": 10018314,
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-30T03:29:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:29:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:29:00.000Z",
+    "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "authorLine": "Frank Heer",
+    "authorImage": {
+     "originalUrl": "/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "2752,2752,x688,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/rapper-stress-ich-habe-meinen-selbstwert-daran-gemessen-wie-erfolgreich-ich-bin-daraus-kann-nichts-gutes-entstehen-auch-keine-gute-musik-ld.10018314",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 2521,
+    "leadText": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 4,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Condominium nightmare: How owners become bitter enemies",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 13550,
+    "nzzasFootnote": true,
+    "nzzId": "ld.10014125",
+    "readingTime": 600,
+    "paywallQuestionOne": "What challenges does condominium ownership pose for the owners?",
+    "paywallQuestionTwo": "Why do renovations often fail due to financial and legal hurdles?",
+    "paywallQuestionThree": "How could the revision of condominium ownership law defuse conflicts?",
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/75186538-5fe8-4736-8335-f7b57a064317.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/75186538-5fe8-4736-8335-f7b57a064317.jpg?width=1024&quality=75&auto=webp",
+     "width": 6034,
+     "height": 3395,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6034,3394,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4527,3395,x754,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3395,3395,x1320,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2546,3395,x1744,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5093,3395,x471,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+     "teaserAuthor": "Illustration by Elia Barbieri for NZZaS"
+    },
+    "teaserAuthor": "Illustration by Elia Barbieri for NZZaS",
+    "product": "NZZ.ch",
+    "documentId": 10014125,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+    "authorLine": "Jürg Zulliger",
+    "authorImage": {
+     "originalUrl": "/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438",
+     "url": "https://img-msp-prod.nzz.ch/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438&width=1024&quality=75&auto=webp",
+     "width": 2625,
+     "height": 3500,
+     "imageService": "fastly",
+     "crop": {
+      "name": "1:1",
+      "x": 0,
+      "y": 438,
+      "width": 2625,
+      "height": 2625
+     },
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/albtraum-eigentumswohnung-wie-stockwerkeigentuemer-zu-erbitterten-feinden-werden-ld.10014125",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1930,
+    "leadText": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 5,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1926585",
+    "name": "Ten ideas for better social networks that tech companies have kept quiet about",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Technologie",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Ten ideas for better social networks that tech companies have kept quiet about",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1532351,
+       "name": "Ruth Fulterer",
+       "shortName": "ful",
+       "pianoId": "84c1f069-1900-49fa-8ab5-45d154bf1174",
+       "external": false
+      },
+      {
+       "id": 1572105,
+       "name": "Gioia da Silva",
+       "shortName": "gds",
+       "pianoId": "fd9b3a05-4d23-4ac1-8985-8c23a3e05570",
+       "external": false
+      },
+      {
+       "id": 1894720,
+       "name": "Olivia Fischer",
+       "shortName": "fio",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-03-08T04:30:00.000Z",
+     "updateTimestamp": "2026-05-13T13:21:57.442Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZaS"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1926585",
+   "pageType": "longformvisual",
+   "primaryCategory": "Technologie",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "These ideas for better youth protection have been kept secret from social networks.",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Ruth Fulterer, Gioia da Silva, Olivia Fischer (illustration)",
+  "description": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+  "news_keywords": "Ten ideas for better social networks that tech companies have kept quiet about, Technology, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-05-13T17:21:57+02:00",
+  "date": "2026-03-08T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Ten ideas for better social networks that tech companies have kept quiet about",
+  "ogTitle": "Ten ideas for better social networks that tech companies have kept quiet about",
+  "ogUrl": "https://www.nzz.ch/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+  "mrf:cms_id": "nzz:ld.1926585",
+  "mrf:sections": "Technologie;WTM",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZaS;Content Type:Standard Article;Article ID:ld.1926585",
+  "nzzAuthors": [
+   {
+    "id": 1532351,
+    "name": "Ruth Fulterer",
+    "shortName": "ful",
+    "pianoId": "84c1f069-1900-49fa-8ab5-45d154bf1174",
+    "external": false
+   },
+   {
+    "id": 1572105,
+    "name": "Gioia da Silva",
+    "shortName": "gds",
+    "pianoId": "fd9b3a05-4d23-4ac1-8985-8c23a3e05570",
+    "external": false
+   },
+   {
+    "id": 1894720,
+    "name": "Olivia Fischer",
+    "shortName": "fio",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:09 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/technologie",
+      "name": "Technology"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "These ideas for better youth protection have been kept secret from social networks."
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585"
+   },
+   "headline": "These ideas for better youth protection have been kept secret from social networks.",
+   "datePublished": "2026-03-08T07:30:00+02:00",
+   "dateModified": "2026-05-13T17:21:57+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+   "isAccessibleForFree": false,
+   "articleSection": "Technologie",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Ruth Fulterer"
+    },
+    {
+     "@type": "Person",
+     "name": "Gioia da Silva"
+    },
+    {
+     "@type": "Person",
+     "name": "Olivia Fischer"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 871824,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+    "classification=default",
+    "relevance=default",
+    "layout=longformvisual",
+    "owner=nzzas",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1926585",
+    "channel=Technologie"
+   ],
+   "ContentCreated": "2026-03-08T04:30:00.000Z",
+   "ContentAuthor": "Ruth Fulterer, Gioia da Silva, Olivia Fischer (Illustration)",
+   "ContentSection": "Technologie",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "ldId": "ld.1926585",
+   "channel": "Technologie",
+   "heading": "Zehn Ideen für bessere soziale Netzwerke, die Tech-Firmen verschwiegen haben",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

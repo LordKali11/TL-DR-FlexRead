@@ -1,0 +1,456 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1g7ok901",
+   "content": {
+    "title": "Explosion at Augsburg station – two injured, closure lifted",
+    "lead": "Explosion at Augsburg station; large-scale police operation, train services suspended",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1g7ok903",
+   "content": {
+    "image": {
+     "author": "Hafner / Imago",
+     "caption": "The area around Augsburg main station is cordoned off during the operation.",
+     "originalUrl": "/2026/09/02/a9e34790-aa07-4d4d-b54f-d82ffea0cee9.jpg?crop=4468,2513,x0,y0",
+     "width": 4468,
+     "height": 2513,
+     "altText": "GER, Augsburg Main Station / 30.08.2025, Main Station, Augsburg, GER, Augsburg Main Station, pictured view of platforms 1 and 2, symbolic photo, symbolic image *** GER, Augsburg Main Station 30 08 2025, Augsburg Main Station, GER, Augsburg Main Station, pictured view of platforms 1 and 2, symbolic photo, symbolic image nordphoto GmbHxHafner nph00200",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2175663070"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4468,
+      "height": 2513,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4468,
+       "height": 2513,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The area around Augsburg main station is cordoned off during the operation.",
+    "author": "Hafner / Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1g7ok910",
+   "content": {
+    "text": "<em>ehj./jsc.</em> A large-scale police operation was underway at Augsburg main station since shortly after 5 a.m. The reason was an explosion in a building passageway. According to the German Press Agency, two people were slightly injured. They reportedly suffered acoustic trauma."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-cbe6c59f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gjhg0t0",
+   "content": {
+    "text": "According to initial information, an unknown object exploded in a building passageway opposite the station around 3:15 a.m. The injured included a 17-year-old and an 18-year-old. According to police, both were Ukrainians. Window panes were also damaged by the explosion, police said. Investigators assumed they were coincidentally in the area as passers-by."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gf9mq70",
+   "content": {
+    "text": "After the discovery of another suspicious object, police completely cordoned off the main station at 8:30 a.m. and suspended train services. The German Press Agency, citing police, reported that the object proved harmless after police investigations, and the station closure was lifted after about an hour and a half."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "tweet"
+  },
+  {
+   "identifier": "tweet",
+   "id": "doc-1k1g8df130",
+   "content": {
+    "tweet": {
+     "html": "<blockquote class=\"twitter-tweet\"><p lang=\"de\" dir=\"ltr\">+++ Update 08:30 Uhr +++<br><br>Der Hauptbahnhof ist nun aufgrund eines verdächtigen Gegenstandes komplett gesperrt. <br><br>Der Zugverkehr ist eingestellt. <a href=\"https://t.co/heiYFy5ne6\">https://t.co/heiYFy5ne6</a></p>&mdash; Polizei Schwaben Nord (@polizeiSWN) <a href=\"https://x.com/polizeiSWN/status/2095037825817129386?ref_src=twsrc%5Etfw\">September 2, 2026</a></blockquote>\n<script async src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+     "caption": "",
+     "url": "https://x.com/polizeiSWN/status/2095037825817129386"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1g7ppmu0",
+   "content": {
+    "text": "The police operation also affected road traffic and public transport. At 10:15 a.m., police announced that train services had resumed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "tweet",
+   "nextElement": "oembed"
+  },
+  {
+   "identifier": "oembed",
+   "id": "doc-1k1gk769l0",
+   "content": {
+    "oembed-directive": {
+     "service": "li-oembed-service",
+     "params": {
+      "url": "https://x.com/polizeiSWN/status/2095063980150505584",
+      "params": {}
+     },
+     "resolvedValue": {
+      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"de\" dir=\"ltr\">+++ Update 10:15 Uhr +++<br><br>Unsere Einsatzkräfte vor Ort  geben Entwarnung bei dem verdächtigen Gegenstand.<br><br>Der Hauptbahnhof ist wieder frei und der Zugverkehr läuft auch wieder. <br><br>Im ÖPNV kommt es weiterhin zu Einschränkungen. <a href=\"https://t.co/AdAwn8DO28\">https://t.co/AdAwn8DO28</a></p>&mdash; Polizei Schwaben Nord (@polizeiSWN) <a href=\"https://x.com/polizeiSWN/status/2095063980150505584?ref_src=twsrc%5Etfw\">September 2, 2026</a></blockquote>\n<script async src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1g7ok911",
+   "paidContent": true,
+   "prevElement": "oembed",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "title": "Explosion at Augsburg train station – two injured, closure lifted",
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/a9e34790-aa07-4d4d-b54f-d82ffea0cee9.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/a9e34790-aa07-4d4d-b54f-d82ffea0cee9.jpg?width=1024&quality=75&auto=webp",
+   "width": 4468,
+   "height": 2513,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4468,2513,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "3351,2513,x559,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2513,2513,x978,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1885,2513,x1292,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3770,2513,x349,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "An explosion occurred at Augsburg train station early this morning. Police are on the scene with a large-scale operation. Train services were temporarily suspended.",
+   "teaserAuthor": "Hafner / Imago"
+  },
+  "teaserAuthor": "Hafner / Imago",
+  "nzzId": "ld.10022017",
+  "readingTime": 60,
+  "characterCount": 1230,
+  "breadcrumbs": [
+   {
+    "name": "Panorama",
+    "path": "/panorama"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022017,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T05:14:57.978Z",
+  "publicationDate": "2026-09-02T09:24:44.599Z",
+  "publicationLastUpdated": "2026-09-02T09:24:44.599Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-09-02T21:24:44.599Z",
+  "teaserCaption": "An explosion occurred at Augsburg train station early this morning. Police are on the scene with a large-scale operation. Train services were temporarily suspended.",
+  "url": "/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+  "department": {
+   "name": "Panorama",
+   "path": "/panorama"
+  },
+  "estimationWordCount": 217,
+  "leadText": "An explosion occurred at Augsburg train station early this morning. Police are on the scene with a large-scale operation. Train services were temporarily suspended.",
+  "nzzSummaryEN": "- An explosion occurred in a building passage at Augsburg's main train station, slightly injuring several people. The cause remains unclear.\n- Police operation caused disruptions in commuter and road traffic. Duration of closures is currently unknown.\n- Windows were damaged; the extent of further structural damages is under investigation.",
+  "nzzSummaryDE": "- An explosion occurred in a passageway at Augsburg Central Station, slightly injuring several people. The cause is still unclear.\n The police operation led to disruptions in commuter and road traffic. The duration of the closures is still unclear.\n Windows were damaged; the extent of further building damage is being assessed.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Explosion at Augsburg Central Station: Several slightly injured",
+  "nzzPrintSubtitle": "Parts of the station area were cordoned off on Wednesday morning due to a major police operation.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+   "title": "Explosion at Augsburg Central Station: Several slightly injured",
+   "socialMediaTitle": "Explosion at Augsburg Central Station: Police and rescue services in major operation",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/a9e34790-aa07-4d4d-b54f-d82ffea0cee9.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4468,2513,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2487500,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 95664,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022017",
+    "name": "Explosion at Augsburg train station – two injured, closure lifted",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Panorama",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Explosion at Augsburg train station – two injured, closure lifted",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T09:24:44.599Z",
+     "updateTimestamp": "2026-09-02T09:24:44.599Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022017",
+   "pageType": "regular",
+   "primaryCategory": "Panorama",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Explosion at Augsburg Central Station: Several slightly injured",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/a9e34790-aa07-4d4d-b54f-d82ffea0cee9.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4468,2513,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "description": "An explosion occurred at Augsburg train station early this morning. Police are on the scene with a large-scale operation. Train services were temporarily suspended.",
+  "news_keywords": "Explosion at Augsburg train station – two injured, closure lifted, Panorama, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T13:24:44+02:00",
+  "date": "2026-09-02T09:14:57+02:00",
+  "canonical": "https://www.nzz.ch/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Explosion at Augsburg train station – two injured, closure lifted",
+  "ogTitle": "Explosion at Augsburg Central Station: Police and rescue services in major operation",
+  "ogUrl": "https://www.nzz.ch/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+  "mrf:cms_id": "nzz:ld.10022017",
+  "mrf:sections": "Panorama",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022017",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:09 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/panorama",
+      "name": "Panorama"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Explosion at Augsburg Central Station: Several slightly injured"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017"
+   },
+   "headline": "Explosion at Augsburg Central Station: Several slightly injured",
+   "datePublished": "2026-09-02T09:14:57+02:00",
+   "dateModified": "2026-09-02T13:24:44+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "An explosion occurred at Augsburg train station early this morning. Police are on the scene with a large-scale operation. Train services were temporarily suspended.",
+   "isAccessibleForFree": false,
+   "articleSection": "Panorama",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/a9e34790-aa07-4d4d-b54f-d82ffea0cee9.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4468,2513,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 95664,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/panorama/ein-unbekannter-gegenstand-ist-am-bahnhof-augsburg-explodiert-mehrere-personen-wurden-leicht-verletzt-ld.10022017",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022017",
+    "channel=Panorama"
+   ],
+   "ContentCreated": "2026-09-02T05:14:57.978Z",
+   "ContentSection": "Panorama",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Was ist über den explodierten Gegenstand am Bahnhof Augsburg bekannt?\nWelche Auswirkungen hat der Vorfall auf den Verkehr in Augsburg?\nWie viele Personen wurden durch die Explosion verletzt?",
+   "ldId": "ld.10022017",
+   "channel": "Panorama",
+   "heading": "Explosion am Bahnhof Augsburg – zwei Verletzte, Sperrung aufgehoben",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

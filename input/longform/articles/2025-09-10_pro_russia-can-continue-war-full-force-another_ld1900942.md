@@ -1,0 +1,65 @@
+# Russia can continue the war at full force for another year – after that it will become more difficult
+
+*President Putin is postponing peace negotiations to capitalize on the momentum of his offensive. However, his resources are not unlimited. The West could shorten Putin's calculations.*
+
+**Peter Rásonyi** · Pro · 2025-09-10 · 1682 words · [ld.1900942](https://www.nzz.ch/pro/russland-kann-den-krieg-noch-ein-weiteres-jahr-mit-voller-kraft-fuehren-danach-wird-es-schwieriger-ld.1900942)
+
+![Where is this all heading? Putin is postponing peace negotiations, Trump is being ambiguous, and Europe is too weak to support Ukraine alone. The war could drag on for some time.](https://img-msp-prod.nzz.ch/2022/10/24/c72cf81e-a8af-414a-9e1a-d6a59eb276b4.jpeg?width=1024)
+*Where is this all heading? Putin is postponing peace negotiations, Trump is being ambiguous, and Europe is too weak to support Ukraine alone. The war could drag on for some time.* (Carl Court / Getty)
+
+President Trump's efforts to achieve peace in Ukraine reached a high point with the surprise summit with Russian President Putin in Alaska in mid-August. However, little has come of it since.
+
+The meeting between Putin and Ukrainian President Zelensky, announced by Trump, never took place because Moscow was unwilling to agree to it under realistic conditions. Putin reiterates his maximum surrender conditions for a ceasefire, conditions that Ukraine has consistently rejected. At the same time, Russian bombing of Ukrainian cities continues unabated, as do the battles on the front lines. Trump, meanwhile, has turned his attention to other spectacular events, such as the televised accolades from his cabinet or the deployment of the American military in Democratic-governed cities. Thus, peace will likely remain elusive for a long time. But there are alternatives.
+
+## Russia is continuously replacing heavy losses
+
+The war in Ukraine has now raged for four years, much longer than most experts anticipated after the Russian invasion in February 2022. At first, the Russian superiority in manpower and equipment seemed overwhelming, yet Kyiv failed to surrender quickly. Then, the Russian military leadership suffered so many embarrassing defeats and losses that a loss became a distinct possibility. Today, it must be acknowledged that both sides are militarily stronger than seemed plausible in the initial phase of the war. They are engaged in a battle of the utmost intensity and tenacity, month after month. The result is horrific losses on both sides, but no prospect of a swift resolution.
+
+Although the Ukrainian population is only a quarter to a fifth the size of the Russian population, it is proving to be a very resilient defender thanks to its will to survive, its willingness to sacrifice, its resourcefulness, and its innovative spirit. Russia, in turn, has learned from initial mistakes and increased its fighting power through tactical adjustments and cost-effective weapons developments such as glide bombs and fiber-optic-guided drones. Moreover, the Kremlin leadership is managing better than expected to compensate for the enormous losses caused by its war of attrition tactics.
+
+In the first three years of the war, Moscow largely succeeded in replacing worn-out equipment; by mid-2025, according to the International Institute for Strategic Studies (IISS), the Russian army had roughly the same number of operational battle tanks, armored personnel carriers, and artillery pieces as at the start of the war in February 2022. Only a small portion of this equipment came from the factories of the Russian defense industry, whose capacity was significantly expanded during the course of the war. The majority came from stockpiles of decommissioned Soviet-era military equipment. This source will remain available until next year, but the quality and availability of the old equipment are rapidly declining. The industry will not be able to produce sufficient new supplies in the future; therefore, a growing shortage of heavy military equipment will occur from 2026 onward.
+
+> [embed: q-tool (chart/map) 027fad6a889b676d3b73020c7770bcf0]
+
+## Russians sell their lives for a lot of money
+
+Russia's sheer size, its traditional historical advantage, has an even more pronounced impact on troop deployment. While Russian losses since the start of the war have been dramatic—the IISS estimates that at least 172,000 soldiers were killed and 376,000 suffered injuries so severe that they could not return to the front—Moscow has so far managed to more than compensate for these losses. During the same period, almost one million soldiers were recruited; according to Ukrainian figures, 440,000 were recruited in 2024 alone. By the end of 2024, Russian commanders in the war zone had approximately 600,000 combat-ready soldiers at their disposal, roughly three times as many as at the time of the invasion in early 2022.
+
+Just over six months after the start of the war, in September 2022, the Kremlin, faced with heavy losses, was forced to order a partial mobilization to recruit 300,000 new soldiers. However, this was extremely unpopular ; many younger men hid or fled across the country's borders. Subsequently, the Kremlin changed its strategy and refrained from further mobilization. For a time, it focused on recruiting criminals, but this potential has largely been exhausted. More recently, the authorities have therefore significantly increased the signing bonuses and wages for volunteer recruits.
+
+New recruits receive a bonus of at least 4,000 Swiss francs. In addition, there are one-time bonuses from the regions, which can amount to up to 30,000 francs. Monthly pay is around 2,000 francs, more than two and a half times the average wage. Families also receive various benefits, such as interest-free loans and tax breaks. In the event of disability due to a serious war injury, substantial compensation and lifelong pensions are offered. In the event of death, surviving family members can expect a high five-figure sum, making sending a husband to his death at the front a financially advantageous decision for the family. Thanks to these financial incentives , the authorities have succeeded since 2023 in recruiting a sufficient number of new soldiers who volunteer for service.
+
+Russia's leadership is able to exploit another traditional advantage of the country here: Because wealth and economic potential are very unevenly distributed, there are plenty of poor, hopeless people in marginalized regions far from the capital, for whom the good soldier's pay is a strong draw. For the equivalent of a few tens of thousands of Swiss francs, they are willing to throw themselves into a war in which they shoot at an invaded neighboring people and take a high risk of being killed or seriously wounded.
+
+This individual calculation is supported by a society in which violence traditionally enjoys a high status. Aggressive state propaganda, which justifies the attack on Ukraine through false statements and stages a cult of heroism and victimhood around the fighters on the front lines, also contributes to this.
+
+![A Russian drone destroyed his friend's apartment in Kyiv. Drone attacks are becoming increasingly frequent in the Ukrainian capital.](https://img-msp-prod.nzz.ch/2025/09/09/942b494d-9357-4437-bec1-7f7eada5ddfb.jpg?width=1024)
+*A Russian drone destroyed his friend's apartment in Kyiv. Drone attacks are becoming increasingly frequent in the Ukrainian capital.* (Thomas Peter / Reuters)
+
+## The economy is suffering from stress
+
+Despite its resilience so far, the Russian military's system of warfare is showing clear signs of stress. It is likely to gradually reach its limits next year.
+
+Financial incentives for recruits have had to be increased in the last twelve months. This suggests that the pool of men who are particularly easy to recruit is shrinking. While current demand can be met, voluntary human sacrifices are likely to require higher prices in the future. Recruitment costs are already having a significant impact on the Russian state budget.
+
+Added to this is the strain on the overall economy caused by the overheated arms industry: Aggregate demand exceeds capacity. Unemployment is at a low of just over 2 percent; companies everywhere are complaining about labor shortages. Official inflation stands at 9 percent, and despite an extremely high key interest rate of currently 18 percent, the central bank is only partially succeeding in controlling prices. The consumption needs of the population and those of the military are becoming increasingly incompatible.
+
+Last year, according to IISS data, Russian military spending increased by 42 percent in real terms. This boosted economic growth by 4 percent. Despite this massive financial effort, Russian troops made little progress on the front lines. According to the 2025 budget, military spending will increase further this year by 12 percent, reaching 7.2 percent of Russia's gross domestic product, twice the level before the offensive. Around 40 percent of the state budget is allocated to the military and security. The Kremlin has so far been able to finance this expansion primarily thanks to booming oil revenues. But this is becoming increasingly difficult.
+
+The price of Russian crude oil fell below $60 a barrel this summer, and the market expects a similarly low level for the next twelve months. These shortfalls are creating deep holes in the state budget. According to official figures, the national deficit in the first seven months of the year, at $61 billion, was four times higher than originally projected. The deficits are being covered by increasingly deeper withdrawals from the National Welfare Fund , which was established long before the war. Its liquid assets, held in foreign currency, have more than halved since the start of the war, falling to just $48 billion by the beginning of August 2025; this summer, they were shrinking at a rate of around $5 billion per month. If this drain continues, the fund will be empty by mid-2026 at the latest.
+
+Should the Kremlin wish to maintain the current level of military commitment, both in terms of personnel and equipment, in the coming years, it would be virtually impossible to avoid additional coercive measures against the population, individual companies, or wealthy businesspeople. It would have to more clearly subordinate the demands of the private sector and the population to the needs of the military. Such steps are possible, but they would be unpopular and could destabilize Putin's power. The domestic political cost of Putin's war would increase.
+
+## The West can increase the pressure
+
+This is precisely where opportunities arise for the West. It can increase pressure on Russia and thwart the Kremlin's cynical calculation that it has more staying power than the much smaller Ukraine. Two measures present themselves. First, by supplying more weapons to Ukraine, the West can increase Russian attrition on the front. The higher the losses, the sooner critical gaps will open in Russian supplies, and the sooner interest in a ceasefire will grow.
+
+Secondly, the West has several options for impacting Russian oil revenues and thus its state budget. Many sanctions were already introduced by the Biden administration and European states. However, virtually nothing new has been added since President Trump took office. Given the current relatively relaxed state of the oil market due to a global economic slowdown, there is a significant opportunity to substantially reduce the flow of Russian oil without causing global economic turmoil. In July, the EU took some sensible steps with its 18th sanctions package against Russia, including reducing the maximum price for Russian oil and implementing further measures against the Russian shadow fleet. However, effective global implementation requires the cooperation of the United States.
+
+Cutting off the funding sources for Russia's war economy and its recruitment of soldiers would shorten Putin's time horizon and increase the willingness to agree to a ceasefire. A swift peace is President Trump's stated goal. Now he simply needs to consistently implement the tough measures against Russia that he has repeatedly announced and then postponed in recent months.
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Russia can sustain the war using stockpiled weapons and increased production until next year, but dwindling resources and economic strains will make it harder.
+- Russian recruitment strategies rely on high financial incentives, but rising costs and a shrinking pool of willing recruits are straining the system.
+- The West could significantly hinder Russia's war efforts by increasing arms supplies to Ukraine and tightening oil sanctions.

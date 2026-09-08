@@ -1,0 +1,2714 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1joguuke00",
+   "content": {
+    "title": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+    "lead": "Europe has fallen behind in the AI race. With a massive construction offensive, it now aims to reach the global forefront. But this will be a stress test for its power grids, power plants and society. An «NZZ Pro» series.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1joguuke01",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Kalina Oroschakoff",
+       "url": "",
+       "teaserImage": {}
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jogv0tn30",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Roland Shaw",
+       "url": "/impressum/roland-shaw-ld.1684746",
+       "teaserImage": {
+        "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jogv0v6d0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Joana Kelén",
+       "url": "/impressum/joana-kelen-ld.1288120",
+       "teaserImage": {
+        "originalUrl": "/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?crop=2607,2607,x1577,y263",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?crop=2607,2607,x1577,y263&width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1577,
+         "y": 263,
+         "width": 2607,
+         "height": 2607
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "q-embed",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jogv4epl0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "387d1c1f814fd3e0f4ad707a51f654dc",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 735,
+          "unit": "px",
+          "comparison": ">"
+         },
+         {
+          "value": 1200,
+          "unit": "px",
+          "comparison": "<"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "fullwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-custom_code-container\"        id=\"q_custom_code_387d1c1f814fd3e0f4ad707a51f654dc_q463c8c1d7a484a2aa02ecf4ee4f0e669_container\"        data-q-item-id=\"387d1c1f814fd3e0f4ad707a51f654dc\"        data-q-request-id=\"a88f5bd54852f45128085c33b18b3af02e48a82c\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/customCode/q-customCode-1.2.10.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-assets2.static-nzz.ch/2026/05/18/bundle-14ecb58025abb783730b6a6def509517.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"2620-datenzentren\",\"componentID\":\"387d1c1f814fd3e0f4ad707a51f654dc\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"custom_code\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"2620-datenzentren\",\"eventNonInteractive\":true,\"componentID\":\"387d1c1f814fd3e0f4ad707a51f654dc\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"custom_code\"}},\"a88f5bd54852f45128085c33b18b3af02e48a82c\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/customCode/q-customCode-1.2.10.js"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-assets2.static-nzz.ch/2026/05/18/bundle-387d1c1f814fd3e0f4ad707a51f654dc-6f292b10121428167523e66ebd5e1386.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_custom_code_387d1c1f814fd3e0f4ad707a51f654dc_q463c8c1d7a484a2aa02ecf4ee4f0e669_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"387d1c1f814fd3e0f4ad707a51f654dc\",\"title\":\"2620-Data Centers-Joana\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"gra.\",\"data\":[],\"sources\":[],\"assetGroups\":[],\"files\":[{\"loadSyncBeforeInit\":true,\"file\":{\"key\":\"2026/05/18/bundle-387d1c1f814fd3e0f4ad707a51f654dc-6f292b10121428167523e66ebd5e1386.js\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/18/bundle-387d1c1f814fd3e0f4ad707a51f654dc-6f292b10121428167523e66ebd5e1386.js\",\"size\":155406,\"type\":\"text/javascript\",\"originalName\":\"bundle-387d1c1f814fd3e0f4ad707a51f654dc.js\"}},{\"loadSyncBeforeInit\":true,\"file\":{\"key\":\"2026/05/18/bundle-14ecb58025abb783730b6a6def509517.css\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/18/bundle-14ecb58025abb783730b6a6def509517.css\",\"size\":13048,\"type\":\"text/css\",\"originalName\":\"bundle.css\"}}],\"updatedDate\":\"2026-05-18T08:52:54.032Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":735,\"comparison\":\">\",\"unit\":\"px\"},{\"value\":1200,\"unit\":\"px\",\"comparison\":\"<\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"cloudflareWorkerUrl\":\"https://q-api.nzz.ch\",\"endpointHash\":\"a28f6abfb5398eb5fc4d5f2e9ff67c66\",\"imageServiceUrl\":\"https://q-images.nzz.ch\",\"qItemInstanceId\":\"q_custom_code_387d1c1f814fd3e0f4ad707a51f654dc_q463c8c1d7a484a2aa02ecf4ee4f0e669\",\"qv1ServerBaseUrl\":\"https://qv1-server.nzz.ch\",\"assetsPublicBaseUrl\":\"https://nzz-q-assets2.static-nzz.ch\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qCustomCode) {              clearInterval(checkAndInitialize);              new window.qCustomCode({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qCustomCode after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--fullwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jmletbi10",
+   "content": {
+    "text": "<strong></strong>New data centers are currently being built all over Europe. Governments and business leaders – whether in Bern, Brussels or Berlin – are preparing for the age of artificial intelligence. Europe does not want to fall permanently behind the U.S. and China in the global AI race."
+   },
+   "data": {},
+   "prevElement": "q-embed",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-9ce5cbe1",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jnuv8fgj1",
+   "content": {
+    "text": "The AI economy of the future needs more than software. It needs infrastructure made of steel and concrete. Huge halls where computers hum. Power plants, transmission lines and factories for AI chips. Billions in investment."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jom4rmed0",
+   "content": {
+    "text": "In the first part of the series, we describe how the EU plans to increase the continent's computing power, why this is important, and what stands in the way of this goal."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1joh1agns0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "7419ef2249d52c5658679edf4d6c8d4a",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 735,
+          "unit": "px",
+          "comparison": ">"
+         },
+         {
+          "value": 1200,
+          "unit": "px",
+          "comparison": "<"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "fullwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-scroll_graphic-container\"        id=\"q_scroll_graphic_7419ef2249d52c5658679edf4d6c8d4a_q4d2f8604aec846379981cead492f8bde_container\"        data-q-item-id=\"7419ef2249d52c5658679edf4d6c8d4a\"        data-q-request-id=\"85a02d356db3f37e3aa702b95ff59771a0135e76\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/scrollGraphic/q-scrollGraphic-1.2.14.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"7419ef2249d52c5658679edf4d6c8d4a\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"scroll_graphic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"7419ef2249d52c5658679edf4d6c8d4a\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"scroll_graphic\"}},\"85a02d356db3f37e3aa702b95ff59771a0135e76\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/scrollGraphic/q-scrollGraphic-1.2.14.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_scroll_graphic_7419ef2249d52c5658679edf4d6c8d4a_q4d2f8604aec846379981cead492f8bde_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"7419ef2249d52c5658679edf4d6c8d4a\",\"acronym\":\"sro.\",\"publication\":\"nzz\",\"title\":\"Scrolly data centers\",\"subtitle\":\"\",\"headerMetaInfo\":{\"title\":\"\",\"lead\":\"\",\"author\":\"\",\"publicationDate\":\"\"},\"highlightedTextColors\":[{\"color\":\"#72DED1\"},{\"color\":\"#93a345\"},{\"color\":\"#ACAFFF\"},{\"color\":\"#FF6456\"},{\"color\":\"#B67AFF\"}],\"options\":{\"disableAnimation\":false,\"useSansSerif\":false},\"sectionText\":{\"sectionTextBackground\":\"custom\",\"customized\":{\"textShadow\":\"none\",\"textColor\":\"#ffffff\",\"textBackgroundColor\":\"rgba(56, 55, 82, 1)\"}},\"steps\":[{\"text\":\"There are currently around 3000 data centers in operation in Europe.\",\"highlightedTexts\":[{\"text\":\"Data centers\",\"color\":0,\"type\":\"bold\",\"preventLineBreak\":false}],\"variants\":[{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_mw1-8887fca14d1bc8c2381a1f6e371e959f.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_mw1-8887fca14d1bc8c2381a1f6e371e959f.png\",\"size\":759772,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_mw1.png\",\"width\":1110,\"height\":1122},\"minWidth\":0},{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_cw1-02ca267dcba6b6cab23dfd2b9bd093c6.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_cw1-02ca267dcba6b6cab23dfd2b9bd093c6.png\",\"size\":1760310,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_cw1.png\",\"width\":1890,\"height\":1890},\"minWidth\":540},{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_fw1-871ef71c48bcae171efe6bf84820cbdb.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_fw1-871ef71c48bcae171efe6bf84820cbdb.png\",\"size\":3040747,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_fw1.png\",\"width\":3000,\"height\":1890},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"Another 750 are planned or under construction.\",\"highlightedTexts\":[{\"text\":\"planned\",\"color\":1,\"type\":\"bold\",\"preventLineBreak\":false},{\"text\":\"under construction\",\"color\":1,\"type\":\"bold\",\"preventLineBreak\":false}],\"variants\":[{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_mw2-1d66c682473cbab60c548c32bfd6db58.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_mw2-1d66c682473cbab60c548c32bfd6db58.png\",\"size\":778965,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_mw2.png\",\"width\":1110,\"height\":1122},\"minWidth\":0},{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_cw2-25ec293314bb7c0f3db141e6fbe46723.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_cw2-25ec293314bb7c0f3db141e6fbe46723.png\",\"size\":1798120,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_cw2.png\",\"width\":1890,\"height\":1890},\"minWidth\":540},{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_fw2-188f8534648ccd1d31597942159f2456.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_fw2-188f8534648ccd1d31597942159f2456.png\",\"size\":3088779,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_fw2.png\",\"width\":3000,\"height\":1890},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"For a long time, data centers were concentrated in a few major European metropolitan areas around Frankfurt, London, Paris, Amsterdam, and Dublin. Germany leads Europe with over 450 data centers, followed by the UK.\",\"highlightedTexts\":[{\"text\":\"Germany\",\"color\":2,\"type\":\"bold\",\"preventLineBreak\":false},{\"text\":\"Great Britain\",\"color\":3,\"type\":\"bold\",\"preventLineBreak\":false}],\"variants\":[{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_mw3-aa4a77a0934ac62cad99d47d8a3499cb.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_mw3-aa4a77a0934ac62cad99d47d8a3499cb.png\",\"size\":580412,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_mw3.png\",\"width\":1110,\"height\":1122},\"minWidth\":0},{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_cw3-182f8b309c930939cd486f450df7bb99.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_cw3-182f8b309c930939cd486f450df7bb99.png\",\"size\":1428449,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_cw3.png\",\"width\":1890,\"height\":1890},\"minWidth\":540},{\"asset\":{\"key\":\"2026/05/13/scrolly_datenzentren_fw3-f067b31d6aa25db444152dd118c149e0.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_fw3-f067b31d6aa25db444152dd118c149e0.png\",\"size\":2622066,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_fw3.png\",\"width\":3000,\"height\":1890},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"Switzerland is also upgrading its data infrastructure: Today there are over 100 data centers in the Alpine country, and more facilities are planned.\",\"highlightedTexts\":[{\"text\":\"Switzerland\",\"color\":4,\"type\":\"bold\",\"preventLineBreak\":false}],\"variants\":[{\"asset\":{\"key\":\"2026/05/14/scrolly_datenzentren_mw4-d8a638b4cc058d1ac06020d2e9bbc5e4.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/scrolly_datenzentren_mw4-d8a638b4cc058d1ac06020d2e9bbc5e4.png\",\"size\":579129,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_mw4.png\",\"width\":1110,\"height\":1122},\"minWidth\":0},{\"asset\":{\"key\":\"2026/05/14/scrolly_datenzentren_cw4-d83dca1602bc223ee4b7b258f47db6fc.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/scrolly_datenzentren_cw4-d83dca1602bc223ee4b7b258f47db6fc.png\",\"size\":1414610,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_cw4.png\",\"width\":1890,\"height\":1890},\"minWidth\":540},{\"asset\":{\"key\":\"2026/05/14/scrolly_datenzentren_fw4-aafd858c3444963309eadac63c3a3d07.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/scrolly_datenzentren_fw4-aafd858c3444963309eadac63c3a3d07.png\",\"size\":2606964,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_fw4.png\",\"width\":3000,\"height\":1890},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}}],\"sources\":[],\"updatedDate\":\"2026-05-14T12:50:08.914Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":735,\"comparison\":\">\",\"unit\":\"px\"},{\"value\":1200,\"unit\":\"px\",\"comparison\":\"<\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_scroll_graphic_7419ef2249d52c5658679edf4d6c8d4a_q4d2f8604aec846379981cead492f8bde\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qScrollGraphic) {              clearInterval(checkAndInitialize);              new window.qScrollGraphic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qScrollGraphic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--fullwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jo19t0190",
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jojintpq0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "7419ef2249d52c5658679edf4dc05703",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_7419ef2249d52c5658679edf4dc05703_qd058f931537d4a37893af8989ce1553f_container\"        data-q-item-id=\"7419ef2249d52c5658679edf4dc05703\"        data-q-request-id=\"d56a0dcc82f093073e0a7db325c27157b3c84595\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"7419ef2249d52c5658679edf4dc05703\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"7419ef2249d52c5658679edf4dc05703\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"d56a0dcc82f093073e0a7db325c27157b3c84595\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_7419ef2249d52c5658679edf4dc05703_qd058f931537d4a37893af8989ce1553f_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"7419ef2249d52c5658679edf4dc05703\",\"title\":\"Chapter icon - AI as the key to power - Data centers\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"jok.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/14/KIMOBILE3x-0db1b6bbb0682fcddf053f619bfff77e.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/KIMOBILE3x-0db1b6bbb0682fcddf053f619bfff77e.png\",\"size\":16333,\"type\":\"image/png\",\"originalName\":\"KIMOBILE@3x.png\",\"width\":1081,\"height\":319}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/14/KIcw3x-80fb2982c5ebd804ac163e7862693e2e.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/KIcw3x-80fb2982c5ebd804ac163e7862693e2e.png\",\"size\":18001,\"type\":\"image/png\",\"originalName\":\"KIcw@3x.png\",\"width\":1891,\"height\":318}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-14T15:53:59.408Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_7419ef2249d52c5658679edf4dc05703_qd058f931537d4a37893af8989ce1553f\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jnv05dv80",
+   "content": {
+    "text": "AI and raw materials are the key to power"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogq97fl0",
+   "content": {
+    "text": "Anyone who wants to use artificial intelligence on a large scale must create the necessary material conditions. «AI uses raw materials and transforms them into intelligence on a large scale. Every company will use it. Every country will build it,» wrote Jensen Huang, the American CEO of Nvidia and arguably the most prominent CEO in the global AI industry, in a blog."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogqcp201",
+   "content": {
+    "text": "A vast infrastructure must be built for this purpose – and it is not just entrepreneurs like Huang who say so. This idea has long since reached the political power centers of Europe. Even local politicians have adopted it."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogqa9n71",
+   "content": {
+    "text": "Data centers are more than just physical infrastructure. They are considered key to political and economic power in an AI-driven future. However, Europe lags significantly behind the U.S. and China in digital infrastructure, with negative consequences for the independence of European developers and companies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jogf9ost0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "918a51e86457ce5db223e7ba09828121",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_918a51e86457ce5db223e7ba09828121_qe82fb159d5d3490da71cf502b7eb0b9e_container\"        data-q-item-id=\"918a51e86457ce5db223e7ba09828121\"        data-q-request-id=\"ede61acf0e1f8a301100eb3140d7b5f5e9691ff6\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"918a51e86457ce5db223e7ba09828121\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"918a51e86457ce5db223e7ba09828121\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"ede61acf0e1f8a301100eb3140d7b5f5e9691ff6\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_918a51e86457ce5db223e7ba09828121_qe82fb159d5d3490da71cf502b7eb0b9e_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"918a51e86457ce5db223e7ba09828121\",\"title\":\"No country has more data centers than the USA\",\"subtitle\":\"Installed data center capacity by region (gigawatts)\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[{\"text\":\"International Energy Agency\",\"link\":{\"url\":\"https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI\"}}],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/16/data-centre-capacity-by-region-mw3-a5afe5b257e1c14edc8fdf54a054aa7a.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/16/data-centre-capacity-by-region-mw3-a5afe5b257e1c14edc8fdf54a054aa7a.png\",\"size\":107892,\"type\":\"image/png\",\"originalName\":\"data centre capacity by region-mw3.png\",\"width\":1110,\"height\":1452}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/16/data-centre-capacity-by-region-cw3-d5bb9ca0946fbe9490fbd30e0d9c43c9.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/16/data-centre-capacity-by-region-cw3-d5bb9ca0946fbe9490fbd30e0d9c43c9.png\",\"size\":207602,\"type\":\"image/png\",\"originalName\":\"data centre capacity by region-cw3.png\",\"width\":1890,\"height\":2253}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/05/16/data-centre-capacity-by-region-fw3-45f9a1937d88ef5fc4694a4f7bf2e07e.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/16/data-centre-capacity-by-region-fw3-45f9a1937d88ef5fc4694a4f7bf2e07e.png\",\"size\":230771,\"type\":\"image/png\",\"originalName\":\"data centre capacity by region-fw3.png\",\"width\":3000,\"height\":2130}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-16T05:54:51.922Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_918a51e86457ce5db223e7ba09828121_qe82fb159d5d3490da71cf502b7eb0b9e\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joe2iod01",
+   "content": {
+    "text": "According to a study by the San Francisco-based <a href=\"https://epoch.ai/blog/trends-in-ai-supercomputers\">think tank Epoch AI,</a> the EU currently has only about 5% of the world's computing power. The U.S., by contrast, accounts for almost 75%, and China for 15%. This also creates the conditions for the massive lead held by American tech companies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joh3nogu0",
+   "content": {
+    "text": "The EU aims to <a href=\"https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14628-AI-Continent-new-cloud-and-AI-development-act/feedback_en?p_id=19462\">at least triple</a> the capacity of its data centers by the early 2030s. The European Commission plans to announce this target at the end of May. Brussels also intends to align the expansion with European climate goals. The new data centers <a href=\"https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-measuring-energy-consumption-and-emissions-ai-models-and-systems\">are meant to be efficient</a> and use clean energy. At the same time, Brussels affirms that the expansion will not overload electricity grids or water resources."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jodvfc071",
+   "content": {
+    "text": "AI is supposed to create growth, bring new jobs and reduce Europe's technological dependence – that is the EU's big promise. But in the U.S., sentiment toward data centers is already shifting. That is not yet the case in Europe."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogomv9f1",
+   "content": {
+    "text": "That would be a problem for Commission President Ursula von der Leyen. Just last year, she formulated Europe's ambition as follows: «We want Europe to be among the leading continents in the field of AI. And that means we have to embrace a way of life in which AI is ubiquitous.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jo19u3ft0",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jojioqbm0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "3def083a2f7894433ddd6d48dbc6abfd",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_3def083a2f7894433ddd6d48dbc6abfd_q24c08b949ac246bd8fff4014cfe5ae49_container\"        data-q-item-id=\"3def083a2f7894433ddd6d48dbc6abfd\"        data-q-request-id=\"539912e31f7bb76af6963921c99d58795d5e83bb\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"3def083a2f7894433ddd6d48dbc6abfd\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"3def083a2f7894433ddd6d48dbc6abfd\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"539912e31f7bb76af6963921c99d58795d5e83bb\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_3def083a2f7894433ddd6d48dbc6abfd_q24c08b949ac246bd8fff4014cfe5ae49_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"3def083a2f7894433ddd6d48dbc6abfd\",\"title\":\"Chapter Icon - Europe wakes up — and builds - data centers\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"jok.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/14/BauMOBILE3x-5476afdd3223aa02771170076b7bec00.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/BauMOBILE3x-5476afdd3223aa02771170076b7bec00.png\",\"size\":8388,\"type\":\"image/png\",\"originalName\":\"BauMOBILE@3x.png\",\"width\":1081,\"height\":319}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/14/Baucw3x-7be44c019fd96cfbb3b4fe7465cfa571.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/Baucw3x-7be44c019fd96cfbb3b4fe7465cfa571.png\",\"size\":9456,\"type\":\"image/png\",\"originalName\":\"Baucw@3x.png\",\"width\":1891,\"height\":318}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-14T15:45:47.200Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_3def083a2f7894433ddd6d48dbc6abfd_q24c08b949ac246bd8fff4014cfe5ae49\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jo16ukue0",
+   "content": {
+    "text": "<strong>Europe is waking up – and building</strong>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jo16t5bb1",
+   "content": {
+    "text": "McKinsey analysts calculated in March that the race for AI had triggered one of the biggest surges in infrastructure expansion in recent history. According to the study, global spending on data centers could reach up <a href=\"https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-7-trillion-dollar-data-center-build-out-how-industrials-can-capture-their-share#/\">to $7 trillion</a> by 2030. That is more than Germany, the world's third-largest economy, generates in a single year."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jo8vvmc70",
+   "content": {
+    "text": "The reason for this is the hunger for computing power. An AI data center is essentially a huge, practically deserted hall where tens of thousands of computers run around the clock. AI models are trained and operated there, and data is stored and processed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jol843qi1",
+   "content": {
+    "text": "This requires not only processors and other hardware components, but also storage, ventilation and cooling systems – and above all, a great deal of electricity. According to Epoch AI, the construction and IT equipment alone for the Abilene data center complex of the American AI giant OpenAI in the state of Texas will cost $32 billion."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jogcibgc0",
+   "content": {
+    "image": {
+     "author": "Google Handout / EPA",
+     "caption": "A glimpse inside a Google data center in Georgia in 2012: computers, cables and other equipment as far as the eye can see.",
+     "originalUrl": "/2026/05/19/bec5bc64-9b45-4874-b4a3-cf6da6e1009a.png?crop=2400,1601,x0,y0",
+     "width": 2400,
+     "height": 1601,
+     "altText": "A glimpse inside a Google data center in Georgia in 2012: computers, cables and other equipment as far as the eye can see.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2400,
+      "height": 1601,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2400,
+       "height": 1601,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A glimpse inside a Google data center in Georgia in 2012: computers, cables and other equipment as far as the eye can see.",
+    "author": "Google Handout / EPA"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "data": {
+    "_captionDirective": {}
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jo912rp30",
+   "content": {
+    "text": "<strong></strong>Data centers are the factories of the AI economy. But Europe has fallen behind the U.S. and China in industrial and competitive policy, says Michael Winterson of the European Data Center Association (EUDCA). The lack of infrastructure in Europe, he adds, is a concrete sign of this. «Companies haven't invested enough in technology,» he says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joe41lu50",
+   "content": {
+    "text": "The data bears him out. According to the latest report from the International Energy Agency (IEA), data center capacity in the EU has grown more slowly than the global average over the past ten years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogl8scp1",
+   "content": {
+    "text": "But the EU is gradually waking up, and more and more construction projects are being launched. According to IEA analysts, the number of planned data centers has increased significantly in recent months, and Europe's installed capacity is set to more than double if all the planned facilities are actually built. The U.K., Norway and Switzerland are also planning more data centers to meet the demands of the AI age. Many of these projects serve the expansion plans of American tech and cloud giants Amazon, Google, Microsoft and Oracle, as well as AI startups like OpenAI."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joe5cdlp0",
+   "content": {
+    "text": "<strong></strong>Today there are over 3,000 data centers in the EU, plus over 100 in Switzerland. Most of them do not stand out from the landscape; they are often part of the industrial areas of European metropolitan centers. «They look like warehouses, and the ones we have in Europe aren't actually that big,» says Pawel Czyzak of the think tank Ember."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joeaalho0",
+   "content": {
+    "text": "Larger plants, on the other hand, are increasingly being built in remote areas. Overall, however, the EU's construction ambitions are more limited than those of the U.S., says Czyzak. There, the numerous construction projects and their high water and electricity consumption are already increasingly provoking resistance from local residents."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joe8i5eu1",
+   "content": {
+    "text": "Winterson of the industry association EUDCA also believes that concerns about Brussels' construction plans are exaggerated. Tripling capacity does not automatically mean tripling the number of buildings, he says. «We are talking about tripling the power capacity of these buildings,» he explains, adding that the goal is to expand the electricity and cooling systems. «So we will not be building 10,000 to 20,000 more buildings.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joeackcj0",
+   "content": {
+    "text": "<strong></strong>Instead, Winterson expects around 2,000 to 3,000 additional buildings in the coming years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jo1juj9n0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "3def083a2f7894433ddd6d48dbb5d0aa",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "containerwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_3def083a2f7894433ddd6d48dbb5d0aa_qb6ce8a8f640b403ab2dbae05f58801a3_container\"        data-q-item-id=\"3def083a2f7894433ddd6d48dbb5d0aa\"        data-q-request-id=\"53e7976b79f1b396633b16802d8cdf959d01260e\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"3def083a2f7894433ddd6d48dbb5d0aa\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"3def083a2f7894433ddd6d48dbb5d0aa\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"53e7976b79f1b396633b16802d8cdf959d01260e\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_3def083a2f7894433ddd6d48dbb5d0aa_qb6ce8a8f640b403ab2dbae05f58801a3_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"3def083a2f7894433ddd6d48dbb5d0aa\",\"title\":\"Data Center Series – Carpet Satellite Images\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[{\"text\":\"Google Earth\",\"link\":{\"url\":\"https://earth.google.com/web/\"}}],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/18/satellitenbildteppich-bearbeitet-mw3-f6e78d99073847bc5e596aaf9a27ad78.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/18/satellitenbildteppich-bearbeitet-mw3-f6e78d99073847bc5e596aaf9a27ad78.png\",\"size\":5477502,\"type\":\"image/png\",\"originalName\":\"satellitenbildteppich-bearbeitet-mw3.png\",\"width\":1110,\"height\":2253}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/18/satellitenbildteppich-bearbeitet-cw3-bdf59ff71be871178793251e6c9e0a47.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/18/satellitenbildteppich-bearbeitet-cw3-bdf59ff71be871178793251e6c9e0a47.png\",\"size\":11006552,\"type\":\"image/png\",\"originalName\":\"satellitenbildteppich-bearbeitet-cw3.png\",\"width\":1890,\"height\":2523}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/05/14/satellitenbildteppich-bearbeitet-fw-8405c6473e37bdac55bbb223f957ced0.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/satellitenbildteppich-bearbeitet-fw-8405c6473e37bdac55bbb223f957ced0.png\",\"size\":16257472,\"type\":\"image/png\",\"originalName\":\"satellitenbildteppich-bearbeitet-fw.png\",\"width\":3034,\"height\":2247}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-18T08:05:19.202Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_3def083a2f7894433ddd6d48dbb5d0aa_qb6ce8a8f640b403ab2dbae05f58801a3\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joe5a1r20",
+   "content": {
+    "text": "Previously, data centers were concentrated in a few European metropolitan areas such as London, Dublin, Amsterdam, Frankfurt and Paris. But construction activity has changed dramatically over the past ten years, according to the industry association EUDCA. Today, data centers are being built all over Europe, and traditional locations are increasingly reaching their limits."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joju0pi00",
+   "content": {
+    "text": "The facilities are getting bigger, more expensive and consume more electricity. Cloud service providers are increasingly operating data centers in industrial parks or developing vast tracts of land in rural areas. These include the so-called hyperscale data centers of major tech companies like Amazon, Google and Microsoft – facilities that consume 100 megawatts of electricity or more."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jogch9981",
+   "content": {
+    "image": {
+     "author": "Jim Lo Scalzo / EPA",
+     "caption": "This is what an Amazon data center in the U.S. state of Virginia looks like from above. It is one of over 650 data centers there. Nowhere else in the world is the concentration of data centers higher.",
+     "originalUrl": "/2026/05/19/62d3fffa-a3af-494f-a156-79e9cb248919.png?crop=2100,1575,x0,y0",
+     "width": 2100,
+     "height": 1575,
+     "altText": "This is what an Amazon data center in the U.S. state of Virginia looks like from above. It is one of over 650 data centers there. Nowhere else in the world is the concentration of data centers higher.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2100,
+      "height": 1575,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2100,
+       "height": 1575,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "This is what an Amazon data center in the U.S. state of Virginia looks like from above. It is one of over 650 data centers there. Nowhere else in the world is the concentration of data centers higher.",
+    "author": "Jim Lo Scalzo / EPA"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogcj11e1",
+   "content": {
+    "text": "AI data centers require significantly more energy and cooling than conventional facilities. The additional infrastructure demands space. «A large data center is like a city. If you build a small town in an open field, that requires a massive expansion of the infrastructure,» says Czyzak of Ember."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joit234v1",
+   "content": {
+    "text": "In the facilities, heavy metal cabinets full of computers and cables are lined up next to each other. All of this consumes energy and generates large amounts of heat. «Each of these refrigerator-sized cabinets can consume as much electricity as 65 households,» says Siddharth Singh of the IEA."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joit59rj1",
+   "content": {
+    "text": "At the same time, the increasing demand for traditional cloud services is also driving expansion."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jnahtgv20",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "7419ef2249d52c5658679edf4db4cf0f",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_7419ef2249d52c5658679edf4db4cf0f_qd7dcd5ed231749209056125317e9f1a3_container\"        data-q-item-id=\"7419ef2249d52c5658679edf4db4cf0f\"        data-q-request-id=\"48ecca230a2863ac084c84dbc0ea50e16c3c5820\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"7419ef2249d52c5658679edf4db4cf0f\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"7419ef2249d52c5658679edf4db4cf0f\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"48ecca230a2863ac084c84dbc0ea50e16c3c5820\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_7419ef2249d52c5658679edf4db4cf0f_qd7dcd5ed231749209056125317e9f1a3_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"7419ef2249d52c5658679edf4db4cf0f\",\"title\":\"In an AI world, data centers are becoming ever larger\",\"subtitle\":\"Data center capacity, per system type, in gigawatts\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[{\"text\":\"IEA\",\"link\":{\"url\":\"https://www.iea.org/data-and-statistics/data-tools/energy-and-ai-observatory?tab=Energy+for+AI\"}}],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/17/Rechenzentren-Q-Chart-mw-4ef668f1716146d4ec13cec14240ecb6.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/17/Rechenzentren-Q-Chart-mw-4ef668f1716146d4ec13cec14240ecb6.png\",\"size\":84163,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Q-Chart-mw.png\",\"width\":1110,\"height\":1350}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/17/Rechenzentren-Q-Chart-cw-8782c5461fe2696fccdc2eaa093a8587.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/17/Rechenzentren-Q-Chart-cw-8782c5461fe2696fccdc2eaa093a8587.png\",\"size\":115895,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Q-Chart-cw.png\",\"width\":1890,\"height\":1827}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/05/17/Rechenzentren-Q-Chart-fw-a5c930d06c42d156edb1d9f1aec1b564.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/17/Rechenzentren-Q-Chart-fw-a5c930d06c42d156edb1d9f1aec1b564.png\",\"size\":138782,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Q-Chart-fw.png\",\"width\":3000,\"height\":1878}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-17T09:30:32.630Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_7419ef2249d52c5658679edf4db4cf0f_qd7dcd5ed231749209056125317e9f1a3\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jo19uclq0",
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jojiq54a0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "3def083a2f7894433ddd6d48dbc6c451",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_3def083a2f7894433ddd6d48dbc6c451_q0e0fb13da99b4348bde705268fb98625_container\"        data-q-item-id=\"3def083a2f7894433ddd6d48dbc6c451\"        data-q-request-id=\"4fc92a9189df539304f734f32d9b89c1b0a6619a\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"3def083a2f7894433ddd6d48dbc6c451\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"3def083a2f7894433ddd6d48dbc6c451\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"4fc92a9189df539304f734f32d9b89c1b0a6619a\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_3def083a2f7894433ddd6d48dbc6c451_q0e0fb13da99b4348bde705268fb98625_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"3def083a2f7894433ddd6d48dbc6c451\",\"title\":\"Chapter Icon - Clean Energy Creates the Advantage - Data Centers\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"jok.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/14/EnergieMOBILE3x-ff8098edbbbae113ac768cee887568ce.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/EnergieMOBILE3x-ff8098edbbbae113ac768cee887568ce.png\",\"size\":13758,\"type\":\"image/png\",\"originalName\":\"EnergieMOBILE@3x.png\",\"width\":1081,\"height\":319}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/14/Energiecw3x-f0ed97ca1edc7be32c8f46be7b4f02e7.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/Energiecw3x-f0ed97ca1edc7be32c8f46be7b4f02e7.png\",\"size\":15649,\"type\":\"image/png\",\"originalName\":\"Energiecw@3x.png\",\"width\":1891,\"height\":318}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-14T15:46:29.693Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_3def083a2f7894433ddd6d48dbc6c451_q0e0fb13da99b4348bde705268fb98625\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jnv0bbsj1",
+   "content": {
+    "text": "<strong>Clean energy creates the advantage</strong>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jo16vpjr1",
+   "content": {
+    "text": "New data centers are being built where electricity is cheap, clean and quickly available, and where fiber optic cables run."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joglktis1",
+   "content": {
+    "text": "This is already evident in the growth regions of northern Europe, but also in Spain and Portugal. «A large part of the development is shifting to Scandinavia because it is cooler there, electricity is cheaper and cleaner, and there is plenty of land,» summarizes Czyzak of Ember."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joejt0h11",
+   "content": {
+    "text": "<strong></strong><strong></strong>The industry is confident it can secure the necessary funding and personnel for the planned new data centers. It does not need political intervention for this, according to Winterson. However, political intervention will be necessary to overcome what is likely the biggest obstacle to Europe's AI ambitions: data centers are increasingly struggling to even get connected to the grid and access electricity."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogml4re0",
+   "content": {
+    "text": "A huge data center consumes roughly as much electricity as a small town. Europe's power lines are not equipped to handle this. This means new lines must be built, new substations erected and new transformers installed. The entire power grid must be expanded."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1joj89j8m0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "7419ef2249d52c5658679edf4db71ddd",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_7419ef2249d52c5658679edf4db71ddd_qf8b32c18a92a42fb8fd014d14850692c_container\"        data-q-item-id=\"7419ef2249d52c5658679edf4db71ddd\"        data-q-request-id=\"cd8485cd688e27341986a2a8c42daa1c82bdd52f\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"7419ef2249d52c5658679edf4db71ddd\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"7419ef2249d52c5658679edf4db71ddd\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"cd8485cd688e27341986a2a8c42daa1c82bdd52f\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_7419ef2249d52c5658679edf4db71ddd_qf8b32c18a92a42fb8fd014d14850692c_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"7419ef2249d52c5658679edf4db71ddd\",\"title\":\"Europe's green north and south attract data centers\",\"subtitle\":\"Share of clean energy sources in electricity generation in 2025, in percent\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[{\"text\":\"Ember\",\"link\":{\"url\":\"https://ember-energy.org/data/yearly-electricity-data/\"}}],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/14/Rechenzentren-Q-Karte-mw3-6af4a75087517bb80c80561b31517342.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/Rechenzentren-Q-Karte-mw3-6af4a75087517bb80c80561b31517342.png\",\"size\":299179,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Q-Karte-mw3.png\",\"width\":1110,\"height\":2193}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/14/Rechenzentren-Q-Karte-cw3-198aad332e871c971b6c72ce032de77e.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/Rechenzentren-Q-Karte-cw3-198aad332e871c971b6c72ce032de77e.png\",\"size\":443375,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Q-Karte-cw3.png\",\"width\":1890,\"height\":2376}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/05/14/Rechenzentren-Q-Karte-fw3-a98481dd5e3849140b50b7ce4afdb4f5.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/Rechenzentren-Q-Karte-fw3-a98481dd5e3849140b50b7ce4afdb4f5.png\",\"size\":475484,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Q-Karte-fw3.png\",\"width\":3000,\"height\":2376}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-15T16:06:14.432Z\",\"notes\":\"The category of clean energy sources includes both renewable energies and nuclear power\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_7419ef2249d52c5658679edf4db71ddd_qf8b32c18a92a42fb8fd014d14850692c\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jog7p4cc0",
+   "content": {
+    "text": "Across Europe, data centers are driving up electricity consumption. According to projections by Ember, their electricity demand is expected to rise from 96 terawatt-hours (TWh) in 2024 to 168 TWh by 2030 and 236 TWh by 2035. In markets such as Sweden, Denmark and Norway, demand is expected to triple by 2030. According to Ember's data, data centers will thus become one of the fastest-growing drivers of electricity demand, even ahead of electric vehicles."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jog6bi4o0",
+   "content": {
+    "text": "Even today, traditional metropolitan areas – whether Frankfurt, Amsterdam or Dublin – are reaching their limits. Existing data centers are increasingly straining and overloading the power grids, which is slowing down expansion. The figures make this clear: In 2023, according to Ember, these facilities consumed between 33% and 42% of the total electricity demand of Amsterdam, London and Frankfurt. In Dublin, the figure was almost 80%. More and more <a href=\"https://www.datacenterdynamics.com/en/news/eirgrid-says-no-new-applications-for-data-centers-in-dublin-till-2028/\">applicants are queuing up</a> to connect to the grid. According to Ember, this can take up to 13 years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jog7d9n01",
+   "content": {
+    "text": "This problem is not new – quite the contrary. In the political debate surrounding the energy transition, it is generally referred to as the sluggish expansion of the power grid. For years, developers and operators of wind and solar farms have complained that they cannot connect their power plants. Now, such bottlenecks are becoming a significant problem for the expansion of data centers. Those involved are therefore hoping that the AI boom will finally lead to the much-discussed expansion of the electricity grid."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jogtfjua0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "7419ef2249d52c5658679edf4d68c1c1",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "containerwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_7419ef2249d52c5658679edf4d68c1c1_q532c2cb8eb1f4698ab0ead25eacd56a4_container\"        data-q-item-id=\"7419ef2249d52c5658679edf4d68c1c1\"        data-q-request-id=\"be841cf89a9ad10ed9a5aca4a5a73523751d36c1\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"7419ef2249d52c5658679edf4d68c1c1\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"7419ef2249d52c5658679edf4d68c1c1\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"be841cf89a9ad10ed9a5aca4a5a73523751d36c1\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_7419ef2249d52c5658679edf4d68c1c1_q532c2cb8eb1f4698ab0ead25eacd56a4_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"7419ef2249d52c5658679edf4d68c1c1\",\"title\":\"Data centers - Grid\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/13/scrolly_datenzentren_mw5-df6b60721c2df2614d6336bab972c6ba.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_mw5-df6b60721c2df2614d6336bab972c6ba.png\",\"size\":786377,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_mw5.png\",\"width\":1110,\"height\":1122}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/13/scrolly_datenzentren_cw5-dc72c2892b139d7b90851f30ddc2bbfc.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_cw5-dc72c2892b139d7b90851f30ddc2bbfc.png\",\"size\":1764233,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_cw5.png\",\"width\":1890,\"height\":1890}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/05/13/scrolly_datenzentren_fw5-e10280bb027d73f33db2a4c33f0b0c01.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/13/scrolly_datenzentren_fw5-e10280bb027d73f33db2a4c33f0b0c01.png\",\"size\":2999549,\"type\":\"image/png\",\"originalName\":\"scrolly_datenzentren_fw5.png\",\"width\":3000,\"height\":1890}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-13T14:48:26.192Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_7419ef2249d52c5658679edf4d68c1c1_q532c2cb8eb1f4698ab0ead25eacd56a4\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jog7dau31",
+   "content": {
+    "text": "Data center operators are already looking for new locations in Europe. The state of the power grid determines where investments flow. Operators are in a hurry. They want to get their data centers operational as quickly as possible. Any delay – whether with grid connection, access to power sources or building permits – becomes a locational disadvantage."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1jo19uq150",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jojiqpb70",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "7419ef2249d52c5658679edf4dc060ad",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_7419ef2249d52c5658679edf4dc060ad_qbcc1b2183b874827b32844379dad23e0_container\"        data-q-item-id=\"7419ef2249d52c5658679edf4dc060ad\"        data-q-request-id=\"85a02d356db3f37e3aa702b95ff59771a0135e76\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master,sophie-legend%23master,sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"7419ef2249d52c5658679edf4dc060ad\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"7419ef2249d52c5658679edf4dc060ad\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"85a02d356db3f37e3aa702b95ff59771a0135e76\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_7419ef2249d52c5658679edf4dc060ad_qbcc1b2183b874827b32844379dad23e0_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"7419ef2249d52c5658679edf4dc060ad\",\"title\":\"Chapter Icon - The Coming Resistance - Data Centers\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"jok.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/14/WiderstandMOBILE3x-913ef0d3d4d19e9c1580ae9adeaab2ba.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/WiderstandMOBILE3x-913ef0d3d4d19e9c1580ae9adeaab2ba.png\",\"size\":14152,\"type\":\"image/png\",\"originalName\":\"WiderstandMOBILE@3x.png\",\"width\":1081,\"height\":319}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/14/Widerstandcw3x-aa171c78e7560b791bfcd6d62c8f1b32.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/14/Widerstandcw3x-aa171c78e7560b791bfcd6d62c8f1b32.png\",\"size\":16040,\"type\":\"image/png\",\"originalName\":\"Widerstandcw@3x.png\",\"width\":1891,\"height\":318}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-14T15:47:08.165Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_7419ef2249d52c5658679edf4dc060ad_qbcc1b2183b874827b32844379dad23e0\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jnuvcnsv0",
+   "content": {
+    "text": "The coming resistance"
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jnuvemjm0",
+   "content": {
+    "text": "Data centers promise growth, jobs and greater technological independence for Europe. But the energy and resource demands of these facilities fuel fears that their expansion could ultimately do more harm than good."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jog999nb1",
+   "content": {
+    "text": "Resistance is already forming in several countries. Activists warn that the facilities damage the environment, consume too much electricity and water, and drive up electricity prices. They also criticize the tech companies for not disclosing enough environmentally relevant data and for ignoring the concerns of the local population."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jogd7mcl1",
+   "content": {
+    "text": "In the U.S., the first moratoria on new construction projects have already been announced in recent weeks. But to implement their AI visions, decision-makers in politics and business cannot avoid new buildings, power lines and power plants."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joedtrvs0",
+   "content": {
+    "text": "<strong></strong>The industry is already preparing for growing resistance and has arguments ready to counter criticism regarding energy and water consumption and new emissions. Industry insiders admit that some of the criticism is justified. However, given the central role of data centers for Europe's industrial future, the industry is anything but defensive."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joeecp6f0",
+   "content": {
+    "text": "«We have a high energy demand, and specifically in certain locations. This causes problems that I am happy to discuss,» says Winterson of the industry association EUDCA. «But the claim that we are destroying large parts of the European landscape is absolute nonsense.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1joeecp6j0",
+   "content": {
+    "text": "It remains to be seen how successfully the industry will assert itself publicly. However, it is already becoming clear that the implementation of many infrastructure projects could fail for reasons beyond power grids, permits or capital. According to forecasts, the EU could miss its target of tripling data center capacity by 2030 for these reasons as well. This would mean the continent would fall further behind the U.S. and China. Whether the resistance is justified will likely be of secondary importance in the end."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1joecrsd70",
+   "content": {
+    "image": {
+     "author": "Andreas Rentz / Getty",
+     "caption": "Microsoft is building in North Rhine-Westphalia: In March, construction began on one of three huge data centers that the American tech company wants to build in the region to expand its AI offerings and cloud services.",
+     "originalUrl": "/2026/05/19/da44c091-20a8-4f52-8471-294dccd0043f.png?crop=2100,1400,x0,y0",
+     "width": 2100,
+     "height": 1400,
+     "altText": "Microsoft is building in North Rhine-Westphalia: In March, construction began on one of three huge data centers that the American tech company wants to build in the region to expand its AI offerings and cloud services.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2100,
+      "height": 1400,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2100,
+       "height": 1400,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Microsoft is building in North Rhine-Westphalia: In March, construction began on one of three huge data centers that the American tech company wants to build in the region to expand its AI offerings and cloud services.",
+    "author": "Andreas Rentz / Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1jogs4nb00",
+   "content": {
+    "text": "<strong>Contributors:</strong> Michel Grautstück (programming), Martin Berz (photo editing)<br><strong>Sources:</strong> Data Center Map, International Energy Agency, Pawel Czyzak, Ember, Google Earth, Epoch AI<br><strong>Image colorization:</strong> NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jmlesqlk2",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jmlesqlk3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1joiqa0850",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Will it become a god? Or is it humanity's greatest mistake? A journey through the history and future of artificial intelligence",
+       "teaserImage": {
+        "originalUrl": "/2025/11/26/a0747f27-809c-4a7d-8759-ebf73c6e980c.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/26/a0747f27-809c-4a7d-8759-ebf73c6e980c.png?width=1024&quality=75&auto=webp",
+        "width": 3840,
+        "height": 2160,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3840,2160,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2160,2160,x840,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2880,2160,x480,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1620,2160,x1110,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3240,2160,x300,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For three years, AI has been revolutionizing our lives. How did this come about – and where could it all lead?"
+       },
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1913314",
+       "embeds": {
+        "videos": [
+         {
+          "id": "ycYDQiNQ",
+          "provider": "jw",
+          "teaser": true
+         },
+         {
+          "id": "GXi8KiUH",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "readingTime": 900,
+       "authorLine": "Linus Schöpfer, Ruth Fulterer, Jasmine Rueegg (Illustration)",
+       "videoTeaser": "ycYDQiNQ",
+       "tags": [
+        "Visuals",
+        "Technologie: Empfehlungen"
+       ],
+       "characterCount": 21066,
+       "product": "NZZ.ch",
+       "documentId": 1913314,
+       "layout": "longformvisual",
+       "publicationDate": "2025-11-30T04:30:00.000Z",
+       "publicationLastUpdated": "2026-05-13T13:23:58.804Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-11-30T16:30:00.000Z",
+       "teaserCaption": "For three years, AI has been revolutionizing our lives. How did this come about – and where could it all lead?",
+       "authorImage": {
+        "originalUrl": "/2025/11/21/f5a640a2-98e0-420f-9c57-8c47ddecf1a2.jpg?width=1024",
+        "width": 5504,
+        "height": 8256,
+        "imageService": "fastly",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/21/f5a640a2-98e0-420f-9c57-8c47ddecf1a2.jpg?width=1024&quality=75&auto=webp",
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/11/21/f5a640a2-98e0-420f-9c57-8c47ddecf1a2.jpg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/wird-sie-zu-gott-oder-ist-sie-der-groesste-irrtum-der-menschheit-eine-rasante-geschichte-der-kuenstlichen-intelligenz-ld.1913314",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 3021,
+       "leadText": "For three years, AI has been revolutionizing our lives. How did this come about – and where could it all lead?",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jmlesqlk4",
+      "content": {
+       "owner": "NZZ",
+       "title": "The big bet on OpenAI: Investors are risking billions in the AI casino. Who's at the table, and what's at stake?",
+       "teaserImage": {
+        "originalUrl": "/2025/09/26/38d30e0b-b436-4317-8805-22bebd4ec96c.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/26/38d30e0b-b436-4317-8805-22bebd4ec96c.png?width=1024&quality=75&auto=webp",
+        "width": 6401,
+        "height": 4466,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6401,3601,x0,y433"
+         },
+         {
+          "name": "4:3",
+          "crop": "5955,4466,x223,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4466,4466,x968,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3350,4466,x1526,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6401,4267,x0,y99"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Nvidia plans to invest $100 billion in the company behind Chat-GPT. And its CEO is planning trillions in spending. This could become expensive for small savers – and trigger the next economic crisis."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "paywallQuestionOne": "Who invests in Open and who depends on the success of the Chat-GPT company? ",
+       "paywallQuestionTwo": "Could small investors also lose their money if the AI ​​bubble bursts?",
+       "paywallQuestionThree": "How realistic is OpenAI's promise of high profitability by 2030?",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1903748",
+       "readingTime": 480,
+       "colorSchema": "color-schema--deep-moss",
+       "authorLine": "Ruth Fulterer, Leonid Leiva Ariosa, Anja Lemcke (graphics)",
+       "characterCount": 9133,
+       "product": "NZZ.ch",
+       "documentId": 1903748,
+       "layout": "longformvisual",
+       "publicationDate": "2025-09-27T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-08T14:21:56.731Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-09-27T15:30:00.000Z",
+       "teaserCaption": "Nvidia plans to invest $100 billion in the company behind Chat-GPT. And its CEO is planning trillions in spending. This could become expensive for small savers – and trigger the next economic crisis.",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+       "url": "/technologie/die-grosse-wette-auf-open-ai-investoren-riskieren-milliarden-im-ki-kasino-wer-sitzt-mit-am-tisch-und-was-steht-auf-dem-spiel-ld.1903748",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1542,
+       "premium": true,
+       "leadText": "Nvidia plans to invest $100 billion in the company behind Chat-GPT. And its CEO is planning trillions in spending. This could become expensive for small savers – and trigger the next economic crisis.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jmlesqlk6",
+      "content": {
+       "owner": "NZZ",
+       "title": "The AI hype takes off: tech giants race for AI factories in space",
+       "teaserImage": {
+        "originalUrl": "/2025/11/06/5b7152b7-8181-42be-9627-8767faaa3e6f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/06/5b7152b7-8181-42be-9627-8767faaa3e6f.png?width=1024&quality=75&auto=webp",
+        "width": 1920,
+        "height": 1080,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1920,1080,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1080,1080,x420,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1440,1080,x240,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "810,1080,x555,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1620,1080,x150,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "While artificial intelligence threatens to blanket the Earth with energy-hungry data centers, tech billionaires are toying with a bold vision: server farms in space. The idea is already taking shape. But is it realistic?",
+        "teaserAuthor": "Starcloud/Nvidia"
+       },
+       "teaserAuthor": "Starcloud/Nvidia",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "paywallQuestionOne": "Will AI data centers need to be built in space in the future? ",
+       "paywallQuestionTwo": "What are the advantages and disadvantages of orbital server farms?",
+       "paywallQuestionThree": "Which companies and countries are investing in the construction of orbital data centers?",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1909461",
+       "embeds": {
+        "videos": [
+         {
+          "id": "WbjsKeEw",
+          "provider": "jw",
+          "teaser": true
+         }
+        ]
+       },
+       "readingTime": 420,
+       "showComments": true,
+       "colorSchema": "color-schema--forced-dark",
+       "authorLine": "Leonid Leiva Ariosa, Jasmine Rueegg",
+       "videoTeaser": "WbjsKeEw",
+       "tags": [
+        "Visuals"
+       ],
+       "characterCount": 9741,
+       "product": "NZZ.ch",
+       "documentId": 1909461,
+       "layout": "longformvisual",
+       "publicationDate": "2025-11-09T04:30:00.000Z",
+       "publicationLastUpdated": "2026-04-22T07:56:18.117Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-11-09T16:30:00.000Z",
+       "teaserCaption": "While artificial intelligence threatens to blanket the Earth with energy-hungry data centers, tech billionaires are toying with a bold vision: server farms in space. The idea is already taking shape. But is it realistic?",
+       "authorImage": {
+        "originalUrl": "/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6001,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2809,2809,x1675,y518"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/der-ki-hype-hebt-ab-wettlauf-der-tech-giganten-um-ki-fabriken-im-weltall-ld.1909461",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1445,
+       "premium": true,
+       "leadText": "While artificial intelligence threatens to blanket the Earth with energy-hungry data centers, tech billionaires are toying with a bold vision: server farms in space. The idea is already taking shape. But is it realistic?",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+  "teaserImage": {
+   "originalUrl": "/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1024&quality=75&auto=webp",
+   "width": 2343,
+   "height": 1758,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1936,1089,x260,y335"
+    },
+    {
+     "name": "4:3",
+     "crop": "1760,1320,x358,y219"
+    },
+    {
+     "name": "1:1",
+     "crop": "1758,1758,x293,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1319,1758,x451,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2130,1420,x107,y182"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+   "teaserAuthor": "Google Handout / EPA"
+  },
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1934446",
+  "dependencies": {},
+  "teaserAuthor": "Google Handout / EPA",
+  "germanyRelevant": true,
+  "readingTime": 540,
+  "colorSchema": "color-schema--night-sky",
+  "tags": [
+   "Visuals",
+   "Wissenschaft aktuell",
+   "Technologie aktuell",
+   "Pro: Rechenzentren"
+  ],
+  "showHeader": true,
+  "characterCount": 12941,
+  "breadcrumbs": [
+   {
+    "name": "Technology",
+    "path": "/technologie"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1934446,
+  "contentTypeGroup": "web",
+  "layout": "headlesslongformvisual",
+  "firstPublicationDate": "2026-05-18T03:30:00.000Z",
+  "publicationDate": "2026-05-18T03:30:00.000Z",
+  "publicationLastUpdated": "2026-05-29T13:22:29.877Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-05-18T15:30:00.000Z",
+  "teaserCaption": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   },
+   {
+    "id": 1667403,
+    "name": "Roland Shaw",
+    "shortName": "sro",
+    "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+    "external": false
+   },
+   {
+    "id": 1413679,
+    "name": "Joana Kelén",
+    "shortName": "jok.",
+    "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+    "external": false
+   }
+  ],
+  "authorLine": "Kalina Oroschakoff, Roland Shaw, Joana Kelén",
+  "authorImage": {
+   "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2752,2752,x688,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1684746,
+    "name": "Roland Shaw (sro.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1288120,
+    "name": "Joana Kelén",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?crop=2607,2607,x1577,y263&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+  "url": "/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+  "department": {
+   "name": "Technology",
+   "path": "/technologie"
+  },
+  "estimationWordCount": 1894,
+  "premium": true,
+  "leadText": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+  "nzzSummaryEN": "- The global competition for artificial intelligence infrastructure is significantly driving the expansion of data centers.\n- Data centers are seen as key components for technological innovation and economic competitiveness.\n",
+  "nzzSummaryDE": "- Global competition for artificial intelligence infrastructure is driving the massive expansion of data centers. - Data centers are considered key building blocks for technological innovation and economic competitiveness.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The age of data centers",
+  "nzzPrintSubtitle": "The global race for artificial intelligence infrastructure",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+   "title": "The global race for artificial intelligence infrastructure",
+   "socialMediaTitle": "The global race for artificial intelligence infrastructure",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1936,1089,x260,y335&wmark=nzz"
+  },
+  "ldPublicationId": 2436583,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   },
+   {
+    "name": "EU",
+    "slug": "/themen/eu"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Microsoft",
+    "slug": "/themen/microsoft"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   },
+   {
+    "name": "Cloud computing",
+    "slug": "/themen/cloudcomputing"
+   },
+   {
+    "name": "Google",
+    "slug": "/themen/google"
+   },
+   {
+    "name": "Amazon",
+    "slug": "/themen/amazon"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1913314",
+    "ld.1903748",
+    "ld.1909461"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "mp3": true,
+  "mp3Duration": 904584,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "kuenstliche-intelligenz-ki",
+   "name": "Artificial Intelligence (AI)",
+   "tagName": "Artificial Intelligence (AI)",
+   "qId": "Q11660",
+   "seoTitle": "AI News – All NZZ articles on the topic of Artificial Intelligence",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:28:45.240Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/kuenstliche-intelligenz-ki",
+   "size": 2276,
+   "relatedTopics": [
+    {
+     "name": "EU",
+     "slug": "/themen/eu"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Microsoft",
+     "slug": "/themen/microsoft"
+    },
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    },
+    {
+     "name": "Cloud-Computing",
+     "slug": "/themen/cloudcomputing"
+    },
+    {
+     "name": "Google",
+     "slug": "/themen/google"
+    },
+    {
+     "name": "Amazon",
+     "slug": "/themen/amazon"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Explained",
+    "title": "What is artificial intelligence? How does deep learning work? An overview",
+    "teaserImage": {
+     "originalUrl": "/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4661,
+     "height": 3097,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4661,2622,x0,y238"
+      },
+      {
+       "name": "1:1",
+       "crop": "3097,3097,x782,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4129,3097,x266,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2323,3097,x1169,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4646,3097,x8,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+     "teaserAuthor": "Miguel Candela / Imago"
+    },
+    "teaserAuthor": "Miguel Candela / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1632034",
+    "readingTime": 660,
+    "authorLine": "Ruth Fulterer, Eveline Geiser",
+    "characterCount": 15561,
+    "product": "NZZ.ch",
+    "documentId": "1632034",
+    "layout": "regular",
+    "publicationDate": "2021-11-05T08:27:54.281Z",
+    "publicationLastUpdated": "2026-04-29T10:01:03.477Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2021-11-05T20:27:54.281Z",
+    "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/kuenstliche-intelligenz-ki-deep-learning-einfach-erklaert-ld.1632034",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 2180,
+    "leadText": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "hasQ": true
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "The chip war reaches the logistics industry: Kühne + Nagel scrutinizes Asian subsidiary after US authorities' investigation",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3667,3667,x917,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+     "teaserAuthor": "Benoit Tessier / Reuters"
+    },
+    "teaserAuthor": "Benoit Tessier / Reuters",
+    "nzzId": "ld.10021434",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is the chip war affecting the logistics industry?",
+    "paywallQuestionTwo": "What role does Apex Logistics play in the Nvidia chip smuggling?",
+    "paywallQuestionThree": "How is Kühne + Nagel reacting to the investigations by the US authorities?",
+    "characterCount": 5867,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021434",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T10:04:23.699Z",
+    "publicationLastUpdated": "2026-09-01T07:43:01.458Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T22:04:23.699Z",
+    "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "authorLine": "Dominik Feldges",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/16/52e0b698-52d3-4f00-915a-fa5563d57443.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/kuehne-nagel-und-nvidia-transport-chip-krieg-erreicht-logistikbranche-ld.10021434",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 873,
+    "premium": true,
+    "leadText": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Madonna or Machine? Australia bans AI songs from charts – Switzerland to follow by year-end",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024&quality=75&auto=webp",
+     "width": 1972,
+     "height": 1315,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1972,1109,x0,y103"
+      },
+      {
+       "name": "4:3",
+       "crop": "1753,1315,x109,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1315,1315,x329,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "986,1315,x493,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1972,1315,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+     "teaserAuthor": "Brendan McDermid / Reuters"
+    },
+    "teaserAuthor": "Brendan McDermid / Reuters",
+    "nzzId": "ld.10021251",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why does Australia exclude AI-generated music from the charts?",
+    "paywallQuestionTwo": "How does AI affect music production and artists' rights?",
+    "paywallQuestionThree": "What measures is Switzerland planning to take against AI-generated music in the charts?",
+    "characterCount": 5105,
+    "product": "NZZ.ch",
+    "documentId": "10021251",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "authorLine": "Janique Weder",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/658595c2-7b09-41f4-b098-616595fb9540.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/madonna-oder-maschine-australien-verbannt-ki-songs-aus-den-charts-die-schweiz-zieht-bis-ende-jahr-nach-ld.10021251",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 790,
+    "leadText": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Constantly reachable and exhausted – China is the world's digital pioneer; this shows what awaits us in the near future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Oliver Radtke",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x611,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3334,3334,x1712,y333"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x1860,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+     "teaserAuthor": "Go Nakamura / Reuters"
+    },
+    "teaserAuthor": "Go Nakamura / Reuters",
+    "nzzId": "ld.10020483",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does digitalization affect mental health in China?",
+    "paywallQuestionTwo": "What social and economic pressures increase the burden?",
+    "paywallQuestionThree": "How is China responding to the challenges posed by AI and digitalization?",
+    "characterCount": 10235,
+    "tags": [
+     "Zeitgeschehen"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020483",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "url": "https://www.nzz.ch/feuilleton/dauererreichbar-und-erschoepft-china-ist-der-digitale-vorreiter-der-welt-hier-zeigt-sich-was-uns-in-naher-zukunft-bevorsteht-ld.10020483",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1407,
+    "leadText": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Countless videos circulate after Nepal disaster: Whether they are real is increasingly secondary for the public",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 675,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "615,461,x585,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "675,675,x525,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "506,675,x694,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1013,675,x187,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+     "teaserAuthor": "Screenshot Instagram; edited by NZZ"
+    },
+    "teaserAuthor": "Screenshot Instagram; edited by NZZ",
+    "editor": "1373070",
+    "tags": [
+     "Fotografie"
+    ],
+    "nzzId": "ld.10021416",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does AI-generated content influence the perception of disaster images?",
+    "paywallQuestionTwo": "What role does the labeling of AI content play in viewer trust?",
+    "paywallQuestionThree": "How does the mixing of real and fake images change our reactions?",
+    "characterCount": 6702,
+    "product": "NZZ.ch",
+    "documentId": "10021416",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T09:47:44.143Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "authorLine": "Dario Veréb",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/01/08/843b2812-68de-4f43-be8e-ade4c1e4f7e2.png?crop=1728,1728,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/medien/nach-der-katastrophe-in-nepal-kursieren-unzaehlige-videos-ob-sie-echt-sind-ist-fuer-das-publikum-zunehmend-zweitrangig-ld.10021416",
+    "department": {
+     "name": "Media",
+     "path": "/feuilleton/medien"
+    },
+    "estimationWordCount": 1068,
+    "leadText": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1934446",
+    "name": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+    "type": "article",
+    "subType1": "headlesslongformvisual",
+    "subType2": "",
+    "primaryCategory": "Technologie",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1371759,
+       "name": "Auswärtige Autoren NZZ",
+       "shortName": "AA",
+       "external": true
+      },
+      {
+       "id": 1667403,
+       "name": "Roland Shaw",
+       "shortName": "sro",
+       "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+       "external": false
+      },
+      {
+       "id": 1413679,
+       "name": "Joana Kelén",
+       "shortName": "jok.",
+       "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-05-18T03:30:00.000Z",
+     "updateTimestamp": "2026-05-29T13:22:29.877Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1934446",
+   "pageType": "headlesslongformvisual",
+   "primaryCategory": "Technologie",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "The global race for artificial intelligence infrastructure",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1936,1089,x260,y335&wmark=nzz",
+   "type": "image/png",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Kalina Oroschakoff, Roland Shaw, Joana Kelén",
+  "description": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+  "news_keywords": "Power through computing: how Europe plans to secure its future with a massive expansion of data centers, Technology, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-05-29T17:22:29+02:00",
+  "date": "2026-05-18T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+  "ogTitle": "The global race for artificial intelligence infrastructure",
+  "ogUrl": "https://www.nzz.ch/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+  "mrf:cms_id": "nzz:ld.1934446",
+  "mrf:sections": "Technologie;WTM",
+  "mrf:tags": "Page Type:headlesslongformvisual;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.1934446",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   },
+   {
+    "id": 1667403,
+    "name": "Roland Shaw",
+    "shortName": "sro",
+    "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+    "external": false
+   },
+   {
+    "id": 1413679,
+    "name": "Joana Kelén",
+    "shortName": "jok.",
+    "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:06 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/technologie",
+      "name": "Technology"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "The global race for artificial intelligence infrastructure"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446"
+   },
+   "headline": "The global race for artificial intelligence infrastructure",
+   "datePublished": "2026-05-18T07:30:00+02:00",
+   "dateModified": "2026-05-29T17:22:29+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+   "isAccessibleForFree": false,
+   "articleSection": "Technologie",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1936,1089,x260,y335&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Foreign authors NZZ"
+    },
+    {
+     "@type": "Person",
+     "name": "Roland Shaw"
+    },
+    {
+     "@type": "Person",
+     "name": "Joana Kelén"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 904584,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+    "classification=premium",
+    "relevance=germany",
+    "layout=headlesslongformvisual",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1934446",
+    "channel=Technologie"
+   ],
+   "ContentCreated": "2026-05-18T03:30:00.000Z",
+   "ContentAuthor": "Kalina Oroschakoff, Roland Shaw, Joana Kelén",
+   "ContentSection": "Technologie",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "headlesslongformvisual",
+   "nzzAbstract": "Wie will Europa im globalen KI-Wettlauf mit Rechenzentren aufholen?\nWelche Herausforderungen bringt der Ausbau von Rechenzentren in Europa mit sich?\nWie beeinflusst der Energiebedarf von Rechenzentren Europas Klimaziele?",
+   "ldId": "ld.1934446",
+   "channel": "Technologie",
+   "heading": "Macht durch Rechenpower: wie Europa mit einem massiven Rechenzentren-Ausbau seine Zukunft sichern will",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

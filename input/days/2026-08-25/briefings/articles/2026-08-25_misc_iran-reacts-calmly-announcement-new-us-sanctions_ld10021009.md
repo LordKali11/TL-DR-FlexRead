@@ -1,0 +1,58 @@
+# Iran reacts calmly to the announcement of new US sanctions
+
+*The most important news of the evening: Iran reacts calmly to the announcement of new US sanctions ++ Israel's attack in Syria escalates conflict with Turkey ++ How the shock of 9/11 made flying safer*
+
+**** ·  · 2026-08-25 · 1164 words · [ld.10021009](https://www.nzz.ch/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009)
+
+**You can only read this in the NZZ:** In Poland, the war in neighboring Russia is part of everyday life. The Polish government says Warsaw is systematically preparing its civilian population for an emergency, stating that the entire society should be able to defy the threat from Russia. A new study by an Eastern Europe expert recommends that Switzerland learn from this approach, arguing that it, too, is threatened by the Kremlin's hybrid warfare. To the «NZZ Pro» background article
+
+## This Evening's Most Important News
+
+## Washington's increased pressure – Tehran unimpressed
+
+![](https://img-msp-prod.nzz.ch/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1024)
+** (Majid Asgaripour / Reuters)
+
+**What happened:** The U.S. is intensifying economic pressure on Iran and also threatening its trading partners with sanctions. Tehran remains undeterred and, for its part, threatens to restrict oil flow in the Persian Gulf. Washington faces a dilemma: Iran is difficult to isolate as long as China, as the most important buyer of Iranian oil, remains on its side. Beijing signals that it will not be deterred from trading with Iran by U.S. threats. To the analysis
+
+**Why it matters:** If it were up to the U.S. government, all countries were to cut their economic ties with Iran. Last week, American President Donald Trump had spoken of «measures of historical proportions.» However, the steps presented on Monday fell short of this announcement.
+
+**What the expert says:** «Even if sanction pressure is further increased, a short-term change in Tehran's strategic calculus in the war is unlikely,» says Iran expert Ali Fathollah-Nejad. In the medium or long term, however, targeted sanctions against the regime could pave the way for Iran to re-evaluate its strategic calculus and develop a greater willingness for understanding and concessions.
+
+## Israel's bombing of Syria, targeting Turkey
+
+**What happened:** Israeli fighter jets attacked a military base in the Syrian province of Idlib last week. Damascus spoke of an «act of aggression.» Israeli Prime Minister Benjamin Netanyahu explained his motives that evening. His country and Syria had agreed on a status quo in security matters, according to a report. But in Israel itself, doubts are emerging as to whether the plan will work out. To the report
+
+**Why it matters:** Syria has thus definitively become the scene of the Israeli-Turkish power struggle. This had already been hinted at 10 years ago. At that time, the Turkish army moved into northern Syria. Officially, the operation has since protected the border from Islamist terrorists and Kurdish militias. In Israel, however, this was always also seen as Turkish expansionism.
+
+**Reactions:** In Israel, voices are warning against the weaknesses of the new doctrine, not least with regard to Syria. When Bashar al-Assad's regime collapsed at the end of 2024, Israeli troops advanced on the Golan Heights. They have occupied the strip ever since. Danny Citrinowicz of the Institute for National Security Studies recently wrote that this brought little security, adding that the longer it takes, the more expensive it will become.
+
+## What Else Happened
+
+## Our recommendation for «NZZ Pro» subscribers
+
+![](https://img-msp-prod.nzz.ch/2026/08/25/d3192a8d-e83a-4678-b8ec-85b2bf261a8c.webp?width=1024)
+** (Bob Riha Jr / Getty)
+
+**Aviation security:** Since the terrorist attack of Sept. 11, 2001, in the U.S., much has changed regarding aviation security. The term stands for the prevention of interventions in air traffic. Since then, further attacks with aircraft have been prevented. The question, however, is whether this success will last. To the background article
+
+_With the premium newsletter «NZZ Pro,» you get a look ahead at the global economy and geopolitics. Test it free for 30 days now. Register here_
+
+## Our Recommendations Today
+
+![](https://img-msp-prod.nzz.ch/2026/08/25/2335615b-a563-401d-8345-e691b0ceaa2e.webp?width=1024)
+** (Sammy Kogan / AP)
+
+**Trade dispute with the U.S.:** Since Mark Carney took office as head of government in March 2025, he has invoked Canadian sovereignty like a mantra. Carney seems prepared for the arduous conflict with Trump – however, it remains unclear how long the Canadian population is willing to bear the economic burdens for it. To the background article
+
+**Frequent stomach aches:** «When in doubt, operate to remove the appendix,» that's what they used to say. But today, it is much easier to determine whether the appendix is actually inflamed. Fortunately, because in children, indeterminate abdominal pain can also have completely different causes. And not infrequently, the pain originates more in the head than in the stomach. To the column «The main thing is health»
+
+## Before You Go On
+
+**🎧 Listen:** Ukraine handles a significant part of its exports through the ports near Odesa. Now Russia is intensifying its attacks on the region. A decisive battle for Ukraine's economic survival is being fought far from the front. Foreign editor Jonas Roth was on site and describes in «NZZ Akzent» how the city is trying to defend itself against Russia. To the podcast
+
+**🎶 Experience:** This year's Lucerne Festival features maximum contrasts. Three concerts with different works push the boundaries of both volume and silence at the KKL Luzern. A tightrope walk that makes one hear the monumental «Alpine Symphony» differently, in particular. The festival runs until Sept. 13. To the review
+
+I wished you a relaxing Tuesday evening.Lillybelle Eisele
+
+_The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM._

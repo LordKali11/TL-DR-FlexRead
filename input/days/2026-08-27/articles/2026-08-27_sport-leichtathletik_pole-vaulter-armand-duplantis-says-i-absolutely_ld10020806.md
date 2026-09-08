@@ -1,0 +1,95 @@
+# Pole vaulter Armand Duplantis says: «I absolutely want to break a world record in Zurich.»
+
+*The 26-year-old track and field athlete wants to put on a show at Weltklasse Zürich on Thursday. He explains why his wedding led to one of his rare defeats – and what the increased competition is triggering in him.*
+
+**Eva Breitenstein** · Sport · 2026-08-27 · 2010 words · [ld.10020806](https://www.nzz.ch/sport/leichtathletik/weltklasse-zuerich-armand-duplantis-will-unbedingt-weltrekord-springen-ld.10020806)
+
+********
+
+![Wants to make his mark in Zurich: pole vaulter Armand Duplantis.](https://img-msp-prod.nzz.ch/2026/08/26/1b97ee3e-c6a4-40dd-a170-e4d1ab900cfb.jpg?crop=3578,2665,x422,y0)
+*Wants to make his mark in Zurich: pole vaulter Armand Duplantis.* (Photo Olimpik / Imago)
+
+**Armand Duplantis, you have set 15 world records in pole vaulting in 12 different locations so far. What has been missing in Zurich?**
+
+Sometimes the weather; it has often been a bit cool in recent years. And in 2024, I had competed in a 100-meter race against Karsten Warholm, and the day after, my legs felt as if they were going to fall off. But I don't regret it at all; it was fun. Now the weather forecast for Thursday evening looks very good. I believe I can jump really high here if the conditions are good. I am determined to break a world record in Zurich because it's the most historic track and field meet. That's why I want to immortalize myself here.
+
+**Last week at the Athletissima in Lausanne, you had a top-class duel with Emmanouil «Manolo» Karalis and said afterward that it was the best pole vault competition ever. Was it because you had a competitor for so long?**
+
+Yes, with 6.16 m, Manolo became the second-best pole vaulter in history. Better than Sergey Bubka or Renaud Lavillenie at their best. And I also jumped well with 6.21 m, plus three other athletes over 5.91 m — overall, the level has gotten higher, for whatever reason. Many people hope that Manolo will challenge and push me. They enjoy it when the competition is no longer as predictable as it may have been in the last few years.
+
+**Do you enjoy being challenged more?**
+
+Yes! It's definitely more fun. I focus differently; it's more competitive. That's what sport is mainly about for me. The duel, the battle with someone else, is what I enjoy most. It's a different feeling than just chasing heights. Of course, it remains an individual sport; I have to stay focused on myself and jump high, but competition creates a different energy — for me and the audience.
+
+**Does it make a mental difference whether you have to fight for the win for a long time or can take your time with the world record attempts?**
+
+It's a small difference, both mentally and physically. It depends on the conditions and how the competition goes. Last Sunday in Poland, for example, it was a sloppy competition; I had a lot of weak jumps on the way to 6.20 m. So if I'm already making an abnormal number of jumps, I'm more exhausted when I attempt the world record. But victory is always the priority anyway.
+
+**When someone dominates a sport or a discipline as you do, it pulls other athletes along, and the overall level rises. Is that happening in pole vaulting right now?**
+
+I'm not doing the work for them, so it feels strange to take credit for it. The others have to train every day themselves, find their motivation, and push themselves. But of course, there's a mental factor when I break down barriers and show what's possible. And it's also necessary: you have to jump higher today to be at the front. It's like a chain reaction that perhaps started with me. Now it's continuing with Manolo. The younger ones will then have to catch up to him and beat him for second place. What you often see in pole vault events is that the level on a given day is either generally very high or it's not. That's a matter of energy.
+
+**What legacy do you want to leave for pole vaulting?**
+
+My father, who jumped in the eighties and nineties, always instilled in me how great the discipline was and that pole vaulters were rock stars. I grew up with that, like other kids grew up with Messi. In the past, the best pole vaulter was an American, Bob Seagren. He was the 1968 Olympic champion. Seagren is the Hollywood star type, married a Playboy bunny, had a kind of James Bond vibe. And the first Calvin Klein underwear model was an Olympic pole vaulter, Tom Hintnaus. In the past, there were a few guys like that at the top of pole vaulting. I'm not claiming that I'm such a rock star myself. But as a child, I had the feeling: You can be a pole vaulter and still be a rock star. The two are not mutually exclusive.
+
+**Why do you love the discipline?**
+
+It's so beautiful, complicated, complex, but also so fascinating, like an infinite puzzle. Like a physical version of golf. Golfers know what I'm talking about: you're constantly searching for the right rhythm. Sometimes you have it, and it's the best feeling in the world; sometimes you lose it again. The fact that it's so difficult makes it so fulfilling.
+
+![Armand Duplantis's goal is to jump for as long as possible — but only as long as he can compete for gold.](https://img-msp-prod.nzz.ch/2026/08/26/f5bad174-4ecc-4244-8bea-ab84ae5b84cb.jpg?crop=4000,2667,x0,y0)
+*Armand Duplantis's goal is to jump for as long as possible — but only as long as he can compete for gold.* (Stringer / Imago)
+
+**Do you consciously try to get a younger audience excited about track and field, for example, through social media?**
+
+I realize that it's a tool, but I don't specifically make posts for younger people. It's important that the younger generation tries track and field and that a fan culture develops. Since the 2024 Paris Olympics, there has been a huge rush of younger kids following me. That is largely thanks to my wife. It's a cultural phenomenon that you also see in other sports, like Formula 1 or perhaps tennis. In the U.S., there's a pronounced «WAG culture» (wives and girlfriends of athletes, ed.), which is unusual in track and field. I think it's a good thing that my wife also gets young people excited, as long as the young people also try the sport themselves. That's the point: it's probably not enough if they just watch and think we have a cool lifestyle.
+
+> **The dominator of the pole vault**
+> _eva. _· The Swedish-American dual citizen Armand Duplantis grew up in the U.S. as the child of two track and field athletes. The family has a pole vault facility in their garden. Duplantis was already setting world records for his age group as a seven-year-old. In the senior category, the 26-year-old has set 15 world records since 2020; it currently stands at 6.31 m. Duplantis is a two-time Olympic champion, seven-time world champion (indoor and outdoor), and four-time European champion. He is married to the Swedish model Desiré Inglander and lives in Monaco. He is also active as a musician under his nickname «Mondo».
+
+**How else could track and field find a younger audience?**
+
+Maybe it would be a good idea if the season were a bit more coherent. So that it's easier to follow, so fans can see: Who is competing where? Many athletes don't compete in that many events. In golf or tennis, you also have the more important majors and Grand Slams, but the other tournaments also have strong fields. And you can follow the tournaments easily. Maybe there could be a better structure. A few highlights, which would of course include Weltklasse Zürich. That way, it wouldn't just be at championships that it's clear the best are competing. That would probably be a good start.
+
+**Many athletes who win a lot over a long period of time have to find new sources of motivation as time goes on. Is that the case for you?**
+
+A little, yes. I always want to win, and I expect a certain level from myself every time I'm on the field. But when life changes, motivation changes too. I got married, moved, and try new things now and then to keep my mind fresh; I make music or play golf. That's important to me. Because if your activity consumes you too much, it becomes difficult. You run the risk of burning out. This year I may have done too many things besides sports, but that's okay.
+
+**You didn't experience that before.**
+
+No, but it keeps me motivated and alert on the field. Between the ages of 4 and maybe 23, all I thought about was becoming the best in the world. I was constantly daydreaming, at school, everywhere. I dreamed that I was at the Olympics, breaking the world record. I had pronounced ADHD. At some point, I was living that dream, I achieved the goals, and then your mentality changes at some point. But now I lead a different life. I have to find a different motivation, a different meaning behind it.
+
+**In an interview with the BBC, you said that you were so excited about your future after your wedding in June that it seemed as if you had never broken a world record before. Can you explain that in more detail?**
+
+It feels as if I were writing a new book and were on the first chapter. It's a new journey that is exciting and scary and motivating; I'm super focused. A new life is beginning. Two people now form a unit. With that comes more responsibility, as a man and as a husband. Maybe it's also due to the new situation and the hectic year, after everything had revolved around pole vaulting for 25 years. The wedding during the season shifted the priority away from sports a bit. I had never experienced that before, but it felt right.
+
+![Underestimated how much a wedding absorbs your thoughts: Armand Duplantis.](https://img-msp-prod.nzz.ch/2026/08/26/ab547aae-e57c-495c-88e8-1b619aa7a2f1.jpg?crop=5196,3464,x0,y0)
+*Underestimated how much a wedding absorbs your thoughts: Armand Duplantis.* (Beata Zawrzel / AP)
+
+**And now?**
+
+Now I'm very hungry again. That's why I'm competing in so many events again right now. I already thought that I was ready again, after having been a bit comfortable before.
+
+**Just before the wedding, you suffered one of your rare defeats at the competition in Stockholm because your head wasn't entirely in the game.**
+
+To be honest, I didn't care. And normally, I'm not someone who is indifferent to defeats. In the past, as a child, I would react dramatically and emotionally when I lost. That's different today. Still, this indifference during the competition was a problem, of course. I thought it was an excellent idea: a weekend for family and friends in Stockholm before we all flew to the south of France for the wedding. I had gotten 70 tickets for the stadium. We actually had a fantastic party night, but I just didn't jump well beforehand. When my people realized it was okay with me, the matter was closed. You just don't know beforehand how much a wedding absorbs your thoughts.
+
+**Now that your head is clear again, what details can you even tweak at your level?**
+
+I concentrate on the physical and technical aspects of the discipline. My goal is to jump for as long as possible — but only as long as I can compete for gold. I'm constantly working on understanding my body better because the learning never stops. The body is a fascinating, complex interplay of tendons, nerves and muscles, just amazing. I'm not claiming that I understand everything, but I'm always learning more about myself and my body. That's probably the core of training. It's a great feeling to be in shape and to feel the fitness to jump high on competition day.
+
+**Your speed is one of the reasons you jump so high. Are you still getting faster?**
+
+I hope so. We'll see how quickly I age. But I still feel young and fresh and think I'm heading in the right direction. This year I made a small change, but maybe it was the wrong year for it, the wrong timing. I extended the run-up from 20 to 22 steps. I'm probably one of the few who are capable of doing that, who have the sprinting mechanics and the right way of sprinting to execute this long run-up. I used a 22-step run-up for my world record this year, but after that, I no longer had a consistent rhythm of jumps with that approach. I'm now looking forward to implementing this next year. It's not necessarily about getting much faster, but about carrying over even more of the speed I have.
+
+**You also ended a competition early in mid-July.**
+
+At the Diamond League meet in London, I felt some tightness in my leg and back. That was followed by three weeks of rehabilitation, mobilization; I did everything to get my body working again. That was very exhausting. It was a real grind and demanded a lot of focus. I didn't want to go to the European Championships without a chance at gold. At the moment, it's not like I can just jump 6 m, the competition is over, and I go home and eat my dessert. I knew I had to be ready.
+
+****
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Armand Duplantis aims to set a new pole vault world record at Weltklasse Zurich, citing the historic significance of the event as his motivation.
+- Competition and increased rivalry, especially with Emmanouil Karalis, enhance his enjoyment of the sport and his anticipation for thrilling matchups.
+- Duplantis seeks to popularize pole vaulting and expresses admiration for its complexity and captivating nature.

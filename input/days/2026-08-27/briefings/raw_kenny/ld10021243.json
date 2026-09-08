@@ -1,0 +1,643 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k10m58ck1",
+   "content": {
+    "title": "Thursday Morning Briefing",
+    "lead": "<strong>The most important news to start the day:</strong> Struggle over VW's savings plans ++ Meta significantly restricts use for children in the U.S. ++ Artist Yayoi Kusama is dead",
+    "author": ""
+   },
+   "position": "fixed",
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqib7v0",
+   "content": {
+    "text": "<strong>You can only read this in the NZZ:</strong> Leaky roofs, broken toilets, dilapidated classrooms, absent teachers: India's schools are in a dire state. The Cockroach Movement, which started as an online satire party, has set its sights on repairing schools. For Prime Minister Modi, the issue is highly uncomfortable. <a href=\"https://www.nzz.ch/ld.10020556\">To the report</a><a href=\"https://www.nzz.ch/ld.10018376\"></a>"
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-871b756e",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqje3p0",
+   "content": {
+    "title": "The Most Important News This Morning",
+    "id": "subtitle-das-wichtigste-am-morgen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqjsuh0",
+   "content": {
+    "title": "VW's fate could be decided in early September",
+    "id": "subtitle-anfang-september-k-nnte-sich-das-schicksal-von-vw-entscheiden"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ju7ocipg0",
+   "content": {
+    "image": {
+     "author": "Illustration NZZ",
+     "caption": "",
+     "originalUrl": "/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1024",
+     "width": 4500,
+     "height": 3376,
+     "altText": "VW Committee Collage",
+     "imageService": "fastly"
+    },
+    "author": "Illustration NZZ",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk0lk0",
+   "content": {
+    "text": "<strong>What happened:</strong> In the dispute over new savings measures at VW, the works council invited employees to extraordinary company meetings at all major locations. Representatives from the management board are expected today in Chemnitz and Dresden. Next week, CEO Oliver Blume will once again ask the supervisory board for approval of his savings plans. However, the chances of success appear slim. <a href=\"https://www.nzz.ch/ld.10018376\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10b7vvn0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Blume already promised investors a radical restructuring of his company at the beginning of the year, which is intended to make the company competitive again. However, the concrete implementation remains open. Measures such as the reduction of 50,000 additional jobs or the closure of four plants in Germany, which according to media reports, the company's management is examining, are controversial."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k108kkc70",
+   "content": {
+    "text": "<strong>The background:</strong> Legally, there are scenarios in which the management board could circumvent the supervisory board's decision-making process. However, these would probably fail due to resistance from Lower Saxony. At VW, there is only one way to implement the savings plan: the management board must seek compromises within the existing power structure."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqkj090",
+   "content": {
+    "title": "Meta limits on children's Instagram and Facebook use in the U.S.",
+    "id": "subtitle-meta-limitiert-in-den-usa-wie-lange-kinder-instagram-und-facebook-nutzen-d-rfen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk71p0",
+   "content": {
+    "text": "<strong>What happened:</strong> Meta reached an out-of-court settlement with a group of plaintiffs to avoid paying a fine of around 18 billion dollars. The plaintiffs had accused the social media company in federal court of making children and adolescents addicted to its products, Instagram and Facebook, and psychologically harming them. For the first time, Meta committed to a whole series of child protection measures. <a href=\"https://www.nzz.ch/ld.10021219\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqktcc0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Meta is introducing a daily time limit of two hours for children and adolescents under 18. Every 30 minutes, minors also receive a «prompt» designed to encourage more conscious use of social media. Access to Instagram and Facebook is also to be blocked overnight. Automatic video playback will be able to be switched off. And Meta said certain filters that allow children to «extremely» alter their appearance will no longer be available in the future."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10a644a0",
+   "content": {
+    "text": "<strong>The background:</strong> According to Meta, the new regulations will only come into force in those states that have signed the settlement. For children and adolescents living outside the U.S., nothing will change for now — although the solution found could also serve as a template in Europe. In April, the European Commission criticized Meta for neglecting child protection and threatened the U.S. company with a fine."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlql0jn0",
+   "content": {
+    "title": "What Else Happened",
+    "id": "subtitle-was-sonst-noch-passiert-ist"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqiffn0",
+   "content": {
+    "text": "<strong>Syrian Kurdish militias' announced dissolution:</strong> A few years ago, they fought alongside the Americans against the Islamic State. Now, the Kurdish-led Syrian Democratic Forces (SDF) are laying down their weapons. This is a success for President Ahmed al-Sharaa, but also for Turkey. <a href=\"https://www.nzz.ch/ld.10021150\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqms3k0",
+   "content": {
+    "text": "<strong>Chip giant Nvidia's revenue doubles:</strong> The unbroken demand for computing power for artificial intelligence continues to drive the chip company Nvidia. Specifically, the company achieved revenue of 96.2 billion U.S. dollars in the second quarter. Net profit swelled to 59.7 billion dollars. After a few weak weeks, this also seems to convince investors. <a href=\"https://www.nzz.ch/ld.10021239\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10cpntl0",
+   "content": {
+    "text": "<strong>Two dead from malaria at Frankfurt Airport:</strong> The city's health department announced that a total of six airport employees had contracted the most dangerous variant of the disease. The cause of the infections was said to be mosquitoes from a malaria-prone area that presumably arrived in Germany by plane. <a href=\"https://www.nzz.ch/ld.10020286\">To the short news from Germany</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqmu9d0",
+   "content": {
+    "text": "<strong>Artist Yayoi Kusama's death:</strong> The Japanese artist died at the age of 97. She is best known for her dot-covered paintings and pumpkin motifs. Kusama, who openly spoke about her mental health problems, voluntarily admitted herself to a psychiatric clinic and lived there for decades. <a href=\"https://www.nzz.ch/ld.10021198\">To the short news from culture</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqnjlm0",
+   "content": {
+    "title": "Our Recommendations Today",
+    "id": "subtitle-das-empfehlen-wir-heute"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jqlqo04q0",
+   "content": {
+    "image": {
+     "author": "Ullstein Bild / Getty",
+     "caption": "",
+     "originalUrl": "/2026/08/26/e03ae158-6fcd-412d-a704-4d31dab283a0.webp?width=1024",
+     "width": 2048,
+     "height": 1548,
+     "imageService": "fastly"
+    },
+    "author": "Ullstein Bild / Getty",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo2lq0",
+   "content": {
+    "text": "<strong>Reminder:</strong> Thousands of citizens were arrested for political reasons during the GDR dictatorship, and hundreds were murdered. In 1963, Renate Werwigk-Schneider was imprisoned for weeks in the Hohenschönhausen Stasi prison, all alone, in absolute silence. Even today, she cannot bear the sound of locks snapping shut. <a href=\"https://www.nzz.ch/ld.10014790\">To the background report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo6pr0",
+   "content": {
+    "text": "<strong>Power retention:</strong> Germany's political elite no longer seems to understand the law as a standard for its own actions, but rather as an instrument to be interpreted as needed. Former head of the Office for the Protection of the Constitution Hans-Georg Maassen and scientific theorist Jobst Landgrebe write that the constitution is increasingly being misused for the retention of power. <a href=\"https://www.nzz.ch/ld.10020292\">To the guest commentary</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoabg0",
+   "content": {
+    "text": "<strong>Fortune hunter in distress:</strong> Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals. <a href=\"https://www.nzz.ch/ld.10012906\">To the «NZZ Pro» commentary</a><a href=\"https://www.nzz.ch/ld.10012906\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqodt40",
+   "content": {
+    "title": "Our Recommendation for «The Market» Subscribers",
+    "id": "subtitle-unsere-empfehlung-f-r-the-market-abonnenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoibo0",
+   "content": {
+    "text": "<strong>Amrize's need for patience: </strong>The Zug-based building materials group has so far disappointed on the stock market. An oil-price-related cost increase and the departure of CFO Baris Oran recently weighed on the stock. Why investors should not give up anyway. <a href=\"https://themarket.ch/unternehmen/amrize-die-jenisch-wette-braucht-geduld-ld.17539\">To the analysis</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqours0",
+   "content": {
+    "title": "Before You Go On",
+    "id": "subtitle-bevor-sie-weitergehen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpnda0",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Gerald Knaus is one of the most renowned migration researchers in the German-speaking world. He advocates outsourcing asylum procedures to «safe third countries.» In «NZZ Machtspiel,» the Austrian explains what effects this would have on irregular migration. <a href=\"https://www.nzz.ch/ld.10020751\">To the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpro70",
+   "content": {
+    "text": "<strong>🎥 Watch:</strong> What remains when humanity leaves – and with it, human kindness? British director Ridley Scott casts Jacob Elordi as a taciturn pilot through a depopulated world. «The Dog Stars» is less a post-apocalyptic thriller than a quiet meditation on human togetherness. <a href=\"https://www.nzz.ch/ld.10020916\">To the review</a><a href=\"https://www.nzz.ch/ld.10020916\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpvb00",
+   "content": {
+    "text": "We wish you a good start to the day."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqq3pj0",
+   "content": {
+    "text": "Ulrike Putz, Eva Casper and Marcel Urech"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k10m58cm0",
+   "content": {
+    "text": "The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "A showdown is imminent at VW's headquarters",
+  "dependencies": {},
+  "nzzId": "ld.10021243",
+  "teaserImage": {
+   "originalUrl": "/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3376,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4500,2531,x0,y422"
+    },
+    {
+     "name": "4:3",
+     "crop": "4500,3375,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3376,3376,x562,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2532,3376,x984,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4500,3000,x0,y188"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The most important news to start the day: Struggle over cost-cutting plans at VW ++ Meta significantly restricts usage for children in the US ++ Artist Yayoi Kusama has died",
+   "teaserAuthor": "Illustration NZZ"
+  },
+  "teaserAuthor": "Illustration NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 300,
+  "characterCount": 6697,
+  "breadcrumbs": [
+   {
+    "name": "Briefing",
+    "path": "/briefing"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021243,
+  "contentTypeGroup": "web",
+  "layout": "briefing-intl",
+  "firstPublicationDate": "2026-08-27T04:04:08.269Z",
+  "publicationDate": "2026-08-27T04:04:08.269Z",
+  "publicationLastUpdated": "2026-08-27T04:04:08.269Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T16:04:08.269Z",
+  "teaserCaption": "The most important news to start the day: Struggle over cost-cutting plans at VW ++ Meta significantly restricts usage for children in the US ++ Artist Yayoi Kusama has died",
+  "url": "/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243",
+  "department": {
+   "name": "Briefing",
+   "path": "/briefing"
+  },
+  "estimationWordCount": 994,
+  "leadText": "The most important news to start the day: Struggle over cost-cutting plans at VW ++ Meta significantly restricts usage for children in the US ++ Artist Yayoi Kusama has died",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243",
+   "title": "Thursday Morning Briefing",
+   "socialMediaTitle": "Thursday Morning Briefing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y422&wmark=nzz"
+  },
+  "ldPublicationId": 2484366,
+  "isHighlightedHeader": false,
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 334632,
+  "colorSchema": "color-schema--briefing",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021243",
+    "name": "A showdown is imminent at VW's headquarters",
+    "type": "article",
+    "subType1": "briefing-intl",
+    "subType2": "",
+    "primaryCategory": "Briefing",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "A showdown is imminent at VW's headquarters",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T04:04:08.269Z",
+     "updateTimestamp": "2026-08-27T04:04:08.269Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021243",
+   "pageType": "briefing-intl",
+   "primaryCategory": "Briefing",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Thursday Morning Briefing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y422&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "description": "The most important news to start the day: Struggle over cost-cutting plans at VW ++ Meta significantly restricts usage for children in the US ++ Artist Yayoi Kusama has died",
+  "news_keywords": "A showdown is imminent at VW's headquarters, Briefing, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T08:04:08+02:00",
+  "date": "2026-08-27T08:04:08+02:00",
+  "canonical": "https://www.nzz.ch/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "A showdown is imminent at VW's headquarters",
+  "ogTitle": "Thursday Morning Briefing",
+  "bookmarkTitle": "NZZ Briefing",
+  "ogUrl": "https://www.nzz.ch/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243",
+  "mrf:cms_id": "nzz:ld.10021243",
+  "mrf:sections": "Briefing",
+  "mrf:tags": "Page Type:briefing-intl;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021243",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:32 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Briefing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243"
+   },
+   "headline": "Thursday Morning Briefing",
+   "datePublished": "2026-08-27T08:04:08+02:00",
+   "dateModified": "2026-08-27T08:04:08+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The most important news to start the day: Struggle over cost-cutting plans at VW ++ Meta significantly restricts usage for children in the US ++ Artist Yayoi Kusama has died",
+   "isAccessibleForFree": false,
+   "articleSection": "Briefing",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y422&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 334632,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/briefing/in-der-machtzentrale-von-vw-steht-ein-showdown-bevor-ld.10021243",
+    "classification=default",
+    "relevance=default",
+    "layout=briefing-intl",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021243",
+    "channel=Briefing"
+   ],
+   "ContentCreated": "2026-08-27T04:04:08.269Z",
+   "ContentSection": "Briefing",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "briefing-intl",
+   "ldId": "ld.10021243",
+   "channel": "Briefing",
+   "heading": "In der Machtzentrale von VW steht ein Showdown bevor ",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,1632 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1c4brvh1",
+   "content": {
+    "title": "Pension or Capital: How to Avoid Risks and Misadvice in Retirement",
+    "lead": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1c4brvh2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Michael Ferber",
+       "url": "/impressum/michael-ferber-ld.1085430",
+       "teaserImage": {
+        "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4547,
+        "height": 3032,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "4547,2558,x0,y432"
+         },
+         {
+          "name": "1:1",
+          "crop": "2396,2396,x938,y397"
+         },
+         {
+          "name": "4:3",
+          "crop": "4043,3032,x252,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2274,3032,x1137,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1c4brvh3",
+   "content": {
+    "image": {
+     "author": "Christof Schuerpf / Keystone",
+     "caption": "Making the right decisions regarding retirement planning allows you to enjoy your retirement (Image: Installation by the artist Laure Prouvost at the Kunstmuseum Luzern).",
+     "originalUrl": "/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?crop=5523,3682,x0,y0",
+     "width": 5523,
+     "height": 3682,
+     "altText": "[Symbolic Image, Staged Picture] An elderly couple inspects an installation by artist Laure Prouvost at the Museum of Art Lucerne in Lucerne, Switzerland, on November 16, 2016. (KEYSTONE/Christof Schuerpf)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180359575"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5523,
+      "height": 3682,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5523,
+       "height": 3682,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Making the right decisions regarding retirement planning allows you to enjoy your retirement (Image: Installation by the artist Laure Prouvost at the Kunstmuseum Luzern).",
+    "author": "Christof Schuerpf / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hr70",
+   "content": {
+    "text": "Should one draw the accumulated assets in the pension fund as a pension or as a capital payment? For many prospective retirees in Switzerland, this is one of the most important financial decisions of their lives. After all, it determines whether one has a regular monthly income in retirement or whether one has to manage the money oneself."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-f4b2dddd",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrc0",
+   "content": {
+    "text": "In the past, many here favored the monthly pension, but in recent years there has been a clear trend reversal."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hre0",
+   "content": {
+    "text": "According to the <a href=\"https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/berichterstattung-altersvorsorge.gnpdetail.2025-0460.html\">new pension statistics from the Federal Statistical Office (FSO)</a>, 45% of individuals who received new benefits from their pension fund in 2024 opted exclusively for a capital payment. Another 36% chose exclusively a pension, and 19% opted for a mix of pension and capital."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1ga4hrg0",
+   "content": {
+    "title": "<strong>Flexibility for retirees</strong>",
+    "id": "subtitle-pensionierte-wollen-flexibilit-t"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrh0",
+   "content": {
+    "text": "Several reasons are likely responsible for the increase in capital withdrawals. According to a <a href=\"https://www.zkb.ch/de/ueber-uns/medien/medienmitteilungen/2026/ausgeben-anlegen-oder-vererben.html\">study by the investment company Swisscanto</a> from April of this year, almost half of capital recipients cite greater financial flexibility as the reason. A third of prospective retirees want to invest the money themselves, and about a third also see advantages in inheritance. Another factor often cited is the decreased conversion rates at pension funds. However, these play a minor role in the decision, the Swisscanto study found."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hri0",
+   "content": {
+    "text": "Representatives of the financial industry are reluctant to talk about another reason that is likely responsible for the increase in capital withdrawals: conflicts of interest and misadvice in financial institutions. Banks and asset managers are not welfare institutions and therefore have an interest in their clients withdrawing pension fund assets and investing them with them."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ggt04n1",
+   "content": {
+    "text": "«When a financial company conducts consultations with clients and simultaneously operates asset management, the threshold for a conflict of interest is quickly reached,» says Lukas Müller-Brunner, Director of the pension fund association Asip."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gh2mgl0",
+   "content": {
+    "title": "Pension funds hesitant to advise",
+    "id": "subtitle-pensionskassen-sind-z-gerlich-in-der-beratung"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hri1",
+   "content": {
+    "text": "Many employees approaching retirement are desperately looking for reliable advice. However, they often do not know who to turn to. From Müller-Brunner's perspective, pension funds are obvious points of contact for prospective retirees because they are independent. «However, many pension funds hesitate to give their insured members individual assessments on retirement planning beyond basic information,» says the Asip Director."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1gfrevb0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "a02936c58815d506796673dd0da34d34",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": true,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-table-container\"        id=\"q_table_a02936c58815d506796673dd0da34d34_qee95328484964805a058bc279133fd9c_container\"        data-q-item-id=\"a02936c58815d506796673dd0da34d34\"        data-q-request-id=\"6b712f35db7e3db604a064a7e6ebf7d3d5b212ba\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"a02936c58815d506796673dd0da34d34\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"table\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"a02936c58815d506796673dd0da34d34\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"table\"}},\"6b712f35db7e3db604a064a7e6ebf7d3d5b212ba\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_table_a02936c58815d506796673dd0da34d34_qee95328484964805a058bc279133fd9c_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"a02936c58815d506796673dd0da34d34\",\"title\":\"The most important differences between pensions and capital\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"feb.\",\"data\":{\"table\":[[null,\"Pension\",\"Capital withdrawal\"],[\"Income security\",\"Lifelong guaranteed income\",\"Depending on the investment strategy\"],[\"Amount of income\",\"Depending on the conversion rate of the pension fund\",\"Depending on the investment strategy\"],[\"Financial flexibility\",\"Fixed pension per month\",\"Freely planned capital withdrawals (asset depletion)\"],[\"Cost-of-living adjustment\",\"Depending on the financial resources of the pension fund\",\"Inflation adjustment depending on the choice of investments\"],[\"tax burden\",\"Pensions are 100% taxable as income\",\"One-time taxation at the time of capital withdrawal (separate from other income), thereafter capital is taxed as assets and capital gains as income\"],[\"Surviving partner\",\"Widow's or widower's pension of 60% of the old-age pension of the deceased spouse (statutory regulation; different provisions may apply depending on the pension fund)\",\"Depending on the plan, income payments may remain unchanged (provided the spouse is given preferential treatment under inheritance law)\"],[\"Other bereaved relatives\",\"No pension for adult children with completed education; depending on the pension fund, a pension for the cohabiting partner may be possible\",\"Preferential treatment possible, taking inheritance law into account\"]],\"metaData\":{\"cells\":[]}},\"sources\":[{\"text\":\"VZ Wealth Center\",\"link\":{\"url\":\"\"}}],\"options\":{\"hideTableHeader\":false,\"showTableSearch\":false,\"cardLayout\":false,\"cardLayoutIfSmall\":false,\"hideLegend\":false,\"pageSize\":10,\"frozenRowKey\":null,\"sorting\":[],\"formatting\":[],\"minibar\":{\"selectedColumn\":null,\"invertColors\":false,\"barColor\":{\"positive\":{\"className\":\"\",\"colorCode\":\"#ff0000\"},\"negative\":{\"className\":\"\",\"colorCode\":\"#ff0000\"}}},\"colorColumn\":{\"colorColumnType\":\"numerical\",\"selectedColumn\":null,\"numericalOptions\":{\"labelLegend\":\"noLabel\",\"bucketType\":\"ckmeans\",\"numberBuckets\":5,\"scale\":\"sequential\",\"colorScheme\":\"one\",\"colorOverwrites\":[],\"customBuckets\":\"\"},\"categoricalOptions\":{\"colorOverwrites\":[],\"customCategoriesOrder\":[]}}},\"updatedDate\":\"2026-09-02T08:17:03.684Z\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]}};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":true,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_table_a02936c58815d506796673dd0da34d34_qee95328484964805a058bc279133fd9c\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qTable) {              clearInterval(checkAndInitialize);              new window.qTable({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qTable after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrj0",
+   "content": {
+    "text": "Many foundation board members of pension funds were concerned about potential legal consequences of any advice and wanted to rule out liability, Müller-Brunner says. Moreover, many also had no training as financial advisors or planners and consequently did not feel able to give advice here — especially since the decision was so important, he adds."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gh4ovk0",
+   "content": {
+    "title": "New tool for prospective retirees",
+    "id": "subtitle-neues-tool-f-r-angehende-pensionierte"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrj1",
+   "content": {
+    "text": "Asip now wants to strengthen pension funds in advising on this decision. That is why it is launching the <a href=\"https://www.renteundkapital.ch/\">«Pension Compass»</a> for prospective retirees. This online tool includes a calculator with which various scenarios can be individually simulated. In addition, frequently asked questions about the different options are answered simply and understandably."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gh7a4d1",
+   "content": {
+    "text": "Pension fund representatives can refer to the tool when asked about this decision and discuss the results with insured members. «They may still need advice from a financial institution, but they will not go there empty-handed and will be familiar with the most important facts and any pitfalls regarding their situation,» says Müller-Brunner."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1ga4hrk0",
+   "content": {
+    "title": "<strong>No blanket answer for pension or capital</strong>",
+    "id": "subtitle-bei-rente-oder-kapital-gibt-es-keine-pauschale-antwort"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrk1",
+   "content": {
+    "text": "Meanwhile, it should be noted that there is no blanket right or wrong answer when deciding between «pension or capital.» «The pension finances a long life; capital finances freedom,» says Reto Spring, CEO of the Pension Forum platform and a financial planning expert."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrl0",
+   "content": {
+    "text": "«Many people think: What I have in hand, I have,» he says, explaining the increase in capital withdrawals. They wanted to remain flexible, and tax advantages were only a secondary concern, he adds. Many also wanted to pay off their property or intended to bequeath something to their descendants later. However, not a few ignored the fact that their life expectancy could be very long."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ginnf51",
+   "content": {
+    "text": "This is also where advice from financial institutions comes into play again. In many consultations — or rather sales pitches — assumptions about life expectancy were made in such a way that capital withdrawal appeared more advantageous than a pension, Spring says. However, if one were to live to 90 and the advice was only geared toward a life expectancy of 80 years, the concept would not work out, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1ghnid20",
+   "content": {
+    "title": "Pension fund and AHV pensions for basic needs",
+    "id": "subtitle-renten-aus-pk-und-ahv-sollten-grundbedarf-absichern"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ghhuej0",
+   "content": {
+    "text": "Müller-Brunner has a rule of thumb for this: the pension fund pension as a secured income after retirement should, together with the AHV (Old-Age and Survivors' Insurance), cover at least the basic needs of living expenses in old age."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ghn4hi0",
+   "content": {
+    "text": "Spring cites the often-quoted rule that many people needed about 80% of their pre-retirement income in retirement. However, one must look at this individually, he says. At least 60% of pre-retirement income should be achieved through AHV and pension fund pensions. For many high earners, however, this was not the case, and the question arose whether they had saved enough to maintain their standard of living in old age. «Anyone who takes stock only at 55 is potentially too late,» Spring says."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1ghcpbj0",
+   "content": {
+    "title": "Risk of a stock market crash",
+    "id": "subtitle-viele-blenden-die-gefahr-eines-b-rsencrashs-aus"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ghc11k0",
+   "content": {
+    "text": "When withdrawing capital and subsequently investing the money, the risk of a stock market crash must also be considered. While a stock market decline will eventually recover, many retirees do not have the time for this because they need the money to live. Therefore, anyone who manages the money themselves or has it managed takes on an investment risk."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ghk0ga1",
+   "content": {
+    "text": "In addition, it becomes difficult for many to manage their money themselves in their old age. Here, a trusted person is needed to take over — and thus there is potential for abuse."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrm1",
+   "content": {
+    "text": "An advantage of the pension is also often overlooked: survivors are protected. Especially if there was a significant age difference between two partners, this could be extremely relevant, Spring says. The protection benefit was then all the more important, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrn0",
+   "content": {
+    "text": "Many people had in mind that capital withdrawal was always more tax-efficient than a pension, Müller-Brunner says. «But that's not true when calculated precisely; in many places, it's exactly the opposite.» This was partly because many insured persons did not account for or underestimated wealth tax, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1ghsr5h0",
+   "content": {
+    "title": "Capital withdrawal sensible when living expenses covered",
+    "id": "subtitle-bei-gedecktem-lebensunterhalt-kann-kapitalbezug-sinnvoll-sein"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hro2",
+   "content": {
+    "text": "Meanwhile, there are certainly examples where capital withdrawal makes sense. This applies, for example, in cases where enough money is available and living expenses in retirement are covered. Then one can withdraw the remaining pension fund assets as capital without hesitation."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ga4hrp0",
+   "content": {
+    "text": "There were also other cases where capital withdrawal was the better option than a pension, Spring says. This applied, for example, if one could assume they did not have a high life expectancy, or if one was already seriously ill when retiring. Health condition played a very important role in the decision, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1c4brvh5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1c4brvh6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1c4brvh7",
+      "content": {
+       "title": "Pension or lump sum: The seven biggest mistakes when drawing on pension fund assets",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2023/03/26/2ac3c6e4-a114-4e0f-b66c-57771bd46a13.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/26/2ac3c6e4-a114-4e0f-b66c-57771bd46a13.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3929,
+        "height": 2614,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3929,2210,x0,y132"
+         },
+         {
+          "name": "4:3",
+          "crop": "3485,2614,x126,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1008,1008,x2311,y768"
+         },
+         {
+          "name": "3:4",
+          "crop": "1961,2614,x1285,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3921,2614,x4,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Planning finances for retirement involves several risks. Experts say that poor advice is common, as financial institutions often prioritize their own interests over those of their clients.",
+        "teaserAuthor": "Goran Basic / NZZ"
+       },
+       "teaserAuthor": "Goran Basic / NZZ",
+       "nzzId": "ld.10003743",
+       "readingTime": 300,
+       "paywallQuestionOne": "What risks are associated with withdrawing capital from the pension fund?",
+       "paywallQuestionTwo": "How do living costs and life expectancy affect pension planning?",
+       "paywallQuestionThree": "Why are incorrect recommendations regarding the choice of pension fund problematic?",
+       "characterCount": 7474,
+       "product": "NZZ.ch",
+       "documentId": 10003743,
+       "layout": "regular",
+       "publicationDate": "2026-05-07T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-07T09:19:31.150Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-07T15:30:00.000Z",
+       "teaserCaption": "Planning finances for retirement involves several risks. Experts say that poor advice is common, as financial institutions often prioritize their own interests over those of their clients.",
+       "authorLine": "Michael Ferber",
+       "authorImage": {
+        "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4547,
+        "height": 3032,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2396,2396,x938,y397"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/finanzen/rente-oder-kapital-die-7-groessten-fehler-beim-bezug-der-pensionskasse-ld.10003743",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 1070,
+       "leadText": "Planning finances for retirement involves several risks. Experts say that poor advice is common, as financial institutions often prioritize their own interests over those of their clients.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1c4brvh8",
+      "content": {
+       "title": "Trade unions demand a 13th pension fund annuity: That’s a crazy idea",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1024&quality=75&auto=webp",
+        "width": 6915,
+        "height": 4609,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6915,3890,x0,y417"
+         },
+         {
+          "name": "4:3",
+          "crop": "6145,4609,x770,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4609,4609,x2217,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3457,4609,x3366,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6914,4609,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+        "teaserAuthor": "Keystone"
+       },
+       "teaserAuthor": "Keystone",
+       "flag": "Opinion",
+       "nzzId": "ld.10020531",
+       "readingTime": 180,
+       "paywallQuestionOne": "How does the 13th pension payment affect the financial stability of pension funds?",
+       "paywallQuestionTwo": "Does it make sense to use pension fund reserves for a 13th pension payment?",
+       "paywallQuestionThree": "What risks does this requirement pose for long-term retirement planning in Switzerland?",
+       "characterCount": 4125,
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10020531,
+       "layout": "opinion",
+       "publicationDate": "2026-08-25T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-25T03:54:22.264Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+       "teaserCaption": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+       "authorLine": "Albert Steck",
+       "authorImage": {
+        "originalUrl": "/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+        "width": 572,
+        "height": 643,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "572,572,x0,y36"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+       "url": "/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 616,
+       "leadText": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1c4brvh9",
+      "content": {
+       "owner": "NZZ",
+       "title": "More and more people are opting for a lump sum rather than a pension from their pension fund – which option is best suited for whom?",
+       "teaserImage": {
+        "originalUrl": "/2021/11/23/9e80ab61-046d-4d07-82ac-723f20ad1761.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/11/23/9e80ab61-046d-4d07-82ac-723f20ad1761.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3612,
+        "height": 2442,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3211,1806,x1,y221"
+         },
+         {
+          "name": "1:1",
+          "crop": "2442,2442,x390,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3256,2442,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1832,2442,x831,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In 2023, for the first time in Switzerland, more people withdrew capital from their pension funds instead of receiving a pension. There are differing opinions about the reasons for this. The trend is not without risks.",
+        "teaserAuthor": "Arno Balzarini / Keystone"
+       },
+       "teaserAuthor": "Arno Balzarini / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1882122",
+       "readingTime": 420,
+       "authorLine": "Michael Ferber",
+       "characterCount": 9889,
+       "product": "NZZ.ch",
+       "documentId": 1882122,
+       "layout": "regular",
+       "publicationDate": "2025-05-02T03:30:00.000Z",
+       "publicationLastUpdated": "2025-05-02T06:46:51.456Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-05-02T15:30:00.000Z",
+       "teaserCaption": "In 2023, for the first time in Switzerland, more people withdrew capital from their pension funds instead of receiving a pension. There are differing opinions about the reasons for this. The trend is not without risks.",
+       "url": "/finanzen/pensionskasse-warum-immer-mehr-schweizer-das-kapital-statt-der-rente-waehlen-ld.1882122",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 1414,
+       "leadText": "In 2023, for the first time in Switzerland, more people withdrew capital from their pension funds instead of receiving a pension. There are differing opinions about the reasons for this. The trend is not without risks.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Pension or Capital: How to Avoid Risks and Misadvice in Retirement",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1024&quality=75&auto=webp",
+   "width": 5523,
+   "height": 3682,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5523,3107,x0,y450"
+    },
+    {
+     "name": "4:3",
+     "crop": "4909,3630,x97,y26"
+    },
+    {
+     "name": "1:1",
+     "crop": "2515,2515,x0,y753"
+    },
+    {
+     "name": "3:4",
+     "crop": "2283,3043,x2985,y639"
+    },
+    {
+     "name": "3:2",
+     "crop": "5523,3682,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+   "teaserAuthor": "Christof Schuerpf / Keystone"
+  },
+  "teaserAuthor": "Christof Schuerpf / Keystone",
+  "nzzId": "ld.10021795",
+  "readingTime": 360,
+  "characterCount": 7507,
+  "breadcrumbs": [
+   {
+    "name": "Finance",
+    "path": "/finanzen"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021795,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T08:54:38.928Z",
+  "publicationDate": "2026-09-02T08:54:38.928Z",
+  "publicationLastUpdated": "2026-09-02T16:01:39.649Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T20:54:38.928Z",
+  "teaserCaption": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+  "nzzAuthors": [
+   {
+    "id": 1372418,
+    "name": "Michael Ferber",
+    "shortName": "feb",
+    "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+    "external": false
+   }
+  ],
+  "authorLine": "Michael Ferber",
+  "authorImage": {
+   "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4547,
+   "height": 3032,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2396,2396,x938,y397"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1085430,
+    "name": "Michael Ferber Imprint Finance Business",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+  "department": {
+   "name": "Finance",
+   "path": "/finanzen"
+  },
+  "estimationWordCount": 1115,
+  "leadText": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+  "nzzSummaryEN": "- More retirees in Switzerland choose a lump-sum payout from their pension funds instead of a pension, posing risks. Nearly 45% opted for this in 2024.\n- Financial institutions may influence decisions through conflicts of interest and poor advice. The pension fund association launched an online tool to offer independent guidance.\n- The choice between pension and lump sum depends on individual circumstances like financial needs, health condition, and life expectancy.",
+  "nzzSummaryDE": "- An increasing number of retirees in Switzerland are opting for a lump-sum payment from their pension fund instead of a pension, which carries risks. Nearly 45 percent chose this option in 2024.\n Financial institutions could influence decisions through conflicts of interest and incorrect advice. The pension fund association launched an online tool to offer independent advice.\n - The choice between a pension and a lump sum depends on individual circumstances such as financial needs, health, and life expectancy.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The decision between «pension or lump sum» risks being misrepresented",
+  "nzzPrintSubtitle": "There are risks associated with withdrawing pension fund assets as a lump sum payment – ​​the pension fund association is responding",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+   "title": "Pension or lump sum: Avoiding risks and pitfalls in retirement advice",
+   "socialMediaTitle": "Pension or lump sum: How to avoid risks and pitfalls in retirement advice",
+   "description": "More and more people approaching retirement are opting for a lump-sum payment instead of a pension when they withdraw their pension fund assets. This decision carries risks. The pension fund association is responding.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5523,3107,x0,y450&wmark=nzz"
+  },
+  "ldPublicationId": 2487835,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "retirement provision",
+    "slug": "/themen/altersvorsorge"
+   },
+   {
+    "name": "Pension fund",
+    "slug": "/themen/pensionskasse"
+   },
+   {
+    "name": "AHV",
+    "slug": "/themen/ahv"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10003743",
+    "ld.10020531",
+    "ld.1882122"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 447648,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "altersvorsorge",
+   "name": "retirement provision",
+   "tagName": "retirement provision",
+   "qId": "Q59284889",
+   "seoTitle": "Retirement planning – All news and articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 17:41:21.769Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/altersvorsorge",
+   "size": 2001,
+   "relatedTopics": [
+    {
+     "name": "Pensionskasse",
+     "slug": "/themen/pensionskasse"
+    },
+    {
+     "name": "AHV",
+     "slug": "/themen/ahv"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Employers accept VAT increase for 13th AHV pension",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/efee0c33-6678-46ea-9b1e-52a3b256e330.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/efee0c33-6678-46ea-9b1e-52a3b256e330.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2250,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y281"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2250,2250,x375,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1688,2250,x656,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y125"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Relieved that a mixed financing model involving wage percentages had been prevented, the employers' association decided to allow its members a free vote on financing the old-age and survivors' insurance (AHV) through a value-added tax increase. The unions had bet on this outcome.",
+     "teaserAuthor": "Illustration by Anja Lemcke / NZZ"
+    },
+    "teaserAuthor": "Illustration by Anja Lemcke / NZZ",
+    "nzzId": "ld.10020434",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why do employers prefer a VAT increase to wage percentages?",
+    "paywallQuestionTwo": "What political risks does the FDP's stance on tax increases entail?",
+    "paywallQuestionThree": "How do trade unions plan to abolish the pension cap for married couples?",
+    "characterCount": 4213,
+    "product": "NZZ.ch",
+    "documentId": "10020434",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T14:14:19.727Z",
+    "publicationLastUpdated": "2026-08-21T16:13:20.834Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T02:14:19.727Z",
+    "teaserCaption": "Relieved that a mixed financing model involving wage percentages had been prevented, the employers' association decided to allow its members a free vote on financing the old-age and survivors' insurance (AHV) through a value-added tax increase. The unions had bet on this outcome.",
+    "authorLine": "Christina Neuhaus",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/da505cf8-75b9-421a-b1c1-b04f1fde5265.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/arbeitgeber-nehmen-mehrwertsteuererhoehung-fuer-13-ahv-rente-in-kauf-ld.10020434",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 635,
+    "leadText": "Relieved that a mixed financing model involving wage percentages had been prevented, the employers' association decided to allow its members a free vote on financing the old-age and survivors' insurance (AHV) through a value-added tax increase. The unions had bet on this outcome.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Funding the 13th AHV Pension: Trade unions plan to campaign again",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y559"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x259,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1696,1696,x2103,y599"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1577,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2959,
+      "y": 1262
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+     "teaserAuthor": "Andrea Zahler / CH Media"
+    },
+    "teaserAuthor": "Andrea Zahler / CH Media",
+    "nzzId": "ld.10020333",
+    "readingTime": 300,
+    "paywallQuestionOne": "How do the unions intend to justify the tax increase for the 13th AHV pension payment?",
+    "paywallQuestionTwo": "Why do some delegates prefer wage percentages to value added tax?",
+    "paywallQuestionThree": "What strategy are Maillard and Lampart pursuing for the upcoming vote?",
+    "characterCount": 6215,
+    "product": "NZZ.ch",
+    "documentId": "10020333",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T15:17:08.075Z",
+    "publicationLastUpdated": "2026-08-20T15:39:04.818Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T03:17:08.075Z",
+    "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/finanzierung-der-13-ahv-rente-die-gewerkschaften-wollen-wieder-kampagne-machen-ld.10020333",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 914,
+    "leadText": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Working until 66? Unlike Switzerland, Liechtenstein is addressing this discussion",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Günther Meier, Vaduz",
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/9e2fad17-f16e-4250-a5b3-1663812d7ba0.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/9e2fad17-f16e-4250-a5b3-1663812d7ba0.jpg?width=1024&quality=75&auto=webp",
+     "width": 7813,
+     "height": 5209,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7813,4395,x0,y219"
+      },
+      {
+       "name": "4:3",
+       "crop": "6945,5209,x240,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5209,5209,x1471,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3907,5209,x1404,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7813,5209,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Four-part package of measures for long-term pension security",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10019748",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is raising the retirement age necessary in Liechtenstein?",
+    "paywallQuestionTwo": "How can the AHV reserves be secured in the long term?",
+    "paywallQuestionThree": "What role does value added tax play in the financing of the AHV (Swiss old-age and survivors' insurance)?",
+    "characterCount": 5843,
+    "product": "NZZ.ch",
+    "documentId": "10019748",
+    "layout": "regular",
+    "publicationDate": "2026-08-19T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-19T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-19T15:30:00.000Z",
+    "teaserCaption": "Four-part package of measures for long-term pension security",
+    "url": "https://www.nzz.ch/schweiz/arbeiten-bis-66-anders-als-die-schweiz-stellt-sich-liechtenstein-dieser-diskussion-ld.10019748",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 830,
+    "leadText": "Four-part package of measures for long-term pension security",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Of course I rejected the 13th AHV pension,» says the 72-year-old owner of the «Rheinfelder Bierhalle»: Why some people work longer than they have to",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y1378"
+      },
+      {
+       "name": "4:3",
+       "crop": "3005,2254,x644,y1350"
+      },
+      {
+       "name": "1:1",
+       "crop": "1696,1696,x1254,y1381"
+      },
+      {
+       "name": "3:4",
+       "crop": "3005,4007,x574,y1129"
+      },
+      {
+       "name": "3:2",
+       "crop": "3005,2004,x630,y1373"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A quarter of all employees remain in their jobs beyond retirement age. Three of them say what motivates them."
+    },
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3005,1691,x534,y1346"
+      },
+      {
+       "name": "1:1",
+       "crop": "958,958,x1695,y1289"
+      },
+      {
+       "name": "4:3",
+       "crop": "2484,1863,x858,y1190"
+      },
+      {
+       "name": "3:4",
+       "crop": "2732,3643,x736,y1275"
+      },
+      {
+       "name": "3:2",
+       "crop": "2732,1822,x809,y1233"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/12/d1b16076-e9ca-4c27-9e41-d486fbcecffc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/d1b16076-e9ca-4c27-9e41-d486fbcecffc.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y1628"
+      },
+      {
+       "name": "1:1",
+       "crop": "1053,1053,x1537,y1706"
+      },
+      {
+       "name": "4:3",
+       "crop": "3306,2479,x358,y1553"
+      },
+      {
+       "name": "3:4",
+       "crop": "3005,4007,x560,y1419"
+      },
+      {
+       "name": "3:2",
+       "crop": "3636,2425,x364,y1646"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10017734",
+    "readingTime": 600,
+    "paywallQuestionOne": "Why do many people voluntarily work beyond retirement age?",
+    "paywallQuestionTwo": "What factors influence the decision to continue working after retirement?",
+    "paywallQuestionThree": "How does the government intend to make working over 65 more attractive?",
+    "characterCount": 11487,
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/12/5e4f4eea-e6b0-4253-a9e4-1974045c0edd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/5e4f4eea-e6b0-4253-a9e4-1974045c0edd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y1611"
+      },
+      {
+       "name": "1:1",
+       "crop": "1402,1402,x1361,y1553"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y1297"
+      },
+      {
+       "name": "3:4",
+       "crop": "3306,4407,x405,y1173"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y1667"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "product": "NZZ.ch",
+    "documentId": "10017734",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-13T03:00:00.000Z",
+    "publicationLastUpdated": "2026-08-13T09:22:26.224Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-13T15:00:00.000Z",
+    "teaserCaption": "A quarter of all employees remain in their jobs beyond retirement age. Three of them say what motivates them.",
+    "authorLine": "Isabel Heusser, Claudia Rey (text), Annick Ramp (images)",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/arbeiten-mit-ue65-in-zuerich-ein-beizer-eine-coach-und-ein-schauspieler-erzaehlen-ld.10017734",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1916,
+    "leadText": "A quarter of all employees remain in their jobs beyond retirement age. Three of them say what motivates them.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The record-low birth rate is jeopardizing the pension system – but politicians bury their heads in the sand",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/11/1a3db87f-3a4f-47a4-b692-4bdaee4f2035.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/11/1a3db87f-3a4f-47a4-b692-4bdaee4f2035.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y115"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x652,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2258,2258,x2128,y32"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1726,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Fewer and fewer young people are expected to finance pension promises for more and more retirees. Although the math no longer adds up, governments shy away from far-reaching reforms.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "flag": "Opinion",
+    "characterCount": 3983,
+    "nzzId": "ld.10013411",
+    "readingTime": 180,
+    "paywallQuestionOne": "How will the declining birth rate have a lasting impact on retirement provisions?",
+    "paywallQuestionTwo": "Why do politicians shy away from reforms despite the financial imbalance of the pension systems?",
+    "paywallQuestionThree": "What role does the decoupling of costs and benefits play in the pension system?",
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10013411",
+    "layout": "opinion",
+    "publicationDate": "2026-08-12T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-12T04:14:49.401Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-12T15:30:00.000Z",
+    "teaserCaption": "Fewer and fewer young people are expected to finance pension promises for more and more retirees. Although the math no longer adds up, governments shy away from far-reaching reforms.",
+    "authorLine": "Albert Steck",
+    "authorImage": {
+     "originalUrl": "/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+     "width": 572,
+     "height": 643,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "572,572,x0,y36"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/die-rekordtiefe-geburtenrate-bringt-die-altersvorsorge-in-schieflage-doch-die-politik-steckt-den-kopf-in-den-sand-ld.10013411",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 616,
+    "leadText": "Fewer and fewer young people are expected to finance pension promises for more and more retirees. Although the math no longer adds up, governments shy away from far-reaching reforms.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 40,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Stock saving with the president: Seven million children in America already have a «Trump Account»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2024/11/06/543352da-2ab9-4eba-8f09-657a8d674b61.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/11/06/543352da-2ab9-4eba-8f09-657a8d674b61.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5000,
+     "height": 3389,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5000,2812,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4519,3389,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3389,3389,x806,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2542,3389,x1229,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5000,3333,x0,y28"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The American government wants to introduce new segments of the population to the stock market and combat high levels of inequality. Billionaires think the project is excellent – in part because it could take the wind out of the sails of left-wing calls for wealth taxes.",
+     "teaserAuthor": "Brian Snyder / Reuters"
+    },
+    "teaserAuthor": "Brian Snyder / Reuters",
+    "nzzId": "ld.10018055",
+    "readingTime": 300,
+    "paywallQuestionOne": "How do the «Trump Accounts» promote financial participation in the USA?",
+    "paywallQuestionTwo": "What criticisms are there of the «Trump Accounts»?",
+    "paywallQuestionThree": "How could the «Trump Accounts» be preserved in the long term?",
+    "characterCount": 6314,
+    "product": "NZZ.ch",
+    "documentId": "10018055",
+    "layout": "regular",
+    "publicationDate": "2026-08-05T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-05T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-05T15:30:00.000Z",
+    "teaserCaption": "The American government wants to introduce new segments of the population to the stock market and combat high levels of inequality. Billionaires think the project is excellent – in part because it could take the wind out of the sails of left-wing calls for wealth taxes.",
+    "authorLine": "André Müller, New York",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/aktiensparen-mit-dem-praesidenten-schon-sieben-millionen-kinder-in-amerika-haben-einen-trump-account-ld.10018055",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 917,
+    "premium": true,
+    "leadText": "The American government wants to introduce new segments of the population to the stock market and combat high levels of inequality. Billionaires think the project is excellent – in part because it could take the wind out of the sails of left-wing calls for wealth taxes.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021795",
+    "name": "Pension or Capital: How to Avoid Risks and Misadvice in Retirement",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Finanzen",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Pension or Capital: How to Avoid Risks and Misadvice in Retirement",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372418,
+       "name": "Michael Ferber",
+       "shortName": "feb",
+       "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T08:54:38.928Z",
+     "updateTimestamp": "2026-09-02T16:01:39.649Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021795",
+   "pageType": "regular",
+   "primaryCategory": "Finanzen",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Pension or lump sum: Avoiding risks and pitfalls in retirement advice",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5523,3107,x0,y450&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Michael Ferber",
+  "description": "More and more people approaching retirement are opting for a lump-sum payment instead of a pension when they withdraw their pension fund assets. This decision carries risks. The pension fund association is responding.",
+  "news_keywords": "Pension or capital: How to avoid risks and bad advice when it comes to retirement, Finance, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T20:01:39+02:00",
+  "date": "2026-09-02T12:54:38+02:00",
+  "canonical": "https://www.nzz.ch/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Pension or Capital: How to Avoid Risks and Misadvice in Retirement",
+  "ogTitle": "Pension or lump sum: How to avoid risks and pitfalls in retirement advice",
+  "ogUrl": "https://www.nzz.ch/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+  "mrf:cms_id": "nzz:ld.10021795",
+  "mrf:sections": "Finanzen;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021795",
+  "nzzAuthors": [
+   {
+    "id": 1372418,
+    "name": "Michael Ferber",
+    "shortName": "feb",
+    "pianoId": "df5ba0d4-ba27-4cfc-8794-d9d0c0f97105",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:18 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/finanzen",
+      "name": "Finance"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Pension or lump sum: Avoiding risks and pitfalls in retirement advice"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795"
+   },
+   "headline": "Pension or lump sum: Avoiding risks and pitfalls in retirement advice",
+   "datePublished": "2026-09-02T12:54:38+02:00",
+   "dateModified": "2026-09-02T20:01:39+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "More and more people approaching retirement are opting for a lump-sum payment instead of a pension when they withdraw their pension fund assets. This decision carries risks. The pension fund association is responding.",
+   "isAccessibleForFree": false,
+   "articleSection": "Finanzen",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5523,3107,x0,y450&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Michael Ferber"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 447648,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021795",
+    "channel=Finanzen"
+   ],
+   "ContentCreated": "2026-09-02T08:54:38.928Z",
+   "ContentAuthor": "Michael Ferber",
+   "ContentSection": "Finanzen",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Welche Risiken birgt der Kapitalbezug aus der Pensionskasse?\nWie beeinflussen Interessenkonflikte die Beratung zur Altersvorsorge?\nWelche Rolle spielt die Gesundheit beim Entscheid zwischen Rente und Kapital?",
+   "ldId": "ld.10021795",
+   "channel": "Finanzen",
+   "heading": "Rente oder Kapital: So vermeidet man Risiken und Fehlberatungen bei der Pensionierung",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,1792 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1i6urkhbh0",
+   "content": {
+    "title": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+    "lead": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken.",
+    "authorline": "Simon Marti, Thomas Müller and Nicole Althaus (text), Silas Zindel (images)",
+    "author": "Simon Marti, Thomas Müller and Nicole Althaus (text), Silas Zindel (images)"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1i73p2i9g0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Direct democracy in action: An activist is collecting signatures for a ban on animal testing at Helvetiaplatz in Zurich.",
+     "originalUrl": "/2024/09/06/015e8e73-bf3c-4203-b3a3-574f413b61b3.jpeg?width=1024",
+     "width": 4913,
+     "height": 3276,
+     "altText": "Independent collector of signatures against animal testing. 06.09.2024 © Silas Zindel for NZZ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2160276052"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Direct democracy in action: An activist is collecting signatures for a ban on animal testing at Helvetiaplatz in Zurich.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i6urkhbh1",
+   "content": {
+    "text": "It's market day at Helvetiaplatz in Zurich. But it's not just the vegetable vendors vying for customers' attention on this Friday morning; political ideas are also on offer. A man in hippie attire is collecting signatures for a ban on animal testing, while nearby, two young activists are campaigning for a ban on nuclear weapons. A representative of a pensioners' organization is trying to engage passersby in conversation about the upcoming vote on the pension reform. He's taking his time trying to convince them to vote no."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-a825189f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95n0",
+   "content": {
+    "text": "This is exactly how one likes to imagine the postcard version of direct democracy: a place laden with meaning, like Zurich's Helvetiaplatz, long an important meeting place for the common man; committed citizens collecting signatures for a cause close to their hearts; passers-by who get involved in a conversation and perhaps are persuaded, so that the signature lists are one day deposited in front of the Federal Palace in a way that attracts media attention – and the cause finds its way onto the ballot paper and into the mailboxes of the Swiss people."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "print-teaser"
+  },
+  {
+   "identifier": "print-teaser",
+   "id": "doc-1hu3hm2hf0",
+   "content": {
+    "title": "An article from the «NZZ am Sonntag»",
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2024/09/07/3679fba8-5572-4c94-bff1-aa59d496741f.png?width=1024",
+     "width": 907,
+     "height": 666,
+     "imageService": "fastly"
+    },
+    "description": "The edition of September 8th",
+    "ctaLabel": "Order newspaper",
+    "cta-url": "https://abo.nzz.ch/m_23054114/?trco=24062915-05-24-0063-0007-027181-00000003&amp;tpcc=24062915-05-24-0063-0007-027181-00000003",
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95o0",
+   "content": {
+    "text": "All of this would be unthinkable without the most important ingredient of Swiss direct democracy: trust. It is usually taken for granted. The outcry is all the greater when it is called into question. And several recent incidents have certainly done so: at the beginning of August, the Federal Social Insurance Office announced that the federal government had miscalculated the AHV (Old-Age and Survivors' Insurance) deficit by billions. The problem with this otherwise good news: it was only two years ago that the country voted to raise the retirement age for women. From the left's perspective, this decision was based on false assumptions. The Greens and the Social Democrats are now demanding that the vote be annulled. A referendum overturned by a court ruling: the ultimate direct-democratic disaster. Switzerland has only experienced this once before. In 2019, the Federal Supreme Court declared the vote on the popular initiative against the marriage penalty invalid because the Federal Council had previously provided incorrect information."
+   },
+   "paidContent": true,
+   "prevElement": "print-teaser",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95p1",
+   "content": {
+    "text": "The next campaign is already underway, but under difficult circumstances. In two weeks, the population will vote on a reform of the second pillar of the pension system, and for many, the consequences of this decision for themselves personally are unclear. Political guesswork in the dark, especially when it comes to retirement planning."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "imagegrid"
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1i73p3pmc0",
+   "content": {
+    "caption": "Recent revelations about forged signatures are fueling distrust of signature collectors: «It has always been strict. Now it is even more difficult.»"
+   },
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1i73p3pmd0",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1i73p3pmd2",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2024/09/06/7b77ad91-b0bd-4ab8-801b-e0c56fbbc202.jpeg?width=1024",
+           "width": 2982,
+           "height": 4473,
+           "altText": "GSoA staff collect signatures at Helvetiaplatz in Zurich for a ban on nuclear weapons. 06.09.2024 © Silas Zindel for NZZ",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2160276059"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1i73p3pmd1",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2024/09/06/24e89490-c596-42c6-9360-5386f9e3eb40.jpeg?width=1024",
+           "width": 3107,
+           "height": 4661,
+           "altText": "GSoA staff collect signatures at Helvetiaplatz in Zurich for a ban on nuclear weapons. 06.09.2024 © Silas Zindel for NZZ",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2160276060"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95p2",
+   "content": {
+    "text": "This week saw the latest bombshell: Tamedia newspapers revealed that massive manipulation had occurred during the signature collection for several initiatives. The Federal Prosecutor's Office is investigating on suspicion of election fraud. It is currently possible that the public voted on proposals that should never have been put to a vote, because the initiators never actually reached the required threshold of 100,000 valid signatures."
+   },
+   "paidContent": true,
+   "prevElement": "imagegrid",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1i75ofksu0",
+   "content": {
+    "title": "Collectors sense mistrust",
+    "id": "subtitle-sammler-sp-ren-misstrauen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95q0",
+   "content": {
+    "text": "All of this is shaking the image of a clean democracy. «Anything that weakens trust in politics in any way is bad,» is how Marcel Dettling, president of the SVP, summarizes the past few weeks. «That applies to highly paid civil servants who make calculation errors, just as much as to the few criminals who are apparently committing signature fraud.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95q1",
+   "content": {
+    "text": "The collectors at Helvetiaplatz are noticing the effects immediately. Timothy Oesch of the Alliance for a Nuclear Weapons Ban, who is trying to convince people in Zurich to join the Treaty on the Prohibition of Nuclear Weapons, senses the mistrust. «It's always been strict. Now it's even more difficult,» he says. The issue clearly upsets Oesch. «People no longer believe that you truly stand behind what you're collecting for.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95q2",
+   "content": {
+    "text": "The man who essentially triggered the recent uproar denies all responsibility. Franck Tessemo, head of the Incop association, the company whose collectors are alleged to have submitted forged signatures on a large scale, told the Tamedia editorial team: «We have nothing to reproach ourselves for.» He added that if he learns that one of his employees is committing fraud, he dismisses them."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95r0",
+   "content": {
+    "text": "Tessemo's company isn't the only one collecting signatures for money. Some of these firms are reputable, others less so. In western Switzerland, a number of companies are active, pursuing this business particularly aggressively. This newspaper spoke with several initiative organizers. Many have had their own experiences with the intrusive methods of these signature collectors. Basically, anyone in the country who openly considers launching a popular initiative can expect to receive a more or less reputable offer to collect signatures."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95r1",
+   "content": {
+    "text": "The supporters of the inclusion initiative are no exception. This initiative demands equality for people with and without disabilities in all areas of life. On Thursday afternoon, they submitted their petition forms to the Federal Chancellery in Bern. A total of 108,000 signatures were collected, entirely without paid collectors."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95r2",
+   "content": {
+    "text": "There was no shortage of offers. At the end of May, Franck Tessemo personally contacted the initiators by email: «Within five to six weeks, we could collect 20,000 signatures at 4 francs per signature,» he wrote. The company Pôle Swiss, one of Tessemo's competitors, also wanted to take to the streets for inclusion. They offered to collect up to 3,000 signatures per week. The signatures would be of «good quality,» the provider promised. The price? «To be discussed.» The company's offer referred to a telephone conversation «with one of the people responsible for this initiative.» However, as Iris Hartmann, managing director of the Association for an Inclusive Switzerland, emphasizes, this exchange never took place."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95s0",
+   "content": {
+    "text": "Things were even more brazen in Basel. From his office on St. Jakobsstrasse, Andreas Faller campaigns for the supply initiative, which aims to address the shortage of medications. «Besides the commitment of our volunteer supporters, we have only entrusted two reputable companies with the signature collection. We are satisfied with their performance,» says Faller. Some of the other providers seemed dubious and suspicious to him, so cooperation was out of the question. But then Faller and his colleagues noticed that one of the providers was collecting signatures on their behalf without authorization. «That crossed a line; we had to intervene and issued a written prohibition,» says lawyer Faller."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1i75oi31e0",
+   "content": {
+    "title": "«Mystification of the traditional»",
+    "id": "subtitle-mystifizierung-des-althergebrachten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95s1",
+   "content": {
+    "text": "But does this mean that direct democracy, the cornerstone of Swiss self-understanding, is in danger?"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95s2",
+   "content": {
+    "text": "«The problem of trust cannot be ignored,» says Andreas Glaser, professor of constitutional law at the University of Zurich and a member of the board of directors of the Center for Democracy in Aarau. Even though research has shown that money cannot buy the outcome of a vote in Switzerland, the agenda-setting can still be influenced, as the blackout initiative now demonstrates. Following its submission, the Federal Council recently decided to lift the ban on the construction of new nuclear power plants. «The most important question, however, is not whether or not the collection of votes should be paid for, but rather why the Federal Chancellery did not raise awareness among the cantons after the first irregularities emerged.» One possible answer: «A certain degree of uncertainty in the analog system is accepted out of fear of greater manipulation in a digital system,» the constitutional law expert believes. Furthermore, a certain mystification of the established order plays a role, he adds, in the fact that everyone is now showing signs of alarm."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95s3",
+   "content": {
+    "text": "As innocent as the postcard version of direct democracy may seem, it has never been. Complaints about paid signature collectors and outrage over unscrupulous signature-gathering are nothing new. Even forgery is not a 21st-century phenomenon: as early as June 1922, the Neue Zürcher Zeitung complained that the «large number of forged signatures» for a new medical law in the canton was due to «paid signature collectors» and wondered «whether action should be taken against this type of collection in the future.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95t0",
+   "content": {
+    "text": "The new right of initiative was barely eight years old when signature sheets were rendered useless for the first time: «The many already signed sheets must be consigned to the wastebasket,» lamented the «Neue Zürcher Zeitung» in February 1899, because shortly before the deadline, the initiative committee had amended and supplemented the wording of its petition in connection with the revision of the Zedel Law (lien on real estate). The «gentlemen arrangers» had not shown the necessary care in the use of the «fine popular right,» the newspaper judged, and considered the «frequently expressed displeasure» at the wasted efforts of the collectors understandable."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1i73p2dc91",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "The Alliance for a Nuclear Weapons Ban is also collecting signatures in Zurich.",
+     "originalUrl": "/2024/09/06/62784a6a-0078-4f02-b214-a65ecd95086c.jpeg?width=1024",
+     "width": 4457,
+     "height": 2972,
+     "altText": "GSoA staff collect signatures at Helvetiaplatz in Zurich for a ban on nuclear weapons. 06.09.2024 © Silas Zindel for NZZ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2160276010"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The Alliance for a Nuclear Weapons Ban is also collecting signatures in Zurich.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95t1",
+   "content": {
+    "text": "Collecting signatures was already backbreaking work when the right of initiative was still in its infancy. In any case, complaints about the unfair practices of signature collectors remained constant. In 1956, for example, a letter writer complained that voters were being «intercepted» by persistent collectors before and after voting and pressured into signing with «meager information about the purpose and aim, and especially about the initiators of the initiative.» On more than one occasion, police were apparently even called to various polling stations in the city of Zurich, leading a city council to attempt to impose a local ban on signature collection in 1959."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95t2",
+   "content": {
+    "text": "Direct democracy in practice has therefore never been a walk in the park. A study shows that in 59 percent of the 223 popular initiatives that came to a vote between 1891 and June 2021, the number of valid signatures was less than 1.2 times the required minimum. Reaching the quorum is a real challenge, then as now."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1i75p9i2n0",
+   "content": {
+    "title": "Electronic alternatives",
+    "id": "subtitle-elektronische-alternativen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95t3",
+   "content": {
+    "text": "«Is everything running perfectly? No,» says Marc Bühlmann. «But actually, we have to say that the system works; the problems have been exposed.» The political scientist is the director of «Année Politique Suisse,» the chronicle of Swiss politics, and conducts research at the University of Bern. In the short term, the reporting on the forged signatures could cause some unease, says Bühlmann. In the long term, however, he doesn't believe that public distrust will increase significantly."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95u0",
+   "content": {
+    "text": "Bühlmann sees the challenges of direct democracy elsewhere. «The very existence of paid signature collectors shows how incredibly difficult it is for many causes to gather the necessary signatures.» Around a third of all launched initiatives never even come to fruition. Volunteer work has eroded in the last two or three decades, and society is less socially conscious than before, Bühlmann observes. «This makes it very difficult for committees that don't have a powerful organization behind them to make their voices heard.» This development, the scholar believes, will likely lead to a renewed focus on digital alternatives to traditional signature collection. Constitutional law expert Andreas Glaser agrees."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1i75oc95u1",
+   "content": {
+    "text": "Such reforms don't have it easy in a country that, as recently as 2021, rejected the e-ID with almost two-thirds of the vote. The introduction of electronic voting in the cantons (official motto: «Security before speed») began shortly after the turn of the millennium. Since then, the projects have progressed extremely slowly. Activists, like those on Zurich's Helvetiaplatz, will therefore remain a common sight for quite some time. And so will their paid counterparts."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "nzzas-footnote"
+  },
+  {
+   "identifier": "nzzas-footnote",
+   "id": "doc-388a5b21",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1i6urkhbh2",
+   "paidContent": true,
+   "prevElement": "nzzas-footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1i6urkhbh3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1i6urkhbh4",
+      "content": {
+       "owner": "NZZ",
+       "title": "The Federal Prosecutor's Office is conducting several investigations on suspicion of election fraud",
+       "teaserImage": {
+        "originalUrl": "/2021/10/13/b472ea9f-74d1-486a-893d-e21ea2a12583.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/10/13/b472ea9f-74d1-486a-893d-e21ea2a12583.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4225,
+        "height": 2817,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4225,2377,x0,y383"
+         },
+         {
+          "name": "1:1",
+          "crop": "2817,2817,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3756,2817,x222,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2113,2817,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "An initiative committee discovered irregularities in the signature collection process conducted by commercial providers. Following further investigations, the committee filed a criminal complaint.",
+        "teaserAuthor": "Alexandra Wey / Keystone"
+       },
+       "teaserAuthor": "Alexandra Wey / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1846566",
+       "readingTime": 120,
+       "authorLine": "Philipp Gollmer",
+       "characterCount": 2765,
+       "product": "NZZ.ch",
+       "documentId": 1846566,
+       "layout": "regular",
+       "publicationDate": "2024-09-02T16:21:54.906Z",
+       "publicationLastUpdated": "2024-09-02T16:40:28.831Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-09-03T04:21:54.906Z",
+       "teaserCaption": "An initiative committee discovered irregularities in the signature collection process conducted by commercial providers. Following further investigations, the committee filed a criminal complaint.",
+       "url": "/schweiz/bundesanwaltschaft-fuehrt-mehrere-verfahren-wegen-verdacht-auf-wahlfaelschung-ld.1846566",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 402,
+       "leadText": "An initiative committee discovered irregularities in the signature collection process conducted by commercial providers. Following further investigations, the committee filed a criminal complaint."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1i6urkhbh5",
+      "content": {
+       "owner": "NZZ",
+       "title": "The pro-nuclear movement bought signatures on a large scale for the «Stop the Blackout» initiative – this is now putting them in a difficult position",
+       "teaserImage": {
+        "originalUrl": "/2024/09/03/49c752cd-dd19-4b34-97c1-86f3cabfc558.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/09/03/49c752cd-dd19-4b34-97c1-86f3cabfc558.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6190,
+        "height": 4127,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6190,3482,x0,y310"
+         },
+         {
+          "name": "1:1",
+          "crop": "4127,4127,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5503,4127,x687,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3095,4127,x285,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Following the fraud cases during the signature collection, calls are growing louder for a halt to the lifting of the nuclear power plant ban.",
+        "teaserAuthor": "Anthony Anex / Keystone"
+       },
+       "teaserAuthor": "Anthony Anex / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1846752",
+       "readingTime": 240,
+       "authorLine": "David Vonplon",
+       "characterCount": 6092,
+       "product": "NZZ.ch",
+       "documentId": 1846752,
+       "layout": "regular",
+       "publicationDate": "2024-09-04T03:30:00.000Z",
+       "publicationLastUpdated": "2024-09-04T06:08:41.598Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-09-04T15:30:00.000Z",
+       "teaserCaption": "Following the fraud cases during the signature collection, calls are growing louder for a halt to the lifting of the nuclear power plant ban.",
+       "url": "/schweiz/fuer-die-initiative-blackout-stoppen-haben-die-kernkraft-freunde-in-grossem-stil-unterschriften-gekauft-das-bringt-sie-nun-in-bedraengnis-ld.1846752",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 844,
+       "leadText": "Following the fraud cases during the signature collection, calls are growing louder for a halt to the lifting of the nuclear power plant ban."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1i6urkhbh6",
+      "content": {
+       "owner": "NZZ",
+       "title": "Did Bern turn a blind eye to signature forgery in initiatives? Evidence of large-scale fraud surfaced years ago",
+       "teaserImage": {
+        "originalUrl": "/2021/10/13/b472ea9f-74d1-486a-893d-e21ea2a12583.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/10/13/b472ea9f-74d1-486a-893d-e21ea2a12583.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4225,
+        "height": 2817,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2638,1484,x276,y416"
+         },
+         {
+          "name": "1:1",
+          "crop": "976,976,x938,y640"
+         },
+         {
+          "name": "4:3",
+          "crop": "2084,1563,x451,y474"
+         },
+         {
+          "name": "3:4",
+          "crop": "1670,2226,x578,y591"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "It is still unclear how widespread the use of forged signatures in initiatives and referendums truly is. However, cantons in western Switzerland already drew attention to irregularities in 2019 – while politicians in Bern remained almost unmoved.",
+        "teaserAuthor": "Alexandra Wey / Keystone"
+       },
+       "teaserAuthor": "Alexandra Wey / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1846664",
+       "readingTime": 300,
+       "authorLine": "Matthias Sander, Daniel Gerny",
+       "characterCount": 7286,
+       "product": "NZZ.ch",
+       "documentId": 1846664,
+       "layout": "regular",
+       "publicationDate": "2024-09-04T03:30:00.000Z",
+       "publicationLastUpdated": "2024-09-04T08:03:08.666Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-09-04T15:30:00.000Z",
+       "teaserCaption": "It is still unclear how widespread the use of forged signatures in initiatives and referendums truly is. However, cantons in western Switzerland already drew attention to irregularities in 2019 – while politicians in Bern remained almost unmoved.",
+       "url": "/schweiz/hat-bern-vor-unterschriftenfaelschungen-bei-initiativen-die-augen-verschlossen-schon-vor-jahren-tauchten-hinweise-auf-betrug-im-grossen-stil-auf-ld.1846664",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 1034,
+       "leadText": "It is still unclear how widespread the use of forged signatures in initiatives and referendums truly is. However, cantons in western Switzerland already drew attention to irregularities in 2019 – while politicians in Bern remained almost unmoved."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZaS",
+  "germanyRelevant": true,
+  "title": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+  "teaserImage": {
+   "originalUrl": "/2024/09/06/015e8e73-bf3c-4203-b3a3-574f413b61b3.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/09/06/015e8e73-bf3c-4203-b3a3-574f413b61b3.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4913,
+   "height": 3276,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2154,1212,x2222,y476"
+    },
+    {
+     "name": "1:1",
+     "crop": "1009,1009,x2428,y1258"
+    },
+    {
+     "name": "4:3",
+     "crop": "4368,3276,x545,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2184,2912,x2273,y364"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken."
+  },
+  "nzzasFootnote": true,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1846968",
+  "readingTime": 480,
+  "authorLine": "Simon Marti, Thomas Müller and Nicole Althaus (text), Silas Zindel (images)",
+  "characterCount": 11694,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1846968,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2024-09-07T19:46:00.000Z",
+  "publicationDate": "2024-09-07T19:46:00.000Z",
+  "publicationLastUpdated": "2024-09-08T10:34:00.950Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2024-09-08T07:46:00.000Z",
+  "teaserCaption": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken.",
+  "url": "/schweiz/demokratie-in-der-krise-ld.1846968",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 1686,
+  "leadText": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken.",
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+  "nzzPrintSubtitle": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken.",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/schweiz/demokratie-in-der-krise-ld.1846968",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/demokratie-in-der-krise-ld.1846968",
+   "title": "Is direct democracy facing a crisis of confidence?",
+   "socialMediaTitle": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2024/09/06/015e8e73-bf3c-4203-b3a3-574f413b61b3.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2154,1212,x2222,y476&wmark=nzz"
+  },
+  "ldPublicationId": 1851051,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "University of Zurich",
+    "slug": "/themen/universitaet-zuerich"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1846566",
+    "ld.1846752",
+    "ld.1846664"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 766488,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "universitaet-zuerich",
+   "name": "University of Zurich",
+   "tagName": "University of Zurich",
+   "qId": "Q206702",
+   "seoTitle": "University of Zurich – All articles about UZH | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 17:31:54.835Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/universitaet-zuerich",
+   "size": 670,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "title": "A doctoral student files a criminal complaint against his professor – the University of Zurich revokes his admission to study",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2023/06/01/2698ab17-64cf-4594-b573-1f99b30253ad.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/06/01/2698ab17-64cf-4594-b573-1f99b30253ad.jpeg?width=1024&quality=75&auto=webp",
+     "width": 1300,
+     "height": 867,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1300,731,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1156,867,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "489,489,x363,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "650,867,x325,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1300,867,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A dispute between a PhD student and a professor ends up in court in Zurich. And it concludes surprisingly.",
+     "teaserAuthor": "Alexandra Wey / Keystone"
+    },
+    "teaserAuthor": "Alexandra Wey / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10019520",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why did the University of Zurich revoke the doctoral candidate's admission to the program?",
+    "paywallQuestionTwo": "How does the court assess the allegation of inadequate supervision by the faculty?",
+    "paywallQuestionThree": "What role did the destroyed basis of trust play in the administrative court's decision?",
+    "characterCount": 4909,
+    "product": "NZZ.ch",
+    "documentId": "10019520",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T03:05:00.000Z",
+    "publicationLastUpdated": "2026-08-21T08:00:30.884Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T15:05:00.000Z",
+    "teaserCaption": "A dispute between a PhD student and a professor ends up in court in Zurich. And it concludes surprisingly.",
+    "authorLine": "Claudia Rey",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/uni-zuerich-entzieht-doktorand-die-zulassung-nach-streit-mit-professor-ld.10019520",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 727,
+    "leadText": "A dispute between a PhD student and a professor ends up in court in Zurich. And it concludes surprisingly.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Microbiologist on the Legionella outbreak in Basel: «The year 2026 is only the beginning of an increase in waterborne diseases»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/04/dac5c958-2b3b-499e-b74b-cf509d178cb4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/04/dac5c958-2b3b-499e-b74b-cf509d178cb4.jpg?width=1024&quality=75&auto=webp",
+     "width": 6293,
+     "height": 4195,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6293,3540,x0,y328"
+      },
+      {
+       "name": "4:3",
+       "crop": "5593,4195,x350,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4195,4195,x1049,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3146,4195,x1573,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6293,4195,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Hubert Hilbi has been researching Legionnaires' disease since the 1990s. In this interview, the professor from the University of Zurich explains why we still know so little about this potentially deadly bacterium and why we should nevertheless remain calm.",
+     "teaserAuthor": "Georgios Kefalas / Keystone"
+    },
+    "teaserAuthor": "Georgios Kefalas / Keystone",
+    "tags": [
+     "Wissenschaft aktuell",
+     "Medizin"
+    ],
+    "nzzId": "ld.10018062",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does climate change affect the increase in Legionella infections?",
+    "paywallQuestionTwo": "What measures can prevent Legionella outbreaks in cooling towers?",
+    "paywallQuestionThree": "Why does basic research on Legionella remain important?",
+    "characterCount": 8806,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": "10018062",
+    "layout": "regular",
+    "publicationDate": "2026-08-05T16:48:00.126Z",
+    "publicationLastUpdated": "2026-08-19T18:11:06.278Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-06T04:48:00.126Z",
+    "teaserCaption": "Hubert Hilbi has been researching Legionnaires' disease since the 1990s. In this interview, the professor from the University of Zurich explains why we still know so little about this potentially deadly bacterium and why we should nevertheless remain calm.",
+    "authorLine": "Michele Coviello",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/fcd644c9-db86-4b7a-980c-a1d2b689eb86.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/mikrobiologe-zum-legionellen-ausbruch-in-basel-das-jahr-2026-bildet-erst-den-anfang-einer-zunahme-an-krankheiten-die-uebers-wasser-uebertragen-werden-ld.10018062",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 1370,
+    "leadText": "Hubert Hilbi has been researching Legionnaires' disease since the 1990s. In this interview, the professor from the University of Zurich explains why we still know so little about this potentially deadly bacterium and why we should nevertheless remain calm.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Fertility tutoring: A new prevention campaign is launching in Switzerland",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "nzzasFootnote": true,
+    "nzzId": "ld.10010117",
+    "readingTime": 120,
+    "paywallQuestionOne": "How does late family planning affect fertility in Switzerland?",
+    "paywallQuestionTwo": "What are the goals of the campaign «Let's talk about F*»?",
+    "paywallQuestionThree": "Why is social egg freezing controversial in Switzerland?",
+    "characterCount": 2862,
+    "teaserImage": {
+     "originalUrl": "/2025/07/09/4946afcf-af23-4a46-a4c3-f9a078d9ff9e.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/07/09/4946afcf-af23-4a46-a4c3-f9a078d9ff9e.jpeg?width=1024&quality=75&auto=webp",
+     "width": 3543,
+     "height": 2362,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3543,1993,x0,y285"
+      },
+      {
+       "name": "4:3",
+       "crop": "3149,2362,x394,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1467,1467,x1048,y443"
+      },
+      {
+       "name": "3:4",
+       "crop": "1611,2147,x1365,y215"
+      },
+      {
+       "name": "3:2",
+       "crop": "3543,2362,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In Switzerland, one in five couples struggles with infertility, according to a research report from the University of Zurich. Now, the Swiss Society for Reproductive Medicine is launching a campaign to dispel the most common misconceptions about fertility.",
+     "teaserAuthor": "Boris Bürgisser / CH Media"
+    },
+    "teaserAuthor": "Boris Bürgisser / CH Media",
+    "product": "NZZ.ch",
+    "documentId": "10010117",
+    "layout": "regular",
+    "publicationDate": "2026-07-05T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-05T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-05T15:30:00.000Z",
+    "teaserCaption": "In Switzerland, one in five couples struggles with infertility, according to a research report from the University of Zurich. Now, the Swiss Society for Reproductive Medicine is launching a campaign to dispel the most common misconceptions about fertility.",
+    "url": "https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/nachhilfe-in-sachen-fruchtbarkeit-in-der-schweiz-startet-eine-neue-praeventionskampagne-ld.10010117",
+    "department": {
+     "name": "NZZ am Sonntag - Report and Debate",
+     "path": "/nzz-am-sonntag/report-und-debatte"
+    },
+    "estimationWordCount": 431,
+    "leadText": "In Switzerland, one in five couples struggles with infertility, according to a research report from the University of Zurich. Now, the Swiss Society for Reproductive Medicine is launching a campaign to dispel the most common misconceptions about fertility.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Reputational damage for the entire university: The University of Zurich reprimands former «star researcher» – and exonerates him",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2024/09/30/c353614b-6ee2-4ba4-8bc9-a5eb011c77cf.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/09/30/c353614b-6ee2-4ba4-8bc9-a5eb011c77cf.jpeg?width=1024&quality=75&auto=webp",
+     "width": 3581,
+     "height": 5372,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3581,2014,x0,y358"
+      },
+      {
+       "name": "4:3",
+       "crop": "3581,2686,x0,y366"
+      },
+      {
+       "name": "1:1",
+       "crop": "3581,3581,x0,y270"
+      },
+      {
+       "name": "3:4",
+       "crop": "3581,4775,x0,y299"
+      },
+      {
+       "name": "3:2",
+       "crop": "3581,2387,x0,y302"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A multi-year investigation shows that little remains of the serious allegations against Adriano Aguzzi for scientific misconduct.",
+     "teaserAuthor": "Christoph Ruckstuhl / NZZ"
+    },
+    "teaserAuthor": "Christoph Ruckstuhl / NZZ",
+    "editor": "1371941",
+    "nzzId": "ld.10013846",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does the report exonerate Adriano Aguzzi from the allegations of misconduct?",
+    "paywallQuestionTwo": "What errors were found in the publications of Aguzzi's research group?",
+    "paywallQuestionThree": "How did the case affect the reputation of the University of Zurich and Aguzzi's career?",
+    "characterCount": 6888,
+    "product": "NZZ.ch",
+    "documentId": "10013846",
+    "layout": "regular",
+    "publicationDate": "2026-07-03T03:11:00.000Z",
+    "publicationLastUpdated": "2026-07-03T03:11:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-03T15:11:00.000Z",
+    "teaserCaption": "A multi-year investigation shows that little remains of the serious allegations against Adriano Aguzzi for scientific misconduct.",
+    "authorLine": "Robin Schwarzenbach",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/09/05/c9887e83-1771-4870-9798-4a4a35cba55a.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/adriano-aguzzi-die-universitaet-zuerich-entlastet-frueheren-star-forscher-ld.10013846",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 950,
+    "leadText": "A multi-year investigation shows that little remains of the serious allegations against Adriano Aguzzi for scientific misconduct.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Are «real men» being pushed to the margins? A study on conceptions of masculinity in Switzerland",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/19/30b6ce50-fc1f-4204-800f-6c996c1f7898.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/19/30b6ce50-fc1f-4204-800f-6c996c1f7898.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3994,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y483"
+      },
+      {
+       "name": "4:3",
+       "crop": "5325,3994,x231,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3994,3994,x1049,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2724,3630,x2134,y364"
+      },
+      {
+       "name": "3:2",
+       "crop": "5991,3994,x5,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The University of Zurich has published a study showing that dominant images of masculinity are widespread among young men. This is also influenced by digital spaces such as the «manosphere».",
+     "teaserAuthor": "Dominic Nahr / NZZ"
+    },
+    "teaserAuthor": "Dominic Nahr / NZZ",
+    "nzzId": "ld.10012134",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the «manosphere» influence perceptions of masculinity?",
+    "paywallQuestionTwo": "What does the «Factor M» reveal about attitudes towards dominance and violence?",
+    "paywallQuestionThree": "Why are young men considered particularly at risk according to the study?",
+    "characterCount": 4291,
+    "product": "NZZ.ch",
+    "documentId": "10012134",
+    "layout": "regular",
+    "publicationDate": "2026-06-20T04:00:00.000Z",
+    "publicationLastUpdated": "2026-06-20T04:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-20T16:00:00.000Z",
+    "teaserCaption": "The University of Zurich has published a study showing that dominant images of masculinity are widespread among young men. This is also influenced by digital spaces such as the «manosphere».",
+    "authorLine": "Lucia Grassi",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/06/17/89878708-d63a-4d53-8344-6eead85a3f8c.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/richtige-maenner-werden-an-den-rand-gedraengt-studie-ueber-vorstellungen-von-maennlichkeit-in-der-schweiz-ld.10012134",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 653,
+    "leadText": "The University of Zurich has published a study showing that dominant images of masculinity are widespread among young men. This is also influenced by digital spaces such as the «manosphere».",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "He humanized economics and brought the subject to the forefront at the University of Zurich. Now Ernst Fehr says: «I am concerned about the resilience of democracy.»",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/12/903a3046-d6fb-4414-b437-360fd2722239.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/12/903a3046-d6fb-4414-b437-360fd2722239.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3994,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y447"
+      },
+      {
+       "name": "4:3",
+       "crop": "5325,3993,x675,y1"
+      },
+      {
+       "name": "1:1",
+       "crop": "1400,1400,x2730,y1323"
+      },
+      {
+       "name": "3:4",
+       "crop": "2724,3630,x1844,y364"
+      },
+      {
+       "name": "3:2",
+       "crop": "5991,3993,x9,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The most cited economist in the German-speaking world conveys a positive message: People are not purely selfish. In doing so, he has revolutionized the worldview of his profession.",
+     "teaserAuthor": "Dominic Nahr / NZZ"
+    },
+    "teaserAuthor": "Dominic Nahr / NZZ",
+    "showComments": true,
+    "paywallQuestionOne": "How did Ernst Fehr refute the concept of Homo economicus?",
+    "paywallQuestionTwo": "According to Fehr, what role does inequality aversion play in society?",
+    "paywallQuestionThree": "Why does Fehr see the resilience of democracy as a central challenge?",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10010839",
+    "readingTime": 720,
+    "characterCount": 15963,
+    "product": "NZZ.ch",
+    "documentId": "10010839",
+    "layout": "longformstandard",
+    "publicationDate": "2026-06-14T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-15T16:09:20.686Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-14T15:30:00.000Z",
+    "teaserCaption": "The most cited economist in the German-speaking world conveys a positive message: People are not purely selfish. In doing so, he has revolutionized the worldview of his profession.",
+    "authorLine": "Peter A. Fischer, Thomas Fuster",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/er-hat-die-oekonomie-vermenschlicht-und-das-fach-an-der-uni-zuerich-an-die-spitze-gefuehrt-jetzt-sagt-ernst-fehr-ich-sorge-mich-um-die-resilienz-der-demokratie-ld.10010839",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 2379,
+    "premium": true,
+    "leadText": "The most cited economist in the German-speaking world conveys a positive message: People are not purely selfish. In doing so, he has revolutionized the worldview of his profession.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "btaNZZaSFeed": {
+  "meta": {
+   "name": "NZZ am Sonntag",
+   "path": "/nzz-am-sonntag"
+  },
+  "data": [
+   {
+    "title": "Hybrid Warfare and Playing with Fire on the Eastern Flank: How Far Will Putin Go? And are Europeans prepared?",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Andrea Jeska, David Axe, Alain Zucker",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10021091",
+    "readingTime": 420,
+    "paywallQuestionOne": "How is Europe responding to Russia's hybrid attacks?",
+    "paywallQuestionTwo": "What role does support for Ukraine play in the conflict?",
+    "paywallQuestionThree": "How could Russia escalate further?",
+    "characterCount": 10159,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/f81cc725-5d33-4092-b102-c0c15f310843.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/f81cc725-5d33-4092-b102-c0c15f310843.jpg?width=1024&quality=75&auto=webp",
+     "width": 2836,
+     "height": 1474,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2620,1474,x111,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1965,1474,x417,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1474,1474,x671,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1106,1474,x825,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2211,1474,x329,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+     "teaserAuthor": "Illustration by Elia Barbieri for NZZaS"
+    },
+    "teaserAuthor": "Illustration by Elia Barbieri for NZZaS",
+    "product": "NZZ.ch",
+    "documentId": 10021091,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+    "url": "https://www.nzz.ch/international/hybrider-krieg-und-das-zuendeln-an-der-ostflanke-wie-weit-wird-putin-gehen-und-sind-die-europaeer-vorbereitet-ld.10021091",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1481,
+    "leadText": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 1,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024&quality=75&auto=webp",
+     "width": 5602,
+     "height": 3735,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5602,3151,x0,y439"
+      },
+      {
+       "name": "4:3",
+       "crop": "4116,3087,x1,y503"
+      },
+      {
+       "name": "1:1",
+       "crop": "2806,2806,x622,y594"
+      },
+      {
+       "name": "3:4",
+       "crop": "2315,3087,x842,y567"
+      },
+      {
+       "name": "3:2",
+       "crop": "4209,2806,x0,y492"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+     "teaserAuthor": "Andrea Zahle"
+    },
+    "teaserAuthor": "Andrea Zahle",
+    "title": "FDP co-president Susanne Vincenz-Stauffacher on the start of the European debate: «That was a false start»",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020993",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does the FDP assess the attempts to change the EU negotiation outcome?",
+    "paywallQuestionTwo": "Why is the FDP ignoring the vote of its delegates against the majority of cantons?",
+    "paywallQuestionThree": "How does the FDP intend to finance the army without raising taxes?",
+    "characterCount": 11294,
+    "flag": "interview",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "product": "NZZ.ch",
+    "documentId": 10020993,
+    "layout": "regular",
+    "publicationDate": "2026-08-29T19:45:00.000Z",
+    "publicationLastUpdated": "2026-08-31T08:16:16.249Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T07:45:00.000Z",
+    "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "authorLine": "Daniel Foppa, Simon Marti",
+    "authorImage": {
+     "originalUrl": "/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+     "width": 480,
+     "height": 480,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "480,480,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/fdp-co-praesidentin-vincenz-stauffacher-zum-auftakt-der-europadebatte-das-war-ein-fehlstart-ld.10020993",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 2,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Deep relaxation in nature, young people with ideas, and the best butter tea in the world. A small ode to Nepal",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Stephanie Geiger",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/d217a4cb-2734-400a-9291-ed353fc801cc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/d217a4cb-2734-400a-9291-ed353fc801cc.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3712,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y309"
+      },
+      {
+       "name": "4:3",
+       "crop": "4949,3712,x275,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3712,3712,x894,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2784,3712,x1358,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y23"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Despite the tragedy: A return to Nepal soon",
+     "teaserAuthor": "Francis Mascarenhas / Reuters"
+    },
+    "teaserAuthor": "Francis Mascarenhas / Reuters",
+    "nzzId": "ld.10021585",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do natural disasters affect the lives of people in Nepal?",
+    "paywallQuestionTwo": "How is Nepal changing through electromobility and infrastructure projects?",
+    "paywallQuestionThree": "What role does the younger generation play in Nepal's development?",
+    "characterCount": 7555,
+    "product": "NZZ.ch",
+    "documentId": 10021585,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Despite the tragedy: A return to Nepal soon",
+    "url": "https://www.nzz.ch/international/tiefenentspannung-in-der-natur-junge-menschen-mit-ideen-und-der-beste-buttertee-der-welt-eine-kleine-ode-an-nepal-ld.10021585",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1239,
+    "leadText": "Despite the tragedy: A return to Nepal soon",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 3,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Rapper Stress: «I measured my self-worth by how successful I am. Nothing good can come of that. Not even good music»",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1920,1440,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1440,1440,x373,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1080,1440,x553,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1920,1280,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1093,
+      "y": 307
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+     "teaserAuthor": "Sébastien Agnetti"
+    },
+    "teaserAuthor": "Sébastien Agnetti",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10018314",
+    "readingTime": 780,
+    "paywallQuestionOne": "How did Stress's success affect his mental health?",
+    "paywallQuestionTwo": "Why does Stress view his book more as a testimony than as a guide?",
+    "paywallQuestionThree": "What role does childhood play in Stress's personal development?",
+    "characterCount": 14907,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": 10018314,
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-30T03:29:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:29:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:29:00.000Z",
+    "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "authorLine": "Frank Heer",
+    "authorImage": {
+     "originalUrl": "/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "2752,2752,x688,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/rapper-stress-ich-habe-meinen-selbstwert-daran-gemessen-wie-erfolgreich-ich-bin-daraus-kann-nichts-gutes-entstehen-auch-keine-gute-musik-ld.10018314",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 2521,
+    "leadText": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 4,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Condominium nightmare: How owners become bitter enemies",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 13550,
+    "nzzasFootnote": true,
+    "nzzId": "ld.10014125",
+    "readingTime": 600,
+    "paywallQuestionOne": "What challenges does condominium ownership pose for the owners?",
+    "paywallQuestionTwo": "Why do renovations often fail due to financial and legal hurdles?",
+    "paywallQuestionThree": "How could the revision of condominium ownership law defuse conflicts?",
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/75186538-5fe8-4736-8335-f7b57a064317.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/75186538-5fe8-4736-8335-f7b57a064317.jpg?width=1024&quality=75&auto=webp",
+     "width": 6034,
+     "height": 3395,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6034,3394,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4527,3395,x754,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3395,3395,x1320,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2546,3395,x1744,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5093,3395,x471,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+     "teaserAuthor": "Illustration by Elia Barbieri for NZZaS"
+    },
+    "teaserAuthor": "Illustration by Elia Barbieri for NZZaS",
+    "product": "NZZ.ch",
+    "documentId": 10014125,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+    "authorLine": "Jürg Zulliger",
+    "authorImage": {
+     "originalUrl": "/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438",
+     "url": "https://img-msp-prod.nzz.ch/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438&width=1024&quality=75&auto=webp",
+     "width": 2625,
+     "height": 3500,
+     "imageService": "fastly",
+     "crop": {
+      "name": "1:1",
+      "x": 0,
+      "y": 438,
+      "width": 2625,
+      "height": 2625
+     },
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/albtraum-eigentumswohnung-wie-stockwerkeigentuemer-zu-erbitterten-feinden-werden-ld.10014125",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1930,
+    "leadText": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 5,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1846968",
+    "name": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2024-09-07T19:46:00.000Z",
+     "updateTimestamp": "2024-09-08T10:34:00.950Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZaS"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1846968",
+   "pageType": "longformstandard",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Is direct democracy facing a crisis of confidence?",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2024/09/06/015e8e73-bf3c-4203-b3a3-574f413b61b3.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2154,1212,x2222,y476&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Simon Marti, Thomas Müller and Nicole Althaus (text), Silas Zindel (images)",
+  "description": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken.",
+  "news_keywords": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2024-09-08T14:34:00+02:00",
+  "date": "2024-09-07T23:46:00+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/demokratie-in-der-krise-ld.1846968",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+  "ogTitle": "Forged signatures, false forecasts, unclear proposals: Is democracy in crisis?",
+  "ogUrl": "https://www.nzz.ch/schweiz/demokratie-in-der-krise-ld.1846968",
+  "mrf:cms_id": "nzz:ld.1846968",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZaS;Content Type:Standard Article;Article ID:ld.1846968",
+  "nzzAuthors": [
+   {
+    "name": "Simon Marti,&nbsp;Thomas Müller und Nicole Althaus (Text), Silas Zindel (Bilder)"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/demokratie-in-der-krise-ld.1846968"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:01 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Is direct democracy facing a crisis of confidence?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/demokratie-in-der-krise-ld.1846968"
+   },
+   "headline": "Is direct democracy facing a crisis of confidence?",
+   "datePublished": "2024-09-07T23:46:00+02:00",
+   "dateModified": "2024-09-08T14:34:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The picture-perfect image of direct democracy has recently been tarnished. Trust has been shaken.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2024/09/06/015e8e73-bf3c-4203-b3a3-574f413b61b3.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2154,1212,x2222,y476&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Simon Marti, Thomas Müller and Nicole Althaus (text), Silas Zindel (images)"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 766488,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/demokratie-in-der-krise-ld.1846968",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzzas",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1846968",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2024-09-07T19:46:00.000Z",
+   "ContentAuthor": "Simon Marti,&nbsp;Thomas Müller und Nicole Althaus (Text), Silas Zindel (Bilder)",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "ldId": "ld.1846968",
+   "channel": "Schweiz",
+   "heading": "Gefälschte Unterschriften, falsche Prognosen, unklare Vorlagen: Ist die Demokratie in der Krise?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

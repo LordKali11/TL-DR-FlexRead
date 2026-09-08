@@ -1,0 +1,647 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k10m23gi1",
+   "content": {
+    "title": "Thursday Morning Briefing",
+    "lead": "<strong>The most important news to start your day:</strong> Meta significantly restricted use for children in the U.S. ++ Stricter rules for rental e-scooters in Zurich ++ Artist Yayoi Kusama died",
+    "author": ""
+   },
+   "position": "fixed",
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqib7v0",
+   "content": {
+    "text": "<strong>Read this only in the NZZ: </strong>Donald Trump wanted to go down in American history as a great president: on par with Washington or Lincoln. But he lacked foresight and ideals. <a href=\"https://www.nzz.ch/ld.10012906\">To the «NZZ Pro» commentary</a>"
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-30966e42",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqje3p0",
+   "content": {
+    "title": "The Most Important News This Morning",
+    "id": "subtitle-das-wichtigste-am-morgen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqjsuh0",
+   "content": {
+    "title": "Meta limits on children's Instagram and Facebook use in the U.S.",
+    "id": "subtitle-meta-limitiert-in-den-usa-wie-lange-kinder-instagram-und-facebook-nutzen-d-rfen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ju7oc13u0",
+   "content": {
+    "image": {
+     "author": "Carlos Barria / Reuters",
+     "caption": "",
+     "originalUrl": "/2026/08/26/6ec94bb4-d9a4-4347-bc01-082c8d43e0a9.jpg?width=1024",
+     "width": 5500,
+     "height": 3668,
+     "altText": "FILE PHOTO: Meta CEO Mark Zuckerberg wears the Meta Ray-Ban display glasses, as he delivers a speech presenting the new line of smart glasses, during the Meta Connect event at the company's headquarters in Menlo Park, California, US, September 17, 2025. REUTERS/Carlos Barria/File Photo/File Photo",
+     "imageService": "fastly"
+    },
+    "author": "Carlos Barria / Reuters",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk0lk0",
+   "content": {
+    "text": "<strong>What happened:</strong> Meta reached an out-of-court settlement with a group of plaintiffs to avoid paying a fine of around 18 billion dollars. These plaintiffs had accused the social media company of addicting children and adolescents with its Instagram and Facebook products and psychologically harming them before the Federal Supreme Court. For the first time, Meta committed to a whole series of child protection measures. <a href=\"https://www.nzz.ch/ld.10021219\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk3tu0",
+   "content": {
+    "text": "<strong>Why it matters: </strong>Meta introduced a two-hour daily time limit for children and adolescents under 18 years of age. Every 30 minutes, minors also received a «prompt» designed to encourage more conscious use of social media. Access to Instagram and Facebook was also blocked overnight. Automatic video playback could be switched off. And certain filters that allowed children to «extremely» change their appearance would no longer be available in the future, Meta said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10drcq50",
+   "content": {
+    "text": "<strong>The background:</strong> According to Meta, the new regulations would only come into force in those states that had signed the settlement. For children and adolescents who lived outside the U.S., nothing would change for now — although the solution found could also serve as a model in Europe. In April, the European Commission criticized that Meta had been neglecting child protection and threatened the U.S. company with a fine."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqkj090",
+   "content": {
+    "title": "Zurich City Council's tighter rules for e-scooter providers",
+    "id": "subtitle-der-z-rcher-stadtrat-versch-rft-die-regeln-f-r-anbieter-von-elektroscootern"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk71p0",
+   "content": {
+    "text": "<strong>What happened:</strong> E-scooters had shaped Zurich's cityscape for almost ten years. But they were to be reined in. On Wednesday evening, the City Parliament discussed and approved a package of measures from Green Security Director Karin Rykart. What influence the newly decided regulations would have remained to be seen. Rykart, in any case, showed herself firmly determined to curb the «wild growth» of e-scooters. <a href=\"https://www.nzz.ch/ld.10021187\">To the report</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqktcc0",
+   "content": {
+    "text": "<strong>Why it matters: </strong>The city had over 7,000 rental vehicles at the time. Two-thirds of them were e-scooters, and the rest were e-bikes and e-mopeds. The supply was to be drastically reduced to 3,000 vehicles. In addition, rental vehicles would no longer be allowed to be parked just anywhere in the city center; they had to be deposited at permanently installed stations. The same applied in other «heavily used areas of the city,» for example at train stations."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlql0jn0",
+   "content": {
+    "title": "What Else Happened",
+    "id": "subtitle-was-sonst-noch-passiert-ist"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqms3k0",
+   "content": {
+    "text": "<strong>SNB sought more leverage against real estate market excesses: </strong>The Swiss National Bank had already exhausted the countercyclical capital buffer available to it to cool down the real estate market. The SNB wanted a larger regulatory lever, as Vice President Antoine Martin indicated on Wednesday. <a href=\"https://www.nzz.ch/ld.10021109\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqmu9d0",
+   "content": {
+    "text": "<strong>Data theft in Liechtenstein extended to Switzerland:</strong> Many Swiss customers were likely affected by the data theft at the end of July in Liechtenstein. This fueled demands to introduce a similar foundation structure in Switzerland as in Liechtenstein. <a href=\"https://www.nzz.ch/ld.10020847\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k108h1dk0",
+   "content": {
+    "text": "<strong>Chip giant Nvidia doubled revenue:</strong> The unbroken demand for computing power for artificial intelligence continued to drive the chip group Nvidia. Specifically, the company achieved revenue of 96.2 billion U.S. dollars in the second quarter. Net profit swelled to 59.7 billion dollars. After a few weak weeks, this also seemed to convince investors. <a href=\"https://www.nzz.ch/ld.10021239\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vc3ie00",
+   "content": {
+    "text": "<strong>Sportbahnen Braunwald shareholders vented anger:</strong> In June, the Board of Directors of Sportbahnen surprisingly announced, without consulting those affected, that it would cease ski operations in the car-free Glarus mountain village for the 2026/27 winter season. Shareholders expressed anger toward Board of Directors member Richi Bolt at the general meeting. <a href=\"https://www.nzz.ch/ld.10020785\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10jdcro0",
+   "content": {
+    "text": "<strong>Artist Yayoi Kusama died:</strong> The Japanese artist passed away at the age of 97. She was best known for her dot-covered paintings and pumpkin motifs. Kusama, who openly spoke about her mental health problems, voluntarily admitted herself to a psychiatric clinic and lived there for decades. <a href=\"https://www.nzz.ch/ld.10021198\">To the short news from culture</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqnjlm0",
+   "content": {
+    "title": "Our Recommendations Today",
+    "id": "subtitle-das-empfehlen-wir-heute"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jqlqo04q0",
+   "content": {
+    "image": {
+     "author": "Andreas Becker / Keystone",
+     "caption": "",
+     "originalUrl": "/2026/08/26/1e86d202-cb66-4ae2-bab0-07082537af65.webp?width=1024",
+     "width": 2048,
+     "height": 1365,
+     "altText": "A seagull on a sandbank in Lake Zurich, on Thursday, August 20, 2026, in Zurich. Lake Zurich has broken a 74-year-old record low water level. The water level at the official measuring station near the Zürichhorn fell to 405.45 meters above sea level. This is about half a meter lower than usual for August. The previous low of 405.46 meters was recorded in March 1952. (KEYSTONE/Andreas Becker)",
+     "imageService": "fastly"
+    },
+    "author": "Andreas Becker / Keystone",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoabg0",
+   "content": {
+    "text": "<strong>Heat: </strong>Lake Zurich's water level reached a historic low in August. This had drastic consequences: fish were dying, some trucks could no longer use the Lake Zurich ferry, and ships were running aground. Scenes from an extraordinary hot summer. <a href=\"https://www.nzz.ch/ld.10020811\">To the background</a><a href=\"https://www.nzz.ch/ld.10012906\"></a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo6pr0",
+   "content": {
+    "text": "<strong>Industrial group:</strong> At the beginning of September, VW's fate could be decided. Next week, CEO Oliver Blume would once again ask the supervisory board for approval of his austerity plans. Whether the body would grant him permission for this was questionable – because hardly any supervisory board in Germany had as much power as VW's. <a href=\"https://www.nzz.ch/ld.10018376\">To the background</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo2lq0",
+   "content": {
+    "text": "<strong>Weltklasse Zürich:</strong> Pole vaulter Armand Duplantis wanted to break a world record this Thursday. In an interview, the 26-year-old explained why he had suffered one of his rare defeats because of his wedding, and why he loved the sport so much, Duplantis said. Even as a child, he felt: «You can be a pole vaulter and still be a rock star.» <a href=\"https://www.nzz.ch/ld.10020806\">To the interview</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqodt40",
+   "content": {
+    "title": "Our Recommendation for «The Market» Subscribers",
+    "id": "subtitle-unsere-empfehlung-f-r-the-market-abonnenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoibo0",
+   "content": {
+    "text": "<strong>Amrize needed patience: </strong>The Zug-based building materials group had disappointed on the stock market so far. An oil price-related cost increase and the departure of CFO Baris Oran recently weighed on the stock. Why investors should not give up anyway. <a href=\"https://themarket.ch/unternehmen/amrize-die-jenisch-wette-braucht-geduld-ld.17539\">To the analysis</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqours0",
+   "content": {
+    "title": "Before You Go On",
+    "id": "subtitle-bevor-sie-weitergehen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpnda0",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Millions of vehicles rolled over the Brenner Pass in Tyrol every year. The traffic was so burdensome for the narrow valley that resistance was forming. The «traffic dodgers» would still come, said Austria correspondent Meret Baumann in «NZZ Akzent.» This even hindered ambulances, she added. <a href=\"https://www.nzz.ch/ld.10019471\">To the podcast</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpro70",
+   "content": {
+    "text": "<strong>🎥 Watch:</strong> What remained when man left – and with him, humanity? British director Ridley Scott sent Jacob Elordi, in the role of a taciturn pilot, through a depopulated world. «The Dog Stars» was less an end-time thriller than a quiet meditation on human togetherness. <a href=\"https://www.nzz.ch/ld.10020916\">To the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpvb00",
+   "content": {
+    "text": "We wish you a good start to the day."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqq3pj0",
+   "content": {
+    "text": "Ulrike Putz, Eva Casper and Marcel Urech"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k10m23gk0",
+   "content": {
+    "text": "The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Meta significantly restricts its use for children in the USA",
+  "dependencies": {},
+  "nzzId": "ld.10021242",
+  "teaserImage": {
+   "originalUrl": "/2026/08/26/6ec94bb4-d9a4-4347-bc01-082c8d43e0a9.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/26/6ec94bb4-d9a4-4347-bc01-082c8d43e0a9.jpg?width=1024&quality=75&auto=webp",
+   "width": 5500,
+   "height": 3668,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5500,3094,x0,y287"
+    },
+    {
+     "name": "4:3",
+     "crop": "4891,3668,x305,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3668,3668,x916,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2751,3668,x1375,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5500,3667,x0,y1"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The most important news to start the day: Meta significantly restricts usage for children in the US ++ Stricter rules for rental e-scooters in Zurich ++ Artist Yayoi Kusama has died",
+   "teaserAuthor": "Carlos Barria / Reuters"
+  },
+  "teaserAuthor": "Carlos Barria / Reuters",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 300,
+  "characterCount": 6760,
+  "breadcrumbs": [
+   {
+    "name": "Briefing",
+    "path": "/briefing"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021242,
+  "contentTypeGroup": "web",
+  "layout": "briefing",
+  "firstPublicationDate": "2026-08-27T04:02:52.832Z",
+  "publicationDate": "2026-08-27T04:02:52.832Z",
+  "publicationLastUpdated": "2026-08-27T04:02:52.832Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T16:02:52.832Z",
+  "teaserCaption": "The most important news to start the day: Meta significantly restricts usage for children in the US ++ Stricter rules for rental e-scooters in Zurich ++ Artist Yayoi Kusama has died",
+  "url": "/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242",
+  "department": {
+   "name": "Briefing",
+   "path": "/briefing"
+  },
+  "estimationWordCount": 1007,
+  "leadText": "The most important news to start the day: Meta significantly restricts usage for children in the US ++ Stricter rules for rental e-scooters in Zurich ++ Artist Yayoi Kusama has died",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242",
+   "title": "Thursday Morning Briefing",
+   "socialMediaTitle": "Thursday Morning Briefing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/26/6ec94bb4-d9a4-4347-bc01-082c8d43e0a9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y287&wmark=nzz"
+  },
+  "ldPublicationId": 2484365,
+  "isHighlightedHeader": true,
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 348648,
+  "colorSchema": "color-schema--briefing",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021242",
+    "name": "Meta significantly restricts its use for children in the USA",
+    "type": "article",
+    "subType1": "briefing",
+    "subType2": "",
+    "primaryCategory": "Briefing",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Meta significantly restricts its use for children in the USA",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T04:02:52.832Z",
+     "updateTimestamp": "2026-08-27T04:02:52.832Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021242",
+   "pageType": "briefing",
+   "primaryCategory": "Briefing",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Thursday Morning Briefing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/26/6ec94bb4-d9a4-4347-bc01-082c8d43e0a9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y287&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "The most important news to start the day: Meta significantly restricts usage for children in the US ++ Stricter rules for rental e-scooters in Zurich ++ Artist Yayoi Kusama has died",
+  "news_keywords": "Meta significantly restricts its use for children in the US, Briefing, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T08:02:52+02:00",
+  "date": "2026-08-27T08:02:52+02:00",
+  "canonical": "https://www.nzz.ch/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Meta significantly restricts its use for children in the USA",
+  "ogTitle": "Thursday Morning Briefing",
+  "bookmarkTitle": "NZZ Briefing",
+  "ogUrl": "https://www.nzz.ch/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242",
+  "mrf:cms_id": "nzz:ld.10021242",
+  "mrf:sections": "Briefing",
+  "mrf:tags": "Page Type:briefing;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021242",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:31 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Briefing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242"
+   },
+   "headline": "Thursday Morning Briefing",
+   "datePublished": "2026-08-27T08:02:52+02:00",
+   "dateModified": "2026-08-27T08:02:52+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The most important news to start the day: Meta significantly restricts usage for children in the US ++ Stricter rules for rental e-scooters in Zurich ++ Artist Yayoi Kusama has died",
+   "isAccessibleForFree": false,
+   "articleSection": "Briefing",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/26/6ec94bb4-d9a4-4347-bc01-082c8d43e0a9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y287&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 348648,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/briefing/meta-schraenkt-die-nutzung-fuer-kinder-in-den-usa-deutlich-ein-ld.10021242",
+    "classification=default",
+    "relevance=default",
+    "layout=briefing",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021242",
+    "channel=Briefing"
+   ],
+   "ContentCreated": "2026-08-27T04:02:52.832Z",
+   "ContentSection": "Briefing",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "briefing",
+   "ldId": "ld.10021242",
+   "channel": "Briefing",
+   "heading": "Meta schränkt die Nutzung für Kinder in den USA deutlich ein",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

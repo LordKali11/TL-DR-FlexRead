@@ -1,0 +1,622 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jqlqgvnq0",
+   "content": {
+    "subject": "Deutschland macht Russland für Vorfall in Leipzig verantwortlich",
+    "preheader": "Das Wichtigste zum Start in den Tag"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-ef9ff018",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-newsletter-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-newsletter-subtitle",
+   "id": "doc-1jqlqgvnq3",
+   "content": {
+    "title": "The most important things to start the day"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jqlqgvnq6",
+   "content": {
+    "text": "<strong>The most important news this morning:</strong> German measures against Russia because of the drone incident and new waves of mutual attacks in the Iran war"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-newsletter-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqib7v0",
+   "content": {
+    "text": "<strong>And you'll only read this in the NZZ:</strong> More than a month after the influx of migrants to the Spanish exclave of Ceuta, the situation on the ground has still not calmed down. Refugees are living in squalid conditions and wandering the streets. Residents lament the loss of normality. Some are becoming violent towards migrants. Even within government circles, it is now being admitted, albeit privately, that the extent of the crisis was underestimated. <a data-li-document-ref=\"10021760\" href=\"https://www.nzz.ch/ld.10021760\">Background information</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqje3p0",
+   "content": {
+    "title": "The Most Important News This Morning"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqjsuh0",
+   "content": {
+    "title": "German accusation against Russia in Leipzig drone attack"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1ju7ocipg0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/deutschland/politik/aggression-gegenueber-europa-deutschland-gibt-russland-die-schuld-an-dem-versuchten-drohnenanschlag-in-leipzig-und-schliesst-das-generalkonsulat-ld.10021908"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/417bf6d8-3ea8-4a68-881b-ddea5e70d04e.jpg",
+     "mediaId": "tLsrEATzUjcT",
+     "key": "2026/09/01/417bf6d8-3ea8-4a68-881b-ddea5e70d04e.jpg",
+     "width": 6286,
+     "height": 4192,
+     "mimeType": "image/jpeg",
+     "altText": "BERLIN, GERMANY - SEPTEMBER 1: German Foreign Minister Johann Wadephul (L) and Interior Minister Alexander Dobrindt speak to the media to announce Germany's response to the failed drone attack at Leipzig airport on September 1, 2026 in Berlin, Germany. The German government blames Russia for the August 5 incident in which at least two drones, including one carrying explosives, were involved in a failed attack against Ukrainian cargo planes stationed at Leipzig. (Photo by Sean Gallup/Getty Images)",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/417bf6d8-3ea8-4a68-881b-ddea5e70d04e.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Sean Gallup / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk0lk0",
+   "content": {
+    "text": "<strong>What happened:</strong> The Federal Government for the first time blamed Russia for the attempted bomb attack on Leipzig Airport a month ago. Interior Minister Alexander Dobrindt explained that intelligence findings clearly pointed to «Russian involvement.» The modus operandi and tools used were known from other Russian operations, he added. Foreign Minister Johann Wadephul presented a package of measures against Russia. <a href=\"https://www.nzz.ch/aggression-gegenueber-europa-deutschland-gibt-russland-die-schuld-an-dem-versuchten-drohnenanschlag-in-leipzig-und-schliesst-das-generalkonsulat-ld.10021908\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fn6nor0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> According to Mr. Wadephul, the Russian Consulate General in Bonn would close in September. In addition, the agreement for the Russian House in Berlin, which is suspected of being too close to espionage activities, would be terminated. New individuals would be proposed for the EU sanctions list, entry controls for Russian nationals would be tightened, and pressure on the Russian shadow fleet in the Baltic Sea would be increased."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk3tu0",
+   "content": {
+    "text": "<strong>How Russia is reacting:</strong> President Vladimir Putin called the punitive measures a «grave mistake.» «Where is the evidence?» he asked at a press conference. Evidence presented so far was «fabricated,» he said. The German reaction was primarily politically motivated domestically, as Chancellor Friedrich Merz had lost the trust of the citizens, Putin added. <a href=\"https://www.nzz.ch/deutschland/politik/anschlag-auf-den-leipziger-flughafen-putin-nennt-berlins-sanktionen-schweren-fehler-bundesregierung-will-russisches-generalkonsulat-schliessen-und-einreise-russischer-staatsbuerger-verschaerfen-ld.10021936\">To the live ticker</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ephc4e0",
+   "content": {
+    "text": "<strong>Our assessment:</strong> The overall view of the many hybrid actions against supporters of Ukraine allows no other conclusion than that Russia is behind the Leipzig attack. Now, the Federal Government sets boundaries but does not overreact. That is smart. An overreaction would only have unnecessarily fueled Russia apologists from the AfD and BSW. <a href=\"https://www.nzz.ch/ld.10021904\">To the commentary</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqkj090",
+   "content": {
+    "title": "US and Iran: new mutual attacks"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk71p0",
+   "content": {
+    "text": "<strong>What happened:</strong> The Iran War experienced the heaviest fighting in weeks. The U.S. initially targeted sites near the Strait of Hormuz yesterday. Iran's Revolutionary Guard announced the start of a retaliatory action against American bases shortly thereafter. Jordan and Kuwait then reported Iranian missile and drone attacks. <a href=\"https://www.nzz.ch/international/iran-krieg-irans-revolutionsgarden-wollen-volle-kontrolle-ueber-strasse-von-hormuz-haben-durch-die-strasse-von-hormuz-fahren-wieder-mehr-schiffe-ld.10021246\">To the live ticker</a><a href=\"https://www.nzz.ch/international/iran-krieg-irans-revolutionsgarden-wollen-volle-kontrolle-ueber-strasse-von-hormuz-haben-durch-die-strasse-von-hormuz-fahren-wieder-mehr-schiffe-ld.10021246\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fos8l50",
+   "content": {
+    "text": "<strong>The background:</strong> Barron Trump, the 20-year-old son of the U.S. President, has become a target of the Iranian regime. Under the title «Where Barron Trump is to be killed,» state media published an AI-generated video that offered a bounty of millions. Vienna-based Iran expert Walter Posch interprets the video as a sign of nervousness. «The Iranians want to make it clear once again: We are very strong, and we can do this,» he said. <a href=\"https://www.nzz.ch/ld.10021887\">For background</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqktcc0",
+   "content": {
+    "text": "<strong>Why it matters: </strong>There were also reportedly assassination plots in the US against a son of Israeli Prime Minister Benjamin Netanyahu. Iran was likely primarily concerned with creating uncertainty and psychological pressure. The message was that even the closest circles of the world's best-protected politicians were reachable. At the same time, the regime demonstrated its capacity to act to its own population – at a time when it was fighting for its own survival."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlql0jn0",
+   "content": {
+    "title": "What Else Happened"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqiffn0",
+   "content": {
+    "text": "<strong>The German Navy successfully tests a long-range missile system:</strong> A frigate successfully completed a previously secret test of the Israeli Lora system in the North Atlantic. Plans for the procurement of ballistic missiles with a range of more than 500 kilometers are now to be advanced. <a href=\"https://www.nzz.ch/ld.10021683\">To the brief news from Germany</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqms3k0",
+   "content": {
+    "text": "<strong>The VW board reportedly decided to close four German plants:</strong> According to «Wirtschaftswoche,» production in Emden and Zwickau would end in 2031, production at VW Commercial Vehicles in Hanover in 2032, and at the Audi plant in Neckarsulm in 2034. CEO Oliver Blume intends to present a corresponding concept to the Supervisory Board on Friday. <a href=\"https://www.nzz.ch/wirtschaft/umbruch-bei-vw-was-in-den-kommenden-tagen-zu-erwarten-ist-ld.10020783\">To the latest developments</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fm36cd0",
+   "content": {
+    "text": "<strong>A regional summit in Kyrgyzstan shows China's growing influence:</strong> Xi Jinping presents his country as a source of stability in a turbulent world. China's president is not impressed by American pressure to reduce support for Iran and Russia. <a href=\"https://www.nzz.ch/ld.10021854\">To the «NZZ Pro» report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fmfqs20",
+   "content": {
+    "text": "<strong>The progressive centralization of the EU deters successful states:</strong> The fact that Iceland decided against accession negotiations should give Brussels pause for thought. For rich countries that would immediately become net contributors after joining, the EU is not attractive enough. <a href=\"https://www.nzz.ch/ld.10021909\">To the commentary</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqmu9d0",
+   "content": {
+    "text": "<strong>Ragebait, Crashout, and Peak are the candidates for Youth Word of the Year 2026:</strong> The selection made by Langenscheidt Verlag shows the increasing influence of English. Young people effortlessly blend German and English sentence fragments and words in everyday life when they talk to each other. <a href=\"https://www.nzz.ch/ld.10021870\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqnjlm0",
+   "content": {
+    "title": "Our Recommendations Today"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jqlqo04q0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10015567",
+     "$ref": "document",
+     "reference": {
+      "id": "10015567"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/bab024f9-5d99-4540-8cb8-52c0f4c166c5.webp",
+     "mediaId": "cWT2ZBuSRBvZ",
+     "key": "2026/09/01/bab024f9-5d99-4540-8cb8-52c0f4c166c5.webp",
+     "width": 2048,
+     "height": 1363,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/bab024f9-5d99-4540-8cb8-52c0f4c166c5.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Dominic Nahr / NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jqlqo2lq0",
+   "content": {
+    "text": "<strong>Maritime recreation:</strong> Kharkiv is only 30 kilometers from the front – many residents of the eastern Ukrainian metropolis therefore long for normalcy. They find some of it in the zoo or the dolphinarium. But even there, air raid sirens sound repeatedly. One woman says: «If we ran to the bunker every time, we would have no life left.» <a href=\"https://www.nzz.ch/ld.10015567\">To the reportage</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo6pr0",
+   "content": {
+    "text": "<strong>Historic election:</strong> A new state parliament will be elected in Saxony-Anhalt on Sunday. For the first time, an AfD politician, Ulrich Siegmund, has realistic chances of becoming state premier. We explain in five questions which decisions matter. <a href=\"https://www.nzz.ch/ld.10020924\">For background</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoabg0",
+   "content": {
+    "text": "<strong>Moscow's threat:</strong> According to historian Matthias Uhl, Russia is militarily dangerous – but nowhere near as strong as it is often portrayed in the West. In an interview, he explains why Europe must nevertheless prepare for a new geopolitical era. Uhl says: «I believe that Putin is increasingly detached from reality.» <a href=\"https://www.nzz.ch/ld.10020200\">To the «NZZ Pro» interview</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqodt40",
+   "content": {
+    "title": "Our Recommendation for «The Market» Subscribers"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoibo0",
+   "content": {
+    "text": "<strong>China will soon control half of global production:</strong> The country is pumping state resources into production capacities to dominate more and more industries. The «China Shock 2.0» has long since arrived in Europe – and is increasingly meeting resistance from Paris to Berlin. <a href=\"https://themarket.ch/makro-maerkte/china-beherrscht-bald-die-haelfte-der-weltproduktion-ld.17585\">To the report</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqours0",
+   "content": {
+    "title": "Before You Go On"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpnda0",
+   "content": {
+    "text": "🎧 <strong>Listen:</strong> Hundreds of thousands of veterans returned from the wars after Sept. 11, 2001. To this day, they struggle with the wounds they sustained in Afghanistan or Iraq. Over 40% of them suffer from depression, post-traumatic stress disorder, or addiction. U.S. correspondent Andreas Scheiner spoke with veterans. In «NZZ Akzent,» he explains how they are trying to put their lives back together. <a href=\"https://www.nzz.ch/ld.10021892\">To the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpro70",
+   "content": {
+    "text": "📖 <strong>Read:</strong> Around the year zero, the world begins to falter. The Roman Empire is under pressure, a slave woman rules among the Parthians, and a Messiah is born in Palestine. In his new book, Moritz Aisslinger outlines the panorama of a time in which Europe's foundations were laid. <a href=\"https://www.nzz.ch/ld.10021691\">To the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpvb00",
+   "content": {
+    "text": "Have a good day!"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqq3pj0",
+   "content": {
+    "text": "Klaus Bardenhagen, Ulrike Putz, Marcel Urech and Kathrin Klette"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654585"
+   }
+  },
+  "issueDate": "2026-09-02T00:00:00.000Z",
+  "title": "Morning briefing",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10021986",
+  "product": "NZZ.ch",
+  "documentId": 10021986,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T02:51:09.124Z",
+  "publicationDate": "2026-09-02T02:51:09.124Z",
+  "publicationLastUpdated": "2026-09-02T03:50:51.547Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T14:51:09.124Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021986",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021986",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487357,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021986",
+    "name": "Morning briefing",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Morning briefing",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T02:51:09.124Z",
+     "updateTimestamp": "2026-09-02T03:50:51.547Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021986",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Morning Briefing | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Morning briefing, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:50:51+02:00",
+  "date": "2026-09-02T06:51:09+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021986",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Morning briefing",
+  "ogTitle": "Morning Briefing | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021986",
+  "mrf:cms_id": "nzz:ld.10021986",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021986",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021986"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:38 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Morning briefing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021986"
+   },
+   "headline": "Morning Briefing | NZZ",
+   "datePublished": "2026-09-02T06:51:09+02:00",
+   "dateModified": "2026-09-02T07:50:51+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021986",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021986"
+   ],
+   "ContentCreated": "2026-09-02T02:51:09.124Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021986",
+   "heading": "Briefing am Morgen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

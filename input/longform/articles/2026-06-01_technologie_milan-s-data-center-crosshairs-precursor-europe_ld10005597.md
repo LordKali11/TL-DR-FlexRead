@@ -1,0 +1,117 @@
+# Milan's data center in the crosshairs: The precursor to Europe's looming water conflict
+
+*Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.*
+
+**Kalina Oroschakoff, Roland Shaw, Joana Kelen** · Technologie · 2026-06-01 · 1652 words · [ld.10005597](https://www.nzz.ch/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597)
+
+****Milan is synonymous with fashion and Aperol Spritz, with the Duomo and La Scala. But just a few kilometers outside the city center, a different world begins. There, warehouses, factories and industrial parks are lined up one after another, often right next to farmland. Steel and concrete dominate the landscape.
+
+Lombardy has been one of Europe's most important industrial regions for decades. But where machines were once manufactured, a new industrial landscape is emerging, built for data. Data centers are clustering together in Milan and its surrounding area, with consequences for the region and its people that are still unforeseeable.
+
+> [embed: q-tool (chart/map) 9ddb1fb6f0b57e162c0e68699baf2d31]
+
+However, tensions are already running high in the affected communities. Residents are worried about the local impacts – water consumption and heat stress, noise, air and environmental pollution.
+
+![A data center for Segrate: Micheli was mayor of the municipality near Milan until the end of May.](https://img-msp-prod.nzz.ch/2026/06/01/6594f7e3-5966-4558-a9a3-b248c15f4d12.png?crop=755,1544,x0,y0)
+*A data center for Segrate: Micheli was mayor of the municipality near Milan until the end of May.* (Sara Busiol / Paolo Michele)
+
+«The crucial point is that data centers are something new here. No one knows what the consequences will be if a data center is built here – not even the public administration,» says Paolo Micheli, a politician from the former governing party, the PD. He was mayor of Segrate, a municipality near Linate Airport, until the elections at the end of May. The American company Cyrus One is building its first AI data center in Italy there. Construction on the medium-sized facility began in mid-March on a former industrial site. The investment exceeds $200 million.
+
+Segrate is considered a flagship project for data center expansion in the Milan region. Micheli has often spoken with colleagues from other municipalities. Many of them have problems, he says. Residents are worried and are organizing themselves into protest and environmental initiatives. They fear that the construction projects will bring environmental problems but little economic benefit.
+
+Cyrus One presents itself as a company that lives up to its responsibility to the community. To that end, it is building a new park in Segrate. The land for it has already been purchased. The company is also financing road construction work. It will install solar panels on school roofs and source solar and wind energy to operate its data center.
+
+But Micheli has also chalked these plans up as a success for his community and as the result of tough negotiations by his city administration. The heat produced by the data center is to be used for heating the community. However, the necessary infrastructure still needs to be built. A data center typically operates for around 20 years. Micheli says the plan for utilizing the heat is correspondingly long-term.
+
+But not all residents are convinced. «The local residents are very worried about emissions from electricity consumption, noise and water,» he says. Micheli considers some of these concerns surprising, even unfounded.
+
+This is not always related to specific incidents but rather to developments in the U.S. For example, a video by U.S. Congresswoman Alexandria Ocasio-Cortez about potential harmful effects on water quality has reportedly attracted attention recently – and prompted questions for Micheli.
+
+Wherever data centers are built, residents worry about water consumption – and local politicians have to prepare for this. This also applies to Milan, which, thanks to its proximity to the Alps, is actually very well supplied with water. «A month ago, nobody was talking about water, but recently I received letters from residents wanting to know what water problems the data center might cause,» says Micheli.
+
+«A month ago, no one was talking about water, but recently I have received letters from residents wanting to know what water problems the data center might cause.»
+
+![](https://img-msp-prod.nzz.ch/2026/05/28/3282919c-b1b0-4fdb-b102-6e6d6cd95a78.png?crop=1891,695,x0,y0)
+**
+
+## Many questions, no answers
+
+Researchers and environmental activists in Milan are observing the construction boom with concern. But they currently cannot substantiate their suspicions with data.
+
+«We have no data,» says Cristiana Mattioli. She is a researcher at the Politecnico, the technical university in Milan.
+
+«The issue of water is of crucial importance, but is very difficult to monitor due to the lack of publicly available data.»
+
+> [embed: q-tool (chart/map) 9ddb1fb6f0b57e162c0e68699bbe4ed2]
+
+In the Milan region, heat and drought repeatedly push people, industry and infrastructure to their limits. Now, data centers are adding to the list of water consumers. «Milan is a region with abundant groundwater resources, but we already experienced water shortages two years ago following a dry winter,» says Eugenio Morello, who heads the research project at the Politecnico.
+
+> [embed: q-tool (chart/map) 63f87aaa668621f558a7e1a8d7837f58]
+
+Morello also observes that water is increasingly becoming a concern for the public. Tech companies are aware of this growing suspicion and have adapted their communication strategies accordingly.
+
+For years, water played a negligible role. Now, Microsoft, Google, Amazon, Oracle and many other data center operators regularly emphasize that they would use less water thanks to improved technology. As early as 2022, many of these companies announced new targets for 2040 as part of a voluntary EU initiative. At the time, the companies wrote that water scarcity would increase in many regions, making it «essential for the data center industry to take measures to reduce its water consumption.»
+
+This depends heavily on location, climate and cooling technology. Data centers get extremely hot, especially in the age of AI. This is because the chips required for AI heat up more than conventional processors. To cool them, operators use various technologies, which in turn affect water consumption.
+
+![](https://img-msp-prod.nzz.ch/2026/05/28/1e51c6d6-c6ef-412a-b536-490f68df7b27.png?crop=1891,695,x0,y0)
+**
+
+## Hot data centers need to be cooled
+
+In some data centers, cooling functions similarly to oversized air conditioning systems, requiring relatively little water but a great deal of electricity. Increasingly, however, operators are cooling their facilities through evaporation and water. Older facilities often used cooling towers for this purpose. The water was simply released into the environment as steam, which consumed a significant amount of water. Increasingly, however, so-called closed-loop systems are being used, which recycle the water in a closed circuit.
+
+> [embed: q-tool (chart/map) 63f87aaa668621f558a7e1a8d7f83033]
+
+Technology is constantly evolving. Today, cooling primarily aims to cool the heated surfaces of servers. Companies like Microsoft say these technical adjustments and innovations significantly reduce consumption.
+
+But this cannot be verified, according to Morello, who added that it is in the operators' interest «to present figures and gain public trust in the infrastructure.»
+
+It is a concern that is troubling large parts of Europe.
+
+Reports from the European Commission clearly show how poor the data is. Although operators are actually required under EU rules to disclose their water, emissions and energy footprints, the commission has received the necessary information for 2024 from only 36% of the facilities.
+
+![Devoid of people, but cooled and ventilated: a server room in a data center of Green Datacenter AG in the canton of Aargau in 2018.](https://img-msp-prod.nzz.ch/2026/05/31/4a59f119-daf6-44da-a9e6-f7df31610b50.png?crop=2316,1544,x0,y0)
+*Devoid of people, but cooled and ventilated: a server room in a data center of Green Datacenter AG in the canton of Aargau in 2018.* (Christian Beutler / Keystone)
+
+In Brussels, the EU Commission is now aiming to make the planned expansion of AI infrastructure as sustainable as possible. Officials there are currently working on an assessment system to evaluate the sustainability of data centers, including their water consumption. This is intended to prevent the industry's growth from becoming an environmental and sociopolitical disaster from the outset. After all, the AI industry's already significant water consumption is set to increase even further in the coming years.
+
+The more people use AI, the more computing power, electricity and cooling are needed. The International Energy Agency currently estimates the global water consumption of data centers at around 560 billion liters per year. By 2030, this could rise to around 1,200 billion liters per year. For comparison, the city of Zurich consumes about 42 billion liters of drinking water annually.
+
+For municipalities, however, these figures are far less relevant. For residents, the primary concern is how much a single facility consumes. In the U.S., a hyperscale data center – a massive 100-megawatt project – consumes an average of around 2 million liters of water per day, according to the IEA. That is equivalent to about 6,500 households.
+
+![](https://img-msp-prod.nzz.ch/2026/05/28/3a911a44-7bdc-4412-9cc2-70327b626659.png?crop=1891,695,x0,y0)
+**
+
+## Local problems need local solutions
+
+Agriculture and industry consume significantly more water than data centers, a fact the industry regularly points out. But AI facilities still pose a problem. The crucial factor is not the absolute water consumption of all data centers, but their local impact.
+
+The hottest days of the year are crucial for the local impact, says Shaolei Ren of the University of California, Riverside. Only then do many facilities require water for cooling. Especially in Europe, where it is cooler, data centers do not use water year-round.
+
+Then, however, data centers can increasingly compete with households, agriculture and industry for the same water resources. The European Environment Agency also warns of this.****
+
+In Spain, for example, Amazon has increased its water consumption expectations for a huge data center in the agricultural heartland of Aragon by almost 50%, according to media reports. The reason was said to be the increased need for water and cooling due to the heat.
+
+The American tech company is nevertheless planning additional investments of around €34 million in the region. In March, it announced its business plans, including investments to strengthen the local water infrastructure. This is primarily intended to secure the needs of the agricultural sector.
+
+![A look inside a Microsoft data center in Wisconsin.](https://img-msp-prod.nzz.ch/2026/05/31/598e160c-6586-446e-ad2c-06aaa8cb7e11.png?crop=2316,1544,x0,y0)
+*A look inside a Microsoft data center in Wisconsin.* (Audrey Richardson / Reuters)
+
+It remains unclear whether local water pipes can even withstand the additional strain from the data center boom. «This is less a question of sustainability than a question of infrastructure,» says American researcher Ren. The problem is that expanding water infrastructure takes many more years than building a data center.
+
+The dilemma is evident in the U.S. In a recently published study, Ren wrote that, as things stand today, the water demand of data centers could not be met. He noted that many of the communities lacked the additional water capacity to serve the massive facilities.
+
+In the U.S., water consumption is viewed with similar concern by Republicans and Democrats. It is one of the few political issues that increasingly unites politicians. In Washington, tax incentives for water reuse facilities are already being discussed. Such discussions will likely soon find their way into parliaments in Europe as well.
+
+«Even if water use efficiency improves dramatically, overall water demand is likely to continue to rise due to the rapid expansion of infrastructure,» says David Atienza Alonso of the EPFL in Lausanne. He added that the pressure on resources would increase accordingly in regions already suffering from water stress.
+
+Water is thus becoming an increasingly important location factor, with consequences for the affected regions and Brussels' expansion targets. One response will certainly be the introduction of new and stricter rules for water use. But even EU officials cannot regulate a physical reality out of existence. Water has long been a political issue for the AI industry. The conflict is likely to intensify further in the future.
+
+_**Contributions by:** Martin Berz (photo editor)**Sources:** Data Center Map, International Energy Agency, European Environment Agency, European Commission, Politecnico di Milano**Colorization:** NZZ_
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Numerous data centers are being built around Milan, potentially impacting water resources and the environment, but reliable data is lacking.
+- Local communities express concerns about water usage, noise, and heat emissions, while companies like Cyrus One announce sustainability measures.
+- The European Union and other organizations are developing frameworks to regulate water usage in the industry as consumption is expected to rise with increasing AI usage.

@@ -1,0 +1,1481 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k116crh21",
+   "content": {
+    "title": "The academic slump: They are more frequently unemployed than the average Swiss, often only temporarily employed – and in part-time roles at that",
+    "lead": "New figures from the Federal Statistical Office paint a bleak picture, especially for university graduates. Is a degree still worth it?",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k116crh22",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Sebastian Briellmann",
+       "url": "/impressum/sebastian-briellmann-ld.1861883",
+       "teaserImage": {
+        "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k116crh30",
+   "content": {
+    "image": {
+     "author": "Gaëtan Bally / Keystone",
+     "caption": "A university degree was long considered the royal road in Switzerland. That is no longer the case.",
+     "originalUrl": "/2026/08/27/ef3c905e-aadb-4c95-a52d-7ac7bec5f2a7.jpg?crop=5760,3840,x0,y0",
+     "width": 5760,
+     "height": 3840,
+     "altText": "Students attend a psychology lecture, photographed in a lecture hall at the main building of the University of Zurich in Zurich, Switzerland, on April 13, 2015. (KEYSTONE/Gaetan Bally)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2162095468"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5760,
+      "height": 3840,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5760,
+       "height": 3840,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A university degree was long considered the royal road in Switzerland. That is no longer the case.",
+    "author": "Gaëtan Bally / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k116crh31",
+   "content": {
+    "text": "Is a university degree in Switzerland still the royal road, as is always touted in compulsory schooling?"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-d8d2794a",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rf0",
+   "content": {
+    "text": "Between 2000 and 2020, the number of students doubled. And baccalaureate rates remained high thereafter – especially in urban cantons. In Geneva, for example, only 15% of young people began a vocational apprenticeship this year. Yet the figures have long shown: Those who study no longer receive – as was undoubtedly the case in the past – a life of luxury. Job security, good pay, high prestige."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rg1",
+   "content": {
+    "text": "Much is changing in the labor market. The unemployment rate for academics has risen to over 2% – and has already aligned with that of non-academics. And for those who have only recently completed their studies, the outlook is even less rosy. New figures from the Federal Statistical Office show this."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rh0",
+   "content": {
+    "text": "Between 2023 and 2025, the unemployment rate for university graduates one year after graduation rose significantly. For master's graduates at universities, it rose from 3.9% to 6.4% – and for bachelor's graduates, from 3.4% to 4.9%. These are higher values than for the general population, whose unemployment rate stands at 4.8%."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11lp75i0",
+   "content": {
+    "title": "Not just niche subjects affected",
+    "id": "subtitle-nicht-nur-nischenf-cher-betroffen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rh2",
+   "content": {
+    "text": "There are significant differences between fields of study. Those who study music, theater, and other arts at a university of applied sciences – or have specialized in design or applied linguistics – face difficulties. One in ten does not find a job afterward. At universities, it is primarily those from the subject group «interdisciplinary and other» who do not find a job (8.6%). This includes niche subjects such as Urban Studies. In the humanities and social sciences, the unemployment rate has generally risen from 5.1 to 8.5%."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rj0",
+   "content": {
+    "text": "In comparison, classic subjects continue to show the lowest unemployment rates: Those who pursue a master's in medicine or pharmacy at a university are almost guaranteed a job (1.6%). Bachelor's graduates from universities of applied sciences in the fields of health and social work are also in high demand. Only 1.7 and 1.5%, respectively, are without a job one year after graduation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rj2",
+   "content": {
+    "text": "However, the downturn in the labor market does not only affect niche subjects. The unemployment rate in economics at universities has more than doubled in just two years – from 3.5 to 8.5%. Even a bachelor's degree in IT from a university of applied sciences no longer guarantees a job: The unemployment rate rose from 3% to 6.4%."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rk1",
+   "content": {
+    "text": "In addition, almost half of university graduates are only temporarily employed one year after graduation. Naturally, medical professionals, who work in various hospitals for their specialist titles, contribute to this. However, this alone does not explain the high number. Almost half of humanities and social science graduates also have temporary contracts. One-third of university graduates even hold intern status. In comparison: For graduates of universities of applied sciences, practically none hold intern status. On the other hand, they have – compared to university graduates – enabled more people to attain leadership positions."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rk3",
+   "content": {
+    "text": "However, unemployment – or temporary jobs – is not the only reason that university academics are no longer «masters of the universe» and their living conditions are becoming increasingly precarious. Part-time work also plays a significant role: In the humanities and social sciences, it accounts for almost 60%, and in interdisciplinary fields of study, it is over half. These two groups also most frequently report being «underemployed» one year after graduation. In comparison: For graduates from other faculties, less than a quarter work part-time."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11lpu7h0",
+   "content": {
+    "title": "Graduates of universities of applied sciences earn more than university graduates",
+    "id": "subtitle-fachhochschulabsolventen-verdienen-mehr-als-uni-abg-nger"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rl1",
+   "content": {
+    "text": "Overall, almost half of university graduates state that they have no opportunity or offer for full-time employment. At universities of applied sciences, it is about one-third. However, in those cases, it is a personal decision. And only in certain areas. More than 70% of those who have studied music, theater, or social work work less than full-time. In construction and planning, IT, or economics, however, significantly fewer than 20% are not employed full-time. Across all higher education institutions, women are significantly overrepresented in part-time work."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rl3",
+   "content": {
+    "text": "This also affects salaries: The median salary of bachelor's graduates from universities of applied sciences is higher than that of master's graduates from universities. And only at universities are there graduates who earn less than 50,000 francs. Besides lawyers in legal traineeships, this again affects humanities and social science graduates."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ld9rm1",
+   "content": {
+    "text": "The cause of the academic misery is clear. Companies are currently hiring fewer entry-level employees. On the one hand, because they are reacting to economic and geopolitical crises. On the other hand, because they want to wait and see how AI will affect the labor market. In short: which jobs will even be needed in the near future. The economist Mathias Binswanger has long said: It will primarily affect academics who hold so-called bullshit jobs that constitute pure administrative self-employment."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11lpnnf1",
+   "content": {
+    "text": "In addition, the federal government and cantons must save money. The public sector, a paradise for many university graduates, offers fewer entry-level jobs than it used to. This is now becoming noticeable."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11lpkqs0",
+   "content": {
+    "text": "The land of milk and honey has also closed its doors in Switzerland."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k116crh32",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k116crh33",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k116crh36",
+      "content": {
+       "title": "Those without a university degree are considered second-class. This is not just an insult to the economy's key contributors; over-academization threatens Switzerland's prosperity",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "nzzId": "ld.10017513",
+       "readingTime": 420,
+       "paywallQuestionOne": "How does over-academization threaten Switzerland's dual education system?",
+       "paywallQuestionTwo": "Why do parents prefer grammar school despite their children's unsuitable qualifications?",
+       "paywallQuestionThree": "What are the consequences of the devaluation of vocational training for the shortage of skilled workers?",
+       "characterCount": 9365,
+       "teaserImage": {
+        "originalUrl": "/2026/08/03/b88f63d5-c404-4aa1-8013-dda4ae335ab2.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/03/b88f63d5-c404-4aa1-8013-dda4ae335ab2.jpg?width=1024&quality=75&auto=webp",
+        "width": 3437,
+        "height": 1934,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3437,1933,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2579,1934,x558,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1934,1934,x904,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1451,1934,x1080,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2901,1934,x437,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "An out-of-touch elite is weakening the dual education system, which is admired worldwide. Who will stop them?"
+       },
+       "flag": "Opinion",
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10017513,
+       "layout": "opinion",
+       "publicationDate": "2026-08-04T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-04T04:04:39.916Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-04T15:30:00.000Z",
+       "teaserCaption": "An out-of-touch elite is weakening the dual education system, which is admired worldwide. Who will stop them?",
+       "authorLine": "Sebastian Briellmann",
+       "authorImage": {
+        "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/meinung/wer-nicht-studiert-hat-gilt-als-zweitklassig-das-ist-nicht-nur-ein-hohn-fuer-die-wahren-leistungstraeger-die-ueberakademisierung-gefaehrdet-den-wohlstand-der-schweiz-ld.10017513",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 1361,
+       "leadText": "An out-of-touch elite is weakening the dual education system, which is admired worldwide. Who will stop them?",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k116crh35",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "“Locals work in administration. The real work is done by foreigners,” says economist Mathias Binswanger.",
+       "teaserImage": {
+        "originalUrl": "/2025/07/24/2b88b803-9a96-4be1-8f4c-c96b8f4cd1e6.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/24/2b88b803-9a96-4be1-8f4c-c96b8f4cd1e6.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5296,
+        "height": 3640,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5296,2979,x0,y565"
+         },
+         {
+          "name": "1:1",
+          "crop": "2020,2020,x1446,y1487"
+         },
+         {
+          "name": "4:3",
+          "crop": "4314,3236,x746,y338"
+         },
+         {
+          "name": "3:4",
+          "crop": "2730,3640,x667,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5296,3531,x0,y109"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In Switzerland, we pretend to be a meritocracy, while in reality we are becoming increasingly bureaucratic. Our education system is partly to blame for this.",
+        "teaserAuthor": "Martin Rütschi / Keystone"
+       },
+       "teaserAuthor": "Martin Rütschi / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1892618",
+       "readingTime": 600,
+       "authorLine": "Sebastian Briellmann",
+       "characterCount": 13419,
+       "product": "NZZ.ch",
+       "documentId": 1892618,
+       "layout": "longformstandard",
+       "publicationDate": "2025-08-16T03:30:00.000Z",
+       "publicationLastUpdated": "2025-08-16T07:09:42.694Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-08-16T15:30:00.000Z",
+       "teaserCaption": "In Switzerland, we pretend to be a meritocracy, while in reality we are becoming increasingly bureaucratic. Our education system is partly to blame for this.",
+       "authorImage": {
+        "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/einheimische-arbeiten-in-der-verwaltung-die-eigentliche-arbeit-wird-von-auslaendern-gemacht-sagt-der-oekonom-mathias-binswanger-ld.1892618",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 2027,
+       "leadText": "In Switzerland, we pretend to be a meritocracy, while in reality we are becoming increasingly bureaucratic. Our education system is partly to blame for this.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k116crh34",
+      "content": {
+       "owner": "NZZ",
+       "title": "More unemployed university graduates – academics are losing their advantage in the job market",
+       "teaserImage": {
+        "originalUrl": "/2024/09/19/930f2551-2c89-492d-a71e-fdf4ae14f6be.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/09/19/930f2551-2c89-492d-a71e-fdf4ae14f6be.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4500,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y316"
+         },
+         {
+          "name": "1:1",
+          "crop": "4500,4500,x325,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "6000,4500,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3375,4500,x1440,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y250"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Since 2010, the number of unemployed people with a university degree has increased by 70 percent. However, the job prospects for those completing vocational training have improved.",
+        "teaserAuthor": "Andrew Brookes / Imago"
+       },
+       "teaserAuthor": "Andrew Brookes / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1911664",
+       "readingTime": 240,
+       "authorLine": "Albert Steck",
+       "characterCount": 5030,
+       "product": "NZZ.ch",
+       "documentId": 1911664,
+       "layout": "regular",
+       "publicationDate": "2025-11-17T07:33:11.172Z",
+       "publicationLastUpdated": "2025-11-17T07:33:11.172Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-11-17T19:33:11.172Z",
+       "teaserCaption": "Since 2010, the number of unemployed people with a university degree has increased by 70 percent. However, the job prospects for those completing vocational training have improved.",
+       "authorImage": {
+        "originalUrl": "/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+        "width": 572,
+        "height": 643,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "572,572,x0,y36"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/mehr-arbeitslose-uni-abgaenger-akademiker-verlieren-ihren-vorzug-auf-dem-arbeitsmarkt-ld.1911664",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 734,
+       "leadText": "Since 2010, the number of unemployed people with a university degree has increased by 70 percent. However, the job prospects for those completing vocational training have improved.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/ef3c905e-aadb-4c95-a52d-7ac7bec5f2a7.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/ef3c905e-aadb-4c95-a52d-7ac7bec5f2a7.jpg?width=1024&quality=75&auto=webp",
+   "width": 5760,
+   "height": 3840,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5760,3240,x0,y600"
+    },
+    {
+     "name": "4:3",
+     "crop": "5120,3840,x200,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3840,3840,x105,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2880,3840,x435,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5760,3840,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "New figures from the Federal Statistical Office paint a bleak picture, especially for university graduates. Is a degree still worth it?",
+   "teaserAuthor": "Gaëtan Bally / Keystone"
+  },
+  "teaserAuthor": "Gaëtan Bally / Keystone",
+  "title": "The academic slump: They are more frequently unemployed than the average Swiss, often only temporarily employed – and in part-time roles at that",
+  "nzzId": "ld.10021278",
+  "readingTime": 240,
+  "characterCount": 5568,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021278,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T14:55:00.000Z",
+  "publicationDate": "2026-08-27T14:55:00.000Z",
+  "publicationLastUpdated": "2026-08-27T14:55:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T02:55:00.000Z",
+  "teaserCaption": "New figures from the Federal Statistical Office paint a bleak picture, especially for university graduates. Is a degree still worth it?",
+  "nzzAuthors": [
+   {
+    "id": 1858947,
+    "name": "Sebastian Briellmann",
+    "shortName": "sb",
+    "external": false
+   }
+  ],
+  "authorLine": "Sebastian Briellmann",
+  "authorImage": {
+   "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2752,2752,x688,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1861883,
+    "name": "Sebastian Briellmann",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 855,
+  "leadText": "New figures from the Federal Statistical Office paint a bleak picture, especially for university graduates. Is a degree still worth it?",
+  "nzzSummaryEN": "- The unemployment rate for university graduates has increased, especially one year after graduation, reaching up to 8.5% in certain fields.\n- Many graduates are in temporary positions or part-time jobs, leading to precarious living conditions.\n- Technical college graduates often earn more and have more stable career prospects compared to university leavers.",
+  "nzzSummaryDE": "- The unemployment rate among university graduates has increased, particularly one year after graduation, with rates as high as 8.5% in certain subjects.\n Many graduates are only employed on a temporary basis or work in part-time positions, which leads to precarious living conditions.\n Graduates of universities of applied sciences often earn more and have more stable career opportunities than university graduates.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The academic downfall",
+  "nzzPrintSubtitle": "New figures from the Federal Statistical Office show: They are more frequently unemployed than the average Swiss citizen, often only employed on a temporary basis – and even then only part-time",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278",
+   "title": "Academics in crisis: Unemployment and part-time work are on the rise",
+   "socialMediaTitle": "Academic downfall: University graduates more frequently unemployed and without job security",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/ef3c905e-aadb-4c95-a52d-7ac7bec5f2a7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y600&wmark=nzz"
+  },
+  "ldPublicationId": 2484743,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "unemployment",
+    "slug": "/themen/arbeitslosigkeit"
+   },
+   {
+    "name": "Part-time work",
+    "slug": "/themen/teilzeitarbeit"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10017513",
+    "ld.1892618",
+    "ld.1911664"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 367896,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "arbeitslosigkeit",
+   "name": "unemployment",
+   "tagName": "unemployment",
+   "qId": "Q41171",
+   "seoTitle": "Unemployment – ​​Current news and all articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 17:02:46.304Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/arbeitslosigkeit",
+   "size": 598,
+   "relatedTopics": [
+    {
+     "name": "Teilzeitarbeit",
+     "slug": "/themen/teilzeitarbeit"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Germany’s unemployment insurance faces billion-euro deficit: Government must act and wield red pen",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/10/2868818b-d41e-4932-aa39-fbc22e8e228c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/10/2868818b-d41e-4932-aa39-fbc22e8e228c.jpg?width=1024&quality=75&auto=webp",
+     "width": 8025,
+     "height": 5352,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8025,4514,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7136,5352,x889,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5352,5352,x2244,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4014,5352,x2913,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8025,5350,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4920,
+      "y": 1501
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The poor situation on the labor market is driving the Federal Employment Agency's budget into the red. Instead of increasing contribution rates and subsidies from the federal budget, the government should cut unemployment benefits for older workers.",
+     "teaserAuthor": "Sean Gallup / Getty"
+    },
+    "teaserAuthor": "Sean Gallup / Getty",
+    "flag": "The other view",
+    "editor": "1692009",
+    "showComments": true,
+    "nzzId": "ld.10018905",
+    "readingTime": 300,
+    "paywallQuestionOne": "How can the German unemployment insurance system cover its deficit of 8 billion euros?",
+    "paywallQuestionTwo": "What consequences would an increase in the contribution rate have for the economy and the labor market?",
+    "paywallQuestionThree": "Why is a reduction in unemployment benefits for older people being proposed as a solution?",
+    "characterCount": 6198,
+    "product": "NZZ.ch",
+    "documentId": "10018905",
+    "layout": "opinion",
+    "publicationDate": "2026-08-10T16:59:05.848Z",
+    "publicationLastUpdated": "2026-08-10T16:59:05.848Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-11T04:59:05.848Z",
+    "teaserCaption": "The poor situation on the labor market is driving the Federal Employment Agency's budget into the red. Instead of increasing contribution rates and subsidies from the federal budget, the government should cut unemployment benefits for older workers.",
+    "authorLine": "Malte Fischer",
+    "authorImage": {
+     "originalUrl": "/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/der-andere-blick/der-deutschen-arbeitslosenversicherung-droht-ein-milliarden-defizit-die-regierung-muss-handeln-und-den-rotstift-zuecken-ld.10018905",
+    "department": {
+     "name": "The other view",
+     "path": "/der-andere-blick"
+    },
+    "estimationWordCount": 953,
+    "leadText": "The poor situation on the labor market is driving the Federal Employment Agency's budget into the red. Instead of increasing contribution rates and subsidies from the federal budget, the government should cut unemployment benefits for older workers.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 30,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Anyone who uses unemployment as an argument against a higher retirement age is fooling themselves – and their children",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "teaserImage": {
+     "originalUrl": "/2022/09/29/decb9b23-b689-48c9-b0b2-2a4fa188ca73.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/09/29/decb9b23-b689-48c9-b0b2-2a4fa188ca73.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4487,
+     "height": 2991,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4487,2524,x0,y467"
+      },
+      {
+       "name": "4:3",
+       "crop": "3988,2991,x401,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2719,2719,x1161,y272"
+      },
+      {
+       "name": "3:4",
+       "crop": "2243,2991,x1317,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4487,2991,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2395,
+      "y": 2725
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Losing your job at 55 is tough. But for the vast majority, this risk is small. For a higher retirement age to have a political chance, however, employers must also cooperate.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "nzzId": "ld.10018260",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the fear of unemployment influence the debate about the retirement age?",
+    "paywallQuestionTwo": "Why are employers often hesitant to hire older unemployed people?",
+    "paywallQuestionThree": "What advantages would raising the retirement age have for society?",
+    "characterCount": 3760,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10018260",
+    "layout": "opinion",
+    "publicationDate": "2026-08-06T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-06T04:09:20.184Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-06T15:30:00.000Z",
+    "teaserCaption": "Losing your job at 55 is tough. But for the vast majority, this risk is small. For a higher retirement age to have a political chance, however, employers must also cooperate.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "authorImage": {
+     "originalUrl": "/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0",
+     "url": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "imageService": "fastly",
+     "crop": {
+      "name": "1:1",
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 800
+     },
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/wer-arbeitslosigkeit-als-argument-gegen-ein-hoeheres-rentenalter-anfuehrt-macht-sich-selbst-etwas-vor-und-seinen-kindern-ld.10018260",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 612,
+    "leadText": "Losing your job at 55 is tough. But for the vast majority, this risk is small. For a higher retirement age to have a political chance, however, employers must also cooperate.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 27,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Finland has Europe's highest unemployment rate, and the small town of Heinola illustrates what is going wrong",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/06/b6c6b48c-0879-49e8-a0ac-c0f950a1ad48.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/06/b6c6b48c-0879-49e8-a0ac-c0f950a1ad48.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y534"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x657,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y116"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Finns are said to be the happiest people in the world. Yet economic stagnation and unemployment have long since become the norm. On the trail of a paradox.",
+     "teaserAuthor": "Marcin Gadomski / EPA"
+    },
+    "teaserAuthor": "Marcin Gadomski / EPA",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/07/06/b6c6b48c-0879-49e8-a0ac-c0f950a1ad48.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/06/b6c6b48c-0879-49e8-a0ac-c0f950a1ad48.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y544"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x262,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x637,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y333"
+      }
+     ],
+     "focalPoint": {
+      "x": 1762,
+      "y": 1669
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/07/06/70120b8e-19ff-491b-b98d-a4a27bc26d67.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/06/70120b8e-19ff-491b-b98d-a4a27bc26d67.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x219,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x594,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1719,
+      "y": 511
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/07/06/a1760f7b-c6f0-4bae-afe1-c3d6be62e954.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/06/a1760f7b-c6f0-4bae-afe1-c3d6be62e954.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y343"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x788,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1163,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y135"
+      }
+     ],
+     "focalPoint": {
+      "x": 2288,
+      "y": 1468
+     },
+     "imageService": "fastly"
+    },
+    "tags": [
+     "Fotografie"
+    ],
+    "nzzId": "ld.10006889",
+    "readingTime": 600,
+    "paywallQuestionOne": "Why does Finland have the highest unemployment rate in the EU despite a high happiness index?",
+    "paywallQuestionTwo": "How does Finland's social policy influence the work motivation of the population?",
+    "paywallQuestionThree": "What role does economic policy play in Finland's ongoing recession?",
+    "characterCount": 12064,
+    "product": "NZZ.ch",
+    "documentId": "10006889",
+    "layout": "longformvisual",
+    "publicationDate": "2026-07-07T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-07T07:14:34.853Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-07T15:30:00.000Z",
+    "teaserCaption": "The Finns are said to be the happiest people in the world. Yet economic stagnation and unemployment have long since become the norm. On the trail of a paradox.",
+    "authorLine": "Linda Koponen (text), Mikko Suutarinen (images), Heinola",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/finnland-gluecklichstes-land-hoechste-arbeitsloslosigkeit-ld.10006889",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 2058,
+    "leadText": "The Finns are said to be the happiest people in the world. Yet economic stagnation and unemployment have long since become the norm. On the trail of a paradox.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Criminal negligence: China's government is not doing enough to create new jobs",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "teaserImage": {
+     "originalUrl": "/2026/06/23/55c8c714-d199-46e5-8232-48a31d8e7e54.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/23/55c8c714-d199-46e5-8232-48a31d8e7e54.jpg?width=1024&quality=75&auto=webp",
+     "width": 7410,
+     "height": 4666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6736,3789,x0,y418"
+      },
+      {
+       "name": "4:3",
+       "crop": "4249,3187,x1646,y544"
+      },
+      {
+       "name": "1:1",
+       "crop": "2177,2177,x2880,y1304"
+      },
+      {
+       "name": "3:4",
+       "crop": "2893,3856,x2878,y556"
+      },
+      {
+       "name": "3:2",
+       "crop": "6999,4666,x206,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Because Chinese consumers are striking, wages and the number of job openings are falling. As a result, citizens are tightening their belts even further. The Middle Kingdom is trapped in a self-inflicted vicious cycle.",
+     "teaserAuthor": "Alex Plaveski / EPA"
+    },
+    "teaserAuthor": "Alex Plaveski / EPA",
+    "nzzId": "ld.10012398",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the Chinese government contribute to the economic vicious cycle?",
+    "paywallQuestionTwo": "Why is Beijing hesitant to strengthen domestic demand?",
+    "paywallQuestionThree": "What role does the AI ​​boom play in China's labor market?",
+    "characterCount": 4837,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10012398",
+    "layout": "opinion",
+    "publicationDate": "2026-06-24T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-24T04:15:18.787Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-24T15:30:00.000Z",
+    "teaserCaption": "Because Chinese consumers are striking, wages and the number of job openings are falling. As a result, citizens are tightening their belts even further. The Middle Kingdom is trapped in a self-inflicted vicious cycle.",
+    "authorLine": "Matthias Kamp",
+    "authorImage": {
+     "originalUrl": "/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/straefliche-nachlaessigkeit-chinas-regierung-tut-nicht-genug-um-neue-arbeitsplaetze-zu-schaffen-ld.10012398",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 686,
+    "leadText": "Because Chinese consumers are striking, wages and the number of job openings are falling. As a result, citizens are tightening their belts even further. The Middle Kingdom is trapped in a self-inflicted vicious cycle.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Federal Employment Agency's financial hardship worsens: Deficit of more than 5 billion euros expected",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/01/766ab25f-1549-45d1-bcac-6799ef1196c5.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/01/766ab25f-1549-45d1-bcac-6799ef1196c5.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4334,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y339"
+      },
+      {
+       "name": "4:3",
+       "crop": "5779,4334,x361,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4334,4334,x1083,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4334,x1625,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising unemployment is driving up the expenses of the Nuremberg authority. If the contribution rate to unemployment insurance is not to increase, Finance Minister Christian Lindner must transfer federal funds.",
+     "teaserAuthor": "Sandra Alkado / Imago"
+    },
+    "teaserAuthor": "Sandra Alkado / Imago",
+    "nzzId": "ld.10009300",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the Federal Employment Agency intend to cover the deficit of 5 billion euros?",
+    "paywallQuestionTwo": "What reforms could lower social security contributions in Germany in the long term?",
+    "paywallQuestionThree": "What consequences would a reduction in employment promotion have for the labor market?",
+    "characterCount": 4230,
+    "product": "NZZ.ch",
+    "documentId": "10009300",
+    "layout": "regular",
+    "publicationDate": "2026-06-01T13:28:51.390Z",
+    "publicationLastUpdated": "2026-06-01T13:51:07.335Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-02T01:28:51.390Z",
+    "teaserCaption": "Rising unemployment is driving up the expenses of the Nuremberg authority. If the contribution rate to unemployment insurance is not to increase, Finance Minister Christian Lindner must transfer federal funds.",
+    "authorLine": "Susann Kreutzmann, Berlin",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/11/10/b0608516-99ec-46f7-a2b0-281a53332343.jpg?crop=1200,1200,x200,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/deutschland/finanznot-der-bundesagentur-fuer-arbeit-wird-groesser-defizit-von-mehr-als-fuenf-milliarden-euro-erwartet-ld.10009300",
+    "department": {
+     "name": "Homepage (Germany)",
+     "path": "/deutschland"
+    },
+    "estimationWordCount": 628,
+    "leadText": "Rising unemployment is driving up the expenses of the Nuremberg authority. If the contribution rate to unemployment insurance is not to increase, Finance Minister Christian Lindner must transfer federal funds.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Will the Swiss soon pay more for unemployed cross-border workers? That could be the consequence of an EU reform",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Europa",
+     "Europapolitik",
+     "Schweiz und die EU"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2024/07/24/bc97999b-aa62-4c50-bca9-291a0dc6137c.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/07/24/bc97999b-aa62-4c50-bca9-291a0dc6137c.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5212,
+     "height": 3468,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5212,2932,x0,y268"
+      },
+      {
+       "name": "4:3",
+       "crop": "4624,3468,x294,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3468,3468,x872,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2601,3468,x1306,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5202,3468,x5,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Switzerland has more cross-border workers than anywhere else in Europe. If they become unemployed, the social security providers in their country of residence are primarily responsible for them. This is set to change.",
+     "teaserAuthor": "Keystone"
+    },
+    "teaserAuthor": "Keystone",
+    "nzzId": "ld.10004212",
+    "readingTime": 180,
+    "paywallQuestionOne": "How will the EU reform affect the costs of Swiss unemployment insurance?",
+    "paywallQuestionTwo": "Why should the principle of the country of work replace the principle of the country of residence?",
+    "paywallQuestionThree": "What consequences would the reform have for Switzerland and Luxembourg?",
+    "characterCount": 3517,
+    "product": "NZZ.ch",
+    "documentId": "10004212",
+    "layout": "regular",
+    "publicationDate": "2026-04-23T16:09:43.103Z",
+    "publicationLastUpdated": "2026-04-24T08:14:37.209Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-04-24T04:09:43.103Z",
+    "teaserCaption": "Switzerland has more cross-border workers than anywhere else in Europe. If they become unemployed, the social security providers in their country of residence are primarily responsible for them. This is set to change.",
+    "authorLine": "Daniel Imwinkelried, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/bezahlen-die-schweizer-bald-mehr-fuer-arbeitslose-grenzgaenger-das-koennte-die-folge-einer-eu-reform-sein-ld.10004212",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 558,
+    "leadText": "Switzerland has more cross-border workers than anywhere else in Europe. If they become unemployed, the social security providers in their country of residence are primarily responsible for them. This is set to change.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021278",
+    "name": "The academic slump: They are more frequently unemployed than the average Swiss, often only temporarily employed – and in part-time roles at that",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The academic slump: They are more frequently unemployed than the average Swiss, often only temporarily employed – and in part-time roles at that",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1858947,
+       "name": "Sebastian Briellmann",
+       "shortName": "sb",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T14:55:00.000Z",
+     "updateTimestamp": "2026-08-27T14:55:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021278",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Academics in crisis: Unemployment and part-time work are on the rise",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/ef3c905e-aadb-4c95-a52d-7ac7bec5f2a7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y600&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Sebastian Briellmann",
+  "description": "New figures from the Federal Statistical Office paint a bleak picture, especially for university graduates. Is a degree still worth it?",
+  "news_keywords": "The academic downfall: They are more frequently unemployed than the average Swiss citizen, often only employed on a temporary basis – and even then only part-time, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T18:55:00+02:00",
+  "date": "2026-08-27T18:55:00+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The academic slump: They are more frequently unemployed than the average Swiss, often only temporarily employed – and in part-time roles at that",
+  "ogTitle": "Academic downfall: University graduates more frequently unemployed and without job security",
+  "ogUrl": "https://www.nzz.ch/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278",
+  "mrf:cms_id": "nzz:ld.10021278",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021278",
+  "nzzAuthors": [
+   {
+    "id": 1858947,
+    "name": "Sebastian Briellmann",
+    "shortName": "sb",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:00 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Academics in crisis: Unemployment and part-time work are on the rise"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278"
+   },
+   "headline": "Academics in crisis: Unemployment and part-time work are on the rise",
+   "datePublished": "2026-08-27T18:55:00+02:00",
+   "dateModified": "2026-08-27T18:55:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "New figures from the Federal Statistical Office paint a bleak picture, especially for university graduates. Is a degree still worth it?",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/ef3c905e-aadb-4c95-a52d-7ac7bec5f2a7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y600&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Sebastian Briellmann"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 367896,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/der-akademiker-absturz-sie-sind-haeufiger-erwerbslos-als-der-durchschnittsschweizer-oft-nur-befristet-angestellt-und-das-auch-noch-in-teilzeit-ld.10021278",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021278",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-27T14:55:00.000Z",
+   "ContentAuthor": "Sebastian Briellmann",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum sind Universitätsabsolventen häufiger erwerbslos als der Durchschnitt?\nWie beeinflussen Fachrichtungen die Jobchancen von Hochschulabsolventen?\nWelche Rolle spielt Teilzeitarbeit bei der prekären Lage von Akademikern?",
+   "ldId": "ld.10021278",
+   "channel": "Schweiz",
+   "heading": "Der Akademiker-Absturz: Sie sind häufiger erwerbslos als der Durchschnittsschweizer, oft nur befristet angestellt – und das auch noch in Teilzeit",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

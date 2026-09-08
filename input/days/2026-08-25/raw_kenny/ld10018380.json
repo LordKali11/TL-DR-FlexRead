@@ -1,0 +1,1269 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jv98hjrl0",
+   "content": {
+    "title": "«People thought we were rich, and I let them believe it»: The Paléo founder and longtime city president of Nyon on his recipe for success",
+    "lead": "Daniel Rossellat left politics after 18 years. Nevertheless, he is brimming with ideas: thanks to him, Switzerland will soon have its first Capital of Culture.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jv98hjrl1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Matthias Sander, Nyon",
+       "url": "/impressum/matthias-sander-ld.1287966",
+       "teaserImage": {}
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jv98hjrl2",
+   "content": {
+    "image": {
+     "author": "Salvatore Di Nolfi / Keystone",
+     "caption": "In French-speaking Switzerland he is a household name, but not in German-speaking Switzerland: Daniel Rossellat wants to bridge the cultural divide between French- and German-speaking Switzerland.",
+     "originalUrl": "/2026/08/05/b4e435aa-4235-4b39-aff0-20dc1604903f.jpg?crop=5454,3636,x0,y0",
+     "width": 5454,
+     "height": 3636,
+     "altText": "Daniel Rossellat, President and Director of the Paleo Festival Nyon, smiles one day before opening of the 46th edition of the Paleo Festival, in Nyon, Switzerland, Monday, July 17, 2023. The Paleo is an open-air music festival in the western part of Switzerland with about 250,000 spectators in six days and will take place from 18th to 23rd July. (KEYSTONE/Salvatore Di Nolfi)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179915325"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5454,
+      "height": 3636,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5454,
+       "height": 3636,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In French-speaking Switzerland he is a household name, but not in German-speaking Switzerland: Daniel Rossellat wants to bridge the cultural divide between French- and German-speaking Switzerland.",
+    "author": "Salvatore Di Nolfi / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv98hjrl3",
+   "content": {
+    "text": "<strong>Every village in Switzerland now seems to have its own summer festival. Are there too many festivals in the country?</strong>"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-b0e148ef",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pf5m610",
+   "content": {
+    "text": "We probably do hold the world record per square kilometer. With the Paléo Festival, we were lucky to be among the first when we started in 1976. Back then, there was practically only Montreux in the music scene."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pf5m6a0",
+   "content": {
+    "text": "<strong>Do you see an oversupply in certain music genres?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pf5m6e0",
+   "content": {
+    "text": "As long as the audience embraces the wide selection, it is not an oversupply. It's great that people don't have to travel far for culture."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pf5m6i0",
+   "content": {
+    "text": "<strong>Are the many festivals an expression of a wealthy leisure society?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pf5m6l0",
+   "content": {
+    "text": "In every country, there is a need for leisure, community and celebration. The difference lies in how much people spend on it. In Brazil, for example, many festivals cost almost nothing. People bring a liter of cachaça and something to eat, and they share it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pf9leo0",
+   "content": {
+    "text": "<strong>What makes a successful festival?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pf9lqq0",
+   "content": {
+    "text": "You have to respect your audience, and always ask yourself: Would I be satisfied with this performance? Is the ticket price fair and appropriate for what is being offered?"
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfdke70",
+   "content": {
+    "text": "<strong>Paléo is celebrating its 50th anniversary next year and has been named the best European festival of its size. How did you manage that?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfkboe0",
+   "content": {
+    "text": "The secret to success also lies in the fact that I have no musical talent whatsoever. So my partners and I invited our favorite bands to Nyon and hoped that enough other people would like them too. We deliberately did this in Nyon, which lies between Lausanne and Geneva, to strengthen regional identity. We also hoped to invent our own profession as festival organizers, which didn't exist at the time."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfkcfe0",
+   "content": {
+    "text": "<strong>How did you get through the leaner years?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfkcfh0",
+   "content": {
+    "text": "We never showed weakness. Not even when we had money problems. People thought we were rich, and I let them believe it. People trust those who seem rich."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfac6f1",
+   "content": {
+    "text": "<strong>You were the city president of Nyon until the summer. Why did you enter politics in the first place?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu08d0",
+   "content": {
+    "text": "When the city president at the time had to resign over a scandal in 2007, people said to me: «We need someone like you. You don't belong to any party, and you're an entrepreneur.» I asked 15 or 20 people for advice."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cnu08i0",
+   "content": {
+    "text": "<strong>What did those people say?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu08m0",
+   "content": {
+    "text": "A former city president of Geneva answered with words to the effect of: «Politics isn't particularly complicated: you have to be in the right place at the right time. And often, the one who is the least bad wins.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1k0pp9nrd0",
+   "content": {
+    "text": "«I said to myself: I'd rather be first in the small city of Nyon than fourth or fifth in Lausanne.»"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu08q0",
+   "content": {
+    "text": "<strong>And you were.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu08t0",
+   "content": {
+    "text": "Some people had advised me to run for the city government, but under no circumstances to say that I wanted to become president. But I didn't want to lie. I wanted to take the lead."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0900",
+   "content": {
+    "text": "<strong>Playing second fiddle is not for you?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0920",
+   "content": {
+    "text": "In 2011, I would have had a very good chance of getting a seat in the Vaud cantonal government. But I said to myself: I'd rather be first in the small city of Nyon than fourth or fifth in Lausanne."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0930",
+   "content": {
+    "text": "<strong>Nyon grew a lot during your time in office.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0950",
+   "content": {
+    "text": "The city's demographic and economic development was an important issue. That's why I called my list «Développement raisonnable» (sensible development). DR also happens to be my initials."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cnu0980",
+   "content": {
+    "text": "<strong>You governed with the Social Democrats and the Greens. Critics accused you of wanting «décroissance» (degrowth).</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu09b0",
+   "content": {
+    "text": "I didn't want the economy to shrink, but to have controlled growth. That wasn't easy, because many building permits and district plans had already been drawn up."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu09d0",
+   "content": {
+    "text": "<strong>What can a city president do about uncontrolled growth anyway?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu09g0",
+   "content": {
+    "text": "You can slow down the development of areas that still require a district plan. If planning is the city's responsibility, you can control the timeline to some extent. Of course, you can't stop owners from using their building rights. But you can ask them to be patient."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu09j0",
+   "content": {
+    "text": "<strong>And you got away with that?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu09m0",
+   "content": {
+    "text": "Yes. I told some project developers: «Your project means 1,000 new inhabitants, which means about 120 schoolchildren. That corresponds to six school classes. We don't have those rooms. You'll have to wait until we've built schools.»"
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jv99i4mr1",
+   "content": {
+    "image": {
+     "author": "Valentin Flauraud / Keystone",
+     "caption": "His life's work: Daniel Rossellat founded the Paléo Festival with friends, which, with a quarter of a million spectators annually, has become the largest festival in Switzerland.",
+     "originalUrl": "/2026/08/05/d278de7a-f641-4d71-953e-e493fb66fb1b.jpg?crop=7769,5182,x0,y0",
+     "width": 7769,
+     "height": 5182,
+     "altText": "Daniel Rossellat, President of the Paleo Festival, walks with the media for a visit prior to the 47th edition of the Paleo Festival after a press conference, in Nyon, Switzerland, Monday, July 22, 2024. The Paleo is an open-air music festival attended by approximately 250,000 spectators over six days and will take place from 23rd to 28 July.(KEYSTONE/Valentin Flauraud)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179915326"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7769,
+      "height": 5182,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7769,
+       "height": 5182,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "His life's work: Daniel Rossellat founded the Paléo Festival with friends, which, with a quarter of a million spectators annually, has become the largest festival in Switzerland.",
+    "author": "Valentin Flauraud / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu09p0",
+   "content": {
+    "text": "<strong>Nyon invested a lot during your term, but also accumulated a high level of debt. Was that really necessary?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu09s0",
+   "content": {
+    "text": "We had to support the population growth. We wanted to raise taxes to finance the investments, but that was clearly rejected by the voters in 2019. After that, the consensus at citizen forums was that services must not be cut and investment was necessary, but taxes must not go up. So only one solution remained: debt."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu09v0",
+   "content": {
+    "text": "<strong>Since 2008, Nyon's debt has more than doubled, to around 370 million francs today.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0a10",
+   "content": {
+    "text": "At the same time, we continued to self-finance about half of our investments. For a private company, that would be remarkable. To stick with the comparison: I prefer a mortgage-laden factory in perfect condition to a debt-free but outdated production facility. An entrepreneur must not be afraid of debt – provided he has invested the money wisely."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0ab0",
+   "content": {
+    "text": "<strong>What did you learn in politics?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0ad0",
+   "content": {
+    "text": "When you suffer a defeat, there's no point in simply saying that everyone else is evil. You have to analyze: Why did we fail? Should we try again with a slightly modified project? Or were we on the wrong track? In general, you must not be afraid of failure. Those who are less afraid take more risks. And those who take risks often win."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0ak0",
+   "content": {
+    "text": "<strong>The Vaud cantonal government is in crisis because of the Valérie Dittli affair. You experienced something similar in Nyon. What lessons have you learned from it?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0al0",
+   "content": {
+    "text": "Our institutions are not prepared for such situations. When a member of a cantonal or municipal executive has – to put it cautiously – massive difficulties working with their colleagues, we lack the appropriate tools. If the problem becomes an endless story, including in the media, the authorities can hardly react."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0an0",
+   "content": {
+    "text": "<strong>Why?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0ao0",
+   "content": {
+    "text": "A government is bound by official secrecy. It cannot defend itself against the communications of an individual who does not abide by institutional rules. In Nyon, during the conflict with our colleague, I knew everything and was not allowed to say anything. Others knew nothing and claimed everything."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0aq0",
+   "content": {
+    "text": "<strong>In both Nyon and now in the Dittli case, the prosecutor's office is (or was) investigating.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0as0",
+   "content": {
+    "text": "That makes it even more difficult. Because as an office holder, you cannot win on all levels at once. Anyone who acts in an institutionally and legally proper manner will almost inevitably lose the communications battle. On the other hand, anyone who wants to win the communications battle at all costs risks making legal or political mistakes."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1k0ppftng0",
+   "content": {
+    "text": "«Switzerland needs events that promote federal dialogue. We need a better knowledge of the other parts of the country.»"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0av0",
+   "content": {
+    "text": "<strong>After 18 years as city president, you recently stepped down. When is the right time to stop?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnu0b10",
+   "content": {
+    "text": "You should leave the table while you're still a little hungry. Otherwise, you risk an upset stomach. I was still very motivated and could have easily continued. But at some point, stepping down is also a matter of wisdom. A city president naturally becomes more unpopular over time: he signs the unpleasant letters and has to defend controversial decisions."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0cnu0b60",
+   "content": {
+    "text": "You're still brimming with ideas. You launched the Swiss Capital of Culture concept, based on the EU equivalent. The first location will be La Chaux-de-Fonds starting in January. <strong>Does the country really need more cultural events?</strong>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0cnvp9t0",
+   "content": {
+    "text": "Switzerland needs events that promote federal dialogue. We need a better knowledge of the other parts of the country. There are hardly any artists who are known in all regions of Switzerland. Stephan Eicher, Emil or Mummenschanz are the exceptions."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfpigv0",
+   "content": {
+    "text": "<strong>Many German-speaking Swiss also come to Paléo.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfpih20",
+   "content": {
+    "text": "In Switzerland, the hits from the Anglo-Saxon world unite us, in music and also in books. But there is no common cultural project for Switzerland."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfpih50",
+   "content": {
+    "text": "<strong>What do you want to do about it specifically?</strong>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfpih80",
+   "content": {
+    "text": "We don't live in a country where you suddenly get 500 million francs and put something crazy together. Switzerland moves forward slowly, but at least it rarely takes steps backward. So I proceed as I learned with Paléo: start small, improve, and only then grow."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfr4b10",
+   "content": {
+    "text": "<strong>You were the event director of Expo 02. The program in La Chaux-de-Fonds will last a year. Will it be more like a very long Paléo or a small national exhibition?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfraat1",
+   "content": {
+    "text": "Neither. There will be events at different locations, for example on the airport tarmac. Many forms of culture will be represented; music is only a small part of it. The organizers will present the specific program in September. Unlike a national exhibition, La Chaux-de-Fonds is relying primarily on existing buildings like the former slaughterhouse. Our concept is to highlight the heritage and potential of a city. We tell the cities: «Make yourselves beautiful, you're going to have guests.»"
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfpihh0",
+   "content": {
+    "text": "<strong>Why did you and your association choose La Chaux-de-Fonds as the first Capital of Culture?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfpihk0",
+   "content": {
+    "text": "La Chaux-de-Fonds seemed particularly suitable as a prototype. The city has just under 40,000 inhabitants, lost population and industrial jobs for a time, and deserves to be better known. Its image is significantly worse than the reality. A Capital of Culture offers an almost unique opportunity to strengthen a city's image, consolidate its identity and increase its visibility."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pfpihn0",
+   "content": {
+    "text": "One could say something similar about Aarau, which your association recently chose as the Capital of Culture for 2030 after a call for proposals."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pfpihu0",
+   "content": {
+    "text": "Yes. For many, Aarau is just a city on the highway that you drive past. Thun, which was a competitor, is considered by some to be a gray military town. Yet both cities are beautiful and exciting."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pkr6c60",
+   "content": {
+    "text": "<strong>How did you manage to convince the federal government of your idea?</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pkrgc30",
+   "content": {
+    "text": "When I met the culture minister at the time, Alain Berset, in 2013, he said he had no legal basis to support our project. This was then created in a first cultural policy dispatch, and in a second dispatch we received a subsidy for the Capital of Culture."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k0pkrur30",
+   "content": {
+    "text": "<strong>A decade of work for 2 million francs from the federal government...</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k0pkrure0",
+   "content": {
+    "text": "Symbolically, this amount was very important. But of course it is not enough."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jv98hjrl4",
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "personbox"
+  },
+  {
+   "identifier": "personbox",
+   "id": "doc-1k0pm9m6h0",
+   "content": {
+    "name": "A jack-of-all-trades from the provinces",
+    "role": "Daniel Rossellat, cultural entrepreneur",
+    "bio": "As a teenager in the 1970s, Daniel Rossellat began organizing concerts in Nyon. This led to the creation of the Paléo Festival, whose organizing committee he will continue to lead until its 50th edition next year. Rossellat has also left his mark on his hometown as mayor and chairman of several foundations. He also served as event director for the 2002 Swiss National Exhibition, the spirit of which inspires his new concept for the Swiss Capital of Culture. Even at 73, Rossellat still plays tennis and enjoys spending time in Quebec."
+   },
+   "containers": {
+    "image": []
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jv98hjrl5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jv98hjrl6",
+      "content": {
+       "title": "The canceled duck returns: The Paléo Festival argues over a sandwich",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Eva Hirschi",
+       "teaserImage": {
+        "originalUrl": "/2026/07/21/552c5b52-fb7f-4e3f-84fd-9e5770e277a8.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/21/552c5b52-fb7f-4e3f-84fd-9e5770e277a8.jpg?width=1024&quality=75&auto=webp",
+        "width": 5475,
+        "height": 3650,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5475,3080,x0,y301"
+         },
+         {
+          "name": "4:3",
+          "crop": "4867,3650,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1407,1407,x3222,y270"
+         },
+         {
+          "name": "3:4",
+          "crop": "2738,3650,x191,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5475,3650,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The festival in Nyon is reintroducing its famous duck breast sandwiches after fierce protests. But the return of the classic is causing new controversy.",
+        "teaserAuthor": "Salvatore Di Nolfi / Keystone"
+       },
+       "teaserAuthor": "Salvatore Di Nolfi / Keystone",
+       "nzzId": "ld.10016463",
+       "readingTime": 240,
+       "paywallQuestionOne": "Why was the duck breast sandwich originally removed from the festival?",
+       "paywallQuestionTwo": "How is the public reacting to the return of the duck breast sandwich?",
+       "paywallQuestionThree": "What criticisms of sustainability are voiced at the Paléo Festival?",
+       "characterCount": 4692,
+       "product": "NZZ.ch",
+       "documentId": 10016463,
+       "layout": "regular",
+       "publicationDate": "2026-07-23T03:30:00.000Z",
+       "publicationLastUpdated": "2026-07-23T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-23T15:30:00.000Z",
+       "teaserCaption": "The festival in Nyon is reintroducing its famous duck breast sandwiches after fierce protests. But the return of the classic is causing new controversy.",
+       "url": "/schweiz/die-gecancelte-ente-kehrt-zurueck-das-paleo-festival-streitet-ueber-ein-sandwich-ld.10016463",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 729,
+       "leadText": "The festival in Nyon is reintroducing its famous duck breast sandwiches after fierce protests. But the return of the classic is causing new controversy.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jv98hjrl7",
+      "content": {
+       "title": "One sinks into melancholy, the other leads an army of monkeys: The singers from The Cure and Gorillaz each left their own mark on the Paléo Festival",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Adrian Schräder",
+       "teaserImage": {
+        "originalUrl": "/2026/07/23/8d78b0b3-be99-490e-84bb-560c68feeb45.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/23/8d78b0b3-be99-490e-84bb-560c68feeb45.jpg?width=1024&quality=75&auto=webp",
+        "width": 6178,
+        "height": 4119,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6178,3475,x0,y145"
+         },
+         {
+          "name": "4:3",
+          "crop": "5492,4119,x686,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4119,4119,x2059,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3089,4119,x2551,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6178,4119,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Robert Smith and Damon Albarn, with their respective world-renowned bands, will present two completely different concert evenings. The two Brits already have the audience in Nyon firmly on their side.",
+        "teaserAuthor": "Jean-Christophe Bott / Keystone"
+       },
+       "teaserAuthor": "Jean-Christophe Bott / Keystone",
+       "nzzId": "ld.10016717",
+       "readingTime": 360,
+       "paywallQuestionOne": "How does Robert Smith shape the concert experience of The Cure?",
+       "paywallQuestionTwo": "What makes Gorillaz a unique visual and musical project?",
+       "paywallQuestionThree": "Why do both bands avoid collective singing ecstasies during their performances?",
+       "characterCount": 6863,
+       "product": "NZZ.ch",
+       "documentId": 10016717,
+       "layout": "regular",
+       "publicationDate": "2026-07-24T11:00:00.000Z",
+       "publicationLastUpdated": "2026-07-26T10:26:13.846Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-24T23:00:00.000Z",
+       "teaserCaption": "Robert Smith and Damon Albarn, with their respective world-renowned bands, will present two completely different concert evenings. The two Brits already have the audience in Nyon firmly on their side.",
+       "url": "/feuilleton/musik/der-eine-versinkt-in-schwermut-der-andere-fuehrt-eine-affenarmee-an-die-saenger-von-the-cure-und-gorillaz-praegten-das-paleo-festival-auf-ihre-je-eigene-weise-ld.10016717",
+       "department": {
+        "name": "Music",
+        "path": "/feuilleton/musik"
+       },
+       "estimationWordCount": 1133,
+       "leadText": "Robert Smith and Damon Albarn, with their respective world-renowned bands, will present two completely different concert evenings. The two Brits already have the audience in Nyon firmly on their side.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "personbox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": false,
+  "title": "«People thought we were rich, and I let them believe it»: The Paléo founder and longtime city president of Nyon on his recipe for success",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/05/b4e435aa-4235-4b39-aff0-20dc1604903f.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/05/b4e435aa-4235-4b39-aff0-20dc1604903f.jpg?width=1024&quality=75&auto=webp",
+   "width": 5454,
+   "height": 3636,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4507,2536,x947,y528"
+    },
+    {
+     "name": "4:3",
+     "crop": "3643,2732,x1811,y480"
+    },
+    {
+     "name": "1:1",
+     "crop": "2258,2258,x2602,y519"
+    },
+    {
+     "name": "3:4",
+     "crop": "2479,3305,x2531,y331"
+    },
+    {
+     "name": "3:2",
+     "crop": "5454,3636,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Daniel Rossellat is leaving politics after eighteen years. Nevertheless, he continues to be brimming with ideas: thanks to him, Switzerland will soon have its first-ever European Capital of Culture.",
+   "teaserAuthor": "Salvatore Di Nolfi / Keystone"
+  },
+  "teaserAuthor": "Salvatore Di Nolfi / Keystone",
+  "nzzId": "ld.10018380",
+  "readingTime": 540,
+  "characterCount": 10850,
+  "flag": "interview",
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10018380,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T03:29:00.000Z",
+  "publicationDate": "2026-08-25T03:29:00.000Z",
+  "publicationLastUpdated": "2026-08-25T05:55:35.961Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:29:00.000Z",
+  "teaserCaption": "Daniel Rossellat is leaving politics after eighteen years. Nevertheless, he continues to be brimming with ideas: thanks to him, Switzerland will soon have its first-ever European Capital of Culture.",
+  "nzzAuthors": [
+   {
+    "id": 1373242,
+    "name": "Matthias Sander",
+    "shortName": "msa",
+    "pianoId": "60d89c7f-bfe5-47cc-81b9-68940bd045a0",
+    "external": false
+   }
+  ],
+  "authorLine": "Matthias Sander, Nyon",
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1287966,
+    "name": "Matthias Sander, Nyon",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2026/03/10/6e2eaac9-0e34-47f5-9fbc-10d3256cf742.jpg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/10/6e2eaac9-0e34-47f5-9fbc-10d3256cf742.jpg?width=1024&quality=75&auto=webp",
+  "authorImage": {
+   "originalUrl": "/2026/03/10/6e2eaac9-0e34-47f5-9fbc-10d3256cf742.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/03/10/6e2eaac9-0e34-47f5-9fbc-10d3256cf742.jpg?width=1024&quality=75&auto=webp",
+   "width": 5177,
+   "height": 3451,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "3451,3451,x863,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "url": "/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 1713,
+  "leadText": "Daniel Rossellat is leaving politics after eighteen years. Nevertheless, he continues to be brimming with ideas: thanks to him, Switzerland will soon have its first-ever European Capital of Culture.",
+  "nzzSummaryEN": "- Daniel Rossellat, founder of the Paléo Festival, attributes its success to passion, regional identity, and respect for the audience, making it the largest event of its kind in Switzerland.\n- As mayor of Nyon, he prioritized controlled growth and innovation, despite the city taking on significant debt to expand infrastructure and services.\n- Rossellat's vision for a Swiss Capital of Culture aims to foster national cultural connections, starting with La Chaux-de-Fonds as the inaugural host city.",
+  "nzzSummaryDE": "Daniel Rossellat, founder of the Paléo Festival, attributes its success to the combination of passion, regional identity, and respect for the audience, and has made the festival the largest event of its kind in Switzerland. As mayor of Nyon, he was known for controlled growth and innovative developments, even though the city incurred significant debt to expand infrastructure and services. With the idea of ​​a Swiss Capital of Culture, Rossellat aims for stronger national cultural networking, starting with La Chaux-de-Fonds as the first host city.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "«People thought we were rich, and I let them believe that.»",
+  "nzzPrintSubtitle": "Paléo founder and long-time mayor Daniel Rossellat explains his recipe for success in festivals and politics to Matthias Sander – and why he now selects Swiss cultural capitals",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380",
+   "title": "Paléo founder Daniel Rossellat on his recipe for success in festivals and politics",
+   "socialMediaTitle": "«People thought we were rich, and I let them believe that»: the Paleo founder on his recipe for success",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/05/b4e435aa-4235-4b39-aff0-20dc1604903f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4507,2536,x947,y528&wmark=nzz"
+  },
+  "ldPublicationId": 2483233,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10016463",
+    "ld.10016717"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 661392,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10018380",
+    "name": "«People thought we were rich, and I let them believe it»: The Paléo founder and longtime city president of Nyon on his recipe for success",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "«People thought we were rich, and I let them believe it»: The Paléo founder and longtime city president of Nyon on his recipe for success",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373242,
+       "name": "Matthias Sander",
+       "shortName": "msa",
+       "pianoId": "60d89c7f-bfe5-47cc-81b9-68940bd045a0",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:29:00.000Z",
+     "updateTimestamp": "2026-08-25T05:55:35.961Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "interview",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10018380",
+   "pageType": "longformstandard",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Paléo founder Daniel Rossellat on his recipe for success in festivals and politics",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/05/b4e435aa-4235-4b39-aff0-20dc1604903f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4507,2536,x947,y528&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Matthias Sander, Nyon",
+  "description": "Daniel Rossellat is leaving politics after eighteen years. Nevertheless, he continues to be brimming with ideas: thanks to him, Switzerland will soon have its first-ever European Capital of Culture.",
+  "news_keywords": "«People thought we were rich, and I let them believe that»: the Paléo founder and long-time mayor of Nyon on his recipe for success, Interview, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T09:55:35+02:00",
+  "date": "2026-08-25T07:29:00+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "INTERVIEW - «People thought we were rich, and I let them believe that»: the Paléo founder and long-time mayor of Nyon on his recipe for success",
+  "ogTitle": "«People thought we were rich, and I let them believe that»: the Paleo founder on his recipe for success",
+  "ogUrl": "https://www.nzz.ch/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380",
+  "mrf:cms_id": "nzz:ld.10018380",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10018380",
+  "nzzAuthors": [
+   {
+    "id": 1373242,
+    "name": "Matthias Sander",
+    "shortName": "msa",
+    "pianoId": "60d89c7f-bfe5-47cc-81b9-68940bd045a0",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:11 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Paléo founder Daniel Rossellat on his recipe for success in festivals and politics"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380"
+   },
+   "headline": "Paléo founder Daniel Rossellat on his recipe for success in festivals and politics",
+   "datePublished": "2026-08-25T07:29:00+02:00",
+   "dateModified": "2026-08-25T09:55:35+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Daniel Rossellat is leaving politics after eighteen years. Nevertheless, he continues to be brimming with ideas: thanks to him, Switzerland will soon have its first-ever European Capital of Culture.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/05/b4e435aa-4235-4b39-aff0-20dc1604903f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4507,2536,x947,y528&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Matthias Sander"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 661392,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/die-leute-hielten-uns-fuer-reich-und-ich-liess-sie-in-diesem-glauben-der-paleo-gruender-und-langjaehrige-stadtpraesident-von-nyon-ueber-sein-erfolgsrezept-ld.10018380",
+    "classification=default",
+    "relevance=default",
+    "layout=longformstandard",
+    "interview",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10018380",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-25T03:29:00.000Z",
+   "ContentAuthor": "Matthias Sander, Nyon",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie hat Daniel Rossellat das Paléo-Festival zum grössten Festival der Schweiz gemacht?\nWarum ist La Chaux-de-Fonds die erste Schweizer Kulturhauptstadt?\nWie beeinflusste Rossellat Nyons Wachstum und Schuldenpolitik?",
+   "ldId": "ld.10018380",
+   "channel": "Schweiz",
+   "heading": "«Die Leute hielten uns für reich, und ich liess sie in diesem Glauben»: der Paléo-Gründer und langjährige Stadtpräsident von Nyon über sein Erfolgsrezept",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

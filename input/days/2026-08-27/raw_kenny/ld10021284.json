@@ -1,0 +1,1784 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k116tv121",
+   "content": {
+    "title": "Seven shootings in five days: Brussels drug war escalates",
+    "lead": "The Belgian Interior Minister spoke of a «national emergency.» Authorities announced new measures in the fight against drug trafficking. But the problem has long since spiraled out of control.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k116tv122",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Jonas Roth",
+       "url": "/impressum/jonas-roth-ld.1701644",
+       "teaserImage": {
+        "originalUrl": "/2025/02/21/3fbc6c73-1012-4c85-bdf0-0959a1c494ee.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/02/21/3fbc6c73-1012-4c85-bdf0-0959a1c494ee.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "4128,2322,x0,y215"
+         },
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3669,2752,x229,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x1032,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11j5t3n1",
+   "content": {
+    "image": {
+     "author": "Olivier Matthys / EPA",
+     "caption": "Bullet hole in the sidewalk: Shootings linked to the drug scene repeatedly occur in the Brussels district of Anderlecht.",
+     "originalUrl": "/2026/08/27/f9881d32-1732-4d06-ac1c-39bd5716d3c2.jpg?crop=4530,3397,x0,y257",
+     "width": 5605,
+     "height": 3737,
+     "altText": "epa13190523 A bullet impact from a heavy automatic weapon mark the location after a shooting incident in Anderlecht, Brussels, Belgium, 25 August 2026. Police are investigating the shooting in Sint-Gillis, where two suspects were arrested in the neighborhood. The incident is suspected to be drug-related. EPA/OLIVIER MATTHYS",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180215440"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 257,
+      "width": 4530,
+      "height": 3397,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 257,
+       "width": 4530,
+       "height": 3397,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Bullet hole in the sidewalk: Shootings linked to the drug scene repeatedly occur in the Brussels district of Anderlecht.",
+    "author": "Olivier Matthys / EPA"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "vdEz36SfKKjo": {
+       "start": 140,
+       "end": 155,
+       "text": "be brought"
+      }
+     }
+    }
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k116tv131",
+   "content": {
+    "text": "It began on a Friday evening: Shortly before midnight, two men appeared in front of a police station in the Brussels district of Anderlecht. One filmed with his mobile phone while the other fired twelve shots at the entrance door with a Kalashnikov assault rifle. The two then fled on an electric scooter. Because the station was closed at the time of the attack, no one was injured. Authorities suspected a retaliatory act by a criminal gang – the police had carried out several raids in the drug scene during the summer."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-cf3d6ffc",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k119m0se0",
+   "content": {
+    "text": "The violence did not abate in the following days. On Saturday evening, a man was injured in the leg by a gunshot in the Saint-Gilles district. Early on Sunday morning, a bullet pierced the window of a bedroom where the resident was still in bed. On Monday, a man opened fire near the Bruxelles-Midi train station with an automatic weapon, forcing the guests of a pizzeria to take cover."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11g5i661",
+   "content": {
+    "text": "By Tuesday, Brussels authorities had recorded a total of seven shootings within five days. Authorities linked all incidents to drug crime. What is happening in Brussels?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11am97t0",
+   "content": {
+    "title": "Violence at record levels",
+    "id": "subtitle-die-gewalt-bricht-rekorde"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11amapt0",
+   "content": {
+    "text": "For years, the Belgian capital has been fighting criminal gangs involved in the drug trade, some of whom are rivals. The situation is particularly precarious in the structurally weak west of the city with a high proportion of migrants, for example in Anderlecht. However, in recent years, drug crime has increasingly spread to the wealthier east. As dealers get younger, cocaine gets cheaper, and violence becomes more brutal, authorities are progressively losing control."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k11jju9t0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "23aa3dec2ec0230072eef4f824804f7d",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-locator_map-container\"        id=\"q_locator_map_23aa3dec2ec0230072eef4f824804f7d_q17518e0bf08744de80d3d56e4c3feb1e_container\"        data-q-item-id=\"23aa3dec2ec0230072eef4f824804f7d\"        data-q-request-id=\"519d78cb5a5cc27207f643412041b02c757a427c\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"23aa3dec2ec0230072eef4f824804f7d\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"locator_map\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"23aa3dec2ec0230072eef4f824804f7d\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"locator_map\"}},\"519d78cb5a5cc27207f643412041b02c757a427c\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_locator_map_23aa3dec2ec0230072eef4f824804f7d_q17518e0bf08744de80d3d56e4c3feb1e_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"23aa3dec2ec0230072eef4f824804f7d\",\"title\":\"Brussels\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"jon.\",\"sources\":[],\"geojsonList\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[4.352492988109589,50.84673741152941]},\"id\":\"custom-layer-7VoN9a2VAuZ6IZPf5o9O4\",\"properties\":{\"label\":\"Brussels\",\"type\":\"capital\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[4.329652301967144,50.839098503735066]},\"id\":\"custom-layer-4IvAKvwjfRyvQu5QJVWgT\",\"properties\":{\"label\":\"Anderlecht\",\"type\":\"point\",\"labelPosition\":\"left\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[4.3454840406775475,50.82499599120757]},\"id\":\"custom-layer-4l0oV38eNKNtQa_3XwUfs\",\"properties\":{\"label\":\"Saint-Gilles\",\"type\":\"point\",\"labelPosition\":\"right\",\"index\":0}}],\"options\":{\"baseLayer\":{\"layers\":{\"label\":false},\"style\":\"basic\"},\"dimension\":{\"bbox\":[4.270921338449881,50.79092757576956,4.432891447506165,50.89320519391981],\"useDefaultAspectRatio\":true},\"highlightRegion\":[],\"initialZoomLevel\":-1,\"labelsBelowMap\":false,\"labelsBelowMapOneRow\":false,\"minimap\":{\"showMinimap\":false,\"options\":{\"type\":\"globe\",\"position\":\"top-left\"}},\"scale\":{\"options\":{\"position\":\"bottom-left\"}},\"showLegend\":false},\"updatedDate\":\"2026-08-27T12:37:27.407Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_locator_map_23aa3dec2ec0230072eef4f824804f7d_q17518e0bf08744de80d3d56e4c3feb1e\",\"fontBaseUrl\":\"https://qv1-server.nzz.ch/files/locator_map/fonts/\",\"toolBaseUrl\":\"https://q-server.nzz.ch/locator_map\",\"apiKey\":\"UUOJDlqQTsVSgwOM1KVX\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qLocatorMap) {              clearInterval(checkAndInitialize);              new window.qLocatorMap({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qLocatorMap after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b8d8t0",
+   "content": {
+    "text": "In 2025, there was a record number of 101 shootings, in which a total of 8 people were killed and 43 injured. This year, the figures are similarly high: So far, 66 shootings with 25 injured and 2 dead have been recorded."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11c03dv0",
+   "content": {
+    "text": "Drug crime in the capital has long occupied national politics. Belgian Interior Minister Bernard Quintin said on Thursday morning: «The fight against organized crime associated with drug trafficking is a national emergency.» He announced that the police presence in the affected neighborhoods would be increased, adding that the areas needed to be «flooded» with police officers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11gl3rm0",
+   "content": {
+    "text": "Representatives of national and municipal authorities had already met for a crisis meeting on Wednesday evening. Among other things, authorities decided to send forty additional police officers to the affected municipalities and districts and to install twenty mobile cameras in the coming days. They also decided that a coordination office would be established to improve the information flow between the police, municipalities, and regional authorities."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11gso3m0",
+   "content": {
+    "title": "Protests Announced",
+    "id": "subtitle-protest-angek-ndigt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11gsjum0",
+   "content": {
+    "text": "Whether these measures will have the desired effect is questionable, however. Even before the latest escalation, the Interior Ministry had sent 77 additional police officers to Brussels and provided funds for surveillance cameras. In addition, police have been patrolling metro stations and train stations with soldiers since spring. However, the current legal situation does not allow military personnel to carry out arrests or searches on their own initiative. So far, none of the measures taken have led to a significant reduction in drug crime."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ha6v60",
+   "content": {
+    "text": "Therefore, authorities are now openly considering much sharper steps: Mayors of the Brussels municipalities were informed at Wednesday's crisis meeting that they could impose curfews or establish zones to which only residents have access."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11impom1",
+   "content": {
+    "text": "Such measures, however, would restrict the population, who are already suffering the most from the situation. Many are losing patience: Several organizations have called for a demonstration on Sunday at a well-known drug dealing hotspot in Saint-Gilles. But the dealers will not be driven away by that either."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k116tv132",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k116tv133",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k116tv134",
+      "content": {
+       "owner": "NZZ",
+       "title": "Curfew from 9 p.m.: This is how the city of Nîmes protects its youth from drug crime",
+       "teaserImage": {
+        "originalUrl": "/2025/07/22/1c453e6e-fb95-46b4-8344-676610a47455.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/22/1c453e6e-fb95-46b4-8344-676610a47455.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y327"
+         },
+         {
+          "name": "1:1",
+          "crop": "2809,2809,x121,y578"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x22,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x0,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Due to rampant violence in the drug scene, the southern French city of Nîmes is introducing a nighttime curfew for young people. The measure applies to troubled neighborhoods and is intended to calm the population. It is not a long-term solution.",
+        "teaserAuthor": "Patrick Aventurier / Abaca / Imago"
+       },
+       "teaserAuthor": "Patrick Aventurier / Abaca / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1894666",
+       "readingTime": 180,
+       "authorLine": "Daniel Steinvorth, Paris",
+       "characterCount": 4097,
+       "product": "NZZ.ch",
+       "documentId": 1894666,
+       "layout": "regular",
+       "publicationDate": "2025-07-23T03:30:00.000Z",
+       "publicationLastUpdated": "2025-07-25T09:18:39.116Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-07-23T15:30:00.000Z",
+       "teaserCaption": "Due to rampant violence in the drug scene, the southern French city of Nîmes is introducing a nighttime curfew for young people. The measure applies to troubled neighborhoods and is intended to calm the population. It is not a long-term solution.",
+       "url": "/international/wir-toeten-soausgangssperre-in-nimes-soll-jugendliche-schuetzengar-die-fuenfjaehrigen-die-stadt-nimes-wehrt-sich-mit-einer-ausgangssperre-gegen-die-drogenbanden-ld.1894666",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 653,
+       "leadText": "Due to rampant violence in the drug scene, the southern French city of Nîmes is introducing a nighttime curfew for young people. The measure applies to troubled neighborhoods and is intended to calm the population. It is not a long-term solution.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k116tv135",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "title": "Belgian socialist leader murdered in 1991 – mysterious affair brings down NATO Secretary General",
+       "characterCount": 6960,
+       "teaserImage": {
+        "originalUrl": "/2026/07/15/c8433d73-5f3c-432f-a009-6ae806a40c1b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/15/c8433d73-5f3c-432f-a009-6ae806a40c1b.jpg?width=1024&quality=75&auto=webp",
+        "width": 1877,
+        "height": 1217,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1877,1056,x0,y81"
+         },
+         {
+          "name": "4:3",
+          "crop": "1623,1217,x127,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1217,1217,x330,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "913,1217,x482,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1826,1217,x26,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "He said he had been a socialist even before his birth: André Cools was cold-bloodedly murdered 35 years ago. To this day, the case has not been fully solved. However, the investigations uncovered a far-reaching corruption scandal.",
+        "teaserAuthor": "Imago"
+       },
+       "teaserAuthor": "Imago",
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/07/15/66c75600-fcfb-4396-94fd-672425952cb4.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/15/66c75600-fcfb-4396-94fd-672425952cb4.jpg?width=1024&quality=75&auto=webp",
+        "width": 1815,
+        "height": 1208,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1815,1021,x0,y120"
+         },
+         {
+          "name": "1:1",
+          "crop": "1208,1208,x95,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1611,1208,x102,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "906,1208,x312,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1812,1208,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/07/14/904d72af-bea5-4cf0-b4ca-cd392d8220f8.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/14/904d72af-bea5-4cf0-b4ca-cd392d8220f8.jpg?width=1024&quality=75&auto=webp",
+        "width": 2048,
+        "height": 1472,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2048,1152,x0,y49"
+         },
+         {
+          "name": "1:1",
+          "crop": "1472,1472,x576,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1963,1472,x85,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1104,1472,x743,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2048,1365,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2026/07/15/60a6affd-8add-4561-a9f6-53778d28ac48.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/15/60a6affd-8add-4561-a9f6-53778d28ac48.jpg?width=1024&quality=75&auto=webp",
+        "width": 2048,
+        "height": 1370,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2048,1152,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1132,1132,x21,y61"
+         },
+         {
+          "name": "4:3",
+          "crop": "1827,1370,x221,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1028,1370,x120,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2048,1365,x0,y5"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzId": "ld.10014855",
+       "readingTime": 300,
+       "paywallQuestionOne": "What role did the murder of André Cools play in uncovering corruption scandals?",
+       "paywallQuestionTwo": "How did the corruption scandal affect the career of NATO Secretary General Willy Claes?",
+       "paywallQuestionThree": "Why was the judgment against Richard Taxquet overturned by the ECHR?",
+       "product": "NZZ.ch",
+       "documentId": 10014855,
+       "layout": "regular",
+       "publicationDate": "2026-08-26T11:42:55.286Z",
+       "publicationLastUpdated": "2026-08-26T11:42:55.286Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-26T23:42:55.286Z",
+       "teaserCaption": "He said he had been a socialist even before his birth: André Cools was cold-bloodedly murdered 35 years ago. To this day, the case has not been fully solved. However, the investigations uncovered a far-reaching corruption scandal.",
+       "authorLine": "Antonio Fumagalli, Brussels",
+       "authorImage": {
+        "originalUrl": "/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+        "width": 3956,
+        "height": 5275,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 321,
+         "width": 3956,
+         "height": 3956
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+       "url": "/international/mord-an-andre-cools-wie-ein-skandal-belgien-und-die-nato-erschuetterte-ld.10014855",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1099,
+       "leadText": "He said he had been a socialist even before his birth: André Cools was cold-bloodedly murdered 35 years ago. To this day, the case has not been fully solved. However, the investigations uncovered a far-reaching corruption scandal.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k116tv136",
+      "content": {
+       "title": "«Le Chat» goes on trial: the case against one of the country's most wanted drug lords begins in Marseille",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/19/16635c98-a4d1-45e8-ba02-c6a6e86ff7b4.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/19/16635c98-a4d1-45e8-ba02-c6a6e86ff7b4.jpg?width=1024&quality=75&auto=webp",
+        "width": 4677,
+        "height": 3118,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4677,2631,x0,y487"
+         },
+         {
+          "name": "4:3",
+          "crop": "4157,3118,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2343,2343,x0,y746"
+         },
+         {
+          "name": "3:4",
+          "crop": "1757,2342,x65,y776"
+         },
+         {
+          "name": "3:2",
+          "crop": "4677,3118,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "A bloody gang war three years ago brought Félix Bingui to national attention. Now, the alleged leader of the Yoda clan is on trial in Marseille.",
+        "teaserAuthor": "Manon Cruz / Reuters"
+       },
+       "teaserAuthor": "Manon Cruz / Reuters",
+       "tags": [
+        "Europa"
+       ],
+       "nzzId": "ld.10007617",
+       "readingTime": 240,
+       "paywallQuestionOne": "How did the gang war of 2023 affect the balance of power in Marseille?",
+       "paywallQuestionTwo": "What accusations does Félix Bingui make against the investigating authorities?",
+       "paywallQuestionThree": "How is France reacting to the increasing violence in the drug scene?",
+       "characterCount": 5252,
+       "product": "NZZ.ch",
+       "documentId": 10007617,
+       "layout": "regular",
+       "publicationDate": "2026-05-19T13:50:00.000Z",
+       "publicationLastUpdated": "2026-05-19T13:52:28.662Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-20T01:50:00.000Z",
+       "teaserCaption": "A bloody gang war three years ago brought Félix Bingui to national attention. Now, the alleged leader of the Yoda clan is on trial in Marseille.",
+       "authorLine": "Daniel Steinvorth, Paris",
+       "authorImage": {
+        "originalUrl": "/2024/12/12/2ffdb660-57c7-4de4-9a34-e51761fb6ea4.jpeg?crop=3300,3300,x1349,y242",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/12/2ffdb660-57c7-4de4-9a34-e51761fb6ea4.jpeg?crop=3300,3300,x1349,y242&width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1349,
+         "y": 242,
+         "width": 3300,
+         "height": 3300
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/12/2ffdb660-57c7-4de4-9a34-e51761fb6ea4.jpeg?crop=3300,3300,x1349,y242&width=1024&quality=75&auto=webp",
+       "url": "/international/prozess-gegen-drogenboss-in-marseille-steht-der-chef-des-yoda-clans-vor-gericht-ld.10007617",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 795,
+       "leadText": "A bloody gang war three years ago brought Félix Bingui to national attention. Now, the alleged leader of the Yoda clan is on trial in Marseille.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Seven shootings in five days: Brussels drug war escalates",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/f9881d32-1732-4d06-ac1c-39bd5716d3c2.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/f9881d32-1732-4d06-ac1c-39bd5716d3c2.jpg?width=1024&quality=75&auto=webp",
+   "width": 5605,
+   "height": 3737,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5095,2866,x39,y402"
+    },
+    {
+     "name": "4:3",
+     "crop": "4118,3088,x301,y207"
+    },
+    {
+     "name": "1:1",
+     "crop": "1743,1743,x2529,y1507"
+    },
+    {
+     "name": "3:4",
+     "crop": "2803,3737,x1650,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5605,3737,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The Belgian Interior Minister spoke of a «national emergency.» Authorities announced new measures in the fight against drug trafficking. But the problem has long since spiraled out of control.",
+   "teaserAuthor": "Olivier Matthys / EPA"
+  },
+  "teaserAuthor": "Olivier Matthys / EPA",
+  "tags": [
+   "Europa"
+  ],
+  "nzzId": "ld.10021284",
+  "readingTime": 180,
+  "characterCount": 4139,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021284,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T14:03:52.185Z",
+  "publicationDate": "2026-08-27T14:03:52.185Z",
+  "publicationLastUpdated": "2026-08-27T14:34:59.090Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T02:03:52.185Z",
+  "teaserCaption": "The Belgian Interior Minister spoke of a «national emergency.» Authorities announced new measures in the fight against drug trafficking. But the problem has long since spiraled out of control.",
+  "nzzAuthors": [
+   {
+    "id": 1641029,
+    "name": "Jonas Roth",
+    "shortName": "jon",
+    "pianoId": "83a5e944-8681-43f8-ba85-039f99c72025",
+    "external": false
+   }
+  ],
+  "authorLine": "Jonas Roth",
+  "authorImage": {
+   "originalUrl": "/2025/02/21/3fbc6c73-1012-4c85-bdf0-0959a1c494ee.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/02/21/3fbc6c73-1012-4c85-bdf0-0959a1c494ee.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2752,2752,x688,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1701644,
+    "name": "Jonas Roth (jon.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/02/21/3fbc6c73-1012-4c85-bdf0-0959a1c494ee.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/21/3fbc6c73-1012-4c85-bdf0-0959a1c494ee.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 625,
+  "leadText": "The Belgian Interior Minister spoke of a «national emergency.» Authorities announced new measures in the fight against drug trafficking. But the problem has long since spiraled out of control.",
+  "nzzSummaryEN": "- Over five days, there have been seven shootings in Brussels, with authorities linking them to drug-related crime.\n- The Belgian government has declared the situation a national emergency, increasing police presence and surveillance measures.\n- Critics question the effectiveness of these actions, while protests are planned calling for solutions to the escalating violence.",
+  "nzzSummaryDE": "- In Brussels, there were seven shootings within five days, which authorities suspect are drug-related. - The Belgian government has declared a national emergency and is increasing police and surveillance measures. - Critics doubt the effectiveness of these measures, while protests demanding action against the escalating violence have been announced.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Drug crime is escalating in Brussels",
+  "nzzPrintSubtitle": "After seven shootings in five days, the Belgian Interior Minister speaks of a national emergency",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284",
+   "title": "Shootings in Brussels: Drug crime out of control",
+   "socialMediaTitle": "Seven shootings in five days: Drug crime is escalating in Brussels",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/f9881d32-1732-4d06-ac1c-39bd5716d3c2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5095,2866,x39,y402&wmark=nzz"
+  },
+  "ldPublicationId": 2484738,
+  "playableVideoTeasers": [
+   {
+    "title": "NZZ Format | Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns ",
+    "description": "For years, cocaine use has been rising in Europe, generating lucrative business for criminal gangs. Now, southern Spain is becoming an increasingly important hub for smugglers. For the people in the tranquil coastal towns, this has sometimes had dramatic consequences. Many tourists appreciate Andalusia for its stunning beaches, idyllic villages, and cozy tapas bars. But Europe's southernmost region also has another face: Here, criminal gangs are expanding, supplying all of Europe with cocaine. «We have a veritable drug economy here,» says social worker Alma Jugado. Andalusia is one of the poorest regions in Spain. Drug smugglers here earn more in a single night than others do in a month. So-called TikTok narcos—influencers who portray the smuggler's life as a big party—contribute to the popularity of the illegal trade. Law enforcement is forced to conduct increasingly dangerous operations while simultaneously becoming increasingly powerless. The documentary delves deep into Andalusia's smuggling business. She accompanies customs officers, social workers – and an investigative journalist who wants to meet with one of the masterminds behind the drug gangs. It becomes clear that the rising crime in southern Spain is far more than a local problem.\n",
+    "kind": "Single Item",
+    "siteid": "YuwAxPaT",
+    "playlist": [
+     {
+      "title": "NZZ Format | Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns ",
+      "mediaid": "oG1TG66w",
+      "link": "https://cdn.jwplayer.com/previews/oG1TG66w",
+      "image": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=720",
+      "images": [
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=320",
+        "width": 320,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=480",
+        "width": 480,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=640",
+        "width": 640,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=720",
+        "width": 720,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=1280",
+        "width": 1280,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.jpg?width=1920",
+        "width": 1920,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.mp4?width=320",
+        "width": 320,
+        "type": "video/mp4"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/oG1TG66w/poster.mp4?width=640",
+        "width": 640,
+        "type": "video/mp4"
+       }
+      ],
+      "siteid": "YuwAxPaT",
+      "duration": 1762,
+      "content_source_type": "file",
+      "pubdate": 1787590314,
+      "updated": 1787907439,
+      "description": "For years, cocaine use has been rising in Europe, generating lucrative business for criminal gangs. Now, southern Spain is becoming an increasingly important hub for smugglers. For the people in the tranquil coastal towns, this has sometimes had dramatic consequences. Many tourists appreciate Andalusia for its stunning beaches, idyllic villages, and cozy tapas bars. But Europe's southernmost region also has another face: Here, criminal gangs are expanding, supplying all of Europe with cocaine. «We have a veritable drug economy here,» says social worker Alma Jugado. Andalusia is one of the poorest regions in Spain. Drug smugglers here earn more in a single night than others do in a month. So-called TikTok narcos—influencers who portray the smuggler's life as a big party—contribute to the popularity of the illegal trade. Law enforcement is forced to conduct increasingly dangerous operations while simultaneously becoming increasingly powerless. The documentary delves deep into Andalusia's smuggling business. She accompanies customs officers, social workers – and an investigative journalist who wants to meet with one of the masterminds behind the drug gangs. It becomes clear that the rising crime in southern Spain is far more than a local problem.\n",
+      "tags": "spanien,zoll,nzz format,Kokain,2026,Dealer,2631,Drogenhandel,Kokainkonsum,TikTok-Narcos,andalusien,drogenschmuggler,kriminelle Banden,narcos",
+      "sources": [
+       {
+        "file": "https://cdn.jwplayer.com/manifests/oG1TG66w.m3u8",
+        "type": "application/vnd.apple.mpegurl"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/oG1TG66w-aSRX9V0s.mp4",
+        "type": "video/mp4",
+        "height": 1080,
+        "width": 1920,
+        "label": "1080p",
+        "bitrate": 2620322,
+        "filesize": 577126054,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/oG1TG66w-EhTDc4s5.mp4",
+        "type": "video/mp4",
+        "height": 720,
+        "width": 1280,
+        "label": "720p",
+        "bitrate": 1358441,
+        "filesize": 299196824,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/oG1TG66w-J4ijmxxU.mp4",
+        "type": "video/mp4",
+        "height": 406,
+        "width": 720,
+        "label": "406p",
+        "bitrate": 647340,
+        "filesize": 142576682,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/oG1TG66w-kcn04Bnj.mp4",
+        "type": "video/mp4",
+        "height": 270,
+        "width": 480,
+        "label": "270p",
+        "bitrate": 416614,
+        "filesize": 91759296,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/oG1TG66w-ZberQI1f.mp4",
+        "type": "video/mp4",
+        "height": 180,
+        "width": 320,
+        "label": "180p",
+        "bitrate": 286229,
+        "filesize": 63041949,
+        "framerate": 25
+       }
+      ],
+      "tracks": [
+       {
+        "file": "https://cdn.jwplayer.com/tracks/F4x1Gzd8.srt",
+        "kind": "captions",
+        "label": "German"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/strips/oG1TG66w-120.vtt",
+        "kind": "thumbnails"
+       }
+      ],
+      "variations": {}
+     }
+    ],
+    "feed_instance_id": "798178c2-04b7-4e38-bd4e-c1c7795c90db",
+    "playerId": "ZMULDsT4",
+    "intl": {
+     "de": {
+      "advertising": {
+       "skiptext": "Skip"
+      }
+     }
+    }
+   },
+   {
+    "title": "NZZ Format | Europe's new drug crisis? How fentanyl and other synthetic opioids threaten us",
+    "description": "Highly potent synthetic opioids have killed thousands of people in North America. Now they are appearing in Europe, putting local drug policies to the test. When fentanyl emerged in Vancouver, there was hardly any warning. Within a few years, it largely displaced heroin from the illegal drug market, and the number of fatal overdoses rose dramatically. «I pray that Europe doesn't end up in the same situation as us,» says Canadian addiction specialist Paxton Bach. «But I fear it's only a matter of time.» Meanwhile, highly potent synthetic opioids like Nitazene are also spreading in Europe. They are sold online, mixed with heroin or pills, and sometimes consumed without the users' knowledge. Even the smallest excess can trigger a fatal overdose. In Germany, the fundamental changes in the drug market are becoming apparent. Clinics are increasingly treating younger users; at the same time, the trade is shifting from the streets to the internet. The substances can be ordered with just a few clicks via social networks, messaging apps, and online shops. This makes it harder to reach users with traditional support services and to identify new developments in the market. Since the dismantling of the open drug scenes at Zurich's Platzspitz and Letten districts, Switzerland has been considered a global model of pragmatic drug policy. Supervised consumption sites, substitution programs, drug checking, and early warning systems are intended to prevent isolated incidents from escalating into new crises. But can this successful model of the 1990s withstand a globalized, synthetic drug market?",
+    "kind": "Single Item",
+    "siteid": "YuwAxPaT",
+    "playlist": [
+     {
+      "title": "NZZ Format | Europe's new drug crisis? How fentanyl and other synthetic opioids threaten us",
+      "mediaid": "lRYT58G8",
+      "link": "https://cdn.jwplayer.com/previews/lRYT58G8",
+      "image": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=720",
+      "images": [
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=320",
+        "width": 320,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=480",
+        "width": 480,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=640",
+        "width": 640,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=720",
+        "width": 720,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=1280",
+        "width": 1280,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.jpg?width=1920",
+        "width": 1920,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.mp4?width=320",
+        "width": 320,
+        "type": "video/mp4"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/lRYT58G8/poster.mp4?width=640",
+        "width": 640,
+        "type": "video/mp4"
+       }
+      ],
+      "siteid": "YuwAxPaT",
+      "duration": 3074,
+      "content_source_type": "file",
+      "pubdate": 1786979984,
+      "updated": 1787223270,
+      "description": "Highly potent synthetic opioids have killed thousands of people in North America. Now they are appearing in Europe, putting local drug policies to the test. When fentanyl emerged in Vancouver, there was hardly any warning. Within a few years, it largely displaced heroin from the illegal drug market, and the number of fatal overdoses rose dramatically. «I pray that Europe doesn't end up in the same situation as us,» says Canadian addiction specialist Paxton Bach. «But I fear it's only a matter of time.» Meanwhile, highly potent synthetic opioids like Nitazene are also spreading in Europe. They are sold online, mixed with heroin or pills, and sometimes consumed without the users' knowledge. Even the smallest excess can trigger a fatal overdose. In Germany, the fundamental changes in the drug market are becoming apparent. Clinics are increasingly treating younger users; at the same time, the trade is shifting from the streets to the internet. The substances can be ordered with just a few clicks via social networks, messaging apps, and online shops. This makes it harder to reach users with traditional support services and to identify new developments in the market. Since the dismantling of the open drug scenes at Zurich's Platzspitz and Letten districts, Switzerland has been considered a global model of pragmatic drug policy. Supervised consumption sites, substitution programs, drug checking, and early warning systems are intended to prevent isolated incidents from escalating into new crises. But can this successful model of the 1990s withstand a globalized, synthetic drug market?",
+      "tags": "Zürich,schweiz,deutschland,nzz format,fentanyl,Drogenkonsum,Drogenpolitik,Platzspitz,2626,Kanada,Dealer,Drogenmarkt,Nitazene,Substitution,drogenszene,opiode,synthetische Opioide,vier säulen prinzip",
+      "sources": [
+       {
+        "file": "https://cdn.jwplayer.com/manifests/lRYT58G8.m3u8",
+        "type": "application/vnd.apple.mpegurl"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/lRYT58G8-aSRX9V0s.mp4",
+        "type": "video/mp4",
+        "height": 1080,
+        "width": 1920,
+        "label": "1080p",
+        "bitrate": 2207207,
+        "filesize": 848119609,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/lRYT58G8-EhTDc4s5.mp4",
+        "type": "video/mp4",
+        "height": 720,
+        "width": 1280,
+        "label": "720p",
+        "bitrate": 1105779,
+        "filesize": 424895890,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/lRYT58G8-J4ijmxxU.mp4",
+        "type": "video/mp4",
+        "height": 406,
+        "width": 720,
+        "label": "406p",
+        "bitrate": 548710,
+        "filesize": 210842183,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/lRYT58G8-kcn04Bnj.mp4",
+        "type": "video/mp4",
+        "height": 270,
+        "width": 480,
+        "label": "270p",
+        "bitrate": 363024,
+        "filesize": 139491997,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/lRYT58G8-ZberQI1f.mp4",
+        "type": "video/mp4",
+        "height": 180,
+        "width": 320,
+        "label": "180p",
+        "bitrate": 252747,
+        "filesize": 97118251,
+        "framerate": 25
+       }
+      ],
+      "tracks": [
+       {
+        "file": "https://cdn.jwplayer.com/tracks/2HwpdPa4.srt",
+        "kind": "captions",
+        "label": "German"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/strips/lRYT58G8-120.vtt",
+        "kind": "thumbnails"
+       }
+      ],
+      "variations": {}
+     }
+    ],
+    "feed_instance_id": "42632811-cab5-4929-8093-7abd1fdea6ad",
+    "playerId": "ZMULDsT4",
+    "intl": {
+     "de": {
+      "advertising": {
+       "skiptext": "Skip"
+      }
+     }
+    }
+   }
+  ],
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Drugs",
+    "slug": "/themen/drogen"
+   },
+   {
+    "name": "Belgium",
+    "slug": "/themen/belgien"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1894666",
+    "ld.10014855",
+    "ld.10007617"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 264240,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "drogen",
+   "name": "Drugs",
+   "tagName": "Drugs",
+   "qId": "Q10268802",
+   "seoTitle": "Drugs – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 17:15:29.536Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/drogen",
+   "size": 1412,
+   "relatedTopics": [
+    {
+     "name": "Belgien",
+     "slug": "/themen/belgien"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "Spain becomes Europe's new cocaine transshipment hub: This has dramatic consequences for towns on the Andalusian coast",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Nicole Ris, Jan-Philipp Scholz",
+    "flag": "Documentary film «NZZ Format»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/a47e324b-3e12-49bc-bc17-f647ec2a164e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/a47e324b-3e12-49bc-bc17-f647ec2a164e.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1080,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1440,1080,x389,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1080,1080,x751,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "810,1080,x1019,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1620,1080,x150,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A customs investigator, a drug courier, and a social worker report."
+    },
+    "tags": [
+     "Europa",
+     "Zeitgeschehen"
+    ],
+    "freeToRead": true,
+    "nzzId": "ld.10020890",
+    "readingTime": 60,
+    "embeds": {
+     "videos": [
+      {
+       "id": "oG1TG66w",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 1762,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/oG1TG66w-J4ijmxxU.mp4",
+         "width": 720,
+         "height": 406
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How does the cocaine trade affect coastal towns in Andalusia?",
+    "paywallQuestionTwo": "What role do TikTok narcos play in the popularity of the smuggler lifestyle?",
+    "paywallQuestionThree": "Why is crime in southern Spain considered a European problem?",
+    "characterCount": 1122,
+    "product": "NZZ.ch",
+    "documentId": "10020890",
+    "layout": "video",
+    "publicationDate": "2026-08-28T04:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T06:59:15.126Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T16:30:00.000Z",
+    "teaserCaption": "A customs investigator, a drug courier, and a social worker report.",
+    "url": "https://www.nzz.ch/video/format/europas-neue-kokain-front-wie-drogenbanden-spaniens-kuestenorte-unterwandern-ld.10020890",
+    "department": {
+     "name": "NZZ Format",
+     "path": "/video/format"
+    },
+    "estimationWordCount": 179,
+    "leadText": "A customs investigator, a drug courier, and a social worker report.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/35e6b522-30b5-44d6-9cbc-0d6face2f717.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/35e6b522-30b5-44d6-9cbc-0d6face2f717.jpg?width=1024&quality=75&auto=webp",
+     "width": 7740,
+     "height": 5300,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7740,4354,x0,y107"
+      },
+      {
+       "name": "4:3",
+       "crop": "7067,5300,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4818,4818,x989,y138"
+      },
+      {
+       "name": "3:4",
+       "crop": "3975,5300,x1572,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7740,5160,x0,y70"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Australian tennis player faces a ban of up to four years, possibly even the end of his career. How could he fall so low?",
+     "teaserAuthor": "Dave Hunt / Imago"
+    },
+    "teaserAuthor": "Dave Hunt / Imago",
+    "title": "Once hailed as the successor to Federer, Nadal, and Djokovic, Nick Kyrgios has now tested positive for cocaine",
+    "tags": [
+     "Tennis"
+    ],
+    "nzzId": "ld.10020564",
+    "readingTime": 300,
+    "paywallQuestionOne": "How did scandals affect Nick Kyrgios' career?",
+    "paywallQuestionTwo": "What role did psychological pressure play in Kyrgios' downfall?",
+    "paywallQuestionThree": "Can Kyrgios make a comeback after his suspension?",
+    "characterCount": 5567,
+    "product": "NZZ.ch",
+    "documentId": "10020564",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T11:00:00.000Z",
+    "publicationLastUpdated": "2026-08-24T15:17:04.044Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T23:00:00.000Z",
+    "teaserCaption": "The Australian tennis player faces a ban of up to four years, possibly even the end of his career. How could he fall so low?",
+    "authorLine": "Niels Bossert",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/08/03/55b080a7-219f-4248-81b1-c1e9cdc3d672.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/tennis/er-galt-einst-als-nachfolger-von-federer-nadal-und-djokovic-nun-wurde-nick-kyrgios-positiv-auf-kokain-getestet-ld.10020564",
+    "department": {
+     "name": "Tennis",
+     "path": "/sport/tennis"
+    },
+    "estimationWordCount": 911,
+    "leadText": "The Australian tennis player faces a ban of up to four years, possibly even the end of his career. How could he fall so low?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Europe's drug crisis: Threat from fentanyl and synthetic opioids",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Documentary film «NZZ Format»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/6081f51e-6b90-4035-ab69-c58e487a22d3.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/6081f51e-6b90-4035-ab69-c58e487a22d3.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1080,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1920,1080,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Highly potent opioids like fentanyl have cost thousands of lives in North America. Now these dangerous substances are reaching Europe. Can Switzerland's successful Four-Pillar Model prevent a similar catastrophe?"
+    },
+    "freeToRead": true,
+    "nzzId": "ld.10019978",
+    "readingTime": 60,
+    "embeds": {
+     "videos": [
+      {
+       "id": "lRYT58G8",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 3074,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/lRYT58G8-J4ijmxxU.mp4",
+         "width": 720,
+         "height": 406
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How do synthetic opioids threaten Europe's drug policy?",
+    "paywallQuestionTwo": "Can the Swiss four-pillar model prevent a new crisis?",
+    "paywallQuestionThree": "How is online commerce changing access to drug assistance?",
+    "characterCount": 1657,
+    "product": "NZZ.ch",
+    "documentId": "10019978",
+    "layout": "video",
+    "publicationDate": "2026-08-21T04:30:00.000Z",
+    "publicationLastUpdated": "2026-08-24T11:42:36.251Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T16:30:00.000Z",
+    "teaserCaption": "Highly potent opioids like fentanyl have cost thousands of lives in North America. Now these dangerous substances are reaching Europe. Can Switzerland's successful Four-Pillar Model prevent a similar catastrophe?",
+    "authorLine": "Nicole Krättli",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/03/16/c56ea8c3-ffb2-428e-b8a5-02f811d62a9a.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/video/format/europas-drogenkrise-bedrohung-durch-fentanyl-und-synthetische-opioide-ld.10019978",
+    "department": {
+     "name": "NZZ Format",
+     "path": "/video/format"
+    },
+    "estimationWordCount": 263,
+    "leadText": "Highly potent opioids like fentanyl have cost thousands of lives in North America. Now these dangerous substances are reaching Europe. Can Switzerland's successful Four-Pillar Model prevent a similar catastrophe?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump's fight against «narco-terrorism» stalls – now he escalates the war on drugs",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/8f983cd8-e9d9-4c8a-8b2a-30c1ca376ec4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/8f983cd8-e9d9-4c8a-8b2a-30c1ca376ec4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4737,
+     "height": 3158,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4737,2665,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4211,3158,x184,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3158,3158,x710,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2369,3158,x1105,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4737,3158,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2289,
+      "y": 943
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The American president can count on an increasing number of allies in Latin America. Yet even these alliances have not stopped the flood of cocaine and fentanyl so far.",
+     "teaserAuthor": "Jeenah Moon / Reuters"
+    },
+    "teaserAuthor": "Jeenah Moon / Reuters",
+    "tags": [
+     "Amerika"
+    ],
+    "nzzId": "ld.10020348",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does Trump's decree affect the fight against drug cartels?",
+    "paywallQuestionTwo": "Why does the influx of cocaine and fentanyl remain high despite new strategies?",
+    "paywallQuestionThree": "What role do Latin America's right-wing governments play in the drug war?",
+    "characterCount": 7130,
+    "product": "NZZ.ch",
+    "documentId": "10020348",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-21T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T15:30:00.000Z",
+    "teaserCaption": "The American president can count on an increasing number of allies in Latin America. Yet even these alliances have not stopped the flood of cocaine and fentanyl so far.",
+    "authorLine": "Simon Hehli",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/e093c794-c4d1-44f9-aa11-822688046fbf.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/kampf-gegen-kokain-und-fentanyl-trumps-plan-fuer-lateinamerika-ld.10020348",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1052,
+    "leadText": "The American president can count on an increasing number of allies in Latin America. Yet even these alliances have not stopped the flood of cocaine and fentanyl so far.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "The Fentanyl Paradox: Why We Know More About Drug Cartel Supply Chains Than Pharmaceutical Company Supply Chains",
+    "teaserImage": {
+     "originalUrl": "/2026/06/18/39bd06a9-969d-4a36-ac8f-a819d680fc54.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/18/39bd06a9-969d-4a36-ac8f-a819d680fc54.jpg?width=1024&quality=75&auto=webp",
+     "width": 4492,
+     "height": 2996,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4492,2527,x0,y469"
+      },
+      {
+       "name": "4:3",
+       "crop": "3995,2996,x192,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2996,2996,x653,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2247,2996,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4492,2995,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In hospitals, the highly potent opioid alleviates pain; in the drug scene, it destroys lives. But in both cases, the trail of the raw material often leads to the same place.",
+     "teaserAuthor": "Andrew Kelly / Reuters"
+    },
+    "teaserAuthor": "Andrew Kelly / Reuters",
+    "showHeader": true,
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 10578,
+    "nzzId": "ld.10013303",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why are fentanyl supply chains so opaque?",
+    "paywallQuestionTwo": "Do legal and illegal fentanyl supply chains intersect?",
+    "paywallQuestionThree": "How does China influence global fentanyl production?",
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10013303",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-17T13:57:38.579Z",
+    "publicationLastUpdated": "2026-08-18T03:31:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-18T01:57:38.579Z",
+    "teaserCaption": "In hospitals, the highly potent opioid alleviates pain; in the drug scene, it destroys lives. But in both cases, the trail of the raw material often leads to the same place.",
+    "authorLine": "Isabelle Wachter, Julia Monn",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/das-fentanyl-paradox-warum-wir-die-lieferketten-der-drogenkartelle-besser-kennen-als-die-der-pharmakonzerne-ld.10013303",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1454,
+    "premium": true,
+    "leadText": "In hospitals, the highly potent opioid alleviates pain; in the drug scene, it destroys lives. But in both cases, the trail of the raw material often leads to the same place.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 6,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Police news from Zurich: Instagram search for snake owner; 58-year-old arrested for speeding",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/7e3cccfe-f3b3-4473-8a8b-8ec8eab70be3.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/7e3cccfe-f3b3-4473-8a8b-8ec8eab70be3.jpg?width=1024&quality=75&auto=webp",
+     "width": 972,
+     "height": 1215,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "972,547,x0,y474"
+      },
+      {
+       "name": "4:3",
+       "crop": "972,729,x0,y313"
+      },
+      {
+       "name": "1:1",
+       "crop": "664,664,x196,y398"
+      },
+      {
+       "name": "3:4",
+       "crop": "911,1215,x61,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "972,648,x0,y375"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest police reports from the region.",
+     "teaserAuthor": "Zurich Cantonal Police"
+    },
+    "teaserAuthor": "Zurich Cantonal Police",
+    "flag": "Short news items",
+    "nzzId": "ld.10011943",
+    "readingTime": 2220,
+    "paywallQuestionOne": "What caused the man's fatal fall at Zurich's main train station?",
+    "paywallQuestionTwo": "What measures were taken after the accident?",
+    "paywallQuestionThree": "Why is external influence ruled out?",
+    "characterCount": 52663,
+    "product": "NZZ.ch",
+    "documentId": "10011943",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T09:02:38.842Z",
+    "publicationLastUpdated": "2026-09-03T08:26:34.860Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-01T21:02:38.842Z",
+    "teaserCaption": "The latest police reports from the region.",
+    "url": "https://www.nzz.ch/zuerich/polizei-news-aus-zuerich-58-jaehriger-ist-mit-110-kmh-innerorts-unterwegs-ld.10011943",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 7429,
+    "leadText": "The latest police reports from the region.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021284",
+    "name": "Seven shootings in five days: Brussels drug war escalates",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Seven shootings in five days: Brussels drug war escalates",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1641029,
+       "name": "Jonas Roth",
+       "shortName": "jon",
+       "pianoId": "83a5e944-8681-43f8-ba85-039f99c72025",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T14:03:52.185Z",
+     "updateTimestamp": "2026-08-27T14:34:59.090Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021284",
+   "pageType": "regular",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Shootings in Brussels: Drug crime out of control",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/f9881d32-1732-4d06-ac1c-39bd5716d3c2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5095,2866,x39,y402&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Jonas Roth",
+  "description": "The Belgian Interior Minister spoke of a «national emergency.» Authorities announced new measures in the fight against drug trafficking. But the problem has long since spiraled out of control.",
+  "news_keywords": "Seven shootings in five days: Drug war escalates in Brussels, International News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T18:34:59+02:00",
+  "date": "2026-08-27T18:03:52+02:00",
+  "canonical": "https://www.nzz.ch/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Seven shootings in five days: Brussels drug war escalates",
+  "ogTitle": "Seven shootings in five days: Drug crime is escalating in Brussels",
+  "ogUrl": "https://www.nzz.ch/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284",
+  "mrf:cms_id": "nzz:ld.10021284",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021284",
+  "nzzAuthors": [
+   {
+    "id": 1641029,
+    "name": "Jonas Roth",
+    "shortName": "jon",
+    "pianoId": "83a5e944-8681-43f8-ba85-039f99c72025",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:58 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Shootings in Brussels: Drug crime out of control"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284"
+   },
+   "headline": "Shootings in Brussels: Drug crime out of control",
+   "datePublished": "2026-08-27T18:03:52+02:00",
+   "dateModified": "2026-08-27T18:34:59+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The Belgian Interior Minister spoke of a «national emergency.» Authorities announced new measures in the fight against drug trafficking. But the problem has long since spiraled out of control.",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/f9881d32-1732-4d06-ac1c-39bd5716d3c2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5095,2866,x39,y402&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Jonas Roth"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 264240,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/schiessereien-in-bruessel-drogenkriminalitaet-ausser-kontrolle-ld.10021284",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021284",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-08-27T14:03:52.185Z",
+   "ContentAuthor": "Jonas Roth",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie eskaliert die Drogenkriminalität in Brüssel?\nWelche Massnahmen ergreifen die Behörden?\nWarum zeigen bisherige Massnahmen wenig Wirkung?",
+   "ldId": "ld.10021284",
+   "channel": "International",
+   "heading": "Sieben Schiessereien in fünf Tagen: In Brüssel eskaliert der Drogenkrieg",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

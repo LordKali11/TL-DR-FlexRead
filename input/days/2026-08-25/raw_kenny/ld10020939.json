@@ -1,0 +1,1465 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0s6tdea0",
+   "content": {
+    "title": "The chip giant at the center of the AI boom: Nvidia once again makes markets nervous",
+    "lead": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0s6tdea1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Eflamm Mordrelle",
+       "url": "/impressum/eflamm-mordrelle-ld.1737358",
+       "teaserImage": {
+        "originalUrl": "/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0s6tdea2",
+   "content": {
+    "image": {
+     "author": "Manami Yamada / Reuters",
+     "caption": "Nvidia CEO Jensen Huang dismisses concerns about the financing of AI expansion.",
+     "originalUrl": "/2026/08/25/7a77e825-eb45-4ce3-88bf-f82bd81a94e1.jpg?crop=5500,3734,x0,y0",
+     "width": 5500,
+     "height": 3734,
+     "altText": "FILE PHOTO: Nvidia CEO Jensen Huang speaks during a doorstep after attending the AI ​​Ecosystem Reception in Tokyo, Japan, July 16, 2026. REUTERS/Manami Yamada/File Photo",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179754480"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3734,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3734,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Nvidia CEO Jensen Huang dismisses concerns about the financing of AI expansion.",
+    "author": "Manami Yamada / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s6tdea3",
+   "content": {
+    "text": "When Nvidia publishes financial figures, the world holds its breath. They are crucial for investors' confidence in the ongoing AI boom. If the figures disappoint on Wednesday, this could trigger a correction or even a stock market crash. The AI boom in its current form would be jeopardized."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-2e47253f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46iu0",
+   "content": {
+    "text": "Companies playing a role in the AI revolution can now be found across various industries. Besides language model developers like OpenAI, hyperscalers like Amazon, and chip providers, it also includes energy companies and technology suppliers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0shu7281",
+   "content": {
+    "text": "Nvidia, however, remains the most important «shovel manufacturer.» Without its high-performance chips, the expansion of a powerful AI infrastructure is inconceivable. Morningstar analysts, for example, see «no risk whatsoever to Nvidia's competitive advantage.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0sa46j00",
+   "content": {
+    "title": "Markets at risk of crashing",
+    "id": "subtitle-absturzgef-hrdete-b-rsen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j01",
+   "content": {
+    "text": "Should Nvidia, however, indicate that sales momentum slowed in the second quarter, this could send the stock market tumbling. So far, Nvidia has always managed to surprise the doubters. The company has exceeded profit forecasts in each of the last 14 quarters since the beginning of the AI boom in late 2022. And it has consolidated its position as the most valuable company. Nvidia has a market capitalization of around 5 trillion dollars."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j10",
+   "content": {
+    "text": "Observers also assume that Nvidia will exceed expectations for the second quarter. To achieve this, Nvidia would have to double its quarterly revenue and achieve almost 100% profit growth for the year. Regardless, it is clear: the results will be followed by price fluctuations that will sway the entire market. Investors tend to sell Nvidia shares even after record profits and secure their gains."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j11",
+   "content": {
+    "text": "The shares are no longer on a self-sustaining upward trend. After years of strong price gains, Nvidia has had to settle for moderate advances this year. Broad-based technology indices such as the Nasdaq or the Philadelphia Semiconductor Index, which tracks the chip industry, have also been moving sideways for months. Fluctuations and regular price drops attest to investor nervousness. There have also been initial casualties, such as the collapse of the hedge fund <a href=\"https://www.nzz.ch/finanzen/wie-gewonnen-so-zerronnen-das-wunderkind-leopold-aschenbrenner-schliesst-grosse-wetten-auf-ki-ab-und-verliert-milliarden-ld.10017719\">Situational Awareness</a>, which specializes in AI stocks, in July."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0sblts10",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "38eb3c6b76ee3897ce09f60436def276",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_38eb3c6b76ee3897ce09f60436def276_q61903135675d4fa3b23a5177d4605a2a_container\"        data-q-item-id=\"38eb3c6b76ee3897ce09f60436def276\"        data-q-request-id=\"c384d3a407fc6f0b7fee4b328d699c736361c3ff\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"38eb3c6b76ee3897ce09f60436def276\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"38eb3c6b76ee3897ce09f60436def276\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"c384d3a407fc6f0b7fee4b328d699c736361c3ff\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_38eb3c6b76ee3897ce09f60436def276_q61903135675d4fa3b23a5177d4605a2a_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"38eb3c6b76ee3897ce09f60436def276\",\"allowDownloadData\":false,\"title\":\"Shares of global chip companies like Nvidia are experiencing turbulence\",\"subtitle\":\"Philadelphia Semiconductor Index (SOX), in points\",\"publication\":\"nzz\",\"acronym\":\"EM.\",\"data\":[[\"Date\",\"SOX Index (L1)\"],[\"12/31/2025\",\"7083,1309\"],[\"1/2/2026\",\"7367,4731\"],[\"1/5/2026\",\"7446,4541\"],[\"1/6/2026\",\"7650,9292\"],[\"1/7/2026\",\"7574,8721\"],[\"1/8/2026\",\"7436,0981\"],[\"1/9/2026\",\"7638,7788\"],[\"1/12/2026\",\"7674,8359\"],[\"1/13/2026\",\"7747,9932\"],[\"1/14/2026\",\"7701,4751\"],[\"1/15/2026\",\"7837,2979\"],[\"1/16/2026\",\"7927,4082\"],[\"1/20/2026\",\"7794,1899\"],[\"1/21/2026\",\"8042,0698\"],[\"1/22/2026\",\"8055,1729\"],[\"1/23/2026\",\"7957,9258\"],[\"1/26/2026\",\"7927,041\"],[\"1/27/2026\",\"8117,1812\"],[\"1/28/2026\",\"8306,7422\"],[\"1/29/2026\",\"8320,3896\"],[\"1/30/2026\",\"7998,4731\"],[\"2/2/2026\",\"8134,4878\"],[\"2/3/2026\",\"7966,334\"],[\"2/4/2026\",\"7619,1558\"],[\"2/5/2026\",\"7614,6382\"],[\"2/6/2026\",\"8048,625\"],[\"2/9/2026\",\"8162,5801\"],[\"2/10/2026\",\"8107,1318\"],[\"2/11/2026\",\"8291,8613\"],[\"2/12/2026\",\"8084,7002\"],[\"2/13/2026\",\"8137,8589\"],[\"2/17/2026\",\"8136,0449\"],[\"2/18/2026\",\"8214,3535\"],[\"2/19/2026\",\"8173,3042\"],[\"2/20/2026\",\"8260,415\"],[\"2/23/2026\",\"8213,457\"],[\"2/24/2026\",\"8332,3438\"],[\"2/25/2026\",\"8467,4297\"],[\"2/26/2026\",\"8197,2598\"],[\"2/27/2026\",\"8098,3711\"],[\"3/2/2026\",\"8137,3569\"],[\"3/3/2026\",\"7764,8818\"],[\"3/4/2026\",\"7914,478\"],[\"3/5/2026\",\"7821,7612\"],[\"3/6/2026\",\"7514,7358\"],[\"3/9/2026\",\"7810,3989\"],[\"3/10/2026\",\"7865,1191\"],[\"3/11/2026\",\"7914,5649\"],[\"3/12/2026\",\"7643,1729\"],[\"3/13/2026\",\"7646,6362\"],[\"3/16/2026\",\"7796,2441\"],[\"3/17/2026\",\"7836,8271\"],[\"3/18/2026\",\"7795,1279\"],[\"3/19/2026\",\"7863,3042\"],[\"3/20/2026\",\"7670,6079\"],[\"3/23/2026\",\"7773,1318\"],[\"3/24/2026\",\"7872,709\"],[\"3/25/2026\",\"7967,7451\"],[\"3/26/2026\",\"7585,8711\"],[\"3/27/2026\",\"7457,668\"],[\"3/30/2026\",\"7142,334\"],[\"3/31/2026\",\"7588,1958\"],[\"4/1/2026\",\"7802,311\"],[\"4/2/2026\",\"7833,3872\"],[\"4/6/2026\",\"7916,104\"],[\"4/7/2026\",\"8003,8682\"],[\"4/8/2026\",\"8510,917\"],[\"4/9/2026\",\"8689,5332\"],[\"4/10/2026\",\"8889,8281\"],[\"4/13/2026\",\"9039,5244\"],[\"4/14/2026\",\"9224,1211\"],[\"4/15/2026\",\"9239,2852\"],[\"4/16/2026\",\"9329,3457\"],[\"4/17/2026\",\"9555,8828\"],[\"4/20/2026\",\"9599,2129\"],[\"4/21/2026\",\"9647,2139\"],[\"4/22/2026\",\"9909,2666\"],[\"4/23/2026\",\"10078,5703\"],[\"4/24/2026\",\"10513,6602\"],[\"4/27/2026\",\"10408,04\"],[\"4/28/2026\",\"10035,5801\"],[\"4/29/2026\",\"10271,2998\"],[\"4/30/2026\",\"10503,7002\"],[\"5/1/2026\",\"10595,3398\"],[\"5/4/2026\",\"10534,6602\"],[\"5/5/2026\",\"10980,5801\"],[\"5/6/2026\",\"11472,75\"],[\"5/7/2026\",\"11160,9902\"],[\"5/8/2026\",\"11775,5\"],[\"5/11/2026\",\"12081,04\"],[\"5/12/2026\",\"11717,2598\"],[\"5/13/2026\",\"12017,9805\"],[\"5/14/2026\",\"12073,7803\"],[\"5/15/2026\",\"11588,46\"],[\"5/18/2026\",\"11302,5195\"],[\"5/19/2026\",\"11305,5\"],[\"5/20/2026\",\"11813,29\"],[\"5/21/2026\",\"11964,0801\"],[\"5/22/2026\",\"12202,54\"],[\"5/26/2026\",\"12876,9102\"],[\"5/27/2026\",\"12702,1904\"],[\"5/28/2026\",\"12829,1396\"],[\"5/29/2026\",\"12829,3799\"],[\"6/1/2026\",\"12965,6504\"],[\"6/2/2026\",\"13726,2695\"],[\"6/3/2026\",\"13916,96\"],[\"6/4/2026\",\"13617,5\"],[\"6/5/2026\",\"12220,7598\"],[\"6/8/2026\",\"12906,6904\"],[\"6/9/2026\",\"12657,8096\"],[\"6/10/2026\",\"12206,46\"],[\"6/11/2026\",\"13171,4404\"],[\"6/12/2026\",\"13371,4697\"],[\"6/15/2026\",\"14099,6201\"],[\"6/16/2026\",\"13294,2197\"],[\"6/17/2026\",\"13477,0703\"],[\"6/18/2026\",\"14341,7803\"],[\"6/22/2026\",\"14634,7197\"],[\"6/23/2026\",\"13482,5098\"],[\"6/24/2026\",\"13458,1904\"],[\"6/25/2026\",\"13940,8701\"],[\"6/26/2026\",\"13203,5703\"],[\"6/29/2026\",\"13709,6602\"],[\"6/30/2026\",\"14246,96\"],[\"7/1/2026\",\"13353,2803\"],[\"7/2/2026\",\"12626,2197\"],[\"7/6/2026\",\"12900,1396\"],[\"7/7/2026\",\"12300,5195\"],[\"7/8/2026\",\"12574,9697\"],[\"7/9/2026\",\"12960\"],[\"7/10/2026\",\"12967,1602\"],[\"7/13/2026\",\"12347,7803\"],[\"7/14/2026\",\"12661,9297\"],[\"7/15/2026\",\"12398,8896\"],[\"7/16/2026\",\"11867,5\"],[\"7/17/2026\",\"11673,8896\"],[\"7/20/2026\",\"11743,8496\"],[\"7/21/2026\",\"12356,1602\"],[\"7/22/2026\",\"12410,6699\"],[\"7/23/2026\",\"12343,8398\"],[\"7/24/2026\",\"11818,8896\"],[\"7/27/2026\",\"11554,8799\"],[\"7/28/2026\",\"11035,6797\"],[\"7/29/2026\",\"10447,4902\"],[\"7/30/2026\",\"11302,9902\"],[\"7/31/2026\",\"11311,0801\"],[\"8/3/2026\",\"11430,3496\"],[\"8/4/2026\",\"12179,2598\"],[\"8/5/2026\",\"12008,8799\"],[\"8/6/2026\",\"12048,6904\"],[\"8/7/2026\",\"12356,79\"],[\"8/10/2026\",\"11993,8604\"],[\"8/11/2026\",\"12098,4697\"],[\"8/12/2026\",\"12399,3799\"],[\"8/13/2026\",\"12456\"],[\"8/14/2026\",\"12417,0498\"],[\"8/17/2026\",\"12621\"],[\"8/18/2026\",\"11992,46\"],[\"8/19/2026\",\"11738,2305\"],[\"8/20/2026\",\"11800,0195\"],[\"8/21/2026\",\"11740,3701\"],[\"8/24/2026\",\"11423,1699\"],[\"8/25/2026\",\"\"]],\"sources\":[{\"text\":\"Bloomberg\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"datasheetParseInfo\":{\"columns\":[{\"type\":\"date\",\"dateFormatGroup\":\"month_first\"},{\"type\":\"number\",\"decimalSeparator\":\",\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"}]},\"updatedDate\":\"2026-08-25T14:09:05.793Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_38eb3c6b76ee3897ce09f60436def276_q61903135675d4fa3b23a5177d4605a2a\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0sat6e90",
+   "content": {
+    "title": "Unshakeable optimism",
+    "id": "subtitle-unersch-tterlicher-optimismus"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j20",
+   "content": {
+    "text": "Jensen Huang, co-founder and CEO of Nvidia, asserts that the AI revolution is only just beginning. He spreads optimism at every opportunity. Following the strong first-quarter results, he said: «Demand is skyrocketing. The reason for this is simple, agentic AI is here – it is doing productive work, creating real value, and rapidly spreading across companies and industries.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j30",
+   "content": {
+    "text": "Huang describes investor unease about circular financing structures as «ridiculous.» Nvidia is at the center of a network of AI companies that buy from and invest in each other. However, Huang says the investments are merely financial guarantees. He calls them a sign of «trust in companies that are shaping an entire generation.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j31",
+   "content": {
+    "text": "For a long time, hyperscalers were able to finance AI expansion with their own cash flows. Despite their high financial power, they recently have incurred debt and issued bonds to manage the enormous AI investments. This type of external financing does not in itself pose a problem. The bond market readily accepts the debt securities, and the bonds are highly creditworthy. But Huang wants to ensure that financing capacity does not decrease."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0sb1h1t0",
+   "content": {
+    "title": "Nvidia's customer financing",
+    "id": "subtitle-nvidia-finanziert-eigene-kunden"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sb1g1j1",
+   "content": {
+    "text": "At the beginning of the month, Nvidia <a href=\"https://www.nzz.ch/wirtschaft/500-milliarden-dollar-fuer-ki-infrastruktur-so-funktioniert-die-neue-zusammenarbeit-zwischen-nvidia-mit-der-wall-street-ld.10019204\">teamed up with six financial institutions</a> to launch a financing plan of over 500 billion dollars for AI expansion. Well-known names such as Goldman Sachs, Blackrock, and KKR are participating. If the project is fully implemented, it would be one of the largest private financing initiatives Wall Street has ever undertaken. It involves a series of capital pools through which Nvidia customers can secure financing. Huang views computing power as a new, investable asset class, as a «capital market for AI infrastructure.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa46j50",
+   "content": {
+    "text": "In addition to financing, Nvidia has also advanced into the area of language models. Sources recently revealed that the chip group invested six billion dollars in an open language model from the startup Poolside. In March, Nvidia had already invested in Thinking Machines Labs, also an open AI model. Nvidia is thus increasingly covering the AI value chain and is becoming even more indispensable for the industry. Thus, all AI players have an interest in Nvidia continuing to report strong figures."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0s6tdea4",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0s6tdea5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s6tdea6",
+      "content": {
+       "title": "500 billion dollars for AI infrastructure: How the new collaboration between Nvidia and Wall Street works",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/12/46fad906-485c-4ec1-b978-27006d6734c9.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/12/46fad906-485c-4ec1-b978-27006d6734c9.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2857,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2732,1537,x662,y1276"
+         },
+         {
+          "name": "4:3",
+          "crop": "1955,1466,x1075,y1301"
+         },
+         {
+          "name": "1:1",
+          "crop": "827,827,x1590,y1329"
+         },
+         {
+          "name": "3:4",
+          "crop": "1210,1613,x1401,y1244"
+         },
+         {
+          "name": "3:2",
+          "crop": "2258,1506,x951,y1280"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Nvidia CEO Jensen Huang needs fresh capital to expand its AI capabilities. Financial institutions like Goldman Sachs, BlackRock, and KKR are expected to raise significant funds from external investors. Given the anticipated AI bubble, the risks are considerable.",
+        "teaserAuthor": "Yoshio Tsunoda / Imago"
+       },
+       "teaserAuthor": "Yoshio Tsunoda / Imago",
+       "nzzId": "ld.10019204",
+       "readingTime": 240,
+       "paywallQuestionOne": "How does Nvidia plan to raise $500 billion for AI infrastructure?",
+       "paywallQuestionTwo": "What risks are associated with the financing of Nvidia's AI factories by external investors?",
+       "paywallQuestionThree": "Could the AI ​​boom lead to an investment bubble and overcapacity?",
+       "characterCount": 4721,
+       "product": "NZZ.ch",
+       "documentId": 10019204,
+       "layout": "regular",
+       "publicationDate": "2026-08-12T14:37:05.174Z",
+       "publicationLastUpdated": "2026-08-13T05:59:49.655Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-13T02:37:05.174Z",
+       "teaserCaption": "Nvidia CEO Jensen Huang needs fresh capital to expand its AI capabilities. Financial institutions like Goldman Sachs, BlackRock, and KKR are expected to raise significant funds from external investors. Given the anticipated AI bubble, the risks are considerable.",
+       "authorLine": "Matthias Benz",
+       "authorImage": {
+        "originalUrl": "/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "4333,4333,x1084,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/500-milliarden-dollar-fuer-ki-infrastruktur-so-funktioniert-die-neue-zusammenarbeit-zwischen-nvidia-mit-der-wall-street-ld.10019204",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 701,
+       "leadText": "Nvidia CEO Jensen Huang needs fresh capital to expand its AI capabilities. Financial institutions like Goldman Sachs, BlackRock, and KKR are expected to raise significant funds from external investors. Given the anticipated AI bubble, the risks are considerable.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s6tdea7",
+      "content": {
+       "title": "Nvidia aims to secure its future with a partnership in South Korea. The company needs new supplies of high-performance memory",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/09/3d078810-c356-498f-b617-c05fa07c5053.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/09/3d078810-c356-498f-b617-c05fa07c5053.jpg?width=1024&quality=75&auto=webp",
+        "width": 3000,
+        "height": 2001,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2254,1267,x374,y455"
+         },
+         {
+          "name": "4:3",
+          "crop": "1822,1367,x600,y379"
+         },
+         {
+          "name": "1:1",
+          "crop": "771,771,x1188,y452"
+         },
+         {
+          "name": "3:4",
+          "crop": "1240,1654,x942,y347"
+         },
+         {
+          "name": "3:2",
+          "crop": "3000,2000,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Nvidia is considered a major winner of the AI boom. However, the company's success also depends on supply chains controlled by others, namely the Korean chip manufacturer SK Hynix.",
+        "teaserAuthor": "Ann Wang / Reuters"
+       },
+       "teaserAuthor": "Ann Wang / Reuters",
+       "showComments": true,
+       "nzzId": "ld.10010483",
+       "readingTime": 180,
+       "paywallQuestionOne": "How does the partnership between Nvidia and SK Hynix strengthen their market position?",
+       "paywallQuestionTwo": "What role does Nvidia's software play in SK Hynix's chip development?",
+       "paywallQuestionThree": "How is the AI ​​boom affecting memory chip production worldwide?",
+       "characterCount": 3573,
+       "product": "NZZ.ch",
+       "documentId": 10010483,
+       "layout": "regular",
+       "publicationDate": "2026-06-10T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-10T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-10T15:30:00.000Z",
+       "teaserCaption": "Nvidia is considered a major winner of the AI boom. However, the company's success also depends on supply chains controlled by others, namely the Korean chip manufacturer SK Hynix.",
+       "authorLine": "Markus Städeli",
+       "authorImage": {
+        "originalUrl": "/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/c8d63d85-2a0d-4fc5-9288-ba44fa4f5baf.png?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/nvidia-will-sich-mit-einer-partnerschaft-in-suedkorea-die-zukunft-sichern-die-firma-braucht-nachschub-bei-hochleistungsspeichern-ld.10010483",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 548,
+       "premium": true,
+       "leadText": "Nvidia is considered a major winner of the AI boom. However, the company's success also depends on supply chains controlled by others, namely the Korean chip manufacturer SK Hynix.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s6tdea8",
+      "content": {
+       "title": "They produce paints, generators, and fiber optics: The secret winners of the AI boom are not in Silicon Valley",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/18/850f8dbe-4443-4f67-9f78-89c78193da21.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/18/850f8dbe-4443-4f67-9f78-89c78193da21.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4000,2250,x0,y209"
+         },
+         {
+          "name": "4:3",
+          "crop": "3556,2667,x222,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2667,2667,x667,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2000,2667,x1000,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4000,2667,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Building a data center requires not only computer chips but, first, a large excavation pit and a lot of electricity. American companies not typically associated with AI are benefiting from this. An overview.",
+        "teaserAuthor": "Luke Sharrett / Bloomberg"
+       },
+       "teaserAuthor": "Luke Sharrett / Bloomberg",
+       "nzzId": "ld.10019171",
+       "readingTime": 240,
+       "paywallQuestionOne": "What role do companies like Caterpillar play in the AI ​​boom?",
+       "paywallQuestionTwo": "Why do glass manufacturers like Corning benefit from AI data centers?",
+       "paywallQuestionThree": "How is the AI ​​boom affecting Cisco's networking technology?",
+       "characterCount": 6291,
+       "product": "NZZ.ch",
+       "documentId": 10019171,
+       "layout": "regular",
+       "publicationDate": "2026-08-19T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-19T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-19T15:30:00.000Z",
+       "teaserCaption": "Building a data center requires not only computer chips but, first, a large excavation pit and a lot of electricity. American companies not typically associated with AI are benefiting from this. An overview.",
+       "authorLine": "André Müller, New York",
+       "authorImage": {
+        "originalUrl": "/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+        "width": 8106,
+        "height": 5404,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1351,
+         "y": 0,
+         "width": 5404,
+         "height": 5404
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/farben-generatoren-spezialglas-die-heimlichen-gewinner-des-ki-booms-sitzen-nicht-im-silicon-valley-ld.10019171",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 898,
+       "leadText": "Building a data center requires not only computer chips but, first, a large excavation pit and a lot of electricity. American companies not typically associated with AI are benefiting from this. An overview.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/7a77e825-eb45-4ce3-88bf-f82bd81a94e1.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/7a77e825-eb45-4ce3-88bf-f82bd81a94e1.jpg?width=1024&quality=75&auto=webp",
+   "width": 5500,
+   "height": 3734,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5500,3094,x0,y45"
+    },
+    {
+     "name": "4:3",
+     "crop": "4979,3734,x486,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3734,3734,x1342,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2801,3734,x1621,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5500,3667,x0,y26"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+   "teaserAuthor": "Manami Yamada / Reuters"
+  },
+  "teaserAuthor": "Manami Yamada / Reuters",
+  "nzzId": "ld.10020939",
+  "readingTime": 180,
+  "characterCount": 4700,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020939,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T14:14:01.090Z",
+  "publicationDate": "2026-08-25T14:14:01.090Z",
+  "publicationLastUpdated": "2026-08-25T14:15:58.528Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T02:14:01.090Z",
+  "teaserCaption": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+  "nzzAuthors": [
+   {
+    "id": 1708237,
+    "name": "Eflamm Mordrelle",
+    "shortName": "EM",
+    "pianoId": "2937cd03-c4e6-474d-9eef-b7567e468ad1",
+    "external": false
+   }
+  ],
+  "authorLine": "Eflamm Mordrelle",
+  "authorImage": {
+   "originalUrl": "/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1737358,
+    "name": "Eflamm Mordrelle (EM)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 693,
+  "leadText": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+  "nzzSummaryEN": "- Nvidia's financial results are considered crucial for the AI boom and stock market stability. Disappointing outcomes could trigger market losses.\n- Nvidia has solidified its market position with consistent profit growth and collaborates with financial institutions to fund AI expansion.\n- The company is also investing in language models, increasingly covering the entire AI value chain.",
+  "nzzSummaryDE": "Nvidia's financial figures are considered crucial for the AI ​​boom and the stability of the stock markets. Disappointing results could lead to market losses.\n Nvidia has consolidated its market position with consistent profit increases and is cooperating with financial institutions to finance the expansion of AI.\n - In addition, the company is investing in language models and increasingly covering the entire AI value chain.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Once again, Nvidia is making the stock market nervous",
+  "nzzPrintSubtitle": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939",
+   "title": "Quarterly results: Nvidia once again makes the stock market nervous",
+   "socialMediaTitle": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/7a77e825-eb45-4ce3-88bf-f82bd81a94e1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y45&wmark=nzz"
+  },
+  "ldPublicationId": 2483503,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Nvidia",
+    "slug": "/themen/nvidia"
+   },
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019204",
+    "ld.10010483",
+    "ld.10019171"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 309264,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "nvidia",
+   "name": "Nvidia",
+   "tagName": "Nvidia",
+   "qId": "Q182477",
+   "seoTitle": "Nvidia – Latest news and all articles about the company | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 16:56:38.543Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/nvidia",
+   "size": 157,
+   "relatedTopics": [
+    {
+     "name": "Künstliche Intelligenz (KI)",
+     "slug": "/themen/kuenstliche-intelligenz-ki"
+    }
+   ]
+  },
+  "data": [
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "The chip war reaches the logistics industry: Kühne + Nagel scrutinizes Asian subsidiary after US authorities' investigation",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3667,3667,x917,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+     "teaserAuthor": "Benoit Tessier / Reuters"
+    },
+    "teaserAuthor": "Benoit Tessier / Reuters",
+    "nzzId": "ld.10021434",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is the chip war affecting the logistics industry?",
+    "paywallQuestionTwo": "What role does Apex Logistics play in the Nvidia chip smuggling?",
+    "paywallQuestionThree": "How is Kühne + Nagel reacting to the investigations by the US authorities?",
+    "characterCount": 5867,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021434",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T10:04:23.699Z",
+    "publicationLastUpdated": "2026-09-01T07:43:01.458Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T22:04:23.699Z",
+    "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "authorLine": "Dominik Feldges",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/16/52e0b698-52d3-4f00-915a-fa5563d57443.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/kuehne-nagel-und-nvidia-transport-chip-krieg-erreicht-logistikbranche-ld.10021434",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 873,
+    "premium": true,
+    "leadText": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Jalapeño: With a new chip, ChatGPT developer OpenAI spices up its loss-making AI business",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "paywallQuestionOne": "How could the Jalapeño chip make Open AI more profitable?",
+    "paywallQuestionTwo": "What advantages do custom AI chips offer compared to Nvidia GPUs?",
+    "paywallQuestionThree": "How does energy efficiency influence the expansion of AI infrastructure?",
+    "tags": [
+     "Technologie aktuell",
+     "Technologie: Empfehlungen",
+     "Künstliche Intelligenz"
+    ],
+    "nzzId": "ld.10021117",
+    "readingTime": 300,
+    "characterCount": 7605,
+    "showComments": true,
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/28/5cc6835e-ad00-44d8-b6c6-5b75f963f468.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/5cc6835e-ad00-44d8-b6c6-5b75f963f468.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2699,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y37"
+      },
+      {
+       "name": "1:1",
+       "crop": "2699,2699,x610,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3599,2699,x201,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2024,2699,x988,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y16"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/28/320344fc-3ef1-4c54-b317-39c6c523cb51.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/320344fc-3ef1-4c54-b317-39c6c523cb51.jpg?width=1024&quality=75&auto=webp",
+     "width": 4246,
+     "height": 2831,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4246,2388,x0,y59"
+      },
+      {
+       "name": "1:1",
+       "crop": "2831,2831,x1065,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3775,2831,x471,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2123,2831,x1502,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4246,2831,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/5cc6835e-ad00-44d8-b6c6-5b75f963f468.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/5cc6835e-ad00-44d8-b6c6-5b75f963f468.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2699,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y225"
+      },
+      {
+       "name": "4:3",
+       "crop": "3599,2699,x201,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2699,2699,x651,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2024,2699,x988,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y16"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Drastic power consumption reduction from in-house processor: Enough to emancipate from overpowering supplier Nvidia?"
+    },
+    "product": "NZZ.ch",
+    "documentId": "10021117",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-29T12:48:04.411Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:30:00.000Z",
+    "teaserCaption": "Drastic power consumption reduction from in-house processor: Enough to emancipate from overpowering supplier Nvidia?",
+    "authorLine": "Leonid Leiva Ariosa",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/jalapeno-mit-einem-neuen-chip-bringt-der-chat-gpt-entwickler-open-ai-wuerze-in-sein-verlustreiches-ki-geschaeft-ld.10021117",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 1099,
+    "premium": true,
+    "leadText": "Drastic power consumption reduction from in-house processor: Enough to emancipate from overpowering supplier Nvidia?",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Chip giant Nvidia continues to grow strongly – but investors and regulators are concerned about questionable circular financing practices",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/74be7426-43eb-4924-8aa6-6e16cd503c25.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/74be7426-43eb-4924-8aa6-6e16cd503c25.jpg?width=1024&quality=75&auto=webp",
+     "width": 8256,
+     "height": 5504,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8256,4644,x0,y478"
+      },
+      {
+       "name": "4:3",
+       "crop": "6065,4549,x805,y378"
+      },
+      {
+       "name": "1:1",
+       "crop": "2122,2122,x2788,y681"
+      },
+      {
+       "name": "3:4",
+       "crop": "3753,5004,x2037,y420"
+      },
+      {
+       "name": "3:2",
+       "crop": "8256,5504,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia's latest quarterly figures are extremely positive, with profits surging – thanks to AI and the construction of data centers. Rumors are currently circulating that Nvidia wants to acquire Hugging Face, an open-source AI marketplace, for $13 billion.",
+     "teaserAuthor": "Mustafa Yalcin / Imago"
+    },
+    "teaserAuthor": "Mustafa Yalcin / Imago",
+    "editor": "1372295",
+    "nzzId": "ld.10021239",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why do investors remain unimpressed despite Nvidia's revenue growth?",
+    "paywallQuestionTwo": "How does Nvidia contribute to the AI ​​boom with its chips?",
+    "paywallQuestionThree": "What makes Nvidia the most valuable company in the world?",
+    "characterCount": 6203,
+    "product": "NZZ.ch",
+    "documentId": "10021239",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T14:36:36.252Z",
+    "publicationLastUpdated": "2026-08-27T15:18:43.674Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-28T02:36:36.252Z",
+    "teaserCaption": "Nvidia's latest quarterly figures are extremely positive, with profits surging – thanks to AI and the construction of data centers. Rumors are currently circulating that Nvidia wants to acquire Hugging Face, an open-source AI marketplace, for $13 billion.",
+    "authorLine": "Michael Rasch",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/5d4cbc9a-6dd6-47e9-a749-844afb0d53e2.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/dem-ki-boom-sei-dank-der-chip-gigant-nvidia-verdoppelt-seinen-umsatz-ld.10021239",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 904,
+    "leadText": "Nvidia's latest quarterly figures are extremely positive, with profits surging – thanks to AI and the construction of data centers. Rumors are currently circulating that Nvidia wants to acquire Hugging Face, an open-source AI marketplace, for $13 billion.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Economy: China remains Germany's top trading partner +++ Daimler Truck generates 600 million euros from Archion sale",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "These are the latest reports",
+     "teaserAuthor": "Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Simon Tanner / NZZ",
+    "flag": "Short news items",
+    "nzzId": "ld.10017417",
+    "readingTime": 1380,
+    "paywallQuestionOne": "How did Deutsche Bank achieve a record profit in the second quarter?",
+    "paywallQuestionTwo": "Why is Apple now worth more than five trillion dollars for the first time?",
+    "paywallQuestionThree": "How is Mercedes-Benz defying the weak Chinese market?",
+    "characterCount": 32623,
+    "product": "NZZ.ch",
+    "documentId": "10017417",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T09:01:14.595Z",
+    "publicationLastUpdated": "2026-08-20T09:01:14.595Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-20T21:01:14.595Z",
+    "teaserCaption": "These are the latest reports",
+    "url": "https://www.nzz.ch/wirtschaft/wirtschaft-zahlen-der-erwerbstaetigen-und-der-erwerbslosen-in-der-schweiz-steigen-im-zweiten-quartal-leicht-ld.10017417",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 4610,
+    "leadText": "These are the latest reports",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Colonialism, antisemitism and populism: a look at history shows how devastating the bursting of the AI bubble would be (repeat)",
+    "authorLine": "David Vogel",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Geopolitics»",
+    "teaserImage": {
+     "originalUrl": "/2026/07/17/fb6323ec-94fe-4721-a013-a015d55fdac1.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/17/fb6323ec-94fe-4721-a013-a015d55fdac1.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y656"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y375"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y500"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In the podcast, business editor Markus Städeli discusses the possible geopolitical consequences should the speculative bubble burst."
+    },
+    "nzzId": "ld.10015939",
+    "readingTime": 120,
+    "paywallQuestionOne": "What geopolitical consequences could the bursting of the AI ​​bubble have?",
+    "paywallQuestionTwo": "What parallels exist between the AI ​​bubble and previous speculative bubbles?",
+    "paywallQuestionThree": "Why do investors often ignore warnings about speculative bubbles?",
+    "characterCount": 1813,
+    "product": "NZZ.ch",
+    "documentId": "10015939",
+    "layout": "regular",
+    "publicationDate": "2026-07-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-30T13:06:11.016Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-29T15:30:00.000Z",
+    "teaserCaption": "In the podcast, business editor Markus Städeli discusses the possible geopolitical consequences should the speculative bubble burst.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/geopolitik/kolonialismus-antisemitismus-und-populismus-der-blick-in-die-geschichte-zeigt-wie-verheerend-das-platzen-der-ki-blase-waere-wh-ld.10015939",
+    "department": {
+     "name": "Geopolitics",
+     "path": "/podcast/geopolitik"
+    },
+    "estimationWordCount": 300,
+    "leadText": "In the podcast, business editor Markus Städeli discusses the possible geopolitical consequences should the speculative bubble burst.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Why the bursting of the AI ​​bubble would also be geopolitically devastating (repeat)",
+    "teaserPodcastAuthor": "David Vogel mit Markus Städeli",
+    "teaserPodcastDate": "29.07.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2548290-m-4f9934c1c7c37fbf20c6f0caccefff20.mp3",
+    "teaserPodcastDuration": "27",
+    "locale": "de-CH"
+   },
+   {
+    "title": "Circular deals rattle investors: While AI companies announce ever larger deals, their share prices are plummeting",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/28/4cdf6cf3-7edd-4219-a8a4-b8ab811d2ef8.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/28/4cdf6cf3-7edd-4219-a8a4-b8ab811d2ef8.jpg?width=1024&quality=75&auto=webp",
+     "width": 5401,
+     "height": 3601,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5401,3038,x0,y563"
+      },
+      {
+       "name": "4:3",
+       "crop": "4801,3601,x62,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3601,3601,x187,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2701,3601,x668,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5401,3601,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The AI industry's debt is growing rapidly. One thing in particular is causing discontent: Providers like Nvidia are extending credit to their customers so they can afford these immense investments.",
+     "teaserAuthor": "Future Publishing via Getty"
+    },
+    "teaserAuthor": "Future Publishing via Getty",
+    "nzzId": "ld.10017292",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why do investors react negatively to AI deals despite large investments?",
+    "paywallQuestionTwo": "What risks do circular businesses pose in the AI ​​industry?",
+    "paywallQuestionThree": "How does dependence on a few customers affect the AI ​​chip industry?",
+    "characterCount": 4711,
+    "product": "NZZ.ch",
+    "documentId": "10017292",
+    "layout": "regular",
+    "publicationDate": "2026-07-28T14:08:43.679Z",
+    "publicationLastUpdated": "2026-07-28T14:10:23.357Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-29T02:08:43.679Z",
+    "teaserCaption": "The AI industry's debt is growing rapidly. One thing in particular is causing discontent: Providers like Nvidia are extending credit to their customers so they can afford these immense investments.",
+    "authorLine": "Albert Steck",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/zirkulaere-deals-verunsichern-die-investoren-waehrend-die-ki-konzerne-immer-groessere-geschaefte-ankuendigen-brechen-ihre-aktienkurse-ein-ld.10017292",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 728,
+    "leadText": "The AI industry's debt is growing rapidly. One thing in particular is causing discontent: Providers like Nvidia are extending credit to their customers so they can afford these immense investments.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020939",
+    "name": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1708237,
+       "name": "Eflamm Mordrelle",
+       "shortName": "EM",
+       "pianoId": "2937cd03-c4e6-474d-9eef-b7567e468ad1",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T14:14:01.090Z",
+     "updateTimestamp": "2026-08-25T14:15:58.528Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020939",
+   "pageType": "regular",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Quarterly results: Nvidia once again makes the stock market nervous",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/7a77e825-eb45-4ce3-88bf-f82bd81a94e1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y45&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Eflamm Mordrelle",
+  "description": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+  "news_keywords": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T18:15:58+02:00",
+  "date": "2026-08-25T18:14:01+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous",
+  "ogTitle": "The chip giant at the center of the AI ​​boom: Nvidia is once again making the stock markets nervous",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939",
+  "mrf:cms_id": "nzz:ld.10020939",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020939",
+  "nzzAuthors": [
+   {
+    "id": 1708237,
+    "name": "Eflamm Mordrelle",
+    "shortName": "EM",
+    "pianoId": "2937cd03-c4e6-474d-9eef-b7567e468ad1",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:50 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Quarterly results: Nvidia once again makes the stock market nervous"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939"
+   },
+   "headline": "Quarterly results: Nvidia once again makes the stock market nervous",
+   "datePublished": "2026-08-25T18:14:01+02:00",
+   "dateModified": "2026-08-25T18:15:58+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "For the global economy, Nvidia's financial results are as important as a US Federal Reserve interest rate decision. The quarterly figures absolutely must deliver a positive result, otherwise a market downturn threatens.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/7a77e825-eb45-4ce3-88bf-f82bd81a94e1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y45&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Eflamm Mordrelle"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 309264,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/der-chip-gigant-im-zentrum-des-ki-booms-einmal-mehr-macht-nvidia-die-boersen-nervoes-ld.10020939",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020939",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2026-08-25T14:14:01.090Z",
+   "ContentAuthor": "Eflamm Mordrelle",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie beeinflusst Nvidia die Weltwirtschaft und den KI-Boom?\nWelche Risiken bestehen für Nvidias Wettbewerbsvorsprung?\nWie reagiert der Markt auf Nvidias Finanzierungsinitiativen?",
+   "ldId": "ld.10020939",
+   "channel": "Wirtschaft",
+   "heading": "Der Chip-Gigant im Zentrum des KI-Booms: Einmal mehr macht Nvidia die Börsen nervös",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

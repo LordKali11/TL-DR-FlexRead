@@ -1,0 +1,1141 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0vai3cb1",
+   "content": {
+    "title": "Good news for the growing generation: Social networks finally have to take responsibility",
+    "lead": "The Meta Group has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions are being introduced on platforms like Instagram.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0vai3cb2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Ruth Fulterer",
+       "url": "/impressum/ruth-fulterer-ld.1601051",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0vglbrc0",
+   "content": {
+    "image": {
+     "author": "Manuel Orbegozo / Reuters",
+     "caption": "Mark Zuckerberg must pay billions to US states in a historic settlement.",
+     "originalUrl": "/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?crop=3636,2647,x202,y79",
+     "width": 4000,
+     "height": 2912,
+     "crop": {
+      "x": 202,
+      "y": 79,
+      "width": 3636,
+      "height": 2647,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 202,
+       "y": 79,
+       "width": 3636,
+       "height": 2647,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Mark Zuckerberg must pay billions to US states in a historic settlement.",
+    "author": "Manuel Orbegozo / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vai3cb4",
+   "content": {
+    "text": "And suddenly it works. No more endless scrolling at night, no more comparing likes: How children and young people in the US use Instagram and Facebook is expected to fundamentally change in the coming year."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-45081895",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vbrtpn1",
+   "content": {
+    "text": "Meta, the owner of Facebook and Instagram, has <a href=\"https://oag.ca.gov/system/files/attachments/press-docs/23-05448-ecf-572-1-exhibit-1-mdl-consent-judgment-final-settlment-agreement-fully-executed.pdf\">agreed to an out-of-court settlement</a>. In it, the company commits not only to payments of up to 18 billion dollars to US states but also to serious youth protection measures. The signal could hardly be clearer: Social networks are finally being held accountable. Other platforms – and countries – should follow suit."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0vec7sa0",
+   "content": {
+    "title": "Lost social media generation's lawsuits",
+    "id": "subtitle-es-klagte-die-verlorene-social-media-generation"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vbkn5q0",
+   "content": {
+    "text": "It has been more than twenty years since Facebook was launched. What began as a platform for a few personal thoughts and pictures has evolved into an app where people mindlessly scroll through distracting short videos for hours."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vcevvo1",
+   "content": {
+    "text": "Facebook, Instagram, TikTok, Snapchat – they have become quite similar. They have all learned what keeps users glued to their screens for as long as possible: social recognition on the one hand, and fast-paced videos on the other, highly individually adapted to what interests each person."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vepa0u0",
+   "content": {
+    "text": "An entire generation was defenseless against this rush at a vulnerable age. The <a href=\"https://www.nzz.ch/technologie/der-tabak-moment-von-social-media-junge-erwachsene-beschuldigen-instagram-tiktok-und-co-sie-suechtig-gemacht-zu-haben-ld.1923401\">wave of lawsuits against social networks in the US</a>, to which this latest settlement also belongs, began with the case of a 20-year-old who acted as a spokesperson for this «lost generation.» Eating disorders, suicidality, sexualized messages from strangers: Her fate impressively demonstrated the consequences of social platforms at their worst."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vcen7r1",
+   "content": {
+    "text": "But it doesn't even have to come to that. There is no need to argue with seriously ill young people to restrict social networks. The constant distraction in school, the bullying, the endless circling around filtered selfies and scrolling all night long: It is obvious that all of this in such quantities is unhealthy."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vd5pq41",
+   "content": {
+    "text": "In the wake of the wave of lawsuits, a flood of internal documents and studies became public, supporting this intuition. They show how employees of the platforms discussed the problems and devised solutions, but <a href=\"https://www.nzz.ch/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585\">were repeatedly held back</a> for fear of economic losses."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0vfahmb0",
+   "content": {
+    "title": "Scrolling restrictions at night and during school hours",
+    "id": "subtitle-scroll-stopp-in-der-nacht-und-in-der-schulzeit"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vfaokr0",
+   "content": {
+    "text": "Now, finally, the pressure has become so great that the first platforms are implementing the solutions they have long known."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vdl00e0",
+   "content": {
+    "text": "These include time limits: All users under 17 on Instagram and Facebook will be put into a mandatory night mode from midnight to six in the morning. They can still read messages but cannot scroll normally on the apps."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vg9d2e0",
+   "content": {
+    "text": "Strict limits also apply during the day: In total, children should not spend more than two hours on Meta apps. And during school hours, push notifications are deactivated – parents can also set the «night mode» for school hours."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vea0vh0",
+   "content": {
+    "text": "Beauty filters that simulate surgical procedures will be banned, likes will be hidden, and if users report content due to bullying, nudity, or self-harm, Meta commits to responding to at least 90% of reports within six hours. And the list goes on."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vfg5li1",
+   "content": {
+    "text": "Of course, there will be hurdles in implementation. Young people are resourceful at circumventing rules. An external body will therefore continuously monitor the status of the measures. Of course, such rules only make sense if they encompass all networks. The fact that Meta has given in means that it expects a turnaround in the entire industry."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vfmhda0",
+   "content": {
+    "text": "This settlement is a strong signal. Suddenly, the US is leading the way in child protection on social platforms. With measures that are more elegant and well-conceived than the ban for under-16s, because they preserve the positive aspects of networks while mitigating the harms. This is good news, especially for those growing up now."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0vai3cb5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-aac3ecec",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 11,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Emanuel Ph Maeder",
+      "text": "Thanks Arturo Béjar, it's good that something is finally happening, but when will the EU and Switzerland follow suit? If anyone still doubts that demonstrable harm results from excessive use: here's the evidence (WHR, August 2026): https://www.worldhappiness.report/ed/2026/social-media-is-harming-adolescents-at-a-scale-large-enough-to-cause-changes-at-the-population-level/ Take care of yourselves and your children.",
+      "created_at": "2026-08-28T06:20:27.160Z",
+      "like_count": 0,
+      "isPro": false,
+      "isNzz": false
+     },
+     {
+      "author_name": "Andreas Ochsenbein",
+      "text": "The trick, which is unfortunately or typically ignored, is that everyone has to prove they are not a child, and therefore register and identify themselves. This is how anonymous internet use gradually disappears for ordinary people. Crooks always find a way. And the EU, with its cleverly introduced chat monitoring (three rejections and it's implemented), has taken another step forward. But it's supposedly for the protection of children. And what about the constitutional right of parents and children that it is the parents who raise and protect their children? «Those who would give up liberty to purchase a little temporary safety deserve neither liberty nor safety» – Benjamin Franklin, and he phrased it much more harshly.",
+      "created_at": "2026-08-27T17:20:12.278Z",
+      "like_count": 1,
+      "isPro": false,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Good news for the younger generation: Social networks are finally being forced to take responsibility",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4000,
+   "height": 2912,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3636,2045,x262,y416"
+    },
+    {
+     "name": "4:3",
+     "crop": "3883,2912,x59,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2912,2912,x1088,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2184,2912,x1523,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4000,2667,x0,y123"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+   "teaserAuthor": "Manuel Orbegozo / Reuters"
+  },
+  "teaserAuthor": "Manuel Orbegozo / Reuters",
+  "flag": "Opinion",
+  "nzzId": "ld.10021209",
+  "readingTime": 180,
+  "characterCount": 4018,
+  "tags": [
+   "Technologie aktuell"
+  ],
+  "showComments": true,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021209,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-27T07:38:25.032Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+  "teaserCaption": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+  "nzzAuthors": [
+   {
+    "id": 1532351,
+    "name": "Ruth Fulterer",
+    "shortName": "ful",
+    "pianoId": "84c1f069-1900-49fa-8ab5-45d154bf1174",
+    "external": false
+   }
+  ],
+  "authorLine": "Ruth Fulterer",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1601051,
+    "name": "Ruth Fulterer (ful.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+  "url": "/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 617,
+  "leadText": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+  "nzzSummaryEN": "- Meta agreed to a settlement, paying $16.8 billion and committing to youth protection measures such as time limits and night modes.\n- Measures include screen time restrictions and disabled push notifications during school hours.\n- The settlement sends a strong signal to the industry and may lead to further child protection on social networks.",
+  "nzzSummaryDE": "Meta has agreed to a settlement, paying $16.8 billion and committing to youth protection measures such as time limits and night modes.\n - The measures include, among other things, limiting screen time and disabling push notifications during school hours.\n - The settlement sends a signal to the industry and could lead to further child protection on social networks.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Meta-process leads to restrictions on Instagram: Social networks finally have to take responsibility",
+  "nzzPrintSubtitle": "Meta-process leads to restrictions on Instagram: Social networks finally have to take responsibility",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+   "title": "Meta-process leads to restrictions on Instagram",
+   "socialMediaTitle": "Meta-process leads to restrictions on Instagram: Social networks finally have to take responsibility",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3636,2045,x262,y416&wmark=nzz"
+  },
+  "ldPublicationId": 2484422,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Instagram",
+    "slug": "/themen/instagram"
+   },
+   {
+    "name": "Social Media",
+    "slug": "/themen/social-media"
+   },
+   {
+    "name": "Facebook",
+    "slug": "/themen/facebook"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 11,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Emanuel Ph Maeder",
+     "text": "Thanks Arturo Béjar, it's good that something is finally happening, but when will the EU and Switzerland follow suit? If anyone still doubts that demonstrable harm results from excessive use: here's the evidence (WHR, August 2026): https://www.worldhappiness.report/ed/2026/social-media-is-harming-adolescents-at-a-scale-large-enough-to-cause-changes-at-the-population-level/ Take care of yourselves and your children.",
+     "created_at": "2026-08-28T06:20:27.160Z",
+     "like_count": 0,
+     "isPro": false,
+     "isNzz": false
+    },
+    {
+     "author_name": "Andreas Ochsenbein",
+     "text": "The trick, which is unfortunately or typically ignored, is that everyone has to prove they are not a child, and therefore register and identify themselves. This is how anonymous internet use gradually disappears for ordinary people. Crooks always find a way. And the EU, with its cleverly introduced chat monitoring (three rejections and it's implemented), has taken another step forward. But it's supposedly for the protection of children. And what about the constitutional right of parents and children that it is the parents who raise and protect their children? «Those who would give up liberty to purchase a little temporary safety deserve neither liberty nor safety» – Benjamin Franklin, and he phrased it much more harshly.",
+     "created_at": "2026-08-27T17:20:12.278Z",
+     "like_count": 1,
+     "isPro": false,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 259152,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "instagram",
+   "name": "Instagram",
+   "tagName": "Instagram",
+   "qId": "Q209330",
+   "seoTitle": "Instagram – All articles about the online service | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "PROD",
+   "createdDate": "2025-04-08 15:46:11.746Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/instagram",
+   "size": 420,
+   "relatedTopics": [
+    {
+     "name": "Social Media",
+     "slug": "/themen/social-media"
+    },
+    {
+     "name": "Facebook",
+     "slug": "/themen/facebook"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "Meta and the billion-dollar settlement: Will social media now be safer?",
+    "authorLine": "Nadine Landert",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Akzent»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/e69bac7b-a2b7-470c-a4bd-474b51ee2740.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/e69bac7b-a2b7-470c-a4bd-474b51ee2740.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y470"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y315"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x397,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y359"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?"
+    },
+    "nzzId": "ld.10021292",
+    "readingTime": 60,
+    "paywallQuestionOne": "How does the billion-dollar settlement affect security on social media?",
+    "paywallQuestionTwo": "What role did Arturo Béjar play in the trial against Meta?",
+    "paywallQuestionThree": "What measures must Meta implement to protect young people?",
+    "characterCount": 1624,
+    "product": "NZZ.ch",
+    "documentId": "10021292",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-28T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T15:30:00.000Z",
+    "teaserCaption": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/akzent/meta-und-der-milliarden-vergleich-wird-social-media-jetzt-sicherer-ld.10021292",
+    "department": {
+     "name": "accent",
+     "path": "/podcast/akzent"
+    },
+    "estimationWordCount": 282,
+    "leadText": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Meta and the billion-dollar comparison: Is social media becoming safer now?",
+    "teaserPodcastAuthor": "Nadine Landert, Gioia da Silva",
+    "teaserPodcastDate": "28.8.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2581151-m-6eebfd055f1a3ec428a3493a7509ab62.mp3",
+    "teaserPodcastDuration": "14",
+    "locale": "de-CH"
+   },
+   {
+    "title": "The key witness in the meta-trial warns: «Instagram is a service that invites strangers into our children's bedrooms at night.»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4333,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y338"
+      },
+      {
+       "name": "4:3",
+       "crop": "5777,4333,x361,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4333,4333,x1084,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3250,4333,x1625,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+     "teaserAuthor": "Manuel Orbegozo / Reuters"
+    },
+    "teaserAuthor": "Manuel Orbegozo / Reuters",
+    "flag": "interview",
+    "tags": [
+     "Technologie aktuell",
+     "Soziale Netzwerke"
+    ],
+    "nzzId": "ld.10021277",
+    "readingTime": 360,
+    "paywallQuestionOne": "How effective are Meta's new protective measures for young people?",
+    "paywallQuestionTwo": "Why is Arturo Béjar calling for external control over Meta's security functions?",
+    "paywallQuestionThree": "What role does Instagram play in promoting harmful behavior?",
+    "characterCount": 8071,
+    "product": "NZZ.ch",
+    "documentId": "10021277",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T13:31:37.319Z",
+    "publicationLastUpdated": "2026-08-27T13:31:37.319Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T01:31:37.319Z",
+    "teaserCaption": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+    "authorLine": "Gioia da Silva",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 1224,
+    "leadText": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Groundbreaking settlement: Instagram limits how long children can use online service in the US",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Renzo Ruf, Washington",
+    "teaserImage": {
+     "originalUrl": "/2026/02/06/c4e867f7-eb82-4957-9be1-80e1e4060255.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/02/06/c4e867f7-eb82-4957-9be1-80e1e4060255.jpg?width=1024&quality=75&auto=webp",
+     "width": 8192,
+     "height": 5464,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8192,4608,x0,y252"
+      },
+      {
+       "name": "4:3",
+       "crop": "7285,5464,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4105,4105,x811,y289"
+      },
+      {
+       "name": "3:4",
+       "crop": "4098,5464,x597,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8192,5461,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Instagram and Facebook parent agrees to pay $18 billion fine; Meta implements new child protection measures",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "tags": [
+     "Technologie aktuell"
+    ],
+    "nzzId": "ld.10021219",
+    "readingTime": 240,
+    "paywallQuestionOne": "What new child protection measures is Meta implementing in the USA?",
+    "paywallQuestionTwo": "Why is Florida the only state still suing Meta?",
+    "paywallQuestionThree": "What conditions must YouTube and TikTok meet to avoid penalties?",
+    "characterCount": 5509,
+    "product": "NZZ.ch",
+    "documentId": "10021219",
+    "layout": "regular",
+    "publicationDate": "2026-08-26T20:18:59.816Z",
+    "publicationLastUpdated": "2026-08-27T14:26:51.640Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-27T08:18:59.816Z",
+    "teaserCaption": "Instagram and Facebook parent agrees to pay $18 billion fine; Meta implements new child protection measures",
+    "url": "https://www.nzz.ch/wirtschaft/bahnbrechender-vergleich-instagram-limitiert-in-den-usa-wie-lange-kinder-den-online-dienst-nutzen-duerfen-ld.10021219",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 836,
+    "leadText": "Instagram and Facebook parent agrees to pay $18 billion fine; Meta implements new child protection measures",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Instagram is the new smoking: The trillion-dollar lawsuit against the Zuckerberg company follows the pattern of the lawsuits against the tobacco industry",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/60e91a6e-b1b9-4af3-b99a-ac18cb45ca83.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/60e91a6e-b1b9-4af3-b99a-ac18cb45ca83.jpg?width=1024&quality=75&auto=webp",
+     "width": 8035,
+     "height": 5504,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8035,4520,x0,y422"
+      },
+      {
+       "name": "4:3",
+       "crop": "7339,5504,x204,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5504,5504,x914,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4128,5504,x1537,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8035,5357,x0,y74"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Twenty-nine US states accuse social media giant Meta of addicting minors for profit. Digital technologies are at issue, but the model draws on trials from the analog era.",
+     "teaserAuthor": "Richard Bailey / Getty"
+    },
+    "teaserAuthor": "Richard Bailey / Getty",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020224",
+    "readingTime": 300,
+    "paywallQuestionOne": "How will the lawsuit against Meta affect the future of social networks?",
+    "paywallQuestionTwo": "What parallels exist between Meta and the tobacco industry?",
+    "paywallQuestionThree": "How credible are the allegations against Meta, according to experts?",
+    "characterCount": 7068,
+    "authorLine": "Andreas Mink",
+    "product": "NZZ.ch",
+    "documentId": "10020224",
+    "layout": "regular",
+    "publicationDate": "2026-08-23T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-23T12:28:30.349Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+    "teaserCaption": "Twenty-nine US states accuse social media giant Meta of addicting minors for profit. Digital technologies are at issue, but the model draws on trials from the analog era.",
+    "url": "https://www.nzz.ch/wirtschaft/instagram-ist-das-neue-rauchen-die-billionenklage-gegen-den-zuckerberg-konzern-folgt-dem-muster-der-prozesse-gegen-die-tabakindustrie-ld.10020224",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1023,
+    "leadText": "Twenty-nine US states accuse social media giant Meta of addicting minors for profit. Digital technologies are at issue, but the model draws on trials from the analog era.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Swiss tourist sentenced to one year in prison in Bali for social media video",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/a30470a6-1e81-4d2c-90f7-9dc6723ed2c9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/a30470a6-1e81-4d2c-90f7-9dc6723ed2c9.jpg?width=1024&quality=75&auto=webp",
+     "width": 4025,
+     "height": 2684,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4025,2264,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3579,2684,x241,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2218,2218,x613,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2013,2684,x563,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4025,2683,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1623,
+      "y": 422
+     },
+     "imageService": "fastly",
+     "teaserCaption": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+     "teaserAuthor": "AP"
+    },
+    "teaserAuthor": "AP",
+    "nzzId": "ld.10020509",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why was the Swiss tourist sentenced to one year in prison in Bali?",
+    "paywallQuestionTwo": "How do Southeast Asians react to tourists who disregard local rules?",
+    "paywallQuestionThree": "What role does tourism play in the economies of Southeast Asia?",
+    "characterCount": 3785,
+    "product": "NZZ.ch",
+    "documentId": "10020509",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T14:48:14.908Z",
+    "publicationLastUpdated": "2026-08-24T07:48:46.729Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-22T02:48:14.908Z",
+    "teaserCaption": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+    "authorLine": "Andreas Babst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/fb7cc9c4-ab5a-4d06-8baf-cb9eb53c8ee1.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/schweizer-tourist-auf-bali-wegen-video-auf-social-media-zu-einem-jahr-haft-verurteilt-ld.10020509",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 590,
+    "leadText": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Despite TikTok and Instagram, TV debates remain a power factor in election campaigns",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/2bd86e03-0fcb-408d-9a58-39d80c011d69.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/2bd86e03-0fcb-408d-9a58-39d80c011d69.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2689,1488,x52,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x167,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2000,2000,x500,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x780,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The political parties are well aware of television's reach and often fight for airtime. This is especially true in the eastern German state of Mecklenburg-Western Pomerania, where the state premier is said to have pushed the CDU and the Left Party out of televised debates.",
+     "teaserAuthor": "Getty"
+    },
+    "teaserAuthor": "Getty",
+    "nzzId": "ld.10020166",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why do TV debates remain important for election campaigns despite social media?",
+    "paywallQuestionTwo": "How do TV debates influence viewers' voting decisions?",
+    "paywallQuestionThree": "What role does the incumbent's advantage play in TV debates?",
+    "characterCount": 7941,
+    "product": "NZZ.ch",
+    "documentId": "10020166",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-20T14:42:20.599Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-20T15:30:00.000Z",
+    "teaserCaption": "The political parties are well aware of television's reach and often fight for airtime. This is especially true in the eastern German state of Mecklenburg-Western Pomerania, where the state premier is said to have pushed the CDU and the Left Party out of televised debates.",
+    "authorLine": "Susann Kreutzmann, Berlin",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/11/10/b0608516-99ec-46f7-a2b0-281a53332343.jpg?crop=1200,1200,x200,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/deutschland/politik/trotz-tiktok-und-instagram-tv-duelle-bleiben-im-wahlkampf-ein-machtfaktor-ld.10020166",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 1146,
+    "leadText": "The political parties are well aware of television's reach and often fight for airtime. This is especially true in the eastern German state of Mecklenburg-Western Pomerania, where the state premier is said to have pushed the CDU and the Left Party out of televised debates.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021209",
+    "name": "Good news for the younger generation: Social networks are finally being forced to take responsibility",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Good news for the younger generation: Social networks are finally being forced to take responsibility",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1532351,
+       "name": "Ruth Fulterer",
+       "shortName": "ful",
+       "pianoId": "84c1f069-1900-49fa-8ab5-45d154bf1174",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:30:00.000Z",
+     "updateTimestamp": "2026-08-27T07:38:25.032Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021209",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Meta-process leads to restrictions on Instagram",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3636,2045,x262,y416&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Ruth Fulterer",
+  "description": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+  "news_keywords": "Good news for the younger generation: Social networks finally have to take responsibility. (Comment, Opinion, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-27T11:38:25+02:00",
+  "date": "2026-08-27T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - Good news for the rising generation: Social networks finally have to take responsibility",
+  "ogTitle": "Meta-process leads to restrictions on Instagram: Social networks finally have to take responsibility",
+  "ogUrl": "https://www.nzz.ch/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+  "mrf:cms_id": "nzz:ld.10021209",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021209",
+  "nzzAuthors": [
+   {
+    "id": 1532351,
+    "name": "Ruth Fulterer",
+    "shortName": "ful",
+    "pianoId": "84c1f069-1900-49fa-8ab5-45d154bf1174",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:13 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Meta-process leads to restrictions on Instagram"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209"
+   },
+   "headline": "Meta-process leads to restrictions on Instagram",
+   "datePublished": "2026-08-27T07:30:00+02:00",
+   "dateModified": "2026-08-27T11:38:25+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3636,2045,x262,y416&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Ruth Fulterer"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 259152,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+    "classification=default",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021209",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-08-27T03:30:00.000Z",
+   "ContentAuthor": "Ruth Fulterer",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Welche Jugendschutzmassnahmen setzt Meta auf Instagram und Facebook um?\nWie beeinflusst der Vergleich die gesamte Social-Media-Branche?\nWelche Einschränkungen gelten für Jugendliche bei der Nutzung von Meta-Apps?",
+   "ldId": "ld.10021209",
+   "channel": "Meinung",
+   "heading": "Eine gute Nachricht für die heranwachsende Generation: Endlich müssen soziale Netzwerke Verantwortung übernehmen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

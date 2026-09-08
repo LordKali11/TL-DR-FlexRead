@@ -1,0 +1,1455 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0prk8vk1",
+   "content": {
+    "title": "Canadians are tough. Prime Minister Mark Carney proves this in the US trade dispute",
+    "lead": "The former banker, of all people, wants to show Donald Trump that money isn't everything.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0prk8vk2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Andreas Scheiner, Chicago",
+       "url": "/impressum/andreas-scheiner-ld.1684573",
+       "teaserImage": {
+        "originalUrl": "/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0prk8vk3",
+   "content": {
+    "image": {
+     "author": "Sammy Kogan / AP",
+     "caption": "«Canada will retaliate against the new tariffs from Washington dollar for dollar,» said Mark Carney.",
+     "originalUrl": "/2026/08/24/87ad08da-6a12-42c8-9d5d-53019ab344c9.jpg?crop=6000,4000,x0,y0",
+     "width": 6000,
+     "height": 4000,
+     "altText": "Prime Minister Mark Carney attends a housing announcement in Toronto, on Wednesday, Aug. 5, 2026. (Sammy Kogan/The Canadian Press via AP) Canada Carney Housing",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179919379"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 4000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 4000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "«Canada will retaliate against the new tariffs from Washington dollar for dollar,» said Mark Carney.",
+    "author": "Sammy Kogan / AP"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00j0",
+   "content": {
+    "text": "Perhaps he really needed the vacation. The timing of Mark Carney's mid-August trip to Italy had drawn much criticism. Donald Trump's ultimatum for 50% punitive tariffs was set to expire. While negotiations entered a critical phase, the Canadian prime minister was under the Tuscan sun. But he apparently felt strengthened afterward."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-46446423",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00k0",
+   "content": {
+    "text": "He returned with a clear sense of purpose. He refused Trump, let the talks collapse, and announced retaliatory tariffs. While the Americans targeted Canadian exports like hockey sticks, furniture, and wine, Carney retaliated with tariffs on milk, steel, agricultural equipment, and electrical appliances."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00l0",
+   "content": {
+    "text": "«Canada will reciprocate Washington’s new tariffs dollar for dollar,» he said. Carney maintained that it was necessary to protect Canada’s farmers, families, and businesses from American harassment. The conditions proposed by Trump, he argued, had «called into question the reliability of any agreement.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00m0",
+   "content": {
+    "text": "Or as Ontario Premier Doug Ford, a Conservative, put it: «President Trump is the type of person who steals your lunch money on the first day. He steals your hat off your head on the second day, and your running shoes on the third day.» Ford said Trump could not be trusted, and Carney thinks so too. Most Canadians share this view."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0q88pf50",
+   "content": {
+    "title": "Canadians fed up with Trump",
+    "id": "subtitle-die-kanadier-haben-trump-satt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00m2",
+   "content": {
+    "text": "In an Angus Reid Institute survey, <a href=\"https://angusreid.org/resolve-apprehension-76-say-canada-was-right-to-ditch-trade-talks-but-two-in-five-have-fear-for-their-jobs/\">more than 75% of respondents stated that the prime minister was right to remain stubborn.</a> A majority had already indicated that they would henceforth avoid American products, regardless of how the negotiations turned out. In short, Canadians are fed up with Trump."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00n1",
+   "content": {
+    "text": "No wonder, because the National Review writes that since James Madison, who launched several invasions in the early 19th century, <a href=\"https://www.nationalreview.com/2026/07/trumps-canadian-tariffs-make-no-sense/\">no American president had been so anti-Canadian.</a> Trump’s constant invectives, wanting to make Canada the 51st U.S. state, played into Carney’s hands – even if they were hollow rhetoric."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00q0",
+   "content": {
+    "text": "Why would the Republican want to acquire an additional state that would certainly lean Democrat? At the same time, it is clear that Canada is in a weaker position in the trade dispute. «We don’t need anything Canada has,» Trump said, «but they need everything we have.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00s0",
+   "content": {
+    "text": "That, of course, is not entirely true. Canadians, for example, obviously don’t need bourbon. A ban on U.S.-made whiskey, which came into effect in March 2025, is already being called «Canada’s Strait of Hormuz»: a small choke point that inflicts economic pain on the Americans."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00u0",
+   "content": {
+    "text": "But bourbon abstinence only offers a taste of what Carney yearns for. He promises to rebalance the American-Canadian power dynamic. Canada’s economic relations with the U.S. were a «weakness that we must correct,» he said in a speech in June."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0q4a9bi0",
+   "content": {
+    "image": {
+     "author": "Carlos Osorio / Reuters",
+     "caption": "Carney's political rise was rapid. The photograph shows him with his wife, Diana Fox Carney, during the 2025 election campaign.",
+     "originalUrl": "/2026/08/24/618c15d4-0d5f-4feb-aa21-40ab83e40029.jpg?crop=5303,3537,x0,y0",
+     "width": 5303,
+     "height": 3537,
+     "altText": "Canada's Prime Minister Mark Carney and his wife Diana Fox Carney debark at Winnipeg Richardson International Airport during his Liberal Party election campaign tour in Winnipeg, Manitoba, Canada April 24, 2025. REUTERS/Carlos Osorio",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2168783950"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5303,
+      "height": 3537,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5303,
+       "height": 3537,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Carney's political rise was rapid. The photograph shows him with his wife, Diana Fox Carney, during the 2025 election campaign.",
+    "author": "Carlos Osorio / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0q8fv200",
+   "content": {
+    "title": "The big appearance at the WEF",
+    "id": "subtitle-der-grosse-auftritt-am-wef"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b00v0",
+   "content": {
+    "text": "After taking over the leadership of the Liberal Party and the office of head of government from Justin Trudeau in March 2025, Carney has mantra-like emphasized Canadian sovereignty. The former central banker, who had never held political office before his rapid ascent, is pushing for economic and security policy independence from the United States."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b0101",
+   "content": {
+    "text": "Of course, he is not an isolationist national conservative. He laid out his geopolitical guiding principle at the last World Economic Forum (WEF) in Davos, as he took on Trump without even naming him. He said that in a world where «the strong can do what they can, and the weak suffer what they must,» it was necessary to unite with like-minded people. «If we are not at the table, we are on the menu,» he added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b0120",
+   "content": {
+    "text": "The speech went viral. The global citizen with Canadian, Irish, and British passports had «stood up to Trump,» as <a href=\"https://www.theguardian.com/world/2026/jan/21/nostalgia-is-not-a-strategy-mark-carney-is-emerging-as-the-unflinching-realist-ready-to-tackle-trump\">the British Guardian jubilated.</a> But not only in Switzerland; he had repeatedly pushed back against American great power posturing even before that. No agreement was better than a bad one, he said repeatedly. «We will not allow any nation to determine our future,» he also declared after the failed negotiations on Friday."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b0130",
+   "content": {
+    "text": "«Friday, August 21, could <a href=\"https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html\">go down in history as Canada’s Liberation Day,</a>» wrote Canadian author Stephen Marche in The New York Times: «It was the day America wanted to take us, and we said no.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0q8hj330",
+   "content": {
+    "title": "Shaped by the wilderness",
+    "id": "subtitle-gepr-gt-durch-die-wildnis"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b0150",
+   "content": {
+    "text": "For Marche, a Canadian peculiarity is expressed in Carney’s steadfastness. Americans, he believes, prefer to project and gain power. «In Canada, the defining virtue is toughness.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b0181",
+   "content": {
+    "text": "Marche explained that even the «Coureurs des bois» (French fur traders) who ventured into the inhospitable north by canoe had measured themselves by their ability to survive with the bare necessities in the rough wilderness. This mentality is now also evident in the rebuff Carney delivered to Trump."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b0191",
+   "content": {
+    "text": "Enduring things is typically Canadian. However, Carney’s gesture of resistance will resonate far beyond the country’s borders, Marche writes. He added that a «gray-haired banker,» of all people, had risen up and made it clear that there was more to life than a bit of money. «Trump’s world – a world of transactions and subjugation – is not the only world we all have to live in.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7b01a1",
+   "content": {
+    "text": "While Mark Carney, well-rested from his vacation, seems prepared for the arduous fight against Trump, it remains to be seen how long the Canadian population is willing to endure economic hardship."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0prk8vk5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0prk8vk6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0prk8vk7",
+      "content": {
+       "title": "«It is an attack in a trade war»: Canada’s Prime Minister Carney defies U.S. President Trump",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/23/c9ee0828-8fc5-4b60-917d-70c15f73559c.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/23/c9ee0828-8fc5-4b60-917d-70c15f73559c.jpg?width=1024&quality=75&auto=webp",
+        "width": 5500,
+        "height": 3648,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5500,3094,x0,y157"
+         },
+         {
+          "name": "4:3",
+          "crop": "4864,3648,x393,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3648,3648,x970,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2736,3648,x1488,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5472,3648,x28,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Customs negotiations between the U.S. and Canada have failed. A trade war now looms, which is also an expression of years of political struggles. Canada feels its sovereignty threatened by Trump's policies.",
+        "teaserAuthor": "Chris Tanouye / Reuters"
+       },
+       "teaserAuthor": "Chris Tanouye / Reuters",
+       "editor": "1373452",
+       "nzzId": "ld.10020669",
+       "readingTime": 240,
+       "paywallQuestionOne": "Why did the customs negotiations between Canada and the USA fail?",
+       "paywallQuestionTwo": "How does Prime Minister Carney justify the countermeasures against the USA?",
+       "paywallQuestionThree": "What strategy does Canada pursue in the trade conflict compared to Switzerland?",
+       "characterCount": 5102,
+       "product": "NZZ.ch",
+       "documentId": 10020669,
+       "layout": "regular",
+       "publicationDate": "2026-08-23T13:26:40.596Z",
+       "publicationLastUpdated": "2026-08-23T15:10:08.469Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-24T01:26:40.596Z",
+       "teaserCaption": "Customs negotiations between the U.S. and Canada have failed. A trade war now looms, which is also an expression of years of political struggles. Canada feels its sovereignty threatened by Trump's policies.",
+       "authorLine": "Judith Blage",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/4b214b25-d9bd-4218-9c34-17b6c84dbc66.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/4b214b25-d9bd-4218-9c34-17b6c84dbc66.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/4b214b25-d9bd-4218-9c34-17b6c84dbc66.png?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/kanadas-premierminister-traut-sich-etwas-er-verweigert-sich-trump-ld.10020669",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 743,
+       "leadText": "Customs negotiations between the U.S. and Canada have failed. A trade war now looms, which is also an expression of years of political struggles. Canada feels its sovereignty threatened by Trump's policies.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0prk8vl0",
+      "content": {
+       "owner": "NZZ",
+       "title": "Resistance as a recipe for success: Mark Carney presents himself as an anti-Trump",
+       "teaserImage": {
+        "originalUrl": "/2026/01/23/304d1c16-126f-4660-bf0e-e7f94a2d9546.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/23/304d1c16-126f-4660-bf0e-e7f94a2d9546.jpg?width=1024&quality=75&auto=webp",
+        "width": 7136,
+        "height": 4757,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7136,4014,x0,y263"
+         },
+         {
+          "name": "1:1",
+          "crop": "3341,3341,x871,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "6343,4757,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3568,4757,x561,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7136,4757,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Since his speech in Davos, the Canadian Prime Minister has been celebrated in the media as a leading liberal figure. Who is Mark Carney, and what does he stand for?",
+        "teaserAuthor": "Harun Ozalp / Imago"
+       },
+       "teaserAuthor": "Harun Ozalp / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1921674",
+       "embeds": {
+        "videos": [
+         {
+          "id": "kVgKoG9z",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "readingTime": 360,
+       "authorLine": "Niklaus Nuspliger",
+       "videoTeaser": "",
+       "characterCount": 7757,
+       "product": "NZZ.ch",
+       "documentId": 1921674,
+       "layout": "regular",
+       "publicationDate": "2026-01-24T15:47:59.069Z",
+       "publicationLastUpdated": "2026-01-24T18:37:08.057Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-01-25T03:47:59.069Z",
+       "teaserCaption": "Since his speech in Davos, the Canadian Prime Minister has been celebrated in the media as a leading liberal figure. Who is Mark Carney, and what does he stand for?",
+       "authorImage": {
+        "originalUrl": "/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "3712,3712,x928,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/international/widerstand-als-erfolgsrezept-mark-carney-inszeniert-sich-als-anti-trump-ld.1921674",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1200,
+       "leadText": "Since his speech in Davos, the Canadian Prime Minister has been celebrated in the media as a leading liberal figure. Who is Mark Carney, and what does he stand for?",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0prk8vl1",
+      "content": {
+       "owner": "NZZ",
+       "title": "Thanks to Trump: In Canada, Mark Carney's Liberals defeat the Conservatives",
+       "teaserImage": {
+        "originalUrl": "/2025/04/29/90d80494-78ea-4335-a735-829fa51c6e1a.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/04/29/90d80494-78ea-4335-a735-829fa51c6e1a.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7136,
+        "height": 4760,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7136,4014,x0,y104"
+         },
+         {
+          "name": "1:1",
+          "crop": "4760,4760,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "6347,4760,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3570,4760,x592,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For a long time, it looked like a change of power was imminent. But after the American president alienated the Canadians, the Liberals won the parliamentary election and Carney remained Prime Minister.",
+        "teaserAuthor": "Carlos Osorio / Reuters"
+       },
+       "teaserAuthor": "Carlos Osorio / Reuters",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1881978",
+       "readingTime": 300,
+       "authorLine": "David Signer, Chicago",
+       "characterCount": 6222,
+       "product": "NZZ.ch",
+       "documentId": 1881978,
+       "layout": "regular",
+       "publicationDate": "2025-04-29T03:16:54.017Z",
+       "publicationLastUpdated": "2025-04-29T19:22:34.349Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-04-29T15:16:54.017Z",
+       "teaserCaption": "For a long time, it looked like a change of power was imminent. But after the American president alienated the Canadians, the Liberals won the parliamentary election and Carney remained Prime Minister.",
+       "url": "/international/kanadas-liberale-bleiben-dank-trump-staerkste-partei-ld.1881978",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 927,
+       "leadText": "For a long time, it looked like a change of power was imminent. But after the American president alienated the Canadians, the Liberals won the parliamentary election and Carney remained Prime Minister.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Canadians are tough. Prime Minister Mark Carney is proving that in the trade dispute with the US",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/87ad08da-6a12-42c8-9d5d-53019ab344c9.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/87ad08da-6a12-42c8-9d5d-53019ab344c9.jpg?width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 4000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6000,3375,x0,y625"
+    },
+    {
+     "name": "4:3",
+     "crop": "4407,3305,x846,y695"
+    },
+    {
+     "name": "1:1",
+     "crop": "3005,3005,x1499,y939"
+    },
+    {
+     "name": "3:4",
+     "crop": "3000,4000,x1522,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4959,3305,x623,y695"
+    }
+   ],
+   "focalPoint": {
+    "x": 3022,
+    "y": 3066
+   },
+   "imageService": "fastly",
+   "teaserCaption": "Of all people, the former banker wants to show Donald Trump that money isn't everything.",
+   "teaserAuthor": "Sammy Kogan / AP"
+  },
+  "teaserAuthor": "Sammy Kogan / AP",
+  "tags": [
+   "Die USA unter Trump"
+  ],
+  "nzzId": "ld.10020798",
+  "readingTime": 300,
+  "characterCount": 5778,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020798,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "Of all people, the former banker wants to show Donald Trump that money isn't everything.",
+  "nzzAuthors": [
+   {
+    "id": 1534461,
+    "name": "Andreas Scheiner",
+    "shortName": "sca",
+    "pianoId": "c6473c09-e6b6-4e94-9e24-ab9d342cec4d",
+    "external": false
+   }
+  ],
+  "authorLine": "Andreas Scheiner, Chicago",
+  "authorImage": {
+   "originalUrl": "/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0",
+   "url": "https://img-msp-prod.nzz.ch/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 800
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1684573,
+    "name": "Andreas Scheiner, Chicago",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/3b3eb2af-55e0-4a60-ba30-4c6e261d1d78.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 908,
+  "leadText": "Of all people, the former banker wants to show Donald Trump that money isn't everything.",
+  "nzzSummaryEN": "- Canadian Prime Minister Mark Carney takes a firm stance in the trade dispute with the US, announcing countermeasures like retaliatory tariffs to protect Canadian interests.\n- Despite economic dependence on the US, Carney pushes for greater Canadian independence and enjoys widespread public support.\n- He advocates for a shift away from Trump's transactional policies toward more stable global cooperation.",
+  "nzzSummaryDE": "- Canadian Prime Minister Mark Carney is showing resolve in the trade dispute with the USA and announces retaliatory measures such as tariffs to protect Canadian interests.\n Despite economic dependence on the USA, Carney is pushing for greater independence for Canada and is receiving broad support among the population.\n - He calls for a shift away from Trump's transaction-oriented policies towards more stable global cooperation.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Mark Carney is the prototype of the tough Canadian",
+  "nzzPrintSubtitle": "In the trade dispute, the Prime Minister has stood up to Donald Trump. The former banker, of all people, wants to show that money isn't everything",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798",
+   "title": "Mark Carney defies Trump: Canada's resistance in the trade dispute",
+   "socialMediaTitle": "Canada versus the USA: Mark Carney, the former banker, wants to show Trump that money isn't everything",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/87ad08da-6a12-42c8-9d5d-53019ab344c9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz"
+  },
+  "ldPublicationId": 2483135,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Canada",
+    "slug": "/themen/kanada"
+   },
+   {
+    "name": "Mark Carney",
+    "slug": "/themen/mark-carney"
+   },
+   {
+    "name": "Donald Trump",
+    "slug": "/themen/donald-trump"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Trade dispute",
+    "slug": "/themen/handelsstreit"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10020669",
+    "ld.1921674",
+    "ld.1881978"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 368808,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "kanada",
+   "name": "Canada",
+   "tagName": "Canada",
+   "qId": "Q16",
+   "seoTitle": "Canada – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 19:05:59.737Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/kanada",
+   "size": 1001,
+   "relatedTopics": [
+    {
+     "name": "Mark Carney",
+     "slug": "/themen/mark-carney"
+    },
+    {
+     "name": "Donald Trump",
+     "slug": "/themen/donald-trump"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Handelsstreit",
+     "slug": "/themen/handelsstreit"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Who Still Takes Trump Seriously?",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/5a05686d-2f07-4a3f-8f1b-b2ec1ddeb581.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/5a05686d-2f07-4a3f-8f1b-b2ec1ddeb581.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y195"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x480,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x61,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x71,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The US president makes demands, then threatens. Until the weaker parties give in. But this summer, they won't give in. His power is crumbling. And it's not just Canada's Prime Minister Mark Carney who's noticed.",
+     "teaserAuthor": "Kylie Cooper / Reuters"
+    },
+    "teaserAuthor": "Kylie Cooper / Reuters",
+    "authorLine": "Andreas Mink, New York",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10021098",
+    "readingTime": 300,
+    "paywallQuestionOne": "How is Canada reacting to Trump's attempts to exert pressure?",
+    "paywallQuestionTwo": "Why is Trump's international power crumbling?",
+    "paywallQuestionThree": "What role does Mark Carney play in the new alliance?",
+    "characterCount": 7158,
+    "product": "NZZ.ch",
+    "documentId": "10021098",
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "The US president makes demands, then threatens. Until the weaker parties give in. But this summer, they won't give in. His power is crumbling. And it's not just Canada's Prime Minister Mark Carney who's noticed.",
+    "url": "https://www.nzz.ch/international/wer-nimmt-trump-noch-ernst-ld.10021098",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1077,
+    "leadText": "The US president makes demands, then threatens. Until the weaker parties give in. But this summer, they won't give in. His power is crumbling. And it's not just Canada's Prime Minister Mark Carney who's noticed.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trade dispute: Should Europe follow Canada's example? It's not that simple",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/d64b2d45-65a4-4e32-92e8-da5fb95bb749.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/d64b2d45-65a4-4e32-92e8-da5fb95bb749.jpg?width=1024&quality=75&auto=webp",
+     "width": 7554,
+     "height": 4896,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7554,4249,x0,y173"
+      },
+      {
+       "name": "4:3",
+       "crop": "6528,4896,x708,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4896,4896,x1425,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3672,4896,x2001,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7344,4896,x129,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A short commentary.",
+     "teaserAuthor": "Patrick Doyle / Imago"
+    },
+    "teaserAuthor": "Patrick Doyle / Imago",
+    "nzzId": "ld.10021590",
+    "readingTime": 60,
+    "paywallQuestionOne": "How realistic is the success of Mark Carney's confrontational approach?",
+    "paywallQuestionTwo": "Why does Europe remain dependent on the USA in terms of security policy?",
+    "paywallQuestionThree": "Could Canada's accession to the EU compensate for its dependence on the USA?",
+    "characterCount": 1136,
+    "product": "NZZ.ch",
+    "documentId": "10021590",
+    "layout": "opinion",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "A short commentary.",
+    "authorLine": "Alain Zucker",
+    "authorImage": {
+     "originalUrl": "/2024/04/30/c6d5864c-12e5-4a1d-92bf-c4a2bb5565b6.png?crop=800,800,x0,y0",
+     "url": "https://img-msp-prod.nzz.ch/2024/04/30/c6d5864c-12e5-4a1d-92bf-c4a2bb5565b6.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "imageService": "fastly",
+     "crop": {
+      "name": "1:1",
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 800
+     },
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/c6d5864c-12e5-4a1d-92bf-c4a2bb5565b6.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/nzz-am-sonntag/report-und-debatte/zollstreit-soll-sich-europa-ein-beispiel-an-kanada-nehmen-so-einfach-ist-das-nicht-ld.10021590",
+    "department": {
+     "name": "NZZ am Sonntag - Report and Debate",
+     "path": "/nzz-am-sonntag/report-und-debatte"
+    },
+    "estimationWordCount": 204,
+    "leadText": "A short commentary.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Who wins? The world wonders about a duel between a bald eagle and a Canada goose shared by the Trump administration",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Jana Kehl",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/50c4e1de-32f2-4007-9c2a-93449890843f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/50c4e1de-32f2-4007-9c2a-93449890843f.jpg?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 899,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1199,899,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "899,899,x136,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "674,899,x248,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1200,800,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 585,
+      "y": 268
+     },
+     "imageService": "fastly",
+     "teaserCaption": "A nature photo meant to illustrate White House power in the tariff dispute. But battles between two birds sometimes end differently than expected."
+    },
+    "nzzId": "ld.10021446",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the eagle-goose fight symbolize the US tariff dispute with Canada?",
+    "paywallQuestionTwo": "Why is the shared photo being criticized as a symbol of power?",
+    "paywallQuestionThree": "What does the true outcome of the duel between the eagle and the goose reveal?",
+    "characterCount": 3880,
+    "product": "NZZ.ch",
+    "documentId": "10021446",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T19:53:46.360Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:30:00.000Z",
+    "teaserCaption": "A nature photo meant to illustrate White House power in the tariff dispute. But battles between two birds sometimes end differently than expected.",
+    "url": "https://www.nzz.ch/panorama/trump-regierung-teilt-foto-weisskopfseeadler-vs-kanadagans-ld.10021446",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 589,
+    "leadText": "A nature photo meant to illustrate White House power in the tariff dispute. But battles between two birds sometimes end differently than expected.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Escalation in the trade dispute: Trump renames Lake Ontario «Lake America» ​​– the Canadians are planning a counterattack in key swing states",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/05b54990-a60f-469f-a6df-53f7be36d9c9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/05b54990-a60f-469f-a6df-53f7be36d9c9.jpg?width=1024&quality=75&auto=webp",
+     "width": 5000,
+     "height": 3333,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4545,2556,x378,y565"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x369,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x877,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2500,3333,x1341,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4545,3030,x310,y218"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The US wants to bring Canada to its knees in the trade conflict with its economic powerhouse. But the Canadian retaliatory tariffs pose political risks for Trump – and could cost Republicans crucial Senate seats in the fall.",
+     "teaserAuthor": "Imago/al Drago / Imago"
+    },
+    "teaserAuthor": "Imago/al Drago / Imago",
+    "showComments": true,
+    "tags": [
+     "Amerika",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10021479",
+    "readingTime": 300,
+    "paywallQuestionOne": "What political risks does Trump's trade conflict with Canada entail?",
+    "paywallQuestionTwo": "How is Canada reacting to the renaming of Lake Ontario?",
+    "paywallQuestionThree": "What impact will the retaliatory tariffs have on US swing states?",
+    "characterCount": 7070,
+    "product": "NZZ.ch",
+    "documentId": "10021479",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-29T08:13:53.212Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:30:00.000Z",
+    "teaserCaption": "The US wants to bring Canada to its knees in the trade conflict with its economic powerhouse. But the Canadian retaliatory tariffs pose political risks for Trump – and could cost Republicans crucial Senate seats in the fall.",
+    "authorLine": "Niklaus Nuspliger, Washington",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/eskalation-im-handelsstreit-trump-benennt-den-ontariosee-in-lake-america-um-die-kanadier-planen-gegenschlag-in-wichtigen-swing-states-ld.10021479",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1094,
+    "premium": true,
+    "leadText": "The US wants to bring Canada to its knees in the trade conflict with its economic powerhouse. But the Canadian retaliatory tariffs pose political risks for Trump – and could cost Republicans crucial Senate seats in the fall.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 10,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Die USA unter Trump",
+     "Amerika"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/dfcfec44-5021-4164-a303-b5458a036a2a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/dfcfec44-5021-4164-a303-b5458a036a2a.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3636,2045,x277,y622"
+      },
+      {
+       "name": "4:3",
+       "crop": "2939,2204,x254,y463"
+      },
+      {
+       "name": "1:1",
+       "crop": "1369,1369,x1361,y461"
+      },
+      {
+       "name": "3:4",
+       "crop": "1653,2204,x1007,y463"
+      },
+      {
+       "name": "3:2",
+       "crop": "3005,2004,x161,y527"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The American tariffs have had devastating consequences for Canadian companies. Nevertheless, the population supports the government's course of action. A small business owner, a local politician, and a furniture manufacturer share their stories.",
+     "teaserAuthor": "Photo only / Getty"
+    },
+    "teaserAuthor": "Photo only / Getty",
+    "showComments": true,
+    "paywallQuestionOne": "How do the tariffs affect the Canadian economy?",
+    "paywallQuestionTwo": "Why does the population support the resistance against Trump?",
+    "paywallQuestionThree": "How is Canada responding to the economic challenges of the trade war?",
+    "nzzId": "ld.10020959",
+    "readingTime": 300,
+    "characterCount": 6582,
+    "title": "«Americans do not understand that it is not primarily about the economy, but about identity, pride, and respect»: How Canada's population is reacting to Trump's tariffs",
+    "product": "NZZ.ch",
+    "documentId": "10020959",
+    "layout": "regular",
+    "publicationDate": "2026-08-26T06:47:19.921Z",
+    "publicationLastUpdated": "2026-08-27T13:44:28.651Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-26T18:47:19.921Z",
+    "teaserCaption": "The American tariffs have had devastating consequences for Canadian companies. Nevertheless, the population supports the government's course of action. A small business owner, a local politician, and a furniture manufacturer share their stories.",
+    "authorLine": "Niklaus Nuspliger, Portland",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/handelskonflikt-usa-kanada-widerstand-und-stolz-der-kanadier-ld.10020959",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 978,
+    "premium": true,
+    "leadText": "The American tariffs have had devastating consequences for Canadian companies. Nevertheless, the population supports the government's course of action. A small business owner, a local politician, and a furniture manufacturer share their stories.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 6,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Tuesday Morning Briefing",
+    "nzzId": "ld.10020883",
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/e3c565a1-c535-4c8b-a9d7-337a323bddf2.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/e3c565a1-c535-4c8b-a9d7-337a323bddf2.webp?width=1024&quality=75&auto=webp",
+     "width": 2048,
+     "height": 1366,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2048,1152,x0,y107"
+      },
+      {
+       "name": "4:3",
+       "crop": "1821,1366,x113,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1366,1366,x341,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1025,1366,x512,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2048,1365,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The most important news to start the day: Tariff negotiations with the Trump administration after Canada's bombshell announcement ++ Europe's support for Ukraine ++ Embolo moves to the USA",
+     "teaserAuthor": "Carlos Osorio / Reuters"
+    },
+    "teaserAuthor": "Carlos Osorio / Reuters",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 360,
+    "characterCount": 7654,
+    "product": "NZZ.ch",
+    "documentId": "10020883",
+    "layout": "briefing",
+    "publicationDate": "2026-08-25T03:59:00.000Z",
+    "publicationLastUpdated": "2026-08-25T03:59:32.934Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-25T15:59:00.000Z",
+    "teaserCaption": "The most important news to start the day: Tariff negotiations with the Trump administration after Canada's bombshell announcement ++ Europe's support for Ukraine ++ Embolo moves to the USA",
+    "authorLine": "",
+    "url": "https://www.nzz.ch/briefing-am-dienstagmorgen-ld.10020883",
+    "department": {},
+    "estimationWordCount": 1150,
+    "leadText": "The most important news to start the day: Tariff negotiations with the Trump administration after Canada's bombshell announcement ++ Europe's support for Ukraine ++ Embolo moves to the USA",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020798",
+    "name": "Canadians are tough. Prime Minister Mark Carney is proving that in the trade dispute with the US",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Canadians are tough. Prime Minister Mark Carney is proving that in the trade dispute with the US",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1534461,
+       "name": "Andreas Scheiner",
+       "shortName": "sca",
+       "pianoId": "c6473c09-e6b6-4e94-9e24-ab9d342cec4d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020798",
+   "pageType": "longformstandard",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Mark Carney defies Trump: Canada's resistance in the trade dispute",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/87ad08da-6a12-42c8-9d5d-53019ab344c9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Andreas Scheiner, Chicago",
+  "description": "Of all people, the former banker wants to show Donald Trump that money isn't everything.",
+  "news_keywords": "Canadians are tough. Prime Minister Mark Carney proves this in the trade dispute with the USA. (International News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T07:30:00+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Canadians are tough. Prime Minister Mark Carney is proving that in the trade dispute with the US",
+  "ogTitle": "Canada versus the USA: Mark Carney, the former banker, wants to show Trump that money isn't everything",
+  "ogUrl": "https://www.nzz.ch/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798",
+  "mrf:cms_id": "nzz:ld.10020798",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020798",
+  "nzzAuthors": [
+   {
+    "id": 1534461,
+    "name": "Andreas Scheiner",
+    "shortName": "sca",
+    "pianoId": "c6473c09-e6b6-4e94-9e24-ab9d342cec4d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:14 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Mark Carney defies Trump: Canada's resistance in the trade dispute"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798"
+   },
+   "headline": "Mark Carney defies Trump: Canada's resistance in the trade dispute",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Of all people, the former banker wants to show Donald Trump that money isn't everything.",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/87ad08da-6a12-42c8-9d5d-53019ab344c9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Andreas Scheiner"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 368808,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020798",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Andreas Scheiner, Chicago",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie reagiert Kanada auf die Strafzölle der USA?\nWelche Rolle spielt Mark Carney im Handelsstreit?\nWie beeinflusst Trumps Haltung die kanadische Souveränität?",
+   "ldId": "ld.10020798",
+   "channel": "International",
+   "heading": "Kanadier sind zäh. Das beweist Premierminister Mark Carney im Handelsstreit mit den USA",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,1440 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1ijq31lvp0",
+   "content": {
+    "title": "High-tech without a driver: The rocky road of autonomous buses in public transport",
+    "lead": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+    "authorline": "Eberhard Krummheuer",
+    "author": "Eberhard Krummheuer"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ijt49gce1",
+   "content": {
+    "image": {
+     "author": "Ralph Peters / Imago",
+     "caption": "In Frankfurt, initial trials with driverless minibuses from the French manufacturer Easymile took place as early as 2021.",
+     "originalUrl": "/2025/02/12/29f81ed3-a415-451b-9310-511c335d568e.jpeg?width=1024",
+     "width": 4470,
+     "height": 2980,
+     "altText": "Under the EASY Electric Autonomous Shuttle for You project of VGF Verkehrsgesellschaft Frankfurt, RMV Rhein Main Verkehrsverbund and the City of Frankfurt, an autonomous bus with an s EZ 10 Gen2 electric motor from the company s EasyMile travels along the Mainkai road in Frankfurt, Hesse, Germany. ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2166076365"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In Frankfurt, initial trials with driverless minibuses from the French manufacturer Easymile took place as early as 2021.",
+    "author": "Ralph Peters / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31otp1",
+   "content": {
+    "text": "Since 2017, the pioneering project has attracted experts and camera crews from all over the world to Bad Birnbach in Lower Bavaria. In the spa town, and later extending to the train station located outside the town, the first public bus service using autonomous minibuses operated."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-77d95131",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq36ct71",
+   "content": {
+    "text": "Small, seven-seater electric vehicles, occasionally derided as «golf carts with a roof,» navigated a nearly three-kilometer course without a driver. However, the operator, the «safety driver» required by current legislation, was always on board – in case the software and sensors necessitated emergency human intervention during the leisurely drive at a maximum speed of 17 km/h."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq36nti1",
+   "content": {
+    "text": "Autonomous traffic currently operates worldwide only with special permits and supervisory personnel. The so-called robotaxis of Google subsidiary Waymo are actually driving without drivers in San Francisco; further test operations are also underway in China."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31otq0",
+   "content": {
+    "text": "In Bad Birnbach, the future has come to an end, at least for now. The autonomous shuttle buses were taken out of service at the end of the year. The French vehicle manufacturer Easymile wants to withdraw from the expensive passenger transport business."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq391tj1",
+   "content": {
+    "text": "Without further technical support from the supplier, the project partners, from Deutsche Bahn to municipal institutions, Ludwig-Maximilians-Universität München and the renowned Fraunhofer researchers, did not feel confident enough to continue operations in Bad Birnbach."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq39iua1",
+   "content": {
+    "text": "Money had also become scarce, and further funding is uncertain. After all, the driverless bus service cost six-figure sums annually. What happens next is unclear. For now, there will be a return to traditional bus service with drivers."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ijq549np1",
+   "content": {
+    "image": {
+     "author": "Michael Bihlmayer / Imago",
+     "caption": "In the Bavarian town of Bad Birnbach, residents will wait in vain for a robobus from 2026 onward. The French manufacturer Easymile has deemed the operation too complex.",
+     "originalUrl": "/2025/02/11/190dc783-b5eb-4be0-bf2b-8a847661021c.jpeg?width=1024",
+     "width": 10025,
+     "height": 6683,
+     "altText": "Bad Birnbach, Bavaria, Germany - October 21, 2024: A bus stop in Bad Birnbach for an autonomous self-driving vehicle from Deutsche Bahn. The innovative shuttle, which transports passengers electrically and automatically, stops here – a modern solution for local public transport",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2163182416"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In the Bavarian town of Bad Birnbach, residents will wait in vain for a robobus from 2026 onward. The French manufacturer Easymile has deemed the operation too complex.",
+    "author": "Michael Bihlmayer / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31otq1",
+   "content": {
+    "text": "This demise is not an isolated case. <a target=\"_blank\" href=\"https://www.idtechex.com/en/research-report/automotive-radar-market-2025-2045-robotaxis-and-autonomous-cars/1061\">A report</a> by the international research and development service provider IDTechEx notes that the number of robo-shuttle developers worldwide has halved in recent years – to just twelve players. High costs, empty public coffers – and the remaining risk of whether and when driverless bus driving will actually be safe on public roads are dampening enthusiasm."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq3gesm1",
+   "content": {
+    "text": "For example, automotive supplier ZF Friedrichshafen withdrew. «The high upfront investments are no longer justified, as the market is developing more slowly than expected,» <a target=\"_blank\" href=\"https://press.zf.com/press/media/de/press_media/2023/01_global_en_and_de/releases_10/23023_12_19_zf_shuttle_geschaeft/tx2023-12-19_ZF-shuttle-business_e.pdf\">ZF stated</a>. Competitor Schaeffler is also no longer operating scheduled shuttle services. In 2023, it had announced a cooperation with the Dutch bus manufacturer VDL."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq3ls9c1",
+   "content": {
+    "text": "Germany's Federal Ministry of Transport, by contrast, refers in its <a target=\"_blank\" href=\"https://bmdv.bund.de/SharedDocs/DE/Publikationen/DG/die-zukunft-faehrt-autonom.html\">strategy paper</a> «The Future Drives Autonomously» to statements from experts. They reportedly expected «savings of 30% to 40% in scheduled service» once the vehicles and their components reached market maturity."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1ijq31otr0",
+   "content": {
+    "title": "Actual route buses are soon to drive autonomously",
+    "id": "subtitle-echte-linienbusse-sollen-bald-autonom-fahren"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ots0",
+   "content": {
+    "text": "Not everyone is giving up. A new beginning with the next generation of vehicles is starting in Burgdorf, in the Hanover region. The <a target=\"_blank\" href=\"https://www.hannover.de/Leben-in-der-Region-Hannover/Mobilit%C3%A4t/Verkehrsplanung-entwicklung/Projekt-ALBUS\">«Albus» project</a> aims to put three 50-seater vehicles on the road. These are intended to navigate city traffic at speeds of up to 40 km/h, initially with a driver and later autonomously. These are not boxy cabin scooters like the first prototypes, but rather typical electric city buses from the Turkish automaker Karsan, upgraded with American high-tech for autonomous driving. The first vehicles of this type are already operating in Norway, also with accompanying personnel."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ots1",
+   "content": {
+    "text": "In the canton of Zurich, Swiss Federal Railways (SBB) is trying to improve connections between rural areas and the S-Bahn (suburban rail network). This year, a <a target=\"_blank\" href=\"https://www.swisstransitlab.ch/de/news/update_furttal\">pilot project is set to begin in the quiet Furttal valley</a> , encompassing the municipalities of Otelfingen, Boppelsen, Hüttikon, and Dänikon. A computer-controlled on-demand bus system will offer a taxi-like service in these villages, with fares based on public transport prices, transporting passengers from their doorstep to the nearest station on the S6 line between Zurich and Baden. However, instead of a bus, a Japanese mid-range car, equipped with an electric drive and autonomous driving technology – without a safety driver – will be dispatched. The technology is supplied by the Chinese company Weride from Guangzhou."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ijq5ptr60",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "In the future, highly automated Nissan Ariya electric cars like these are intended to pick up customers on demand at their homes in the Furttal valley and chauffeur them to the train station.",
+     "originalUrl": "/2025/02/11/adb4373b-da9e-4415-bd2b-614af3121f45.jpeg?width=1024",
+     "width": 3993,
+     "height": 2661,
+     "imageService": "fastly"
+    },
+    "caption": "In the future, highly automated Nissan Ariya electric cars like these are intended to pick up customers on demand at their homes in the Furttal valley and chauffeur them to the train station.",
+    "author": "PD"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ott0",
+   "content": {
+    "text": "The metropolis of Hamburg is thinking on a different scale. For years, the city has been testing the «Alike» project to significantly increase the market share of public transport, the so-called modal split, in order to reduce traffic congestion. As spokesperson Julia Lindemann succinctly puts it: «Every car that remains parked and unused counts.»"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq40m781",
+   "content": {
+    "text": "One idea here is to make access to the bus and train networks easier by providing feeder services. The ambitious goal: No Hamburg resident should have to walk more than five minutes to the nearest public transport option. Customers booking on demand should be able to board or alight at several thousand shuttle bus stops distributed throughout the city."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ott1",
+   "content": {
+    "text": "In a three-year trial phase, funded by the Federal Ministry of Transport with a double-digit million-euro sum, the «autonomous on-demand ridepooling» service will start with up to 20 vehicles in an operating area of 37 square kilometers."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq43lpn1",
+   "content": {
+    "text": "Ridepooling means the computer-controlled bundling of ride requests and is thus a modern form of shared taxi. With each booking, passengers are to be picked up for a shared ride thanks to computer assistance: The project partners, above all the Hamburg public transport company Hochbahn, hope this will encourage a significant number of customers to switch from cars to buses and trains. Will it work?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijvfg9df1",
+   "content": {
+    "text": "Experts like Professor Barbara Lenz, long-time head of the Institute of Transport Research at the German Aerospace Center (DLR), give pause for thought: «Not everyone who uses ridepooling ultimately ends up using traditional public transport. A pilot project in Berlin showed that only about half of the passengers actually used the shuttle as a feeder service, while the other half used the comfortable transport option like a taxi to reach their destination, even though it was more expensive than a ticket for bus and train.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1ijq31otu0",
+   "content": {
+    "title": "Hamburg bets on autonomous minibuses",
+    "id": "subtitle-hamburg-setzt-auf-autonome-kleinbusse"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31otu1",
+   "content": {
+    "text": "The service is intended to operate at Level 4 autonomy in the future. This means truly driverless operation, with monitoring from a central control room. The Hamburg shuttle service is divided into two parts. One partner is the Volkswagen Group, which, through its technology subsidiary Moia, will initially deploy up to ten electric ID.Buzz vans."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ijq66vtl1",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "The VW Group's ride-hailing service Moia is contributing ten electric vans to the Hamburg «Alike» project.",
+     "originalUrl": "/2025/02/11/0ee2b02d-0ebe-4ccb-8100-a8b55b3ccdca.jpeg?width=1024",
+     "width": 1017,
+     "height": 677,
+     "imageService": "fastly"
+    },
+    "caption": "The VW Group's ride-hailing service Moia is contributing ten electric vans to the Hamburg «Alike» project.",
+    "author": "PD"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq492rq1",
+   "content": {
+    "text": "The second operator is the Hamburg public transport company Hochbahn itself, using vehicles from the Paderborn-based company Holon, a subsidiary of the automotive supplier Benteler. Holon is also the name of the second vehicle type for the test phase in Hamburg, praised by its manufacturer as an «autonomous mover» with global market potential. The battery-electric vehicle offers space for 15 passengers, is barrier-free and is designed to travel at speeds of up to 60 km/h in city traffic."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1ijq461qs0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "0428cb582eaa1b479ebd7059287f413e",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_0428cb582eaa1b479ebd7059287f413e_qfe1e81956abd4592af229590a3d17e2f_container\"        data-q-item-id=\"0428cb582eaa1b479ebd7059287f413e\"        data-q-request-id=\"0e9afc0a656637eba5ab05dfc8555dbe87239c24\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"0428cb582eaa1b479ebd7059287f413e\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"0428cb582eaa1b479ebd7059287f413e\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"0e9afc0a656637eba5ab05dfc8555dbe87239c24\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_0428cb582eaa1b479ebd7059287f413e_qfe1e81956abd4592af229590a3d17e2f_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"0428cb582eaa1b479ebd7059287f413e\",\"publication\":\"nzz\",\"acronym\":\"mjk., awi., jok.\",\"images\":{\"variants\":[{\"images\":[{\"url\":\"https://nzz-q-assets.s3.eu-west-1.amazonaws.com/2021/10/26/mw-76fefc1a8cb88ff74089b9610a0f2aaa.png\",\"key\":\"2021/10/26/mw-76fefc1a8cb88ff74089b9610a0f2aaa.png\",\"width\":1051,\"height\":3663,\"size\":270836,\"type\":\"image/png\"}]},{\"minWidth\":500,\"images\":[{\"url\":\"https://nzz-q-assets.s3.eu-west-1.amazonaws.com/2021/10/26/cw-b93f3d7bbd8bedd49bba0251254d41bb.png\",\"key\":\"2021/10/26/cw-b93f3d7bbd8bedd49bba0251254d41bb.png\",\"width\":1891,\"height\":2795,\"size\":330019,\"type\":\"image/png\"}]}]},\"sources\":[{\"link\":{\"url\":\"https://www.smmt.co.uk/wp-content/uploads/sites/2/automated_driving.pdf\",\"isValid\":true},\"text\":\"SAE/VDA\"}],\"options\":{\"serveLosslessWebP\":false},\"title\":\"Automated driving is a reality, autonomous driving a distant future\",\"subtitle\":\"The individual steps towards a driverless car\",\"updatedDate\":\"2021-10-26T16:24:26.235Z\",\"thumbnail\":\"https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/0428cb582eaa1b479ebd7059287f413e-thumbnail.jpeg\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_0428cb582eaa1b479ebd7059287f413e_qfe1e81956abd4592af229590a3d17e2f\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31otv0",
+   "content": {
+    "text": "Ultimately, the goal is to deploy several thousand vehicles in Hamburg. Barbara Lenz sees the fundamental challenge for transport companies as simply obtaining autonomous vehicles for everyday public transport operations: «Anyone who doesn't mention large numbers won't impress the automotive industry.»"
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq4e38c1",
+   "content": {
+    "text": "Jan Brandstetter, an expert on autonomous bus operation at the Association of German Transport Companies (VDV), confirms: «The German bus industry has some catching up to do. The major manufacturers of our city buses have too little interest in developing autonomous vehicles for the transport sector. We must be careful that we don't lose our engineering spirit in this field in Germany.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq4f0j31",
+   "content": {
+    "text": "Indeed, the market – lasers, lidar, sensors and software – is firmly in American and Chinese hands. «Here in Germany, the same manufacturer's technology is always tested in pilot projects. There's no competition between the systems,» observes Lenz. Given the driver shortage, she says, automation of public transport would be desirable. Without it, denser schedules and extensions into nighttime hours and weekends will continue to be delayed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ou00",
+   "content": {
+    "text": "Hardly any major city in Germany has not jumped on the autonomous bus bandwagon, and the same is true in Switzerland, for example in <a href=\"https://www.nzz.ch/schweiz/autonome-fahrzeuge-selbstfahrende-postautos-wieder-unterwegs-ld.120593\">Sion</a>, Freiburg, Zug and <a href=\"https://www.nzz.ch/panorama/ohne-chauffeur-zum-rheinfall-ld.1370163\">Schaffhausen</a>. There are numerous projects with futuristic-sounding names – almost always Anglicisms. But all of them are still only in the experimental phase and sometimes feature imaginative ideas. For example, «<a href=\"https://www.nzz.ch/mobilitaet/auto-mobil/platooning-2-0-ein-chauffeur-faehrt-2-lkw-gleichzeitig-ld.1500191\">platooning</a>»: A conventional bus leads the way, and driverless vehicles follow behind via a kind of virtual drawbar to offer passengers more space on the route."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ijq6ngri1",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "In Schaffhausen, autonomous public transport was in use, but the line became obsolete and the trial was stopped.",
+     "originalUrl": "/2025/02/11/00b6f0f0-8093-4b96-9103-5cf9ffaa7352.jpeg?width=1024",
+     "width": 3000,
+     "height": 2000,
+     "imageService": "fastly"
+    },
+    "caption": "In Schaffhausen, autonomous public transport was in use, but the line became obsolete and the trial was stopped.",
+    "author": "PD"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq4klqq1",
+   "content": {
+    "text": "Trials are also underway off public roads, on university campuses and around the Charité hospital grounds in Berlin. Zurich Airport is now planning something similar. It intends to establish an internal staff shuttle service using a nine-seater «robobus,» also employing Chinese Weride technology."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ou01",
+   "content": {
+    "text": "The era of pilot projects using small, slow vehicles, such as those in Bad Birnbach, the village of Keitum on the holiday island of Sylt, or the town of Monheim am Rhein between Düsseldorf and Cologne, appears to be drawing to a close. Enthusiasm is waning everywhere."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq4mrpq1",
+   "content": {
+    "text": "This is not only due to the withdrawal of manufacturer Easymile and the high costs of the systems, but also to the realization that «we need a level of quality for the shuttles that is not yet universally available,» says VDV representative Brandstetter. «For example, the vehicles must already be capable of operating at Level 4,» he demands. Sensible operating and business models for autonomous driving are an opportunity to maintain adequate mobility in aging societies despite the shortage of drivers, he added. However, this will not come without a price: «The question will be how much this is worth to us and what we can afford.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq31ou10",
+   "content": {
+    "text": "No one knows exactly when buses will actually be operating without drivers. Optimists repeatedly express their views, such as the head of the German Federal Motor Transport Authority, who boldly claimed in a newspaper interview: «By 2026, or at the latest 2027, self-driving robobuses will be operating in the first cities in Germany.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ijq4ru2v1",
+   "content": {
+    "text": "The ADAC, which is generally sympathetic to automobiles, remains cautious: «The technology to be developed by car manufacturers, as well as the legal situation on the part of the legislature, were and are apparently more complex than previously thought.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1ijq31lvp2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1ijq31lvp3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1ijq31lvp6",
+      "content": {
+       "owner": "NZZ",
+       "title": "Autonomous driving: How AI and other new technologies are advancing the self-driving car",
+       "teaserImage": {
+        "originalUrl": "/2024/10/05/42bd697c-6aa4-444c-95f6-923aec63b7b6.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/05/42bd697c-6aa4-444c-95f6-923aec63b7b6.jpeg?width=1024&quality=75&auto=webp",
+        "width": 2523,
+        "height": 1682,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1772,997,x272,y511"
+         },
+         {
+          "name": "1:1",
+          "crop": "1682,1682,x352,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1772,1329,x263,y266"
+         },
+         {
+          "name": "3:4",
+          "crop": "886,1181,x1007,y456"
+         },
+         {
+          "name": "3:2",
+          "crop": "2523,1682,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Developing self-driving cars is expensive and complex. Manufacturers face numerous hurdles, especially regarding safety.",
+        "teaserAuthor": "Elijah Nouvelage / Reuters"
+       },
+       "teaserAuthor": "Elijah Nouvelage / Reuters",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1851677",
+       "readingTime": 360,
+       "authorLine": "Herbie Schmidt",
+       "tags": [
+        "Autonomes Fahren"
+       ],
+       "characterCount": 8534,
+       "product": "NZZ.ch",
+       "documentId": 1851677,
+       "layout": "longformstandard",
+       "publicationDate": "2024-10-09T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-28T09:58:09.202Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-10-09T15:30:00.000Z",
+       "teaserCaption": "Developing self-driving cars is expensive and complex. Manufacturers face numerous hurdles, especially regarding safety.",
+       "url": "/mobilitaet/technologieentwicklung-der-weg-zum-autonomen-auto-bleibt-beschwerlich-ld.1851677",
+       "department": {
+        "name": "Mobility",
+        "path": "/mobilitaet"
+       },
+       "estimationWordCount": 1220,
+       "leadText": "Developing self-driving cars is expensive and complex. Manufacturers face numerous hurdles, especially regarding safety.",
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ijq31lvp5",
+      "content": {
+       "owner": "NZZ",
+       "title": "Autonomous driving: Renault is focusing on driverless passenger transport, but in the future only for shuttles and buses",
+       "teaserImage": {
+        "originalUrl": "/2024/05/15/d4404772-f47b-4992-a43f-350932b5e819.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/15/d4404772-f47b-4992-a43f-350932b5e819.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4134,
+        "height": 2615,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2294,1290,x1112,y1007"
+         },
+         {
+          "name": "1:1",
+          "crop": "2066,2066,x1252,y549"
+         },
+         {
+          "name": "4:3",
+          "crop": "2177,1633,x1186,y752"
+         },
+         {
+          "name": "3:4",
+          "crop": "1961,2615,x1311,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The French manufacturer is temporarily abandoning its plans for self-driving cars. There are good reasons for this.",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1830546",
+       "readingTime": 180,
+       "authorLine": "Herbie Schmidt",
+       "characterCount": 4188,
+       "product": "NZZ.ch",
+       "documentId": 1830546,
+       "layout": "longformstandard",
+       "publicationDate": "2024-05-15T12:00:00.000Z",
+       "publicationLastUpdated": "2024-05-15T12:00:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-05-16T00:00:00.000Z",
+       "teaserCaption": "The French manufacturer is temporarily abandoning its plans for self-driving cars. There are good reasons for this.",
+       "url": "/mobilitaet/renault-autonome-minibusse-statt-selbstfahr-pkw-ld.1830546",
+       "department": {
+        "name": "Mobility",
+        "path": "/mobilitaet"
+       },
+       "estimationWordCount": 665,
+       "leadText": "The French manufacturer is temporarily abandoning its plans for self-driving cars. There are good reasons for this.",
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "title": "High-tech without a driver: The rocky road of autonomous buses in public transport",
+  "teaserImage": {
+   "originalUrl": "/2025/02/12/29f81ed3-a415-451b-9310-511c335d568e.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/02/12/29f81ed3-a415-451b-9310-511c335d568e.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4470,
+   "height": 2980,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4470,2514,x0,y348"
+    },
+    {
+     "name": "1:1",
+     "crop": "2980,2980,x701,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "3973,2980,x497,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2235,2980,x840,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4470,2980,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+   "teaserAuthor": "Ralph Peters / Imago"
+  },
+  "teaserAuthor": "Ralph Peters / Imago",
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1870507",
+  "readingTime": 480,
+  "authorLine": "Eberhard Krummheuer",
+  "tags": [
+   "Strassenverkehr",
+   "Autonomes Fahren"
+  ],
+  "dependencies": {},
+  "characterCount": 10490,
+  "breadcrumbs": [
+   {
+    "name": "Mobility",
+    "path": "/mobilitaet"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1870507,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2025-02-13T04:30:00.000Z",
+  "publicationDate": "2025-02-13T04:30:00.000Z",
+  "publicationLastUpdated": "2026-05-28T09:57:59.401Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2025-02-13T16:30:00.000Z",
+  "teaserCaption": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+  "url": "/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507",
+  "department": {
+   "name": "Mobility",
+   "path": "/mobilitaet"
+  },
+  "estimationWordCount": 1576,
+  "leadText": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "High-tech without a driver: The rocky road of autonomous buses in public transport",
+  "nzzPrintSubtitle": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507",
+   "title": "Public transport: Why autonomous bus projects are stalling",
+   "socialMediaTitle": "The future of public transport: The difficult path of autonomous shuttle buses",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2025/02/12/29f81ed3-a415-451b-9310-511c335d568e.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4470,2514,x0,y348&wmark=nzz"
+  },
+  "ldPublicationId": 2435641,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Public transport",
+    "slug": "/themen/offentlicher-verkehr"
+   },
+   {
+    "name": "Autonomous driving",
+    "slug": "/themen/autonomes-fahren"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1851677",
+    "ld.1830546"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "mp3": true,
+  "mp3Duration": 653760,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "offentlicher-verkehr",
+   "name": "Public transport",
+   "tagName": "Public transport",
+   "qId": "Q178512",
+   "seoTitle": "Public transport – All news and articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:16:09.567Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/offentlicher-verkehr",
+   "size": 566,
+   "relatedTopics": [
+    {
+     "name": "Autonomes Fahren",
+     "slug": "/themen/autonomes-fahren"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Tasers for the transport police: The Federal Council wants to strengthen security on public transport",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2025/11/03/452280be-8a70-4e29-a1f7-06391ea7f45e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/11/03/452280be-8a70-4e29-a1f7-06391ea7f45e.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4002,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y265"
+      },
+      {
+       "name": "4:3",
+       "crop": "5336,4002,x30,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4002,4002,x687,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3002,4002,x477,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In the future, police officers will be able to carry tasers on trains, buses, and trams. The federal government also wants to use more bodycams.",
+     "teaserAuthor": "Michael Buholzer / Keystone"
+    },
+    "teaserAuthor": "Michael Buholzer / Keystone",
+    "nzzId": "ld.10021166",
+    "readingTime": 120,
+    "paywallQuestionOne": "Why is the Federal Council relying on Tasers in public transport?",
+    "paywallQuestionTwo": "How should body cameras monitor the use of Tasers?",
+    "paywallQuestionThree": "What criticisms exist regarding the use of Tasers in public transport?",
+    "characterCount": 2758,
+    "product": "NZZ.ch",
+    "documentId": "10021166",
+    "layout": "regular",
+    "publicationDate": "2026-08-26T15:48:21.308Z",
+    "publicationLastUpdated": "2026-08-27T14:21:13.599Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T03:48:21.308Z",
+    "teaserCaption": "In the future, police officers will be able to carry tasers on trains, buses, and trams. The federal government also wants to use more bodycams.",
+    "url": "https://www.nzz.ch/schweiz/taser-fuer-die-transportpolizei-der-bundesrat-will-die-sicherheit-im-oev-staerken-ld.10021166",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 400,
+    "leadText": "In the future, police officers will be able to carry tasers on trains, buses, and trams. The federal government also wants to use more bodycams.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Rail network maintenance costs are rising: Public Transport Association director demands more money",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/07/2daca7f3-0a71-42bc-96cc-95d8c24e26ea.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/07/2daca7f3-0a71-42bc-96cc-95d8c24e26ea.jpg?width=1024&quality=75&auto=webp",
+     "width": 3895,
+     "height": 2602,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3895,2191,x0,y54"
+      },
+      {
+       "name": "4:3",
+       "crop": "3469,2602,x426,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2602,2602,x895,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1952,2602,x1170,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3895,2597,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2196,
+      "y": 636
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Swiss transport companies are demanding additional millions and a change in the law: Investment in new mega-projects should only be permitted if sufficient funds are available for maintenance.",
+     "teaserAuthor": "Laurent Merlet / Keystone"
+    },
+    "teaserAuthor": "Laurent Merlet / Keystone",
+    "nzzId": "ld.10015866",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does the VöV intend to cover the rising maintenance costs of the rail network?",
+    "paywallQuestionTwo": "Why does the VöV demand that maintenance be prioritized over major projects?",
+    "paywallQuestionThree": "What risks does the VöV see in the financing of new public transport projects?",
+    "characterCount": 6249,
+    "product": "NZZ.ch",
+    "documentId": "10015866",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-10T03:29:00.000Z",
+    "publicationLastUpdated": "2026-08-10T05:09:24.657Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-10T15:29:00.000Z",
+    "teaserCaption": "Swiss transport companies are demanding additional millions and a change in the law: Investment in new mega-projects should only be permitted if sufficient funds are available for maintenance.",
+    "authorLine": "Jürg Meier",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/der-unterhalt-des-schienennetzes-wird-immer-teurer-jetzt-fordert-der-direktor-des-oev-verbands-mehr-geld-ld.10015866",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 933,
+    "leadText": "Swiss transport companies are demanding additional millions and a change in the law: Investment in new mega-projects should only be permitted if sufficient funds are available for maintenance.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "A radical idea sparks controversy: A proposal would even free Basel's city center from public transport",
+    "teaserImage": {
+     "originalUrl": "/2026/07/23/88612807-a8e3-4c3d-98d8-9b63e21d0f88.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/23/88612807-a8e3-4c3d-98d8-9b63e21d0f88.jpg?width=1024&quality=75&auto=webp",
+     "width": 5120,
+     "height": 3413,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5120,2880,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4551,3413,x569,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3103,3103,x1273,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2560,3413,x2157,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5120,3413,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Because too many trams wind through Basel's city center, a counter-movement is now underway: The old town is to become a pedestrian zone without Drämmli. The idea and its support are coming from a surprising source.",
+     "teaserAuthor": "Martin Ruetschi / Keystone"
+    },
+    "teaserAuthor": "Martin Ruetschi / Keystone",
+    "nzzId": "ld.10016688",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why should Basel's old town be freed from tram traffic?",
+    "paywallQuestionTwo": "How is the population reacting to the idea of ​​a tram-free city center?",
+    "paywallQuestionThree": "What impact would the initiative have on businesses and older people?",
+    "characterCount": 5984,
+    "product": "NZZ.ch",
+    "documentId": "10016688",
+    "layout": "regular",
+    "publicationDate": "2026-07-24T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-24T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-24T15:30:00.000Z",
+    "teaserCaption": "Because too many trams wind through Basel's city center, a counter-movement is now underway: The old town is to become a pedestrian zone without Drämmli. The idea and its support are coming from a surprising source.",
+    "authorLine": "Daniel Gerny",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/88afa241-41ab-4392-8465-68d77f3370d7.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/eine-radikale-idee-sorgt-fuer-kontroversen-in-basel-soll-die-innenstadt-sogar-vom-oeffentlichen-verkehr-befreit-werden-ld.10016688",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 872,
+    "leadText": "Because too many trams wind through Basel's city center, a counter-movement is now underway: The old town is to become a pedestrian zone without Drämmli. The idea and its support are coming from a surprising source.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/22/43c7415e-f35b-41ee-a776-65a51fac4578.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/22/43c7415e-f35b-41ee-a776-65a51fac4578.jpg?width=1024&quality=75&auto=webp",
+     "width": 4238,
+     "height": 2821,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3853,2167,x385,y653"
+      },
+      {
+       "name": "4:3",
+       "crop": "3761,2821,x477,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2565,2565,x1179,y256"
+      },
+      {
+       "name": "3:4",
+       "crop": "2116,2821,x1572,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4232,2821,x3,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The federal government is setting limits on digitalization for SBB and other public transport companies. Critics, however, believe this doesn't go far enough.",
+     "teaserAuthor": "Pius Amrein / CH Media"
+    },
+    "teaserAuthor": "Pius Amrein / CH Media",
+    "title": "Transportation companies must accept customers without a smartphone or credit card",
+    "nzzId": "ld.10016435",
+    "readingTime": 180,
+    "paywallQuestionOne": "How is the federal government responding to digitalization in public transport?",
+    "paywallQuestionTwo": "What requirements does the BAV (Federal Office of Transport) place on analog ticketing solutions?",
+    "paywallQuestionThree": "What are the demands of Berta Caminada's anti-discrimination initiative?",
+    "characterCount": 3867,
+    "product": "NZZ.ch",
+    "documentId": "10016435",
+    "layout": "regular",
+    "publicationDate": "2026-07-23T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-23T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-23T15:30:00.000Z",
+    "teaserCaption": "The federal government is setting limits on digitalization for SBB and other public transport companies. Critics, however, believe this doesn't go far enough.",
+    "authorLine": "Tobias Gafafer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/bahnen-muessen-kunden-ohne-smartphone-und-kreditkarte-akzeptieren-ld.10016435",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 547,
+    "leadText": "The federal government is setting limits on digitalization for SBB and other public transport companies. Critics, however, believe this doesn't go far enough.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The public transit customer as a nuisance for the industry",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Peter König",
+    "flag": "Guest opinion",
+    "editor": "1373665",
+    "teaserImage": {
+     "originalUrl": "/2021/8/28/5ba4649e-cfa1-47e8-96db-59a85104acf3.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/8/28/5ba4649e-cfa1-47e8-96db-59a85104acf3.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4881,
+     "height": 3254,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4881,2746,x0,y197"
+      },
+      {
+       "name": "4:3",
+       "crop": "4339,3254,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3254,3254,x814,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2441,3254,x1220,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4881,3254,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The public transport sector blames consumers for almost everything, even when they have no control over the situation. Whether it's a network outage or a technical failure: the customer is always at fault. This contradicts the principles of contract law. A response.",
+     "teaserAuthor": "Gaetan Bally / Keystone"
+    },
+    "teaserAuthor": "Gaetan Bally / Keystone",
+    "nzzId": "ld.10015240",
+    "readingTime": 180,
+    "paywallQuestionOne": "How justified are the so-called «second buses» in public transport?",
+    "paywallQuestionTwo": "Why does the public transport industry always blame the customer for technical problems?",
+    "paywallQuestionThree": "How could public transport be made more customer-friendly and fairer?",
+    "characterCount": 4262,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10015240",
+    "layout": "opinion",
+    "publicationDate": "2026-07-20T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-20T03:58:36.232Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-20T15:30:00.000Z",
+    "teaserCaption": "The public transport sector blames consumers for almost everything, even when they have no control over the situation. Whether it's a network outage or a technical failure: the customer is always at fault. This contradicts the principles of contract law. A response.",
+    "url": "https://www.nzz.ch/meinung/der-oev-kunde-als-stoerfaktor-fuer-die-branche-ld.10015240",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 667,
+    "leadText": "The public transport sector blames consumers for almost everything, even when they have no control over the situation. Whether it's a network outage or a technical failure: the customer is always at fault. This contradicts the principles of contract law. A response.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 11,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Violence on public transport: Federal government examines the use of tasers and body cameras",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2025/11/03/452280be-8a70-4e29-a1f7-06391ea7f45e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/11/03/452280be-8a70-4e29-a1f7-06391ea7f45e.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4002,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y231"
+      },
+      {
+       "name": "4:3",
+       "crop": "5336,4002,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3638,3638,x0,y88"
+      },
+      {
+       "name": "3:4",
+       "crop": "3002,4002,x132,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1633,
+      "y": 1918
+     },
+     "imageService": "fastly",
+     "teaserCaption": "To get the increasing attacks on trains and buses under control, politicians and transport companies are planning new measures.",
+     "teaserAuthor": "Michael Buholzer / Keystone"
+    },
+    "teaserAuthor": "Michael Buholzer / Keystone",
+    "nzzId": "ld.10014782",
+    "readingTime": 180,
+    "paywallQuestionOne": "What measures is the federal government planning to take against violence on public transport?",
+    "paywallQuestionTwo": "Why is the use of Tasers on public transport such a controversial topic?",
+    "paywallQuestionThree": "How should passengers react in the event of violent incidents?",
+    "characterCount": 4013,
+    "product": "NZZ.ch",
+    "documentId": "10014782",
+    "layout": "regular",
+    "publicationDate": "2026-07-09T16:00:03.759Z",
+    "publicationLastUpdated": "2026-07-09T16:00:03.759Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-10T04:00:03.759Z",
+    "teaserCaption": "To get the increasing attacks on trains and buses under control, politicians and transport companies are planning new measures.",
+    "authorLine": "Erich Aschwanden",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/23/cb1fe2ba-059e-4629-9f53-76141706cf95.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/gewalt-im-oeffentlichen-verkehr-bund-prueft-einsatz-von-tasern-und-bodycams-ld.10014782",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 578,
+    "leadText": "To get the increasing attacks on trains and buses under control, politicians and transport companies are planning new measures.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1870507",
+    "name": "High-tech without a driver: The rocky road of autonomous buses in public transport",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Mobilität",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "High-tech without a driver: The rocky road of autonomous buses in public transport",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2025-02-13T04:30:00.000Z",
+     "updateTimestamp": "2026-05-28T09:57:59.401Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1870507",
+   "pageType": "longformstandard",
+   "primaryCategory": "Mobilität",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Public transport: Why autonomous bus projects are stalling",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2025/02/12/29f81ed3-a415-451b-9310-511c335d568e.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4470,2514,x0,y348&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Eberhard Krummheuer",
+  "description": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+  "news_keywords": "High-tech without a driver: The rocky road of autonomous buses in public transport, Mobility, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-05-28T13:57:59+02:00",
+  "date": "2025-02-13T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "High-tech without a driver: The rocky road of autonomous buses in public transport",
+  "ogTitle": "The future of public transport: The difficult path of autonomous shuttle buses",
+  "ogUrl": "https://www.nzz.ch/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507",
+  "mrf:cms_id": "nzz:ld.1870507",
+  "mrf:sections": "Mobilität;WTM",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.1870507",
+  "nzzAuthors": [
+   {
+    "name": "Eberhard Krummheuer"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:29 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/mobilitaet",
+      "name": "Mobility"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Public transport: Why autonomous bus projects are stalling"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507"
+   },
+   "headline": "Public transport: Why autonomous bus projects are stalling",
+   "datePublished": "2025-02-13T07:30:00+02:00",
+   "dateModified": "2026-05-28T13:57:59+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Public transport companies want to densify their route networks and serve outlying areas with shuttle buses accessible via app. These vehicles are intended to be autonomous and driverless, as staff is scarce and expensive. However, the future of local public transport is delayed.",
+   "isAccessibleForFree": false,
+   "articleSection": "Mobilität",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2025/02/12/29f81ed3-a415-451b-9310-511c335d568e.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4470,2514,x0,y348&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Eberhard Krummheuer"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 653760,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/mobilitaet/hightech-ohne-chauffeur-der-steinige-weg-der-autonomen-busse-im-oeffentlichen-verkehr-ld.1870507",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1870507",
+    "channel=Mobilität"
+   ],
+   "ContentCreated": "2025-02-13T04:30:00.000Z",
+   "ContentAuthor": "Eberhard Krummheuer",
+   "ContentSection": "Mobilität",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "ldId": "ld.1870507",
+   "channel": "Mobilität",
+   "heading": "Hightech ohne Chauffeur: Der steinige Weg der autonomen Busse im öffentlichen Verkehr",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

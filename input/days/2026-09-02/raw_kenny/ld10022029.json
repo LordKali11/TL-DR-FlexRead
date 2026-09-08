@@ -1,0 +1,1425 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1gfl0qr1",
+   "content": {
+    "title": "Two attacks on substations within hours, hand grenade at train station: Germany’s critical infrastructure is vulnerable",
+    "lead": "The incidents in Brandenburg and North Rhine-Westphalia illustrate how difficult it is to secure critical infrastructure comprehensively. Attacks on it are likely to increase in the future.",
+    "authorline": "Armin Arbeiter, Berlin",
+    "author": "Armin Arbeiter, Berlin"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1gn192k0",
+   "content": {
+    "image": {
+     "author": "Clemens Bilan / EPA",
+     "caption": "At the Turnow-Preilack substation in southern Brandenburg, short circuits were deliberately caused on high-voltage power lines.",
+     "originalUrl": "/2026/09/02/e2ab43e3-2a1d-4c83-a0d0-d731888c8f08.jpg?crop=6669,4608,x406,y0",
+     "width": 7376,
+     "height": 4609,
+     "altText": "epa13205188 Police officers block the road leading to a power substation in Turnow-Preilack, Germany, 01 September 2026. Several improvised explosive devices were found at a substation, damaging several power lines, according to police and a grid operator. The facility is an important hub in the Lausitz power grid and is connected to the nearby Janschwalde coal-fired power plant. EPA/CLEMENS BILAN",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180350240"
+      }
+     ],
+     "crop": {
+      "x": 406,
+      "y": 0,
+      "width": 6669,
+      "height": 4608,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 406,
+       "y": 0,
+       "width": 6669,
+       "height": 4608,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "At the Turnow-Preilack substation in southern Brandenburg, short circuits were deliberately caused on high-voltage power lines.",
+    "author": "Clemens Bilan / EPA"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gfl0qr4",
+   "content": {
+    "text": "Within a few hours, unknown perpetrators carried out two suspected attacks on the German power grid. In Brandenburg, saboteurs deliberately caused short circuits on high-voltage lines at the <a href=\"https://www.nzz.ch/ld.10021913\">Turnow-Preilack substation</a> in the south of the state. A short time later, a short circuit also occurred at a substation near <a href=\"https://www.nzz.ch/ld.10022019\">Bergheim, west of Cologne</a>."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-eac6b8b1",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h3s0s40",
+   "content": {
+    "text": "Police assumed a «deliberate act.» Investigators later found six launch devices. The devices were likely designed to guide a wire over the power lines using pyrotechnic objects, the Chief Criminal Director said."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2gd4n0",
+   "content": {
+    "text": "North Rhine-Westphalia's Interior Minister, Herbert Reul, previously announced that an investigation into sabotage against the state was underway. Anyone who «goes after that» is attacking Germany, he said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5ot10",
+   "content": {
+    "text": "An incident at Augsburg’s main train station on Wednesday morning also raised questions. An initially unknown object exploded there – reportedly a hand grenade, according to the Bild newspaper. Several people sustained minor injuries. The explosive incident in Augsburg was likely not a targeted attack on infrastructure, initial media reports indicated. Investigators were examining a possible link to organized crime."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5ot90",
+   "content": {
+    "text": "A connection between the three cases was not yet apparent, although the launch devices in Brandenburg and North Rhine-Westphalia were reportedly almost identical. Together, however, the three cases highlight a weakness: critical infrastructure is difficult to protect comprehensively against sabotage."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gmguee0",
+   "content": {
+    "title": "321 suspected sabotage cases",
+    "id": "subtitle-321-sabotage-verdachtsf-lle"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5ot91",
+   "content": {
+    "text": "The investigations in Brandenburg were the most advanced. At Turnow-Preilack, unknown individuals had prepared several homemade projectiles. The perpetrators likely intended to use them to introduce conductive material into high-voltage lines, triggering a short circuit. This succeeded in two instances."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm699h1",
+   "content": {
+    "text": "One line failed briefly, and a 500-megawatt block of the Jänschwalde power plant was temporarily shut down. However, the population's power supply remained stable. By Tuesday evening, investigators had found further explosive devices. Brandenburg's Interior Minister Jan Redmann spoke of a systematic approach."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gqhopm0",
+   "content": {
+    "text": "Investigators were also examining the case on suspicion of forming a terrorist organization. In addition, police were investigating disruption of public services, causing an explosive detonation, and destruction of essential equipment."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1gmju0p0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "0df8cb5d3f7916a21666d76222345d38",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-locator_map-container\"        id=\"q_locator_map_0df8cb5d3f7916a21666d76222345d38_q516ddff8cf05400cb3b902f439a4b215_container\"        data-q-item-id=\"0df8cb5d3f7916a21666d76222345d38\"        data-q-request-id=\"34de1ced3e98564f34220f97019475cef80cc6bf\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"0df8cb5d3f7916a21666d76222345d38\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"locator_map\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"0df8cb5d3f7916a21666d76222345d38\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"locator_map\"}},\"34de1ced3e98564f34220f97019475cef80cc6bf\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_locator_map_0df8cb5d3f7916a21666d76222345d38_q516ddff8cf05400cb3b902f439a4b215_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"0df8cb5d3f7916a21666d76222345d38\",\"title\":\"Suspected attack on the Turnow-Preilack substation in Brandenburg\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"AA.\",\"sources\":[],\"geojsonList\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[14.4266591,51.87576773907685]},\"id\":\"custom-layer-SdNjfC5QXKbo8KLg6tv27\",\"properties\":{\"label\":\"Turnow-Preilack substation\",\"type\":\"explosion\",\"labelPosition\":\"top\",\"index\":0}}],\"options\":{\"baseLayer\":{\"layers\":{\"label\":true},\"style\":\"basic\"},\"dimension\":{\"useDefaultAspectRatio\":true},\"highlightRegion\":[],\"initialZoomLevel\":-1,\"labelsBelowMap\":false,\"labelsBelowMapOneRow\":false,\"minimap\":{\"showMinimap\":true,\"options\":{\"type\":\"region\",\"position\":\"top-right\",\"region\":{\"id\":\"Q1208\"}}},\"scale\":{\"options\":{\"position\":\"bottom-left\"}},\"showLegend\":false},\"updatedDate\":\"2026-09-02T10:01:27.967Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_locator_map_0df8cb5d3f7916a21666d76222345d38_q516ddff8cf05400cb3b902f439a4b215\",\"fontBaseUrl\":\"https://qv1-server.nzz.ch/files/locator_map/fonts/\",\"toolBaseUrl\":\"https://q-server.nzz.ch/locator_map\",\"apiKey\":\"UUOJDlqQTsVSgwOM1KVX\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qLocatorMap) {              clearInterval(checkAndInitialize);              new window.qLocatorMap({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qLocatorMap after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5ota0",
+   "content": {
+    "text": "German security authorities had long been concerned about an increasing number of suspicious incidents involving attacks on critical infrastructure. According to an internal situation report by the Federal Criminal Police Office, 321 suspected sabotage cases were recorded nationwide last year. These included incidents at railway facilities, power lines, substations, radio masts, and German armed forces facilities. Not all of them were later confirmed as sabotage."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1gfl0qr3",
+   "content": {
+    "image": {
+     "author": "Christoph Hardt / Imago",
+     "caption": "A substation near Bergheim, close to Cologne, may also have been attacked on Tuesday evening.",
+     "originalUrl": "/2026/09/02/af77e423-3bea-4780-a2fe-ce4976593807.jpg?crop=4724,3149,x0,y0",
+     "width": 4724,
+     "height": 3149,
+     "altText": "An attack may have been carried out this evening on the substation near Bergheim, near Cologne. Residents saw flashes of light and heard explosions; police suspect a deliberate act. The facility belongs to the transmission system operator Amprion. Bergheim, September 2, 2026, North Rhine-Westphalia, Germany *** An attack may have been carried out this evening on the substation near Bergheim, near Cologne. Residents saw flashes of light and heard explosions; police believe the incident was intentional. The facility belongs to the transmission system operator Amprion. Bergheim, September 2, 2026, North Rhine-Westphalia, Germany Copyright: Christoph Hardt",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180360036"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4724,
+      "height": 3149,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4724,
+       "height": 3149,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A substation near Bergheim, close to Cologne, may also have been attacked on Tuesday evening.",
+    "author": "Christoph Hardt / Imago"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5ota1",
+   "content": {
+    "text": "At the same time, the security situation had changed. The Office for the Protection of the Constitution had long warned <a href=\"https://www.nzz.ch/ld.10018668\">that Russia also recruited individuals for acts of sabotage who did not belong to an intelligence service and were deployed for individual, comparatively simple tasks</a>. Such so-called disposable agents can scout facilities or carry out acts of sabotage. This was part of the general threat situation but not an indication that Moscow was behind the recent incidents."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gmhuk40",
+   "content": {
+    "title": "Threat from Russia and left-wing extremists",
+    "id": "subtitle-gefahr-aus-russland-und-von-linksextremen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5ota2",
+   "content": {
+    "text": "However, the drone attack in Leipzig and the German government's realization that Russia was behind it showed that sabotage attempts and attacks in Germany were likely to increase in the future."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5otb0",
+   "content": {
+    "text": "Similarly, Germany repeatedly experienced politically motivated attacks on power and rail infrastructure from left-wing extremist circles. In early January, an arson attack on power facilities in southwest Berlin caused a power outage lasting several days. In June, around 30,000 people were temporarily without power after a fire at a substation in Reutlingen."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5otb1",
+   "content": {
+    "text": "Unlike, for example, Soviet infrastructure, German infrastructure is predominantly designed for peacetime and therefore cannot be protected comprehensively. Power lines, railway lines, or pipelines stretch over thousands of kilometers – seamless monitoring would be extremely costly. And so, protection must be particularly high where a failure would have particularly severe consequences. At the same time, the infrastructure must be designed so that damage is limited even after a successful attack."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gmim9t0",
+   "content": {
+    "title": "Act on the protection of critical infrastructure",
+    "id": "subtitle-gesetz-zum-schutz-kritischer-infrastruktur"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5otb2",
+   "content": {
+    "text": "The incident at the Turnow-Preilack substation showed that this could succeed: although the perpetrators managed to trigger two short circuits, there was no major power outage because the German transmission grid was able to absorb the short-term failure."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5otb3",
+   "content": {
+    "text": "Nevertheless, improved protection of critical infrastructure in Germany would become necessary. According to experts, the Critical Infrastructure Umbrella Act, which only came into force in March, was not yet sufficient to meet the demands. Among other things, it provided for risk analyses and minimum requirements for the physical protection of critical infrastructure."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm6s4i0",
+   "content": {
+    "text": "It also required operators of these infrastructures to implement resilience measures such as stronger site protection, emergency teams, or provisions for maintaining supply. The Act covered particularly important facilities that supplied more than 500,000 people. Critics demanded that this limit be reduced to 150,000. They also contended that operators' willingness to spend additional funds on the security of their facilities would only be present if requirements were legally stipulated."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gm5otc0",
+   "content": {
+    "text": "Furthermore, the practical implementation of the new Act was still largely pending. The Federal Office for Civil Protection and Disaster Assistance pointed out that several legal ordinances and concrete guidelines were still being developed. For example, it had not yet been conclusively regulated which facilities fell under the Act."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1gfl0qr5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1gfl0qr6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gfl0qr7",
+      "content": {
+       "title": "«Aggression against Europe»: Germany blames Russia for the attempted drone attack in Leipzig and closes the consulate general",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/09/01/417bf6d8-3ea8-4a68-881b-ddea5e70d04e.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/01/417bf6d8-3ea8-4a68-881b-ddea5e70d04e.jpg?width=1024&quality=75&auto=webp",
+        "width": 6286,
+        "height": 4192,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6286,3536,x0,y200"
+         },
+         {
+          "name": "4:3",
+          "crop": "5589,4192,x348,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4192,4192,x1047,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3144,4192,x1571,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6286,4191,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "One month after the attempted attack on Leipzig Airport, the German federal government is blaming Russia. In retaliation, Berlin is imposing a package of measures.",
+        "teaserAuthor": "Sean Gallup / Getty"
+       },
+       "teaserAuthor": "Sean Gallup / Getty",
+       "nzzId": "ld.10021908",
+       "readingTime": 240,
+       "paywallQuestionOne": "What evidence supports Germany's accusation against Russia?",
+       "paywallQuestionTwo": "How is Russia reacting to Germany's measures?",
+       "paywallQuestionThree": "What would the consequences of a successful drone attack have been?",
+       "characterCount": 5462,
+       "product": "NZZ.ch",
+       "documentId": 10021908,
+       "layout": "regular",
+       "publicationDate": "2026-09-01T17:24:38.891Z",
+       "publicationLastUpdated": "2026-09-01T20:02:46.526Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-09-02T05:24:38.891Z",
+       "teaserCaption": "One month after the attempted attack on Leipzig Airport, the German federal government is blaming Russia. In retaliation, Berlin is imposing a package of measures.",
+       "authorLine": "Len Sander, Berlin",
+       "url": "/deutschland/politik/aggression-gegenueber-europa-deutschland-gibt-russland-die-schuld-an-dem-versuchten-drohnenanschlag-in-leipzig-und-schliesst-das-generalkonsulat-ld.10021908",
+       "department": {
+        "name": "Politics (Germany)",
+        "path": "/deutschland/politik"
+       },
+       "estimationWordCount": 749,
+       "leadText": "One month after the attempted attack on Leipzig Airport, the German federal government is blaming Russia. In retaliation, Berlin is imposing a package of measures.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gfl0qr8",
+      "content": {
+       "title": "Sabotage in Brandenburg: Police investigate formation of a terrorist organization",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/09/01/23cac0e6-e631-4b3c-99d1-8fde72d567a9.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/01/23cac0e6-e631-4b3c-99d1-8fde72d567a9.jpg?width=1024&quality=75&auto=webp",
+        "width": 6441,
+        "height": 4294,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6441,3623,x0,y335"
+         },
+         {
+          "name": "4:3",
+          "crop": "5725,4294,x358,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4294,4294,x1074,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3221,4294,x1610,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6441,4294,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Police find explosive devices near Jänschwalde coal-fired power plant in eastern Germany: What is behind it?",
+        "teaserAuthor": "mago / Imago"
+       },
+       "teaserAuthor": "mago / Imago",
+       "nzzId": "ld.10021913",
+       "readingTime": 120,
+       "embeds": {
+        "videos": [
+         {
+          "id": "YjcgLyV6",
+          "provider": "jw",
+          "teaser": true
+         }
+        ]
+       },
+       "paywallQuestionOne": "What are the possible motives behind the attack on the substation?",
+       "paywallQuestionTwo": "How vulnerable is Germany's critical energy infrastructure?",
+       "paywallQuestionThree": "What would the consequences of a successful attack on the substation have been?",
+       "characterCount": 3537,
+       "videoTeaser": "YjcgLyV6",
+       "product": "NZZ.ch",
+       "documentId": 10021913,
+       "layout": "regular",
+       "publicationDate": "2026-09-02T10:50:23.902Z",
+       "publicationLastUpdated": "2026-09-02T12:44:30.144Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-09-02T22:50:23.902Z",
+       "teaserCaption": "Police find explosive devices near Jänschwalde coal-fired power plant in eastern Germany: What is behind it?",
+       "url": "/deutschland/politik/polizei-findet-sprengvorrichtungen-an-deutschem-umspannwerk-ld.10021913",
+       "department": {
+        "name": "Politics (Germany)",
+        "path": "/deutschland/politik"
+       },
+       "estimationWordCount": 496,
+       "leadText": "Police find explosive devices near Jänschwalde coal-fired power plant in eastern Germany: What is behind it?",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gfl0qs0",
+      "content": {
+       "title": "A malfunction occurs at a substation near Cologne – police are investigating for «anti-constitutional sabotage»",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1024&quality=75&auto=webp",
+        "width": 7794,
+        "height": 5199,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7794,4384,x0,y407"
+         },
+         {
+          "name": "4:3",
+          "crop": "6932,5199,x431,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "5199,5199,x1298,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3899,5199,x1947,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7794,5196,x0,y2"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+        "teaserAuthor": "Jochen Tack / Imago"
+       },
+       "teaserAuthor": "Jochen Tack / Imago",
+       "nzzId": "ld.10022019",
+       "readingTime": 60,
+       "paywallQuestionOne": "What are the reasons behind the alleged sabotage in Bergheim?",
+       "paywallQuestionTwo": "What parallels exist with previous acts of sabotage against electricity infrastructure?",
+       "paywallQuestionThree": "How is the police reacting to the increasing number of such incidents?",
+       "characterCount": 1670,
+       "product": "NZZ.ch",
+       "documentId": 10022019,
+       "layout": "regular",
+       "publicationDate": "2026-09-02T10:11:26.616Z",
+       "publicationLastUpdated": "2026-09-02T10:11:26.616Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-09-02T22:11:26.616Z",
+       "teaserCaption": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+       "url": "/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+       "department": {
+        "name": "International (Germany)",
+        "path": "/deutschland/international"
+       },
+       "estimationWordCount": 269,
+       "leadText": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Two attacks on substations within hours, hand grenade at train station: Germany’s critical infrastructure is vulnerable",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "authorLine": "Armin Arbeiter, Berlin",
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/e2ab43e3-2a1d-4c83-a0d0-d731888c8f08.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/e2ab43e3-2a1d-4c83-a0d0-d731888c8f08.jpg?width=1024&quality=75&auto=webp",
+   "width": 7376,
+   "height": 4609,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7376,4149,x0,y459"
+    },
+    {
+     "name": "4:3",
+     "crop": "6145,4609,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4609,4609,x294,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3457,4609,x1038,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6914,4609,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The incidents in Brandenburg and North Rhine-Westphalia illustrate how difficult it is to secure critical infrastructure comprehensively. Attacks on it are likely to increase in the future.",
+   "teaserAuthor": "Clemens Bilan / EPA"
+  },
+  "teaserAuthor": "Clemens Bilan / EPA",
+  "nzzId": "ld.10022029",
+  "readingTime": 240,
+  "characterCount": 6042,
+  "breadcrumbs": [
+   {
+    "name": "Homepage (Germany)",
+    "path": "/deutschland"
+   },
+   {
+    "name": "Politics (Germany)",
+    "path": "/deutschland/politik"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022029,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T09:53:12.970Z",
+  "publicationDate": "2026-09-02T10:29:01.139Z",
+  "publicationLastUpdated": "2026-09-02T13:12:11.086Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-09-02T22:29:01.139Z",
+  "teaserCaption": "The incidents in Brandenburg and North Rhine-Westphalia illustrate how difficult it is to secure critical infrastructure comprehensively. Attacks on it are likely to increase in the future.",
+  "url": "/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+  "department": {
+   "name": "Politics (Germany)",
+   "path": "/deutschland/politik"
+  },
+  "estimationWordCount": 840,
+  "leadText": "The incidents in Brandenburg and North Rhine-Westphalia illustrate how difficult it is to secure critical infrastructure comprehensively. Attacks on it are likely to increase in the future.",
+  "nzzSummaryEN": "- Two suspected sabotage attacks on German substations and an explosives incident in Augsburg highlight vulnerabilities in critical infrastructure. Perpetrators in Brandenburg used improvised devices to trigger short circuits in high-voltage lines.\n- German infrastructure is challenging to comprehensively protect, and future attacks may increase. The KRITIS law, enacted in March, mandates resilience measures and risk analyses but is deemed insufficient.\n- No link between the incidents has been identified so far. Germany's intelligence service warns of threats, including sabotage, attributed partially to Russia or left-wing extremists.",
+  "nzzSummaryDE": "Two suspected acts of sabotage against German substations and a bombing incident in Augsburg highlight the vulnerability of critical infrastructure. The perpetrators in Brandenburg used homemade missiles to cause short circuits on high-voltage power lines. Protecting Germany's infrastructure across the board is difficult; attacks could increase in the future. The Critical Infrastructure Protection Act (Kritis-Gesetz), which came into force in March, mandates resilience measures and risk analyses, but is considered insufficient. No connection between the incidents has yet been established. The Federal Office for the Protection of the Constitution (Germany's domestic intelligence agency) warns of security threats, including sabotage, some of which is attributed to Russia or left-wing extremists.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "German infrastructure is vulnerable and unprotected",
+  "nzzPrintSubtitle": "Attacks on substations and an explosion in Augsburg highlight the vulnerability of German infrastructure – more security is needed",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+   "title": "Critical infrastructure at risk: Acts of sabotage are on the rise in Germany",
+   "socialMediaTitle": "German infrastructure in focus: Sabotage and legal loopholes",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/e2ab43e3-2a1d-4c83-a0d0-d731888c8f08.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7376,4149,x0,y459&wmark=nzz"
+  },
+  "ldPublicationId": 2487678,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021908",
+    "ld.10021913",
+    "ld.10022019"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 380232,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "deutschland",
+   "name": "Germany",
+   "tagName": "Germany",
+   "qId": "Q183",
+   "seoTitle": "Germany – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:02:18.055Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/deutschland",
+   "size": 9442,
+   "relatedTopics": [
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Moscow closes Goethe-Institutes, hardens tone toward Berlin",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Armin Arbeiter, Berlin",
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024&quality=75&auto=webp",
+     "width": 2823,
+     "height": 1825,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2823,1588,x0,y59"
+      },
+      {
+       "name": "4:3",
+       "crop": "2433,1825,x390,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1508,1508,x940,y49"
+      },
+      {
+       "name": "3:4",
+       "crop": "1369,1825,x953,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2738,1825,x85,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+     "teaserAuthor": "Ramil Sitdikov / Reuters"
+    },
+    "teaserAuthor": "Ramil Sitdikov / Reuters",
+    "nzzId": "ld.10022202",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Moscow closing the Goethe Institutes in response to German measures?",
+    "paywallQuestionTwo": "According to Russia, what evidence is missing in the case of the drone attack in Leipzig?",
+    "paywallQuestionThree": "How does the closure of the Goethe-Institut affect pro-European Russians?",
+    "characterCount": 4616,
+    "product": "NZZ.ch",
+    "documentId": "10022202",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T08:56:31.247Z",
+    "publicationLastUpdated": "2026-09-03T09:34:43.715Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T20:56:31.247Z",
+    "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "url": "https://www.nzz.ch/deutschland/politik/moskau-schliesst-die-goethe-institute-und-verschaerft-den-ton-gegenueber-berlin-ld.10022202",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 666,
+    "leadText": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Lonely Men of the East",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5152,
+     "height": 3440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5152,2898,x0,y423"
+      },
+      {
+       "name": "4:3",
+       "crop": "4587,3440,x283,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3440,3440,x259,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2580,3440,x467,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5152,3435,x0,y3"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+     "teaserAuthor": "Fabrizio Bensch / Reuters"
+    },
+    "teaserAuthor": "Fabrizio Bensch / Reuters",
+    "tags": [
+     "Pro: Fokus"
+    ],
+    "showComments": true,
+    "nzzId": "ld.10021328",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why are so many young women leaving East Germany?",
+    "paywallQuestionTwo": "How does the shortage of women affect society in East Germany?",
+    "paywallQuestionThree": "What role does the AfD play in the political mood in the East?",
+    "characterCount": 9768,
+    "product": "NZZ.ch",
+    "documentId": "10021328",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "authorLine": "Leon Hedgehog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/12/eb10e36e-8f54-4722-adf7-421086aa6dd9.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/in-ostdeutschland-fehlen-frauen-die-afd-profitiert-von-strukturellen-problemen-ld.10021328",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1479,
+    "premium": true,
+    "leadText": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Podcast «NZZ Machtspiel»",
+    "title": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y66"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course."
+    },
+    "showHeader": true,
+    "editor": "1867936",
+    "paywallQuestionOne": "How could the CDU become strategically capable of action by using red lines instead of firewalls?",
+    "paywallQuestionTwo": "Why does Andreas Rödder consider flexible majorities a viable government option for the future?",
+    "paywallQuestionThree": "How does Rödder assess the double standards in the debate about banning the AfD?",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 120,
+    "nzzId": "ld.10021940",
+    "characterCount": 2253,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021940",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:00:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:00:00.000Z",
+    "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "authorLine": "Utz Dräger",
+    "url": "https://www.nzz.ch/podcast/machtspiel/wie-kommt-die-cdu-aus-der-sackgasse-andreas-roedder-ld.10021940",
+    "department": {
+     "name": "Power play",
+     "path": "/podcast/machtspiel"
+    },
+    "estimationWordCount": 356,
+    "leadText": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserPodcastAuthor": "Florian Eder, Andreas Rödder",
+    "teaserPodcastDate": "03.09.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2585342-m-bb3033a2954d218684744abd1d123552.mp3",
+    "teaserPodcastDuration": "39",
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "German-Russian relations at an all-time low: Putin speaks of a «grave mistake» after German sanctions",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5128,
+     "height": 3419,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5128,2884,x0,y130"
+      },
+      {
+       "name": "4:3",
+       "crop": "4559,3419,x324,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3419,3419,x937,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2564,3419,x1364,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5128,3419,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+     "teaserAuthor": "Kristina Solovyova / Imago"
+    },
+    "teaserAuthor": "Kristina Solovyova / Imago",
+    "nzzId": "ld.10022027",
+    "readingTime": 240,
+    "paywallQuestionOne": "How do the sanctions affect German-Russian relations?",
+    "paywallQuestionTwo": "What specific countermeasures is Russia planning?",
+    "paywallQuestionThree": "How is the Kremlin reacting to the allegations regarding the drone incident?",
+    "characterCount": 5880,
+    "product": "NZZ.ch",
+    "documentId": "10022027",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:29:35.291Z",
+    "publicationLastUpdated": "2026-09-02T13:56:01.973Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:29:35.291Z",
+    "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "authorLine": "Volker Pabst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/deutsch-russische-beziehungen-am-tiefpunkt-putin-spricht-nach-deutschen-sanktionen-von-einem-schweren-fehler-ld.10022027",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 834,
+    "leadText": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022029",
+    "name": "Two attacks on substations within hours, hand grenade at train station: Germany’s critical infrastructure is vulnerable",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Startseite (Deutschland)",
+    "subCategory1": "Politik (Deutschland)",
+    "attributes": {
+     "headline": "Two attacks on substations within hours, hand grenade at train station: Germany’s critical infrastructure is vulnerable",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T10:29:01.139Z",
+     "updateTimestamp": "2026-09-02T13:12:11.086Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022029",
+   "pageType": "regular",
+   "primaryCategory": "Startseite (Deutschland)",
+   "subCategory1": "Politik (Deutschland)",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Critical infrastructure at risk: Acts of sabotage are on the rise in Germany",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/e2ab43e3-2a1d-4c83-a0d0-d731888c8f08.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7376,4149,x0,y459&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Armin Arbeiter, Berlin",
+  "description": "The incidents in Brandenburg and North Rhine-Westphalia illustrate how difficult it is to secure critical infrastructure comprehensively. Attacks on it are likely to increase in the future.",
+  "news_keywords": "Two attacks on substations within a few hours, hand grenade at train station: Germany's critical infrastructure is vulnerable, Politics (Germany), News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T17:12:11+02:00",
+  "date": "2026-09-02T13:53:12+02:00",
+  "canonical": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Two attacks on substations within hours, hand grenade at train station: Germany’s critical infrastructure is vulnerable",
+  "ogTitle": "German infrastructure in focus: Sabotage and legal loopholes",
+  "ogUrl": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+  "mrf:cms_id": "nzz:ld.10022029",
+  "mrf:sections": "Startseite (Deutschland);Politik (Deutschland)",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022029",
+  "nzzAuthors": [
+   {
+    "name": "Armin Arbeiter, Berlin"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:20 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/deutschland",
+      "name": "Homepage (Germany)"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/deutschland/politik",
+      "name": "Politics (Germany)"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Critical infrastructure at risk: Acts of sabotage are on the rise in Germany"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029"
+   },
+   "headline": "Critical infrastructure at risk: Acts of sabotage are on the rise in Germany",
+   "datePublished": "2026-09-02T13:53:12+02:00",
+   "dateModified": "2026-09-02T17:12:11+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The incidents in Brandenburg and North Rhine-Westphalia illustrate how difficult it is to secure critical infrastructure comprehensively. Attacks on it are likely to increase in the future.",
+   "isAccessibleForFree": false,
+   "articleSection": "Politik (Deutschland)",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/e2ab43e3-2a1d-4c83-a0d0-d731888c8f08.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7376,4149,x0,y459&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Armin Arbeiter, Berlin"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 380232,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022029",
+    "channel=Startseite (Deutschland)"
+   ],
+   "ContentCreated": "2026-09-02T09:53:12.970Z",
+   "ContentAuthor": "Armin Arbeiter, Berlin",
+   "ContentSection": "Startseite (Deutschland)",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie kann Deutschlands kritische Infrastruktur besser vor Sabotage geschützt werden?\nWelche Rolle spielt Russland bei Sabotageakten gegen deutsche Infrastruktur?\nReicht das Kritis-Dachgesetz aus, um die Infrastruktur effektiv zu sichern?",
+   "ldId": "ld.10022029",
+   "channel": "Startseite (Deutschland)",
+   "subChannel": "Politik (Deutschland)",
+   "heading": "Zwei Anschläge auf Umspannwerke binnen weniger Stunden, Handgranate am Bahnhof: Deutschlands kritische Infrastruktur ist verwundbar",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

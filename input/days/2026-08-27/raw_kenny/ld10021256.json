@@ -1,0 +1,1738 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k11232rs1",
+   "content": {
+    "title": "Flash flood hits Beijing's strategic corridor through the Himalayas",
+    "lead": "A natural disaster destroyed an important border crossing between China and Nepal. It had occurred once before a year earlier. Why do the two states cling to such a dangerous trade route?",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k11232rs2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Katrin Büchenbacher",
+       "url": "/impressum/katrin-buechenbacher-ld.1594415",
+       "teaserImage": {
+        "originalUrl": "/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11f0u431",
+   "content": {
+    "image": {
+     "author": "Maxim Shemetov / Reuters",
+     "caption": "Chinese state broadcaster CCTV reported Thursday on the flood disaster at the border between Nepal and China.",
+     "originalUrl": "/2026/08/27/3bcd3be1-aba5-4e2b-b1c4-14f37a0135ec.jpg?crop=4222,2815,x0,y0",
+     "width": 4222,
+     "height": 2815,
+     "altText": "A restaurant staff member speaks to guests as a screen broadcasts news footage of the consequences of a devastating flash flood and a mudslide on the border of the Tibet Autonomous Region of China and Nepal, in Beijing, China, August 27, 2026. REUTERS/Maxim Shemetov",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180244189"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4222,
+      "height": 2815,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4222,
+       "height": 2815,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Chinese state broadcaster CCTV reported Thursday on the flood disaster at the border between Nepal and China.",
+    "author": "Maxim Shemetov / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11232rs4",
+   "content": {
+    "text": "The Gyirong border crossing is the most important trade route between China and Nepal. In 2024, almost 30% of bilateral trade flowed through that Himalayan valley, <a href=\"https://shb.xizang.gov.cn/zjxz/xzdt/202601/t20260106_517697.html\">according to the Tibetan regional government</a>. Now everything lies buried under mud and rubble. On Wednesday, surveillance camera footage showed how the gray border building, trucks and people in the forecourt were swallowed by a flash flood within seconds. Later, social media channels showed the flood continuing its path through the valley. Hundreds of people have died, and more than a thousand are considered missing."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-06ab7583",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "oembed"
+  },
+  {
+   "identifier": "oembed",
+   "id": "doc-1k1j856mj0",
+   "content": {
+    "oembed-directive": {
+     "service": "li-oembed-service",
+     "params": {
+      "url": "https://x.com/thetatvaindia/status/2092578959007617089?s=20",
+      "params": {}
+     },
+     "resolvedValue": {
+      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">🚨SHOCKING | Nepal flash floods send a massive wall of water surging through the Rasuwagadhi border. At least 384 people, including 105 Indians, are missing, while nine have been killed <a href=\"https://t.co/wVkXmDMtKg\">pic.twitter.com/wVkXmDMtKg</a></p>&mdash; The Tatva (@thetatvaindia) <a href=\"https://x.com/thetatvaindia/status/2092578959007617089?ref_src=twsrc%5Etfw\">August 26, 2026</a></blockquote>\n<script async src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script>\n\n"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11fs1hj0",
+   "content": {
+    "text": "It is not the first time such a natural disaster has occurred at the Gyirong border crossing. In July 2025, a flash flood destroyed the border bridge. The crossing remained closed until January 2026. Why do China and Nepal nevertheless cling to such a dangerous trade route?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "oembed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11dp4jh0",
+   "content": {
+    "title": "Beijing's goal: Tibet as South Asia gateway",
+    "id": "subtitle-peking-will-tibet-zum-tor-nach-s-dasien-machen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k118pk0p0",
+   "content": {
+    "text": "China reacted quickly and at the highest level to the disaster. Party and state leader Xi Jinping issued «important instructions,» Premier Li Qiang also commented, a national emergency response of the second-highest level was triggered, and a Politburo member traveled to the disaster area."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k119igc70",
+   "content": {
+    "text": "The Gyirong border crossing has been of strategic importance to Beijing for years. The route is one of the few possible north-south connections through the Himalayas, a centuries-old trade route. Now it is part of Xi Jinping's «New Silk Road» and serves the goal of making Tibet a hub for trade with South Asia. China's central government is building roads, customs and logistics buildings, and is even examining a train connection between the Tibetan region of Shigatse via Gyirong to Kathmandu."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k11fi48n0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "23aa3dec2ec0230072eef4f8247c506e",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-locator_map-container\"        id=\"q_locator_map_23aa3dec2ec0230072eef4f8247c506e_qdaaa50502640459dadc0718e88aa5d74_container\"        data-q-item-id=\"23aa3dec2ec0230072eef4f8247c506e\"        data-q-request-id=\"0214546494bc76f654eb0e93586c971c961c7d99\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"23aa3dec2ec0230072eef4f8247c506e\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"locator_map\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"23aa3dec2ec0230072eef4f8247c506e\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"locator_map\"}},\"0214546494bc76f654eb0e93586c971c961c7d99\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_locator_map_23aa3dec2ec0230072eef4f8247c506e_qdaaa50502640459dadc0718e88aa5d74_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"23aa3dec2ec0230072eef4f8247c506e\",\"title\":\"Flash flood on the border between China and Nepal\",\"subtitle\":\"The Gyirong border crossing is the most important trade route between China and Nepal\",\"publication\":\"nzz\",\"acronym\":\"k.b.\",\"sources\":[],\"geojsonList\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[86.23215158049504,28.963680716889314]},\"id\":\"custom-layer-UoX_3tvX9M--XOBVzdy4x\",\"properties\":{\"label\":\"China\",\"type\":\"country\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[82.42461736051399,26.602317197031113]},\"id\":\"custom-layer-eZfT8hYS3PqXq8PUPPorq\",\"properties\":{\"label\":\"India\",\"type\":\"country\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[85.41253679604631,27.814288421068426]},\"id\":\"custom-layer-jDArh2vAvK9FPJCbe1peY\",\"properties\":{\"label\":\"Kathmandu\",\"type\":\"city\",\"labelPosition\":\"bottom\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[85.78808574231982,28.542997522406566]},\"id\":\"custom-layer-0tmIKc5VZq450811_40Qq\",\"properties\":{\"label\":\"Tibet\",\"type\":\"country\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[84.79392570384766,28.125365762461698]},\"id\":\"custom-layer-6H94u1hTkwx3riOYImS6A\",\"properties\":{\"label\":\"Nepal\",\"type\":\"country\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[85.377764,28.279741]},\"id\":\"custom-layer-UGnguWreVRDKrl5kF3jfg\",\"properties\":{\"label\":\"Gyirong border crossing\",\"type\":\"event\",\"labelPosition\":\"top\",\"index\":0}}],\"options\":{\"baseLayer\":{\"layers\":{\"label\":true},\"style\":\"basic\"},\"dimension\":{\"bbox\":[84.58155143440683,27.27552322407918,86.91001799429358,29.32550264127741],\"useDefaultAspectRatio\":true},\"highlightRegion\":[],\"initialZoomLevel\":-1,\"labelsBelowMap\":false,\"labelsBelowMapOneRow\":false,\"minimap\":{\"showMinimap\":true,\"options\":{\"type\":\"region\",\"position\":\"bottom-right\",\"region\":{\"id\":\"Q148\"}}},\"scale\":{\"options\":{\"position\":\"bottom-left\"}},\"showLegend\":true},\"updatedDate\":\"2026-08-27T11:27:27.249Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_locator_map_23aa3dec2ec0230072eef4f8247c506e_qdaaa50502640459dadc0718e88aa5d74\",\"fontBaseUrl\":\"https://qv1-server.nzz.ch/files/locator_map/fonts/\",\"toolBaseUrl\":\"https://q-server.nzz.ch/locator_map\",\"apiKey\":\"UUOJDlqQTsVSgwOM1KVX\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qLocatorMap) {              clearInterval(checkAndInitialize);              new window.qLocatorMap({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qLocatorMap after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11gecdc0",
+   "content": {
+    "text": "But not only China has an interest in developing this trade route as effectively as possible; Nepal does too. The country wants to reduce its dependence on India through more trade with China. At the same time, Nepal urgently needs modern infrastructure such as tunnels and railways to boost its economy. Kathmandu hopes for Chinese investments as part of the «New Silk Road.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11b31451",
+   "content": {
+    "text": "Trade via Gyirong primarily consists of Chinese exports; Nepal sells relatively little to China. The customs data for the delivery of Chinese electric and hybrid vehicles, for example, is impressive. In 2020, <a href=\"https://news.cctv.cn/2024/07/05/ARTI22JXmvMlf1K6mZSBQIyZ240705.shtml\">only 39</a> were exported via the border crossing; in 2025, <a href=\"https://rikaze.xzdw.gov.cn/xwzx_455/ttxw/202508/t20250814_595905.html\">according to local government figures</a>, there were already 4,126 in the first half of the year before the flood destroyed the bridge."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11dqeae0",
+   "content": {
+    "title": "China's dominance in the trade relationship",
+    "id": "subtitle-china-dominiert-die-handelsbeziehung"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11clm2g1",
+   "content": {
+    "text": "Yet, while trade relations are becoming increasingly close, there are also tensions in the border region. Last year's flash flood was triggered by the emptying of a glacial lake in Tibet. The Nepalese disaster management agency discovered this using satellite data. The Nepalese side <a href=\"https://kathmandupost.com/climate-environment/2025/07/09/rasuwagadhi-flooding-exposes-gaps-in-neighbourly-data-sharing\">told the «Kathmandu Post» at the time</a> that China had not warned them. There was no such mechanism, they said."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11c85mk0",
+   "content": {
+    "text": "Although there has been an agreement since 2019 to reduce the risk of natural disasters and to cooperate better in emergencies, there appears to be a lack of implementation. Experts have therefore been calling for real-time data exchange and joint early warning systems for years. China already systematically exchanges hydrological data with the Mekong states. Following the current disaster, Chinese and Nepalese authorities spoke via video conference Wednesday. China subsequently promised to inform Nepal in the future as soon as the water level on the Chinese side rises."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11cpsb41",
+   "content": {
+    "text": "China dominates its small southern neighbor. The Chinese side is teeming with surveillance cameras and border officials – the Nepalese side is less well-equipped, which gives China the power to unilaterally enforce border closures. In addition, residents of the border region used to often communicate in Tibetan. However, residents interviewed for a 2023 Nepalese <a href=\"https://www.cesifnepal.org/1698751206_Evolving%20Nepal-China%20Cross-Border%20Relations%20%26%20%20its%20Impact%20on%20Borderland%20Citizens.pdf\">study</a> said that Chinese border officials are now predominantly Han Chinese who do not speak Tibetan. This leads to communication problems, they added."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11enjss0",
+   "content": {
+    "title": "China's paramount interest: Preventing separatism",
+    "id": "subtitle-chinas-oberstes-interesse-kein-separatismus"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11cufa50",
+   "content": {
+    "text": "China's rigid controls also cause friction. This has historical reasons. China's People's Liberation Army marched into Tibet in 1950; the following year, Tibet came under the control of the People's Republic. From the early 1960s, some Tibetan resistance fighters maintained a guerrilla base in Nepalese Mustang. The CIA supported them with weapons, money and training."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11itsaa1",
+   "content": {
+    "text": "Beijing fears to this day that Tibetan independence aspirations could seep into the country from Nepal. The veneration of the Dalai Lama, who has lived in Indian exile since 1959, appears particularly dangerous to the Chinese authorities. Border controls to Tibet are therefore rigorous – foreigners require special permission to enter. Nepalese border residents <a href=\"https://cesifnepal.org/public/1698751206_Evolving%20Nepal-China%20Cross-Border%20Relations%20%26%20%20its%20Impact%20on%20Borderland%20Citizens.pdf\">report</a> strict controls at the border with China. Their phones are searched, and if an image of the Dalai Lama is found, entry is denied, they say."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "jw-snippets"
+  },
+  {
+   "identifier": "jw-snippets",
+   "id": "doc-1k118e1sq0",
+   "content": {
+    "jw": {
+     "service": "jw",
+     "params": {
+      "mediaid": "ZJZxgyQP",
+      "property": "zizx0e53",
+      "posterImage": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=720",
+      "title": "260827 NEPAL Compilation",
+      "versions": [
+       {
+        "key": "mediaid"
+       }
+      ]
+     },
+     "resolvedValue": {
+      "html": "\n    <div style=\"position: relative; padding-bottom: 56.25%\">\n      <iframe\n      src=\"https://cdn.jwplayer.com/previews/ZJZxgyQP\"\n      width=\"100%\"\n      height=\"100%\"\n      frameborder=\"0\"\n      style=\"position: absolute; top: 0; left: 0; width: 100%;\"\n      ></iframe>\n    </div>\n  "
+     }
+    },
+    "caption": "Videos from the region show the extent of the flash flood.",
+    "author": "Reuters / <a href=\"https://x.com/iNikhilsaini\">@iNikhilsaini</a>",
+    "article": {
+     "content": {
+      "mediaid": {
+       "title": "260827 NEPAL Zusammenschnitt",
+       "description": "",
+       "kind": "Single Item",
+       "siteid": "zizx0e53",
+       "playlist": [
+        {
+         "title": "260827 NEPAL Zusammenschnitt",
+         "mediaid": "ZJZxgyQP",
+         "link": "https://cdn.jwplayer.com/previews/ZJZxgyQP",
+         "image": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=720",
+         "images": [
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=320",
+           "width": 320,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=480",
+           "width": 480,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=640",
+           "width": 640,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=720",
+           "width": 720,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=1280",
+           "width": 1280,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.jpg?width=1920",
+           "width": 1920,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.mp4?width=320",
+           "width": 320,
+           "type": "video/mp4"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/ZJZxgyQP/poster.mp4?width=640",
+           "width": 640,
+           "type": "video/mp4"
+          }
+         ],
+         "siteid": "zizx0e53",
+         "duration": 109,
+         "content_source_type": "file",
+         "pubdate": 1787822328,
+         "updated": 1787822862,
+         "description": "",
+         "sources": [
+          {
+           "file": "https://cdn.jwplayer.com/manifests/ZJZxgyQP.m3u8",
+           "type": "application/vnd.apple.mpegurl"
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-xH7ZwjSy.mp4",
+           "type": "video/mp4",
+           "height": 1080,
+           "width": 1920,
+           "label": "1080p",
+           "bitrate": 3378900,
+           "filesize": 46037519,
+           "framerate": 25
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-RaJFE968.mp4",
+           "type": "video/mp4",
+           "height": 720,
+           "width": 1280,
+           "label": "720p",
+           "bitrate": 1770318,
+           "filesize": 24120591,
+           "framerate": 25
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-ShBw8oGS.mp4",
+           "type": "video/mp4",
+           "height": 540,
+           "width": 960,
+           "label": "540p",
+           "bitrate": 1235806,
+           "filesize": 16837866,
+           "framerate": 25
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-fUTxVyps.mp4",
+           "type": "video/mp4",
+           "height": 406,
+           "width": 720,
+           "label": "406p",
+           "bitrate": 832400,
+           "filesize": 11341451,
+           "framerate": 25
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-s0RnL1vI.mp4",
+           "type": "video/mp4",
+           "height": 360,
+           "width": 640,
+           "label": "360p",
+           "bitrate": 728010,
+           "filesize": 9919148,
+           "framerate": 25
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-Pb8gHtcs.mp4",
+           "type": "video/mp4",
+           "height": 270,
+           "width": 480,
+           "label": "270p",
+           "bitrate": 533472,
+           "filesize": 7268567,
+           "framerate": 25
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/ZJZxgyQP-2KuhEkuQ.mp4",
+           "type": "video/mp4",
+           "height": 180,
+           "width": 320,
+           "label": "180p",
+           "bitrate": 343134,
+           "filesize": 4675207,
+           "framerate": 25
+          }
+         ],
+         "tracks": [
+          {
+           "file": "https://cdn.jwplayer.com/strips/ZJZxgyQP-120.vtt",
+           "kind": "thumbnails"
+          }
+         ],
+         "variations": {}
+        }
+       ],
+       "feed_instance_id": "e8a4b912-093b-460e-a657-15eb826460f3",
+       "playerId": "0ijT7BsU",
+       "intl": {
+        "de": {
+         "advertising": {
+          "skiptext": "Überspringen"
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k11232rs5",
+   "paidContent": true,
+   "prevElement": "jw-snippets",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k11232rs6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11232rs7",
+      "content": {
+       "title": "«The market was gone in moments»: No escape from Nepal’s flood disaster",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserAuthor": "Niranjan Shrestha / AP",
+       "teaserImage": {
+        "originalUrl": "/2026/08/27/0027eeb5-f6cb-4297-bb39-9156ececb740.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/27/0027eeb5-f6cb-4297-bb39-9156ececb740.jpg?width=1024&quality=75&auto=webp",
+        "width": 4320,
+        "height": 2880,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4320,2430,x0,y450"
+         },
+         {
+          "name": "4:3",
+          "crop": "3491,2618,x227,y262"
+         },
+         {
+          "name": "1:1",
+          "crop": "2164,2164,x802,y662"
+         },
+         {
+          "name": "3:4",
+          "crop": "2160,2880,x685,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4320,2880,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The massive tsunami swept away entire villages in the Himalayas, and the number of missing has risen to as many as 1,400. The cause may have been a glacial collapse. The flash flood was so powerful that it triggered a 5.2 magnitude earthquake.",
+        "teaserAuthor": "Niranjan Shrestha / AP"
+       },
+       "tags": [
+        "Asien und Pazifik"
+       ],
+       "nzzId": "ld.10021244",
+       "readingTime": 360,
+       "embeds": {
+        "videos": [
+         {
+          "id": "ZJZxgyQP",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "paywallQuestionOne": "What was the possible trigger for the flood disaster in Nepal?",
+       "paywallQuestionTwo": "How effective are the early warning systems in Nepal in the event of such natural disasters?",
+       "paywallQuestionThree": "What international aid measures were announced after the flood disaster?",
+       "characterCount": 7840,
+       "videoTeaser": "",
+       "product": "NZZ.ch",
+       "documentId": 10021244,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-27T13:39:16.506Z",
+       "publicationLastUpdated": "2026-08-27T13:39:16.506Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-28T01:39:16.506Z",
+       "teaserCaption": "The massive tsunami swept away entire villages in the Himalayas, and the number of missing has risen to as many as 1,400. The cause may have been a glacial collapse. The flash flood was so powerful that it triggered a 5.2 magnitude earthquake.",
+       "authorLine": "Ulrich von Schwerin, Mumbai",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/sturzflut-in-nepal-ueber-1400-vermisste-und-massive-zerstoerung-ld.10021244",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1266,
+       "leadText": "The massive tsunami swept away entire villages in the Himalayas, and the number of missing has risen to as many as 1,400. The cause may have been a glacial collapse. The flash flood was so powerful that it triggered a 5.2 magnitude earthquake.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11232rs8",
+      "content": {
+       "title": "Flash flood in Nepal: Death toll rises to over 1200 +++ 600 hydroelectric power plant workers still missing",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/27/13927d1c-7b13-4e5c-890c-77f417b62cd4.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/27/13927d1c-7b13-4e5c-890c-77f417b62cd4.jpg?width=1024&quality=75&auto=webp",
+        "width": 4662,
+        "height": 3108,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4662,2622,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4144,3108,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3108,3108,x457,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2331,3108,x846,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4662,3108,x0,y0"
+         }
+        ],
+        "focalPoint": {
+         "x": 2011,
+         "y": 1199
+        },
+        "imageService": "fastly",
+        "teaserCaption": "Within minutes, water, debris, and ice swept everything away in the border region between China and Nepal. More than 1,000 people lost their lives, and around 4,600 are still missing. Here are the most important answers to the questions surrounding the disaster in the Himalayan valley.",
+        "teaserAuthor": "Angad Dhakal / Reuters"
+       },
+       "teaserAuthor": "Angad Dhakal / Reuters",
+       "flag": "The latest developments",
+       "nzzId": "ld.10021247",
+       "readingTime": 240,
+       "embeds": {
+        "videos": [
+         {
+          "id": "ATbrMMxL",
+          "provider": "jw",
+          "teaser": true
+         }
+        ]
+       },
+       "paywallQuestionOne": "What are the causes of the flash flood in Nepal?",
+       "paywallQuestionTwo": "How many people are missing and from which countries do they come?",
+       "paywallQuestionThree": "What aid measures are being taken to support those affected?",
+       "characterCount": 5509,
+       "videoTeaser": "ATbrMMxL",
+       "authorLine": "NZZ Newsroom",
+       "editor": "1398648",
+       "product": "NZZ.ch",
+       "documentId": 10021247,
+       "layout": "regular",
+       "publicationDate": "2026-09-03T10:52:22.033Z",
+       "publicationLastUpdated": "2026-09-03T10:52:22.033Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-09-03T22:52:22.033Z",
+       "teaserCaption": "Within minutes, water, debris, and ice swept everything away in the border region between China and Nepal. More than 1,000 people lost their lives, and around 4,600 are still missing. Here are the most important answers to the questions surrounding the disaster in the Himalayan valley.",
+       "url": "/panorama/sturzflut-von-nepal-zahl-der-todesopfer-steigt-auf-ueber-1000-noch-immer-600-arbeiter-von-wasserkraftwerken-vermisst-ld.10021247",
+       "department": {
+        "name": "Panorama",
+        "path": "/panorama"
+       },
+       "estimationWordCount": 832,
+       "leadText": "Within minutes, water, debris, and ice swept everything away in the border region between China and Nepal. More than 1,000 people lost their lives, and around 4,600 are still missing. Here are the most important answers to the questions surrounding the disaster in the Himalayan valley.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k11232rs9",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/26/2719df3a-fb74-443c-b80a-a7496cf147c3.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/26/2719df3a-fb74-443c-b80a-a7496cf147c3.jpg?width=1024&quality=75&auto=webp",
+        "width": 1600,
+        "height": 1066,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1600,900,x0,y166"
+         },
+         {
+          "name": "4:3",
+          "crop": "1421,1066,x124,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1066,1066,x243,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "800,1066,x722,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1599,1066,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "After an earthquake in Tibet, a wave of water, debris, and ice rolled through a high mountain valley on Wednesday morning. Entire villages, bridges, and power plants were destroyed. Thousands of people, including foreign tourists, remain missing.",
+        "teaserAuthor": "Social Media / UGC / Reuters"
+       },
+       "teaserAuthor": "Social Media / UGC / Reuters",
+       "editor": "1394236",
+       "nzzId": "ld.10021136",
+       "readingTime": 300,
+       "embeds": {
+        "videos": [
+         {
+          "id": "Z2jCwTwg",
+          "provider": "jw",
+          "teaser": false
+         },
+         {
+          "id": "4vXhGHEy",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "paywallQuestionOne": "What triggered the flash flood on the border between China and Nepal?",
+       "paywallQuestionTwo": "What damage did the water and mud masses cause?",
+       "paywallQuestionThree": "How are the authorities reacting to the disaster?",
+       "characterCount": 7324,
+       "videoTeaser": "",
+       "title": "Flash flood in Himalayan valley devastates border crossing between Nepal and China – police confirm 165 dead, number of missing rises to more than 1300",
+       "product": "NZZ.ch",
+       "documentId": 10021136,
+       "layout": "regular",
+       "publicationDate": "2026-08-27T05:13:52.440Z",
+       "publicationLastUpdated": "2026-08-27T10:27:14.312Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-27T17:13:52.440Z",
+       "teaserCaption": "After an earthquake in Tibet, a wave of water, debris, and ice rolled through a high mountain valley on Wednesday morning. Entire villages, bridges, and power plants were destroyed. Thousands of people, including foreign tourists, remain missing.",
+       "authorLine": "Ulrich von Schwerin, Mumbai",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/panorama/tote-nach-sturzflut-an-grenze-zwischen-china-und-nepal-ld.10021136",
+       "department": {
+        "name": "Panorama",
+        "path": "/panorama"
+       },
+       "estimationWordCount": 1086,
+       "leadText": "After an earthquake in Tibet, a wave of water, debris, and ice rolled through a high mountain valley on Wednesday morning. Entire villages, bridges, and power plants were destroyed. Thousands of people, including foreign tourists, remain missing.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Flash flood hits Beijing's strategic corridor through the Himalayas",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/3bcd3be1-aba5-4e2b-b1c4-14f37a0135ec.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/3bcd3be1-aba5-4e2b-b1c4-14f37a0135ec.jpg?width=1024&quality=75&auto=webp",
+   "width": 4222,
+   "height": 2815,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4222,2375,x0,y220"
+    },
+    {
+     "name": "4:3",
+     "crop": "3753,2815,x234,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2815,2815,x704,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2111,2815,x1055,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4222,2815,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "A natural disaster has destroyed a key border crossing between China and Nepal. This happened once before, a year ago. Why do the two countries cling to such a dangerous trade route?",
+   "teaserAuthor": "Maxim Shemetov / Reuters"
+  },
+  "teaserAuthor": "Maxim Shemetov / Reuters",
+  "tags": [
+   "Asien und Pazifik"
+  ],
+  "editor": "1900563",
+  "nzzId": "ld.10021256",
+  "readingTime": 240,
+  "embeds": {
+   "videos": [
+    {
+     "id": "ZJZxgyQP",
+     "provider": "jw",
+     "teaser": false
+    }
+   ]
+  },
+  "characterCount": 5246,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021256,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T14:01:23.643Z",
+  "publicationDate": "2026-08-27T14:01:23.643Z",
+  "publicationLastUpdated": "2026-09-03T09:04:14.250Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T02:01:23.643Z",
+  "teaserCaption": "A natural disaster has destroyed a key border crossing between China and Nepal. This happened once before, a year ago. Why do the two countries cling to such a dangerous trade route?",
+  "nzzAuthors": [
+   {
+    "id": 1533538,
+    "name": "Katrin Büchenbacher",
+    "shortName": "k.b.",
+    "pianoId": "12ce03ca-d485-4bd0-b99e-6344322cb54b",
+    "external": false
+   }
+  ],
+  "authorLine": "Katrin Büchenbacher",
+  "authorImage": {
+   "originalUrl": "/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1594415,
+    "name": "Katrin Büchenbacher | NZZ",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp",
+  "url": "/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 755,
+  "leadText": "A natural disaster has destroyed a key border crossing between China and Nepal. This happened once before, a year ago. Why do the two countries cling to such a dangerous trade route?",
+  "nzzSummaryEN": "- A devastating flash flood destroyed the critical Gyirong border crossing between China and Nepal, with hundreds dead and many missing.\n- The trade route holds strategic importance for both countries, but effective collaboration, such as disaster early warning systems, is lacking.\n- Historical tensions and China's strict border controls exacerbate relations; China aims to make Tibet a trade hub, while Nepal seeks to reduce dependency on India.",
+  "nzzSummaryDE": "A devastating flash flood destroyed the vital Gyirong border crossing between China and Nepal, killing hundreds and leaving thousands missing. The trade route is strategically important for both China and Nepal, but effective cooperation, such as on early warning systems for natural disasters, is lacking. Historical tensions and rigid border rules imposed by China exacerbate relations; China aims to establish Tibet as a trade hub, while Nepal seeks to reduce its dependence on India.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Flash flood hits Beijing's strategic corridor through the Himalayas",
+  "nzzPrintSubtitle": "It happened once before a year ago, yet China and Nepal are sticking to the dangerous trade route",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256",
+   "title": "Flash flood between Nepal and China: Why this trade route is so important",
+   "socialMediaTitle": "Repeated flash floods: China's risky Himalayan corridor to Nepal",
+   "description": "A natural disaster has destroyed a key border crossing between China and Nepal. This happened once before, a year ago. Why do China and Nepal cling to such a dangerous trade route?",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/3bcd3be1-aba5-4e2b-b1c4-14f37a0135ec.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4222,2375,x0,y220&wmark=nzz"
+  },
+  "ldPublicationId": 2488114,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   },
+   {
+    "name": "Nepal",
+    "slug": "/themen/nepal"
+   },
+   {
+    "name": "Tibet",
+    "slug": "/themen/tibet"
+   },
+   {
+    "name": "Himalayas",
+    "slug": "/themen/himalaja"
+   },
+   {
+    "name": "Xi Jinping",
+    "slug": "/themen/xi-jinping"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021244",
+    "ld.10021247",
+    "ld.10021136"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 366240,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "china",
+   "name": "China",
+   "tagName": "China",
+   "qId": "Q148",
+   "seoTitle": "China – Current news and all NZZ articles on the topic",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 19:03:06.454Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/china",
+   "size": 4415,
+   "relatedTopics": [
+    {
+     "name": "Nepal",
+     "slug": "/themen/nepal"
+    },
+    {
+     "name": "Tibet",
+     "slug": "/themen/tibet"
+    },
+    {
+     "name": "Himalaja",
+     "slug": "/themen/himalaja"
+    },
+    {
+     "name": "Xi Jinping",
+     "slug": "/themen/xi-jinping"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Why Chinese Cars Are Conquering the World",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/f978f4eb-79ef-4020-a28f-2e1e87e21773.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/f978f4eb-79ef-4020-a28f-2e1e87e21773.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3381,1902,x560,y549"
+      },
+      {
+       "name": "4:3",
+       "crop": "3005,2254,x747,y373"
+      },
+      {
+       "name": "1:1",
+       "crop": "2479,2479,x1010,y260"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3381,2254,x560,y373"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "They're cheap, they're good – and they're also on the roads in Switzerland and Germany: Chinese cars, especially those from BYD. Behind the company's success is a powerful husband-and-wife team."
+    },
+    "showComments": true,
+    "tags": [
+     "Mobilität aktuell",
+     "E-Mobilität",
+     "Auto"
+    ],
+    "editor": "1858673",
+    "nzzId": "ld.10018631",
+    "readingTime": 660,
+    "paywallQuestionOne": "How do subsidies influence the success of Chinese car brands?",
+    "paywallQuestionTwo": "Why are Chinese cars technologically advanced and cheaper?",
+    "paywallQuestionThree": "What challenges stand in the way of BYD's global success?",
+    "characterCount": 15944,
+    "product": "NZZ.ch",
+    "documentId": "10018631",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T05:33:42.817Z",
+    "publicationLastUpdated": "2026-09-03T09:35:37.101Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T17:33:42.817Z",
+    "teaserCaption": "They're cheap, they're good – and they're also on the roads in Switzerland and Germany: Chinese cars, especially those from BYD. Behind the company's success is a powerful husband-and-wife team.",
+    "authorLine": "Katrin Büchenbacher, Herbie Schmidt, Florian Seliger, Simon Tanner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/mobilitaet/china-autos-in-der-schweiz-und-ueberall-warum-byd-etc-gerade-die-welt-erobern-ld.10018631",
+    "department": {
+     "name": "Mobility",
+     "path": "/mobilitaet"
+    },
+    "estimationWordCount": 2233,
+    "premium": true,
+    "leadText": "They're cheap, they're good – and they're also on the roads in Switzerland and Germany: Chinese cars, especially those from BYD. Behind the company's success is a powerful husband-and-wife team.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Chinese leader Xi Jinping rarely travels abroad. Why then Egypt, of all places?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/ff6c07b7-f75a-4d40-a7dd-00a51bb182d1.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/ff6c07b7-f75a-4d40-a7dd-00a51bb182d1.jpg?width=1024&quality=75&auto=webp",
+     "width": 1030,
+     "height": 1280,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1030,579,x0,y221"
+      },
+      {
+       "name": "4:3",
+       "crop": "1030,773,x0,y180"
+      },
+      {
+       "name": "1:1",
+       "crop": "774,774,x105,y124"
+      },
+      {
+       "name": "3:4",
+       "crop": "960,1280,x12,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1030,687,x0,y198"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Egypt has become central for China: Beijing is investing billions, training with the Egyptian air force – and securing influence over one of the world's most important trade routes.",
+     "teaserAuthor": "Egyptian Presidency / Handout via Imago"
+    },
+    "teaserAuthor": "Egyptian Presidency / Handout via Imago",
+    "tags": [
+     "Asien und Pazifik"
+    ],
+    "paywallQuestionOne": "Why is Egypt so central to China's global strategy?",
+    "paywallQuestionTwo": "How does the Belt and Road Initiative affect Egypt's economy?",
+    "paywallQuestionThree": "What role does military cooperation between China and Egypt play?",
+    "editor": "1849038",
+    "nzzId": "ld.10021927",
+    "readingTime": 300,
+    "embeds": {
+     "videos": [
+      {
+       "id": "kiniNTKs",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 52,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/kiniNTKs-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "characterCount": 6495,
+    "product": "NZZ.ch",
+    "documentId": "10021927",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:55:00.000Z",
+    "publicationLastUpdated": "2026-09-02T15:34:43.435Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:55:00.000Z",
+    "teaserCaption": "Egypt has become central for China: Beijing is investing billions, training with the Egyptian air force – and securing influence over one of the world's most important trade routes.",
+    "authorLine": "Katrin Büchenbacher",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/xi-jinping-reist-seltener-ins-ausland-warum-er-dennoch-aegypten-besucht-nzz-ld.10021927",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 962,
+    "premium": true,
+    "leadText": "Egypt has become central for China: Beijing is investing billions, training with the Egyptian air force – and securing influence over one of the world's most important trade routes.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 6,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Everything revolves around Xi: SCO summit in Bishkek reveals the growing influence of China's president",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Asien und Pazifik"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4508,2536,x0,y390"
+      },
+      {
+       "name": "4:3",
+       "crop": "4407,3306,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2258,2258,x873,y462"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x606,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4959,3306,x0,y142"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+     "teaserAuthor": "Pavel Mikheyev / Reuters"
+    },
+    "teaserAuthor": "Pavel Mikheyev / Reuters",
+    "nzzId": "ld.10021854",
+    "readingTime": 300,
+    "embeds": {
+     "videos": [
+      {
+       "id": "kjuQK0rw",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 10,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/kjuQK0rw-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How is China strengthening its regional dominance through the SCO summit?",
+    "paywallQuestionTwo": "What role does the Iran war play in geopolitical tensions?",
+    "paywallQuestionThree": "Why does cooperation within the SCO often remain limited?",
+    "characterCount": 6923,
+    "editor": "1900563",
+    "videoTeaser": "kjuQK0rw",
+    "product": "NZZ.ch",
+    "documentId": "10021854",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T07:30:00.309Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+    "authorLine": "Ulrich von Schwerin, Mumbai",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/sco-gipfel-in-bischkek-zeigt-die-regionale-dominanz-von-chinas-praesidenten-xi-jinping-ld.10021854",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1037,
+    "premium": true,
+    "leadText": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1024&quality=75&auto=webp",
+     "width": 8192,
+     "height": 5387,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8192,4608,x0,y164"
+      },
+      {
+       "name": "4:3",
+       "crop": "7183,5387,x505,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5387,5387,x1403,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4040,5387,x2076,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8081,5387,x56,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+     "teaserAuthor": "Maxim Shemetov / Reuters"
+    },
+    "teaserAuthor": "Maxim Shemetov / Reuters",
+    "nzzId": "ld.10021430",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does EU protectionism threaten Swiss automotive suppliers?",
+    "paywallQuestionTwo": "What consequences would a strict origin requirement have for the EU and Switzerland?",
+    "paywallQuestionThree": "Why is the problem underestimated in Switzerland?",
+    "characterCount": 7133,
+    "product": "NZZ.ch",
+    "documentId": "10021430",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T04:49:58.326Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+    "authorLine": "Jürg Meier",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1012,
+    "leadText": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "China's silent war for Taiwan has long begun",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y350"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y320"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x232,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y371"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage."
+    },
+    "flag": "Podcast «NZZ Geopolitics»",
+    "showComments": true,
+    "nzzId": "ld.10021963",
+    "readingTime": 60,
+    "paywallQuestionOne": "How is China destabilizing Taiwan through hybrid warfare?",
+    "paywallQuestionTwo": "What role does disinformation play in China's strategy against Taiwan?",
+    "paywallQuestionThree": "Why does Xi Jinping see a free Taiwan as a threat?",
+    "characterCount": 1396,
+    "product": "NZZ.ch",
+    "documentId": "10021963",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+    "authorLine": "David Vogel",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+    "department": {
+     "name": "Podcast",
+     "path": "/podcast"
+    },
+    "estimationWordCount": 235,
+    "leadText": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "China's silent war for Taiwan has long begun",
+    "teaserPodcastAuthor": "David Vogel mit Jürgen Kremb ",
+    "teaserPodcastDate": "02.09.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2584737-m-75dfe7983db77acc14e92b078e903bf8.mp3",
+    "teaserPodcastDuration": "28 ",
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "The chip war reaches the logistics industry: Kühne + Nagel scrutinizes Asian subsidiary after US authorities' investigation",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3667,3667,x917,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+     "teaserAuthor": "Benoit Tessier / Reuters"
+    },
+    "teaserAuthor": "Benoit Tessier / Reuters",
+    "nzzId": "ld.10021434",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is the chip war affecting the logistics industry?",
+    "paywallQuestionTwo": "What role does Apex Logistics play in the Nvidia chip smuggling?",
+    "paywallQuestionThree": "How is Kühne + Nagel reacting to the investigations by the US authorities?",
+    "characterCount": 5867,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021434",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T10:04:23.699Z",
+    "publicationLastUpdated": "2026-09-01T07:43:01.458Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T22:04:23.699Z",
+    "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "authorLine": "Dominik Feldges",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/16/52e0b698-52d3-4f00-915a-fa5563d57443.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/kuehne-nagel-und-nvidia-transport-chip-krieg-erreicht-logistikbranche-ld.10021434",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 873,
+    "premium": true,
+    "leadText": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021256",
+    "name": "Flash flood hits Beijing's strategic corridor through the Himalayas",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Flash flood hits Beijing's strategic corridor through the Himalayas",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1533538,
+       "name": "Katrin Büchenbacher",
+       "shortName": "k.b.",
+       "pianoId": "12ce03ca-d485-4bd0-b99e-6344322cb54b",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T14:01:23.643Z",
+     "updateTimestamp": "2026-09-03T09:04:14.250Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021256",
+   "pageType": "regular",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Flash flood between Nepal and China: Why this trade route is so important",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/3bcd3be1-aba5-4e2b-b1c4-14f37a0135ec.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4222,2375,x0,y220&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Katrin Büchenbacher",
+  "description": "A natural disaster has destroyed a key border crossing between China and Nepal. This happened once before, a year ago. Why do China and Nepal cling to such a dangerous trade route?",
+  "news_keywords": "Flash flood hits Beijing's strategic corridor through the Himalayas, International, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-03T13:04:14+02:00",
+  "date": "2026-08-27T18:01:23+02:00",
+  "canonical": "https://www.nzz.ch/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Flash flood hits Beijing's strategic corridor through the Himalayas",
+  "ogTitle": "Repeated flash floods: China's risky Himalayan corridor to Nepal",
+  "ogUrl": "https://www.nzz.ch/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256",
+  "mrf:cms_id": "nzz:ld.10021256",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021256",
+  "nzzAuthors": [
+   {
+    "id": 1533538,
+    "name": "Katrin Büchenbacher",
+    "shortName": "k.b.",
+    "pianoId": "12ce03ca-d485-4bd0-b99e-6344322cb54b",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:57 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Flash flood between Nepal and China: Why this trade route is so important"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256"
+   },
+   "headline": "Flash flood between Nepal and China: Why this trade route is so important",
+   "datePublished": "2026-08-27T18:01:23+02:00",
+   "dateModified": "2026-09-03T13:04:14+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "A natural disaster has destroyed a key border crossing between China and Nepal. This happened once before, a year ago. Why do China and Nepal cling to such a dangerous trade route?",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/3bcd3be1-aba5-4e2b-b1c4-14f37a0135ec.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4222,2375,x0,y220&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Katrin Büchenbacher"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 366240,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/sturzflut-bei-nepal-und-china-warum-diese-handelsroute-so-wichtig-ist-ld.10021256",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021256",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-08-27T14:01:23.643Z",
+   "ContentAuthor": "Katrin Büchenbacher",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum halten China und Nepal an der gefährlichen Handelsroute fest?\nWie beeinflusst die strategische Bedeutung Tibets Chinas Infrastrukturpläne?\nWelche Rolle spielt der Dalai Lama in den Grenzspannungen zwischen China und Nepal?",
+   "ldId": "ld.10021256",
+   "channel": "International",
+   "heading": "Die Sturzflut trifft Pekings strategischen Korridor durch den Himalaja",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,663 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjh4rkn00",
+   "content": {
+    "subject": "Das Amt des Bundespräsidenten sollte kein Bollwerk gegen rechts sein",
+    "preheader": "Steinmeiers Nachfolger darf&nbsp;kein weiteres Öl ins Feuer giessen"
+   },
+   "data": {
+    "_subjectDirective": {},
+    "_preheaderDirective": {
+     "highlightedTextRanges": {
+      "YWPaz7rghE9h": {
+       "start": 27,
+       "end": 28,
+       "text": " "
+      }
+     }
+    }
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-ab6d85cf",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mkp800",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/05/25/c15c00b9-c873-4235-a525-25d536cbb5f6.webp",
+     "mediaId": "XoD6SYByClrr",
+     "key": "2026/05/25/c15c00b9-c873-4235-a525-25d536cbb5f6.webp",
+     "width": 1661,
+     "height": 1661,
+     "mimeType": "image/webp",
+     "altText": "Oliver Maksan",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/25/c15c00b9-c873-4235-a525-25d536cbb5f6.webp?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjh4rkn21",
+   "content": {
+    "text": "by Oliver Maksan"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjh4rkn22",
+   "content": {
+    "text": "Deputy Editor-in-Chief NZZ Germany"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpiqmsn0",
+   "content": {
+    "text": "The office of the German Federal President places many demands on its incumbent. The possibilities are few, but the expectations are high. Too high."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6iduf1",
+   "content": {
+    "text": "On the one hand, he is merely a kind of state notary who countersigns laws. On the other hand, he is supposed to inspire and unite an entire country. He is expected to speak out, though his pronouncements must not be merely personal opinions. He is supposed to give courageous, stirring speeches, but must live with the public tearing them apart. <a href=\"https://www.nzz.ch/international/zum-tod-horst-koehlers-offen-will-ich-sein-und-notfalls-unbequem-ld.1848812\">Horst Köhler</a> did not want to go along with this and resigned prematurely."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6i9dl0",
+   "content": {
+    "text": "As if finding such a personality weren't difficult enough, now further criteria come into play. One of them is bad, the other worse."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0v6j5g00",
+   "content": {
+    "title": "Gender not decisive"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6imi00",
+   "content": {
+    "text": "If it were up to the German Social Democrats (SPD), the successor to <a href=\"https://www.nzz.ch/der-andere-blick/steinmeier-will-im-iran-krieg-sein-politisches-erbe-retten-das-ist-unwuerdig-ld.1930936\">incumbent Frank-Walter Steinmeier</a> should be a woman for the first time. However, declaring gender the most important qualification is never a good idea, at least not in a society that values personal merit. Moreover, after sixteen years of female chancellorship, only the desperate SPD can believe that this would break an imagined glass ceiling."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6irn81",
+   "content": {
+    "text": "This time, however, something else is likely to be decisive: The next Federal President is reportedly envisioned as someone who can confront the strengthening AfD, someone who would, as it were, engage in close combat with the right-wing party as the supreme gladiator."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v7mdnb0",
+   "content": {
+    "text": "Should the AfD govern in a federal state for the first time in September, this is likely to determine the choice of candidates."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jnu2qm5n0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2017/1/10/2957d325-e7ce-4645-a4ce-45e4bcf54941.jpeg",
+     "mediaId": "bmyobaandxhjyjho",
+     "key": "2017/1/10/2957d325-e7ce-4645-a4ce-45e4bcf54941.jpeg",
+     "width": 2200,
+     "height": 1538,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2017/1/10/2957d325-e7ce-4645-a4ce-45e4bcf54941.jpeg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Former Federal Presidents among themselves: Horst Köhler (2004–2010), Richard von Weizsäcker (1984–1994), Walter Scheel (1974–1979), and Roman Herzog (1994–1999) pose in 2010 on the occasion of Weizsäcker’s 90th birthday.",
+    "source": "Tobias Schwarz / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpirb9a0",
+   "content": {
+    "text": "However, repurposing the highest office in the state into a kind of bulwark against the AfD is an even worse idea than focusing primarily on gender. This approach already proved ineffective under Steinmeier. The Federal President must undoubtedly warn against totalitarianism, but not against democratic change, even if it were populist."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6pdbj0",
+   "content": {
+    "text": "The Social Democrat exchanged the impartiality of the office for party-political statements. Although he usually did not name the party, it was obvious whom he meant when he campaigned against populism. Steinmeier may personally be convinced that this is the best way to serve the state constituted by the Basic Law."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6pg3d0",
+   "content": {
+    "text": "For parts of the population, however, he understandably became the face of an establishment that positions the state and its institutions against the declared will of the voters."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6prvb1",
+   "content": {
+    "text": "His <a href=\"https://www.nzz.ch/feuilleton/altbundespraesident-joachim-gauckmeine-buletten-sind-sehr-sehr-gut-ld.1762623\">non-partisan predecessor Joachim Gauck</a> already embarked on this slippery slope. The Protestant pastor, politically active during the Wende era (the period of political and social change leading to German reunification), divided Germany into what he characterized as 'bright' and 'dark' areas in the refugee year 2015 – and thereby, as an East German, of all people, helped to dig the trench that runs between the old and new federal states. Unlike his successor, Gauck was at least less activist in office."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0v86kpi0",
+   "content": {
+    "title": "Britain's success with the Queen"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6pokn1",
+   "content": {
+    "text": "It would be advisable for the future head of state to build on this. For it is already clear that the Federal Republic will remain polarized for years to come. It thus shares the fate of the USA and other Western nations. Culture wars initiated by the left are taken up by the right and often intensified, leaving the established forces of the center perplexed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6qbpf1",
+   "content": {
+    "text": "In this climate, at least the head of state should not add further fuel to the fire and should limit himself to appeals for civil coexistence. Britain benefited for decades from an absolutely impartial Queen."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpirnkt0",
+   "content": {
+    "text": "But even if the next head of state, contrary to expectations, were to actively pursue reconciliation, he would undertake an impossible task. No Federal President can pacify his country alone. At most, he can try to avoid the mistakes of his predecessors and turn his official residence into a place for cross-camp dialogue."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpirp4a0",
+   "content": {
+    "text": "In times when AfD representatives in the Bundestag are denied handshakes and, in turn, disparage the opposing side in their speeches, he depends on the goodwill of all sides. And that is a rare commodity in polarized times."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh50dcf0",
+   "content": {
+    "title": "What else is important"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh50sdj0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10018376",
+     "$ref": "document",
+     "reference": {
+      "id": "10018376"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg",
+     "mediaId": "jKlzg5uNxLq3",
+     "key": "2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg",
+     "width": 4500,
+     "height": 3376,
+     "mimeType": "image/jpeg",
+     "altText": "VW Committee Collage",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Illustration NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjh511h60",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh51d5n0",
+      "content": {
+       "text": "<strong></strong><strong>A showdown is looming at Volkswagen's headquarters:</strong> In the dispute over new cost-cutting measures, the works council has called extraordinary general meetings at all major plants. Representatives of the board are expected in Chemnitz and Dresden today. Next week, CEO Oliver Blume will again ask the supervisory board for approval of his cost-cutting plans. However, the chances of success appear slim. <a data-li-document-ref=\"10018376\" href=\"https://www.nzz.ch/ld.10018376\">[Link to report]</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh511h70",
+      "content": {
+       "text": "<strong></strong><strong>Meta significantly restricts use by children in the US:</strong> The social media giant has reached an out-of-court settlement with a group of plaintiffs, paying a penalty of approximately $18 billion. The plaintiffs had filed a lawsuit in federal court alleging that Meta's Instagram and Facebook products had made children and teenagers addicted and caused them psychological harm. For the first time, Meta is committing to a comprehensive set of child protection measures. [Link <a data-li-document-ref=\"10021219\" href=\"https://www.nzz.ch/ld.10021219\">to report]</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh51il90",
+      "content": {
+       "text": "<strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong>Artist Yayoi Kusama has died:</strong> The Japanese artist passed away at the age of 97. She is best known for her dot-covered paintings and pumpkin motifs. Kusama, who spoke openly about her mental health struggles, voluntarily admitted herself to a psychiatric hospital and lived there for decades. <a data-li-document-ref=\"10021198\" href=\"https://www.nzz.ch/ld.10021198\">(See short cultural news items.)</a><a data-li-document-ref=\"10009024\" href=\"https://www.nzz.ch/ld.10009024\"></a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh527ec0",
+   "content": {
+    "title": "Behind the headlines"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh52onk0",
+   "content": {
+    "title": "Eyewitnesses of the GDR dictatorship remember"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh52vf20",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10014790",
+     "$ref": "document",
+     "reference": {
+      "id": "10014790"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/26/b18be271-fa29-43bc-8da3-8c5ba9056d38.jpg",
+     "mediaId": "cyLERy5vtJsH",
+     "key": "2026/08/26/b18be271-fa29-43bc-8da3-8c5ba9056d38.jpg",
+     "width": 4937,
+     "height": 3732,
+     "mimeType": "image/jpeg",
+     "altText": "(Limited rights for specific editorial clients in Germany.) Germany / GDR, Berlin. 57 people escaped through a tunnel at Bernauer Strasse. A woman in the tunnel. 1964 (Photo by ullstein bild/ullstein bild via Getty Images)",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/b18be271-fa29-43bc-8da3-8c5ba9056d38.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Ullstein Bild / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jmo691sr0",
+   "content": {
+    "text": "Thousands of citizens were arrested for political reasons during the GDR dictatorship, hundreds murdered. Renate Werwigk-Schneider was imprisoned for weeks in the Stasi prison of Hohenschönhausen in 1963, completely alone, in absolute silence. Even today, she cannot bear the sound of locks snapping shut. <a data-li-document-ref=\"10014790\" href=\"https://www.nzz.ch/ld.10014790\">Background information</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh53fto0",
+   "content": {
+    "title": "Do you like «A Different Perspective in the Morning»? Then forward this newsletter to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh53slp0",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/der-andere-blick-am-morgen/\">Sign up here for the daily newsletter «A Different Perspective in the Morning»</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh55k600",
+   "content": {
+    "text": "I wish you a nice day."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjh55rpf0",
+   "content": {
+    "text": "Yours sincerely, Oliver Maksan"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1857345"
+   }
+  },
+  "issueDate": "2026-08-27T00:00:00.000Z",
+  "title": "The office of the Federal President should not be a bulwark against the right wing",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10021077",
+  "product": "NZZ.ch",
+  "documentId": 10021077,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-27T04:20:15.445Z",
+  "publicationDate": "2026-08-27T04:20:15.445Z",
+  "publicationLastUpdated": "2026-08-27T04:20:15.445Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T16:20:15.445Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021077",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021077",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2484374,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021077",
+    "name": "The office of the Federal President should not be a bulwark against the right wing",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The office of the Federal President should not be a bulwark against the right wing",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T04:20:15.445Z",
+     "updateTimestamp": "2026-08-27T04:20:15.445Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021077",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "The office of the Federal President should not be a bulwark against the right wing | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "The office of the Federal President should not be a bulwark against the right wing, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T08:20:15+02:00",
+  "date": "2026-08-27T08:20:15+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021077",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The office of the Federal President should not be a bulwark against the right wing",
+  "ogTitle": "The office of the Federal President should not be a bulwark against the right wing | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021077",
+  "mrf:cms_id": "nzz:ld.10021077",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021077",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021077"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:33 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "The office of the Federal President should not be a bulwark against the right wing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021077"
+   },
+   "headline": "The office of the Federal President should not be a bulwark against the right wing | NZZ",
+   "datePublished": "2026-08-27T08:20:15+02:00",
+   "dateModified": "2026-08-27T08:20:15+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021077",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021077"
+   ],
+   "ContentCreated": "2026-08-27T04:20:15.445Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021077",
+   "heading": "Das Amt des Bundespräsidenten sollte kein Bollwerk gegen rechts sein",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,2327 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1k0f9ohbp0",
+   "content": {
+    "title": "After the dolphin show, drones arrive: How Kharkiv tries to forget the war for a few hours",
+    "lead": "Longing for normality just 30 kilometers from the front in the eastern Ukrainian metropolis. A little respite at the zoo or dolphinarium. How to find lightheartedness in wartime?",
+    "image": {
+     "author": "Visitors watch the dolphin show at the Nemo Hotel in Kharkiv. Kharkiv, Ukraine (June 28, 2026)",
+     "caption": "Visitors watch the dolphin show at the Nemo Hotel in Kharkiv. Kharkiv, Ukraine (June 28, 2026)",
+     "originalUrl": "/2026/08/20/e309113c-caff-4c54-9170-b14573dc2850.jpg?crop=5455,3631,x245,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Visitors watch the dolphin show at the Nemo Hotel in Kharkiv. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816737"
+      }
+     ],
+     "crop": {
+      "x": 245,
+      "y": 0,
+      "width": 5455,
+      "height": 3631,
+      "name": "desktop"
+     },
+     "namedCrops": [
+      {
+       "x": 245,
+       "y": 0,
+       "width": 5455,
+       "height": 3631,
+       "name": "desktop"
+      },
+      {
+       "x": 2355,
+       "y": 0,
+       "width": 2996,
+       "height": 3994,
+       "name": "tablet"
+      },
+      {
+       "x": 2511,
+       "y": 0,
+       "width": 2247,
+       "height": 3994,
+       "name": "mobile"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "",
+    "caption": "",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0f9ohbp2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Volker Pabst (text)",
+       "url": "/impressum/volker-pabst-ld.154617",
+       "teaserImage": {
+        "originalUrl": "/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        }
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0f9pfsd0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Dominic Nahr (pictures), Kharkiv",
+       "url": "/impressum/dominic-nahr-ld.1661941",
+       "teaserImage": {
+        "originalUrl": "/2024/05/29/79e89c2c-692d-4ec0-8426-9ecd6c9bc307.jpeg?crop=2933,2933,x1319,y597",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/79e89c2c-692d-4ec0-8426-9ecd6c9bc307.jpeg?crop=2933,2933,x1319,y597&width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1319,
+         "y": 597,
+         "width": 2933,
+         "height": 2933
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jtiflfi11",
+   "content": {
+    "text": "Irina and Lyudmila Kusmina totter on high heels to the edge of the pool. The two women, mother and daughter, have booked the special program at the Kharkiv dolphinarium: half an hour in the pool with the animals."
+   },
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-4f8abf41",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jtikb8qd1",
+   "content": {
+    "text": "The attendant gives a brief instruction, then they enter the water. The ladies each hold onto the dorsal fin of a dolphin. At a whistle signal, the animals dart off, pulling their passengers behind them. Later, Irina and Lyudmila get to give the dolphins a kiss on the snout."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jtijvlk21",
+   "content": {
+    "text": "«How trusting they are!» exclaims the daughter Lyudmila excitedly, once she is out of the water. «And so gentle. Amazing!» For the souvenir photo next to the dolphin, she strikes a pose with an arched back and hair thrown back. «This is going to blow up on Instagram!»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fa03dd1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Ljudmila Kusmina (left) and her mother Irina have booked the special program: a private swim with two dolphins in the pool.",
+     "originalUrl": "/2026/08/20/6ad2924c-f34e-4b8a-803d-ff8fe70879da.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Lyudmila Kusmina (daughter, in front) and her mother Irian Kusmina swim with dolphins at the Nemo Hotel. They live in southern France and Kharkiv. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816728"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Ljudmila Kusmina (left) and her mother Irina have booked the special program: a private swim with two dolphins in the pool.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fa11u11",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "A little luxury in wartime: Irina Kusmina has deposited her sandals and handbag in the stands while she swims with the dolphins in the pool.",
+     "originalUrl": "/2026/08/20/a3c7c2e3-b527-49d1-90a1-b7eca674e8db.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Lyudmila Kuzmina's handbag and shoes, belonging to her mother Irian Kuzmina, are displayed on the stands of the dolphinarium during their swim with dolphins. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816727"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A little luxury in wartime: Irina Kusmina has deposited her sandals and handbag in the stands while she swims with the dolphins in the pool.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jtikj25m0",
+   "content": {
+    "title": "Maritime holiday feeling",
+    "id": "subtitle-maritimes-feriengef-hl"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jtil22m10",
+   "content": {
+    "text": "The eastern Ukrainian metropolis of Kharkiv is located just 30 kilometers from the front. Russia attacks almost daily with drones and glide bombs. Numerous buildings are damaged by war, others are protected with sandbags. Soldiers are a common sight in the streets. The war is omnipresent."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07jusu10",
+   "content": {
+    "text": "The Nemo Hotel with its integrated dolphinarium offers the maximum contrast to this. In a prime location, in the middle of the city park, there is a maritime holiday atmosphere here – even though the sea is 350 kilometers away."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvoce9di1",
+   "content": {
+    "text": "The building is modeled after a ship. Several rooms have portholes as windows, and an annex houses an aquarium with exotic fish. On the rooftop terrace, there is a pool with a bar and a magnificent view over the city, surrounded by gentle hills. Visitors drink cocktails or smoke hookah."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fa49h71",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "The hotel complex has several porthole-like windows through which one can glimpse the dolphins.",
+     "originalUrl": "/2026/08/20/0084b0e3-b558-45d4-8fae-995891f281c0.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "A dolphin swims in the pool of the Nemo Hotel in Odessa. Visitors can observe the animals through large panoramic windows. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816726"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The hotel complex has several porthole-like windows through which one can glimpse the dolphins.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fa3v2d1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "In an annex of the Nemo Hotel, exotic fish can be admired in an aquarium.",
+     "originalUrl": "/2026/08/20/5df39c01-f62a-479a-bb8e-6979915f8a1d.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "Sharks swim through a large pool, visible from a darkened walkway. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816719"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In an annex of the Nemo Hotel, exotic fish can be admired in an aquarium.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvohtrqk0",
+   "content": {
+    "text": "The trademark of the establishment, however, is the dolphin program. There is an offer for individual clients like Lyudmila and Irina, and a show for a larger audience three times a day. For an hour, the animals perform somersaults to dramatic music, shoot synchronously out of the water, or hurl large balls with their tail fins into the audience, who cheer and throw them back into the pool."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k08hln4f0",
+   "content": {
+    "text": "One dolphin even paints a picture with a brush in the national colors of blue and yellow. To conclude, an attendant rides along the edge of the pool, standing on the snouts of two animals. In his hand, he holds a large Ukrainian flag."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvoc878v0",
+   "content": {
+    "text": "«The program now has a patriotic touch,» says Vladislav Litnevsky, who has been working with the animals for eleven years and plays the main role in the flag routine. The war, however, has not changed much else, he says. Operations were only suspended in the first months after the major Russian attack, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fa5d111",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Vladislav Litnewski has been working on the hotel's dolphin show for eleven years. He has also been studying veterinary medicine for several semesters.",
+     "originalUrl": "/2026/08/20/2b568932-ff27-4998-9c45-a177d8917afb.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Dolphin trainer Vladislaw Litnewski (31) from the Poltava region. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816732"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Vladislav Litnewski has been working on the hotel's dolphin show for eleven years. He has also been studying veterinary medicine for several semesters.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fa5sen1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "After the show, which takes place three times a day, the children in the audience are allowed to observe the animals up close.",
+     "originalUrl": "/2026/08/20/34a23c8b-eed5-4810-ac8e-a084319dbf78.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "Visitors get ready to take pictures with the dolphins at the Nemo Hotel in Odessa. The dolphinarium is one of the city's most popular leisure facilities. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816734"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "After the show, which takes place three times a day, the children in the audience are allowed to observe the animals up close.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvokcdsc1",
+   "content": {
+    "text": "«But already in the summer of 2022, we reopened. The demand was always there,» Litnevsky says. «People in this city want to live, not just survive.» He has no understanding for animal welfare criticism of the show. The animals, he argues, live significantly longer with them than in the open sea."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k08ia6j51",
+   "content": {
+    "text": "The spectacular evacuation of the two beluga whales also shows the importance of animal welfare, Litnevsky points out. The animals were formerly also part of the Kharkiv dolphinarium's collection but could no longer be optimally cared for during the war. Therefore, they were brought to Valencia, Spain, in June 2024. In addition to his work as a dolphin trainer, Litnevsky has been studying veterinary medicine for several semesters."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvokrfh90",
+   "content": {
+    "title": "Local pride in the livable city",
+    "id": "subtitle-lokaler-stolz-auf-die-lebenswerte-stadt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvorql8k0",
+   "content": {
+    "text": "Kharkiv’s cityscape is characterized by a mixture of Stalinist «wedding cake» style, much late-Soviet concrete, and unrestrained construction activity thereafter. This may not be beautiful in the classical sense. However, the metropolis of eastern Ukraine was always considered livable: thanks to its large parks, wide squares, and vibrant gastronomic and cultural scene."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k087dt240",
+   "content": {
+    "text": "The residents of Kharkiv defend this sense of life, which is quite identity-forming, even in wartime – be it in a dolphinarium. It is not for nothing that the city has carried the epithet «the Unbreakable» since the thwarted Russian attempt to conquer it in 2022."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0faab3u1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "The dolphin program has taken on a patriotic note since the Russian invasion. The national colors of blue and yellow are visible everywhere.",
+     "originalUrl": "/2026/08/20/b195c99e-6b5c-45db-b64e-659e6d4c32e1.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "View from the roof of the Nemo Hotel of the daily dolphin show in the hotel's own dolphinarium. The hotel in Odessa is one of the most famous resorts on the Black Sea coast. Kharkiv, Ukraine (June 23, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816795"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The dolphin program has taken on a patriotic note since the Russian invasion. The national colors of blue and yellow are visible everywhere.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0faap841",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "The hotel and the city zoo are located in close proximity to Kharkiv's large city park. Here too, one can spend a few carefree hours.",
+     "originalUrl": "/2026/08/20/d1651310-52db-4b99-8018-60465975d65a.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "Families spend a summer day at the fountain in Shevchenko Park in Kharkiv. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816706"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The hotel and the city zoo are located in close proximity to Kharkiv's large city park. Here too, one can spend a few carefree hours.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvorbogi0",
+   "content": {
+    "text": "Irina and Lyudmila, the two women from the dolphin pool, actually live in an apartment in the city center. Nevertheless, they have checked into the Nemo Hotel for one night. «From our room, you can see our apartment,» Lyudmila says, laughing. «We wanted to treat ourselves to something special at the end,» she adds, explaining. The two are traveling to France the next day, where Lyudmila’s brother lives with his family. They spend some time with him every year."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k086ckqg0",
+   "content": {
+    "text": "With room prices starting at 80 Swiss francs, the Nemo is not an expensive hotel by international standards. Lyudmila’s handbag from a French luxury brand probably cost many times that. Nevertheless, not everyone can afford this extravagant form of everyday escape. The average income in Ukraine is just over 500 francs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k07lbq8n0",
+   "content": {
+    "title": "Free admission to the zoo",
+    "id": "subtitle-kostenloser-eintritt-in-den-zoo"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k08g8c180",
+   "content": {
+    "text": "«All people need space to breathe. We offer that space,» says Karina Detjuk. The tall woman is the deputy director of the Kharkiv city zoo, which directly adjoins the Nemo Hotel and the large city park."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k09t8tca0",
+   "content": {
+    "text": "The zoo is the oldest and at the same time most modern animal park in Ukraine. The facility was extensively renovated a few years ago. The work was only completed in August 2021, just a few months before the major Russian attack. Like public transport in Kharkiv, admission to the animal park is free for all visitors."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fabf2q1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Karina Detyuk is the deputy director of Kharkiv Zoo. Entry to the zoo is free for all visitors.",
+     "originalUrl": "/2026/08/20/48c05c52-de5d-4e9f-8ec8-9deafb1a19be.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Karina Detyuk, Deputy Director of the Kharkiv Zoo. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816769"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Karina Detyuk is the deputy director of Kharkiv Zoo. Entry to the zoo is free for all visitors.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fachfd1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Kharkiv Zoo boasts modern facilities, including a tiger enclosure. Renovation work at Ukraine's oldest zoo was completed just a few months before the Russian invasion.",
+     "originalUrl": "/2026/08/20/70d34fdd-421a-4938-9c84-7c93b8995a39.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "The tiger enclosure in Kharkiv Zoo. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816764"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Kharkiv Zoo boasts modern facilities, including a tiger enclosure. Renovation work at Ukraine's oldest zoo was completed just a few months before the Russian invasion.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k08fv44i0",
+   "content": {
+    "text": "On a tour, Detjuk proudly shows off the new enclosures. «The bears have so much space that you sometimes can’t even see them.» On beautiful summer days, up to 17,000 people visit the animal park, Detjuk says. «If all these people can spend a few carefree hours with us, that is worth a lot.»"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k07rqmab0",
+   "content": {
+    "title": "«Our children only know this life»",
+    "id": "subtitle-unsere-kinder-kennen-nur-dieses-leben"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07r11la0",
+   "content": {
+    "text": "Carefreeness, however, is a relative concept in Ukraine, especially in close proximity to the front. During the tour, an air raid alarm suddenly sounds. Russian drones are approaching. For several weeks, Russia has been deliberately destroying gas stations in Ukraine, with the Kharkiv region being particularly hard hit. It is revenge for the fuel shortage caused by Ukrainian attacks on Russian refineries."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07rs9n71",
+   "content": {
+    "text": "Over the loudspeakers, zoo visitors are urged to go to the nearest air raid shelter, a subway station not far from the entrance. Only a few people comply. In front of the crocodile enclosure, a young family stands watching the animal. The children are clearly more impressed by the reptile’s large teeth than by the siren. «The attacks are part of our everyday life,» the mother says. «If we ran to the bunker every time, we would no longer have a life.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0faem2h1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "A young family observes the large crocodile at the zoo. They are not disturbed by the air raid alarm sounding simultaneously.",
+     "originalUrl": "/2026/08/20/eb9272c3-373e-4ea3-bb66-2167e4e5bb51.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Visitors observe a crocodile in the aquarium of the Kharkiv Zoo. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816755"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A young family observes the large crocodile at the zoo. They are not disturbed by the air raid alarm sounding simultaneously.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fadr831",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "One of the chimpanzees lost its fur shortly after the start of the war. Animal keepers link this to stress.",
+     "originalUrl": "/2026/08/20/ca7a4ec4-311a-40c5-bfd5-60680e05921b.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "A gorilla with a damaged coat due to stress sits on a raised platform in its enclosure at the Kharkiv Zoo. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816770"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "One of the chimpanzees lost its fur shortly after the start of the war. Animal keepers link this to stress.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07rm2qp0",
+   "content": {
+    "text": "Deputy Director Detjuk observes the scene from a distance. Her son is five years old, she says. He recently asked her where she had hidden from the bombs as a child, she adds. «Our children only know this life.»"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07uo91i0",
+   "content": {
+    "text": "After some time, the all-clear signal sounds. This time, the drones have flown past Kharkiv; this time, there are no explosions. Most animals have gotten used to the sounds of war, the sirens, and the bombs, Detjuk says. However, the youngest chimpanzee in the monkey enclosure lost its fur at the beginning of the war and has been bald ever since, she adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvodrtb90",
+   "content": {
+    "title": "Plume of smoke in the sunset",
+    "id": "subtitle-rauchs-ule-im-abendrot"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvoqdfcn0",
+   "content": {
+    "text": "At the Nemo Hotel, the evening show has ended. A few day guests still linger on the rooftop terrace. A man plays with his daughter in the pool. The girl cannot get enough of her dad splashing water in her face."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fcfgp31",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "A summery holiday atmosphere prevails on the rooftop terrace of the Nemo Hotel.",
+     "originalUrl": "/2026/08/20/1a0b95fd-b775-4052-9bfd-d2cbf5acbfac.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "Visitors relax at the rooftop pool of the Nemo Hotel in Odessa. Kharkiv, Ukraine (June 27, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180131957"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A summery holiday atmosphere prevails on the rooftop terrace of the Nemo Hotel.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fbh6f41",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "A father plays lightheartedly with his daughter in the pool.",
+     "originalUrl": "/2026/08/20/3979409a-4a68-4878-a6d2-35381ac514d6.jpg?crop=6000,3992,x0,y0",
+     "width": 6000,
+     "height": 3992,
+     "altText": "Adults and children swim in the rooftop pool of the Nemo Hotel in Kharkiv. Despite the almost daily Russian attacks on the city, many people seek a semblance of normalcy here on hot summer days. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816704"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3992,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3992,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A father plays lightheartedly with his daughter in the pool.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07tlsql0",
+   "content": {
+    "text": "A man introduces himself as Slavik, lying on a deck chair. The cocktail on the small table next to him is clearly not his first. When Slavik reaches for his phone, he knocks over the glass. It is the last day of his leave from the front, he says apologetically. «Tomorrow I have to report back. And I have problems with my knees.» When the waitress comes to wipe away the shards, he picks up his bag and walks with unsteady steps to the cloakroom."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k07u4k7r0",
+   "content": {
+    "text": "A little later, Irina and Lyudmila come onto the terrace. They treated themselves to a massage after their dolphin swim and then had dinner at the best Georgian restaurant in the city. Now they want to enjoy a drink with a view of the city."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k087t4ha1",
+   "content": {
+    "text": "Again, an air raid alarm sounds. This time, an explosion is heard a few minutes later. Black smoke mixes into the red glow of the sky. Somewhere outside the city, there was an impact – perhaps another gas station."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0892dpe1",
+   "content": {
+    "text": "Mother and daughter look at the plume of smoke on the horizon and then towards their apartment. Then they toast each other: «Our house is still standing!»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1eam2jk1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Guests sit on the rooftop terrace of the Nemo Hotel in Kharkiv. Black smoke rises on the horizon. A Russian projectile has struck a suburb of Kharkiv.",
+     "originalUrl": "/2026/08/20/cccc6008-1fb9-4377-8d7d-4f808c3a0d9a.jpg?crop=6000,3994,x0,y0",
+     "width": 6000,
+     "height": 3994,
+     "altText": "Guests sit on the rooftop terrace of the Nemo Hotel in Kharkiv. In the background, a plume of smoke can be seen following a Russian ballistic missile attack. Kharkiv, Ukraine (June 28, 2026)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179816698"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 3994,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 3994,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Guests sit on the rooftop terrace of the Nemo Hotel in Kharkiv. Black smoke rises on the horizon. A Russian projectile has struck a suburb of Kharkiv.",
+    "author": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jtiflfi12",
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jtiflfi13",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jtiflfi14",
+      "content": {
+       "owner": "NZZ",
+       "title": "Youth in war: how the skaters of Kharkiv defy everyday life in war with daring jumps",
+       "teaserImage": {
+        "originalUrl": "/2025/09/28/6ab06822-3cab-472a-b216-e5cdc1d9f2e2.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/28/6ab06822-3cab-472a-b216-e5cdc1d9f2e2.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2805,2805,x1305,y110"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x278,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3993,x1303,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Kharkiv has a vibrant skater scene. Every day, young people gather in front of the opera house in Ukraine's second-largest city to practice their tricks. Even in times of war, there is a youthful need for freedom and subculture."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1904577",
+       "readingTime": 360,
+       "colorSchema": "color-schema--forced-dark",
+       "authorLine": "Volker Pabst (text), Dominic Nahr (images), Kharkiv",
+       "characterCount": 6649,
+       "product": "NZZ.ch",
+       "documentId": 1904577,
+       "layout": "longformvisual",
+       "publicationDate": "2025-12-24T04:30:00.000Z",
+       "publicationLastUpdated": "2026-01-05T07:40:09.023Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-24T16:30:00.000Z",
+       "teaserCaption": "Kharkiv has a vibrant skater scene. Every day, young people gather in front of the opera house in Ukraine's second-largest city to practice their tricks. Even in times of war, there is a youthful need for freedom and subculture.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024",
+        "imageService": "fastly",
+        "width": 800,
+        "height": 800,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+       "url": "/international/jugend-im-krieg-wie-die-skater-von-charkiw-mit-waghalsigen-spruengen-dem-kriegsalltag-trotzen-ld.1904577",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1287,
+       "leadText": "Kharkiv has a vibrant skater scene. Every day, young people gather in front of the opera house in Ukraine's second-largest city to practice their tricks. Even in times of war, there is a youthful need for freedom and subculture.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jtiflfi15",
+      "content": {
+       "title": "The calf Javelin and his 600 new friends: how the war is changing the Odessa Zoo",
+       "teaserImage": {
+        "originalUrl": "/2022/05/19/f27ae029-8c02-4c76-9baa-d80c0111fe76.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/05/19/f27ae029-8c02-4c76-9baa-d80c0111fe76.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4500,
+        "height": 3000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4500,2531,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2107,2107,x1773,y60"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Many pets were abandoned due to the war in Ukraine. The zoo in the port city of Odessa has become a refuge for them."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1684671",
+       "readingTime": 300,
+       "authorLine": "Volker Pabst (text), Oscar B. Castillo (images), Odessa",
+       "characterCount": 5435,
+       "product": "NZZ.ch",
+       "documentId": 1684671,
+       "layout": "longformvisual",
+       "publicationDate": "2022-06-01T17:52:17.345Z",
+       "publicationLastUpdated": "2022-06-01T17:52:17.345Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2022-06-02T05:52:17.345Z",
+       "teaserCaption": "Many pets were abandoned due to the war in Ukraine. The zoo in the port city of Odessa has become a refuge for them.",
+       "url": "/international/ukraine-der-krieg-hinterlaesst-auch-im-zoo-von-odessa-spuren-ld.1684671",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 951,
+       "leadText": "Many pets were abandoned due to the war in Ukraine. The zoo in the port city of Odessa has become a refuge for them.",
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jtiflfi16",
+      "content": {
+       "owner": "NZZ",
+       "title": "Ukrainians are fighting for normality. A report from Kharkiv, where everyday life has gone underground.",
+       "teaserImage": {
+        "originalUrl": "/2025/05/19/4b38633e-7ea0-4100-9d5d-dced840b3fce.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/19/4b38633e-7ea0-4100-9d5d-dced840b3fce.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y309"
+         },
+         {
+          "name": "1:1",
+          "crop": "3548,3548,x2452,y238"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x339,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2366,3154,x3608,y838"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x6,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Whether it's school lessons, theater, or shopping – all of this has been available underground in Kharkiv since the start of the war. Located 30 kilometers from the Russian border, the residents of this city of millions refuse to be intimidated by the daily shelling."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2025/05/19/4b38633e-7ea0-4100-9d5d-dced840b3fce.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/19/4b38633e-7ea0-4100-9d5d-dced840b3fce.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y617"
+         },
+         {
+          "name": "1:1",
+          "crop": "3154,3154,x2846,y623"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x488,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2366,3154,x3529,y838"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2025/05/19/c0393899-02f6-4467-b952-612a5cc40937.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/19/c0393899-02f6-4467-b952-612a5cc40937.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y285"
+         },
+         {
+          "name": "1:1",
+          "crop": "3992,3992,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2994,3992,x445,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x6,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2025/05/19/01bad0ab-3dad-41af-afd9-ccb87a87148b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/19/01bad0ab-3dad-41af-afd9-ccb87a87148b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y617"
+         },
+         {
+          "name": "1:1",
+          "crop": "1969,1969,x3178,y857"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x178,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1869,2492,x3035,y1069"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1884163",
+       "readingTime": 420,
+       "authorLine": "Jonas Roth (text), Dominic Nahr (images), Kharkiv",
+       "characterCount": 7909,
+       "product": "NZZ.ch",
+       "documentId": 1884163,
+       "layout": "longformvisual",
+       "publicationDate": "2025-06-10T03:25:00.000Z",
+       "publicationLastUpdated": "2025-06-12T11:19:16.726Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-06-10T15:25:00.000Z",
+       "teaserCaption": "Whether it's school lessons, theater, or shopping – all of this has been available underground in Kharkiv since the start of the war. Located 30 kilometers from the Russian border, the residents of this city of millions refuse to be intimidated by the daily shelling.",
+       "url": "/international/ukraine-unterirdisch-wie-der-alltag-in-charkiw-trotz-bombengefahr-weitergeht-ld.1884163",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1426,
+       "leadText": "Whether it's school lessons, theater, or shopping – all of this has been available underground in Kharkiv since the start of the war. Located 30 kilometers from the Russian border, the residents of this city of millions refuse to be intimidated by the daily shelling.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "After the dolphin show, drones arrive: How Kharkiv tries to forget the war for a few hours",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "tags": [
+   "Ukraine-Krieg",
+   "Fotografie"
+  ],
+  "teaserImage": {
+   "originalUrl": "/2026/08/20/e309113c-caff-4c54-9170-b14573dc2850.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/e309113c-caff-4c54-9170-b14573dc2850.jpg?width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 3994,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6000,3375,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "5325,3994,x405,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3994,3994,x1368,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2996,3994,x2338,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5991,3994,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Longing for normality just 30 kilometers from the front in the eastern Ukrainian metropolis. A little respite at the zoo or dolphinarium. How to find lightheartedness in wartime?"
+  },
+  "nzzId": "ld.10015567",
+  "readingTime": 480,
+  "characterCount": 8625,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10015567,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "Longing for normality just 30 kilometers from the front in the eastern Ukrainian metropolis. A little respite at the zoo or dolphinarium. How to find lightheartedness in wartime?",
+  "nzzAuthors": [
+   {
+    "id": 1373368,
+    "name": "Volker Pabst",
+    "shortName": "pab",
+    "pianoId": "50f98bd0-42a7-4547-b184-f4fdaef5a3f9",
+    "external": false
+   },
+   {
+    "id": 1628305,
+    "name": "Dominic Nahr",
+    "shortName": "dna",
+    "pianoId": "0958f988-7041-44ce-9c10-9d819e5bca9c",
+    "external": false
+   }
+  ],
+  "authorLine": "Volker Pabst (text), Dominic Nahr (images), Kharkiv",
+  "authorImage": {
+   "originalUrl": "/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?crop=800,800,x0,y0",
+   "url": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 800
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 154617,
+    "name": "Volker Pabst (text)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1661941,
+    "name": "Dominic Nahr (pictures), Kharkiv",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/79e89c2c-692d-4ec0-8426-9ecd6c9bc307.jpeg?crop=2933,2933,x1319,y597&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 1591,
+  "leadText": "Longing for normality just 30 kilometers from the front in the eastern Ukrainian metropolis. A little respite at the zoo or dolphinarium. How to find lightheartedness in wartime?",
+  "nzzSummaryEN": "- In the eastern Ukrainian city of Kharkiv, just 30 kilometers from the frontline, residents seek brief moments of normalcy, often by visiting the zoo or the Hotel Nemo with its dolphinarium.\n- The hotel provides an escape from daily wartime life with its shows and maritime ambiance, while the zoo serves as a publicly accessible retreat, attracting up to 17,000 visitors daily.",
+  "nzzSummaryDE": "- In the eastern Ukrainian city of Kharkiv, only 30 kilometers from the front, residents seek brief moments of normality, often through visits to the zoo or the Hotel Nemo with its dolphinarium.\n - The hotel, with its shows and maritime atmosphere, offers an escape from everyday wartime life, while the zoo, as a publicly accessible recreation area, attracts up to 17,000 visitors per day.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Holiday atmosphere in the front-line city",
+  "nzzPrintSubtitle": "A dolphin show in the heart of Kharkiv allows visitors to forget the daily grind of war for a few hours",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567",
+   "title": "Kharkiv: How dolphin shows and zoo visits break the monotony of everyday wartime life",
+   "socialMediaTitle": "Kharkiv: How dolphin shows and zoo visits break the monotony of everyday wartime life",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/20/e309113c-caff-4c54-9170-b14573dc2850.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2487189,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Kharkiv",
+    "slug": "/themen/charkiw"
+   },
+   {
+    "name": "Dolphins",
+    "slug": "/themen/delfine"
+   },
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1904577",
+    "ld.1684671",
+    "ld.1884163"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 543696,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "charkiw",
+   "name": "Kharkiv",
+   "tagName": "Kharkiv",
+   "qId": "Q42308",
+   "seoTitle": "Kharkiv – Latest news and all articles about the Ukrainian city | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:41:59.692Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/charkiw",
+   "size": 651,
+   "relatedTopics": [
+    {
+     "name": "Delfine",
+     "slug": "/themen/delfine"
+    },
+    {
+     "name": "Ukraine",
+     "slug": "/themen/ukraine"
+    },
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Someone must have decided to kill old Lyubov Fedosova – how the Russians are hunting civilians with drones",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/10/1f5b8d3b-bb06-4340-9a94-fe814e64a115.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/10/1f5b8d3b-bb06-4340-9a94-fe814e64a115.jpg?width=1024&quality=75&auto=webp",
+     "width": 5707,
+     "height": 3833,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5707,3210,x0,y623"
+      },
+      {
+       "name": "4:3",
+       "crop": "5111,3833,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3833,3833,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2875,3833,x428,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5707,3805,x0,y28"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russian methods of killing grow more sophisticated: Sergei Gerasimov feels targeted",
+     "teaserAuthor": "Sergey Kozlov / EPA"
+    },
+    "authorLine": "Sergei Gerasimow",
+    "teaserAuthor": "Sergey Kozlov / EPA",
+    "tags": [
+     "Ukraine-Krieg"
+    ],
+    "editor": "1371769",
+    "videoTeaser": "o5MqOjQF",
+    "nzzId": "ld.10016682",
+    "readingTime": 540,
+    "embeds": {
+     "videos": [
+      {
+       "id": "o5MqOjQF",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 9,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/o5MqOjQF-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      },
+      {
+       "id": "tzMg5snB",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 31,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/tzMg5snB-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "characterCount": 11974,
+    "product": "NZZ.ch",
+    "documentId": "10016682",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-11T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-11T13:44:19.227Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-11T15:30:00.000Z",
+    "teaserCaption": "Russian methods of killing grow more sophisticated: Sergei Gerasimov feels targeted",
+    "url": "https://www.nzz.ch/feuilleton/wie-die-russen-mit-drohnen-zivilisten-jagen-jemand-muss-beschlossen-haben-die-alte-ljubow-fedosowa-zu-toeten-ld.10016682",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1891,
+    "leadText": "Russian methods of killing grow more sophisticated: Sergei Gerasimov feels targeted",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Photo series",
+    "title": "The Latest Developments in the Ukraine War in Pictures",
+    "teaserImage": {
+     "originalUrl": "/2026/08/04/f8441070-233e-4912-baf7-63a6fe28875b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/04/f8441070-233e-4912-baf7-63a6fe28875b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5077,
+     "height": 3560,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5077,2856,x0,y704"
+      },
+      {
+       "name": "4:3",
+       "crop": "4747,3560,x165,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3560,3560,x531,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2670,3560,x1280,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5077,3385,x0,y175"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Russian invasion has driven millions of Ukrainians to flee. The war of attrition continues relentlessly. Current developments in pictures.",
+     "teaserAuthor": "Alina Smutko / Reuters"
+    },
+    "teaserAuthor": "Alina Smutko / Reuters",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1671702",
+    "readingTime": 2220,
+    "authorLine": "NZZ photo editors",
+    "tags": [
+     "Ukraine-Krieg",
+     "Fotografie"
+    ],
+    "paywallQuestionOne": "How does the US foreign policy realignment affect Ukraine?",
+    "paywallQuestionTwo": "What are the humanitarian consequences of the ongoing war in Ukraine?",
+    "paywallQuestionThree": "How is the international community reacting to the escalation in Ukraine?",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/05/f2a00c90-16fa-4b5c-9568-d29ceb63d60e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/f2a00c90-16fa-4b5c-9568-d29ceb63d60e.jpg?width=1024&quality=75&auto=webp",
+     "width": 5336,
+     "height": 3648,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5336,3001,x0,y647"
+      },
+      {
+       "name": "1:1",
+       "crop": "3648,3648,x1422,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4864,3648,x472,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2736,3648,x1579,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5336,3557,x0,y91"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/05/3708bbac-b7af-404b-9de0-e9b08b3787aa.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/3708bbac-b7af-404b-9de0-e9b08b3787aa.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y625"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x2000,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x667,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x2318,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/05/d4f62908-19a1-4a41-91d5-2bf85d306e29.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/d4f62908-19a1-4a41-91d5-2bf85d306e29.jpg?width=1024&quality=75&auto=webp",
+     "width": 5732,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5732,3224,x0,y776"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x866,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x199,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1366,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5732,3821,x0,y89"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "characterCount": 0,
+    "product": "NZZ.ch",
+    "documentId": "1671702",
+    "layout": "longformvisual",
+    "publicationDate": "2026-08-05T08:59:33.575Z",
+    "publicationLastUpdated": "2026-09-02T06:41:11.347Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-05T20:59:33.575Z",
+    "teaserCaption": "The Russian invasion has driven millions of Ukrainians to flee. The war of attrition continues relentlessly. Current developments in pictures.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/10/1edce276-ca0b-4506-be44-66b13207813f.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/fotografie/in-der-ukraine-herrscht-krieg-ld.1671702",
+    "department": {
+     "name": "Photography",
+     "path": "/fotografie"
+    },
+    "estimationWordCount": 7323,
+    "leadText": "The Russian invasion has driven millions of Ukrainians to flee. The war of attrition continues relentlessly. Current developments in pictures.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "title": "Everything is heading toward a point where all that will remain of Russian in Ukraine is a tree stump",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Sergei Gerasimow",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/07/24/b07ad12a-061f-4aae-8886-a986372d7119.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/24/b07ad12a-061f-4aae-8886-a986372d7119.jpg?width=1024&quality=75&auto=webp",
+     "width": 6813,
+     "height": 4542,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6813,3832,x0,y355"
+      },
+      {
+       "name": "4:3",
+       "crop": "6056,4542,x379,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4542,4542,x1136,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3407,4542,x1703,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6813,4542,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Kyiv wants to make Ukrainian the sole official language, ignoring the realities of everyday life. The writer Sergei Gerasimov reflects on a language that refuses to disappear so easily.",
+     "teaserAuthor": "Efrem Lukatsky / AP"
+    },
+    "teaserAuthor": "Efrem Lukatsky / AP",
+    "nzzId": "ld.10015949",
+    "readingTime": 480,
+    "paywallQuestionOne": "Why do many Ukrainian children continue to speak Russian in school?",
+    "paywallQuestionTwo": "How does politics influence language choice in Ukraine?",
+    "paywallQuestionThree": "What role do universal values ​​play in the use of language?",
+    "characterCount": 11278,
+    "product": "NZZ.ch",
+    "documentId": "10015949",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-25T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-25T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-25T15:30:00.000Z",
+    "teaserCaption": "Kyiv wants to make Ukrainian the sole official language, ignoring the realities of everyday life. The writer Sergei Gerasimov reflects on a language that refuses to disappear so easily.",
+    "url": "https://www.nzz.ch/feuilleton/alles-steuert-auf-einen-punkt-zu-an-dem-vom-russischen-in-der-ukraine-nur-noch-ein-baumstumpf-uebrig-bleibt-ld.10015949",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1699,
+    "leadText": "Kyiv wants to make Ukrainian the sole official language, ignoring the realities of everyday life. The writer Sergei Gerasimov reflects on a language that refuses to disappear so easily.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«One word is enough – and the gates open in the air» – literature lived in Ukraine",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Nikolai Klimeniouk",
+    "tags": [
+     "Bücher"
+    ],
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/07/09/aa3abd8d-d0e3-4bcb-ab09-25575bffc876.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/09/aa3abd8d-d0e3-4bcb-ab09-25575bffc876.jpg?width=1024&quality=75&auto=webp",
+     "width": 4134,
+     "height": 3101,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4134,2325,x0,y776"
+      },
+      {
+       "name": "4:3",
+       "crop": "4134,3101,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3101,3101,x946,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2115,2819,x1861,y281"
+      },
+      {
+       "name": "3:2",
+       "crop": "4134,2756,x0,y345"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The renowned Ukrainian literature festival Meridian is not taking place in its usual location of Chernivtsi, but in frontline cities. This year in Kharkiv and Zaporizhzhia. A disturbing firsthand look.",
+     "teaserAuthor": "Julia Kochetova / Eyevine / Dukas"
+    },
+    "teaserAuthor": "Julia Kochetova / Eyevine / Dukas",
+    "nzzId": "ld.10013506",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why is the Meridian literature festival taking place in frontline cities?",
+    "paywallQuestionTwo": "How does the war affect cultural life in Kharkiv?",
+    "paywallQuestionThree": "What role does Ukrainian identity play in the festival?",
+    "characterCount": 9589,
+    "product": "NZZ.ch",
+    "documentId": "10013506",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-10T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-17T09:32:04.409Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-10T15:30:00.000Z",
+    "teaserCaption": "The renowned Ukrainian literature festival Meridian is not taking place in its usual location of Chernivtsi, but in frontline cities. This year in Kharkiv and Zaporizhzhia. A disturbing firsthand look.",
+    "url": "https://www.nzz.ch/feuilleton/buecher/ein-wort-genuegt-und-schon-oeffnen-sich-in-der-luft-die-tore-gelebte-literatur-in-der-ukraine-ld.10013506",
+    "department": {
+     "name": "Books",
+     "path": "/feuilleton/buecher"
+    },
+    "estimationWordCount": 1491,
+    "leadText": "The renowned Ukrainian literature festival Meridian is not taking place in its usual location of Chernivtsi, but in frontline cities. This year in Kharkiv and Zaporizhzhia. A disturbing firsthand look.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The T-34, for example – without the weapons manufacturers from Ukraine, the Soviet Union would have been in a weak position",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Ulrich M. Schmid",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/06/08/a254afc0-8dfc-468f-bd2a-487e51fe7ce3.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/08/a254afc0-8dfc-468f-bd2a-487e51fe7ce3.jpg?width=1024&quality=75&auto=webp",
+     "width": 5100,
+     "height": 2994,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4636,2608,x37,y262"
+      },
+      {
+       "name": "4:3",
+       "crop": "3992,2994,x330,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2994,2994,x952,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2246,2994,x2009,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4491,2994,x70,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The successful Ukrainian defense against the Russian aggressor has shown that David has a chance against Goliath. Weapons have always been manufactured in Zaporizhzhia, Kyiv, Kharkiv, and Dnipro, including some of the best weapons the Soviet Union had.",
+     "teaserAuthor": "Sovfoto / Getty"
+    },
+    "teaserAuthor": "Sovfoto / Getty",
+    "nzzId": "ld.10008687",
+    "readingTime": 360,
+    "paywallQuestionOne": "What role did Ukraine play in the Soviet arms industry?",
+    "paywallQuestionTwo": "How did the T-34 influence the German Wehrmacht in World War II?",
+    "paywallQuestionThree": "Why are private arms companies gaining importance in Ukraine?",
+    "characterCount": 8092,
+    "product": "NZZ.ch",
+    "documentId": "10008687",
+    "layout": "longformstandard",
+    "publicationDate": "2026-06-09T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-09T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-09T15:30:00.000Z",
+    "teaserCaption": "The successful Ukrainian defense against the Russian aggressor has shown that David has a chance against Goliath. Weapons have always been manufactured in Zaporizhzhia, Kyiv, Kharkiv, and Dnipro, including some of the best weapons the Soviet Union had.",
+    "url": "https://www.nzz.ch/feuilleton/zeitgeschehen/der-t-34-zum-beispiel-ohne-die-waffenschmiede-aus-der-ukraine-waere-die-sowjetunion-schwach-dagestanden-ld.10008687",
+    "department": {
+     "name": "Current Affairs",
+     "path": "/feuilleton/zeitgeschehen"
+    },
+    "estimationWordCount": 1212,
+    "premium": true,
+    "leadText": "The successful Ukrainian defense against the Russian aggressor has shown that David has a chance against Goliath. Weapons have always been manufactured in Zaporizhzhia, Kyiv, Kharkiv, and Dnipro, including some of the best weapons the Soviet Union had.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10015567",
+    "name": "After the dolphin show, drones arrive: How Kharkiv tries to forget the war for a few hours",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "After the dolphin show, drones arrive: How Kharkiv tries to forget the war for a few hours",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373368,
+       "name": "Volker Pabst",
+       "shortName": "pab",
+       "pianoId": "50f98bd0-42a7-4547-b184-f4fdaef5a3f9",
+       "external": false
+      },
+      {
+       "id": 1628305,
+       "name": "Dominic Nahr",
+       "shortName": "dna",
+       "pianoId": "0958f988-7041-44ce-9c10-9d819e5bca9c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10015567",
+   "pageType": "longformvisual",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Kharkiv: How dolphin shows and zoo visits break the monotony of everyday wartime life",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/e309113c-caff-4c54-9170-b14573dc2850.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Volker Pabst (text), Dominic Nahr (images), Kharkiv",
+  "description": "Longing for normality just 30 kilometers from the front in the eastern Ukrainian metropolis. A little respite at the zoo or dolphinarium. How to find lightheartedness in wartime?",
+  "news_keywords": "After the dolphin show, the drones arrive: How Kharkiv tries to forget the daily grind of war for a few hours, International, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:30:00+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "After the dolphin show, drones arrive: How Kharkiv tries to forget the war for a few hours",
+  "ogTitle": "Kharkiv: How dolphin shows and zoo visits break the monotony of everyday wartime life",
+  "ogUrl": "https://www.nzz.ch/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567",
+  "mrf:cms_id": "nzz:ld.10015567",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10015567",
+  "nzzAuthors": [
+   {
+    "id": 1373368,
+    "name": "Volker Pabst",
+    "shortName": "pab",
+    "pianoId": "50f98bd0-42a7-4547-b184-f4fdaef5a3f9",
+    "external": false
+   },
+   {
+    "id": 1628305,
+    "name": "Dominic Nahr",
+    "shortName": "dna",
+    "pianoId": "0958f988-7041-44ce-9c10-9d819e5bca9c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:57 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Kharkiv: How dolphin shows and zoo visits break the monotony of everyday wartime life"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567"
+   },
+   "headline": "Kharkiv: How dolphin shows and zoo visits break the monotony of everyday wartime life",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Longing for normality just 30 kilometers from the front in the eastern Ukrainian metropolis. A little respite at the zoo or dolphinarium. How to find lightheartedness in wartime?",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/20/e309113c-caff-4c54-9170-b14573dc2850.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Volker Pabst"
+    },
+    {
+     "@type": "Person",
+     "name": "Dominic Nahr"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 543696,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/nach-der-delfin-show-fliegen-die-drohnen-an-wie-charkiw-versucht-den-kriegsalltag-fuer-einige-stunden-zu-vergessen-ld.10015567",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformvisual",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10015567",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "Volker Pabst (Text), Dominic Nahr (Bilder), Charkiw",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie bewahren die Bewohner Charkiws Normalität trotz des Kriegsalltags?\nWelche Rolle spielt das Delfinarium für die Stadt Charkiw?\nWie beeinflusst der Krieg das Leben im Zoo und Hotel Nemo?",
+   "ldId": "ld.10015567",
+   "channel": "International",
+   "heading": "Nach der Delfin-Show fliegen die Drohnen an: Wie Charkiw versucht, den Kriegsalltag für einige Stunden zu vergessen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

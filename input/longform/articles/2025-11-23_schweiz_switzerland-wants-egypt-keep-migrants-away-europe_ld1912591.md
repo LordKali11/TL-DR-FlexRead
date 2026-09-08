@@ -1,0 +1,105 @@
+# Switzerland wants Egypt to keep migrants away from Europe. To achieve this, the Federal Council intends to cooperate with the regime on the Nile. But at what cost?
+
+*Traveling with Asylum Minister Beat Jans in Cairo.*
+
+**Ladina Triaca, Cairo, Peter Klaunzer / Keystone (pictures), Cairo** · Schweiz · 2025-11-23 · 1674 words · [ld.1912591](https://www.nzz.ch/schweiz/die-schweiz-will-dass-aegypten-migranten-von-der-reise-nach-europa-abhaelt-dafuer-ist-der-bundesrat-bereit-mit-dem-regime-am-nil-zu-kooperieren-doch-zu-welchem-preis-ld.1912591)
+
+The Federal Council's jet flies smoothly over the snow-covered peaks of the Alps. Suddenly, a gray fighter jet appears. It flies directly below the wing of the Federal Council's jet; the pilot can be seen in the cockpit. Federal Councillor Beat Jans pulls out his cell phone and takes a picture. His wife, Tracy Jans, looks out the window. «It's kind of cool,» she says. «But also kind of scary.»
+
+The pilot had asked Jans shortly before takeoff if it would be alright for F/A-18 fighter jet pilots to escort the Federal Councillor's aircraft in Swiss airspace. As an exercise. «You can also decline,» the pilot said. Jans seemed somewhat surprised. «No, that's fine,» he said. Now the fighter jets are turning away and flying off again.
+
+A little later, Beat Jans walks down the aisle to one of his employees. «What would be a good topic for a conversation with the foreign minister?» he asks. «Football?» There's that famous Egyptian footballer who used to play for FC Basel, Salah. «What's his first name again?» «Mo Salah.» «Exactly.»
+
+![An F/A-18 fighter jet accompanies the Federal Council jet in Swiss airspace.](https://img-msp-prod.nzz.ch/2025/11/21/8d60b3f5-4243-4d57-9b1d-ace626ea17c5.jpg?width=1024)
+*An F/A-18 fighter jet accompanies the Federal Council jet in Swiss airspace.*
+
+Beat Jans is on his way to Egypt. In Cairo, he is scheduled to meet with the Egyptian Foreign Minister and sign a migration agreement. Switzerland has already concluded migration agreements with Tunisia and Algeria in North Africa, which, among other things, facilitate the return of rejected asylum seekers. Over the past six years, the Swiss authorities have been working towards the agreement with Egypt. Expectations are high.
+
+The visit to Cairo is about much more than that: Egypt is becoming an increasingly important geopolitical partner for Switzerland and Europe. The country hosts the second-highest number of refugees in the world. 1.5 million come from its southern neighbor Sudan, and thousands from the adjacent Gaza Strip. The European Union has pledged €7.4 billion in economic aid to Egypt. Switzerland plans to invest around 60 million Swiss francs in the country by 2028. The intention behind this seems simple: to deter migrants from setting off for Europe.
+
+Switzerland and Europe are prepared to overlook certain things. Because Egypt is an authoritarian state. President Abdel Fattah al-Sisi came to power in a military coup in 2013. He controls the media, has human rights activists arrested, and excludes his opponents from elections.US President Trump calls him his «favorite dictator.» In Cairo, al-Sisi poses on street-side posters wearing black sunglasses.
+
+Should Switzerland cooperate with this regime? How far should special interests be allowed to go? And what do values ​​matter?
+
+SP Federal Councillor Beat Jans also asked himself this question during his trip.
+
+## Tears in the refugee camp
+
+It's Sunday morning, 10 a.m., an ordinary workday in Egypt. Beat Jans and his colleagues, who are accompanying him on this two-day trip, are visiting a UNHCR registration center in Cairo. Tired-looking women, men, and children sit in rows of chairs. Some have their heads in their arms; every now and then a child cries. It's like an airport departure hall. Except no plane ever takes off here.
+
+Beat and Tracy Jans are led by UN staff to a woman from Sudan who is waiting in the center with her four sons. The woman is to tell the Jans couple her story of fleeing their home. She talks, gestures, and cries. In the background, children are screaming; they can't hear what she's saying. During the conversation, Beat Jans puts his arm around his wife.
+
+![Women from Sudan tell Beat and Tracy Jans their story.](https://img-msp-prod.nzz.ch/2025/11/21/40bb78c3-b6b2-43eb-a095-42b2de8ad372.jpg?width=1024)
+*Women from Sudan tell Beat and Tracy Jans their story.*
+
+At the UN refugee center in Cairo, a thousand new people arrive every day. The vast majority come from Sudan. They register as refugees at the counters and then disappear into the metropolis, where many work as domestic workers.
+
+Beat Jans is giving an interview to Swiss Romande television on the grounds. The sun is shining, it's slowly getting hot. «Egypt is facing a major challenge,» he says to the camera. «It is in the interest of Switzerland and Europe that people here have a future and don't have to move on.»
+
+When the journalist asks the same question twice in French, he loses his patience. He doesn't want to repeat the answer. The day is taking its toll on him.
+
+Tears streamed down his wife Tracy's cheeks as they said goodbye. She wiped them away.
+
+## A modest gift
+
+In Switzerland, sympathy for migrants from Africa is limited. Jans, as the left-leaning Minister for Asylum, is under pressure. The center-right majority in parliament regularly tightens asylum laws. The Swiss People's Party (SVP) criticizes him at every opportunity. Their press releases are headlined with titles like: «Beat Jans and his cover-up officials» or «Asylum halt at German borders – only Asylum Minister Jans is inactive!»
+
+By concluding migration agreements, Jans wants to demonstrate to his opponents that he is willing to manage migration. The agreement with Egypt, for example, stipulates that the country will secure its borders and combat human trafficking. Egypt also commits to taking back rejected asylum seekers, even though their numbers are not particularly high. In return, Switzerland promises to support Egypt in receiving refugees through aid projects.
+
+The agreement is to be signed this afternoon. Everything is ready in the Foreign Ministry palace, which is located right next to Tahrir Square. Golden curtains, a red carpet, chandeliers. Men with earpieces wait in the entrance hall; there are almost no women.
+
+In the back of the palace, several Egyptian journalists sit in a spartan room. They are required to report on the meeting; they are not allowed to ask critical questions. Almost all Egyptian media outlets are controlled by the state. Some journalists are imprisoned, and newsrooms are monitored. In Reporters Without Borders' Press Freedom Index, Egypt ranks 170th out of 180 countries.
+
+![Federal Councillor Beat Jans and Egyptian Foreign Minister Badr Abdelatty at the signing of the migration agreement.](https://img-msp-prod.nzz.ch/2025/11/21/781acca6-9c24-4f9f-90d2-779158ef1887.jpg?width=1024)
+*Federal Councillor Beat Jans and Egyptian Foreign Minister Badr Abdelatty at the signing of the migration agreement.*
+
+![Tahrir Square in Cairo became a symbol of the Egyptian revolution in 2011.](https://img-msp-prod.nzz.ch/2025/11/21/ed08c28e-0e7b-40db-aab3-a21bf7767e65.jpg?width=1024)
+*Tahrir Square in Cairo became a symbol of the Egyptian revolution in 2011.*
+
+The entrance gate opens. Beat Jans and the Egyptian Foreign Minister Badr Abdelatty enter. «Nice to meet you,» says Abdelatty. «Thanks for having us,» replies Jans. Abdelatty, a good half-head shorter than Jans, immediately begins to tell stories. He later calls Jans his friend, «my friend.» Jans smiles somewhat strainedly.
+
+Later, the delegations exchanged gifts. Tracy Jans received a small, gleaming gold statue of the Egyptian Pharaoh Tutankhamun. The Swiss brought the Egyptian foreign minister small chocolate bars bearing the cantonal coats of arms. And a pen. «But a nice pen,» said a senior official. Swiss pragmatism.
+
+But the delegation members are annoyed. The best gift idea only occurs to them now, on the sofa in the palace. «An FC Basel jersey from Mo Salah. That would have been something,» says one. Jans later recounts that the Egyptian foreign minister knew Mo Salah. No wonder. Every child in Egypt knows Mo Salah.
+
+And what about the sensitive issues? The imprisoned journalists? Human rights?
+
+Jans says: «I raised the human rights situation in Egypt in my conversation with the Foreign Minister.» Such discussions are challenging. «You have to find the right moment and the right tone.» Jans had prepared for the meeting in several sessions. Earlier that morning, he had also met with representatives of civil society to gather their views. «I got the impression from this meeting that the Egyptian government is open to dialogue.»
+
+Really?
+
+Egypt is a proud country. It doesn't like being lectured by northern nations. And the government is self-assured. It knows its important role in the Gaza war, mediating between Israel and Hamas. Donald Trump's peace summit didn't take place in Geneva, but in Sharm el-Sheikh.
+
+During the meeting at the palace, the Egyptian government criticized Switzerland. Several participants reported that the talks between the delegations were unusually open. Egypt accused Switzerland of hypocrisy: it was tough on Russia but allowed Israel too much leeway.
+
+Beat Jans reportedly reacted calmly. Perhaps he's also the wrong target for the criticism. In the Federal Council, he and his party colleague Elisabeth Baume-Schneider are more known for their commitment to Palestine. Both advocated for Switzerland to take in 20 injured children from Gaza , against the resistance of SVP (Swiss People's Party) government councilors.
+
+## Dancing girls from Gaza
+
+Jans also sends a political message in Cairo. In the afternoon, he visits a «Save the Children» aid project for children from Gaza. At the entrance, three children hold out handmade roses to him. Several girls in green skirts perform a dance, accompanied by the blare of «It's a beautiful day!» from a speaker. It's as if one is watching a video appealing for donations. Earlier, before the Federal Councillor arrived, there had been no dance performance.
+
+![«It's a beautiful day»: Palestinian girls perform a dance for the Federal Council.](https://img-msp-prod.nzz.ch/2025/11/21/3ff99c75-dac6-4bb7-95a4-b683a716da16.jpg?width=1024)
+*«It's a beautiful day»: Palestinian girls perform a dance for the Federal Council.*
+
+A caregiver says she rarely notices that the children are traumatized. For example, when they don't sing in music class but scream. Or when they sit hunched over for long periods. It's different with those who are physically injured. A boy who has gone blind feels his way through the classroom. Jans offers him his hand.
+
+Two hundred children come to the small house every day. They are taught here: math, English, music. Thousands are on the waiting list. Switzerland is expected to pay 1.5 million francs so that another house can be opened.
+
+Jans briefly steps up to the microphone in the courtyard. He addresses the caregivers and mothers. «We know that the situation in Gaza is unbearable,» he says. «Please continue to fight for the dignity of these children.» This time, his smile doesn't seem forced.
+
+## Debriefing on the Nile
+
+It's getting dark in Cairo. The Swiss delegation is driving through the city in limousines. Cars are honking, lights are flashing. Their destination is a small boat on the Nile. It was described in the program as the «Egyptian version of the Basel ferry.» Here, the delegation will hold a debriefing of their trip.
+
+Jans is the first to speak on the boat. «My conclusion is that we absolutely must not cut funding for development cooperation in Egypt,» he says. It's important for the people that Switzerland has a presence in Egypt. «And without this cooperation, we would have even bigger migration problems here.» No one disagrees.
+
+Do the politicians in Switzerland see it the same way? Jans will soon find out. The very next morning, he has to attend a meeting of the finance committee at the Federal Parliament Building. One topic: cost-cutting measures in the asylum sector.
+
+![Federal Councillor Beat Jans and a staff member of the Swiss Embassy are accompanied by Egyptian and Swiss security forces in Cairo.](https://img-msp-prod.nzz.ch/2025/11/21/57e54d64-9fe5-4a43-9ae4-8fde2397b81b.jpg?width=1024)
+*Federal Councillor Beat Jans and a staff member of the Swiss Embassy are accompanied by Egyptian and Swiss security forces in Cairo.*
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Switzerland plans a migration agreement with Egypt to prevent migrants from traveling to Europe and facilitate the return of rejected asylum seekers. Egypt is promised economic support despite concerns about its human rights record.
+- During his visit to Egypt, Federal Councillor Beat Jans emphasized the country's geopolitical importance and the need to provide perspectives for refugees locally to reduce migration.
+- While Jans addresses sensitive issues like human rights, there is criticism from the Egyptian side about the double standards of Western countries.

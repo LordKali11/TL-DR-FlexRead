@@ -1,0 +1,1730 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1k0ifj4891",
+   "content": {
+    "title": "70 years of Bravo – a journey through time in pictures",
+    "lead": "The cult magazine shaped many generations. At its peak, Bravo was available weekly at kiosks with a circulation of 1.8 million copies. Today, only 45,000 copies are printed monthly. But the memories remain unforgettable. We look back.",
+    "image": {
+     "author": "A teenage girl reads the youth magazine «Bravo» at a newsstand. (KEYSTONE/SUEDDEUTSCHE ZEITUNG PHOTO/Rita Strothjohann)",
+     "caption": "A teenage girl reads the youth magazine «Bravo» at a newsstand. (KEYSTONE/SUEDDEUTSCHE ZEITUNG PHOTO/Rita Strothjohann)",
+     "originalUrl": "/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?crop=1929,1085,x0,y558",
+     "width": 1929,
+     "height": 2466,
+     "altText": "A teenage girl reads the youth magazine «Bravo» at a newsstand. (KEYSTONE/SUEDDEUTSCHE ZEITUNG PHOTO/Rita Strothjohann)",
+     "crop": {
+      "x": 0,
+      "y": 558,
+      "width": 1929,
+      "height": 1085,
+      "name": "desktop"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 558,
+       "width": 1929,
+       "height": 1085,
+       "name": "desktop"
+      },
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1850,
+       "height": 2466,
+       "name": "tablet"
+      },
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1387,
+       "height": 2466,
+       "name": "mobile"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "Rita Strothjohann / SZ Photo&nbsp;/ Keystone",
+    "caption": "",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0ifj4892",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Martin Berz",
+       "url": "/impressum/martin-berz-ld.1554214",
+       "teaserImage": {}
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "imagegrid",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1k0sbj7ud0",
+   "content": {
+    "caption": "The first cover image from August 26, 1956, and the current cover image from August 2026."
+   },
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "SHOizQpEt-To": {
+       "start": 43,
+       "end": 70,
+       "text": " the current cover image from"
+      }
+     }
+    }
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1k0sbj7ue0",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1k0sbj7ue1",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/08/25/6080f822-146c-432a-a704-66783d694ee4.jpg?crop=1498,2000,x0,y0",
+           "width": 1498,
+           "height": 2000,
+           "altText": "**ARCHIVE** A picture published by the youth magazine Bravo shows the first issue of Bravo from August 26, 1956, with Marilyn Monroe and Richard Widmark on the cover. The first issue was published 50 years ago. (AP Photo/Bravo, HO) ** FOR EDITORIAL USE ONLY IN CONNECTION WITH THE 50TH ANNIVERSARY, WITH ATTENTION: BRAVO * NO SALE * NO ARCHIVE ** to our correspondence **",
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1498,
+            "height": 2000,
+            "name": "article-image",
+            "isAutomatic": true
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 1498,
+             "height": 2000,
+             "name": "article-image",
+             "isAutomatic": true
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1k0sbj7ue2",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/08/25/b76b3fe2-f2b6-43b9-8a3f-3d25be0bc212.jpg?crop=704,949,x8,y0",
+           "width": 714,
+           "height": 949,
+           "crop": {
+            "x": 8,
+            "y": 0,
+            "width": 704,
+            "height": 949,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 8,
+             "y": 0,
+             "width": 704,
+             "height": 949,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-1e1da74b",
+   "identifier": "barrier",
+   "prevElement": "imagegrid",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0sameae1",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "The first double-page poster of «Bravo» shows Marilyn Monroe (1957).",
+     "originalUrl": "/2026/08/25/22b8c013-3463-45ef-bcd6-f8c7b1a6587e.jpg?crop=793,537,x3,y0",
+     "width": 799,
+     "height": 537,
+     "crop": {
+      "x": 3,
+      "y": 0,
+      "width": 793,
+      "height": 537,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 3,
+       "y": 0,
+       "width": 793,
+       "height": 537,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The first double-page poster of «Bravo» shows Marilyn Monroe (1957).",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0se7kgb2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "From 1969, Dr. Sommer educated young people.",
+     "originalUrl": "/2026/08/25/b09aa451-bce1-4668-bdc3-71a9e22c69b8.jpg?crop=1010,661,x7,y0",
+     "width": 1024,
+     "height": 661,
+     "crop": {
+      "x": 7,
+      "y": 0,
+      "width": 1010,
+      "height": 661,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 7,
+       "y": 0,
+       "width": 1010,
+       "height": 661,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "From 1969, Dr. Sommer educated young people.",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "imagegrid"
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1k0rvski70",
+   "content": {
+    "caption": "The star cutouts bound teenagers to the magazine. To be able to hang life-size pictures of their idols on their bedroom wall, they had to buy «Bravo» week after week."
+   },
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1k0rvski80",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1k0rvski81",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/08/25/67df895b-5539-44f1-af3b-50776931b52b.jpg?crop=2386,3355,x96,y0",
+           "width": 2514,
+           "height": 3355,
+           "crop": {
+            "x": 96,
+            "y": 0,
+            "width": 2386,
+            "height": 3355,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 96,
+             "y": 0,
+             "width": 2386,
+             "height": 3355,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1k0rvski82",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/08/25/1b739016-2e6c-4775-9f9e-50f8c291a430.jpg?crop=380,532,x0,y6",
+           "width": 380,
+           "height": 544,
+           "crop": {
+            "x": 0,
+            "y": 6,
+            "width": 380,
+            "height": 532,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 6,
+             "width": 380,
+             "height": 532,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0samt3j2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Closer to the stars: the German beat and rock band The Lords as a poster (1966).",
+     "originalUrl": "/2026/08/25/d1373637-b267-4798-a9a6-a9bd04201710.jpg?crop=795,520,x2,y3",
+     "width": 799,
+     "height": 526,
+     "crop": {
+      "x": 2,
+      "y": 3,
+      "width": 795,
+      "height": 520,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 2,
+       "y": 3,
+       "width": 795,
+       "height": 520,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Closer to the stars: the German beat and rock band The Lords as a poster (1966).",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "imagegrid",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0satbkn0",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Poster of Wham from 1984.",
+     "originalUrl": "/2026/08/25/982b1245-1aa2-4ca4-8965-503577875cf5.jpg?crop=800,539,x0,y0",
+     "width": 800,
+     "height": 539,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 539,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 800,
+       "height": 539,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Poster of Wham from 1984.",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0seos440",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Kim Wilde as a Starschnitt (life-size cutout poster) (1982).",
+     "originalUrl": "/2026/08/21/e21aacc7-3053-4811-a197-5301412a8d27.jpg?crop=773,541,x0,y3",
+     "width": 773,
+     "height": 547,
+     "crop": {
+      "x": 0,
+      "y": 3,
+      "width": 773,
+      "height": 541,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 3,
+       "width": 773,
+       "height": 541,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Kim Wilde as a Starschnitt (life-size cutout poster) (1982).",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0sbjr0t2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Merry Christmas! The Beatles on the cover in 1965.",
+     "originalUrl": "/2026/08/25/4990a8bf-f4a9-4dff-9ab7-4262d4b68b7f.jpg?crop=604,800,x0,y0",
+     "width": 604,
+     "height": 800,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 604,
+      "height": 800,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 604,
+       "height": 800,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Merry Christmas! The Beatles on the cover in 1965.",
+    "author": "Bravo"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0ifj4894",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Bravo knew what moved young people.",
+     "originalUrl": "/2026/08/21/99107647-49ca-4325-ab36-07fdd1d2cac2.jpg?crop=789,501,x8,y6",
+     "width": 797,
+     "height": 513,
+     "crop": {
+      "x": 8,
+      "y": 6,
+      "width": 789,
+      "height": 501,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 8,
+       "y": 6,
+       "width": 789,
+       "height": 501,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Bravo knew what moved young people.",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0ud65lj2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Star of the Month November 1970: Uschi Glas with wild hair.",
+     "originalUrl": "/2026/08/26/fec60163-d832-42c9-9ad0-a9bf7451b257.webp?crop=800,1678,x30,y81",
+     "width": 860,
+     "height": 1816,
+     "crop": {
+      "x": 30,
+      "y": 81,
+      "width": 800,
+      "height": 1678,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 30,
+       "y": 81,
+       "width": 800,
+       "height": 1678,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Star of the Month November 1970: Uschi Glas with wild hair.",
+    "author": "Bravo"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0sbftm32",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Photo love story from the 1980s.",
+     "originalUrl": "/2026/08/25/09a18b4d-3b77-4ca7-96c6-541722452dfc.jpg?crop=800,531,x0,y0",
+     "width": 800,
+     "height": 531,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 531,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 800,
+       "height": 531,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Photo love story from the 1980s.",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "ujFZpgEM4zmm": {
+       "start": 30,
+       "end": 31,
+       "text": "x"
+      }
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0sgfqed2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Alf made it onto the cover no fewer than five times. In 1988, Bravo even printed a fictional interview with him.",
+     "originalUrl": "/2026/08/25/312dc24e-5e48-4c60-9ebf-a8482fc26086.jpg?crop=601,800,x0,y0",
+     "width": 601,
+     "height": 800,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 601,
+      "height": 800,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 601,
+       "height": 800,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Alf made it onto the cover no fewer than five times. In 1988, Bravo even printed a fictional interview with him.",
+    "author": "Bravo"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0s6q3n62",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Madonna life-size: In 1985, Madonna posed in a memorable pose for the star cut-out of «Bravo» magazine.",
+     "originalUrl": "/2026/08/25/9e26b185-5c1f-4f6c-86d0-03b8c90c05e1.jpg?crop=1528,838,x0,y0",
+     "width": 1528,
+     "height": 838,
+     "altText": "Where did I put my 128th bracelet? In 1985, Madonna posed for «Bravo» magazine in an outfit somewhere between an aerobics instructor and a charity shop volunteer. Nevertheless, the pose remains memorable.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1528,
+      "height": 838,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1528,
+       "height": 838,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Madonna life-size: In 1985, Madonna posed in a memorable pose for the star cut-out of «Bravo» magazine.",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0ifudcs2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "«Bravo» report from 1967.",
+     "originalUrl": "/2026/08/21/b9d85225-e95c-4f6e-b150-76906f021baf.jpg?crop=797,518,x0,y3",
+     "width": 797,
+     "height": 524,
+     "crop": {
+      "x": 0,
+      "y": 3,
+      "width": 797,
+      "height": 518,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 3,
+       "width": 797,
+       "height": 518,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "«Bravo» report from 1967.",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "x-dodzjPtkCz": {
+       "start": 27,
+       "end": 32,
+       "text": "1967."
+      }
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0igicnh2",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Poster of Abba (1974).",
+     "originalUrl": "/2026/08/21/a7266f2f-99eb-48d4-a5e8-0c6d011b8969.jpg?crop=780,521,x0,y0",
+     "width": 780,
+     "height": 521,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 780,
+      "height": 521,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 780,
+       "height": 521,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Poster of Abba (1974).",
+    "author": "Bravo"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "imagegrid"
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1k0sbe6460",
+   "content": {
+    "caption": "The first and last celebrity cut-outs: Brigitte Bardot (1959) and Michael «Bully» Herbig (2004)."
+   },
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1k0sbe6461",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1k0sbe6462",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/08/25/22eb5a7c-e926-418f-9151-0b9b354c1cc7.jpg?crop=957,2000,x0,y0",
+           "width": 957,
+           "height": 2000,
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 957,
+            "height": 2000,
+            "name": "article-image",
+            "isAutomatic": true
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 957,
+             "height": 2000,
+             "name": "article-image",
+             "isAutomatic": true
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1k0sbe6463",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/08/25/f8429954-5ee2-47d8-8a28-69e046ecc031.jpg?crop=283,594,x0,y0",
+           "width": 283,
+           "height": 594,
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 283,
+            "height": 594,
+            "name": "article-image",
+            "isAutomatic": true
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 283,
+             "height": 594,
+             "name": "article-image",
+             "isAutomatic": true
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0sbu5oe0",
+   "content": {
+    "image": {
+     "author": "Bravo",
+     "caption": "Record holder: Selena Gomez made it onto the cover of Bravo no fewer than 70 times (here in 2017). Britney Spears made it to second place with 56 covers, just ahead of Miley Cyrus with 50.",
+     "originalUrl": "/2026/08/25/945c2563-0963-4bb1-b99f-42437569866c.jpg?crop=1536,2048,x0,y0",
+     "width": 1536,
+     "height": 2048,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1536,
+      "height": 2048,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1536,
+       "height": 2048,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Record holder: Selena Gomez made it onto the cover of Bravo no fewer than 70 times (here in 2017). Britney Spears made it to second place with 56 covers, just ahead of Miley Cyrus with 50.",
+    "author": "Bravo"
+   },
+   "paidContent": true,
+   "prevElement": "imagegrid",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0ifj4896",
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0ifj4897",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0ifj4898",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "title": "Former head of the Dr. Sommer team: «We always made a point of encouraging young people to be self-determined: Only do what you want to do»",
+       "flag": "interview",
+       "teaserImage": {
+        "originalUrl": "/2026/08/21/269f538b-bacf-4d2f-b6e8-3a12db8342e4.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/21/269f538b-bacf-4d2f-b6e8-3a12db8342e4.jpg?width=1024&quality=75&auto=webp",
+        "width": 2048,
+        "height": 1360,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2048,1152,x0,y208"
+         },
+         {
+          "name": "4:3",
+          "crop": "1813,1360,x126,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1360,1360,x245,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1020,1360,x537,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2040,1360,x4,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The first issue of «Bravo» was published on August 26, 1956. A few years later, «Dr. Jochen Sommer» answered readers' questions about sexuality. In an interview, the former head of the team, Jutta Stiehler, explains how liberating this new openness was.",
+        "teaserAuthor": "Becker & Bredel / Imago"
+       },
+       "teaserAuthor": "Becker & Bredel / Imago",
+       "nzzId": "ld.10019710",
+       "readingTime": 840,
+       "paywallQuestionOne": "How did the Dr. Sommer team encourage young people to be self-reliant?",
+       "paywallQuestionTwo": "What topics have remained constant in the questions asked by young people over the years?",
+       "paywallQuestionThree": "How has the sexual morality of young people changed over the decades?",
+       "characterCount": 18128,
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/08/21/269f538b-bacf-4d2f-b6e8-3a12db8342e4.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/21/269f538b-bacf-4d2f-b6e8-3a12db8342e4.jpg?width=1024&quality=75&auto=webp",
+        "width": 2048,
+        "height": 1360,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2048,1152,x0,y208"
+         },
+         {
+          "name": "1:1",
+          "crop": "1360,1360,x350,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1813,1360,x117,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1020,1360,x533,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2040,1360,x4,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/08/22/80918457-981c-4ffd-b6e7-2779005365bd.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/22/80918457-981c-4ffd-b6e7-2779005365bd.jpg?width=1024&quality=75&auto=webp",
+        "width": 1192,
+        "height": 804,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1192,670,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "604,604,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1072,804,x10,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "603,804,x3,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1192,795,x0,y5"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "product": "NZZ.ch",
+       "documentId": 10019710,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-26T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-28T09:25:31.999Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-26T15:30:00.000Z",
+       "teaserCaption": "The first issue of «Bravo» was published on August 26, 1956. A few years later, «Dr. Jochen Sommer» answered readers' questions about sexuality. In an interview, the former head of the team, Jutta Stiehler, explains how liberating this new openness was.",
+       "authorLine": "Kathrin Klette, Berlin",
+       "authorImage": {
+        "originalUrl": "/2026/08/05/8a533588-2827-41d8-8a2f-1f321f36074d.jpg?crop=4128,2752,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/8a533588-2827-41d8-8a2f-1f321f36074d.jpg?crop=4128,2752,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 4128,
+         "height": 2752
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/08/05/8a533588-2827-41d8-8a2f-1f321f36074d.jpg?crop=4128,2752,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/gesellschaft/fruehere-leiterin-des-dr-sommer-teams-wir-haben-immer-wert-darauf-gelegt-die-jugendlichen-zur-selbstbestimmung-zu-ermutigen-mach-nur-das-was-du-moechtest-ld.10019710",
+       "department": {
+        "name": "Society",
+        "path": "/gesellschaft"
+       },
+       "estimationWordCount": 2884,
+       "leadText": "The first issue of «Bravo» was published on August 26, 1956. A few years later, «Dr. Jochen Sommer» answered readers' questions about sexuality. In an interview, the former head of the team, Jutta Stiehler, explains how liberating this new openness was.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0ifj4899",
+      "content": {
+       "title": "Seventy Years of «Bravo»: A Star Cutout for Eternity",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Matthias Greuling",
+       "teaserImage": {
+        "originalUrl": "/2026/08/20/eb16f959-1b96-4531-b588-77a2796efdce.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/20/eb16f959-1b96-4531-b588-77a2796efdce.jpg?width=1024&quality=75&auto=webp",
+        "width": 2019,
+        "height": 1218,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2019,1136,x0,y82"
+         },
+         {
+          "name": "4:3",
+          "crop": "1624,1218,x162,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1218,1218,x341,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "914,1218,x663,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1827,1218,x96,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The magazine makes stars into roommates and schoolyard slang into a common language. What remains of it?",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/08/20/eb16f959-1b96-4531-b588-77a2796efdce.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/20/eb16f959-1b96-4531-b588-77a2796efdce.jpg?width=1024&quality=75&auto=webp",
+        "width": 2019,
+        "height": 1218,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1835,1033,x59,y143"
+         },
+         {
+          "name": "1:1",
+          "crop": "1218,1218,x401,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1624,1218,x198,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "914,1218,x553,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1827,1218,x96,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/08/19/f406639f-f525-48a4-9fd2-cac74b7a2a30.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/19/f406639f-f525-48a4-9fd2-cac74b7a2a30.jpg?width=1024&quality=75&auto=webp",
+        "width": 7711,
+        "height": 5222,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7711,4337,x0,y885"
+         },
+         {
+          "name": "1:1",
+          "crop": "4747,4747,x91,y475"
+         },
+         {
+          "name": "4:3",
+          "crop": "6963,5222,x374,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3917,5222,x1897,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7711,5141,x0,y41"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2026/08/21/fa325e62-917e-41f4-b277-db79b9aaf444.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/21/fa325e62-917e-41f4-b277-db79b9aaf444.jpg?width=1024&quality=75&auto=webp",
+        "width": 1600,
+        "height": 1600,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1600,900,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "561,561,x522,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1600,1200,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1091,1455,x509,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1600,1067,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzId": "ld.10020150",
+       "readingTime": 420,
+       "paywallQuestionOne": "How did «Bravo» magazine shape youth culture?",
+       "paywallQuestionTwo": "Why is «Bravo» magazine becoming obsolete today?",
+       "paywallQuestionThree": "What role did Dr. Sommer play for young people?",
+       "characterCount": 8494,
+       "product": "NZZ.ch",
+       "documentId": 10020150,
+       "layout": "longformvisual",
+       "publicationDate": "2026-08-21T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-21T08:26:26.195Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-21T15:30:00.000Z",
+       "teaserCaption": "The magazine makes stars into roommates and schoolyard slang into a common language. What remains of it?",
+       "url": "/feuilleton/ein-starschnitt-fuer-die-ewigkeit-wie-die-bravo-die-jugendkultur-gepraegt-hat-ld.10020150",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1348,
+       "leadText": "The magazine makes stars into roommates and schoolyard slang into a common language. What remains of it?",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0ifj48910",
+      "content": {
+       "title": "Good girls, bad boys – that's how the magazine «Bravo» deceived us",
+       "teaserImage": {
+        "originalUrl": "/2020/4/14/00a59442-c402-4eb0-99e8-38d291f56d5c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2020/4/14/00a59442-c402-4eb0-99e8-38d291f56d5c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 781,
+        "height": 514,
+        "imageService": "fastly",
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "781,439,x0,y45"
+         },
+         {
+          "name": "1:1",
+          "crop": "514,514,x72,y0"
+         }
+        ],
+        "teaserCaption": "The German youth magazine «Bravo» is making its archive public. These are the key lessons and surprises about the last half-century that the former institution holds in store for us.",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1551735",
+       "readingTime": 300,
+       "authorLine": "Daniele Muscionico",
+       "characterCount": 6247,
+       "product": "NZZ.ch",
+       "documentId": 1551735,
+       "layout": "longformstandard",
+       "publicationDate": "2020-04-14T16:06:18.578Z",
+       "publicationLastUpdated": "2020-04-17T13:57:59.915Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2020-04-15T04:06:18.578Z",
+       "teaserCaption": "The German youth magazine «Bravo» is making its archive public. These are the key lessons and surprises about the last half-century that the former institution holds in store for us.",
+       "url": "/feuilleton/bravo-hat-uns-belogen-ld.1551735",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1032,
+       "leadText": "The German youth magazine «Bravo» is making its archive public. These are the key lessons and surprises about the last half-century that the former institution holds in store for us."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "70 years of Bravo – a journey through time in pictures",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1024&quality=75&auto=webp",
+   "width": 1929,
+   "height": 2466,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1929,1085,x0,y537"
+    },
+    {
+     "name": "4:3",
+     "crop": "1929,1447,x0,y424"
+    },
+    {
+     "name": "1:1",
+     "crop": "1754,1754,x0,y308"
+    },
+    {
+     "name": "3:4",
+     "crop": "1850,2466,x0,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "1929,1286,x0,y459"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The iconic magazine shaped many generations. At its peak, «Bravo» was on newsstands weekly with a circulation of 1.8 million copies. Today, only 45,000 copies are printed monthly. But the memories remain unforgettable. We take a look back.",
+   "teaserAuthor": "Bravo"
+  },
+  "teaserAuthor": "Bravo",
+  "teaserCarouselOne": {
+   "originalUrl": "/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1024&quality=75&auto=webp",
+   "width": 1929,
+   "height": 2466,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1929,1085,x0,y556"
+    },
+    {
+     "name": "1:1",
+     "crop": "1754,1754,x0,y313"
+    },
+    {
+     "name": "4:3",
+     "crop": "1929,1447,x0,y392"
+    },
+    {
+     "name": "3:4",
+     "crop": "1850,2466,x0,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "1929,1286,x0,y518"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselTwo": {
+   "originalUrl": "/2026/08/25/982b1245-1aa2-4ca4-8965-503577875cf5.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/982b1245-1aa2-4ca4-8965-503577875cf5.jpg?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 539,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "800,450,x0,y80"
+    },
+    {
+     "name": "1:1",
+     "crop": "539,539,x156,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "719,539,x31,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "404,539,x0,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "800,533,x0,y3"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselThree": {
+   "originalUrl": "/2026/08/21/a7266f2f-99eb-48d4-a5e8-0c6d011b8969.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/21/a7266f2f-99eb-48d4-a5e8-0c6d011b8969.jpg?width=1024&quality=75&auto=webp",
+   "width": 780,
+   "height": 521,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "780,439,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "521,521,x112,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "695,521,x85,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "391,521,x162,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "780,520,x0,y1"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "flag": "Photo series",
+  "tags": [
+   "Fotografie"
+  ],
+  "nzzId": "ld.10020605",
+  "readingTime": 60,
+  "colorSchema": "color-schema--blush",
+  "characterCount": 0,
+  "breadcrumbs": [
+   {
+    "name": "Photography",
+    "path": "/fotografie"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020605,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-08-25T21:41:10.856Z",
+  "publicationDate": "2026-08-25T21:41:10.856Z",
+  "publicationLastUpdated": "2026-08-26T09:40:19.951Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T09:41:10.856Z",
+  "teaserCaption": "The iconic magazine shaped many generations. At its peak, «Bravo» was on newsstands weekly with a circulation of 1.8 million copies. Today, only 45,000 copies are printed monthly. But the memories remain unforgettable. We take a look back.",
+  "nzzAuthors": [
+   {
+    "id": 1372044,
+    "name": "Martin Berz",
+    "shortName": "brz",
+    "pianoId": "4126afb9-ca75-4ac3-b51f-14b00214772d",
+    "external": false
+   }
+  ],
+  "authorLine": "Martin Berz",
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1554214,
+    "name": "Martin Berz (brz.) - photo editor "
+   }
+  ],
+  "url": "/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605",
+  "department": {
+   "name": "Photography",
+   "path": "/fotografie"
+  },
+  "estimationWordCount": 265,
+  "leadText": "The iconic magazine shaped many generations. At its peak, «Bravo» was on newsstands weekly with a circulation of 1.8 million copies. Today, only 45,000 copies are printed monthly. But the memories remain unforgettable. We take a look back.",
+  "nzzSummaryEN": "- Bravo magazine celebrates its 70th anniversary and has been an influential publication for generations of teenagers.\n- At its peak, Bravo had a weekly circulation of 1.8 million; today, it is published monthly with about 45,000 copies.\n- The magazine featured star cutouts, youth advice by Dr. Sommer, and photo love stories.",
+  "nzzSummaryDE": "- «Bravo» is celebrating its 70th anniversary and was a formative magazine for generations of young people. - At its peak, «Bravo» had a weekly circulation of 1.8 million; today it is published monthly with a circulation of approximately 45,000 copies. - The magazine offered, among other things, star cutouts, sex education advice from Dr. Sommer, and photo love stories.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "From star cutouts to Dr. Sommer's advice: 70 years of «Bravo»",
+  "nzzPrintSubtitle": "The cult magazine «Bravo» celebrates its 70th anniversary – from star cutouts to Dr. Sommer and nostalgic memories",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605",
+   "title": "«Bravo» turns 70: a magazine that shaped generations",
+   "socialMediaTitle": "Memories in pictures: 70 years of the cult magazine «Bravo»",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1929,1085,x0,y537&wmark=nzz"
+  },
+  "ldPublicationId": 2483893,
+  "isHighlightedHeader": true,
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019710",
+    "ld.10020150",
+    "ld.1551735"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": false,
+  "locale": "de-CH",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020605",
+    "name": "70 years of Bravo – a journey through time in pictures",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Fotografie",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "70 years of Bravo – a journey through time in pictures",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372044,
+       "name": "Martin Berz",
+       "shortName": "brz",
+       "pianoId": "4126afb9-ca75-4ac3-b51f-14b00214772d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T21:41:10.856Z",
+     "updateTimestamp": "2026-08-26T09:40:19.951Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Photo series",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020605",
+   "pageType": "longformvisual",
+   "primaryCategory": "Fotografie",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "«Bravo» turns 70: a magazine that shaped generations",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1929,1085,x0,y537&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Martin Berz",
+  "description": "The iconic magazine shaped many generations. At its peak, «Bravo» was on newsstands weekly with a circulation of 1.8 million copies. Today, only 45,000 copies are printed monthly. But the memories remain unforgettable. We take a look back.",
+  "news_keywords": "70 years of «Bravo» – a journey through time in pictures, photo series, photography, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-26T13:40:19+02:00",
+  "date": "2026-08-26T01:41:10+02:00",
+  "canonical": "https://www.nzz.ch/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "PHOTO GALLERY - 70 Years of «Bravo» - A Journey Through Time in Pictures",
+  "ogTitle": "Memories in pictures: 70 years of the cult magazine «Bravo»",
+  "ogUrl": "https://www.nzz.ch/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605",
+  "mrf:cms_id": "nzz:ld.10020605",
+  "mrf:sections": "Fotografie",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020605",
+  "nzzAuthors": [
+   {
+    "id": 1372044,
+    "name": "Martin Berz",
+    "shortName": "brz",
+    "pianoId": "4126afb9-ca75-4ac3-b51f-14b00214772d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:02 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/fotografie",
+      "name": "Photography"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "«Bravo» turns 70: a magazine that shaped generations"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605"
+   },
+   "headline": "«Bravo» turns 70: a magazine that shaped generations",
+   "datePublished": "2026-08-26T01:41:10+02:00",
+   "dateModified": "2026-08-26T13:40:19+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The iconic magazine shaped many generations. At its peak, «Bravo» was on newsstands weekly with a circulation of 1.8 million copies. Today, only 45,000 copies are printed monthly. But the memories remain unforgettable. We take a look back.",
+   "isAccessibleForFree": false,
+   "articleSection": "Fotografie",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/b2b3feee-fb7a-4af5-a43a-f768a284d45c.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1929,1085,x0,y537&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Martin Berz"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/fotografie/die-bravo-wird-70-erinnerungen-in-bildern-ld.10020605",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformvisual",
+    "bildstrecke",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020605",
+    "channel=Fotografie"
+   ],
+   "ContentCreated": "2026-08-25T21:41:10.856Z",
+   "ContentAuthor": "Martin Berz",
+   "ContentSection": "Fotografie",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie hat sich die Auflage der Bravo seit ihrer Gründung verändert?\nWelche Rolle spielte Dr. Sommer in der Geschichte der Bravo?\nWarum war der Starschnitt ein Erfolg für die Bravo?",
+   "ldId": "ld.10020605",
+   "channel": "Fotografie",
+   "heading": "70 Jahre «Bravo» – eine Zeitreise in Bildern",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

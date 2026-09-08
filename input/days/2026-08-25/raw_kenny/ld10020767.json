@@ -1,0 +1,1600 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0pgk1ea1",
+   "content": {
+    "title": "Germany's party system is at a dead end: It cannot remain as it is",
+    "lead": "Germany's parliamentary system no longer adequately reflects the will of the voters. This harms the parties and the country. Alternatives to rigid coalitions should be considered.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0pgk1ea2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Oliver Maksan, Berlin",
+       "url": "/impressum/oliver-maksan-ld.1662381",
+       "teaserImage": {
+        "originalUrl": "/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pgk1ea3",
+   "content": {
+    "image": {
+     "author": "DPA",
+     "caption": "The German Bundestag convenes under the dome of the Berlin Reichstag.",
+     "originalUrl": "/2025/02/23/a877fa76-757e-4d47-8f6c-9e72bef13b2e.jpeg?crop=5472,3648,x0,y0",
+     "width": 5472,
+     "height": 3648,
+     "altText": "February 23, 2025, Berlin: Early morning view of the Reichstag building. The snap election for the 21st German Bundestag will take place on Sunday. Photo: Joerg Carstensen/dpa +++ dpa picture service +++",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5472,
+      "height": 3648,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5472,
+       "height": 3648,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The German Bundestag convenes under the dome of the Berlin Reichstag.",
+    "author": "DPA"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgk1ea4",
+   "content": {
+    "text": "<em>You are reading an excerpt from the newsletter «Der andere Blick am Morgen» (The Other Morning View), today by Oliver Maksan, Deputy Editor-in-Chief of NZZ Germany. <a href=\"https://abo.nzz.ch/benutzerkonto/newsletter/NZZ-Deutschland-Paid/\">Subscribe to the newsletter for free.</a> Not resident in Germany? <a href=\"https://abo.nzz.ch/kampagne/?lp=99004934&amp;trco=18824013-00-07-0000-0000-000000-00000001\">Benefit here.</a></em>"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-93be0aed",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rni0f90",
+   "content": {
+    "text": "<a href=\"https://abo.nzz.ch/kampagne/?lp=99004934&amp;trco=18824013-00-07-0000-0000-000000-00000001\"></a>Germany's party system is in flux. The once-large parties are shrinking, once-small parties are growing, new players are emerging, and others are disappearing. This is a sign of democratic normality, even vitality. That is the good news. The bad news is: Germany's party system is at a dead end. This is because election results and concrete policy are increasingly diverging. The familiar coalition governments are therefore barely functioning."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91mo0",
+   "content": {
+    "text": "This is evident, to the detriment of the parties involved, but above all to the country, in the current German government. <a href=\"https://8https//www.nzz.ch/deutschland/friedrich-merz-der-ehrgeiz-des-spaetzuenders-ist-gestillt-was-kommt-jetzt-ld.10008176?srsltid=AfmBOooNqtpQ-UYX-qFn-yZjK27eemPuD3KeqmJ0cqkfQ27LIB1NYKt_\">Chancellor Friedrich Merz is, after just over a year, more unpopular than any of his predecessors.</a> His government's approval ratings are at rock bottom. This stems from Merz’ broken election promises and his shortcomings. His flashy demeanor and the results clearly do not align."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91ms0",
+   "content": {
+    "text": "Above all, it is obvious that the political shift demanded by voters cannot be implemented with the struggling Social Democrats. Yet, not everything is bad, as shown by migration policy and pension reform."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91mt0",
+   "content": {
+    "text": "The problem is therefore bigger than Merz. Like his predecessor Olaf Scholz of the SPD, he is simply a transitional Chancellor. Since Merkel's departure in 2021, her successors have been searching for convincing legitimacy. The traffic light coalition under Scholz, in its distress, issued itself a modernization mandate that voters did not grant, but failed due to internal contradictions. The current government even styled itself as democracy's last resort before an AfD takeover. Such a claim is bound to fail."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91mu0",
+   "content": {
+    "text": "What the «traffic light» coalition had to recognize before its expiration date, the black-red government still confronts: they are not models for the future, but rather obsolete concepts. The future will belong to other forms of parliamentary majority-building than accidental coalitions like the «traffic light» or grudgingly entered «grand» coalitions like the current one."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n00",
+   "content": {
+    "text": "This has been apparent for some time."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0qh91n10",
+   "content": {
+    "title": "CDU's 2005 electoral setback",
+    "id": "subtitle-die-cdu-scheiterte-2005-an-der-wahlurne"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n20",
+   "content": {
+    "text": "Former German Chancellor and CDU leader Angela Merkel is often described by her critics as the one who forced Germany's party system into this imbalance. Her critics say that before she took office in 2005, there were clear alternatives between center-left and center-right: black-yellow versus red-green. That, they contend, has long been over – to Germany's detriment."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n30",
+   "content": {
+    "text": "These critics argue that the CDU's leftward shift, aimed at lulling Social Democratic voters into complacency – «asymmetric demobilization» – had destroyed a functioning system of democratically legitimate political change. Merkel, they claim, coolly sacrificed this for the party-political goal of preventing any government formation against the CDU."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n31",
+   "content": {
+    "text": "That is true – and not true. For it was the German voters themselves who sent the party system into imbalance. The formation of the first grand coalition in 2005 was not because the CDU offered them a center-left option under Merkel's leadership."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n40",
+   "content": {
+    "text": "On the contrary. <a href=\"https://www.nzz.ch/deutschland/politik/10-jahre-asylkrise?srsltid=AfmBOoo7SJdM_7fQapcp42aOfP5URCfB4rGUOR_gSYgV7gudt3PBYLWr\">As opposition leader, the later «refugee chancellor» sounded like AfD leader Alice Weidel on migration issues,</a> though without her foaming at the mouth. Merkel also wanted to impose a market-liberal shock therapy on the country, a policy the CDU committed to at its Leipzig party conference in 2003."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n50",
+   "content": {
+    "text": "However, Germans were not ready for the market-liberal shift in 2005. This was also evident in the fact that the Agenda reforms of her Social Democratic predecessor Gerhard Schröder gave rise to a new left-wing force. The East German party PDS soon became the all-German Left Party."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n71",
+   "content": {
+    "text": "In view of this, Merkel indeed began her consequential center-left course. This, in turn, then created a representation gap that the AfD, founded in 2013, began to fill. The liberal professors' party led by Bernd Lucke, however, was only the beginning. What began as a corrective to the CDU gradually became a genuine right-wing party."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n80",
+   "content": {
+    "text": "The firewall erected against it has since forced Germany's party system into cross-party alliances and thus into a politics of the lowest common denominator. This is ill-suited to a country undergoing structural change. Fragmentation coupled with a firewall cannot end well."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0qh91n81",
+   "content": {
+    "title": "Strengthening parliament",
+    "id": "subtitle-das-parlament-w-rde-gest-rkt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91n90",
+   "content": {
+    "text": "It would be better to rely on flexible majorities. This would shift the political center of gravity away from coalition committees and towards parliament. The government of the day would have to seek majorities on a case-by-case basis. The AfD would also need to be included."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91na0",
+   "content": {
+    "text": "Case-by-case majorities naturally also necessitate compromises. This would not preclude horse-trading, as in coalition negotiations. <a href=\"https://www.nzz.ch/international/deutschland-hat-die-rechtspopulisten-die-es-verdient-hat-fuer-den-politikwissenschafter-christian-stecker-ist-die-brandmauer-ein-irrweg-er-plaediert-fuer-minderheitsregierungen-und-wechselnde-mehrheiten-ld.10014084\">But political scientist Christian Stecker rightly points out</a> that the political common ground in individual cases would be greater between changing partners than it is now, where two, and probably more partners in the future, have to agree on compromises from which neither they nor the country benefit."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91nb0",
+   "content": {
+    "text": "That a system primarily geared towards preventing the AfD has no future is obvious. The established parties at the federal level already lack a parliamentary two-thirds majority to amend the constitution."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0qhamlm0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "0d50b45e538faa45f768d3204450d0e7",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-coalition_calculation-container\"        id=\"q_coalition_calculation_0d50b45e538faa45f768d3204450d0e7_q60af34a707f84fce91916995a5c5a15d_container\"        data-q-item-id=\"0d50b45e538faa45f768d3204450d0e7\"        data-q-request-id=\"0f8071e8e1481f85c842ad2362cf59e2c3e2b91d\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-q%23master,sophie-viz-color%23master[parties].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/coalitionCalculation/q-coalitionCalculation-1.1.10.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"0d50b45e538faa45f768d3204450d0e7\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"coalition_calculation\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"0d50b45e538faa45f768d3204450d0e7\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"coalition_calculation\"}},\"0f8071e8e1481f85c842ad2362cf59e2c3e2b91d\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/coalitionCalculation/q-coalitionCalculation-1.1.10.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_coalition_calculation_0d50b45e538faa45f768d3204450d0e7_q60af34a707f84fce91916995a5c5a15d_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"0d50b45e538faa45f768d3204450d0e7\",\"publication\":\"nzz\",\"acronym\":\"\",\"title\":\"Possible coalitions\",\"parties\":[{\"id\":\"cdu_csu\",\"color\":{\"colorCode\":\"#0a0a0a\"},\"name\":\"Union\",\"seats\":151},{\"id\":\"afd\",\"color\":{\"colorCode\":\"#0084c7\"},\"name\":\"AfD\",\"seats\":204},{\"id\":\"spd\",\"color\":{\"colorCode\":\"#c31906\"},\"name\":\"SPD\",\"seats\":88},{\"id\":\"gruene\",\"color\":{\"colorCode\":\"#66a622\"},\"name\":\"Greens\",\"seats\":104},{\"id\":\"linke\",\"color\":{\"colorCode\":\"#8440a3\"},\"name\":\"Left\",\"seats\":83},{\"id\":\"bsw\",\"color\":{\"colorCode\":\"#da467d\"},\"name\":\"BSW\",\"seats\":0},{\"id\":\"fdp\",\"color\":{\"colorCode\":\"#F3B030\"},\"name\":\"FDP\",\"seats\":0}],\"possibleCoalitions\":[{\"name\":\"no majority\",\"parties\":[{\"id\":\"cdu_csu\"},{\"id\":\"spd\"}],\"_seats_base\":239,\"_at_risk_partner_seats\":0,\"_seats_without_at_risk_partners\":239},{\"name\":\"no majority\",\"parties\":[{\"id\":\"cdu_csu\"},{\"id\":\"gruene\"}],\"_seats_base\":255,\"_at_risk_partner_seats\":0,\"_seats_without_at_risk_partners\":255},{\"name\":\"stable majority\",\"parties\":[{\"id\":\"cdu_csu\"},{\"id\":\"afd\"}],\"_seats_base\":355,\"_at_risk_partner_seats\":0,\"_seats_without_at_risk_partners\":355},{\"name\":\"no majority\",\"parties\":[{\"id\":\"spd\"},{\"id\":\"gruene\"},{\"id\":\"linke\"}],\"_seats_base\":275,\"_at_risk_partner_seats\":0,\"_seats_without_at_risk_partners\":275}],\"sources\":[{\"link\":{\"url\":\"\",\"isValid\":false},\"text\":\"Wahlrecht.de\"},{\"link\":{\"url\":\"\",\"isValid\":false},\"text\":\"own calculations\"}],\"totalSeats\":630,\"notes\":\"Without taking the basic mandate clause into account. A majority is considered shaky if it depends on seats from parties close to the 5 percent threshold. As of September 2, 2026\",\"subtitle\":\"Projected number of seats in the Bundestag according to recent polls\",\"updatedDate\":\"2026-09-03T10:24:54.515Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_coalition_calculation_0d50b45e538faa45f768d3204450d0e7_q60af34a707f84fce91916995a5c5a15d\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qCoalitionCalculation) {              clearInterval(checkAndInitialize);              new window.qCoalitionCalculation({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qCoalitionCalculation after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91nb1",
+   "content": {
+    "text": "But instead of thinking about alternatives despite ingrained habits, the established parties prefer to drift on a melting ice floe towards an uncertain future. Things might go well for a few more legislative periods. But in the long run, it is highly unlikely."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91ne0",
+   "content": {
+    "text": "The French are more flexible than the stability-loving Germans. They have repeatedly adapted the Republic to changing times in the past. Germans should at least consider new forms of majority-building. In any case, a political change in mentality is unavoidable. It must precede changes in practice."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh91nf0",
+   "content": {
+    "text": "The Netherlands and Sweden have been on this path for some time without collapsing. And in Germany's neighboring country Denmark, minority governments have been the rule since the Second World War, without the country descending into chaos."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0pgk1ea5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-e40b67bf",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 51,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Herald Rumi",
+      "text": "Merz is completing Merkel's work and rendering the CDU completely irrelevant. Merz is abolishing the CDU and achieving what the SPD, the Greens, and the FDP have already accomplished. And they will disappear behind the firewall.",
+      "created_at": "2026-08-26T04:06:12.606Z",
+      "like_count": 6,
+      "isPro": false,
+      "isNzz": false
+     },
+     {
+      "author_name": "",
+      "text": "",
+      "created_at": "2026-08-25T20:26:01.129Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0pgk1ea6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pgk1ea7",
+      "content": {
+       "title": "«Germany has the right-wing populists it deserves»",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "nzzasFootnote": true,
+       "characterCount": 8583,
+       "teaserImage": {
+        "originalUrl": "/2026/07/30/ceee99ad-1088-45b5-b0e8-bc52fd233a74.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/30/ceee99ad-1088-45b5-b0e8-bc52fd233a74.jpg?width=1024&quality=75&auto=webp",
+        "width": 5079,
+        "height": 3031,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5079,2857,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4041,3031,x493,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1169,1169,x3509,y800"
+         },
+         {
+          "name": "3:4",
+          "crop": "2273,3031,x366,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4547,3031,x375,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "It's high time to take a page from Scandinavia and Switzerland's book, says political scientist Christian Stecker. For him, the firewall is a misguided approach.",
+        "teaserAuthor": "Hannibal Hanschke / EPA"
+       },
+       "teaserAuthor": "Hannibal Hanschke / EPA",
+       "editor": "1373125",
+       "nzzId": "ld.10014084",
+       "readingTime": 420,
+       "paywallQuestionOne": "How has the firewall contributed to the strengthening of the AfD?",
+       "paywallQuestionTwo": "Why does Stecker advocate for flexible majorities and minority governments?",
+       "paywallQuestionThree": "What advantages does Stecker see in a system like those in Scandinavia or Switzerland?",
+       "flag": "interview",
+       "product": "NZZ.ch",
+       "documentId": 10014084,
+       "layout": "regular",
+       "publicationDate": "2026-08-02T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-03T13:17:25.027Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-02T15:30:00.000Z",
+       "teaserCaption": "It's high time to take a page from Scandinavia and Switzerland's book, says political scientist Christian Stecker. For him, the firewall is a misguided approach.",
+       "authorLine": "Markus Bernath",
+       "authorImage": {
+        "originalUrl": "/2024/12/14/84702fa6-b235-4db3-b2d7-56dbf8e51fbc.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/14/84702fa6-b235-4db3-b2d7-56dbf8e51fbc.png?width=1024&quality=75&auto=webp",
+        "width": 423,
+        "height": 468,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "423,423,x0,y23"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/14/84702fa6-b235-4db3-b2d7-56dbf8e51fbc.png?width=1024&quality=75&auto=webp",
+       "url": "/international/deutschland-hat-die-rechtspopulisten-die-es-verdient-hat-fuer-den-politikwissenschafter-christian-stecker-ist-die-brandmauer-ein-irrweg-er-plaediert-fuer-minderheitsregierungen-und-wechselnde-mehrheiten-ld.10014084",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1335,
+       "leadText": "It's high time to take a page from Scandinavia and Switzerland's book, says political scientist Christian Stecker. For him, the firewall is a misguided approach.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pgk1ea8",
+      "content": {
+       "title": "Merz is faltering, the SPD is collapsing, the German outrage machine is running at full speed: What a takeover of the government by the AfD in Saxony-Anhalt would mean",
+       "showHeader": true,
+       "language": {
+        "locale": "de"
+       },
+       "nzzasFootnote": true,
+       "owner": "NZZaS",
+       "teaserImage": {
+        "originalUrl": "/2026/08/21/9936fc64-96bd-44e0-8cd9-360383ca2a8a.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/21/9936fc64-96bd-44e0-8cd9-360383ca2a8a.jpg?width=1024&quality=75&auto=webp",
+        "width": 6126,
+        "height": 3446,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3804,2140,x1806,y1053"
+         },
+         {
+          "name": "4:3",
+          "crop": "3452,2589,x1932,y847"
+         },
+         {
+          "name": "1:1",
+          "crop": "3446,3446,x1976,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1766,2354,x2402,y1092"
+         },
+         {
+          "name": "3:2",
+          "crop": "3530,2354,x1882,y878"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In two weeks, a new state parliament will be elected in the eastern German state. Afterward, the Federal Republic as we knew it — stable, clear, reliable — could be over.",
+        "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+       },
+       "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+       "nzzId": "ld.10020118",
+       "readingTime": 420,
+       "paywallQuestionOne": "What consequences would an AfD election victory have for German politics?",
+       "paywallQuestionTwo": "How could the AfD influence state institutions?",
+       "paywallQuestionThree": "Why is the firewall against the AfD failing in Saxony-Anhalt?",
+       "characterCount": 9848,
+       "product": "NZZ.ch",
+       "documentId": 10020118,
+       "layout": "regular",
+       "publicationDate": "2026-08-23T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-23T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+       "teaserCaption": "In two weeks, a new state parliament will be elected in the eastern German state. Afterward, the Federal Republic as we knew it — stable, clear, reliable — could be over.",
+       "authorLine": "Markus Bernath",
+       "authorImage": {
+        "originalUrl": "/2024/12/14/84702fa6-b235-4db3-b2d7-56dbf8e51fbc.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/14/84702fa6-b235-4db3-b2d7-56dbf8e51fbc.png?width=1024&quality=75&auto=webp",
+        "width": 423,
+        "height": 468,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "423,423,x0,y23"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/14/84702fa6-b235-4db3-b2d7-56dbf8e51fbc.png?width=1024&quality=75&auto=webp",
+       "url": "/international/merz-wackelt-die-spd-geht-unter-die-deutsche-empoerungsmaschine-laeuft-auf-hochtouren-was-eine-regierungsuebernahme-der-afd-in-sachsen-anhalt-bewirken-wuerde-ld.10020118",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1435,
+       "leadText": "In two weeks, a new state parliament will be elected in the eastern German state. Afterward, the Federal Republic as we knew it — stable, clear, reliable — could be over.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pgk1ea9",
+      "content": {
+       "title": "Denmark as a role model? The German SPD debates the «firewall» against the AfD",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2025/09/13/86508a3a-3785-4c62-b232-725619105508.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/13/86508a3a-3785-4c62-b232-725619105508.jpg?width=1024&quality=75&auto=webp",
+        "width": 2398,
+        "height": 1598,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2398,1349,x0,y125"
+         },
+         {
+          "name": "4:3",
+          "crop": "2131,1598,x134,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1598,1598,x400,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1199,1598,x600,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2397,1598,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Former SPD Minister-President Torsten Albig recommends his party open itself to the right. The pushback was swift.",
+        "teaserAuthor": "imago"
+       },
+       "teaserAuthor": "imago",
+       "nzzId": "ld.10008381",
+       "readingTime": 180,
+       "paywallQuestionOne": "Should the SPD reconsider its stance towards the AfD?",
+       "paywallQuestionTwo": "How does the SPD react to Albig's proposal?",
+       "paywallQuestionThree": "What role does the AfD play in East Germany?",
+       "characterCount": 4323,
+       "product": "NZZ.ch",
+       "documentId": 10008381,
+       "layout": "regular",
+       "publicationDate": "2026-05-24T11:16:18.236Z",
+       "publicationLastUpdated": "2026-05-25T16:54:28.767Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-24T23:16:18.236Z",
+       "teaserCaption": "Former SPD Minister-President Torsten Albig recommends his party open itself to the right. The pushback was swift.",
+       "authorLine": "Oliver Maksan, Berlin",
+       "authorImage": {
+        "originalUrl": "/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/deutschland/daenemark-als-vorbild-die-deutsche-spd-debattiert-ueber-die-brandmauer-zur-afd-ld.10008381",
+       "department": {
+        "name": "Homepage (Germany)",
+        "path": "/deutschland"
+       },
+       "estimationWordCount": 658,
+       "leadText": "Former SPD Minister-President Torsten Albig recommends his party open itself to the right. The pushback was swift.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Germany's party system is at a dead end: It cannot remain as it is",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "flag": "The other view",
+  "showComments": true,
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/ade5c48a-670d-4fdd-9664-fb40a3d0a665.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/ade5c48a-670d-4fdd-9664-fb40a3d0a665.jpg?width=1024&quality=75&auto=webp",
+   "width": 8070,
+   "height": 5383,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "8070,4539,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "7177,5383,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "5383,5383,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "4037,5383,x0,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "8070,5380,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 1779,
+    "y": 1766
+   },
+   "imageService": "fastly",
+   "teaserCaption": "Germany's parliamentary system no longer adequately reflects the will of the voters. This harms the parties and the country. Alternatives to rigid coalitions should be considered.",
+   "teaserAuthor": "DPA"
+  },
+  "teaserAuthor": "DPA",
+  "nzzId": "ld.10020767",
+  "readingTime": 300,
+  "characterCount": 6395,
+  "breadcrumbs": [
+   {
+    "name": "The other view",
+    "path": "/der-andere-blick"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020767,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-25T02:30:00.000Z",
+  "publicationDate": "2026-08-25T02:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T07:45:42.366Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T14:30:00.000Z",
+  "teaserCaption": "Germany's parliamentary system no longer adequately reflects the will of the voters. This harms the parties and the country. Alternatives to rigid coalitions should be considered.",
+  "nzzAuthors": [
+   {
+    "id": 1629949,
+    "name": "Oliver Maksan",
+    "shortName": "oma",
+    "pianoId": "425818c2-ca3b-40f3-b83a-98de2e4273fb",
+    "external": false
+   }
+  ],
+  "authorLine": "Oliver Maksan, Berlin",
+  "authorImage": {
+   "originalUrl": "/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0",
+   "url": "https://img-msp-prod.nzz.ch/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 800
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1662381,
+    "name": "Oliver Maksan, Berlin",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/4dbb553e-222f-4098-b4e9-a33da033eaf5.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767",
+  "department": {
+   "name": "The other view",
+   "path": "/der-andere-blick"
+  },
+  "estimationWordCount": 924,
+  "leadText": "Germany's parliamentary system no longer adequately reflects the will of the voters. This harms the parties and the country. Alternatives to rigid coalitions should be considered.",
+  "nzzSummaryEN": "- Germany's party system is increasingly fragmented, and rigid coalitions no longer align well with voter preferences, complicating governance.\n- Flexible majorities and the inclusion of the AfD could strengthen parliamentary processes and pave the way for new decision-making approaches.\n- Other countries, like Denmark and Sweden, demonstrate that minority governments can be a viable alternative.",
+  "nzzSummaryDE": "- The German party system is becoming increasingly fragmented, and rigid coalitions are less and less in line with the will of the voters, which makes governing more difficult.\n Flexible majorities and the inclusion of the AfD could strengthen parliamentary work and enable new ways of making decisions.\n Other countries, such as Denmark and Sweden, show that minority governments can be a viable alternative.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "ad hoc alliances instead of rigid coalitions",
+  "nzzPrintSubtitle": "Germany's entrenched party system should consider occasional majorities as a way out of the impasse",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767",
+   "title": "Germany's party system: Minority government as a way out of the impasse",
+   "socialMediaTitle": "Germany's party system is at a dead end. Occasional majorities could be a way out",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/ade5c48a-670d-4fdd-9664-fb40a3d0a665.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=8070,4539,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2483291,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "traffic light coalition",
+    "slug": "/themen/ampelkoalition"
+   },
+   {
+    "name": "CDU",
+    "slug": "/themen/cdu"
+   },
+   {
+    "name": "AfD",
+    "slug": "/themen/afd"
+   },
+   {
+    "name": "SPD",
+    "slug": "/themen/spd"
+   },
+   {
+    "name": "Angela Merkel",
+    "slug": "/themen/angela-merkel"
+   },
+   {
+    "name": "German Bundestag",
+    "slug": "/themen/deutscher-bundestag"
+   },
+   {
+    "name": "Friedrich Merz",
+    "slug": "/themen/friedrich-merz"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 51,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Herald Rumi",
+     "text": "Merz is completing Merkel's work and rendering the CDU completely irrelevant. Merz is abolishing the CDU and achieving what the SPD, the Greens, and the FDP have already accomplished. And they will disappear behind the firewall.",
+     "created_at": "2026-08-26T04:06:12.606Z",
+     "like_count": 6,
+     "isPro": false,
+     "isNzz": false
+    },
+    {
+     "author_name": "",
+     "text": "",
+     "created_at": "2026-08-25T20:26:01.129Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10014084",
+    "ld.10020118",
+    "ld.10008381"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 403224,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "deutschland",
+   "name": "Germany",
+   "tagName": "Germany",
+   "qId": "Q183",
+   "seoTitle": "Germany – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:02:18.055Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/deutschland",
+   "size": 9442,
+   "relatedTopics": [
+    {
+     "name": "Ampel-Koalition",
+     "slug": "/themen/ampelkoalition"
+    },
+    {
+     "name": "CDU",
+     "slug": "/themen/cdu"
+    },
+    {
+     "name": "AfD",
+     "slug": "/themen/afd"
+    },
+    {
+     "name": "SPD",
+     "slug": "/themen/spd"
+    },
+    {
+     "name": "Angela Merkel",
+     "slug": "/themen/angela-merkel"
+    },
+    {
+     "name": "Deutscher Bundestag",
+     "slug": "/themen/deutscher-bundestag"
+    },
+    {
+     "name": "Friedrich Merz",
+     "slug": "/themen/friedrich-merz"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Moscow closes Goethe-Institutes, hardens tone toward Berlin",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Armin Arbeiter, Berlin",
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024&quality=75&auto=webp",
+     "width": 2823,
+     "height": 1825,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2823,1588,x0,y59"
+      },
+      {
+       "name": "4:3",
+       "crop": "2433,1825,x390,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1508,1508,x940,y49"
+      },
+      {
+       "name": "3:4",
+       "crop": "1369,1825,x953,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2738,1825,x85,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+     "teaserAuthor": "Ramil Sitdikov / Reuters"
+    },
+    "teaserAuthor": "Ramil Sitdikov / Reuters",
+    "nzzId": "ld.10022202",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Moscow closing the Goethe Institutes in response to German measures?",
+    "paywallQuestionTwo": "According to Russia, what evidence is missing in the case of the drone attack in Leipzig?",
+    "paywallQuestionThree": "How does the closure of the Goethe-Institut affect pro-European Russians?",
+    "characterCount": 4616,
+    "product": "NZZ.ch",
+    "documentId": "10022202",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T08:56:31.247Z",
+    "publicationLastUpdated": "2026-09-03T09:34:43.715Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T20:56:31.247Z",
+    "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "url": "https://www.nzz.ch/deutschland/politik/moskau-schliesst-die-goethe-institute-und-verschaerft-den-ton-gegenueber-berlin-ld.10022202",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 666,
+    "leadText": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Lonely Men of the East",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5152,
+     "height": 3440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5152,2898,x0,y423"
+      },
+      {
+       "name": "4:3",
+       "crop": "4587,3440,x283,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3440,3440,x259,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2580,3440,x467,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5152,3435,x0,y3"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+     "teaserAuthor": "Fabrizio Bensch / Reuters"
+    },
+    "teaserAuthor": "Fabrizio Bensch / Reuters",
+    "tags": [
+     "Pro: Fokus"
+    ],
+    "showComments": true,
+    "nzzId": "ld.10021328",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why are so many young women leaving East Germany?",
+    "paywallQuestionTwo": "How does the shortage of women affect society in East Germany?",
+    "paywallQuestionThree": "What role does the AfD play in the political mood in the East?",
+    "characterCount": 9768,
+    "product": "NZZ.ch",
+    "documentId": "10021328",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "authorLine": "Leon Hedgehog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/12/eb10e36e-8f54-4722-adf7-421086aa6dd9.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/in-ostdeutschland-fehlen-frauen-die-afd-profitiert-von-strukturellen-problemen-ld.10021328",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1479,
+    "premium": true,
+    "leadText": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Podcast «NZZ Machtspiel»",
+    "title": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y66"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course."
+    },
+    "showHeader": true,
+    "editor": "1867936",
+    "paywallQuestionOne": "How could the CDU become strategically capable of action by using red lines instead of firewalls?",
+    "paywallQuestionTwo": "Why does Andreas Rödder consider flexible majorities a viable government option for the future?",
+    "paywallQuestionThree": "How does Rödder assess the double standards in the debate about banning the AfD?",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 120,
+    "nzzId": "ld.10021940",
+    "characterCount": 2253,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021940",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:00:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:00:00.000Z",
+    "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "authorLine": "Utz Dräger",
+    "url": "https://www.nzz.ch/podcast/machtspiel/wie-kommt-die-cdu-aus-der-sackgasse-andreas-roedder-ld.10021940",
+    "department": {
+     "name": "Power play",
+     "path": "/podcast/machtspiel"
+    },
+    "estimationWordCount": 356,
+    "leadText": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserPodcastAuthor": "Florian Eder, Andreas Rödder",
+    "teaserPodcastDate": "03.09.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2585342-m-bb3033a2954d218684744abd1d123552.mp3",
+    "teaserPodcastDuration": "39",
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "German-Russian relations at an all-time low: Putin speaks of a «grave mistake» after German sanctions",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5128,
+     "height": 3419,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5128,2884,x0,y130"
+      },
+      {
+       "name": "4:3",
+       "crop": "4559,3419,x324,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3419,3419,x937,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2564,3419,x1364,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5128,3419,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+     "teaserAuthor": "Kristina Solovyova / Imago"
+    },
+    "teaserAuthor": "Kristina Solovyova / Imago",
+    "nzzId": "ld.10022027",
+    "readingTime": 240,
+    "paywallQuestionOne": "How do the sanctions affect German-Russian relations?",
+    "paywallQuestionTwo": "What specific countermeasures is Russia planning?",
+    "paywallQuestionThree": "How is the Kremlin reacting to the allegations regarding the drone incident?",
+    "characterCount": 5880,
+    "product": "NZZ.ch",
+    "documentId": "10022027",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:29:35.291Z",
+    "publicationLastUpdated": "2026-09-02T13:56:01.973Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:29:35.291Z",
+    "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "authorLine": "Volker Pabst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/deutsch-russische-beziehungen-am-tiefpunkt-putin-spricht-nach-deutschen-sanktionen-von-einem-schweren-fehler-ld.10022027",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 834,
+    "leadText": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020767",
+    "name": "Germany's party system is at a dead end: It cannot remain as it is",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Der andere Blick",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Germany's party system is at a dead end: It cannot remain as it is",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1629949,
+       "name": "Oliver Maksan",
+       "shortName": "oma",
+       "pianoId": "425818c2-ca3b-40f3-b83a-98de2e4273fb",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T02:30:00.000Z",
+     "updateTimestamp": "2026-08-25T07:45:42.366Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "The other view",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020767",
+   "pageType": "opinion",
+   "primaryCategory": "Der andere Blick",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Germany's party system: Minority government as a way out of the impasse",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/ade5c48a-670d-4fdd-9664-fb40a3d0a665.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=8070,4539,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Oliver Maksan, Berlin",
+  "description": "Germany's parliamentary system no longer adequately reflects the will of the voters. This harms the parties and the country. Alternatives to rigid coalitions should be considered.",
+  "news_keywords": "Germany's party system is at a dead end. It cannot remain as it is. (The other perspective, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T11:45:42+02:00",
+  "date": "2026-08-25T06:30:00+02:00",
+  "canonical": "https://www.nzz.ch/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "A DIFFERENT PERSPECTIVE - Germany's party system is at a dead end. It cannot remain as it is",
+  "ogTitle": "Germany's party system is at a dead end. Occasional majorities could be a way out",
+  "ogUrl": "https://www.nzz.ch/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767",
+  "mrf:cms_id": "nzz:ld.10020767",
+  "mrf:sections": "Der andere Blick",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020767",
+  "nzzAuthors": [
+   {
+    "id": 1629949,
+    "name": "Oliver Maksan",
+    "shortName": "oma",
+    "pianoId": "425818c2-ca3b-40f3-b83a-98de2e4273fb",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:07 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/der-andere-blick",
+      "name": "The other view"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Germany's party system: Minority government as a way out of the impasse"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767"
+   },
+   "headline": "Germany's party system: Minority government as a way out of the impasse",
+   "datePublished": "2026-08-25T06:30:00+02:00",
+   "dateModified": "2026-08-25T11:45:42+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Germany's parliamentary system no longer adequately reflects the will of the voters. This harms the parties and the country. Alternatives to rigid coalitions should be considered.",
+   "isAccessibleForFree": false,
+   "articleSection": "Der andere Blick",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/ade5c48a-670d-4fdd-9664-fb40a3d0a665.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=8070,4539,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Oliver Maksan"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 403224,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/der-andere-blick/deutschlands-parteiensystem-steckt-in-der-sackgasse-wie-es-ist-kann-es-nicht-bleiben-ld.10020767",
+    "classification=default",
+    "relevance=germany",
+    "layout=opinion",
+    "der-andere-blick",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020767",
+    "channel=Der andere Blick"
+   ],
+   "ContentCreated": "2026-08-25T02:30:00.000Z",
+   "ContentAuthor": "Oliver Maksan, Berlin",
+   "ContentSection": "Der andere Blick",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie beeinflusst die Fragmentierung das deutsche Parteiensystem?\nWarum sind flexible Mehrheiten eine mögliche Lösung?\nWelche Rolle spielt die AfD in der politischen Sackgasse?",
+   "ldId": "ld.10020767",
+   "channel": "Der andere Blick",
+   "heading": "Deutschlands Parteiensystem steckt in der Sackgasse. Wie es ist, kann es nicht bleiben",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

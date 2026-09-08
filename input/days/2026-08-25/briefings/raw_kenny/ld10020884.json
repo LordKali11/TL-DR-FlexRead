@@ -1,0 +1,1182 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0rh0f7b1",
+   "content": {
+    "title": "Tuesday Morning Briefing",
+    "lead": "<strong>The most important news to start the day:</strong> Newly approved weight loss drugs in Germany ++ Europe's support for Ukraine ++ Tesla's Cybercabs in Austin",
+    "author": ""
+   },
+   "position": "fixed",
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqib7v0",
+   "content": {
+    "text": "<strong>Read this only in the NZZ:</strong> Leticia Wong and her partner sold books in Hong Kong. Then they went to prison. The accusation: The prosecution said they had carried «seditious works.» In the past 12 months, Hong Kong law enforcement authorities arrested at least 11 booksellers. The psychogram of a city on the verge of losing its soul: <a href=\"https://www.nzz.ch/ld.10018914\">Read the «NZZ Pro» report here</a><a href=\"https://www.nzz.ch/ld.10018914\"></a>"
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-a9b9fe07",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqje3p0",
+   "content": {
+    "title": "The Most Important News This Morning",
+    "id": "subtitle-das-wichtigste-am-morgen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqjsuh0",
+   "content": {
+    "title": "Germany's first weight-loss pill available from September",
+    "id": "subtitle-ab-september-ist-in-deutschland-die-erste-pille-zum-abnehmen-erh-ltlich"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ju7ocipg0",
+   "content": {
+    "image": {
+     "author": "Hannah Beier / Reuters",
+     "caption": "",
+     "originalUrl": "/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1024",
+     "width": 5472,
+     "height": 3648,
+     "altText": "A person poses with a Wegovy (semaglutide) tablet in this illustration picture taken in Schwenksville, Pennsylvania, US June 16, 2026. REUTERS/Hannah Beier",
+     "imageService": "fastly"
+    },
+    "author": "Hannah Beier / Reuters",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk0lk0",
+   "content": {
+    "text": "<strong>What happened:</strong> Anyone in Germany who wants to take a weight-loss drug can take one tablet daily starting in September. It contains the same active ingredient as the weekly Ozempic or Wegovy injections. Like these, the preparation is approved for overweight or obese patients who already have a weight-related comorbidity. The tablet is already prescribed as a treatment for type 2 diabetes. <a href=\"https://www.nzz.ch/ld.10018895\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk3tu0",
+   "content": {
+    "text": "<strong>Why it matters: </strong>Health insurance funds cover costs only for diabetics. Many patients lose 10 to 15 kilograms of body weight with injections under real-world conditions, but only about half continue a year after starting therapy. Those who do not continue permanently regain the lost kilograms. This is unlikely to change significantly with the tablets. Side effects primarily include gastrointestinal issues such as nausea, diarrhea, vomiting or constipation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqkj090",
+   "content": {
+    "title": "London reaffirms support on Ukraine's Independence Day",
+    "id": "subtitle-zum-unabh-ngigkeitstag-der-ukraine-untermauert-london-seine-unterst-tzung"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk71p0",
+   "content": {
+    "text": "<strong>What happened:</strong> Ukraine marked the 35th anniversary of its independence yesterday. In his address, President Volodymyr Zelenskyy emphasized his country's will to resist: «Ukraine wants peace but is not ready to simply surrender.» He called on partners for more support, especially for air defense. The most important pledge of the day concerned offensive weapons. Great Britain gave the green light for the transfer of crucial armaments technology. <a href=\"https://www.nzz.ch/international/35-jahre-ukrainische-unabhaengigkeit-selenski-fordert-mehr-unterstuetzung-ld.10020761\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r67qrg0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Russia strongly condemned the fact that the Storm Shadow/Scalp cruise missile, based on British and French technology, can soon be produced in Ukraine. The guided missile has a range of 250 kilometers. «Great Britain is part of the war and regularly pours oil on the fire,» a Kremlin spokesperson said. Germany still opposes the delivery of the comparable Taurus cruise missile to Ukraine."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r5t4490",
+   "content": {
+    "text": "<strong>Background: </strong>After the official celebrations, the so-called Coalition of the Willing held a hybrid meeting. The meeting was chaired by British Prime Minister Andy Burnham, who made his first foreign trip since taking office in Kyiv. Chancellor Friedrich Merz, like French President Emmanuel Macron and many others, participated via video. The U.S. was not represented. <a href=\"https://www.nzz.ch/ld.10009803\">Follow the live ticker</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r6a67i1",
+   "content": {
+    "text": "<strong>This was what the celebrations in the heart of Kyiv looked like:</strong> <a href=\"https://www.nzz.ch/shorts/die-ukraine-feiert-den-35-jahrestag-ihrer-unabhaengigkeit-ld.10020866\">Watch the video</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlql0jn0",
+   "content": {
+    "title": "What Else Happened",
+    "id": "subtitle-was-sonst-noch-passiert-ist"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqiffn0",
+   "content": {
+    "text": "<strong>In the economic war against Iran, the U.S. government is now suddenly relying on «quiet diplomacy»:</strong> U.S. Treasury Secretary Scott Bessent is refraining for now from imposing sanctions on Iran's trading partners. He wants to give the affected states one last chance – after previously threatening to bring Tehran to its knees. <a href=\"https://www.nzz.ch/international/iran-krieg/usa-wollen-einnahmequellen-irans-trockenlegen-ld.10020878\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r88ssb0",
+   "content": {
+    "text": "<strong>U.S. Supreme Court temporarily allows Trump's mail-in ballot plans:</strong> Just over two months before the American parliamentary elections, the Supreme Court on Monday lifted a temporary blockade of President Donald Trump's plans to tighten mail-in voting rules. Although a final decision on the matter is still pending, the administration can at least provisionally continue to pursue its plans. <a href=\"https://www.nzz.ch/ld.1856621\">Read the latest developments</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqms3k0",
+   "content": {
+    "text": "<strong>Canada breaks off customs negotiations with the U.S.:</strong> The neighboring country left the negotiating table and suspended ongoing negotiations for a customs agreement. U.S. President Trump then announced on Monday that he would increase punitive tariffs on cars, auto parts and steel from Canada. <a href=\"https://www.nzz.ch/ld.10020779\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqnjlm0",
+   "content": {
+    "title": "Our Recommendations Today",
+    "id": "subtitle-das-empfehlen-wir-heute"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jqlqo04q0",
+   "content": {
+    "image": {
+     "author": "Instagram",
+     "caption": "",
+     "originalUrl": "/2026/08/24/3f5ef17a-ee5f-4dc8-84b5-baed6488ca30.webp?width=1024",
+     "width": 1440,
+     "height": 1440,
+     "imageService": "fastly"
+    },
+    "author": "Instagram",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo2lq0",
+   "content": {
+    "text": "<strong>Poetic adventure: </strong>The Count of Velhoco, a district on the Canary Island of La Palma, hated official letters and bills. One day, when he had had enough, he wrote on his mailbox: «Solo cartas de amor» – only love letters. Indeed, people began to drop only love letters into it. Three years ago, the Count died. Since his death, his daughter has continued this unusual legacy. <a href=\"https://www.nzz.ch/ld.10018697\">Read the background story</a><a href=\"https://www.nzz.ch/ld.10018697\"></a><a href=\"https://www.nzz.ch/ld.10018914\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo6pr0",
+   "content": {
+    "text": "<strong>Autonomous driving: </strong>Another vehicle without a steering wheel and pedals will soon be driving on U.S. roads: Tesla plans to launch its new Cybercabs in Austin this month. They play a key role in CEO Elon Musk's plan to dominate the robotaxi market. The company is pursuing a different strategy than its competitors. <a href=\"https://www.nzz.ch/ld.10020472\">Read the background story</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoabg0",
+   "content": {
+    "text": "<strong>Europe's dangerous missile gap:</strong> The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates the deficit. This is more than a gap in the arsenal: Against an adversary like Russia, which possesses a large arsenal of ballistic missiles, Europe lacks precisely those conventional options that lie between merely intercepting an attack and a significantly higher level of escalation. <a href=\"https://www.nzz.ch/ld.10018958\">Read the «NZZ Pro» background story</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqodt40",
+   "content": {
+    "title": "Our Recommendation for «The Market» Subscribers",
+    "id": "subtitle-unsere-empfehlung-f-r-the-market-abonnenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoibo0",
+   "content": {
+    "text": "<strong>Record profits with pitfalls: </strong>AI investments are driving a surge in profits in the U.S. In Europe, the profits of energy companies are inflating the overall result. But for strong earnings growth to continue for a while, many things must align. <a href=\"https://themarket.ch/makro-maerkte/diesmal-droht-die-blase-bei-den-gewinnen-ld.17529\">Read the analysis</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqours0",
+   "content": {
+    "title": "Before You Go On",
+    "id": "subtitle-bevor-sie-weitergehen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpnda0",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Ukraine handles a significant portion of its exports through the ports around Odesa. Now, Russia is intensifying its attacks on the region. Far from the front, a decisive battle is being fought here. It is about Ukraine's economic survival. Foreign correspondent Jonas Roth traveled to Odesa to get a picture. In «NZZ Akzent,» he describes how the city is trying to defend itself against Russia. <a href=\"https://www.nzz.ch/ld.10020514\">Listen to the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpro70",
+   "content": {
+    "text": "<strong>📖 Read:</strong> «The Oyster» is a novel of brilliant reflections. Yael Inokai, the writer born in Basel and living in Berlin, begins her work with sharply etched scenes. What follows is a crime novel set under Berlin's gray winter sky and, at the same time, a highly literary mystery. <a href=\"https://www.nzz.ch/ld.10020734\">Read the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpvb00",
+   "content": {
+    "text": "We wish you a good start to the day.<br>Ulrike Putz, Klaus Bardenhagen, and Lillybelle Eisele"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k0rh0f7d0",
+   "content": {
+    "text": "The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Tuesday Morning Briefing",
+  "dependencies": {},
+  "nzzId": "ld.10020884",
+  "teaserImage": {
+   "originalUrl": "/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1024&quality=75&auto=webp",
+   "width": 5472,
+   "height": 3648,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5472,3078,x0,y285"
+    },
+    {
+     "name": "4:3",
+     "crop": "4864,3648,x304,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3648,3648,x912,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2736,3648,x1368,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5472,3648,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The most important news to start the day: Newly approved weight-loss drugs in Germany ++ Europe's support for Ukraine ++ Tesla's Cybercabs in Austin",
+   "teaserAuthor": "Hannah Beier / Reuters"
+  },
+  "teaserAuthor": "Hannah Beier / Reuters",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 300,
+  "characterCount": 6696,
+  "product": "NZZ.ch",
+  "documentId": 10020884,
+  "contentTypeGroup": "web",
+  "layout": "briefing-intl",
+  "firstPublicationDate": "2026-08-25T03:59:11.719Z",
+  "publicationDate": "2026-08-25T03:59:11.719Z",
+  "publicationLastUpdated": "2026-08-25T03:59:23.570Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:59:11.719Z",
+  "teaserCaption": "The most important news to start the day: Newly approved weight-loss drugs in Germany ++ Europe's support for Ukraine ++ Tesla's Cybercabs in Austin",
+  "breadcrumbs": [],
+  "nzzAuthors": [
+   {
+    "id": 1594437,
+    "name": "Klaus Bardenhagen",
+    "shortName": "kbh",
+    "external": false
+   }
+  ],
+  "authorLine": "",
+  "url": "/briefing-am-dienstagmorgen-ld.10020884",
+  "department": {},
+  "estimationWordCount": 1003,
+  "leadText": "The most important news to start the day: Newly approved weight-loss drugs in Germany ++ Europe's support for Ukraine ++ Tesla's Cybercabs in Austin",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/briefing-am-dienstagmorgen-ld.10020884",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/briefing-am-dienstagmorgen-ld.10020884",
+   "title": "Tuesday Morning Briefing",
+   "socialMediaTitle": "Tuesday Morning Briefing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5472,3078,x0,y285&wmark=nzz"
+  },
+  "ldPublicationId": 2483185,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   },
+   {
+    "name": "Tesla",
+    "slug": "/themen/tesla"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Great Britain",
+    "slug": "/themen/grossbritannien"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Donald Trump",
+    "slug": "/themen/donald-trump"
+   },
+   {
+    "name": "Iran",
+    "slug": "/themen/iran"
+   },
+   {
+    "name": "Kyiv",
+    "slug": "/themen/kiew"
+   },
+   {
+    "name": "Volodymyr Zelensky",
+    "slug": "/themen/wolodimir-selenski"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 301320,
+  "colorSchema": "color-schema--briefing",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "ukraine",
+   "name": "Ukraine",
+   "tagName": "Ukraine",
+   "qId": "Q212",
+   "seoTitle": "Ukraine News – Current news and all articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 16:41:52.979Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/ukraine",
+   "size": 6513,
+   "relatedTopics": [
+    {
+     "name": "Tesla",
+     "slug": "/themen/tesla"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Grossbritannien",
+     "slug": "/themen/grossbritannien"
+    },
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    },
+    {
+     "name": "Donald Trump",
+     "slug": "/themen/donald-trump"
+    },
+    {
+     "name": "Iran",
+     "slug": "/themen/iran"
+    },
+    {
+     "name": "Kiew",
+     "slug": "/themen/kiew"
+    },
+    {
+     "name": "Wolodimir Selenski",
+     "slug": "/themen/wolodimir-selenski"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Interactive",
+    "title": "All attacks and reconquests of the past four years of war – click through our map",
+    "teaserImage": {
+     "originalUrl": "/2026/05/08/de4d6a3f-2f39-4298-b576-16f5c5b2c454.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/08/de4d6a3f-2f39-4298-b576-16f5c5b2c454.jpg?width=1024&quality=75&auto=webp",
+     "width": 2404,
+     "height": 1658,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2404,1352,x0,y153"
+      },
+      {
+       "name": "4:3",
+       "crop": "2211,1658,x97,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1658,1658,x373,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1244,1658,x580,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2404,1603,x0,y28"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "For four years, the NZZ has been mapping the war in Ukraine daily. Click through to see all the important events in the Russian war of aggression.",
+     "teaserAuthor": "Gleb Garanich / REUTERS"
+    },
+    "teaserAuthor": "Gleb Garanich / REUTERS",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1671603",
+    "embeds": {
+     "videos": [
+      {
+       "id": "HrGlLm9i",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 5,
+       "sources": []
+      }
+     ]
+    },
+    "readingTime": 300,
+    "authorLine": "NZZ Visuals",
+    "videoTeaser": "HrGlLm9i",
+    "tags": [
+     "Visuals",
+     "Ukraine-Krieg"
+    ],
+    "paywallQuestionOne": "How does the NZZ verify events for its Ukraine map?",
+    "paywallQuestionTwo": "Why does the NZZ refer to occupied territories as 'occupied by Russia'?",
+    "paywallQuestionThree": "What data sources does the NZZ use for its Ukraine map?",
+    "characterCount": 7394,
+    "product": "NZZ.ch",
+    "documentId": "1671603",
+    "layout": "headlesslongformvisual",
+    "publicationDate": "2026-09-02T06:16:41.331Z",
+    "publicationLastUpdated": "2026-09-02T07:42:19.751Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-02T18:16:41.331Z",
+    "teaserCaption": "For four years, the NZZ has been mapping the war in Ukraine daily. Click through to see all the important events in the Russian war of aggression.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/ukraine-krieg-karte-zum-aktuellen-frontverlauf-ld.1671603",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 1077,
+    "leadText": "For four years, the NZZ has been mapping the war in Ukraine daily. Click through to see all the important events in the Russian war of aggression.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "War in Ukraine: Kyiv reports numerous deaths after Russian attacks +++ Zelenskyy calls for tougher sanctions against Russia",
+    "teaserImage": {
+     "originalUrl": "/2026/05/14/bf6fdde9-abac-456a-8fc5-2f3c5c019dcd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/14/bf6fdde9-abac-456a-8fc5-2f3c5c019dcd.jpg?width=1024&quality=75&auto=webp",
+     "width": 1280,
+     "height": 960,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1280,720,x0,y120"
+      },
+      {
+       "name": "4:3",
+       "crop": "1280,960,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "960,960,x160,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "720,960,x280,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1280,853,x0,y53"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news on the war in Ukraine at a glance",
+     "teaserAuthor": "State Emergency Service of Ukraine / Handout"
+    },
+    "teaserAuthor": "State Emergency Service of Ukraine / Handout",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1613540",
+    "embeds": {
+     "videos": [
+      {
+       "id": "zU6P6Ya8",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 49,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/zU6P6Ya8-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      },
+      {
+       "id": "wEMNJM3O",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 51,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/wEMNJM3O-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "readingTime": 1440,
+    "showComments": false,
+    "authorLine": "NZZ Newsroom",
+    "videoTeaser": "",
+    "paywallQuestionOne": "What was the impact of Ukrainian drones on Russian infrastructure?",
+    "paywallQuestionTwo": "What role does Europol play in the search for abducted children?",
+    "paywallQuestionThree": "How is Belarus reacting to Ukraine's warnings regarding participation in the war?",
+    "characterCount": 31290,
+    "product": "NZZ.ch",
+    "documentId": "1613540",
+    "layout": "regular",
+    "publicationDate": "2026-05-15T02:43:55.006Z",
+    "publicationLastUpdated": "2026-08-23T07:53:39.803Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-05-15T14:43:55.006Z",
+    "teaserCaption": "The latest news on the war in Ukraine at a glance",
+    "url": "https://www.nzz.ch/international/krieg-in-der-ukraine-die-neusten-entwicklungen-ld.1613540",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 4808,
+    "leadText": "The latest news on the war in Ukraine at a glance",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "«Switzerland is also a strategic target for Russia»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserAuthor": "Diego Fedele / Getty",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/1e828ab3-c33d-47a3-87af-992514986a7a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/1e828ab3-c33d-47a3-87af-992514986a7a.jpg?width=1024&quality=75&auto=webp",
+     "width": 4405,
+     "height": 2937,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4405,2478,x0,y459"
+      },
+      {
+       "name": "4:3",
+       "crop": "3916,2937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2937,2937,x217,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2203,2937,x720,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4405,2937,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+     "teaserAuthor": "Diego Fedele / Getty"
+    },
+    "nzzId": "ld.10020535",
+    "readingTime": 540,
+    "paywallQuestionOne": "How vulnerable is Switzerland to Russian attack plans?",
+    "paywallQuestionTwo": "Why does neutrality offer no protection in the event of war?",
+    "paywallQuestionThree": "What measures does Switzerland need by 2029?",
+    "characterCount": 12716,
+    "product": "NZZ.ch",
+    "documentId": "10020535",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+    "authorLine": "Meret Baumann, Selina Berner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/auch-die-schweiz-ist-fuer-russland-ein-strategisches-ziel-ld.10020535",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 1898,
+    "leadText": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A poetic history lesson from 1990: Yuri Andrukhovych exposes the Russian malaise",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Ilma Rakusa",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2022/11/18/fa919684-a147-4c88-928e-2d741402613d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/11/18/fa919684-a147-4c88-928e-2d741402613d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 3648,
+     "height": 5472,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3648,2052,x0,y1710"
+      },
+      {
+       "name": "4:3",
+       "crop": "3648,2736,x0,y1368"
+      },
+      {
+       "name": "1:1",
+       "crop": "3648,3648,x0,y912"
+      },
+      {
+       "name": "3:4",
+       "crop": "3648,4864,x0,y304"
+      },
+      {
+       "name": "3:2",
+       "crop": "3648,2432,x0,y1520"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With his novels, Juri Andruchowytsch, born in Stanislav in 1960, paved the way for Ukrainian literature in German-speaking countries. Little is known, however, about his body of lyrical work, which holds eye-opening discoveries."
+    },
+    "nzzId": "ld.10017480",
+    "readingTime": 180,
+    "paywallQuestionOne": "What facets does Andrukhovych's poetry collection «Letters to Ukraine» reveal?",
+    "paywallQuestionTwo": "How does the series «Letters to Ukraine» reflect current political tensions?",
+    "paywallQuestionThree": "What themes and stylistic devices characterize Andrukhovych's poems?",
+    "characterCount": 3506,
+    "product": "NZZ.ch",
+    "documentId": "10017480",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "With his novels, Juri Andruchowytsch, born in Stanislav in 1960, paved the way for Ukrainian literature in German-speaking countries. Little is known, however, about his body of lyrical work, which holds eye-opening discoveries.",
+    "url": "https://www.nzz.ch/feuilleton/barocker-ernst-juri-andruchowytschs-gedichtband-briefe-in-die-ukraine-ld.10017480",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 559,
+    "leadText": "With his novels, Juri Andruchowytsch, born in Stanislav in 1960, paved the way for Ukrainian literature in German-speaking countries. Little is known, however, about his body of lyrical work, which holds eye-opening discoveries.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Zelensky issues harsh threat – with unforeseeable consequences",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/d31b7f63-a693-40e2-bf48-af30219f3d74.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/d31b7f63-a693-40e2-bf48-af30219f3d74.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2857,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y346"
+      },
+      {
+       "name": "4:3",
+       "crop": "3809,2857,x191,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2857,2857,x953,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2143,2857,x1296,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y55"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "So many Ukrainian drones are reportedly appearing in the skies over Russia that civilian aviation is becoming impossible. The Kremlin considers this a declaration of state terrorism. But Ukrainians do not need to shoot down planes to paralyze air traffic.",
+     "teaserAuthor": "Nurphoto/Getty"
+    },
+    "teaserAuthor": "Nurphoto/Getty",
+    "tags": [
+     "Ukraine-Krieg"
+    ],
+    "nzzId": "ld.10022044",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does Ukraine intend to make Russian airspace unsafe?",
+    "paywallQuestionTwo": "What risks does the strategy pose for civilians?",
+    "paywallQuestionThree": "How are airlines reacting to the Ukrainian threat?",
+    "characterCount": 5590,
+    "product": "NZZ.ch",
+    "documentId": "10022044",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T06:29:31.383Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "So many Ukrainian drones are reportedly appearing in the skies over Russia that civilian aviation is becoming impossible. The Kremlin considers this a declaration of state terrorism. But Ukrainians do not need to shoot down planes to paralyze air traffic.",
+    "authorLine": "Andreas Rüesch",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/23/b6be8592-31cf-4a48-b022-81e3c315218a.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/ukraine-selenski-will-russlands-flugverkehr-unterbinden-ld.10022044",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 831,
+    "premium": true,
+    "leadText": "So many Ukrainian drones are reportedly appearing in the skies over Russia that civilian aviation is becoming impossible. The Kremlin considers this a declaration of state terrorism. But Ukrainians do not need to shoot down planes to paralyze air traffic.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020884",
+    "name": "Tuesday Morning Briefing",
+    "type": "article",
+    "subType1": "briefing-intl",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Tuesday Morning Briefing",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1594437,
+       "name": "Klaus Bardenhagen",
+       "shortName": "kbh",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:59:11.719Z",
+     "updateTimestamp": "2026-08-25T03:59:23.570Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020884",
+   "pageType": "briefing-intl",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Tuesday Morning Briefing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5472,3078,x0,y285&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "The most important news to start the day: Newly approved weight-loss drugs in Germany ++ Europe's support for Ukraine ++ Tesla's Cybercabs in Austin",
+  "news_keywords": "Tuesday morning briefing, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T07:59:23+02:00",
+  "date": "2026-08-25T07:59:11+02:00",
+  "canonical": "https://www.nzz.ch/briefing-am-dienstagmorgen-ld.10020884",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Tuesday Morning Briefing",
+  "ogTitle": "Tuesday Morning Briefing",
+  "bookmarkTitle": "NZZ Briefing",
+  "ogUrl": "https://www.nzz.ch/briefing-am-dienstagmorgen-ld.10020884",
+  "mrf:cms_id": "nzz:ld.10020884",
+  "mrf:tags": "Page Type:briefing-intl;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020884",
+  "nzzAuthors": [
+   {
+    "id": 1594437,
+    "name": "Klaus Bardenhagen",
+    "shortName": "kbh",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/briefing-am-dienstagmorgen-ld.10020884"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:22 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/briefing-am-dienstagmorgen-ld.10020884"
+   },
+   "headline": "Tuesday Morning Briefing",
+   "datePublished": "2026-08-25T07:59:11+02:00",
+   "dateModified": "2026-08-25T07:59:23+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The most important news to start the day: Newly approved weight-loss drugs in Germany ++ Europe's support for Ukraine ++ Tesla's Cybercabs in Austin",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5472,3078,x0,y285&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Klaus Bardenhagen"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 301320,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/briefing-am-dienstagmorgen-ld.10020884",
+    "classification=default",
+    "relevance=default",
+    "layout=briefing-intl",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020884"
+   ],
+   "ContentCreated": "2026-08-25T03:59:11.719Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "briefing-intl",
+   "ldId": "ld.10020884",
+   "heading": "Briefing am Dienstagmorgen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

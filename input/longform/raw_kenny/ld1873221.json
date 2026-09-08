@@ -1,0 +1,1598 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1il43isrm0",
+   "content": {
+    "title": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+    "lead": "At the beginning of the year, health insurance contributions in Germany rose exceptionally sharply. The next government must agree on bold reforms, otherwise either the contributions or the tax-funded federal subsidies will continue to increase.",
+    "authorline": "René Höltschi, Berlin, Michael Rasch, Frankfurt",
+    "author": "René Höltschi, Berlin, Michael Rasch, Frankfurt"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1imi85it90",
+   "content": {
+    "image": {
+     "author": "Erwin Wodicka / Imago",
+     "caption": "The health system needs help: The aging of the German population contributes to a steady increase in health costs, which in turn is reflected in increasing health insurance premiums.",
+     "originalUrl": "/2025/03/17/136ddf2a-8571-47fc-b43a-83cda35021a1.jpeg?width=1024",
+     "width": 5616,
+     "height": 3744,
+     "altText": "Hospital bed in a clinic. Hospital bed in a hospital. Bedside in the hospital. Austria. Copyright: imageBROKER/ErwinxWodicka ibxiqx12026780.jpg, model released, stock photo, property released. Please observe the legal provisions of German copyright law regarding the attribution of the photographer in the immediate vicinity of the publication",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2167389365"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The health system needs help: The aging of the German population contributes to a steady increase in health costs, which in turn is reflected in increasing health insurance premiums.",
+    "author": "Erwin Wodicka / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1il43isrm1",
+   "content": {
+    "text": "Those in Germany who have statutory health insurance, which is around 90 percent of the population, experienced an unpleasant surprise at the beginning of the year: «Premiums have virtually exploded at the beginning of 2025, for both those with statutory and private insurance. We have never seen anything like this before,» says Eberhard Sautter, CEO of the insurance company Hanse-Merkur, which offers, among other things, private health insurance."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-3b7d4471",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilom9lck1",
+   "content": {
+    "text": "For employees with statutory health insurance and an annual income of 66,150 euros or more, the monthly contribution, including social long-term care insurance, rose by an average of 11.8 percent to 1,174 euros across all statutory health insurance funds, according to Sautter."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1ilof4prg0",
+   "content": {
+    "title": "Special factors reinforce the long-term trend",
+    "id": "subtitle-sonderfaktoren-verst-rken-langfristigen-trend"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1illvvgf40",
+   "content": {
+    "text": "Jürgen Wasem, Professor of Medical Management at the University of Duisburg-Essen, attributes the particularly strong increase in premiums this year primarily to three special factors: First, the assessment of developments when setting premiums for 2024 at the end of 2023 was too optimistic, resulting in a backlog now being felt. Second, at the end of 2022, policymakers forced health insurance funds to finance current expenses from reserves, which is no longer possible. Third, the federal subsidy to health insurance funds has been reduced."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "infobox-advanced"
+  },
+  {
+   "identifier": "infobox-advanced",
+   "id": "doc-1ilm2pcm10",
+   "content": {
+    "title": "The statutory health insurance (GKV)"
+   },
+   "containers": {
+    "infobox": [
+     {
+      "identifier": "p-text",
+      "id": "doc-1ilm2pcm21",
+      "content": {
+       "text": "In Germany, employees earning up to €73,800 per year (the income threshold for mandatory health insurance) are required to have <a target=\"_blank\" href=\"https://www.gkv-spitzenverband.de/krankenversicherung/kv_grundprinzipien/gkv_grundprinzipien.jsp\">statutory health insurance (GKV)</a> . Currently, there are 94 health insurance funds, all of which are public corporations. Unlike the Swiss system of flat-rate premiums, contributions are based on the principle of solidarity and depend on salary. They currently amount to 14.6 percent of gross salary, plus a supplementary contribution that varies depending on the fund and averages 2.91 percent of salary. An additional 3.6 percent contribution is added for long-term care insurance, which increases by a further 0.6 percentage points for those without children (all figures for 2025). Contributions do not increase for annual incomes above €66,150 (the contribution assessment ceiling). All contributions (except the supplement for those without children) are shared equally by the employee and the employer (or, in the case of pensioners, by the pension insurance provider) and are therefore part of the non-wage labor costs. The statutory health insurance system (GKV) operates on a pay-as-you-go basis: current costs are covered by current income."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilm2ms8r0",
+   "content": {
+    "text": "These special factors have further accentuated a long-term trend of rising contributions. According to Wasem, this trend arises because the costs to be covered by statutory health insurance (GKV) are chronically rising faster than the wages, salaries, and pensions subject to contributions. The former have been growing faster than economic output (measured by gross domestic product per capita) for years, while the latter has been growing more slowly."
+   },
+   "paidContent": true,
+   "prevElement": "infobox-advanced",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1iluetaol0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "6c5b5226f32de00cf7992d5853f6d590",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_6c5b5226f32de00cf7992d5853f6d590_q0adc035c8dfa4a27b34613f93b180b4e_container\"        data-q-item-id=\"6c5b5226f32de00cf7992d5853f6d590\"        data-q-request-id=\"27bc20ca4e414d585c861ba54489643617d3cfcb\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"6c5b5226f32de00cf7992d5853f6d590\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"6c5b5226f32de00cf7992d5853f6d590\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"27bc20ca4e414d585c861ba54489643617d3cfcb\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_6c5b5226f32de00cf7992d5853f6d590_q0adc035c8dfa4a27b34613f93b180b4e_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"6c5b5226f32de00cf7992d5853f6d590\",\"allowDownloadData\":false,\"title\":\"The scissors open\",\"subtitle\":\"Development of the sum of wages and pensions from which the statutory health insurance is financed and the expenditures financed by the statutory health insurance (1991=100)\",\"publication\":\"nzz\",\"acronym\":\"Ht.\",\"data\":[[\"Year\",\"Contribution-liable income / member\",\"Statutory health insurance benefit expenditure / member\",\"Nominal GDP per capita\"],[\"1991\",\"100.0\",\"100.0\",\"100.0\"],[\"1992\",\"108.7\",\"113.8\",\"106.5\"],[\"1993\",\"115.0\",\"114.3\",\"109.2\"],[\"1994\",\"119.2\",\"124.5\",\"113.9\"],[\"1995\",\"119.7\",\"130.9\",\"117.7\"],[\"1996\",\"121.1\",\"134.9\",\"119.2\"],[\"1997\",\"121.9\",\"131.9\",\"121.7\"],[\"1998\",\"123.5\",\"134.3\",\"125.2\"],[\"1999\",\"125.4\",\"137.1\",\"128.0\"],[\"2000\",\"127.8\",\"139.9\",\"130.9\"],[\"2001\",\"129.6\",\"145.2\",\"134.6\"],[\"2002\",\"130.3\",\"149.4\",\"136.2\"],[\"2003\",\"130.1\",\"152.2\",\"137.2\"],[\"2004\",\"131.7\",\"146.9\",\"140.6\"],[\"2005\",\"133.0\",\"151.7\",\"142.3\"],[\"2006\",\"133.7\",\"155.8\",\"148.7\"],[\"2007\",\"134.7\",\"161.4\",\"156.3\"],[\"2008\",\"137.8\",\"167.5\",\"159.8\"],[\"2009\",\"138.4\",\"176.1\",\"154.0\"],[\"2010\",\"141.1\",\"181.4\",\"161.7\"],[\"2011\",\"143.6\",\"184.5\",\"169.6\"],[\"2012\",\"147.5\",\"187.7\",\"172.5\"],[\"2013\",\"151.4\",\"196.7\",\"176.0\"],[\"2014\",\"155.5\",\"206.3\",\"182.3\"],[\"2015\",\"158.2\",\"210.3\",\"186.4\"],[\"2016\",\"159.5\",\"212.5\",\"192.1\"],[\"2017\",\"164.1\",\"217.0\",\"198.2\"],[\"2018\",\"170.0\",\"224.0\",\"204.5\"],[\"2019\",\"175.9\",\"235.5\",\"209.7\"],[\"2020\",\"178.6\",\"243.7\",\"202.6\"],[\"2021\",\"184.1\",\"257.4\",\"218.7\"],[\"2022\",\"190.7\",\"266.0\",\"231.7\"],[\"2023\",\"198.8\",\"277.5\",\"246.1\"],[\"2024\",\"208.9\",\"293.6\",\"\"],[\"2025\",\"219.0\",\"310.6\",\"\"]],\"sources\":[{\"text\":\"Jürgen Wasem (University of Duisburg-Essen)\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":true,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false,\"minValue\":80},\"largeNumbers\":{\"divideBy\":0}},\"updatedDate\":\"2025-03-17T13:20:41.291Z\",\"notes\":\"\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_6c5b5226f32de00cf7992d5853f6d590_q0adc035c8dfa4a27b34613f93b180b4e\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilo3fqml1",
+   "content": {
+    "text": "The widening gap between the two figures means that contribution rates must be increased to cover costs. Currently, this is done by increasing supplementary contributions."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilo4plfb0",
+   "content": {
+    "text": "Since 2004, the statutory health insurance system (GKV) has also received a federal subsidy financed by tax revenue. This subsidy officially serves to finance «non-insurance-related benefits.» These include, for example, the free family insurance coverage for children and spouses. The subsidy was significantly increased after the financial crisis and during the COVID-19 pandemic because otherwise, GKV contributions would have risen dramatically. In 2024, it was reduced back to the «normal» level of €14.5 billion per year that had been in effect since 2017. Without the subsidy, GKV contributions would be even higher, but according to Wasem, it amounts to less than one percentage point of the contribution rate."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1ilo4pqc20",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "331572324702ef8e788e86b6bd943b69",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_331572324702ef8e788e86b6bd943b69_q66e2d504cd5c4cf6adf0a237d6778f6b_container\"        data-q-item-id=\"331572324702ef8e788e86b6bd943b69\"        data-q-request-id=\"0443910580c62efdb4604d3c98ab9f57fe08a704\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"331572324702ef8e788e86b6bd943b69\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"331572324702ef8e788e86b6bd943b69\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"0443910580c62efdb4604d3c98ab9f57fe08a704\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_331572324702ef8e788e86b6bd943b69_q66e2d504cd5c4cf6adf0a237d6778f6b_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"331572324702ef8e788e86b6bd943b69\",\"allowDownloadData\":false,\"title\":\"Federal subsidy from tax revenue to statutory health insurance\",\"subtitle\":\"Since the introduction of the subsidy*, in billions of euros\",\"publication\":\"nzz\",\"acronym\":\"ra.\",\"data\":[[\"Year\",\"Amount\"],[\"2004\",\"1,0\"],[\"2005\",\"2,5\"],[\"2006\",\"4,2\"],[\"2007\",\"2,5\"],[\"2008\",\"2,5\"],[\"2009\",\"7,2\"],[\"2010\",\"15,7\"],[\"2011\",\"15,3\"],[\"2012\",\"14,0\"],[\"2013\",\"11,5\"],[\"2014\",\"10,5\"],[\"2015\",\"11,5\"],[\"2016\",\"14,0\"],[\"2017\",\"14,5\"],[\"2018\",\"14,5\"],[\"2019\",\"14,5\"],[\"2020\",\"18,0\"],[\"2021\",\"19,5\"],[\"2022\",\"28,5\"],[\"2023\",\"16,5\"],[\"2024\",\"14,5\"]],\"sources\":[{\"text\":\"BMG, Hanse-Merkur\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Bar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"updatedDate\":\"2025-03-17T13:24:09.586Z\",\"notes\":\"* 2020 to 2023: Increase in the regular subsidy through various laws and regulations, each starting from the threshold of 14.5 billion euros.\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_331572324702ef8e788e86b6bd943b69_q66e2d504cd5c4cf6adf0a237d6778f6b\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilo4plk00",
+   "content": {
+    "text": "Sautter attributes the fact that per capita healthcare costs are rising faster than per capita economic output to a number of reasons. For example, at Hanse-Merkur, both the volume of services, such as the number of doctor visits, and the prices of medical services and medications have increased disproportionately. Furthermore, the aging population is driving up costs: «On average, a 65-year-old incurs five times the healthcare costs of a 25-year-old.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1ilokhvd90",
+   "content": {
+    "title": "Dual system with pitfalls",
+    "id": "subtitle-duales-system-mit-t-cken"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilo8cdep0",
+   "content": {
+    "text": "A unique feature of the German system is the «dual system»: Self-employed individuals, civil servants and employees with higher incomes can choose to insure themselves through private health insurance (PKV) with an insurance company such as Hanse-Merkur instead of through the statutory health insurance (GKV)."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "infobox-advanced"
+  },
+  {
+   "identifier": "infobox-advanced",
+   "id": "doc-1ilm4k3pj0",
+   "content": {
+    "title": "Private health insurance (PKV)"
+   },
+   "containers": {
+    "infobox": [
+     {
+      "identifier": "p-text",
+      "id": "doc-1ilm4k3pj2",
+      "content": {
+       "text": "Certain groups of people, primarily the self-employed, civil servants, and employees with an income above the compulsory insurance threshold (see info box on statutory health insurance), have a choice: They can either voluntarily insure themselves in the statutory health insurance system or they can obtain <a target=\"_blank\" href=\"https://www.pkv.de/wissen/private-krankenversicherung/\">private health insurance (PKV</a> ). PKV contracts are offered by private insurance companies. The premium amount depends on the scope of the insured benefits and the individual insured risk. PKV operates on the waiting period coverage principle: Premiums are calculated so that policyholders make provisions in their younger years for their age-related increasing healthcare costs. Therefore, the premiums are initially higher than the expected healthcare costs. These are used to build up reserves for future aging costs, which are then invested and accrue interest. Anyone with private health insurance must also take out private long-term care insurance."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilobn68j0",
+   "content": {
+    "text": "Wasem says this is how it has historically developed. No one would invent something like this today «out of the blue.» The dual system has two disadvantages. First, it is difficult to justify from a distributional policy perspective that in a solidarity system with income-dependent contributions, higher earners can choose whether or not to participate."
+   },
+   "paidContent": true,
+   "prevElement": "infobox-advanced",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilobvtbm0",
+   "content": {
+    "text": "The second disadvantage is the unequal treatment. While privately insured patients visit the same doctors and hospitals as those with statutory health insurance, healthcare providers can charge them higher prices. This was a political decision, partly as compensation for the fact that privately insured individuals are allowed to opt out of the public health system. Because they pay disproportionately more, they are also «disproportionately popular» as patients."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1iloccr030",
+   "content": {
+    "text": "This manifests itself, firstly, in waiting times: If you are a person with statutory health insurance and search for a specialist by phone or online booking portal, you will receive an appointment in weeks or months, whereas if you are a privately insured patient, an appointment is available the same day or the next morning. According to Wasem <a target=\"_blank\" href=\"https://www.nzz.ch/der-andere-blick/deutsche-gesundheitswesen-wird-immer-teurer-und-dysfunktionaler-das-hat-politische-auswirkungen-ld.1845805\">, studies confirm what every German knows from anecdotal experience</a> . Secondly, privately insured patients gain access to new treatment methods three to seven years earlier and are prescribed new medications more quickly. However, there is currently no evidence that this unequal treatment leads to a dangerous outcome in cases of serious illness."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1im7i266i0",
+   "content": {
+    "title": "What speaks in favor of private health insurance",
+    "id": "subtitle-was-f-r-die-pkv-spricht"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilocnp7i0",
+   "content": {
+    "text": "Sautter also emphasizes this point. He is convinced of the superiority of the dual system: «It creates genuine basic coverage while simultaneously offering freedom of choice and competition. No other system achieves that.» Furthermore, he argues that private health insurance contributes disproportionately to financing the healthcare system, it functions without subsidies, and, unlike statutory health insurance, it is fair to all generations thanks to its guaranteed coverage system. Wasem also credits private health insurance with being largely immune to demographic challenges."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1im7gb3221",
+   "content": {
+    "text": "Furthermore, according to Sautter, private health insurance promotes innovation: by including innovations in their benefits catalog earlier, private insurers ensure that these become established and cheaper, so that statutory health insurance can also adopt them a few years later at significantly lower prices."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1ilolj1050",
+   "content": {
+    "title": "Reforms, yes, but which ones?",
+    "id": "subtitle-reformen-ja-aber-welche"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilodv53e1",
+   "content": {
+    "text": "Nevertheless, the widespread impression among the population that they have to pay more and more for statutory health insurance while simultaneously having to wait longer and longer for doctor's appointments is causing a great deal of dissatisfaction."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilolj78l1",
+   "content": {
+    "text": "But where could one begin? Wasem sees three approaches to reform. First, increasing efficiency is important and a priority. The <a target=\"_blank\" href=\"https://www.nzz.ch/international/karl-lauterbachs-klinikreform-antworten-auf-die-wichtigsten-fragen-ld.1853301\">hospital reform,</a> with all its problems, serves as an example, as it aims for more efficient hospital structures. Also important are optimizing the interface between outpatient and inpatient treatment and improving system management. For example, citizens can currently use two general practitioners simultaneously and consult specialists without hindrance."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1iloe3hjv1",
+   "content": {
+    "text": "<em></em>Secondly, one must examine the range of benefits, both existing and new additions, says Wasem. Compared to other countries, Germany probably has by far the most comprehensive range of benefits within its social security system. However, any restrictions must be accompanied by a broad public debate."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilofrdc61",
+   "content": {
+    "text": "Wasem sees three possible approaches here. One could, in particular, remove more low-cost services from the catalog. One could broaden the definition of so-called minor illnesses, so that mild conditions would be less extensively covered by the benefits catalog. Or one could be guided more strongly by cost-benefit considerations, so that treatments with relatively little benefit but high costs would be removed from the benefits catalog."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1iloe822d1",
+   "content": {
+    "text": "Thirdly, the dynamic adjustment of co-payments, which was in place until 2023, should be reinstated. In the preceding thirty years, the co-payment per prescription rose from one euro to five euros. This was manageable and should be continued."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1im7gkfcp0",
+   "content": {
+    "text": "Sautter also advocates correcting perverse incentives and rewarding self-care: «Why not reintroduce a co-payment for dental visits? Why not allow reimbursement for dentures only if regular dental cleanings are performed?» Furthermore, Germany should focus more on health promotion and prevention measures to reduce ongoing costs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1iloj8q5q0",
+   "content": {
+    "title": "A new federal government is needed",
+    "id": "subtitle-neue-bundesregierung-gefordert"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilohbtij0",
+   "content": {
+    "text": "The likely future coalition partners, the CDU/CSU and SPD, will also have to address such questions in the <a target=\"_blank\" href=\"https://www.nzz.ch/der-andere-blick/start-der-koalitionsverhandlungen-fuenf-gruende-warum-friedrich-merz-noch-scheitern-kann-ld.1875135\">ongoing coalition negotiations</a> . Their <a target=\"_blank\" href=\"https://wissenschaftliche%20beirat%20der%20stiftung%20familienunternehmen.xn--%20%20die%20professoren%20gabriel%20felbermayr,%20clemens%20fuest,%20udo%20di%20fabio,%20hans-werner%20sinn,%20kay%20windthorst%20und%20rainer%20kirchdrfer%20erlutern%20ihre%20thesen%20dazu%20vor%20journalisten%20in%20berlin-qrsz6w\">exploratory paper</a> remains largely silent on this issue."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilue56j21",
+   "content": {
+    "text": "<a target=\"_blank\" href=\"https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf\">The Social Democrats' election manifesto</a> states, among other things, that the differences in waiting times and treatment options between those with private and statutory health insurance must be eliminated. They aim for a «system of solidarity-based universal health insurance» jointly established by statutory and private health insurers, in which the latter would also have to contribute to risk equalization."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ilohmsim0",
+   "content": {
+    "text": "However, Wasem considers the creation of a genuine universal health insurance system unrealistic. This would require forcing privately insured individuals to switch to the statutory health insurance system, or private health insurers would have to introduce a universal tariff with income-based contributions. But this would conflict with the property rights of privately insured individuals who have paid into retirement savings. The only realistic model, therefore, would be to prohibit new enrollments in comprehensive private health insurance, says Wasem. However, this would create a transition period of approximately eighty years (until the last privately insured individual who joined the system yesterday dies) and numerous transitional problems."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1ima886qm0",
+   "content": {
+    "text": "Sautter argues for maintaining the freedom of choice within the dual system and primarily addressing the perverse incentives. He believes that to increase intergenerational fairness and boost innovation in healthcare, the solution lies in more, not less, private health insurance."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1imabr4dj0",
+   "content": {
+    "text": "The CDU/CSU also wants to generally maintain the dual system and is calling, among other things, for stronger competition between health insurance funds. How these two approaches can be reconciled remains to be seen. One thing is certain: without reforms, either statutory health insurance contributions or federal subsidies will continue to rise."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1imafr7le0",
+   "content": {
+    "text": "You can follow Frankfurt-based business correspondent Michael Rasch on the platforms <a href=\"https://twitter.com/raschnzz\" target=\"_blank\">X,</a> <a href=\"https://www.linkedin.com/in/michael-rasch-873488?trk=nav_responsive_tab_profile\" target=\"_blank\">LinkedIn</a> , and <a href=\"https://www.xing.com/profile/Michael_Rasch4?sc_o=mxb_p\" target=\"_blank\">Xing</a> . Berlin-based business correspondent René Höltschi can be found on <a href=\"https://twitter.com/RHoeltschi\" target=\"_blank\">X</a> and <a href=\"https://www.linkedin.com/in/ren%C3%A9-h%C3%B6ltschi-39955510b/\" target=\"_blank\">LinkedIn.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1il43isrm2",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1il43isrm3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1ilomlei80",
+      "content": {
+       "owner": "NZZ",
+       "title": "The Federal Council has approved Karl Lauterbach's hospital reform. This will fundamentally change Germany's healthcare system",
+       "teaserImage": {
+        "originalUrl": "/2024/11/22/843d005e-a6f0-4198-a48c-6566f5861084.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/11/22/843d005e-a6f0-4198-a48c-6566f5861084.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5188,
+        "height": 3459,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5188,2918,x0,y270"
+         },
+         {
+          "name": "1:1",
+          "crop": "3459,3459,x865,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4612,3459,x288,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2594,3459,x1297,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The German health minister wants to achieve specialization of hospitals. After parliament, the Bundesrat also approves the law – despite resistance from some federal states.",
+        "teaserAuthor": "Imago"
+       },
+       "teaserAuthor": "Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1858858",
+       "readingTime": 240,
+       "authorLine": "Nathan Giwerzew",
+       "characterCount": 5510,
+       "product": "NZZ.ch",
+       "documentId": 1858858,
+       "layout": "regular",
+       "publicationDate": "2024-11-22T15:16:39.108Z",
+       "publicationLastUpdated": "2024-11-22T15:29:09.437Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2024-11-23T03:16:39.108Z",
+       "teaserCaption": "The German health minister wants to achieve specialization of hospitals. After parliament, the Bundesrat also approves the law – despite resistance from some federal states.",
+       "url": "/international/der-bundesrat-laesst-lauterbachs-krankenhausreform-passieren-ld.1858858",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 734,
+       "leadText": "The German health minister wants to achieve specialization of hospitals. After parliament, the Bundesrat also approves the law – despite resistance from some federal states."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1il43isrm4",
+      "content": {
+       "owner": "NZZ",
+       "title": "Health insurance companies blame the German government for record premiums and accuse it of breaking its word",
+       "teaserImage": {
+        "originalUrl": "/2024/10/28/57c80209-0848-4d2c-a73d-0582123ddc13.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/28/57c80209-0848-4d2c-a73d-0582123ddc13.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4724,
+        "height": 3142,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4724,2657,x0,y130"
+         },
+         {
+          "name": "1:1",
+          "crop": "3142,3142,x1026,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4189,3142,x267,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2357,3142,x1184,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Health insurance companies criticize the fact that insured individuals have to pay for recipients of basic income support. A higher tax subsidy was agreed upon in the coalition agreement.",
+        "teaserAuthor": "Frederic Kern / Imago"
+       },
+       "teaserAuthor": "Frederic Kern / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1854763",
+       "readingTime": 180,
+       "authorLine": "Susann Kreutzmann, Berlin",
+       "characterCount": 3653,
+       "product": "NZZ.ch",
+       "documentId": 1854763,
+       "layout": "regular",
+       "publicationDate": "2024-10-28T14:36:29.245Z",
+       "publicationLastUpdated": "2024-10-28T15:48:58.844Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-10-29T02:36:29.245Z",
+       "teaserCaption": "Health insurance companies criticize the fact that insured individuals have to pay for recipients of basic income support. A higher tax subsidy was agreed upon in the coalition agreement.",
+       "url": "/international/krankenkassen-machen-die-deutsche-regierung-fuer-rekordbeitraege-verantwortlich-und-werfen-ihr-wortbruch-vor-ld.1854763",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 530,
+       "leadText": "Health insurance companies criticize the fact that insured individuals have to pay for recipients of basic income support. A higher tax subsidy was agreed upon in the coalition agreement."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1il43isrm5",
+      "content": {
+       "owner": "NZZ",
+       "title": "Healthcare costs are exploding: Record increase in health insurance contributions in Germany",
+       "teaserImage": {
+        "originalUrl": "/2024/10/16/616bc899-1655-4879-9588-7be684a1c99c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/16/616bc899-1655-4879-9588-7be684a1c99c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5169,
+        "height": 3448,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5169,2908,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2724,2724,x1088,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4597,3448,x307,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2586,3448,x923,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The planned increase of 0.8 percentage points will mean additional costs of several hundred euros per year for many employees. Experts warn: This is just the beginning of a cost spiral.",
+        "teaserAuthor": "Clemens Bilan / EPA"
+       },
+       "teaserAuthor": "Clemens Bilan / EPA",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1853108",
+       "readingTime": 240,
+       "authorLine": "Johannes C. Bockenheimer, Berlin",
+       "characterCount": 5825,
+       "product": "NZZ.ch",
+       "documentId": 1853108,
+       "layout": "regular",
+       "publicationDate": "2024-10-16T10:40:38.777Z",
+       "publicationLastUpdated": "2024-10-16T12:02:30.037Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-10-16T22:40:38.777Z",
+       "teaserCaption": "The planned increase of 0.8 percentage points will mean additional costs of several hundred euros per year for many employees. Experts warn: This is just the beginning of a cost spiral.",
+       "url": "/international/gesundheitskosten-explodieren-rekordanstieg-der-krankenkassenbeitraege-in-deutschland-ld.1853108",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 801,
+       "leadText": "The planned increase of 0.8 percentage points will mean additional costs of several hundred euros per year for many employees. Experts warn: This is just the beginning of a cost spiral."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1il43isrm6",
+      "content": {
+       "owner": "NZZ",
+       "flag": "The other view",
+       "title": "The German healthcare system is becoming increasingly expensive and dysfunctional – and the citizens increasingly disillusioned",
+       "teaserImage": {
+        "originalUrl": "/2024/08/29/a979f23c-895f-4961-aa0f-b385512898ee.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/29/a979f23c-895f-4961-aa0f-b385512898ee.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3346,
+        "height": 5019,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2644,1487,x72,y858"
+         },
+         {
+          "name": "1:1",
+          "crop": "2350,2350,x498,y498"
+         },
+         {
+          "name": "4:3",
+          "crop": "3346,2510,x0,y391"
+         },
+         {
+          "name": "3:4",
+          "crop": "3346,4461,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Those with public health insurance can't find a doctor or have to wait months for an appointment. Reforms to the healthcare system have been promised, but are slow in coming. This is poisoning for the mood in the country.",
+        "teaserAuthor": "Imago"
+       },
+       "teaserAuthor": "Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1845805",
+       "readingTime": 240,
+       "showComments": true,
+       "authorLine": "Susanne Gaschke, Berlin",
+       "characterCount": 4872,
+       "product": "NZZ.ch",
+       "documentId": 1845805,
+       "layout": "opinion",
+       "publicationDate": "2024-08-29T03:30:00.000Z",
+       "publicationLastUpdated": "2024-08-29T06:36:08.820Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-08-29T15:30:00.000Z",
+       "teaserCaption": "Those with public health insurance can't find a doctor or have to wait months for an appointment. Reforms to the healthcare system have been promised, but are slow in coming. This is poisoning for the mood in the country.",
+       "url": "/der-andere-blick/deutsche-gesundheitswesen-wird-immer-teurer-und-dysfunktionaler-das-hat-politische-auswirkungen-ld.1845805",
+       "department": {
+        "name": "The other view",
+        "path": "/der-andere-blick"
+       },
+       "estimationWordCount": 738,
+       "leadText": "Those with public health insurance can't find a doctor or have to wait months for an appointment. Reforms to the healthcare system have been promised, but are slow in coming. This is poisoning for the mood in the country."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "title": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+  "teaserImage": {
+   "originalUrl": "/2025/03/17/136ddf2a-8571-47fc-b43a-83cda35021a1.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/03/17/136ddf2a-8571-47fc-b43a-83cda35021a1.jpeg?width=1024&quality=75&auto=webp",
+   "width": 5616,
+   "height": 3744,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5616,3159,x0,y293"
+    },
+    {
+     "name": "1:1",
+     "crop": "3744,3744,x1216,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "4992,3744,x312,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2808,3744,x1317,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "At the beginning of the year, health insurance contributions in Germany rose exceptionally sharply. The next government must agree on bold reforms, otherwise either the contributions or the tax-funded federal subsidies will continue to increase.",
+   "teaserAuthor": "Erwin Wodicka / Imago"
+  },
+  "teaserAuthor": "Erwin Wodicka / Imago",
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1873221",
+  "readingTime": 480,
+  "authorLine": "René Höltschi, Berlin, Michael Rasch, Frankfurt",
+  "characterCount": 12038,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1873221,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2025-03-18T04:30:00.000Z",
+  "publicationDate": "2025-03-18T04:30:00.000Z",
+  "publicationLastUpdated": "2025-03-18T07:14:46.827Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2025-03-18T16:30:00.000Z",
+  "teaserCaption": "At the beginning of the year, health insurance contributions in Germany rose exceptionally sharply. The next government must agree on bold reforms, otherwise either the contributions or the tax-funded federal subsidies will continue to increase.",
+  "url": "/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 1613,
+  "leadText": "At the beginning of the year, health insurance contributions in Germany rose exceptionally sharply. The next government must agree on bold reforms, otherwise either the contributions or the tax-funded federal subsidies will continue to increase.",
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Premium shock in the German healthcare system",
+  "nzzPrintSubtitle": "What are the causes and what ails the dual health insurance system?",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221",
+   "title": "Premium shock at German health insurance companies: what's the reason?",
+   "socialMediaTitle": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2025/03/17/136ddf2a-8571-47fc-b43a-83cda35021a1.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5616,3159,x0,y293&wmark=nzz"
+  },
+  "ldPublicationId": 1842270,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Health insurance",
+    "slug": "/themen/krankenkasse"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1858858",
+    "ld.1854763",
+    "ld.1853108",
+    "ld.1845805"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "mp3": true,
+  "mp3Duration": 779208,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "deutschland",
+   "name": "Germany",
+   "tagName": "Germany",
+   "qId": "Q183",
+   "seoTitle": "Germany – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:02:18.055Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/deutschland",
+   "size": 9442,
+   "relatedTopics": [
+    {
+     "name": "Krankenkasse",
+     "slug": "/themen/krankenkasse"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Moscow closes Goethe-Institutes, hardens tone toward Berlin",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Armin Arbeiter, Berlin",
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024&quality=75&auto=webp",
+     "width": 2823,
+     "height": 1825,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2823,1588,x0,y59"
+      },
+      {
+       "name": "4:3",
+       "crop": "2433,1825,x390,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1508,1508,x940,y49"
+      },
+      {
+       "name": "3:4",
+       "crop": "1369,1825,x953,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2738,1825,x85,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+     "teaserAuthor": "Ramil Sitdikov / Reuters"
+    },
+    "teaserAuthor": "Ramil Sitdikov / Reuters",
+    "nzzId": "ld.10022202",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Moscow closing the Goethe Institutes in response to German measures?",
+    "paywallQuestionTwo": "According to Russia, what evidence is missing in the case of the drone attack in Leipzig?",
+    "paywallQuestionThree": "How does the closure of the Goethe-Institut affect pro-European Russians?",
+    "characterCount": 4616,
+    "product": "NZZ.ch",
+    "documentId": "10022202",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T08:56:31.247Z",
+    "publicationLastUpdated": "2026-09-03T09:34:43.715Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T20:56:31.247Z",
+    "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "url": "https://www.nzz.ch/deutschland/politik/moskau-schliesst-die-goethe-institute-und-verschaerft-den-ton-gegenueber-berlin-ld.10022202",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 666,
+    "leadText": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Lonely Men of the East",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5152,
+     "height": 3440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5152,2898,x0,y423"
+      },
+      {
+       "name": "4:3",
+       "crop": "4587,3440,x283,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3440,3440,x259,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2580,3440,x467,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5152,3435,x0,y3"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+     "teaserAuthor": "Fabrizio Bensch / Reuters"
+    },
+    "teaserAuthor": "Fabrizio Bensch / Reuters",
+    "tags": [
+     "Pro: Fokus"
+    ],
+    "showComments": true,
+    "nzzId": "ld.10021328",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why are so many young women leaving East Germany?",
+    "paywallQuestionTwo": "How does the shortage of women affect society in East Germany?",
+    "paywallQuestionThree": "What role does the AfD play in the political mood in the East?",
+    "characterCount": 9768,
+    "product": "NZZ.ch",
+    "documentId": "10021328",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "authorLine": "Leon Hedgehog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/12/eb10e36e-8f54-4722-adf7-421086aa6dd9.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/in-ostdeutschland-fehlen-frauen-die-afd-profitiert-von-strukturellen-problemen-ld.10021328",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1479,
+    "premium": true,
+    "leadText": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Podcast «NZZ Machtspiel»",
+    "title": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y66"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course."
+    },
+    "showHeader": true,
+    "editor": "1867936",
+    "paywallQuestionOne": "How could the CDU become strategically capable of action by using red lines instead of firewalls?",
+    "paywallQuestionTwo": "Why does Andreas Rödder consider flexible majorities a viable government option for the future?",
+    "paywallQuestionThree": "How does Rödder assess the double standards in the debate about banning the AfD?",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 120,
+    "nzzId": "ld.10021940",
+    "characterCount": 2253,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021940",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:00:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:00:00.000Z",
+    "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "authorLine": "Utz Dräger",
+    "url": "https://www.nzz.ch/podcast/machtspiel/wie-kommt-die-cdu-aus-der-sackgasse-andreas-roedder-ld.10021940",
+    "department": {
+     "name": "Power play",
+     "path": "/podcast/machtspiel"
+    },
+    "estimationWordCount": 356,
+    "leadText": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserPodcastAuthor": "Florian Eder, Andreas Rödder",
+    "teaserPodcastDate": "03.09.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2585342-m-bb3033a2954d218684744abd1d123552.mp3",
+    "teaserPodcastDuration": "39",
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "German-Russian relations at an all-time low: Putin speaks of a «grave mistake» after German sanctions",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5128,
+     "height": 3419,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5128,2884,x0,y130"
+      },
+      {
+       "name": "4:3",
+       "crop": "4559,3419,x324,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3419,3419,x937,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2564,3419,x1364,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5128,3419,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+     "teaserAuthor": "Kristina Solovyova / Imago"
+    },
+    "teaserAuthor": "Kristina Solovyova / Imago",
+    "nzzId": "ld.10022027",
+    "readingTime": 240,
+    "paywallQuestionOne": "How do the sanctions affect German-Russian relations?",
+    "paywallQuestionTwo": "What specific countermeasures is Russia planning?",
+    "paywallQuestionThree": "How is the Kremlin reacting to the allegations regarding the drone incident?",
+    "characterCount": 5880,
+    "product": "NZZ.ch",
+    "documentId": "10022027",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:29:35.291Z",
+    "publicationLastUpdated": "2026-09-02T13:56:01.973Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:29:35.291Z",
+    "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "authorLine": "Volker Pabst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/deutsch-russische-beziehungen-am-tiefpunkt-putin-spricht-nach-deutschen-sanktionen-von-einem-schweren-fehler-ld.10022027",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 834,
+    "leadText": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1873221",
+    "name": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2025-03-18T04:30:00.000Z",
+     "updateTimestamp": "2025-03-18T07:14:46.827Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1873221",
+   "pageType": "longformstandard",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Premium shock at German health insurance companies: what's the reason?",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2025/03/17/136ddf2a-8571-47fc-b43a-83cda35021a1.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5616,3159,x0,y293&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "René Höltschi, Berlin, Michael Rasch, Frankfurt",
+  "description": "At the beginning of the year, health insurance contributions in Germany rose exceptionally sharply. The next government must agree on bold reforms, otherwise either the contributions or the tax-funded federal subsidies will continue to increase.",
+  "news_keywords": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2025-03-18T10:14:46+02:00",
+  "date": "2025-03-18T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+  "ogTitle": "Premium shock in the German healthcare system: what's wrong with the dual health insurance system",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221",
+  "mrf:cms_id": "nzz:ld.1873221",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.1873221",
+  "nzzAuthors": [
+   {
+    "name": "René Höltschi, Berlin, Michael Rasch, Frankfurt"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:51:36 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Premium shock at German health insurance companies: what's the reason?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221"
+   },
+   "headline": "Premium shock at German health insurance companies: what's the reason?",
+   "datePublished": "2025-03-18T07:30:00+02:00",
+   "dateModified": "2025-03-18T10:14:46+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "At the beginning of the year, health insurance contributions in Germany rose exceptionally sharply. The next government must agree on bold reforms, otherwise either the contributions or the tax-funded federal subsidies will continue to increase.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2025/03/17/136ddf2a-8571-47fc-b43a-83cda35021a1.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5616,3159,x0,y293&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "René Höltschi, Berlin, Michael Rasch, Frankfurt"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 779208,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/praemienschock-bei-deutschen-krankenkassen-woran-es-krankt-ld.1873221",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1873221",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2025-03-18T04:30:00.000Z",
+   "ContentAuthor": "René Höltschi, Berlin, Michael Rasch, Frankfurt",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "ldId": "ld.1873221",
+   "channel": "Wirtschaft",
+   "heading": "Prämienschock im deutschen Gesundheitssystem: woran die duale Krankenversicherung krankt",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

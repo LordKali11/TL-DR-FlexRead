@@ -1,0 +1,1553 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1ge6pmt1",
+   "content": {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "lead": "Germany wants to hold Russia more accountable — and the Trump administration is talking to the Russian Finance Minister in the U.S. about cooperation in the international financial system. If sanctions are to be effective, they must be applied more precisely and consistently.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1ge6pmt2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Peter A. Fischer",
+       "url": "/impressum/peter-fischer-ld.1085419",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1ge6pmt3",
+   "content": {
+    "image": {
+     "author": "Sam Wolfe / Reuters",
+     "caption": "Russia's long-serving finance minister Anton Siluanov participated in the meeting of G-20 finance ministers and central bank governors in Asheville, USA, for the first time in years.",
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?crop=6500,4335,x0,y0",
+     "width": 6500,
+     "height": 4335,
+     "altText": "Russia's Finance Minister Anton Siluanov attends a plenary session as finance ministers and central bank governors from G20 countries meet in Asheville, North Carolina, U.S., September 1, 2026. REUTERS/Sam Wolfe",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180351961"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6500,
+      "height": 4335,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6500,
+       "height": 4335,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Russia's long-serving finance minister Anton Siluanov participated in the meeting of G-20 finance ministers and central bank governors in Asheville, USA, for the first time in years.",
+    "author": "Sam Wolfe / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ge6pmt4",
+   "content": {
+    "text": "The signals do not align."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-a8b894ee",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gk5b7e1",
+   "content": {
+    "text": "Kremlin ruler Vladimir Putin refuses to back down in the Ukraine war and is intensifying his provocations against European states. The German government has just concluded that the combat drone defused at Leipzig Airport most likely originated from Russia and its deployment points to the Russian secret services. Germany and its European allies want to show that they consider this unacceptable and are reacting – but not militarily. Berlin is expelling Russian diplomats and tightening sanctions. Former KGB spy Putin expresses outrage."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gpapbb0",
+   "content": {
+    "title": "Not just anyone",
+    "id": "subtitle-nicht-einfach-irgendwer"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gka9sd0",
+   "content": {
+    "text": "A few thousand kilometers to the west, Russian Finance Minister Anton Germanovich Siluanov is discussing risks in the international financial system and improving international cooperation at the G20 meeting of finance ministers and central bankers in Asheville, U.S. Siluanov is also meeting with U.S. Treasury Secretary Scott Bessent, who is concerned about financing the rising debt burden."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gkj57c0",
+   "content": {
+    "text": "Siluanov is not just anyone. He has served continuously as Finance Minister and a member of Russia’s Security Council since 2011. When he sought to join a G20 meeting via video in April 2022, just over two months after the Russian invasion of Ukraine, the European and American representatives left the room in protest."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gqbulf1",
+   "content": {
+    "text": "The U.S. had shortly before imposed personal sanctions against Siluanov, which are still in effect today. In its justification, the U.S. described Siluanov as a person who is part of the inner political leadership and central to financing Russia’s war against Ukraine. His assets are to be frozen, and American individuals and financial institutions are strictly prohibited from entering into direct or indirect business relationships with Siluanov."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1glcjm80",
+   "content": {
+    "text": "Four years later, the Trump administration no longer seems to care much about that. Siluanov may not be a hardliner of the Russian regime, which is why the Europeans and Switzerland, interestingly, unlike the U.S., have not imposed personal sanctions against him. But he is undoubtedly a central figure in financing the Russian state."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gpgf0u0",
+   "content": {
+    "title": "Sanctions only partially effective",
+    "id": "subtitle-sanktionen-wirken-nur-bedingt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1glhu580",
+   "content": {
+    "text": "The personal sanctions against leading figures of the regime were intended to make them oppose Putin’s war. The financial sanctions were designed to make it permanently impossible for Russia to finance its war by cutting the country off from the international financial system."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1glrrj70",
+   "content": {
+    "text": "Sanctions are a tool that are meant to cause economic pain to deter the opponent and prevent a (further) military conflict. Unfortunately, experience with the Ukraine sanctions against Russia shows that they are less effective than hoped."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1goqp5q1",
+   "content": {
+    "text": "In Putin’s Russia, repression has grown so brutal that open resistance is barely an option. Making sanctions increasingly broad and thereby primarily punishing those Russians who are critical of Putin’s dictatorship and harbor sympathies for Europe probably even has a counterproductive effect."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gqhoqb1",
+   "content": {
+    "text": "More effective are sanctions that make the continuation and financing of the war more difficult. But the problem is that important parts of the world have not joined these efforts and they are only inadequately implemented. Moreover, their effect decreases with increasing duration because the affected economies decouple."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gpnq400",
+   "content": {
+    "title": "Unmistakable signals needed",
+    "id": "subtitle-es-braucht-unmissverst-ndliche-signale"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gmbg9d0",
+   "content": {
+    "text": "It would therefore be all the more important now to send unmistakable signals to the warlord in the Kremlin: The NATO countries, including the U.S., want an end to Russia’s war against independent Ukraine, which violates international law. And they collectively defend themselves against Russian provocations. To prevent a continuation and expansion of the war, they must drive up the price Putin pays for it as high as possible. Making it difficult to finance the war machine is among the most peaceful of all available means."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gmofob0",
+   "content": {
+    "text": "Europe’s maneuvering over deliveries of Russian liquefied natural gas is as much part of the problem and not the solution as Donald Trump’s constant advances toward his «friend» in the Kremlin. Demanding more support from Europeans in the Iran war and at the same time seeking deals with a Russian government that openly supports Iran seems absurd."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gn0ge90",
+   "content": {
+    "text": "Bessent reportedly told Siluanov in a bilateral discussion that active cooperation would only be possible again after the end of the Ukraine war. That is correct. But the American government would do better to finally focus on a strict implementation of the sanctions aimed at financing this senseless war. Instead of discussing cooperation in the U.S., it would be necessary to take unmistakable action against the Russian shadow fleet."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gp59sp0",
+   "content": {
+    "text": "Europe and the U.S. want peaceful international cooperation with Russia, just as with China – but only after Putin’s regime has agreed to a ceasefire and later peace with Ukraine. But this way, sanctions become a parody."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1ge6pmt5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-8c82fe0d",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 7,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Reinhard Neitzel",
+      "text": "What surprises me less is that the US is talking to Russia again than that Europe seems surprised by it. Anyone who believes that American foreign policy is permanently guided by moral solidarity should take a look at history. The US has always prioritized American interests – and from its perspective, that's understandable. Washington allied itself with Stalin when Hitler was the more dangerous adversary. Nixon traveled to meet with Mao in 1972, even though China didn't suddenly become a democracy as a result. For decades, the US cooperated with authoritarian regimes when security, raw materials, or geopolitical influence demanded it. Even Vietnam, once an enemy in the war, later became an important economic and strategic partner. Why should Russia, of all countries, be an exception to this realpolitik after the war in Ukraine? Anyone who believes that American talks with Moscow are solely about issuing warnings to Putin is remarkably naive. Behind closed doors, discussions are likely already underway about the post-war period: raw materials, energy, markets, and geopolitical interests. Whether concrete agreements are already being prepared, we don't know. But to assume Washington isn't considering this would be naive. The US represents American interests. China represents Chinese interests, Russia Russian. Only Europe seems to believe that pursuing its own interests is morally suspect. Germany, in particular, should ask itself where its long-term strategy is. We accept economic burdens, sever ties, and discuss new sanctions. What happens when Washington decides that doing business with Russia once again serves American interests? Sanctions are a tool, not a worldview. Europe needs an independent policy. Otherwise, the US will change course as soon as it benefits them—and Europe will be surprised to find that no one was obligated to wait for us.",
+      "created_at": "2026-09-03T05:55:36.385Z",
+      "like_count": 1,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Erwin Dufner",
+      "text": "Unfortunately, the EU only ever talks about tough sanctions, but then grants member states exemptions in all sorts of areas. Most recently, Greece and Cyprus received huge handouts. These aren't effective sanctions. But all the EU can do is make grand pronouncements.",
+      "created_at": "2026-09-02T17:01:33.409Z",
+      "like_count": 7,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1ge6pmt6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1ge6pmt9",
+      "content": {
+       "title": "Germany Holds Russia Responsible for Leipzig Airport Attack",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/09/01/8d5b36fd-9c60-4542-adc0-c7423ee6b261.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/01/8d5b36fd-9c60-4542-adc0-c7423ee6b261.jpg?width=1024&quality=75&auto=webp",
+        "width": 2576,
+        "height": 1716,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2576,1449,x0,y134"
+         },
+         {
+          "name": "4:3",
+          "crop": "2288,1716,x144,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1716,1716,x430,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1287,1716,x645,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2574,1716,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Interior Minister Dobrindt and Foreign Minister Wadephul are expected to make an official statement later this afternoon. The German government is preparing a package of measures against Moscow.",
+        "teaserAuthor": "Imago/ehl Media / Imago"
+       },
+       "teaserAuthor": "Imago/ehl Media / Imago",
+       "authorLine": "Armin Arbeiter, Berlin",
+       "nzzId": "ld.10021699",
+       "readingTime": 180,
+       "paywallQuestionOne": "What measures does Berlin plan to take against Russia after the drone attack?",
+       "paywallQuestionTwo": "How could NATO react to the attack, perhaps with Article 4?",
+       "paywallQuestionThree": "What role do additional arms deliveries to Ukraine play?",
+       "characterCount": 3847,
+       "product": "NZZ.ch",
+       "documentId": 10021699,
+       "layout": "regular",
+       "publicationDate": "2026-09-01T10:43:10.931Z",
+       "publicationLastUpdated": "2026-09-01T10:50:31.691Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-09-01T22:43:10.931Z",
+       "teaserCaption": "Interior Minister Dobrindt and Foreign Minister Wadephul are expected to make an official statement later this afternoon. The German government is preparing a package of measures against Moscow.",
+       "url": "/deutschland/politik/merz-will-taeter-bezahlen-lassen-leipzig-wird-zum-testfall-fuer-deutschlands-umgang-mit-russischer-sabotage-ld.10021699",
+       "department": {
+        "name": "Politics (Germany)",
+        "path": "/deutschland/politik"
+       },
+       "estimationWordCount": 549,
+       "leadText": "Interior Minister Dobrindt and Foreign Minister Wadephul are expected to make an official statement later this afternoon. The German government is preparing a package of measures against Moscow.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1ge6pmt8",
+      "content": {
+       "title": "Attack on Leipzig Airport: Kremlin wants to maintain diplomatic relations with Berlin +++ Goethe-Institut in Russia will be closed, according to Russian Foreign Minister",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Live ticker",
+       "teaserImage": {
+        "originalUrl": "/2026/09/03/f0a279ba-d49e-4ceb-9d4b-00525cfea983.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/03/f0a279ba-d49e-4ceb-9d4b-00525cfea983.jpg?width=1024&quality=75&auto=webp",
+        "width": 8028,
+        "height": 5405,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8028,4516,x0,y722"
+         },
+         {
+          "name": "4:3",
+          "crop": "7207,5404,x821,y1"
+         },
+         {
+          "name": "1:1",
+          "crop": "5405,5404,x2623,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "4054,5404,x3974,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "8028,5351,x0,y54"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Following the drone incident at Leipzig Airport in early August, the German government is blaming Russia and imposing sanctions. Here are the latest developments.",
+        "teaserAuthor": "News agency / Imago"
+       },
+       "teaserAuthor": "News agency / Imago",
+       "nzzId": "ld.10021936",
+       "readingTime": 60,
+       "liveCenterId": "92755",
+       "paywallQuestionOne": "What evidence exists for the involvement of Russian intelligence services?",
+       "paywallQuestionTwo": "How is the German government reacting to the attack?",
+       "paywallQuestionThree": "What security measures are being taken now?",
+       "characterCount": 0,
+       "videoTeaser": "",
+       "product": "NZZ.ch",
+       "documentId": 10021936,
+       "layout": "regular",
+       "publicationDate": "2026-09-03T08:39:47.145Z",
+       "publicationLastUpdated": "2026-09-03T08:39:47.145Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-09-03T20:39:47.145Z",
+       "teaserCaption": "Following the drone incident at Leipzig Airport in early August, the German government is blaming Russia and imposing sanctions. Here are the latest developments.",
+       "url": "/deutschland/politik/anschlag-auf-den-leipziger-flughafen-putin-nennt-berlins-sanktionen-schweren-fehler-bundesregierung-will-russisches-generalkonsulat-schliessen-und-einreise-russischer-staatsbuerger-verschaerfen-ld.10021936",
+       "department": {
+        "name": "Politics (Germany)",
+        "path": "/deutschland/politik"
+       },
+       "estimationWordCount": 59,
+       "leadText": "Following the drone incident at Leipzig Airport in early August, the German government is blaming Russia and imposing sanctions. Here are the latest developments.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1ge6pmt7",
+      "content": {
+       "title": "Escalation in the trade dispute: Trump renames Lake Ontario «Lake America» ​​– the Canadians are planning a counterattack in key swing states",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/29/05b54990-a60f-469f-a6df-53f7be36d9c9.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/29/05b54990-a60f-469f-a6df-53f7be36d9c9.jpg?width=1024&quality=75&auto=webp",
+        "width": 5000,
+        "height": 3333,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4545,2556,x378,y565"
+         },
+         {
+          "name": "4:3",
+          "crop": "4444,3333,x369,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3333,3333,x877,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2500,3333,x1341,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4545,3030,x310,y218"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The US wants to bring Canada to its knees in the trade conflict with its economic powerhouse. But the Canadian retaliatory tariffs pose political risks for Trump – and could cost Republicans crucial Senate seats in the fall.",
+        "teaserAuthor": "Imago/al Drago / Imago"
+       },
+       "teaserAuthor": "Imago/al Drago / Imago",
+       "showComments": true,
+       "tags": [
+        "Amerika",
+        "Die USA unter Trump"
+       ],
+       "nzzId": "ld.10021479",
+       "readingTime": 300,
+       "paywallQuestionOne": "What political risks does Trump's trade conflict with Canada entail?",
+       "paywallQuestionTwo": "How is Canada reacting to the renaming of Lake Ontario?",
+       "paywallQuestionThree": "What impact will the retaliatory tariffs have on US swing states?",
+       "characterCount": 7070,
+       "product": "NZZ.ch",
+       "documentId": 10021479,
+       "layout": "regular",
+       "publicationDate": "2026-08-29T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-29T08:13:53.212Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-29T15:30:00.000Z",
+       "teaserCaption": "The US wants to bring Canada to its knees in the trade conflict with its economic powerhouse. But the Canadian retaliatory tariffs pose political risks for Trump – and could cost Republicans crucial Senate seats in the fall.",
+       "authorLine": "Niklaus Nuspliger, Washington",
+       "authorImage": {
+        "originalUrl": "/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 928,
+         "y": 0,
+         "width": 3712,
+         "height": 3712
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/eskalation-im-handelsstreit-trump-benennt-den-ontariosee-in-lake-america-um-die-kanadier-planen-gegenschlag-in-wichtigen-swing-states-ld.10021479",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1094,
+       "premium": true,
+       "leadText": "The US wants to bring Canada to its knees in the trade conflict with its economic powerhouse. But the Canadian retaliatory tariffs pose political risks for Trump – and could cost Republicans crucial Senate seats in the fall.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "flag": "Opinion",
+  "showComments": true,
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4335,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6500,3656,x0,y555"
+    },
+    {
+     "name": "4:3",
+     "crop": "5780,4335,x398,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2961,2961,x392,y484"
+    },
+    {
+     "name": "3:4",
+     "crop": "3251,4335,x550,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6500,4333,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+   "teaserAuthor": "Sam Wolfe / Reuters"
+  },
+  "teaserAuthor": "Sam Wolfe / Reuters",
+  "editor": "1373452",
+  "nzzId": "ld.10022026",
+  "readingTime": 240,
+  "characterCount": 5319,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022026,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-09-02T11:58:27.752Z",
+  "publicationDate": "2026-09-02T11:58:27.752Z",
+  "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+  "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+  "nzzAuthors": [
+   {
+    "id": 1373404,
+    "name": "Peter A. Fischer",
+    "shortName": "pfi",
+    "pianoId": "49eea861-3efa-4465-bce0-7770e08448c0",
+    "external": false
+   }
+  ],
+  "authorLine": "Peter A. Fischer",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1085419,
+    "name": "Peter A. Fischer (pfi.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+  "url": "/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 781,
+  "premium": true,
+  "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+  "nzzSummaryEN": "- Germany increases sanctions against Russia and expels diplomats, responding to provocations such as the defusal of a suspected Russian drone.\n- Meanwhile, Russia's Finance Minister Siluanov attends the G-20 meeting in the US, despite existing US sanctions against him.\n- Effective sanctions should focus on disrupting war financing, but inadequate global enforcement and countermeasures weaken their impact.",
+  "nzzSummaryDE": "Germany is tightening sanctions against Russia and expelling diplomats in response to provocations such as the defusing of a suspected Russian drone.\n - Meanwhile, Russia's Finance Minister Siluanov is participating in the G-20 meeting in the USA, despite existing US sanctions against him.\n Effective sanctions are intended to make it more difficult to finance the war, but insufficient global implementation and countermeasures reduce their effectiveness.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "That's not how sanctions work",
+  "nzzPrintSubtitle": "Provocations in Germany and talks in the USA",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+   "title": "Paradox: Russian provocations in Germany, sanctions and the G-20 in the USA",
+   "socialMediaTitle": "Russia provokes Germany; the Russian finance minister speaks in the USA: why sanctions don't work",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6500,3656,x0,y555&wmark=nzz"
+  },
+  "ldPublicationId": 2487913,
+  "playableVideoTeasers": [
+   {
+    "title": "«NZZ Pro» talk: What's next for Swiss neutrality?",
+    "description": "Peter A. Fischer, Georg Häsler and Linda Koponen on Switzerland's role in the multipolar world order",
+    "kind": "Single Item",
+    "siteid": "YuwAxPaT",
+    "playlist": [
+     {
+      "title": "«NZZ Pro» talk: What's next for Swiss neutrality?",
+      "mediaid": "0xmj7cLG",
+      "link": "https://cdn.jwplayer.com/previews/0xmj7cLG",
+      "image": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=720",
+      "images": [
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=320",
+        "width": 320,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=480",
+        "width": 480,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=640",
+        "width": 640,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=720",
+        "width": 720,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=1280",
+        "width": 1280,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/0xmj7cLG/poster.jpg?width=1920",
+        "width": 1920,
+        "type": "image/jpeg"
+       }
+      ],
+      "siteid": "YuwAxPaT",
+      "duration": 3596,
+      "content_source_type": "file",
+      "pubdate": 1787920770,
+      "updated": 1787921498,
+      "description": "Peter A. Fischer, Georg Häsler and Linda Koponen on Switzerland's role in the multipolar world order",
+      "sources": [
+       {
+        "file": "https://cdn.jwplayer.com/manifests/0xmj7cLG.m3u8",
+        "type": "application/vnd.apple.mpegurl"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/0xmj7cLG-EhTDc4s5.mp4",
+        "type": "video/mp4",
+        "height": 720,
+        "width": 1280,
+        "label": "720p",
+        "bitrate": 328862,
+        "filesize": 147823495,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/0xmj7cLG-J4ijmxxU.mp4",
+        "type": "video/mp4",
+        "height": 406,
+        "width": 720,
+        "label": "406p",
+        "bitrate": 217015,
+        "filesize": 97548304,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/0xmj7cLG-kcn04Bnj.mp4",
+        "type": "video/mp4",
+        "height": 270,
+        "width": 480,
+        "label": "270p",
+        "bitrate": 177940,
+        "filesize": 79984257,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/0xmj7cLG-ZberQI1f.mp4",
+        "type": "video/mp4",
+        "height": 180,
+        "width": 320,
+        "label": "180p",
+        "bitrate": 155379,
+        "filesize": 69842952,
+        "framerate": 25
+       }
+      ],
+      "tracks": [
+       {
+        "file": "https://cdn.jwplayer.com/strips/0xmj7cLG-120.vtt",
+        "kind": "thumbnails"
+       }
+      ],
+      "variations": {}
+     }
+    ],
+    "feed_instance_id": "ce37b73c-e57e-414e-9c73-a67f0168b06d",
+    "playerId": "ZMULDsT4",
+    "intl": {
+     "de": {
+      "advertising": {
+       "skiptext": "Skip"
+      }
+     }
+    }
+   }
+  ],
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Donald Trump",
+    "slug": "/themen/donald-trump"
+   },
+   {
+    "name": "G-20",
+    "slug": "/themen/g-20"
+   },
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   },
+   {
+    "name": "Vladimir Putin",
+    "slug": "/themen/wladimir-putin"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 7,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Reinhard Neitzel",
+     "text": "What surprises me less is that the US is talking to Russia again than that Europe seems surprised by it. Anyone who believes that American foreign policy is permanently guided by moral solidarity should take a look at history. The US has always prioritized American interests – and from its perspective, that's understandable. Washington allied itself with Stalin when Hitler was the more dangerous adversary. Nixon traveled to meet with Mao in 1972, even though China didn't suddenly become a democracy as a result. For decades, the US cooperated with authoritarian regimes when security, raw materials, or geopolitical influence demanded it. Even Vietnam, once an enemy in the war, later became an important economic and strategic partner. Why should Russia, of all countries, be an exception to this realpolitik after the war in Ukraine? Anyone who believes that American talks with Moscow are solely about issuing warnings to Putin is remarkably naive. Behind closed doors, discussions are likely already underway about the post-war period: raw materials, energy, markets, and geopolitical interests. Whether concrete agreements are already being prepared, we don't know. But to assume Washington isn't considering this would be naive. The US represents American interests. China represents Chinese interests, Russia Russian. Only Europe seems to believe that pursuing its own interests is morally suspect. Germany, in particular, should ask itself where its long-term strategy is. We accept economic burdens, sever ties, and discuss new sanctions. What happens when Washington decides that doing business with Russia once again serves American interests? Sanctions are a tool, not a worldview. Europe needs an independent policy. Otherwise, the US will change course as soon as it benefits them—and Europe will be surprised to find that no one was obligated to wait for us.",
+     "created_at": "2026-09-03T05:55:36.385Z",
+     "like_count": 1,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Erwin Dufner",
+     "text": "Unfortunately, the EU only ever talks about tough sanctions, but then grants member states exemptions in all sorts of areas. Most recently, Greece and Cyprus received huge handouts. These aren't effective sanctions. But all the EU can do is make grand pronouncements.",
+     "created_at": "2026-09-02T17:01:33.409Z",
+     "like_count": 7,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021699",
+    "ld.10021936",
+    "ld.10021479"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 347040,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "russland",
+   "name": "Russia",
+   "tagName": "Russia",
+   "qId": "Q159",
+   "seoTitle": "Russia News – All articles and information on the topic",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:50:01.576Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/russland",
+   "size": 6669,
+   "relatedTopics": [
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    },
+    {
+     "name": "Donald Trump",
+     "slug": "/themen/donald-trump"
+    },
+    {
+     "name": "G-20",
+     "slug": "/themen/g-20"
+    },
+    {
+     "name": "Ukraine",
+     "slug": "/themen/ukraine"
+    },
+    {
+     "name": "Wladimir Putin",
+     "slug": "/themen/wladimir-putin"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Moscow closes Goethe-Institutes, hardens tone toward Berlin",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Armin Arbeiter, Berlin",
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024&quality=75&auto=webp",
+     "width": 2823,
+     "height": 1825,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2823,1588,x0,y59"
+      },
+      {
+       "name": "4:3",
+       "crop": "2433,1825,x390,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1508,1508,x940,y49"
+      },
+      {
+       "name": "3:4",
+       "crop": "1369,1825,x953,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2738,1825,x85,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+     "teaserAuthor": "Ramil Sitdikov / Reuters"
+    },
+    "teaserAuthor": "Ramil Sitdikov / Reuters",
+    "nzzId": "ld.10022202",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Moscow closing the Goethe Institutes in response to German measures?",
+    "paywallQuestionTwo": "According to Russia, what evidence is missing in the case of the drone attack in Leipzig?",
+    "paywallQuestionThree": "How does the closure of the Goethe-Institut affect pro-European Russians?",
+    "characterCount": 4616,
+    "product": "NZZ.ch",
+    "documentId": "10022202",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T08:56:31.247Z",
+    "publicationLastUpdated": "2026-09-03T09:34:43.715Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T20:56:31.247Z",
+    "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "url": "https://www.nzz.ch/deutschland/politik/moskau-schliesst-die-goethe-institute-und-verschaerft-den-ton-gegenueber-berlin-ld.10022202",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 666,
+    "leadText": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Culture: Feminist activist Gloria Steinem has died at the age of 92 +++ Glücksgefühle festival cancels Alphaville's performance due to political statements",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/3f27b985-c37b-48e5-8074-506d7864cffc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/3f27b985-c37b-48e5-8074-506d7864cffc.jpg?width=1024&quality=75&auto=webp",
+     "width": 4579,
+     "height": 3053,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4579,2576,x0,y37"
+      },
+      {
+       "name": "4:3",
+       "crop": "4071,3053,x270,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3053,3053,x779,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2290,3053,x1160,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4579,3053,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2305,
+      "y": 771
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Shannon Stapleton / REUTERS"
+    },
+    "teaserAuthor": "Shannon Stapleton / REUTERS",
+    "flag": "Short news items",
+    "nzzId": "ld.10019050",
+    "readingTime": 1080,
+    "paywallQuestionOne": "Which topics dominate the longlist for the German Book Prize 2026?",
+    "paywallQuestionTwo": "How many debut novels are on the longlist for the German Book Prize?",
+    "paywallQuestionThree": "What significance does the German Book Prize have for the literary scene?",
+    "characterCount": 23618,
+    "tags": [
+     "Bühne"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019050",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T10:30:11.736Z",
+    "publicationLastUpdated": "2026-09-03T10:38:40.440Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T22:30:11.736Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/feuilleton/kultur-die-neusten-meldungen-ld.10019050",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 3619,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Zelensky issues harsh threat – with unforeseeable consequences",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/d31b7f63-a693-40e2-bf48-af30219f3d74.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/d31b7f63-a693-40e2-bf48-af30219f3d74.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2857,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y346"
+      },
+      {
+       "name": "4:3",
+       "crop": "3809,2857,x191,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2857,2857,x953,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2143,2857,x1296,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y55"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "So many Ukrainian drones are reportedly appearing in the skies over Russia that civilian aviation is becoming impossible. The Kremlin considers this a declaration of state terrorism. But Ukrainians do not need to shoot down planes to paralyze air traffic.",
+     "teaserAuthor": "Nurphoto/Getty"
+    },
+    "teaserAuthor": "Nurphoto/Getty",
+    "tags": [
+     "Ukraine-Krieg"
+    ],
+    "nzzId": "ld.10022044",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does Ukraine intend to make Russian airspace unsafe?",
+    "paywallQuestionTwo": "What risks does the strategy pose for civilians?",
+    "paywallQuestionThree": "How are airlines reacting to the Ukrainian threat?",
+    "characterCount": 5590,
+    "product": "NZZ.ch",
+    "documentId": "10022044",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T06:29:31.383Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "So many Ukrainian drones are reportedly appearing in the skies over Russia that civilian aviation is becoming impossible. The Kremlin considers this a declaration of state terrorism. But Ukrainians do not need to shoot down planes to paralyze air traffic.",
+    "authorLine": "Andreas Rüesch",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/23/b6be8592-31cf-4a48-b022-81e3c315218a.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/ukraine-selenski-will-russlands-flugverkehr-unterbinden-ld.10022044",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 831,
+    "premium": true,
+    "leadText": "So many Ukrainian drones are reportedly appearing in the skies over Russia that civilian aviation is becoming impossible. The Kremlin considers this a declaration of state terrorism. But Ukrainians do not need to shoot down planes to paralyze air traffic.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A poetic history lesson from 1990: Yuri Andrukhovych exposes the Russian malaise",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Ilma Rakusa",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2022/11/18/fa919684-a147-4c88-928e-2d741402613d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/11/18/fa919684-a147-4c88-928e-2d741402613d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 3648,
+     "height": 5472,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3648,2052,x0,y1710"
+      },
+      {
+       "name": "4:3",
+       "crop": "3648,2736,x0,y1368"
+      },
+      {
+       "name": "1:1",
+       "crop": "3648,3648,x0,y912"
+      },
+      {
+       "name": "3:4",
+       "crop": "3648,4864,x0,y304"
+      },
+      {
+       "name": "3:2",
+       "crop": "3648,2432,x0,y1520"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With his novels, Juri Andruchowytsch, born in Stanislav in 1960, paved the way for Ukrainian literature in German-speaking countries. Little is known, however, about his body of lyrical work, which holds eye-opening discoveries."
+    },
+    "nzzId": "ld.10017480",
+    "readingTime": 180,
+    "paywallQuestionOne": "What facets does Andrukhovych's poetry collection «Letters to Ukraine» reveal?",
+    "paywallQuestionTwo": "How does the series «Letters to Ukraine» reflect current political tensions?",
+    "paywallQuestionThree": "What themes and stylistic devices characterize Andrukhovych's poems?",
+    "characterCount": 3506,
+    "product": "NZZ.ch",
+    "documentId": "10017480",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "With his novels, Juri Andruchowytsch, born in Stanislav in 1960, paved the way for Ukrainian literature in German-speaking countries. Little is known, however, about his body of lyrical work, which holds eye-opening discoveries.",
+    "url": "https://www.nzz.ch/feuilleton/barocker-ernst-juri-andruchowytschs-gedichtband-briefe-in-die-ukraine-ld.10017480",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 559,
+    "leadText": "With his novels, Juri Andruchowytsch, born in Stanislav in 1960, paved the way for Ukrainian literature in German-speaking countries. Little is known, however, about his body of lyrical work, which holds eye-opening discoveries.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Switzerland is also a strategic target for Russia»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserAuthor": "Diego Fedele / Getty",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/1e828ab3-c33d-47a3-87af-992514986a7a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/1e828ab3-c33d-47a3-87af-992514986a7a.jpg?width=1024&quality=75&auto=webp",
+     "width": 4405,
+     "height": 2937,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4405,2478,x0,y459"
+      },
+      {
+       "name": "4:3",
+       "crop": "3916,2937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2937,2937,x217,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2203,2937,x720,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4405,2937,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+     "teaserAuthor": "Diego Fedele / Getty"
+    },
+    "nzzId": "ld.10020535",
+    "readingTime": 540,
+    "paywallQuestionOne": "How vulnerable is Switzerland to Russian attack plans?",
+    "paywallQuestionTwo": "Why does neutrality offer no protection in the event of war?",
+    "paywallQuestionThree": "What measures does Switzerland need by 2029?",
+    "characterCount": 12716,
+    "product": "NZZ.ch",
+    "documentId": "10020535",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+    "authorLine": "Meret Baumann, Selina Berner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/auch-die-schweiz-ist-fuer-russland-ein-strategisches-ziel-ld.10020535",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 1898,
+    "leadText": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Russia seeks to intimidate Denmark – Danish intelligence reportedly uncovers concrete plans",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/4c68e235-2d1b-40e3-8e60-ff22d498b8a4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/4c68e235-2d1b-40e3-8e60-ff22d498b8a4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y469"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x500,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x1101,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1367,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The head of Danish counter-intelligence accuses Russia of seeking to prevent arms deliveries to Ukraine through attacks. The otherwise reserved intelligence service speaks of a «threat that must be taken seriously.»",
+     "teaserAuthor": "Imago/beckerbrede"
+    },
+    "teaserAuthor": "Imago/beckerbrede",
+    "editor": "1372295",
+    "nzzId": "ld.10022196",
+    "readingTime": 120,
+    "paywallQuestionOne": "What are Russia's goals with its sabotage in Denmark?",
+    "paywallQuestionTwo": "How is Denmark reacting to the threat from Russia?",
+    "paywallQuestionThree": "Why is the intelligence service warning about Russian recruitment?",
+    "characterCount": 1934,
+    "product": "NZZ.ch",
+    "documentId": "10022196",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T22:48:15.840Z",
+    "publicationLastUpdated": "2026-09-03T05:02:58.070Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T10:48:15.840Z",
+    "teaserCaption": "The head of Danish counter-intelligence accuses Russia of seeking to prevent arms deliveries to Ukraine through attacks. The otherwise reserved intelligence service speaks of a «threat that must be taken seriously.»",
+    "url": "https://www.nzz.ch/international/daenemarks-geheimdienst-schlaegt-alarm-russland-soll-sabotage-und-brandstiftung-planen-ld.10022196",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 323,
+    "leadText": "The head of Danish counter-intelligence accuses Russia of seeking to prevent arms deliveries to Ukraine through attacks. The otherwise reserved intelligence service speaks of a «threat that must be taken seriously.»",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022026",
+    "name": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373404,
+       "name": "Peter A. Fischer",
+       "shortName": "pfi",
+       "pianoId": "49eea861-3efa-4465-bce0-7770e08448c0",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T11:58:27.752Z",
+     "updateTimestamp": "2026-09-02T17:58:55.039Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022026",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Paradox: Russian provocations in Germany, sanctions and the G-20 in the USA",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6500,3656,x0,y555&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Peter A. Fischer",
+  "description": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+  "news_keywords": "Germany protests, and the Russian finance minister speaks in the USA: This is not how sanctions work, commentary, opinion, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T21:58:55+02:00",
+  "date": "2026-09-02T15:58:27+02:00",
+  "canonical": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - Germany protests, and the Russian finance minister holds court in the USA: This is not how sanctions work",
+  "ogTitle": "Russia provokes Germany; the Russian finance minister speaks in the USA: why sanctions don't work",
+  "ogUrl": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+  "mrf:cms_id": "nzz:ld.10022026",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10022026",
+  "nzzAuthors": [
+   {
+    "id": 1373404,
+    "name": "Peter A. Fischer",
+    "shortName": "pfi",
+    "pianoId": "49eea861-3efa-4465-bce0-7770e08448c0",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:27 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Paradox: Russian provocations in Germany, sanctions and the G-20 in the USA"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026"
+   },
+   "headline": "Paradox: Russian provocations in Germany, sanctions and the G-20 in the USA",
+   "datePublished": "2026-09-02T15:58:27+02:00",
+   "dateModified": "2026-09-02T21:58:55+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6500,3656,x0,y555&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Peter A. Fischer"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 347040,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "classification=premium",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022026",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-09-02T11:58:27.752Z",
+   "ContentAuthor": "Peter A. Fischer",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wer ist der russische Finanzminister Anton Siluanow, wieso wurde er sanktioniert?\nWas sollen Sanktionen bewirken und wie funktionieren sie?\nWie wirken die Signale aus den USA, was müsste anders werden?",
+   "ldId": "ld.10022026",
+   "channel": "Meinung",
+   "heading": "Deutschland protestiert, und der russische Finanzminister parliert in den USA: So funktionieren Sanktionen nicht",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

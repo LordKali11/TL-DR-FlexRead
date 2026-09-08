@@ -1,0 +1,731 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjh4rkn00",
+   "content": {
+    "subject": "Die Regierung Merz ist wie die von Scholz ein Auslaufmodell",
+    "preheader": "Flexible Mehrheiten sollten ernsthaft erwogen werden"
+   },
+   "data": {
+    "_subjectDirective": {}
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-85c0b59b",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mkp800",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/05/25/c15c00b9-c873-4235-a525-25d536cbb5f6.webp",
+     "mediaId": "XoD6SYByClrr",
+     "key": "2026/05/25/c15c00b9-c873-4235-a525-25d536cbb5f6.webp",
+     "width": 1661,
+     "height": 1661,
+     "mimeType": "image/webp",
+     "altText": "Oliver Maksan",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/25/c15c00b9-c873-4235-a525-25d536cbb5f6.webp?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjh4rkn21",
+   "content": {
+    "text": "by Oliver Maksan"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjh4rkn22",
+   "content": {
+    "text": "Deputy Editor-in-Chief NZZ Germany"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpiqmsn0",
+   "content": {
+    "text": "Germany's party system is in flux. The once-large parties are shrinking, once-small parties are growing, new players are emerging, and others are disappearing. This is a sign of democratic normality, even vitality. That is the good news. The bad news is: Germany's party system is at a dead end because election results and concrete policies are increasingly disconnected. As a result, the familiar coalition governments barely function anymore."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0nv0",
+   "content": {
+    "text": "This is proving detrimental to the parties involved, but above all to the country, under the current German government. <a target=\"_blank\" data-li-document-ref=\"10008176\" href=\"https://www.nzz.ch/ld.10008176\">After just over a year, Chancellor Friedrich Merz is more unpopular than any of his predecessors</a> . His government's approval ratings are abysmal. This is due to Merz's broken campaign promises and his shortcomings. His flamboyant public persona and the results clearly don't align."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5oauv1",
+   "content": {
+    "text": "Above all, it is obvious that the policy shift demanded by the voters cannot be implemented with the struggling SPD. However, not everything is bad, as migration policy and pension reform demonstrate."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0o30",
+   "content": {
+    "text": "The problem is therefore bigger than Merz. Like his predecessor Olaf Scholz of the SPD, he is simply a transitional chancellor. Since Merkel's departure in 2021, her successors have been searching for convincing legitimacy. The traffic light coalition under Scholz, in its desperation, granted itself a modernization mandate that the voters had not granted, but ultimately failed due to its internal contradictions. The current government even styled itself as the last bastion of democracy against a takeover by the AfD. Such a claim is doomed to failure."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0o40",
+   "content": {
+    "text": "What the «traffic light» coalition had to recognize before its expiration date, the black-red government still confronts: they are not models for the future, but rather obsolete concepts. The future will belong to other forms of parliamentary majority-building than accidental coalitions like the «traffic light» or grudgingly entered «grand» coalitions like the current one."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0o60",
+   "content": {
+    "text": "This has been apparent for some time."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0q8ppth0",
+   "content": {
+    "title": "CDU's 2005 electoral setback"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0o70",
+   "content": {
+    "text": "Former German Chancellor and CDU leader Angela Merkel is often described by her critics as the one who forced Germany's party system into this imbalance. Before she took office in 2005, there were clear alternatives between the center-left and center-right: a black-yellow coalition versus a red-green one. That is long gone – to Germany's detriment."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0o80",
+   "content": {
+    "text": "These critics argue that the CDU's leftward shift, aimed at lulling Social Democratic voters into complacency – «asymmetric demobilization» – had destroyed a functioning system of democratically legitimate political change. Merkel, they claim, coolly sacrificed this for the party-political goal of preventing any government formation against the CDU."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0o90",
+   "content": {
+    "text": "That is true – and not true. For it was the German voters themselves who sent the party system into imbalance. The formation of the first grand coalition in 2005 was not because the CDU offered them a center-left option under Merkel's leadership."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0oa0",
+   "content": {
+    "text": "On the contrary. <a target=\"_blank\" href=\"https://www.nzz.ch/deutschland/politik/10-jahre-asylkrise?srsltid=AfmBOoo7SJdM_7fQapcp42aOfP5URCfB4rGUOR_gSYgV7gudt3PBYLWr\">As opposition leader, the future «refugee chancellor» sounded much like the AfD leader Alice Weidel on migration issues</a> , though without resorting to her vitriolic rhetoric. Merkel also wanted to impose a radical free-market reform on the country, a commitment the CDU had made at its Leipzig party conference in 2003."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n0ob0",
+   "content": {
+    "text": "However, Germans were not ready for the market-liberal shift in 2005. This was also evident in the fact that the Agenda reforms of her Social Democratic predecessor Gerhard Schröder gave rise to a new left-wing force. The East German party PDS soon became the all-German Left Party."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jnu2qm5n0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2025/02/23/a877fa76-757e-4d47-8f6c-9e72bef13b2e.jpeg",
+     "mediaId": "YWg6rkiReW4U",
+     "key": "2025/02/23/a877fa76-757e-4d47-8f6c-9e72bef13b2e.jpeg",
+     "width": 5472,
+     "height": 3648,
+     "mimeType": "image/jpeg",
+     "altText": "February 23, 2025, Berlin: Early morning view of the Reichstag building. The snap election for the 21st German Bundestag will take place on Sunday. Photo: Joerg Carstensen/dpa +++ dpa picture service +++",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2025/02/23/a877fa76-757e-4d47-8f6c-9e72bef13b2e.jpeg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "The German Bundestag convenes under the dome of the Berlin Reichstag.",
+    "source": "DPA"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpirb9a0",
+   "content": {
+    "text": "In view of this, Merkel indeed began her consequential center-left course. This, in turn, then created a representation gap that the AfD, founded in 2013, began to fill. The liberal professors' party led by Bernd Lucke, however, was only the beginning. What began as a corrective to the CDU gradually became a genuine right-wing party."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5qnmn1",
+   "content": {
+    "text": "The firewall erected against it has since forced Germany's party system into cross-party alliances and thus into a politics of the lowest common denominator. This is ill-suited to a country undergoing structural change. Fragmentation coupled with a firewall cannot end well."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k0qfv9tg0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/24/bc5d1677-59fc-48cc-8daf-cb9d9d396594.png",
+     "mediaId": "B80oLWcHRmcE",
+     "key": "2026/08/24/bc5d1677-59fc-48cc-8daf-cb9d9d396594.png",
+     "width": 800,
+     "height": 1406,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/bc5d1677-59fc-48cc-8daf-cb9d9d396594.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0qfv4sf0",
+   "content": {
+    "title": "Strengthening parliament"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q6rkjt1",
+   "content": {
+    "text": "It would be better to rely on flexible majorities. This would shift the political center of gravity away from coalition committees and into parliament. The respective government would have to seek majorities on a case-by-case basis. The AfD should be included."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7e0g21",
+   "content": {
+    "text": "Even occasional majorities naturally necessitate compromises. This doesn't preclude horse-trading, as seen in coalition negotiations. <a target=\"_blank\" href=\"https://www.nzz.ch/international/deutschland-hat-die-rechtspopulisten-die-es-verdient-hat-fuer-den-politikwissenschafter-christian-stecker-ist-die-brandmauer-ein-irrweg-er-plaediert-fuer-minderheitsregierungen-und-wechselnde-mehrheiten-ld.10014084\">However, political scientist Christian Stecker rightly points out</a> that the common ground between shifting partners would be greater in individual cases than it is now, where two, and likely more in the future, partners must agree on compromises from which neither they nor the country benefit."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q7vq231",
+   "content": {
+    "text": "That a system primarily geared towards preventing the AfD has no future is obvious. The established parties at the federal level already lack a parliamentary two-thirds majority to amend the constitution."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q9ccbe0",
+   "content": {
+    "text": "But instead of defying all conventions and considering alternatives, the establishment prefers to drift towards an uncertain future on a melting ice floe. It might work for a few legislative terms, but in the long run, it most likely won't."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpirnkt0",
+   "content": {
+    "text": "The French are more flexible than the stability-loving Germans. They have repeatedly adapted the Republic to changing times in the past. Germans should at least consider new forms of majority-building. In any case, a political change in mentality is unavoidable. It must precede changes in practice."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q8c67r0",
+   "content": {
+    "text": "The Netherlands and Sweden have been on this path for some time without collapsing. And in Germany's neighboring country Denmark, minority governments have been the rule since the Second World War, without the country descending into chaos."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh50dcf0",
+   "content": {
+    "title": "What else is important"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh50sdj0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10018895",
+     "$ref": "document",
+     "reference": {
+      "id": "10018895"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg",
+     "mediaId": "wdKMMIsx86yE",
+     "key": "2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg",
+     "width": 5472,
+     "height": 3648,
+     "mimeType": "image/jpeg",
+     "altText": "A person poses with a Wegovy (semaglutide) tablet in this illustration picture taken in Schwenksville, Pennsylvania, US June 16, 2026. REUTERS/Hannah Beier",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "The pill must be taken daily. With weight loss injections, one dose per week is sufficient.",
+    "source": "Hannah Beier/Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjh511h60",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh51d5n0",
+      "content": {
+       "text": "<strong>Weight loss pills:</strong> Starting in September, tablets containing the same active ingredient as in Ozempic or Wegovy injections will be available in Germany. They are newly approved for overweight or obese patients with weight-related comorbidities. However, health insurance will only cover the cost for diabetics. Read <a data-li-document-ref=\"10018895\" href=\"https://www.nzz.ch/ld.10018895\">the full report</a> "
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh511h70",
+      "content": {
+       "text": "<strong>Britain has given the green light for the transfer of key defense technology to Ukraine:</strong> The Storm Shadow/Scalp cruise missile can soon be produced in the attacked country. British Prime Minister Burnham announced this in Kyiv, where Ukraine was celebrating its 35th Independence Day. <a href=\"https://www.nzz.ch/international/35-jahre-ukrainische-unabhaengigkeit-selenski-fordert-mehr-unterstuetzung-ld.10020761\">Read the full report.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh51il90",
+      "content": {
+       "text": "<strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong>For now, no US sanctions against Iran's trading partners:</strong> Finance Minister Bessent had originally threatened to force Tehran to its knees. Now he is suddenly opting for «quiet diplomacy» and wants to give the affected countries one last chance. <a href=\"https://www.nzz.ch/international/iran-krieg/usa-wollen-einnahmequellen-irans-trockenlegen-ld.10020878\">Read the report</a><a data-li-document-ref=\"10009024\" href=\"https://www.nzz.ch/ld.10009024\"></a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh527ec0",
+   "content": {
+    "title": "Behind the headlines"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh52onk0",
+   "content": {
+    "title": "Tesla is pushing into the robotaxis market"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh52vf20",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10020472",
+     "$ref": "document",
+     "reference": {
+      "id": "10020472"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg",
+     "mediaId": "rSWtQjz9GM5h",
+     "key": "2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg",
+     "width": 1693,
+     "height": 1015,
+     "mimeType": "image/jpeg",
+     "altText": "USA, Tesla presents announced Robotaxi October 11, 2024 - USA - Robotaxi: unveiled its long-awaited robotaxi at a Hollywood studio, although fans of the electric vehicle maker will have to wait until at least 2026 before it's available. CEO Elon Musk pulled up to a stage at the Warner Bros. studio lot in one of the company's Cybercabs, telling the crowd the sleek, AI-powered vehicles don't have steering wheels or pedals. He also expressed confidence in the progress the company has made on autonomous driving technology that makes it possible for vehicles to drive without human intervention USA - ZUMAz03_ 20241011_shm_z03_922 Copyright: xTeslax",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Initially, the Cybercabs will only transport Tesla employees at the company headquarters in Austin, but soon they will also transport local residents.",
+    "source": "Imago / Tesla"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jmo691sr0",
+   "content": {
+    "text": "Tesla's new Cybercabs, which operate without drivers, steering wheels, or pedals, are scheduled to begin operating in Austin, Texas, later this month. For CEO Elon Musk, they play a key role in the plan to dominate the self-driving taxi market. <a data-li-document-ref=\"10020472\" href=\"https://www.nzz.ch/ld.10020472\">Background information</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh53fto0",
+   "content": {
+    "title": "Do you like «A Different Perspective in the Morning»? Then forward this newsletter to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh53slp0",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/der-andere-blick-am-morgen/\">Sign up here for the daily newsletter «A Different Perspective in the Morning»</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh55k600",
+   "content": {
+    "text": "I wish you a nice day."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjh55rpf0",
+   "content": {
+    "text": "Yours sincerely, Oliver Maksan"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1857345"
+   }
+  },
+  "issueDate": "2026-06-03T00:00:00.000Z",
+  "title": "Copy of DAB morning template",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10020768",
+  "product": "NZZ.ch",
+  "documentId": 10020768,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T04:34:25.987Z",
+  "publicationDate": "2026-08-25T04:34:25.987Z",
+  "publicationLastUpdated": "2026-08-25T04:37:46.322Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T16:34:25.987Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10020768",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10020768",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483224,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020768",
+    "name": "Copy of DAB morning template",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Copy of DAB morning template",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T04:34:25.987Z",
+     "updateTimestamp": "2026-08-25T04:37:46.322Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020768",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Copy of DAB am Morgen template | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Copy of template DAB am Morgen, Nachrichten, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T08:37:46+02:00",
+  "date": "2026-08-25T08:34:25+02:00",
+  "canonical": "https://www.nzz.ch/ld.10020768",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Copy of DAB morning template",
+  "ogTitle": "Copy of DAB am Morgen template | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10020768",
+  "mrf:cms_id": "nzz:ld.10020768",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020768",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10020768"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:23 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Copy of DAB morning template"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10020768"
+   },
+   "headline": "Copy of DAB am Morgen template | NZZ",
+   "datePublished": "2026-08-25T08:34:25+02:00",
+   "dateModified": "2026-08-25T08:37:46+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10020768",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020768"
+   ],
+   "ContentCreated": "2026-08-25T04:34:25.987Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020768",
+   "heading": "Kopie von Vorlage DAB am Morgen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

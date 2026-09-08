@@ -1,0 +1,1686 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1irpm217r0",
+   "content": {
+    "title": "Opaque, bloated, complicated: why the US healthcare system became as bad as it is today",
+    "lead": "No country in the world spends as much on healthcare as the USA – and yet life expectancy is low. There is a lot of resistance to reforms.",
+    "authorline": "André Müller, New York, Matthias Benz",
+    "author": "André Müller, New York, Matthias Benz"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1iru14unk0",
+   "content": {
+    "image": {
+     "author": "Melina Mara/The Washington Post via Getty",
+     "caption": "One reason for the low life expectancy in the USA is deaths due to the fentanyl epidemic.",
+     "originalUrl": "/2025/05/23/b601ed3d-491f-44c5-9f80-2d21c97ceb4d.jpeg?width=1024",
+     "width": 5593,
+     "height": 3571,
+     "altText": "SAN DIEGO, CALIFORNIA - MARCH 24, 2023: A homeless woman who has just arrived from the midwest smokes fentanyl outside her tent in San Diego, California on Friday March 24, 2023. (Melina Mara/The Washington Post via Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2145033619"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "One reason for the low life expectancy in the USA is deaths due to the fentanyl epidemic.",
+    "author": "Melina Mara/The Washington Post via Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irpm217r1",
+   "content": {
+    "text": "That's not what good value for money looks like. The US spends more on healthcare than any other country in the world. According to data from the OECD, more than 16 percent of the gross domestic product (GDP) flowed into the healthcare system in 2021. The next highest-grossing country, Germany, spent 12.7 percent."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-0c615ba9",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irs0mvnp0",
+   "content": {
+    "text": "But the average American doesn't seem to get much for their money. Compared to other wealthy industrialized nations, the USA stands out with particularly poor results."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irs0rikm0",
+   "content": {
+    "text": "Americans have one of the lowest life expectancies among OECD countries, averaging only 76.4 years. The Swiss and Germans can expect to live to 83.9 and 80.8 years at birth, respectively. Americans live only about as long as Mexicans and Colombians – even though the latter spend less than half as much on healthcare as a percentage of their GDP and live in significantly poorer economies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "datawrapper"
+  },
+  {
+   "identifier": "datawrapper",
+   "id": "doc-LJL4DIr0aG",
+   "content": {
+    "html": {
+     "service": "free-html",
+     "params": {
+      "embedCode": "<iframe title=\"Die USA geben viel für das Gesundheitswesen aus - aber die Lebenserwartung ist tief\" aria-label=\"Scatterplot\" id=\"datawrapper-chart-I6f9A\" src=\"https://datawrapper.dwcdn.net/I6f9A/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}}))}();\n</script>"
+     },
+     "resolvedValue": {
+      "html": "<iframe title=\"Die USA geben viel für das Gesundheitswesen aus - aber die Lebenserwartung ist tief\" aria-label=\"Scatterplot\" id=\"datawrapper-chart-I6f9A\" src=\"https://datawrapper.dwcdn.net/I6f9A/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}}))}();\n</script>"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irs1aq7f0",
+   "content": {
+    "text": "The cost-benefit ratio is also abysmal when considering preventable deaths. This is a commonly used measure of the quality of a country's health policy. It encompasses premature deaths of people under 75 who could have been avoided through appropriate preventive measures or medical treatment. The first group includes deaths from accidents, drug abuse, or inadequate preventive healthcare. The second group includes deaths resulting from inadequate medical treatment, for example, for cancer or cardiovascular diseases."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "datawrapper",
+   "nextElement": "datawrapper"
+  },
+  {
+   "identifier": "datawrapper",
+   "id": "doc-7FiKDErc4c",
+   "content": {
+    "html": {
+     "service": "free-html",
+     "params": {
+      "embedCode": "<iframe title=\"Die USA geben viel für das Gesundheitswesen aus - aber viele Menschen sterben unnötig\" aria-label=\"Scatterplot\" id=\"datawrapper-chart-Evb8C\" src=\"https://datawrapper.dwcdn.net/Evb8C/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}}))}();\n</script>"
+     },
+     "resolvedValue": {
+      "html": "<iframe title=\"Die USA geben viel für das Gesundheitswesen aus - aber viele Menschen sterben unnötig\" aria-label=\"Scatterplot\" id=\"datawrapper-chart-Evb8C\" src=\"https://datawrapper.dwcdn.net/Evb8C/1/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"400\" data-external=\"1\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}}))}();\n</script>"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irs21l560",
+   "content": {
+    "text": "Despite high healthcare spending, many people in the US die prematurely. According to OECD data, there were 336 preventable deaths per 100,000 inhabitants in 2021. In Switzerland and Germany, the figures were 133 and 195, respectively."
+   },
+   "paidContent": true,
+   "prevElement": "datawrapper",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1irsofob70",
+   "content": {
+    "title": "Problems outside of healthcare",
+    "id": "subtitle-probleme-ausserhalb-des-gesundheitswesens"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irs26n2n0",
+   "content": {
+    "text": "The reasons for the poor performance lie not only in the healthcare system, but often in factors prior to it. There are four main reasons why young people in the US die far more often than in Europe: accidents, drugs, firearms, and lifestyle. These deaths of adolescents and young adults have a particularly significant impact on life expectancy calculations because the death of an 18-year-old lowers the average more than the death of a 75-year-old."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsqa0qb0",
+   "content": {
+    "text": "So why do so many young adults die in the USA? First, there are far more fatal accidents in the USA than in European countries, especially on the roads. The death rate is about five times higher than in Switzerland. The list of reasons for this is long: Americans drive more often and for longer distances, their cars are heavier, and the road infrastructure, especially in cities, is worse. Furthermore, traffic rules are poorly enforced and less frequently observed, as any Swiss visitor to New York, for example, quickly discovers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1irsrprco0",
+   "content": {
+    "title": "Many deaths caused by drugs and firearms",
+    "id": "subtitle-viele-tote-durch-drogen-und-schusswaffen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsr73tk1",
+   "content": {
+    "text": "Secondly, the US is still suffering from a fentanyl epidemic: The opioid has spread rapidly and in waves across the US over the past ten years. Fentanyl is much stronger than heroin or other opioids, which is why fatal overdoses are more frequent. From 2021 to 2023, more than 100,000 Americans died each year as a result of drug use."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1iru164m11",
+   "content": {
+    "image": {
+     "author": "Teun Voeten / Imago",
+     "caption": "The drug fentanyl brings much suffering to the USA – like here in San Francisco.",
+     "originalUrl": "/2025/05/23/6713ec5f-0c0a-4320-9dcb-06362d6bcaf7.jpeg?width=1024",
+     "width": 6000,
+     "height": 4000,
+     "altText": "CA: Drug addiction in San Francisco , San Francisco, Tenderloin District, November 2023 San Francisco is the epicenter of the fentanyl crisis. Thousands of homeless camp out on the streets Drugs and crime is rampant. Most used drugs are fentanyl, crack and crystal meth Approximately 10 people a week die from overdose San francisco CA USA NOxUSExINxGERMANY PUBLICATIONxINxALGxARGxAUTxBRNxBRAxCANxCHIxCHNxCOLxECUxEGYxGRExINDxIRIxIRQxISRxJORxKUWxLIBxLBAxMLTxMEXxMARxOMAxPERxQATxKSAxSUIxSYRxTUNxTURxUAExUKxVENxYEMxONLY Copyright: xTeunxVoetenx Editorial use only sipausa_49710958",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2161695003"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The drug fentanyl brings much suffering to the USA – like here in San Francisco.",
+    "author": "Teun Voeten / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsragpd0",
+   "content": {
+    "text": "The number of deaths appears to have decreased by almost 30 percent to 80,000 in 2024, as reported by the CDC a week ago. <a href=\"https://www.nzz.ch/technologie/san-francisco-wie-fentanyl-die-seele-von-amerikas-linker-hochburg-zerstoert-ld.1744206\">One reason for this is likely the improved availability of the antidote naloxone, which can save lives in the event of an overdose</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsr7a531",
+   "content": {
+    "text": "Third, nearly 50,000 Americans die from firearm injuries each year. <a target=\"_blank\" href=\"https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/\">According to CDC figures, in 2023, 58 percent of these deaths were due to suicide and 38 percent to homicide</a> ; the remainder were accidents and fatal police encounters. The widespread availability of firearms is an obvious reason for the high death toll— <a target=\"_blank\" href=\"https://www.smallarmssurvey.org/database/global-firearms-holdings\">according to a 2017 Small Arms Survey,</a> the US is the only country in the world where the number of firearms exceeds the population."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1irsofpgo0",
+   "content": {
+    "title": "Lifestyle poses a risk to health",
+    "id": "subtitle-lebenswandel-gef-hrdet-die-gesundheit"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irssutm50",
+   "content": {
+    "text": "Fourth: Perhaps the most significant difference is lifestyle. Approximately one-third of the additional preventable deaths can be attributed to chronic diseases such as diabetes and organ failure, <a target=\"_blank\" href=\"https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/#Life%20expectancy%20at%20birth,%20in%20years,%201980-2023\">as the non-governmental organizations Peterson Center and KFF have shown</a> . Americans are significantly more likely to be severely overweight and, on average, exercise less than Europeans."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irst2hvi0",
+   "content": {
+    "text": "All these reasons overlap; in 2015, economists Anne Case and Angus Deaton coined the term «deaths of despair» to describe this phenomenon, attributing these deaths to the impoverishment of broad segments of the US population, particularly white men without college degrees. Since then, an intense debate has ensued about the precise relationship between these causes and effects."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsts2n21",
+   "content": {
+    "text": "However, one thing is clear: suicides, drug or alcohol addiction, and poor health are often linked to poverty, loneliness, and mental illness in the USA. In West Virginia, for example, a small state in the Appalachian Mountains, the highest number of people who die from accidents or drug overdoses has been recorded for years. These high death rates are a major reason why West Virginia has been slowly depopulating for years, almost uniquely among US states."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1irstajkv0",
+   "content": {
+    "title": "The healthcare system is also to blame",
+    "id": "subtitle-auch-das-gesundheitssystem-ist-schuld"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irstahgt0",
+   "content": {
+    "text": "These preliminary reasons already explain a large part of the difference between the US and other rich countries. However, a healthcare system that is very expensive, opaque, and complicated also contributes to the problem."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsu1ccb0",
+   "content": {
+    "text": "First, the American healthcare system is expensive. Both drug prices and treatment costs at doctors' offices and hospitals are significantly higher than in other OECD countries. It's no secret among specialists such as dermatologists or ophthalmologists that they can often earn many times more in the US than they would in Europe."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irugs8fs0",
+   "content": {
+    "text": "Secondly, the high costs stem from a lack of price transparency. There are significant differences in drug prices and hospital treatment costs depending on whether a person has comprehensive health insurance or pays for these goods and services privately. Providers have no interest in transparency. For example, hospitals have so far successfully resisted disclosing their rates."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1irurpi9l1",
+   "content": {
+    "image": {
+     "author": "Bryan Woolston / Reuters",
+     "caption": "American drug prices are the highest in the world.",
+     "originalUrl": "/2025/05/23/89d51df3-06ec-4e91-8051-f7f7d5e56d43.jpeg?width=1024",
+     "width": 3500,
+     "height": 2335,
+     "altText": "A technician stocks the shelves of the pharmacy at White House Clinic in Berea, Kentucky, US, February 7, 2018. Picture taken February 7, 2018. REUTERS/Bryan Woolston",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "1951054685"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "American drug prices are the highest in the world.",
+    "author": "Bryan Woolston / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsude710",
+   "content": {
+    "text": "Third, the system is very complex. While almost all Americans now have health insurance, for the majority this is through their employer. For the others, the US has built up a near-universal basic healthcare system over the past decades: 72 million mostly poorer Americans are covered by Medicaid, including about 40 percent of all children and adolescents, and 67 million retirees through Medicare."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsum4191",
+   "content": {
+    "text": "But this system has major flaws, as health economists Amy Finkelstein and Liran Einav describe in their book «We've Got You Covered.» For example, a teenager with a rare disease might receive excellent care for years, only to die shortly after their 18th birthday because their treatment is suddenly no longer covered by Medicaid. It is often very difficult for patients to determine whether a particular treatment will be reimbursed by their insurer."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1iruitkri0",
+   "content": {
+    "title": "Whom should the state help?",
+    "id": "subtitle-wem-soll-der-staat-helfen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsuo5v60",
+   "content": {
+    "text": "The shortcomings of the American healthcare system stem from the ambivalent relationship Americans have with their welfare state. On the one hand, a large majority believes that the state should help all those who become ill through no fault of their own and cannot pay their healthcare bills. In the past, state coverage was often expanded hastily when the media reported shocking cases, such as poor children being denied treatment."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsv7csr0",
+   "content": {
+    "text": "On the other hand, there is widespread reluctance among the population to use public funds to help those who are themselves responsible for their poverty. This is also the basis for the criticism of European healthcare systems, which are often described as «socialist»: this free healthcare could allow able-bodied people to take it easy instead of looking for work."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsuudus0",
+   "content": {
+    "text": "One example of this is the latest cost-cutting measure that Republicans in Congress have just incorporated into their major budget bill. In the future, all Medicaid patients who are able to work will have to prove that they are employed for 80 hours per month in order to be covered by Medicaid. The necessary paperwork will certainly deter slackers – but probably also many patients who would otherwise meet the eligibility requirements for Medicaid."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1irurn7ft1",
+   "content": {
+    "image": {
+     "author": "Lucy Nicholson / Reuters",
+     "caption": "Dentists in Los Angeles offer free consultations to uninsured patients: America's healthcare system has fluctuated between solidarity and harshness for decades. This is one reason why it is so incredibly complex today.",
+     "originalUrl": "/2025/05/23/8ea53a0e-5281-4d4b-82e0-a00377984a48.jpeg?width=1024",
+     "width": 4365,
+     "height": 2910,
+     "altText": "Dentists work on a patient at the Care Harbor four-day free clinic, which offers free medical, dental, and vision care to around 4,000 uninsured people in Los Angeles, California, United States October 15, 2015. REUTERS/Lucy Nicholson",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2170005385"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Dentists in Los Angeles offer free consultations to uninsured patients: America's healthcare system has fluctuated between solidarity and harshness for decades. This is one reason why it is so incredibly complex today.",
+    "author": "Lucy Nicholson / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1irsuucdr0",
+   "content": {
+    "title": "No chance for a system change",
+    "id": "subtitle-keine-chance-f-r-einen-systemwechsel"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsvi2ql0",
+   "content": {
+    "text": "Consequently, the Americans have never been able to commit to introducing a universal basic health insurance system for all residents. This has resulted in a Byzantine-style system that drives up administrative costs."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1iruhaqa90",
+   "content": {
+    "text": "The complexity and lack of transparency of the system are an open invitation to all those who want to line their pockets at the public's expense. The New York Times recently revealed that Medicare <a target=\"_blank\" href=\"https://www.nytimes.com/2025/04/10/health/skin-substitutes-medicare-costs.html\">'s costs for specialized wound dressings have exploded in the past three years—to over $10 billion</a> . Suppliers are exploiting, among other things, a bizarre rule whereby Medicare pays them virtually any price they charge for newly launched products for the first six months. Only after that does the reimbursement decrease. Some suppliers are now launching new products every six months."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1irsvp2mk1",
+   "content": {
+    "text": "Some health economists, such as Finkelstein or <a target=\"_blank\" href=\"https://www.nber.org/papers/w30854\">Katherine Baicker from the University of Chicago,</a> advocate replacing the complicated patchwork system with a simple, streamlined, state-run basic healthcare system. However, such a system change is very difficult to implement politically."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1iruhfinr0",
+   "content": {
+    "text": "Even minor reforms encounter considerable resistance. The established interest groups in the healthcare system—hospitals, health insurers, and pharmaceutical companies—navigate the regulatory thicket more easily than individual patients. They profit handsomely from it—and fight back. The poor cost-benefit ratio of the American healthcare system is unlikely to change anytime soon."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1irpm217r2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1irpm217r3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1irpm217r6",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Now Big Pharma is up against Trump. Will he manage to break their power?",
+       "teaserImage": {
+        "originalUrl": "/2025/05/15/986568a1-c72e-43ff-b4ad-6649991ebbde.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/15/986568a1-c72e-43ff-b4ad-6649991ebbde.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3556,2000,x223,y332"
+         },
+         {
+          "name": "1:1",
+          "crop": "1873,1873,x1064,y397"
+         },
+         {
+          "name": "4:3",
+          "crop": "3161,2371,x420,y148"
+         },
+         {
+          "name": "3:4",
+          "crop": "1778,2371,x1111,y148"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "No industry employs as many lobbyists in Washington as the pharmaceutical industry. Currently, Roche and Novartis are also worried about their lucrative positions in the US: President Donald Trump wants to force lower drug prices.",
+        "teaserAuthor": "Illustration Dario Veréb / NZZaS"
+       },
+       "teaserAuthor": "Illustration Dario Veréb / NZZaS",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1884185",
+       "readingTime": 360,
+       "authorLine": "Dieter Bachmann",
+       "characterCount": 7969,
+       "product": "NZZ.ch",
+       "documentId": 1884185,
+       "layout": "regular",
+       "publicationDate": "2025-05-17T19:45:00.000Z",
+       "publicationLastUpdated": "2025-05-17T19:45:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-05-18T07:45:00.000Z",
+       "teaserCaption": "No industry employs as many lobbyists in Washington as the pharmaceutical industry. Currently, Roche and Novartis are also worried about their lucrative positions in the US: President Donald Trump wants to force lower drug prices.",
+       "url": "/wirtschaft/jetzt-bekommt-es-big-pharma-mit-trump-zu-tun-schafft-er-es-ihre-macht-zu-brechen-ld.1884185",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1187,
+       "leadText": "No industry employs as many lobbyists in Washington as the pharmaceutical industry. Currently, Roche and Novartis are also worried about their lucrative positions in the US: President Donald Trump wants to force lower drug prices.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1irpm217r5",
+      "content": {
+       "owner": "NZZ",
+       "title": "The pharmaceutical industry justifies high drug prices in the US with the costs of research. But that's only half the story",
+       "teaserImage": {
+        "originalUrl": "/2025/02/28/9e15de41-4a65-475a-a43f-f7615e12fe12.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/02/28/9e15de41-4a65-475a-a43f-f7615e12fe12.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7216,
+        "height": 4811,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7216,4059,x0,y376"
+         },
+         {
+          "name": "1:1",
+          "crop": "4811,4811,x1203,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "6415,4811,x401,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3608,4811,x1804,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Big Pharma invests more money in marketing and dividends than in research and development.",
+        "teaserAuthor": "Annick Ramp / NZZ"
+       },
+       "teaserAuthor": "Annick Ramp / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1884521",
+       "readingTime": 300,
+       "authorLine": "Thomas Schlittler",
+       "characterCount": 7486,
+       "product": "NZZ.ch",
+       "documentId": 1884521,
+       "layout": "regular",
+       "publicationDate": "2025-05-17T03:30:00.000Z",
+       "publicationLastUpdated": "2025-05-17T11:32:04.554Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-05-17T15:30:00.000Z",
+       "teaserCaption": "Big Pharma invests more money in marketing and dividends than in research and development.",
+       "url": "/wirtschaft/gefaehrden-tiefere-medikamentenpreise-die-innovation-big-pharma-investiert-mehr-in-marketing-und-dividenden-als-in-forschung-ld.1884521",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1074,
+       "leadText": "Big Pharma invests more money in marketing and dividends than in research and development.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1irpm217r4",
+      "content": {
+       "owner": "NZZ",
+       "title": "Trump wants cheaper medicines in America – and to make Europeans pay for them",
+       "teaserImage": {
+        "originalUrl": "/2025/05/12/30a5ff42-3ce9-41ff-b3b1-c2362f2364d3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/12/30a5ff42-3ce9-41ff-b3b1-c2362f2364d3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4954,
+        "height": 3302,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4954,2787,x0,y262"
+         },
+         {
+          "name": "1:1",
+          "crop": "1832,1832,x1086,y187"
+         },
+         {
+          "name": "4:3",
+          "crop": "4403,3302,x551,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2477,3302,x1076,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The American president wants pharmaceutical companies to offer the US the lowest price they charge developed countries. If he succeeds, the American healthcare system will face a radical transformation. But the courts will have the final say.",
+        "teaserAuthor": "George Frey / Getty"
+       },
+       "teaserAuthor": "George Frey / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1883941",
+       "readingTime": 420,
+       "authorLine": "Dieter Bachmann, André Müller, New York",
+       "characterCount": 9494,
+       "product": "NZZ.ch",
+       "documentId": 1883941,
+       "layout": "regular",
+       "publicationDate": "2025-05-12T17:20:03.506Z",
+       "publicationLastUpdated": "2025-05-12T17:59:27.963Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2025-05-13T05:20:03.506Z",
+       "teaserCaption": "The American president wants pharmaceutical companies to offer the US the lowest price they charge developed countries. If he succeeds, the American healthcare system will face a radical transformation. But the courts will have the final say.",
+       "url": "/wirtschaft/kursrutsch-bei-pharmawerten-trump-setzt-branche-unter-druck-ld.1883941",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1352,
+       "leadText": "The American president wants pharmaceutical companies to offer the US the lowest price they charge developed countries. If he succeeds, the American healthcare system will face a radical transformation. But the courts will have the final say.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "title": "Opaque, bloated, complicated: why the US healthcare system became as bad as it is today",
+  "teaserImage": {
+   "originalUrl": "/2025/05/23/b601ed3d-491f-44c5-9f80-2d21c97ceb4d.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/05/23/b601ed3d-491f-44c5-9f80-2d21c97ceb4d.jpeg?width=1024&quality=75&auto=webp",
+   "width": 5593,
+   "height": 3571,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5593,3146,x0,y425"
+    },
+    {
+     "name": "1:1",
+     "crop": "1982,1982,x2053,y1085"
+    },
+    {
+     "name": "4:3",
+     "crop": "4761,3571,x507,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2678,3571,x1717,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "No country in the world spends as much on healthcare as the USA – and yet life expectancy is low. There is a lot of resistance to reforms.",
+   "teaserAuthor": "Melina Mara/The Washington Post via Getty"
+  },
+  "teaserAuthor": "Melina Mara/The Washington Post via Getty",
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1885585",
+  "readingTime": 480,
+  "authorLine": "André Müller, New York, Matthias Benz",
+  "characterCount": 10416,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1885585,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2025-05-26T03:30:00.000Z",
+  "publicationDate": "2025-05-26T03:30:00.000Z",
+  "publicationLastUpdated": "2025-05-26T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2025-05-26T15:30:00.000Z",
+  "teaserCaption": "No country in the world spends as much on healthcare as the USA – and yet life expectancy is low. There is a lot of resistance to reforms.",
+  "url": "/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 1565,
+  "premium": true,
+  "leadText": "No country in the world spends as much on healthcare as the USA – and yet life expectancy is low. There is a lot of resistance to reforms.",
+  "nzzSummaryEN": "- The U.S. spends more on healthcare than any other country (over 16% of GDP in 2021) but achieves poor outcomes compared to other OECD nations, such as low life expectancy and many preventable deaths.\n- Causes include external issues like accidents, drug use, firearms, and unhealthy lifestyles, as well as an expensive, opaque, and complex healthcare system with high medication costs and uneven coverage.\n- A comprehensive system overhaul is politically challenging as entrenched interest groups benefit from the complexity and resist reforms.",
+  "nzzSummaryDE": "- The USA spends the most on its healthcare system worldwide (over 16% of GDP in 2021), but achieves poor results compared to other OECD countries, such as low life expectancy and many avoidable deaths.\n The causes include both external factors such as accidents, drug use, firearms and unhealthy lifestyles, as well as an expensive, opaque and complicated healthcare system with high drug prices and inconsistent care.\n - Politically, a comprehensive system change is difficult to implement, as established interest groups benefit from the complexity and block reforms.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Despite record spending, the US healthcare system is performing poorly",
+  "nzzPrintSubtitle": "Americans have a low life expectancy – this is partly due to an opaque and complicated healthcare system",
+  "allArticleLanguages": [
+   {
+    "locale": "en-US",
+    "urlPath": "/english/us-health-care-is-crumbling-from-within-ld.1886170",
+    "seo": {}
+   },
+   {
+    "locale": "de-CH",
+    "urlPath": "/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+   "title": "US healthcare system: high costs, poor results",
+   "socialMediaTitle": "Why the US healthcare system performs so poorly despite record spending",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2025/05/23/b601ed3d-491f-44c5-9f80-2d21c97ceb4d.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5593,3146,x0,y425&wmark=nzz"
+  },
+  "ldPublicationId": 2359670,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Drugs",
+    "slug": "/themen/drogen"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "OECD",
+    "slug": "/themen/oecd"
+   },
+   {
+    "name": "Fentanyl",
+    "slug": "/themen/fentanyl"
+   },
+   {
+    "name": "Opioid",
+    "slug": "/themen/opioid"
+   },
+   {
+    "name": "Colombia",
+    "slug": "/themen/kolumbien"
+   },
+   {
+    "name": "Mexico",
+    "slug": "/themen/mexiko"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1884185",
+    "ld.1884521",
+    "ld.1883941"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 684672,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "usa",
+   "name": "USA",
+   "tagName": "USA",
+   "qId": "Q30",
+   "seoTitle": "USA – All news and articles about the United States of America | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:37:30.759Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/usa",
+   "size": 8114,
+   "relatedTopics": [
+    {
+     "name": "Drogen",
+     "slug": "/themen/drogen"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    },
+    {
+     "name": "OECD",
+     "slug": "/themen/oecd"
+    },
+    {
+     "name": "Fentanyl",
+     "slug": "/themen/fentanyl"
+    },
+    {
+     "name": "Opioid",
+     "slug": "/themen/opioid"
+    },
+    {
+     "name": "Kolumbien",
+     "slug": "/themen/kolumbien"
+    },
+    {
+     "name": "Mexiko",
+     "slug": "/themen/mexiko"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Data analysis",
+    "title": "How Popular Is Donald Trump?",
+    "teaserImage": {
+     "originalUrl": "/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024&quality=75&auto=webp",
+     "width": 1801,
+     "height": 1351,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1801,1013,x0,y169"
+      },
+      {
+       "name": "4:3",
+       "crop": "1801,1351,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1351,1351,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1013,1351,x394,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1801,1201,x0,y75"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+     "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ"
+    },
+    "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1883243",
+    "readingTime": 120,
+    "authorLine": "Nikolai Thelitz",
+    "paywallQuestionOne": "Why has Trump's popularity declined?",
+    "paywallQuestionTwo": "What is Trump's stance on the economic situation?",
+    "paywallQuestionThree": "How do Americans view Trump's immigration policy?",
+    "characterCount": 2062,
+    "product": "NZZ.ch",
+    "documentId": "1883243",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:57:50.000Z",
+    "publicationLastUpdated": "2026-09-03T07:57:50.000Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:57:50.000Z",
+    "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/06/08/e254b9af-5f2d-4473-af8c-a9de53509f60.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2026-so-beliebt-ist-er-in-den-usa-ld.1883243",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 317,
+    "leadText": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "10 dollars for a coffee, 600% inflation – and hope for new oil billions: Welcome to everyday life in Venezuela",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y776"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x255,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4298,4298,x1520,y635"
+      },
+      {
+       "name": "3:4",
+       "crop": "3223,4298,x2395,y902"
+      },
+      {
+       "name": "3:2",
+       "crop": "7091,4727,x300,y472"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "showComments": true,
+    "tags": [
+     "Fotografie"
+    ],
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y388"
+      },
+      {
+       "name": "1:1",
+       "crop": "5200,5200,x1332,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x465,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3900,5200,x1982,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7800,5200,x32,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4659,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4659,4659,x340,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6212,4659,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3494,4659,x922,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6989,4659,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2669,
+      "y": 1695
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4629,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y646"
+      },
+      {
+       "name": "1:1",
+       "crop": "4629,4629,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6172,4629,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3472,4629,x331,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6944,4629,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2067,
+      "y": 2614
+     },
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10020261",
+    "readingTime": 600,
+    "paywallQuestionOne": "How will Trump's oil deal affect Venezuela's economic future?",
+    "paywallQuestionTwo": "What role do returning refugees and investors play in Venezuela's recovery?",
+    "paywallQuestionThree": "Why does the oil sector remain unsafe for investors despite reforms?",
+    "characterCount": 11936,
+    "product": "NZZ.ch",
+    "documentId": "10020261",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "authorLine": "Alexander Busch (text), Ana Gosen (images), Caracas",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/10-dollar-fuer-einen-kaffee-600-prozent-inflation-und-hoffnung-auf-neue-erdoelmilliarden-willkommen-im-alltag-in-venezuela-ld.10020261",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1908,
+    "premium": true,
+    "leadText": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 2,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Tanker for Tanker»: Trump escalates further in the Strait of Hormuz",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y306"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x427,y62"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x536,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2273,3030,x487,y185"
+      },
+      {
+       "name": "3:2",
+       "crop": "4999,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+     "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters"
+    },
+    "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Iran-Krieg",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10022048",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the escalation in Hormuz affect the global oil supply?",
+    "paywallQuestionTwo": "What goals is Trump pursuing with the blockade against Iran?",
+    "paywallQuestionThree": "How is Iran reacting to the US attacks?",
+    "characterCount": 5043,
+    "product": "NZZ.ch",
+    "documentId": "10022048",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:30:00.880Z",
+    "publicationLastUpdated": "2026-09-02T12:17:04.250Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:30:00.880Z",
+    "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "authorLine": "Christian Weisflog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/tanker-fuer-tanker-trump-zuendet-in-der-strasse-von-hormuz-die-naechste-eskalationsstufe-ld.10022048",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 776,
+    "leadText": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump's grab for Venezuela's oil reserves remains a paper tiger",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3668,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4891,3668,x305,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3668,3668,x916,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2751,3668,x1375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+     "teaserAuthor": "Gaby Oraa / Reuters"
+    },
+    "teaserAuthor": "Gaby Oraa / Reuters",
+    "flag": "Opinion",
+    "showComments": true,
+    "nzzId": "ld.10021740",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why does Trump's deal with Venezuela remain meaningless for the world market?",
+    "paywallQuestionTwo": "How do mismanagement and sanctions affect Venezuela's oil production?",
+    "paywallQuestionThree": "What challenges exist for investments in Venezuela's oil sector?",
+    "characterCount": 4369,
+    "product": "NZZ.ch",
+    "documentId": "10021740",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T06:50:39.452Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "authorLine": "Catherine Bosley",
+    "authorImage": {
+     "originalUrl": "/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/trumps-griff-nach-venezuelas-erdoelschaetzen-bleibt-ein-papiertiger-ld.10021740",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 637,
+    "premium": true,
+    "leadText": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1885585",
+    "name": "Opaque, bloated, complicated: why the US healthcare system became as bad as it is today",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Opaque, bloated, complicated: why the US healthcare system became as bad as it is today",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2025-05-26T03:30:00.000Z",
+     "updateTimestamp": "2025-05-26T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1885585",
+   "pageType": "longformstandard",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "US healthcare system: high costs, poor results",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2025/05/23/b601ed3d-491f-44c5-9f80-2d21c97ceb4d.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5593,3146,x0,y425&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "André Müller, New York, Matthias Benz",
+  "description": "No country in the world spends as much on healthcare as the USA – and yet life expectancy is low. There is a lot of resistance to reforms.",
+  "news_keywords": "Opaque, bloated, complicated: why the US healthcare system became as bad as it is today, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2025-05-26T07:30:00+02:00",
+  "date": "2025-05-26T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [
+   {
+    "hreflang": "en",
+    "href": "https://www.nzz.ch/english/us-health-care-is-crumbling-from-within-ld.1886170"
+   },
+   {
+    "hreflang": "de",
+    "href": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585"
+   }
+  ],
+  "sharedTitle": "Opaque, bloated, complicated: why the US healthcare system became as bad as it is today",
+  "ogTitle": "Why the US healthcare system performs so poorly despite record spending",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+  "mrf:cms_id": "nzz:ld.1885585",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.1885585",
+  "nzzAuthors": [
+   {
+    "name": "André Müller, New York, Matthias Benz"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   },
+   {
+    "rel": "alternate",
+    "href": "https://www.nzz.ch/english/us-health-care-is-crumbling-from-within-ld.1886170",
+    "hreflang": "en"
+   },
+   {
+    "rel": "alternate",
+    "href": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+    "hreflang": "de"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:51:38 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "US healthcare system: high costs, poor results"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585"
+   },
+   "headline": "US healthcare system: high costs, poor results",
+   "datePublished": "2025-05-26T07:30:00+02:00",
+   "dateModified": "2025-05-26T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "No country in the world spends as much on healthcare as the USA – and yet life expectancy is low. There is a lot of resistance to reforms.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2025/05/23/b601ed3d-491f-44c5-9f80-2d21c97ceb4d.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5593,3146,x0,y425&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "André Müller, New York, Matthias Benz"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 684672,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/intransparent-aufgeblaeht-kompliziert-warum-das-us-gesundheitssystem-so-schlecht-wurde-wie-es-heute-ist-ld.1885585",
+    "classification=premium",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1885585",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2025-05-26T03:30:00.000Z",
+   "ContentAuthor": "André Müller, New York, Matthias Benz",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Warum sind die Gesundheitskosten in den USA so hoch?\nWie beeinflussen soziale Bedingungen die Lebenserwartung in den USA?\nWelche Reformen könnten das US-Gesundheitssystem effizienter machen?",
+   "ldId": "ld.1885585",
+   "channel": "Wirtschaft",
+   "heading": "Intransparent, aufgebläht, kompliziert: warum das US-Gesundheitssystem so schlecht wurde, wie es heute ist",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

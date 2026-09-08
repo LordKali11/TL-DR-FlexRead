@@ -1,0 +1,715 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjc27ihb0",
+   "content": {
+    "subject": "Bundesregierung startet nach der Sommerpause mit Klausur",
+    "preheader": "Das Wichtigste des Tages im Rückblick."
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-515600f4",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-newsletter-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-newsletter-subtitle",
+   "id": "doc-1jjc27ihc4",
+   "content": {
+    "title": "The most important events of the day in review"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjc27ihc7",
+   "content": {
+    "text": "<strong>The most important topics of the evening:</strong> The cabinet discusses the competitiveness of the German economy, and Iran reacts calmly to the economic pressure from the USA"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-newsletter-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc290gv0",
+   "content": {
+    "text": "<strong>And you'll only read this in the NZZ:</strong> Ulrich Siegmund is the man who could shake the republic on September 6th. On that day, Saxony-Anhalt elects a new state parliament. Since 2022, Siegmund has co-chaired the AfD parliamentary group there. Wherever he goes on his campaign tour, he's celebrated like a pop star. But voters' expectations for the AfD's first government are high. <a data-li-document-ref=\"10020717\" href=\"https://www.nzz.ch/ld.10020717\">Read the full report</a> "
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2a8b40",
+   "content": {
+    "title": "This Evening's Most Important News"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2ahhg0",
+   "content": {
+    "title": "German government cabinet retreat – economy demands «Schröderize» courage"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1ju7oeqrp0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10020827",
+     "$ref": "document",
+     "reference": {
+      "id": "10020827"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/80db3f70-a7da-4c36-8ce5-6649e362d733.webp",
+     "mediaId": "LRVbIsbnkVJR",
+     "key": "2026/08/25/80db3f70-a7da-4c36-8ce5-6649e362d733.webp",
+     "width": 1200,
+     "height": 800,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/80db3f70-a7da-4c36-8ce5-6649e362d733.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Andreas Gora/Imago"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2ap7v0",
+   "content": {
+    "text": "<strong>What happened:</strong> The cabinet came together for a two-day cabinet retreat. The meeting of the coalition partners from CDU, CSU, and SPD focused primarily on strengthening the competitiveness of the German economy. Security and climate protection were also on the agenda for the deliberations at Neuhardenberg Palace in Brandenburg. <a href=\"https://www.nzz.ch/ld.10020827\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2b5jt0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Chancellor Friedrich Merz said that the cabinet meeting would prepare what the coalition still intended to accomplish during the year. With the end of the parliamentary summer break, the «autumn of reforms» was then set to begin. Various economic actors had previously put pressure on the government to ensure reforms of pensions, taxes, or the healthcare system, for example, would succeed. These actors agreed that things could not continue as they had until then."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0shm4di0",
+   "content": {
+    "text": "<strong>How economic representatives reacted:</strong> Marie-Christine Ostermann, President of the Family Businesses, demanded that the federal government present a «coherent growth strategy.» Wolfgang Grosse Entrup, Managing Director of the German Chemical Industry Association, believed that Germany needed «the courage to 'Schröderize'.» Grosse Entrup therefore called for an «Agenda 2030,» echoing Agenda 2010 under the then-Social Democratic Federal Chancellor Gerhard Schröder."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2befn0",
+   "content": {
+    "title": "Washington's increased pressure – Tehran unimpressed"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2bn060",
+   "content": {
+    "text": "<strong>What happened:</strong> The U.S. tightened economic pressure on Iran and also threatened its trading partners with sanctions. Tehran remained unimpressed and, in turn, threatened to restrict the flow of oil in the Persian Gulf. Washington faced a dilemma: Iran was difficult to isolate as long as China remained its most important buyer of Iranian oil. Beijing signaled that it would not be deterred from trading with Iran by U.S. threats. <a href=\"https://www.nzz.ch/ld.10020976\">To the analysis</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0si9sma0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> If it were up to the U.S. government, all countries were to cut their economic ties with Iran. Last week, American President Donald Trump had spoken of «measures of historical proportions.» However, the steps presented on Monday fell short of this announcement."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2braf0",
+   "content": {
+    "text": "<strong>What the expert said:</strong> «Even if sanctions pressure is further increased, a short-term change in Tehran's strategic calculus in the war is unlikely,» said Iran expert Ali Fathollah-Nejad. He added that, in the medium to long term, targeted sanctions against the regime could pave the way for Iran to re-evaluate its strategic calculus and develop a greater willingness for understanding and concessions."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2ldtc0",
+   "content": {
+    "title": "What Else Happened"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjc2mckq0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0shstlh0",
+      "content": {
+       "text": "<strong>Traces of additional explosive drones at Leipzig/Halle Airport:</strong> According to reports by «WDR,» «NDR,» and «SZ,» investigators found traces of a total of three drones. A third drone was also found, according to investigations, in a field in Kabelsketal bordering the airport. <a href=\"https://www.nzz.ch/ld.10018624\">To the latest developments</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "u-i-hrtvaaIB": {
+          "start": 174,
+          "end": 178,
+          "text": "three"
+         },
+         "-HvfPsHEft3f": {
+          "start": 349,
+          "end": 349,
+          "text": "Siegmund"
+         },
+         "BI2Lt8SWhcyB": {
+          "start": 349,
+          "end": 349,
+          "text": "leading the AfD as Minister-President"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0slsue80",
+      "content": {
+       "text": "<strong>Former German Foreign Minister Annalena Baerbock to become Columbia professor:</strong> After her time as President of the U.N. General Assembly, Baerbock was to become a professor at a renowned university in New York. Not everyone found this appropriate. <a href=\"https://www.nzz.ch/ld.10020923\">To the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sk69ia0",
+      "content": {
+       "text": "<strong>Chip giant Nvidia making stock markets nervous:</strong> For the global economy, Nvidia's financial results were as important as a U.S. Federal Reserve interest rate decision. The quarterly figures, to be released on Wednesday, absolutely had to show a positive result; otherwise, a market crash threatened. <a href=\"https://www.nzz.ch/ld.10020939\">To the analysis</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "Vo8zS3VTcNm7": {
+          "start": 164,
+          "end": 179,
+          "text": "Quarterly figures,"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0shs0pp0",
+      "content": {
+       "text": "<strong>Israel's bombing of Syria and targeting of Turkey:</strong> With the attack on the Syrian province of Idlib, Jerusalem was following a new doctrine and was not shying away from confrontation with a NATO state. Doubts arose in Israel as to whether the strategy would pay off. <a href=\"https://www.nzz.ch/ld.10020882\">To the report</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "teDmdBfJ6lci": {
+          "start": 208,
+          "end": 214,
+          "text": "himself"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mmda0",
+      "content": {
+       "text": "<strong>Basketball player Sophie Cunningham suddenly the star of the culture war:</strong> Athletically, Cunningham was not one of the big figures in the American basketball league. But with her criticism of trans athletes in an interview, she had become a darling of the Maga movement – although no trans woman played in the league at the time. <a href=\"https://www.nzz.ch/ld.10020859\">To the report</a><a href=\"https://www.nzz.ch/ld.10020859\"></a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "X1usP1lnJFha": {
+          "start": 138,
+          "end": 152,
+          "text": "basketball player"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mn7o0",
+      "content": {
+       "text": "<strong>Morocco's young star Ayyoub Bouaddi on verge of Manchester City move:</strong> Expectations for an 18-year-old could hardly have been higher. The footballer would cost the English club 100 million euros in transfer fees. <a href=\"https://www.nzz.ch/ld.10020922\">To the report</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "S1q3H2GkQjlX": {
+          "start": 202,
+          "end": 208,
+          "text": "Transfer fee"
+         }
+        }
+       }
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2nlqu0",
+   "content": {
+    "title": "Our recommendation for «NZZ Pro» subscribers"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjc2o9ei0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10020232",
+     "$ref": "document",
+     "reference": {
+      "id": "10020232"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/25125537-4eaf-4ed3-a0c4-58d28f31360c.webp",
+     "mediaId": "Taz9Dcfn9Rjj",
+     "key": "2026/08/25/25125537-4eaf-4ed3-a0c4-58d28f31360c.webp",
+     "width": 1200,
+     "height": 800,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/25125537-4eaf-4ed3-a0c4-58d28f31360c.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Nicolas Maeterlinck/Imago"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjc2okv20",
+   "content": {
+    "text": "<strong>China's flood of subsidies:</strong> China's state-subsidized industry put pressure on Europe's chemical sector with extremely low prices. The EU was therefore discussing higher tariffs to protect strategically important industries. But high energy prices and bureaucracy also weakened Europe's competitiveness. A visit to a Belgian industrial city showed the consequences. <a href=\"https://www.nzz.ch/ld.10020232\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-footnote"
+  },
+  {
+   "identifier": "newsletter_baukasten-footnote",
+   "id": "doc-1jjc2pk0h0",
+   "content": {
+    "text": "With the premium newsletter «NZZ Pro,» you get a look ahead at the global economy and geopolitics. Test it for free for thirty days now. <a href=\"http://abo.nzz.ch/newsletter/pro\">Register here</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2qi8q0",
+   "content": {
+    "title": "Our Recommendations Today"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-footnote",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjc2qrde0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10020832",
+     "$ref": "document",
+     "reference": {
+      "id": "10020832"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/992fea64-0644-4ae2-82cf-e651aef50c7c.webp",
+     "mediaId": "nC4zHvPcVqTW",
+     "key": "2026/08/25/992fea64-0644-4ae2-82cf-e651aef50c7c.webp",
+     "width": 1200,
+     "height": 800,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/992fea64-0644-4ae2-82cf-e651aef50c7c.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Alfio Giannotti/Reda&amp;Co/Imago"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2r2a30",
+   "content": {
+    "text": "<strong>Annoying goat plague:</strong> On Capri in the Gulf of Naples, goats ate everything and caused great damage. The issue with the animals preoccupied the islanders. Some of them had identified a culprit: Mario Martone, a well-known director in Italy's film business. He reportedly brought goats of a different breed to Capri specifically for a 2018 shoot, sources said. A summer story that would keep the island busy for a while. <a href=\"https://www.nzz.ch/ld.10020832\">To the background</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sgjiin0",
+   "content": {
+    "text": "<strong>Frequent stomach ache:</strong> When in doubt, remove the appendix, people used to say. But then, it was much easier to determine whether the appendicular appendix was actually inflamed. Fortunately, because in children, vague stomach pains could have entirely different reasons. And not infrequently, the pain arose more in the head than in the stomach. <a href=\"https://www.nzz.ch/ld.10014468\">To the column «Main thing, healthy»</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjc2r0390",
+   "content": {
+    "text": "<strong>Trade dispute with the U.S.:</strong> Since Mark Carney took office as head of government in March 2025, he had mantra-like invoked Canadian sovereignty. Carney seemed prepared for the arduous conflict with Trump – however, it remained open how long the Canadian population was willing to bear the economic burdens for it. <a href=\"https://www.nzz.ch/ld.10020798\">To the background</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjc2rng90",
+   "content": {
+    "title": "Before You Go On"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2s2t20",
+   "content": {
+    "text": "🧘🏽 <strong>Listen:</strong> Ukraine handled a significant portion of its exports through the ports near Odesa. Russia was intensifying its attacks on the region. A decisive battle was being fought here, far from the front line. It was about Ukraine's economic survival. Foreign editor Jonas Roth was on site and described in «NZZ Akzent» how the city was trying to defend itself against Russia. <a href=\"https://www.nzz.ch/ld.10020514\">To the podcast</a><a href=\"https://www.nzz.ch/ld.10020514\"></a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2sab20",
+   "content": {
+    "text": "🧘🏽 <strong>Discover:</strong> Deepen your knowledge of nutrition, health, and psychology with our newsletter «Wohl &amp; Sein.» Every Thursday in your inbox. <a href=\"https://abo.nzz.ch/newsletter/wohl-und-sein/\">Register here</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2skk80",
+   "content": {
+    "text": "I wished you a relaxing Tuesday evening.<br>Lillybelle Eisele"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "title": "The German Federal Government will begin its retreat after the summer break",
+  "owner": "NZZ",
+  "dependencies": {},
+  "issueDate": "2026-08-25T00:00:00.000Z",
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654587"
+   }
+  },
+  "nzzId": "ld.10020942",
+  "product": "NZZ.ch",
+  "documentId": 10020942,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T14:58:45.868Z",
+  "publicationDate": "2026-08-25T14:58:45.868Z",
+  "publicationLastUpdated": "2026-08-25T14:58:45.868Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T02:58:45.868Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10020942",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10020942",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483542,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020942",
+    "name": "The German Federal Government will begin its retreat after the summer break",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The German Federal Government will begin its retreat after the summer break",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T14:58:45.868Z",
+     "updateTimestamp": "2026-08-25T14:58:45.868Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020942",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Federal government resumes retreat after summer break | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Federal government starts after the summer break with retreat, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T18:58:45+02:00",
+  "date": "2026-08-25T18:58:45+02:00",
+  "canonical": "https://www.nzz.ch/ld.10020942",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The German Federal Government will begin its retreat after the summer break",
+  "ogTitle": "Federal government resumes retreat after summer break | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10020942",
+  "mrf:cms_id": "nzz:ld.10020942",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020942",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10020942"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:26 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "The German Federal Government will begin its retreat after the summer break"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10020942"
+   },
+   "headline": "Federal government resumes retreat after summer break | NZZ",
+   "datePublished": "2026-08-25T18:58:45+02:00",
+   "dateModified": "2026-08-25T18:58:45+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10020942",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020942"
+   ],
+   "ContentCreated": "2026-08-25T14:58:45.868Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020942",
+   "heading": "Bundesregierung startet nach der Sommerpause mit Klausur",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

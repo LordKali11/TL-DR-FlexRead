@@ -1,0 +1,1855 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jk0n02i70",
+   "content": {
+    "subject": "Wird Russlands Militärmacht überschätzt?",
+    "preheader": "Blick voraus auf Geopolitik und Weltwirtschaft"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-803575bf",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0n02i81",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/04/07/33f2719b-69f1-48f5-a9b9-a623c401318a.png",
+     "mediaId": "dfjL-TRAvzfl",
+     "key": "2026/04/07/33f2719b-69f1-48f5-a9b9-a623c401318a.png",
+     "width": 800,
+     "height": 800,
+     "mimeType": "image/png",
+     "altText": "Marco Seliger",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/07/33f2719b-69f1-48f5-a9b9-a623c401318a.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jk0n02i83",
+   "content": {
+    "text": "Marco Seliger"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jk0n02i84",
+   "content": {
+    "text": "<a data-li-document-ref=\"1746755\" href=\"https://www.nzz.ch/marco-seliger-ld.1746755\">Editor for Security and<br> Defense policy, Berlin</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eev9k30",
+   "content": {
+    "text": "I'd like to make an exception and get personal here. I'm a child of the GDR and come from Wernigerode in what is now Saxony-Anhalt. A new state parliament will be elected there this coming weekend. According to the polls, the AfD, which is partly far-right, could achieve a historic result."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq200",
+   "content": {
+    "text": "I recently met up with some longtime friends in my hometown. We had grilled steaks and beer; we hadn't seen each other in ages. At one point, a football match was on, but it wasn't particularly interesting. Things got more interesting when we started talking about the state elections."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq280",
+   "content": {
+    "text": "Our host, who works in West German industry, openly stated that he would vote for the AfD. He said he had been doing so for years."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2a0",
+   "content": {
+    "text": "What happened next surprised me. I had expected that he would at least receive some agreement from some of the people in that group. Instead, my friends asked: «Why do you vote for the AfD?»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2b0",
+   "content": {
+    "text": "Because one simply couldn't bear to live in this Germany anymore, he said. Everything was going to hell in a handbasket. Friedrich Merz was breaking every single one of his political promises. He was a criminal, and so was the SPD. And in the war in Ukraine, Germany had long since become a belligerent, since it was supplying weapons."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2d0",
+   "content": {
+    "text": "«Where exactly does it go downhill?» my friends asked."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2e0",
+   "content": {
+    "text": "Our host was at a loss for words. «You're doing wonderfully,» my friends said calmly. «Look around you: house, garden, two cars, wife and children. What more could you possibly want?»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2f0",
+   "content": {
+    "text": "I sat there the whole time and remained silent. I was probably the one in that group who deals most intensively with the AfD and its voters in East Germany professionally. I've written many articles about it, spoken with voters, politicians, and academics, and tried to understand where the frustration comes from and why it so often manifests itself in a vote for the AfD, especially in the East."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2g0",
+   "content": {
+    "text": "But that evening, I didn't have to bring out any of the arguments I'd honed through this work. My friends handled it in a warm and engaging way. And perhaps they even did it better than I could have with any article."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2h0",
+   "content": {
+    "text": "One remark by our host has particularly stuck in my mind: that Germany, because of its arms deliveries, is a party to the war against Russia. Behind this lies a question that extends far beyond this barbecue in Wernigerode. How great is the actual danger emanating from Russia?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ge44rg1",
+   "content": {
+    "text": "Germany is experiencing sabotage attempts, drone attacks, and hybrid attacks. Yesterday, German Interior Minister Alexander Dobrindt said Russia was responsible for the attempted drone attack on Leipzig Airport."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gduvb41",
+   "content": {
+    "text": "Russia is waging a brutal war of attrition against Ukraine. At the same time, a debate is raging in Germany about whether rearmament and arms deliveries create security – or actually endanger the country."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2k0",
+   "content": {
+    "text": "And then there's Matthias Uhl."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2l0",
+   "content": {
+    "text": "The historian and Russia expert lived in Moscow for twenty years and conducted research in Russian military archives. Three years ago, his institute was expelled from Russia, and he moved to Helsinki. Uhl considers Russia dangerous but contradicts a now widespread notion that Putin possesses a military power that could one day overrun Europe."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1evoq2m0",
+   "content": {
+    "text": "Uhl even says the West overestimates Russia's military strength. Especially after the evening in Wernigerode, I wanted to know from him: How does he come to that conclusion? You can read my interview with him <a data-li-document-ref=\"10020200\" href=\"https://www.nzz.ch/ld.10020200\">online</a> or further down in the newsletter."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n2k8m0",
+   "content": {
+    "text": "Furthermore, I would like to recommend the following articles from «NZZ Pro»:"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jtfu50pc0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jtfu50pd0",
+      "content": {
+       "text": "<strong>Iran:</strong> Niklaus Nuspliger <a data-li-document-ref=\"10021770\" href=\"https://www.nzz.ch/ld.10021770\">takes</a> stock after six months. What has the war brought America?"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jtj6faq40",
+      "content": {
+       "text": "<strong>Switzerland:</strong> The country is a magnet for multinational corporations. But their dissatisfaction with the location is growing, as a McKinsey report shows. Lorenz Honegger <a data-li-document-ref=\"10021678\" href=\"https://www.nzz.ch/ld.10021678\">analyzes</a> the development."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jtj6imj90",
+      "content": {
+       "text": "<strong>Europe:</strong> The transatlantic alliance between the Maga movement in the USA and European right-wing populists is in crisis. Andreas Ernst <a data-li-document-ref=\"10017749\" href=\"https://www.nzz.ch/ld.10017749\">explains</a> the reasons."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0n2ti40",
+   "content": {
+    "text": "I wish you an insightful read."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0n32170",
+   "content": {
+    "text": "<em>Marco Seliger</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-footnote"
+  },
+  {
+   "identifier": "newsletter_baukasten-footnote",
+   "id": "doc-1jk0n36nj0",
+   "content": {
+    "text": "If you have any questions, suggestions or criticism, please feel free to write to me at marco.seliger@nzz.ch."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jk0n3ohn0",
+   "content": {
+    "title": "«I believe that Putin is increasingly detached from reality»"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-footnote",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jk0n47bi0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/cf43e31c-11e1-490d-9fb1-79df83cbc4dd.jpg",
+     "mediaId": "sDVLGlH51oOz",
+     "key": "2026/08/25/cf43e31c-11e1-490d-9fb1-79df83cbc4dd.jpg",
+     "width": 5996,
+     "height": 3785,
+     "mimeType": "image/jpeg",
+     "altText": "Russian service members take part in a military parade on Victory Day, marking the 81st anniversary of the victory over Nazi Germany in World War Two, in Red Square in central Moscow, Russia, May 9, 2026. REUTERS/Shamil Zhumatov/Pool",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2178580462"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/cf43e31c-11e1-490d-9fb1-79df83cbc4dd.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "A Russian military parade in Moscow on May 9.",
+    "source": "Shamil Zhumatov / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jk0n4ij70",
+   "content": {
+    "title": "Geopolitical classification at a glance"
+   },
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n4ij80",
+      "content": {
+       "text": "<strong>In short:</strong> Russia expert Matthias Uhl believes the military strength of the Putin regime is overestimated. Nevertheless, the country remains a threat to Europe."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n52s40",
+      "content": {
+       "text": "<strong>Geopolitical assessment:</strong> The war in Ukraine has exposed Russia's weaknesses, such as the inefficient organization of its military. Furthermore, the army is increasingly fighting with outdated weapons."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n5ad50",
+      "content": {
+       "text": "<strong>Looking ahead:</strong> Europe must nevertheless remain vigilant and adapt its defense to new technologies such as drones."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1eeuqh30",
+   "content": {
+    "text": "How do you come to the conclusion that the West overestimates Russia's military strength?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef4b550",
+   "content": {
+    "text": "Over many years, I've gained insight into how the Russian military actually operates. Among other things, we digitized files from the Central Archive of the Russian Ministry of Defense as part of a major project. Even this relatively small segment of the Russian army revealed numerous problems hidden behind the supposedly magnificent facade of the armed forces. Therefore, I wanted to examine Russia's military strength using information and data that are often overlooked in public debate. The Russian armed forces are dangerous. But they are currently not capable of actions that would pose an immediate military threat to NATO."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef4b580",
+   "content": {
+    "text": "You are contradicting NATO and numerous Western security experts. Russia has been massively building up its military since Putin came to power. What evidence do you have for your thesis?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef4b5a0",
+   "content": {
+    "text": "I don't dispute that. Russia has been building up its military significantly since the turn of the millennium, long before it invaded Ukraine in 2022. But the war also shows just how ineffective this buildup actually was. It was assumed that Ukraine would collapse like a house of cards within a few days or weeks. That did not happen. To this day, Russia is not achieving its strategic goals. At the same time, Putin repeatedly presents new weapon systems to impress the West. Some of these are more like propaganda weapons or systems of very limited strategic value."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef4b5a1",
+   "content": {
+    "text": "What weapons are those?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef4b5b0",
+   "content": {
+    "text": "One example is the nuclear-powered «Poseidon» torpedo. It cannot be fired from the Russian navy's existing nuclear submarines because it is far too large. Two special submarines therefore have to be built at great expense to deploy this weapon."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef4b5c0",
+   "content": {
+    "text": "So is the war in Ukraine the great proof that the West has overestimated the Russian army?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef4b5d0",
+   "content": {
+    "text": "One must be careful about drawing direct conclusions from the war in Ukraine for a potential war between Russia and NATO. NATO generals argue, for example, that the alliance would use its air superiority and fight Russian troops from the air. Whether it would actually work that way, we do not know. But Ukraine is currently revolutionizing certain concepts of warfare. Drones have acquired enormous importance. The kill zone behind the front now extends for dozens of kilometers. This corresponds only to a limited extent to what we know from some NATO exercises and planning."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-infobox"
+  },
+  {
+   "identifier": "newsletter_baukasten-infobox",
+   "id": "doc-1k1ef56tu0",
+   "content": {
+    "description": "Matthias Uhl, born in 1970, is a historian who conducted research in Moscow for approximately twenty years. His book «GRU» is a standard work on the Russian military intelligence service.",
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2024/11/15/045acccd-b452-4f23-87a6-352f4c96c247.jpeg",
+     "mediaId": "9AdcqPJhmCuN",
+     "key": "2024/11/15/045acccd-b452-4f23-87a6-352f4c96c247.jpeg",
+     "width": 474,
+     "height": 526,
+     "mimeType": "image/jpeg",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2162888333"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2024/11/15/045acccd-b452-4f23-87a6-352f4c96c247.jpeg?width=1024&quality=75&auto=webp"
+    }
+   },
+   "data": {
+    "_descriptionDirective": {
+     "highlightedTextRanges": {
+      "rPK8wIw1fWLQ": {
+       "start": 0,
+       "end": 2,
+       "text": "He"
+      }
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1eeuql90",
+   "content": {
+    "text": "You cite the enormous Russian losses as a sign of military weakness. Are they not at the same time a sign of remarkable strength? Russia can sustain hundreds of thousands of casualties and still keep fighting. Which Western society could do that?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-infobox",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5hi70",
+   "content": {
+    "text": "Probably none. That is one of Russia's strengths. Its mobilization system repeatedly manages to provide new forces. However, this system operates in an extremely wasteful manner. We see cases in which soldiers were killed just days after signing their contracts. They receive hardly any training and are sent practically straight to the front. This shows how great the need for personnel is."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k1ef5kvs0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2022/09/30/59d3f706-b044-408d-9d80-dc34dc164ec8.jpeg",
+     "mediaId": "hLKDwzNzL55X",
+     "key": "2022/09/30/59d3f706-b044-408d-9d80-dc34dc164ec8.jpeg",
+     "width": 5064,
+     "height": 3376,
+     "mimeType": "image/jpeg",
+     "altText": "Russia Ukraine Military Operation Partial Mobilization 8285955 29.09.2022 Men conscripted for military service during partial mobilization participate in combat training on a military training ground in the Leningrad region, Russia. Alexander Galperin / Sputnik Leningrad region Russia PUBLICATIONxINxGERxSUIxAUTxONLY Copyright: xAlexanderxGalperinx ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2135850957"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2022/09/30/59d3f706-b044-408d-9d80-dc34dc164ec8.jpeg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Russian soldiers during training in the Leningrad Oblast. The poster in the foreground reads the Russian word for «victory.»",
+    "source": "Alexander Galperin / Sputnik via Imago"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef2ale0",
+   "content": {
+    "text": "Russia's arms industry also does not seem to have reached its limit. How does that fit with your thesis that Russia is militarily overestimated in the West?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5up30",
+   "content": {
+    "text": "That's true. Parts of the Russian arms industry remain capable. Russia can produce cruise missiles and ballistic missiles that pose a massive threat to Ukrainian cities. But the idea that thousands of new tanks are rolling off the assembly line and that a Russian military machine could overrun Europe is, in my opinion, wrong. Russia has lost a great deal of equipment. Russian assault forces now frequently use unarmored vehicles like old Lada or Buchanka minibuses for their operations, resulting in corresponding losses."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef5up60",
+   "content": {
+    "text": "But Russia can apparently replace its soldiers more easily than its tanks. Is this callousness toward its own personnel not a military advantage?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5up80",
+   "content": {
+    "text": "Up to a certain point. But high losses also limit the value of combat experience. If we assume about 700,000 Russian soldiers at the front and at the same time that a very high number of soldiers have become casualties since the beginning of the war, we have a considerable personnel turnover. There is a core of combat-experienced soldiers, but many have to gain this experience over and over again. That is why I would qualify the claim that Russia now has a huge, thoroughly combat-experienced army."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef5upa0",
+   "content": {
+    "text": "Russia wouldn't even have to defeat NATO militarily. It could bet that Germany, France or the U.S. are not willing to fight a war over Estonia. Do you underestimate the political weakness of the West?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5upb0",
+   "content": {
+    "text": "This question has preoccupied NATO since its founding. Therefore, it must demonstrate today, as clearly as during the Cold War, that we are prepared to defend our allies by any means necessary. We will not back down. This is the core of deterrence. During the long period of peace, we have forgotten that nuclear deterrence never ceased. Russian missiles continued to be aimed at Western targets, and American missiles at Russian ones. Moscow must know that a major war would be uncontrollable and could end in a nuclear inferno. Russia is very deliberately toying with this nuclear threat. The West, on the other hand, has considerable reservations in this area."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef5upc0",
+   "content": {
+    "text": "Seeing how the Russian regime treats its soldiers, however, one might ask whether it can be deterred at all by the prospect of a nuclear war."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5upd0",
+   "content": {
+    "text": "As soon as their own lives are at stake, the Russian leadership is very sensitive. One can see how cautiously Putin himself deals with potential dangers. And in a nuclear war, it would not be some insignificant city in the Far East that would be hit. Moscow and St. Petersburg would be directly threatened. The Russian leadership knows that too. Despite its martial rhetoric, the regime is not suicidal."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef5upe0",
+   "content": {
+    "text": "Nevertheless, Russia has capabilities against which Europe is poorly protected. What happens if Moscow attacks with thousands of drones instead of tanks?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5upf0",
+   "content": {
+    "text": "I do indeed consider that a considerable danger. Imagine if Russia were to send 2,000 or 3,000 Shahed drones into NATO territory. A significant portion could get through because European air defense is not designed for such a mass attack. Technical solutions are being worked on, but many are not yet ready for deployment."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef5uph0",
+   "content": {
+    "text": "So is NATO arming for the wrong scenarios?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef5upi0",
+   "content": {
+    "text": "I wouldn't go that far. In many areas, it is arming correctly, and I am not sufficiently familiar with internal NATO planning. But we must examine very carefully which experiences from Ukraine we should adopt. In drone defense, things are moving in the right direction. However, if some systems, like the Skyranger anti-aircraft tank, will not be available in larger numbers until the early 2030s, the question arises as to whether we have that much time."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k1ef62nh0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/7e14d4f3-83d8-4490-a106-1edd16b92ffe.jpg",
+     "mediaId": "ArdTSmfp6qqs",
+     "key": "2026/08/25/7e14d4f3-83d8-4490-a106-1edd16b92ffe.jpg",
+     "width": 5894,
+     "height": 3809,
+     "mimeType": "image/jpeg",
+     "altText": "Russian President Vladimir Putin observes a military drill of the Pacific fleet aboard the missile cruiser «Varyag» in Russia's far-eastern Sakhalin Region, Russia, August 12, 2026. Sputnik/Gavriil Grigorov/Pool via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180026995"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/7e14d4f3-83d8-4490-a106-1edd16b92ffe.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Russian President Vladimir Putin on August 12 of this year during a maneuver on board the missile cruiser «Varyag» in the Pacific Ocean.",
+    "source": "Gavriil Grigorov / Sputnik via Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef2ap80",
+   "content": {
+    "text": "How likely do you consider a conventional Russian attack on NATO?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6dvk0",
+   "content": {
+    "text": "As long as the war in Ukraine continues, relatively unlikely. A large part of the available Russian ground forces is tied down there. Russia currently lacks the conventional force grouping with which it could additionally start a war against NATO. I therefore expect further hybrid attacks instead. For all the war rhetoric, I do not see Moscow wanting to start an open conventional war with NATO. Putin weighs risks very carefully."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6dvn0",
+   "content": {
+    "text": "NATO warns, however, that Russia could make up for its losses within a few years after the end of the war in Ukraine. Do you consider that an exaggeration?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6dvp0",
+   "content": {
+    "text": "Yes. Russia went into this war with a huge stock of Soviet material: thousands of tanks and tens of thousands of armored vehicles in its depots. A considerable part of this stock has since been destroyed or used up. Russia cannot simply restore this initial inventory. By comparison, at the beginning of the war, only modern versions of the T-72, T-80 and T-90 tanks were in active service. Today, one in four tanks in the active units is a T-55 or T-62 from before 1965."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6dvr0",
+   "content": {
+    "text": "But new tanks have been rolling off the production line for several years now, something Russian propaganda is always happy to report."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6dvs0",
+   "content": {
+    "text": "I do not consider the claim that Russia produces a thousand new tanks every year to be plausible. For truly newly produced modern tanks, the numbers are much lower; much of what appears to be production is refurbished older material. At the same time, the Western arms industry is ramping up its production and economically, the West is far superior to Russia."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6dvu0",
+   "content": {
+    "text": "Couldn't the Western military buildup in turn lead Russia to continue its own massive rearmament?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6dvv0",
+   "content": {
+    "text": "After an end to the war in Ukraine, Russia would first have to deal with the enormous consequences of the war. I therefore do not take it for granted that more and more money will then continue to flow unrestrictedly into rearmament."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e000",
+   "content": {
+    "text": "In your book, you judge Western security experts like Carlo Masala and Claudia Major harshly. In your view, why is Russia's military power misjudged?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e010",
+   "content": {
+    "text": "In some cases, deeper insight is lacking, and in others, certain sources are given insufficient consideration. Added to this is a historical image that we have carried with us since before the First World War: the Russian or Soviet military machine that will one day roll across Europe. This image is catchy and perfectly suited to illustrating a perceived threat."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e020",
+   "content": {
+    "text": "But?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e040",
+   "content": {
+    "text": "Russia is no longer the Soviet Union. It lacks a substantial part of the economic, demographic and military potential that the Soviet Union possessed. We must therefore also ask how long Russia can sustain this war economically."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e060",
+   "content": {
+    "text": "And?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e070",
+   "content": {
+    "text": "Russian society is considerably more resilient to hardship than Western societies. At the same time, however, one should not believe that it accepts everything without protest. Protest is brutally suppressed, which is why we do not see a comprehensive protest movement. But war fatigue exists. Attacks on refineries and other infrastructure, as well as the resulting supply problems, are increasingly bringing the war into everyday Russian life. This is precisely why the question of a new mobilization is politically sensitive. The leadership knows that it could further worsen the mood. Russia can withstand enormous burdens, but it does not follow that the population would be willing to pay any price for this war indefinitely."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e090",
+   "content": {
+    "text": "At the same time, Putin still seems to believe he can defeat Ukraine militarily. How well does he even know what is happening at the front?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e0a0",
+   "content": {
+    "text": "I believe that Putin is increasingly detached from reality. We repeatedly see triumphant reports from his generals about supposed conquests that cannot be confirmed by a look at the actual situation on the front lines. Putin does not like bad news. Accordingly, there is a strong incentive for those around him to present him with positive reports. In his audiences, one often sees these stapled success brochures with diagrams and nice pictures. A genuine discussion of mistakes hardly ever takes place. Problems are downplayed. This creates a system in which the leadership itself has difficulty realistically assessing the actual situation."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e0b0",
+   "content": {
+    "text": "What are the consequences of that?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e0c0",
+   "content": {
+    "text": "This war will not end with the results Putin originally envisioned. His strategic goal was ultimately to politically control Ukraine and install a government in Kyiv that was acceptable to Moscow. Russia is far from achieving this. And even if Russian forces were to eventually occupy the entire Donbas, it would be a very modest success compared to the original objectives – achieved at the cost of enormous losses and the conquest of partially devastated territories. Russia has already suffered a strategic defeat that will burden the country for many years to come."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e0d0",
+   "content": {
+    "text": "Does that mean Europe can relax a little again?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e0e0",
+   "content": {
+    "text": "No. Europe should act robustly and show Russia that it is prepared to defend itself. But we must rearm with a sense of proportion and consider very carefully what we actually need. Do we simply need more and more tanks and artillery pieces? Or do we need to learn more from the experiences of this war?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-question"
+  },
+  {
+   "identifier": "newsletter_baukasten-question",
+   "id": "doc-1k1ef6e0f0",
+   "content": {
+    "text": "What does that mean for Germany?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-answer"
+  },
+  {
+   "identifier": "newsletter_baukasten-answer",
+   "id": "doc-1k1ef6e0g0",
+   "content": {
+    "text": "Germany finds itself in a new role. The Bundeswehr is no longer geographically on the front line as it was during the Cold War. Germany must simultaneously serve as a fallback, logistical, and endurance base for Poland and the Baltic states, a place where additional forces can be gathered and redeployed eastward. This war demonstrates that modern warfare can again last for several years and that resources are depleted very quickly. We must prepare for this."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-question",
+   "nextElement": "newsletter_baukasten-articlelist"
+  },
+  {
+   "identifier": "newsletter_baukasten-articlelist",
+   "id": "doc-1jk0n7v1u0",
+   "content": {
+    "title": "More articles – exclusively for subscribers of «NZZ Pro»"
+   },
+   "containers": {
+    "articlelist-area": [
+     {
+      "identifier": "newsletter_baukasten-article-embed",
+      "id": "doc-1jk0n7v1v1",
+      "content": {
+       "newsletter-article-embed": {
+        "service": "newsletter-article-embed",
+        "params": {
+         "article": {
+          "$ref": "document",
+          "reference": {
+           "id": "10021854"
+          }
+         },
+         "layout": [
+          "article",
+          "fullwidth",
+          "gallery",
+          "alias-teaser"
+         ]
+        },
+        "resolvedValue": {
+         "document": {
+          "metadata": {
+           "germanyRelevant": true,
+           "title": "Everything revolves around Xi: SCO summit in Bishkek reveals the growing influence of China's president",
+           "showHeader": true,
+           "owner": "NZZ",
+           "teaserCarouselStyle": "",
+           "language": {
+            "locale": "de",
+            "groupId": "q_7jUFKZP8_cLVp1c4vKw"
+           },
+           "dependencies": {},
+           "tags": [
+            "Asien und Pazifik"
+           ],
+           "seoSocialMediaTitle": "Chinese President Xi Jinping sets clear priorities at the Bishkek summit",
+           "seoTitle": "Xi Jinping dominates SCO summit in Bishkek",
+           "teaserImage": {
+            "mediaId": "z32vbqYTPi86",
+            "key": "2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg",
+            "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?width=1024&quality=75&auto=webp",
+            "width": 6000,
+            "height": 4000,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 390,
+              "width": 4508,
+              "height": 2536,
+              "name": "16:9",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4508,2536,x0,y390&width=1024&quality=75&auto=webp",
+              "ratio": 1.77778,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4508,2536,x0,y390&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4508,2536,x0,y390&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4508,2536,x0,y390&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4508,2536,x0,y390&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 0,
+              "width": 4407,
+              "height": 3306,
+              "name": "4:3",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4407,3306,x0,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.33333,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4407,3306,x0,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4407,3306,x0,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4407,3306,x0,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4407,3306,x0,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 873,
+              "y": 462,
+              "width": 2258,
+              "height": 2258,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=2258,2258,x873,y462&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=2258,2258,x873,y462&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=2258,2258,x873,y462&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=2258,2258,x873,y462&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=2258,2258,x873,y462&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 606,
+              "y": 0,
+              "width": 3000,
+              "height": 4000,
+              "name": "3:4",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=3000,4000,x606,y0&width=1024&quality=75&auto=webp",
+              "ratio": 0.75,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=3000,4000,x606,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=3000,4000,x606,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=3000,4000,x606,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=3000,4000,x606,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 142,
+              "width": 4959,
+              "height": 3306,
+              "name": "3:2",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4959,3306,x0,y142&width=1024&quality=75&auto=webp",
+              "ratio": 1.5,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4959,3306,x0,y142&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4959,3306,x0,y142&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4959,3306,x0,y142&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=4959,3306,x0,y142&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly",
+            "teaserCaption": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+            "teaserAuthor": "Pavel Mikheyev / Reuters"
+           },
+           "teaserAuthor": "Pavel Mikheyev / Reuters",
+           "nzzId": "ld.10021854",
+           "readingTime": 300,
+           "slug": "sco-gipfel-in-bischkek-zeigt-die-regionale-dominanz-von-chinas-praesidenten-xi-jinping",
+           "embeds": {
+            "images": [
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?crop=6000,4000,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "The summit in Kyrgyzstan was clearly dominated by Chinese President and Communist Party leader Xi Jinping.",
+              "author": "Pavel Mikheyev / Reuters"
+             }
+            ],
+            "videos": [
+             {
+              "id": "kjuQK0rw",
+              "provider": "jw",
+              "teaser": true
+             }
+            ],
+            "qEmbeds": []
+           },
+           "paywallQuestionOne": "How is China strengthening its regional dominance through the SCO summit?",
+           "paywallQuestionTwo": "What role does the Iran war play in geopolitical tensions?",
+           "paywallQuestionThree": "Why does cooperation within the SCO often remain limited?",
+           "componentStats": [
+            {
+             "identifier": "article-container",
+             "count": 1
+            },
+            {
+             "identifier": "head",
+             "count": 1
+            },
+            {
+             "identifier": "author-teaser",
+             "count": 1
+            },
+            {
+             "identifier": "image",
+             "count": 1
+            },
+            {
+             "identifier": "paragraph",
+             "count": 14
+            },
+            {
+             "identifier": "subtitle",
+             "count": 4
+            },
+            {
+             "identifier": "sharebox",
+             "count": 1
+            },
+            {
+             "identifier": "related-articles-container",
+             "count": 1
+            },
+            {
+             "identifier": "teaser",
+             "count": 3
+            }
+           ],
+           "characterCount": 6923,
+           "editor": "1900563",
+           "videoTeaser": "kjuQK0rw",
+           "breadcrumbs": [
+            {
+             "name": "International",
+             "path": "/international"
+            }
+           ],
+           "product": "NZZ.ch",
+           "documentId": 10021854,
+           "contentTypeGroup": "web",
+           "layout": "regular",
+           "designName": "p:1:1",
+           "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+           "publicationDate": "2026-09-02T03:30:00.000Z",
+           "publicationLastUpdated": "2026-09-02T07:30:00.309Z",
+           "significantUpdate": false,
+           "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+           "nzzArticleSnippet": "Bei dem Regionalgipfel in Kirgistan präsentiert sich China als Quelle der Stabilität in einer unruhigen Welt. Von dem Druck der USA, seine Unterstützung für Iran und Russland zu reduzieren, lässt es sich nicht beeindrucken.",
+           "teaserCaption": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+           "nzzAuthors": [
+            {
+             "id": 1520496,
+             "name": "Ulrich von Schwerin",
+             "shortName": "UVS",
+             "pianoId": "63523c9f-5530-4f85-8600-e3b51d7611eb",
+             "external": false
+            }
+           ],
+           "authorLine": "Ulrich von Schwerin, Mumbai",
+           "authorImage": {
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png",
+            "url": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+            "width": 800,
+            "height": 800,
+            "mimeType": "image/png",
+            "imageService": "fastly",
+            "mediaId": "JLseR8HPcw3h",
+            "key": "2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png",
+            "crop": {
+             "name": "1:1",
+             "x": 0,
+             "y": 0,
+             "width": 800,
+             "height": 800
+            },
+            "crops": []
+           },
+           "nzzAuthorProfileDataCollection": [
+            {
+             "documentId": 1568388,
+             "name": "Ulrich von Schwerin, Mumbai",
+             "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+            }
+           ],
+           "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+           "urlPath": "/international/sco-gipfel-in-bischkek-zeigt-die-regionale-dominanz-von-chinas-praesidenten-xi-jinping-ld.10021854",
+           "url": "/international/sco-gipfel-in-bischkek-zeigt-die-regionale-dominanz-von-chinas-praesidenten-xi-jinping-ld.10021854",
+           "department": {
+            "name": "International",
+            "path": "/international",
+            "level": 1
+           },
+           "estimationWordCount": 1037,
+           "premium": true,
+           "leadText": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+           "nzzSummaryEN": "- The SCO summit in Bishkek highlights China's dominance under President Xi, focusing on stability and a multipolar world order.\n- Issues like the Ukraine and Iran wars and rivalries among SCO member states complicate cooperation and peace efforts.\n- Beijing's growing influence is seen as both an opportunity and a concern, with members striving to maintain strategic autonomy.",
+           "nzzSummaryDE": "- The SCO summit in Bishkek underscores China's dominance under President Xi, with a focus on stability and a multipolar world order. - Issues such as the wars in Ukraine and Iran, as well as rivalries among SCO member states, complicate cooperation and peace. - Beijing's growing power is perceived by members as both an opportunity and a threat, while strategic independence is highly valued.",
+           "nzzSummaryIsAuto": true,
+           "nzzSummaryModel": "gpt-4o-2024-11-20",
+           "nzzPrintTitle": "Xi Jinping dominates the SCO summit in Bishkek",
+           "nzzPrintSubtitle": "Deepening trade relations with China is a priority for the SCO countries. But Beijing's dominance also causes unease"
+          },
+          "systemdata": {
+           "version": 1152,
+           "projectId": 1,
+           "channelId": 1,
+           "documentId": 10021854,
+           "contentType": "article",
+           "documentType": "article",
+           "title": "Everything revolves around Xi: SCO summit in Bishkek reveals the growing influence of China's president",
+           "publicationId": 2487439,
+           "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+           "lastPublicationDate": "2026-09-02T07:30:00.309Z",
+           "updatedAt": "2026-09-02T07:30:00.309Z",
+           "significantPublicationDate": "2026-09-02T03:30:00.000Z",
+           "visiblePublicationDate": "2026-09-02T03:30:00.000Z",
+           "design": {
+            "name": "p:1:1",
+            "version": "423.0.0"
+           }
+          }
+         },
+         "documentIds": [
+          10021854
+         ]
+        }
+       }
+      }
+     },
+     {
+      "identifier": "newsletter_baukasten-article-embed",
+      "id": "doc-1k1epsoh00",
+      "content": {
+       "newsletter-article-embed": {
+        "service": "newsletter-article-embed",
+        "params": {
+         "article": {
+          "$ref": "document",
+          "reference": {
+           "id": "10021963"
+          }
+         }
+        },
+        "resolvedValue": {
+         "document": {
+          "metadata": {
+           "owner": "NZZ",
+           "germanyRelevant": true,
+           "title": "China's silent war for Taiwan has long begun",
+           "copySourceId": 10019983,
+           "teaserCarouselStyle": "",
+           "language": {
+            "locale": "de",
+            "groupId": "FV8Nx3rszrsRyOSL_z43Y"
+           },
+           "dependencies": {},
+           "teaserImage": {
+            "mediaId": "AETRd2-KJ9-m",
+            "key": "2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg",
+            "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1024&quality=75&auto=webp",
+            "width": 3000,
+            "height": 3000,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 350,
+              "width": 3000,
+              "height": 1687,
+              "name": "16:9",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,1687,x0,y350&width=1024&quality=75&auto=webp",
+              "ratio": 1.77778,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,1687,x0,y350&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,1687,x0,y350&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,1687,x0,y350&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,1687,x0,y350&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 320,
+              "width": 3000,
+              "height": 2250,
+              "name": "4:3",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2250,x0,y320&width=1024&quality=75&auto=webp",
+              "ratio": 1.33333,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2250,x0,y320&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2250,x0,y320&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2250,x0,y320&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2250,x0,y320&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": true,
+              "x": 0,
+              "y": 0,
+              "width": 3000,
+              "height": 3000,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,3000,x0,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,3000,x0,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,3000,x0,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,3000,x0,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,3000,x0,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 232,
+              "y": 0,
+              "width": 2250,
+              "height": 3000,
+              "name": "3:4",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=2250,3000,x232,y0&width=1024&quality=75&auto=webp",
+              "ratio": 0.75,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=2250,3000,x232,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=2250,3000,x232,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=2250,3000,x232,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=2250,3000,x232,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 371,
+              "width": 3000,
+              "height": 2000,
+              "name": "3:2",
+              "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2000,x0,y371&width=1024&quality=75&auto=webp",
+              "ratio": 1.5,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2000,x0,y371&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2000,x0,y371&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2000,x0,y371&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?crop=3000,2000,x0,y371&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly",
+            "teaserCaption": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage."
+           },
+           "flag": "Podcast «NZZ Geopolitics»",
+           "seoTitle": "China's strategy: Hybrid war against Taiwan without armed force",
+           "seoSocialMediaTitle": "Taiwan in the crosshairs: China's gradual approach without military force",
+           "showComments": true,
+           "nzzId": "ld.10021963",
+           "readingTime": 60,
+           "slug": "chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen",
+           "embeds": {
+            "images": [],
+            "videos": [],
+            "qEmbeds": []
+           },
+           "paywallQuestionOne": "How is China destabilizing Taiwan through hybrid warfare?",
+           "paywallQuestionTwo": "What role does disinformation play in China's strategy against Taiwan?",
+           "paywallQuestionThree": "Why does Xi Jinping see a free Taiwan as a threat?",
+           "componentStats": [
+            {
+             "identifier": "article-container",
+             "count": 1
+            },
+            {
+             "identifier": "head",
+             "count": 1
+            },
+            {
+             "identifier": "author-teaser",
+             "count": 1
+            },
+            {
+             "identifier": "audio-url",
+             "count": 1
+            },
+            {
+             "identifier": "paragraph",
+             "count": 5
+            },
+            {
+             "identifier": "subtitle",
+             "count": 1
+            },
+            {
+             "identifier": "sharebox",
+             "count": 1
+            },
+            {
+             "identifier": "related-articles-container",
+             "count": 1
+            },
+            {
+             "identifier": "teaser",
+             "count": 3
+            }
+           ],
+           "characterCount": 1396,
+           "breadcrumbs": [
+            {
+             "name": "Podcast",
+             "path": "/podcast"
+            }
+           ],
+           "product": "NZZ.ch",
+           "documentId": 10021963,
+           "contentTypeGroup": "web",
+           "layout": "regular",
+           "designName": "p:1:1",
+           "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+           "publicationDate": "2026-09-02T03:30:00.000Z",
+           "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+           "significantUpdate": false,
+           "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+           "nzzArticleSnippet": "Peking versucht mit allen Mitteln, Taiwan zu destabilisieren, ohne dass auch nur ein Schuss fällt. Der Sinologe und Geheimdienstexperte Jürgen Kremb schildert im Podcast «NZZ Geopolitik», wie China die Insel mit Cyberangriffen, Desinformation und Spionage unterwandert.",
+           "teaserCaption": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+           "nzzAuthors": [
+            {
+             "id": 1550920,
+             "name": "David Vogel",
+             "shortName": "dv",
+             "pianoId": "00dd7ff4-465b-4389-9377-a9442cf4706c",
+             "external": false
+            }
+           ],
+           "authorLine": "David Vogel",
+           "authorImage": {
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png",
+            "url": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+            "mediaId": "hURQ-UIz6Vu1",
+            "width": 800,
+            "height": 800,
+            "mimeType": "image/png",
+            "crops": [
+             {
+              "isAutomatic": true,
+              "x": 0,
+              "y": 0,
+              "width": 800,
+              "height": 800,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1
+             }
+            ],
+            "imageService": "fastly",
+            "key": "2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png"
+           },
+           "nzzAuthorProfileDataCollection": [
+            {
+             "documentId": 1551662,
+             "name": "David Vogel (dv.)",
+             "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp"
+            }
+           ],
+           "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+           "urlPath": "/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+           "url": "/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+           "department": {
+            "name": "Podcast",
+            "path": "/podcast",
+            "level": 1
+           },
+           "estimationWordCount": 235,
+           "leadText": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+           "nzzSummaryEN": "- China is waging a hybrid war against Taiwan to destabilize the island and force unification, using methods such as cyberattacks, disinformation, and espionage.\n- Xi Jinping views control over Taiwan as a personal mission and sees it as a threat to the Communist Party's legitimacy.\n- The West is warned not to remain idle, as similar threats could affect other democratic societies.",
+           "nzzSummaryDE": "China is waging a hybrid war against Taiwan to destabilize the island and force unification, using methods such as cyberattacks, disinformation, and espionage.\n Xi Jinping views control over Taiwan as a personal mission and sees it as a threat to the legitimacy of the Communist Party.\n - The West is warned not to stand idly by, as similar threats could also affect democratic societies.",
+           "nzzSummaryIsAuto": true,
+           "nzzSummaryModel": "gpt-4o-2024-11-20",
+           "nzzPrintTitle": "The silent war for Taiwan",
+           "nzzPrintSubtitle": "Beijing is attempting to destabilize Taiwan through cyberattacks and disinformation.",
+           "teaserPodcastTitle": "China's silent war for Taiwan has long begun",
+           "teaserPodcastAuthor": "David Vogel mit Jürgen Kremb ",
+           "teaserPodcastDate": "02.09.2026",
+           "teaserPodcastUrl": "https://audio.podigee-cdn.net/2584737-m-75dfe7983db77acc14e92b078e903bf8.mp3",
+           "teaserPodcastDuration": "28 "
+          },
+          "systemdata": {
+           "version": 201,
+           "projectId": 1,
+           "channelId": 1,
+           "documentId": 10021963,
+           "contentType": "article",
+           "documentType": "article",
+           "title": "China's silent war for Taiwan has long begun",
+           "publicationId": 2487344,
+           "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+           "lastPublicationDate": "2026-09-02T03:30:00.000Z",
+           "updatedAt": "2026-09-02T03:30:00.000Z",
+           "significantPublicationDate": "2026-09-02T03:30:00.000Z",
+           "visiblePublicationDate": "2026-09-02T03:30:00.000Z",
+           "design": {
+            "name": "p:1:1",
+            "version": "423.0.0"
+           }
+          }
+         },
+         "documentIds": [
+          10021963
+         ]
+        }
+       }
+      },
+      "styles": {
+       "teaser-type": "teaser--small"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-answer",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n9sd40",
+   "content": {
+    "text": "All articles from «NZZ Pro» can be read at <a href=\"https://www.nzz.ch/pro\">www.nzz.ch/pro</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-articlelist",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0na1ef0",
+   "content": {
+    "text": "Do you have feedback on «NZZ Pro»? Write to us at <a href=\"mailto:proglobal@nzz.ch\">pro@nzz.ch</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654594"
+   }
+  },
+  "issueDate": "2026-09-02T00:00:00.000Z",
+  "title": "Is Russia's military power overestimated?",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10021919",
+  "product": "NZZ.ch",
+  "documentId": 10021919,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T08:00:44.759Z",
+  "publicationDate": "2026-09-02T08:00:44.759Z",
+  "publicationLastUpdated": "2026-09-02T08:01:30.673Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T20:00:44.759Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021919",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021919",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487451,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021919",
+    "name": "Is Russia's military power overestimated?",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Is Russia's military power overestimated?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T08:00:44.759Z",
+     "updateTimestamp": "2026-09-02T08:01:30.673Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021919",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Is Russia's military power overestimated? | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Is Russia's military power overestimated?, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T12:01:30+02:00",
+  "date": "2026-09-02T12:00:44+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021919",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Is Russia's military power overestimated?",
+  "ogTitle": "Is Russia's military power overestimated? | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021919",
+  "mrf:cms_id": "nzz:ld.10021919",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021919",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021919"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:16 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Is Russia's military power overestimated?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021919"
+   },
+   "headline": "Is Russia's military power overestimated? | NZZ",
+   "datePublished": "2026-09-02T12:00:44+02:00",
+   "dateModified": "2026-09-02T12:01:30+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021919",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021919"
+   ],
+   "ContentCreated": "2026-09-02T08:00:44.759Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021919",
+   "heading": "Wird Russlands Militärmacht überschätzt?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

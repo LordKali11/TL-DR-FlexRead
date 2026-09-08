@@ -1,0 +1,1635 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jrv1nv941",
+   "content": {
+    "title": "A fortune hunter in distress: Trump could be undone by Iran, but not Trumpism",
+    "lead": "Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals for that.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jrv1nv942",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Christian Weisflog",
+       "url": "/impressum/christian-weisflog-ld.665516",
+       "teaserImage": {
+        "originalUrl": "/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0ppblvs1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/08/24/1c351c9c-03d2-4917-8376-d3e2beef3390.jpg?crop=5297,2979,x0,y0",
+     "width": 5297,
+     "height": 2979,
+     "altText": "Vignette by Peter Gut: Trump is destroying everything. For August 26, 2026.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180200474"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5297,
+      "height": 2979,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5297,
+       "height": 2979,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ci8l000",
+   "content": {
+    "text": "Donald Trump has been back in the White House for less than two years. Yet the reputation of the «indispensable nation» has already suffered great damage worldwide. This summer, <a href=\"https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/\">the Pew Research Center conducted</a> a survey in 36 countries. In most of these states, people now view China more favorably than the U.S. This includes important NATO partners such as Turkey, France, and Germany."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-05bdcd65",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0clllf80",
+   "content": {
+    "text": "In the past, there have always been phases in which the U.S. damaged its own reputation as a democratic beacon. For example, through the invasion of Iraq in 2003 and the ruthlessly conducted «War on Terror.» However, its reputation as the undisputed leader of the free world always recovered. But this time, anti-Americanism felt different, Richard Wike, a pollster at the <a href=\"https://www.foreignaffairs.com/united-states/world-giving-america?check_logged_in=1\">Pew Research Center, recently wrote in «Foreign Affairs»</a>: «The world is giving up on America.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0hq4kk30",
+   "content": {
+    "title": "Democracy with autocratic tendencies",
+    "id": "subtitle-demokratie-mit-autokratischen-all-ren"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cs3pmh0",
+   "content": {
+    "text": "Trump's erratic tariff policy, the sometimes inhumane treatment of migrants, and his military interventions in Venezuela and Iran gave the U.S. its worst reputation since the Pew Research Center began its measurements in 2002. Unlike in the past, many people worldwide today doubt whether Washington also respects the democratic rights of its own citizens. After Trump took office in January 2025, the U.S. slipped in the V-Dem Institute's democracy ranking at the University of Gothenburg <a href=\"https://www.v-dem.net/news/press-release-democratic-backsliding-reaches-western-democracies-with-us-decline-unprecedented/\">from 20th to 51st place</a>."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ctsibr0",
+   "content": {
+    "text": "The Trump administration, among other things, abolished the independence of the Justice Department, publicly <a href=\"https://www.pbs.org/newshour/show/federal-judges-describe-violent-threats-amid-dehumanizing-attacks-from-political-leaders\">pressured judges</a>, and shut down oversight bodies tasked with combating fraud within the administration. Trump's tough migration policy and his tariff policy were largely based on emergency powers, which the president employed to bypass Congress. Foreign journalists <a href=\"https://rsf.org/en/us-imposes-sweeping-visa-restrictions-foreign-journalists-hindering-global-coverage-american\">are reportedly only to receive an eight-month visa in the future</a>, which can be extended by another eight months for good conduct. Such bureaucratic control mechanisms for the press are typically a favored tool of authoritarian regimes. Previously, correspondents had received a five-year visa in the U.S."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cuqudo0",
+   "content": {
+    "text": "Conservative columnist David Brooks also no longer recognizes his country. «I considered America a nation with many flaws, which was nevertheless an immense force for good in the world,» he wrote three months after Trump took office in 2025 <a href=\"https://xn--%20schrieb%20er%20drei%20monate%20nach%20trumps%20amtsantritt%202025%20im%20atlantic-vbd89k.\">in «The Atlantic» magazine.</a> The U.S. had never harmed others out of malice, but only out of naivety or overconfidence, he contended. But now, he said, he had to watch as Trump maliciously treated allied countries like Mexico, Canada, or Ukrainian President Volodymyr Zelenskyy."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0d1fabe0",
+   "content": {
+    "text": "The scene in the Oval Office on Feb. 28, 2025, when the American president and his vice president insulted Zelenskyy as an ungrateful profiteer and expelled him from the White House, is emblematic of this American president's impulsive and often contradictory policies – even if he later moderated his stance toward Kyiv. Ukrainians are fighting for the same ideals as Americans did in their War of Independence against the British Empire. The U.S. also gained its freedom only thanks to foreign military aid from the French. But now, Trump has long shown more understanding for the imperial ambitions of Russian dictator Vladimir Putin than for Zelenskyy's fight for a free Ukraine."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0hqoerv0",
+   "content": {
+    "title": "Belief in infallibility",
+    "id": "subtitle-glaube-an-unfehlbarkeit"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0d46sqe0",
+   "content": {
+    "text": "Trump's behavior at the time appears even more incomprehensible in light of the Iran War. In his election campaign, he had promised policies for the common people, for the losers of globalization, and for those left behind. Instead of financing wars abroad, he wanted to create jobs, curb unchecked immigration, lower mortgage rates, streamline bureaucracy, and reduce the U.S.'s large national debt. In <a href=\"https://www.whitehouse.gov/releases/2025/05/in-riyadh-president-trump-charts-the-course-for-a-prosperous-future-in-the-middle-east/\">a speech in Riyadh</a> in May 2025, Trump lambasted previous American military interventions in the Middle East. In November, the White House published its national security strategy. Iran is <a href=\"https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf\">greatly weakened, it states</a> in the document. «The days when the Middle East dominated American foreign policy are fortunately over,» the strategy declared."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0f1ronm0",
+   "content": {
+    "text": "Shortly thereafter, American elite soldiers arrested Venezuelan President Nicolás Maduro in Caracas. On Feb. 28, Trump, together with Israel, began an air war against the Islamic Republic and called on the Iranian people afterward to overthrow the regime. On the first day of the war, the 86-year-old revolutionary leader Ali Khamenei was killed. But overall, the U.S. has not yet achieved any of its war aims. On the contrary: Tehran largely <a href=\"https://egyptoil-gas.com/news/strait-of-hormuz-ship-traffic-remains-well-below-average-amid-ongoing-regional-tensions/\">controls the Strait of Hormuz</a>, even if the U.S. was able to create a corridor under military escort. Instead of seriously negotiating a nuclear deal, the regime is considering <a href=\"https://www.wsj.com/world/middle-east/iran-plan-escalate-war-cc657664\">how it can escalate the conflict with its own offensives.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0f38u0n0",
+   "content": {
+    "text": "The military costs of the war, according to the Pentagon, <a href=\"https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/\">amount to almost $40 billion so far.</a> The House of Representatives recently allocated $73 billion for the war. 18 American soldiers lost their lives, and more than 700 were wounded. The economic costs are estimated at more than $80 billion. This makes it difficult for Trump <a href=\"https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html\">to fulfill his election promises to the common people</a>, to whom he had held out the prospect of a «golden age»: The economy is growing more slowly than it did most recently under Biden, the national debt is piling up even faster, and prices are climbing more steeply than wages. <a href=\"https://www.economist.com/interactive/trump-approval-tracker/economy\">Stock markets, however, are soaring.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0f782vf0",
+   "content": {
+    "text": "A prudent president should have realized that the Ukraine war offered the best opportunity to strengthen the liberal world order and the U.S.'s position of power relatively cheaply. With combined forces, Washington and its European allies could have accelerated a Russian defeat and thus possibly heralded the end of the Putin regime in Moscow. Instead, to the annoyance of the Europeans, Trump largely withdrew from the conflict, imposed high tariffs on them, and, to the annoyance of Arab allies, launched a still-unsuccessful war of aggression against Iran. In doing so, the American military expended a large portion of its precision and defense missiles. Furthermore, for the naval blockade against Iran, it must withdraw parts of its fleet from the Pacific, which were actually intended to deter China."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fckthc0",
+   "content": {
+    "text": "But in his second term, Trump surrounded himself almost exclusively with advisers who rarely questioned his judgment. And he relied even more heavily on his own instincts. Already <a href=\"https://www.theguardian.com/us-news/shortcuts/2018/nov/28/donald-trump-gut\">in his first term, he declared</a>: «My gut sometimes tells me more than another person's brain.» Since his miraculous political comeback in 2024, he felt almost infallible and invincible. After his supporters stormed the Capitol, he faced impeachment and later a criminal trial. He was able to avert both. In the election campaign, he survived an assassination attempt only by sheer luck. Trump felt affirmed: God must have had bigger plans for him."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ffvhpv0",
+   "content": {
+    "text": "After his return to the White House, the president appeared to know almost no bounds. He sought to annex Greenland and turn Canada into a U.S. state. Without regard for previous norms, he has monetized his office. With deals that often conflict with his public position, Trump earned <a href=\"https://www.nytimes.com/2026/07/01/us/politics/trump-finances-government-conflicts.html\">more than $2 billion last year, according to The New York Times</a>. Instead of upholding liberal values as a global policeman, he increasingly acted like an imperial fortune hunter who follows his instincts. Freely adapted from Thucydides, the Greek historian: «The strong do what they want, and the weak suffer what they must.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0hrjc460",
+   "content": {
+    "title": "Fortune faltering in Iran",
+    "id": "subtitle-in-iran-schw-chelt-das-gl-ck"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fm1fkt0",
+   "content": {
+    "text": "For a long time, things went well for Trump. Fortune also remained loyal to him. The Italian philosopher and diplomat Niccolò Machiavelli once wrote in his main work «The Prince» that fortune is ‹half mistress of our actions›. A stormy prince could force his fate more easily than a cautious one, he believed. However, a ruler who relies entirely on his luck will perish ‹as soon as it changes›, he warned."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fnp2nr0",
+   "content": {
+    "text": "Trump appears to be experiencing something similar with Iran now. He relied too much on his luck, his gut feeling, and Israel's Prime Minister Benjamin Netanyahu. The American president had harbored a grudge against the regime ever since the hostage crisis at the U.S. embassy in Tehran in 1979 and <a href=\"https://www.theatlantic.com/politics/2026/04/trump-iran-war-1979/686735/\">called for military intervention in interviews.</a> Now he saw a perceived opportunity to punish Tehran, put an end to the Islamic Republic, and go down in history as a great president. In March, Trump said: «For 47 years, no president was willing to do what I am doing. And they should have done it long ago.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fr1jln0",
+   "content": {
+    "text": "Perhaps Trump can still reverse his fortunes this time. Iran has lost absolute control over the Strait of Hormuz. The Gulf states are increasingly exporting their crude oil via alternative pipeline routes. And the Iranian economy is suffering enormously from the American naval blockade. However, economic pressure alone will hardly be enough to force Tehran into major and unilateral concessions. The regime fears for its existence. Before capitulating in negotiations, it is likely to accept the risk of a new military escalation. Trump's only remaining small hope is a popular uprising, which the hardliners in Tehran will almost certainly brutally suppress."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fu6hob0",
+   "content": {
+    "text": "At the same time, support for the Iran War and for Trump in the U.S. has <a href=\"https://www.reuters.com/world/us/trumps-approval-holds-record-low-us-support-iran-war-falls-reuters-ipsos-poll-2026-08-24/\">reached new lows</a>: It stands at just over 30%. A costly failure in Iran is likely to further fuel the ground for the populist isolationism on which Trumpism was essentially based. It only takes a new charismatic figure to capitalize on the frustration of those left behind. Trump, the seemingly isolationist, could be succeeded by a true isolationist. American allies should therefore no longer rely on U.S. military aid – whether with or without Trump."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jrv1nv945",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-a1705435",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 25,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Siamak Shafabakhsh",
+      "text": "«Thinking, fast and slow» Daniel Kahneman, 2011. Kahneman’s System 1 explains many of the cognitive biases that the world is exposed to today.",
+      "created_at": "2026-08-28T10:14:43.473Z",
+      "like_count": 2,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Tobias Suter",
+      "text": "Trump will certainly go down in US history. Whether he'll be remembered as a «great» president remains to be seen, but seems rather unlikely. Trump is the epitome of the state of US society. Every country gets the government and the president it deserves. The US clearly deserves such a president. For that reason alone, Trump will go down in US history. Nothing comes from nothing.",
+      "created_at": "2026-08-27T21:21:49.962Z",
+      "like_count": 2,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jrv1nv946",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jrv1nv951",
+      "content": {
+       "title": "These men now call the shots in Iran: The Islamic Republic goes on the offensive – fearing for its existence",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "tags": [
+        "Iran-Krieg",
+        "Krieg in Nahost",
+        "Nahost und Afrika"
+       ],
+       "showComments": true,
+       "teaserImage": {
+        "originalUrl": "/2026/08/23/3d3e1cba-868c-46e3-9ead-d3ec98a8e814.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/23/3d3e1cba-868c-46e3-9ead-d3ec98a8e814.jpg?width=1024&quality=75&auto=webp",
+        "width": 1792,
+        "height": 1200,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1792,1008,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1600,1200,x71,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "992,992,x326,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "900,1200,x411,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1792,1195,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "With new appointments in the security apparatus, Tehran sends an unmistakable signal: Iran will react with uncompromising toughness both regionally and domestically.",
+        "teaserAuthor": "Mohammed Salem / Reuters"
+       },
+       "teaserAuthor": "Mohammed Salem / Reuters",
+       "nzzId": "ld.10020266",
+       "readingTime": 360,
+       "paywallQuestionOne": "How do the new appointments affect Iran's security strategy?",
+       "paywallQuestionTwo": "What role does Mohsen Rezai play in the Security Council?",
+       "paywallQuestionThree": "How is Iran reacting to protests and regional conflicts?",
+       "characterCount": 7641,
+       "product": "NZZ.ch",
+       "documentId": 10020266,
+       "layout": "regular",
+       "publicationDate": "2026-08-24T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-25T06:21:38.858Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-24T15:30:00.000Z",
+       "teaserCaption": "With new appointments in the security apparatus, Tehran sends an unmistakable signal: Iran will react with uncompromising toughness both regionally and domestically.",
+       "authorLine": "Rewert Hoffer, Beirut",
+       "authorImage": {
+        "originalUrl": "/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/iran-die-islamische-republik-geht-in-die-offensive-ld.10020266",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1129,
+       "premium": true,
+       "leadText": "With new appointments in the security apparatus, Tehran sends an unmistakable signal: Iran will react with uncompromising toughness both regionally and domestically.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jrv1nv950",
+      "content": {
+       "title": "U.S. escorts ships through the Strait of Hormuz: Iran loses absolute control over strait",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "paywallQuestionOne": "How do the US escorts affect Iran's control over the Strait of Hormuz?",
+       "paywallQuestionTwo": "What economic measures is Washington planning against Iran and its trading partners?",
+       "paywallQuestionThree": "How could China's role further escalate the conflict between the US and Iran?",
+       "tags": [
+        "Iran-Krieg",
+        "Krieg in Nahost",
+        "Nahost und Afrika"
+       ],
+       "teaserImage": {
+        "originalUrl": "/2026/04/09/e89f81f6-ad32-4d47-b679-44a99d540db2.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/04/09/e89f81f6-ad32-4d47-b679-44a99d540db2.jpg?width=1024&quality=75&auto=webp",
+        "width": 3349,
+        "height": 2113,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3349,1884,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2817,2113,x5,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2113,2113,x357,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1585,2113,x621,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3170,2113,x0,y0"
+         }
+        ],
+        "focalPoint": {
+         "x": 1413,
+         "y": 764
+        },
+        "imageService": "fastly",
+        "teaserCaption": "Protected by the U.S. Navy, tankers currently transport several million barrels of crude oil daily through the waterway. The convoy protection is part of a U.S. strategic shift in the fight against Iran.",
+        "teaserAuthor": "Shady Alassar / Imago"
+       },
+       "teaserAuthor": "Shady Alassar / Imago",
+       "showComments": true,
+       "nzzId": "ld.10020500",
+       "readingTime": 240,
+       "characterCount": 5222,
+       "product": "NZZ.ch",
+       "documentId": 10020500,
+       "layout": "regular",
+       "publicationDate": "2026-08-21T14:10:35.821Z",
+       "publicationLastUpdated": "2026-08-21T16:40:09.320Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-22T02:10:35.821Z",
+       "teaserCaption": "Protected by the U.S. Navy, tankers currently transport several million barrels of crude oil daily through the waterway. The convoy protection is part of a U.S. strategic shift in the fight against Iran.",
+       "authorLine": "Rewert Hoffer, Beirut",
+       "authorImage": {
+        "originalUrl": "/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/iran-teheran-verliert-einen-teil-der-kontrolle-ueber-die-strasse-von-hormuz-ld.10020500",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 805,
+       "premium": true,
+       "leadText": "Protected by the U.S. Navy, tankers currently transport several million barrels of crude oil daily through the waterway. The convoy protection is part of a U.S. strategic shift in the fight against Iran.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jrv1nv952",
+      "content": {
+       "title": "Iran's billions at risk: Emirates impose full trade embargo on Tehran",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2025/11/25/75bea2f2-08ed-4b46-9d59-794b4d547122.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/25/75bea2f2-08ed-4b46-9d59-794b4d547122.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2666,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4000,2250,x0,y267"
+         },
+         {
+          "name": "4:3",
+          "crop": "2938,2203,x485,y112"
+         },
+         {
+          "name": "1:1",
+          "crop": "2666,2666,x667,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2000,2666,x1641,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3999,2666,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Abu Dhabi cuts all financial transactions and goods trade with Tehran after an Iranian missile reaches UAE territorial waters. The drastic step plunges Iran into an even deeper economic crisis.",
+        "teaserAuthor": "Kamran Jebreili / AP"
+       },
+       "teaserAuthor": "Kamran Jebreili / AP",
+       "tags": [
+        "Iran-Krieg",
+        "Nahost und Afrika",
+        "Krieg in Nahost"
+       ],
+       "nzzId": "ld.10020104",
+       "readingTime": 240,
+       "paywallQuestionOne": "How does the trade embargo affect the Iranian economy?",
+       "paywallQuestionTwo": "What role does Dubai play as a financial center for Iran?",
+       "paywallQuestionThree": "Why have the UAE completely stopped trade with Iran?",
+       "characterCount": 4809,
+       "product": "NZZ.ch",
+       "documentId": 10020104,
+       "layout": "regular",
+       "publicationDate": "2026-08-19T08:07:59.603Z",
+       "publicationLastUpdated": "2026-08-19T09:11:55.320Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-19T20:07:59.603Z",
+       "teaserCaption": "Abu Dhabi cuts all financial transactions and goods trade with Tehran after an Iranian missile reaches UAE territorial waters. The drastic step plunges Iran into an even deeper economic crisis.",
+       "authorLine": "Rewert Hoffer, Beirut",
+       "authorImage": {
+        "originalUrl": "/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/28/59542dc2-b939-455a-8f92-db4fcaf85961.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/iran-emirate-setzten-handel-mit-teheran-aus-ld.10020104",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 763,
+       "leadText": "Abu Dhabi cuts all financial transactions and goods trade with Tehran after an Iranian missile reaches UAE territorial waters. The drastic step plunges Iran into an even deeper economic crisis.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "A fortune hunter in distress: Trump could be undone by Iran, but not Trumpism",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "characterCount": 10348,
+  "flag": "Opinion",
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/1c351c9c-03d2-4917-8376-d3e2beef3390.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/1c351c9c-03d2-4917-8376-d3e2beef3390.jpg?width=1024&quality=75&auto=webp",
+   "width": 5297,
+   "height": 2979,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5296,2978,x1,y1"
+    },
+    {
+     "name": "4:3",
+     "crop": "3972,2978,x779,y1"
+    },
+    {
+     "name": "1:1",
+     "crop": "2979,2978,x1237,y1"
+    },
+    {
+     "name": "3:4",
+     "crop": "2234,2979,x1531,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4469,2979,x472,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals for that."
+  },
+  "showComments": true,
+  "nzzId": "ld.10012906",
+  "readingTime": 420,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10012906,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-27T03:35:00.000Z",
+  "publicationDate": "2026-08-27T03:35:00.000Z",
+  "publicationLastUpdated": "2026-08-27T03:35:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:35:00.000Z",
+  "teaserCaption": "Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals for that.",
+  "nzzAuthors": [
+   {
+    "id": 1374076,
+    "name": "Christian Weisflog",
+    "shortName": "ws",
+    "pianoId": "2c0fc0ea-2caf-44c6-be40-9533867dd8c8",
+    "external": false
+   }
+  ],
+  "authorLine": "Christian Weisflog",
+  "authorImage": {
+   "originalUrl": "/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 665516,
+    "name": "Christian Weisflog (ws.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+  "url": "/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 1494,
+  "premium": true,
+  "leadText": "Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals for that.",
+  "nzzSummaryEN": "- Trump's erratic policies, including trade conflicts, migration restrictions, and the Iran war, have severely damaged the U.S.'s global reputation.\n- His decisions rely heavily on instinct while sidelining advisors with differing views, fostering isolationism and domestic turmoil.\n- The Iran escalation and massive war expenses undermine domestic stability and America's global leadership role.",
+  "nzzSummaryDE": "- Trump's erratic policies, including tariff disputes, migration restrictions and the Iran war, have weakened the reputation of the USA worldwide.\n - His decisions are increasingly based on instinct, while he avoids advisors with differing views, which has fostered isolationism and domestic political damage.\n - The Iranian escalation and massive war spending undermine both domestic political stability and America's role as a global leader.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "A fortune hunter in distress",
+  "nzzPrintSubtitle": " Iran could bring about Trump's downfall, but not Trumpism",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906",
+   "title": "Iran might be the downfall of the adventurer Trump, but not Trumpism",
+   "socialMediaTitle": "A fortune hunter in distress: Trump could be undone by Iran, but not Trumpism",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/1c351c9c-03d2-4917-8376-d3e2beef3390.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5296,2978,x1,y1&wmark=nzz"
+  },
+  "ldPublicationId": 2484080,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Donald Trump",
+    "slug": "/themen/donald-trump"
+   },
+   {
+    "name": "Iran",
+    "slug": "/themen/iran"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   },
+   {
+    "name": "Customs dispute",
+    "slug": "/themen/zollstreit"
+   },
+   {
+    "name": "Volodymyr Zelensky",
+    "slug": "/themen/wolodimir-selenski"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 25,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Siamak Shafabakhsh",
+     "text": "«Thinking, fast and slow» Daniel Kahneman, 2011. Kahneman’s System 1 explains many of the cognitive biases that the world is exposed to today.",
+     "created_at": "2026-08-28T10:14:43.473Z",
+     "like_count": 2,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Tobias Suter",
+     "text": "Trump will certainly go down in US history. Whether he'll be remembered as a «great» president remains to be seen, but seems rather unlikely. Trump is the epitome of the state of US society. Every country gets the government and the president it deserves. The US clearly deserves such a president. For that reason alone, Trump will go down in US history. Nothing comes from nothing.",
+     "created_at": "2026-08-27T21:21:49.962Z",
+     "like_count": 2,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10020266",
+    "ld.10020500",
+    "ld.10020104"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 654744,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "donald-trump",
+   "name": "Donald Trump",
+   "tagName": "Donald Trump",
+   "qId": "Q22686",
+   "seoTitle": "Donald Trump News – All articles about the US politician ",
+   "description": null,
+   "firstName": "Donald",
+   "lastName": "Trump",
+   "category": "PER",
+   "createdDate": "2025-04-08 17:01:49.282Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/donald-trump",
+   "size": 4829,
+   "relatedTopics": [
+    {
+     "name": "Iran",
+     "slug": "/themen/iran"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Ukraine",
+     "slug": "/themen/ukraine"
+    },
+    {
+     "name": "Zollstreit",
+     "slug": "/themen/zollstreit"
+    },
+    {
+     "name": "Wolodimir Selenski",
+     "slug": "/themen/wolodimir-selenski"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Power Struggle in the Pentagon: Army Undersecretary Daniel Driscoll Is Considered a Rising Star. His Boss, Pete Hegseth, Dislikes That",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/156cc160-af49-4d9b-9598-2ffb8f8b87bc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/156cc160-af49-4d9b-9598-2ffb8f8b87bc.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y55"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x333,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2000,2000,x710,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x734,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He was expected to modernize the Army and maintained strong relations with the White House. But that did not protect Daniel Driscoll, 40, from Pete Hegseth's personnel policy. Experts warn of a toxic culture in the Defense Department.",
+     "teaserAuthor": "Adam Gray / Getty"
+    },
+    "teaserAuthor": "Adam Gray / Getty",
+    "tags": [
+     "Amerika"
+    ],
+    "nzzId": "ld.10022013",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why did the power struggle between Driscoll and Hegseth lead to Driscoll's resignation?",
+    "paywallQuestionTwo": "How does Hegseth's personnel policy influence the modernization of the Army?",
+    "paywallQuestionThree": "What long-term risks does the leadership crisis at the Pentagon pose?",
+    "characterCount": 7378,
+    "product": "NZZ.ch",
+    "documentId": "10022013",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T09:18:11.329Z",
+    "publicationLastUpdated": "2026-09-03T10:55:12.477Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T21:18:11.329Z",
+    "teaserCaption": "He was expected to modernize the Army and maintained strong relations with the White House. But that did not protect Daniel Driscoll, 40, from Pete Hegseth's personnel policy. Experts warn of a toxic culture in the Defense Department.",
+    "authorLine": "Isabelle Jacobi, Washington",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/24/778ef237-b4cf-4f32-8e9e-93d8e2537042.jpeg?crop=4892,4892,x1617,y247&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/machtkampf-im-pentagon-army-staatssekretaer-daniel-driscoll-galt-als-aufsteiger-das-gefiel-seinem-chef-pete-hegseth-nicht-ld.10022013",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1021,
+    "leadText": "He was expected to modernize the Army and maintained strong relations with the White House. But that did not protect Daniel Driscoll, 40, from Pete Hegseth's personnel policy. Experts warn of a toxic culture in the Defense Department.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Data analysis",
+    "title": "How Popular Is Donald Trump?",
+    "teaserImage": {
+     "originalUrl": "/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024&quality=75&auto=webp",
+     "width": 1801,
+     "height": 1351,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1801,1013,x0,y169"
+      },
+      {
+       "name": "4:3",
+       "crop": "1801,1351,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1351,1351,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1013,1351,x394,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1801,1201,x0,y75"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+     "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ"
+    },
+    "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1883243",
+    "readingTime": 120,
+    "authorLine": "Nikolai Thelitz",
+    "paywallQuestionOne": "Why has Trump's popularity declined?",
+    "paywallQuestionTwo": "What is Trump's stance on the economic situation?",
+    "paywallQuestionThree": "How do Americans view Trump's immigration policy?",
+    "characterCount": 2062,
+    "product": "NZZ.ch",
+    "documentId": "1883243",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:57:50.000Z",
+    "publicationLastUpdated": "2026-09-03T07:57:50.000Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:57:50.000Z",
+    "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/06/08/e254b9af-5f2d-4473-af8c-a9de53509f60.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2026-so-beliebt-ist-er-in-den-usa-ld.1883243",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 317,
+    "leadText": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "10 dollars for a coffee, 600% inflation – and hope for new oil billions: Welcome to everyday life in Venezuela",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y776"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x255,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4298,4298,x1520,y635"
+      },
+      {
+       "name": "3:4",
+       "crop": "3223,4298,x2395,y902"
+      },
+      {
+       "name": "3:2",
+       "crop": "7091,4727,x300,y472"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "showComments": true,
+    "tags": [
+     "Fotografie"
+    ],
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y388"
+      },
+      {
+       "name": "1:1",
+       "crop": "5200,5200,x1332,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x465,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3900,5200,x1982,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7800,5200,x32,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4659,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4659,4659,x340,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6212,4659,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3494,4659,x922,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6989,4659,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2669,
+      "y": 1695
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4629,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y646"
+      },
+      {
+       "name": "1:1",
+       "crop": "4629,4629,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6172,4629,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3472,4629,x331,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6944,4629,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2067,
+      "y": 2614
+     },
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10020261",
+    "readingTime": 600,
+    "paywallQuestionOne": "How will Trump's oil deal affect Venezuela's economic future?",
+    "paywallQuestionTwo": "What role do returning refugees and investors play in Venezuela's recovery?",
+    "paywallQuestionThree": "Why does the oil sector remain unsafe for investors despite reforms?",
+    "characterCount": 11936,
+    "product": "NZZ.ch",
+    "documentId": "10020261",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "authorLine": "Alexander Busch (text), Ana Gosen (images), Caracas",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/10-dollar-fuer-einen-kaffee-600-prozent-inflation-und-hoffnung-auf-neue-erdoelmilliarden-willkommen-im-alltag-in-venezuela-ld.10020261",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1908,
+    "premium": true,
+    "leadText": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 2,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Tanker for Tanker»: Trump escalates further in the Strait of Hormuz",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y306"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x427,y62"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x536,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2273,3030,x487,y185"
+      },
+      {
+       "name": "3:2",
+       "crop": "4999,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+     "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters"
+    },
+    "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Iran-Krieg",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10022048",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the escalation in Hormuz affect the global oil supply?",
+    "paywallQuestionTwo": "What goals is Trump pursuing with the blockade against Iran?",
+    "paywallQuestionThree": "How is Iran reacting to the US attacks?",
+    "characterCount": 5043,
+    "product": "NZZ.ch",
+    "documentId": "10022048",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:30:00.880Z",
+    "publicationLastUpdated": "2026-09-02T12:17:04.250Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:30:00.880Z",
+    "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "authorLine": "Christian Weisflog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/tanker-fuer-tanker-trump-zuendet-in-der-strasse-von-hormuz-die-naechste-eskalationsstufe-ld.10022048",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 776,
+    "leadText": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump's plan for Europe's nationalists has not worked",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/28f7856e-527a-4e83-bbdf-99d4eb9e3e81.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/28f7856e-527a-4e83-bbdf-99d4eb9e3e81.jpg?width=1024&quality=75&auto=webp",
+     "width": 5040,
+     "height": 3360,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4582,2577,x311,y208"
+      },
+      {
+       "name": "4:3",
+       "crop": "3702,2777,x702,y13"
+      },
+      {
+       "name": "1:1",
+       "crop": "3055,3055,x1012,y23"
+      },
+      {
+       "name": "3:4",
+       "crop": "2520,3360,x1142,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4582,3055,x229,y241"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Transatlantic alliance between Maga movement, European right-wing populists in crisis: Three reasons",
+     "teaserAuthor": "Yoan Valat / Pool / Getty"
+    },
+    "teaserAuthor": "Yoan Valat / Pool / Getty",
+    "editor": "1371808",
+    "paywallQuestionOne": "Why are Europe's nationalists distancing themselves from Donald Trump?",
+    "paywallQuestionTwo": "What economic and geopolitical conflicts divide Europe and Trump?",
+    "paywallQuestionThree": "How does Trump's style affect relations with European right-wing populists?",
+    "showComments": true,
+    "nzzId": "ld.10017749",
+    "readingTime": 300,
+    "characterCount": 7636,
+    "authorLine": "Andreas Ernst",
+    "product": "NZZ.ch",
+    "documentId": "10017749",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T09:45:48.891Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "Transatlantic alliance between Maga movement, European right-wing populists in crisis: Three reasons",
+    "url": "https://www.nzz.ch/pro/trump-und-europas-rechte-warum-die-allianz-kriselt-ld.10017749",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1089,
+    "premium": true,
+    "leadText": "Transatlantic alliance between Maga movement, European right-wing populists in crisis: Three reasons",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10012906",
+    "name": "A fortune hunter in distress: Trump could be undone by Iran, but not Trumpism",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "A fortune hunter in distress: Trump could be undone by Iran, but not Trumpism",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1374076,
+       "name": "Christian Weisflog",
+       "shortName": "ws",
+       "pianoId": "2c0fc0ea-2caf-44c6-be40-9533867dd8c8",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:35:00.000Z",
+     "updateTimestamp": "2026-08-27T03:35:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10012906",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Iran might be the downfall of the adventurer Trump, but not Trumpism",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/1c351c9c-03d2-4917-8376-d3e2beef3390.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5296,2978,x1,y1&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Christian Weisflog",
+  "description": "Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals for that.",
+  "news_keywords": "A fortune hunter in distress: Iran could bring Trump down, but not Trumpism, Commentary, Opinion, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T07:35:00+02:00",
+  "date": "2026-08-27T07:35:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - A fortune hunter in distress: Iran could bring Trump down, but not Trumpism",
+  "ogTitle": "A fortune hunter in distress: Trump could be undone by Iran, but not Trumpism",
+  "ogUrl": "https://www.nzz.ch/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906",
+  "mrf:cms_id": "nzz:ld.10012906",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10012906",
+  "nzzAuthors": [
+   {
+    "id": 1374076,
+    "name": "Christian Weisflog",
+    "shortName": "ws",
+    "pianoId": "2c0fc0ea-2caf-44c6-be40-9533867dd8c8",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:35 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Iran might be the downfall of the adventurer Trump, but not Trumpism"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906"
+   },
+   "headline": "Iran might be the downfall of the adventurer Trump, but not Trumpism",
+   "datePublished": "2026-08-27T07:35:00+02:00",
+   "dateModified": "2026-08-27T07:35:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Donald Trump wants to go down in American history as a great president: on par with Washington or Lincoln. But he lacks foresight and ideals for that.",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/1c351c9c-03d2-4917-8376-d3e2beef3390.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5296,2978,x1,y1&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Christian Weisflog"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 654744,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/ein-gluecksritter-in-noeten-an-iran-koennte-trump-zugrunde-gehen-nicht-aber-der-trumpismus-ld.10012906",
+    "classification=premium",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10012906",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-08-27T03:35:00.000Z",
+   "ContentAuthor": "Christian Weisflog",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie beeinflusst Trumps Politik den internationalen Ruf der USA?\nWelche Folgen hat der Iran-Krieg für Trumps Präsidentschaft?\nKönnte der Trumpismus einen Isolationisten hervorbringen?",
+   "ldId": "ld.10012906",
+   "channel": "Meinung",
+   "heading": "Ein Glücksritter in Nöten: An Iran könnte Trump zugrunde gehen, nicht aber der Trumpismus",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

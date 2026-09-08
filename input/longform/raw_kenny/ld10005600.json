@@ -1,0 +1,2623 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1jnp9f4n21",
+   "content": {
+    "title": "Cornfields for Meta: how AI is dividing a poor part of America",
+    "lead": "In rural Louisiana, Meta is building a gigantic AI data center from the ground up. Some thank God for it, while others demonize it. An on-site visit.",
+    "authorline": "Marie-Astrid Langer, Rayville (text and photos), Roland Shaw, Joana Kelén, Kalina Oroschakoff",
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/29/187c9a68-02ac-4cee-bf24-dbf905fdd7c3.png?crop=2625,1477,x0,y247",
+     "width": 2625,
+     "height": 1970,
+     "crop": {
+      "x": 0,
+      "y": 247,
+      "width": 2625,
+      "height": 1477,
+      "name": "desktop",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 247,
+       "width": 2625,
+       "height": 1477,
+       "name": "desktop",
+       "isAutomatic": true
+      },
+      {
+       "x": 574,
+       "y": 0,
+       "width": 1478,
+       "height": 1970,
+       "name": "tablet",
+       "isAutomatic": true
+      },
+      {
+       "x": 758,
+       "y": 0,
+       "width": 1108,
+       "height": 1970,
+       "name": "mobile",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "",
+    "caption": "",
+    "author": ""
+   },
+   "data": {
+    "_leadDirective": {
+     "highlightedTextRanges": {
+      "MUIdB4pHTYZm": {
+       "start": 37,
+       "end": 71,
+       "text": "a gigantic AI computing center"
+      },
+      "AwKsxMMDzPCp": {
+       "start": 86,
+       "end": 156,
+       "text": "Some thank God for it, others condemn it. A visit to the site."
+      }
+     }
+    }
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jnp9f4n22",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Marie-Astrid Langer, Rayville (text and photos)",
+       "url": "/impressum/marie-astrid-langer-ld.665515",
+       "teaserImage": {
+        "originalUrl": "/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0",
+        "width": 1200,
+        "height": 1200,
+        "crop": {
+         "x": 0,
+         "y": 0,
+         "width": 1200,
+         "height": 1200,
+         "name": "1:1"
+        },
+        "imageService": "fastly",
+        "url": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jsa53k9q0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Roland Shaw",
+       "url": "/impressum/roland-shaw-ld.1684746",
+       "teaserImage": {
+        "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jsa53lnk0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Joana Kelén",
+       "url": "/impressum/joana-kelen-ld.1288120",
+       "teaserImage": {
+        "originalUrl": "/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2607,2607,x1577,y263"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jrv2831a0",
+   "content": {
+    "text": "<strong></strong>Northern Louisiana in June. The thermometer reads 34 degrees, storm clouds are piling up in the sky, and below, lush green fields stretch toward the horizon. Dustin Morris pilots his Cessna over the plantations that his father, grandfather and great-grandfather once cultivated. They used to grow cotton here; now it's corn and soybeans. «Do you see how the corn is moving in the wind?» his father, Todd Morris, asks from the back seat, and you can hear the smile in his voice. «So beautiful.»"
+   },
+   "data": {},
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-04426679",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1js98gcic0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/29/30bfa172-db55-435a-a941-573ae0ca4301.jpg?crop=3000,2000,x0,y0",
+     "width": 3000,
+     "height": 2000,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3000,
+      "height": 2000,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3000,
+       "height": 2000,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0garva0",
+   "content": {
+    "text": "Dustin Morris is less emotional, but also satisfied. «The fields look healthy,» he observes from behind the steering wheel. But this morning, the two want to inspect something else from the air. A huge construction site emerges from the sea of green: dozens of excavators, cranes and heavy trucks, looking as small as toys. At eight kilometers long and one and a half kilometers wide – the sheer scale of the construction site can only be grasped from the air."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0garvc0",
+   "content": {
+    "text": "Here in Richland Parish, in the southern United States, Meta is building one of the largest AI data centers in the country, perhaps even the world. The project is named «Hyperion,» after the Titan of celestial light in Greek mythology. On an area the size of Geneva, tens of thousands of computers and one million graphics processors will soon power the company's artificial intelligence. The facility is scheduled to go online in 2030, after roughly five years of construction. To achieve this, the excavators are working around the clock, seven days a week."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1js0kqrj10",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "32df7ecc03f3d61ff400faf844df91a7",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_32df7ecc03f3d61ff400faf844df91a7_q78493316dcf94c848df9f43e6ed2583a_container\"        data-q-item-id=\"32df7ecc03f3d61ff400faf844df91a7\"        data-q-request-id=\"7307459c47c9e3f1153ad93eb3d3ee4c17493e4d\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"32df7ecc03f3d61ff400faf844df91a7\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"32df7ecc03f3d61ff400faf844df91a7\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"7307459c47c9e3f1153ad93eb3d3ee4c17493e4d\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_32df7ecc03f3d61ff400faf844df91a7_q78493316dcf94c848df9f43e6ed2583a_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"32df7ecc03f3d61ff400faf844df91a7\",\"title\":\"The largest planned data centers in the USA\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/06/30/choropleth-rechenzentren-us-mw-cadc2c8661fab6dd4709273c64ba2ec8.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/30/choropleth-rechenzentren-us-mw-cadc2c8661fab6dd4709273c64ba2ec8.png\",\"size\":141513,\"type\":\"image/png\",\"originalName\":\"choropleth-rechenzentren-us-mw.png\",\"width\":1110,\"height\":1425}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/06/30/choropleth-rechenzentren-us-cw-4c4bc9abaa723a135f70f6e3bc254ff0.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/30/choropleth-rechenzentren-us-cw-4c4bc9abaa723a135f70f6e3bc254ff0.png\",\"size\":197272,\"type\":\"image/png\",\"originalName\":\"choropleth-rechenzentren-us-cw.png\",\"width\":1890,\"height\":1320}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-06-30T14:16:13.569Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_32df7ecc03f3d61ff400faf844df91a7_q78493316dcf94c848df9f43e6ed2583a\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0garvd0",
+   "content": {
+    "text": "The data center represents Meta's attempt to catch up in the race for AI dominance. The company's models are good, but not the best. CEO Mark Zuckerberg, however, wants to be at the forefront of infrastructure: Hyperion is initially slated to provide a solid 2 gigawatts of computing power, and eventually even 5 gigawatts – twice the amount consumed by New Orleans on a summer day."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0garve0",
+   "content": {
+    "text": "<a href=\"https://www.bloomberg.com/features/2026-meta-facebook-ai-data-center-louisiana/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDA5MTQ3NywiZXhwIjoxNzgwNjk2Mjc3LCJhcnRpY2xlSWQiOiJURjkzT1BLSVVQWlIwMCIsImJjb25uZWN0SWQiOiIzQjNBQUI3MUExRkY0RTdBQUQ2NTkzNjkxRUNBQUFEOCJ9.CkvZPXEZcsZ7YnysLiO77LCJ50SAFS-4u8-0TyqSqdw\">According to media reports,</a> Meta now estimates the project's cost at $200 billion. Big Tech's investment frenzy is enormous: Amazon, Google, Microsoft and Meta alone poured around $130 billion into investments in the first quarter, primarily for AI data centers – three to four times what the Manhattan Project to build the atomic bomb had cost."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0garvf0",
+   "content": {
+    "text": "Louisiana, meanwhile, is experiencing the largest private investment in its history – and a profound economic transformation. What does it mean for the people who have lived here for generations when the AI revolution arrives in their own backyard? When AI is no longer just a prompt you type into a chatbox, but means the fields in front of your house are being leveled? Who loses – and who wins?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jrvn64c12",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/25/90d1987c-b31d-4cb0-a203-4e65c91fd3f0.png?crop=1891,694,x0,y0",
+     "width": 1891,
+     "height": 694,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 694,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 694,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jrv2a6qo0",
+   "content": {
+    "text": "The location: one of the poorest counties in the U.S"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1js9v9vn21",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "c6290080e253f2c0d244430ec6c88d49",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_c6290080e253f2c0d244430ec6c88d49_q7974669cfb1347a0810cabaf4e17a759_container\"        data-q-item-id=\"c6290080e253f2c0d244430ec6c88d49\"        data-q-request-id=\"cb020637ffe32c6404e9c7271bada7ed9060bf70\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"c6290080e253f2c0d244430ec6c88d49\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"c6290080e253f2c0d244430ec6c88d49\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"cb020637ffe32c6404e9c7271bada7ed9060bf70\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_c6290080e253f2c0d244430ec6c88d49_q7974669cfb1347a0810cabaf4e17a759_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"c6290080e253f2c0d244430ec6c88d49\",\"title\":\"A data center in the middle of rural Louisiana\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/06/29/locator-rayville-mw-2e159a550e47e2f732baf651548181aa.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/locator-rayville-mw-2e159a550e47e2f732baf651548181aa.png\",\"size\":113928,\"type\":\"image/png\",\"originalName\":\"locator-rayville-mw.png\",\"width\":1110,\"height\":1278}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/06/29/locator-rayville-cw-6bd3f57df7f91ef8a8a055c0708998ae.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/locator-rayville-cw-6bd3f57df7f91ef8a8a055c0708998ae.png\",\"size\":125042,\"type\":\"image/png\",\"originalName\":\"locator-rayville-cw.png\",\"width\":1890,\"height\":1110}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-06-29T15:28:53.146Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_c6290080e253f2c0d244430ec6c88d49_q7974669cfb1347a0810cabaf4e17a759\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jrv2cq200",
+   "content": {
+    "text": "<strong></strong>Northern Louisiana is the middle of nowhere. A house here, a dollar store there, and in between, only fields and forests. The region is known for its bayous, stagnant waters teeming with cypress trees and alligators. For hunting doves and turkeys. And for the country singer Tim McGraw."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefce0",
+   "content": {
+    "text": "Highway 80 is the lifeline connecting one settlement to the next. Shortly before the Rayville exit, the largest town in Richland Parish with 3,000 inhabitants, a 40-meter-high cross towers over the highway. Besides love of country, family and hunting, Christianity is the cornerstone of life: in this parish of 20,000 residents, there are more than eighty churches. The «Hebrew Coffee» café in Rayville prints Bible verses on its receipts, and a boutique sells «Christian Fashion»: sweatshirts with slogans like «He is risen» and «Love Jesus and America.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefch0",
+   "content": {
+    "text": "Just before Independence Day, the streets are decorated in red, blue and white, with the Stars and Stripes on every corner. But on closer inspection, many shops are deserted. Wooden houses are crumbling. Walmart, a Waffle House and McDonald’s – it's America on a budget."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefci0",
+   "content": {
+    "text": "Louisiana is the second poorest state in the U.S., and Richland Parish is one of its poorest parishes. The average income here <a href=\"https://censusreporter.org/profiles/05000US22083-richland-parish-la/\">is</a> $53,544. One in four people lives below the poverty line."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefcj0",
+   "content": {
+    "text": "It wasn't always like this: Rayville was once the heart of the nation's cotton industry; a sign at the city entrance still proclaims it the «Capital of White Gold.» Then came the boll weevil, which devoured the white gold. The Great Depression. Synthetic textiles. The forests in Richland Parish had long since been cleared."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1js98m3gn2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/29/8a38952a-4239-4de8-ad9d-eaa1876e0b66.jpg?crop=3000,2000,x0,y0",
+     "width": 3000,
+     "height": 2000,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3000,
+      "height": 2000,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3000,
+       "height": 2000,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefck0",
+   "content": {
+    "text": "Agriculture remained the mainstay, primarily corn and soybeans. But now, a field the size of the Hyperion campus can be cultivated by three workers. Small farms have been swallowed up by large ones. And even these are struggling: against falling sales prices, fierce competition from abroad, and skyrocketing seed prices."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefcl0",
+   "content": {
+    "text": "Corporations never established themselves in Richland Parish. Residents proudly recount that Delta Airlines originated here. But the airline moved to Atlanta when passenger traffic began to boom. Only the name remains of its Mississippi Delta roots."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefcl1",
+   "content": {
+    "text": "For decades, the region tried to attract a factory. The community had a trump card: 560 hectares of contiguous land that a local landowner had sold to the state specifically for this purpose. Companies would therefore not have to negotiate with dozens of small landowners to piece together a factory site."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0gefcm0",
+   "content": {
+    "text": "Many expressed interest, but no one came. Toyota, John Deere, Daimler, Caterpillar, Kia – each time the dream fell through. The region lacked the «intellectual capital» to fill 5,000 jobs, it was said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jrvn6jfl2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/25/ac4930ef-3871-486e-8c4f-3326e5bcd8a6.png?crop=1891,694,x0,y0",
+     "width": 1891,
+     "height": 694,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 694,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 694,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jrv2gl870",
+   "content": {
+    "text": "<strong>The investor: one of the world's largest tech companies</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jrv2g9fc0",
+   "content": {
+    "text": "Then news of Meta's plans surfaced. The company had been searching since 2023 for a location for the gigantic AI data center envisioned by CEO Zuckerberg. It seemed like a unique opportunity: for once, the shortage of skilled workers wouldn't be a disadvantage."
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0h5snq0",
+   "content": {
+    "text": "The region was attractive to Meta: plenty of land for little money. Enough water to cool the computer systems thanks to its proximity to the Mississippi River. And above all: a secure energy supply from the local oil and gas industry. «Use as much electricity as you want, we'll just make more,» Entergy promised Meta representatives at an initial meeting, <a href=\"https://www.bloomberg.com/features/2026-meta-facebook-ai-data-center-louisiana/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDA5MTQ3NywiZXhwIjoxNzgwNjk2Mjc3LCJhcnRpY2xlSWQiOiJURjkzT1BLSVVQWlIwMCIsImJjb25uZWN0SWQiOiIzQjNBQUI3MUExRkY0RTdBQUQ2NTkzNjkxRUNBQUFEOCJ9.CkvZPXEZcsZ7YnysLiO77LCJ50SAFS-4u8-0TyqSqdw\">as reported by Bloomberg Businessweek.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1js9e2ke50",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "c6290080e253f2c0d244430ec6e1f16b",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_c6290080e253f2c0d244430ec6e1f16b_q9a273bf263494c0a936ed76602703b42_container\"        data-q-item-id=\"c6290080e253f2c0d244430ec6e1f16b\"        data-q-request-id=\"5c8b98b354cef221c0c6241d87ce857b1fc24b8e\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"c6290080e253f2c0d244430ec6e1f16b\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"c6290080e253f2c0d244430ec6e1f16b\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"5c8b98b354cef221c0c6241d87ce857b1fc24b8e\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_c6290080e253f2c0d244430ec6e1f16b_q9a273bf263494c0a936ed76602703b42_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"c6290080e253f2c0d244430ec6e1f16b\",\"title\":\"In Louisiana, gas dominates the electricity mix\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/06/29/strommix-louisiana-mw-c284aa7f4f9452498c96b4d3826967cc.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/strommix-louisiana-mw-c284aa7f4f9452498c96b4d3826967cc.png\",\"size\":53360,\"type\":\"image/png\",\"originalName\":\"strommix-louisiana-mw.png\",\"width\":1110,\"height\":798}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/06/29/strommix-louisiana-cw-27a82e71f28481303088db5f4c3646d6.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/strommix-louisiana-cw-27a82e71f28481303088db5f4c3646d6.png\",\"size\":53711,\"type\":\"image/png\",\"originalName\":\"strommix-louisiana-cw.png\",\"width\":1890,\"height\":621}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-06-29T16:29:49.095Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_c6290080e253f2c0d244430ec6e1f16b_q9a273bf263494c0a936ed76602703b42\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js9e2g0g0",
+   "content": {
+    "text": "But the tech company made tough demands: no taxes on the chips, the most expensive components of the entire data center. Not a word to the public – all partners had to sign non-disclosure agreements. And no lengthy negotiations: they wanted a decision by summer 2024, within a few weeks."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0h5snu0",
+   "content": {
+    "text": "Louisiana did everything. They rewrote local building codes, exempted Meta from the sales tax for 20 years and cut property taxes by 80%. All Meta had to do was promise to create a few hundred jobs. The politicians didn't even require that these jobs be filled locally."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0h5snu1",
+   "content": {
+    "text": "The deal was closed. Meta bought the land for the data center through a shell company, leaving the financing to others: With the investment firm Blue Owl, it created a complex joint venture structure in which Meta itself holds only 20% and which in turn is financed by bond funds. It is called Beignet Investor, in a nod to the sweet pastry in New Orleans. The «Wall Street Journal,» however, referred to it as «Frankenstein Financing.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js2il3n40",
+   "content": {
+    "text": "It is a textbook example of how to finance a mammoth project while keeping all risks off the balance sheet. Moreover, Meta is only leasing the data center from the joint venture, and only for four years at a time. Should the AI boom turn out to be a bubble, the company could quickly abandon the entire facility. Richland Parish, on the other hand, would be left with a computer graveyard."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jrvn6tge2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/25/f395f81d-6597-4c3a-b79a-76a12e517f34.png?crop=1891,694,x0,y0",
+     "width": 1891,
+     "height": 694,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 694,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 694,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jrv2iofb0",
+   "content": {
+    "text": "<strong>The criticism: noise, accidents and a lot of secrecy</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jrv2n6l60",
+   "content": {
+    "text": "The public in Richland Parish learned of the huge project only after the deal was sealed. For Joe and Robin Williams, this happened when the first excavators rolled up to their door in late 2024. The couple has lived in Richland Parish for ten years, in a prefabricated corrugated iron house. Two folding chairs stand outside, and inside, a dog and a cat roam. The Williamses had sought solitude after Joe Williams retired from his job as a boatman in New Orleans."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1js9vr5t02",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/30/71a27fa1-9adf-4a99-a498-8cab3a6144f5.png?crop=4128,2616,x0,y0",
+     "width": 4128,
+     "height": 2616,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4128,
+      "height": 2616,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4128,
+       "height": 2616,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0hnt2e0",
+   "content": {
+    "text": "Instead of peace and quiet, they now have a major construction site 150 meters from their door; the rumble of the excavators can be heard in their garden. «I can't see the stars at night anymore,» says Robin Williams, taking a deep drag on her cigarette. Like all the other residents, she refers to the data center simply as «The Meta.» Her husband, Joe, says the water pressure in their pipes has also dropped and their electricity bill has increased from $100 to $140 a month."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0hnt2g0",
+   "content": {
+    "text": "In conversations, residents express two types of criticism. First, there is the frustration with the massive construction project. Richland Parish now has a rush hour. At 8 a.m. and 4 p.m., pickup trucks and semi-trucks are backed up for kilometers along the country road."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js8smt3l1",
+   "content": {
+    "text": "In the first nine months of last year, there were <a href=\"https://docs.google.com/spreadsheets/d/1MSO2BQrvnswzu365WDKQcflfYOpFidop54rJ3HERUQs/edit?gid=0#gid=0\">64 accidents around the data center. Before «Meta,» in all of 2024, there were 9</a>. On one occasion, a truck rumbled through the gate in the front yard of the local elementary school."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0hnt2i0",
+   "content": {
+    "text": "On the other hand, there are concerns about the environmental impact. The data center is expected to require 7.5 gigawatts of total power – 2.5 gigawatts of which are needed just to keep itself running."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js2j4dh01",
+   "content": {
+    "text": "For this purpose, the regional electricity provider Entergy is building ten gas-fired power plants, seven of them directly in Richland Parish. After initial negotiations, <a href=\"https://www.entergy.com/news/entergy-louisiana-announces-a-new-agreement-with-meta-that-will-deliver-an-additional-2b-in-customer-savings\">Meta will now cover the full costs</a>, plus those for expanding the infrastructure. Nevertheless, many residents worry about the combined effect of so many gas-fired power plants on the quality of the air they and their children breathe every day."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1js20vss41",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "c6290080e253f2c0d244430ec653549a",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_c6290080e253f2c0d244430ec653549a_q49ada26bd5804dc6934c10b1dfd05029_container\"        data-q-item-id=\"c6290080e253f2c0d244430ec653549a\"        data-q-request-id=\"0d103629d696af99853e13146810a191da835295\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"c6290080e253f2c0d244430ec653549a\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"c6290080e253f2c0d244430ec653549a\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"0d103629d696af99853e13146810a191da835295\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_c6290080e253f2c0d244430ec653549a_q49ada26bd5804dc6934c10b1dfd05029_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"c6290080e253f2c0d244430ec653549a\",\"title\":\"Louisiana is one of the major growth markets for natural gas\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/06/29/Chart-Louisiana-mw-641199d95fd6d57af43490703fd9ed48.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/Chart-Louisiana-mw-641199d95fd6d57af43490703fd9ed48.png\",\"size\":90430,\"type\":\"image/png\",\"originalName\":\"Chart-Louisiana-mw.png\",\"width\":1110,\"height\":1083}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/06/29/Chart-Louisiana-cw-bc193240c9903f881283c4ffae26c2f2.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/Chart-Louisiana-cw-bc193240c9903f881283c4ffae26c2f2.png\",\"size\":88878,\"type\":\"image/png\",\"originalName\":\"Chart-Louisiana-cw.png\",\"width\":1890,\"height\":864}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-06-29T16:43:48.117Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_c6290080e253f2c0d244430ec653549a_q49ada26bd5804dc6934c10b1dfd05029\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jsamevu40",
+   "content": {
+    "text": "The situation is similar with the water supply. According to its own figures, Meta will need up to four billion liters of water per year to cool the facility. Will this water remain in a closed cooling loop? Will it be treated before it enters the wastewater system? «The whole process is extremely opaque,» says Ian Hitchcock, who researches new key technologies for the Deep Tech Initiative at Duke University in North Carolina."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js2oofl60",
+   "content": {
+    "text": "Many of the hyperscalers claim that disclosing such details would reveal trade secrets, Hitchcock says. Legally, he adds, they are not obligated to do so. «As long as that's the case, it's practically impossible for the affected communities to fully assess the extent of any environmental damage.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0hnt2l1",
+   "content": {
+    "text": "This lack of transparency, Hitchcock says, also largely explains why AI data centers are so unpopular in the U.S. Seven out of ten Americans are now against data centers in their neighborhood, as the <a href=\"https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx\">Gallup Institute recently found</a>. This resistance has consequences: 75 planned data center projects worth $130 billion were blocked or postponed in the U.S. during the first quarter, <a href=\"https://www.datacenterwatch.org/q1-2026\">according to the organization Data Center Watch</a>."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1js20r69m0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "c6290080e253f2c0d244430ec654f4d4",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_c6290080e253f2c0d244430ec654f4d4_qb5fba1e4c2594fd5b387cce3a35b0f22_container\"        data-q-item-id=\"c6290080e253f2c0d244430ec654f4d4\"        data-q-request-id=\"2b9da80fb1f96e3a10ca9183a8b65cfafbe6e0f5\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"c6290080e253f2c0d244430ec654f4d4\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"c6290080e253f2c0d244430ec654f4d4\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"2b9da80fb1f96e3a10ca9183a8b65cfafbe6e0f5\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_c6290080e253f2c0d244430ec654f4d4_qb5fba1e4c2594fd5b387cce3a35b0f22_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"c6290080e253f2c0d244430ec654f4d4\",\"title\":\"In the US, many residents are skeptical about the construction of new data centers\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/06/29/USA-skepsis-mw-3b845c68339c4ec9decaafa1a630d548.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/USA-skepsis-mw-3b845c68339c4ec9decaafa1a630d548.png\",\"size\":103568,\"type\":\"image/png\",\"originalName\":\"USA-skepsis-mw.png\",\"width\":1110,\"height\":1080}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/06/29/USA-skepsis-cw-a6d2f5ab3374092c7a368b472fb80528.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/29/USA-skepsis-cw-a6d2f5ab3374092c7a368b472fb80528.png\",\"size\":103982,\"type\":\"image/png\",\"originalName\":\"USA-skepsis-cw.png\",\"width\":1890,\"height\":921}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-06-29T16:26:38.648Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_c6290080e253f2c0d244430ec654f4d4_qb5fba1e4c2594fd5b387cce3a35b0f22\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jsb6elsr0",
+   "content": {
+    "text": "Meta told the NZZ that Richland Parish will be an «important hub» for the company's AI innovations for years to come, adding that it is committed to the «long-term vitality of the communities» where the data centers are located. «To date, we have not abandoned any of our projects after a location has been selected.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jrvn740b2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/25/20484ea5-7565-4c19-9b80-4d392f1224e5.png?crop=1891,694,x0,y0",
+     "width": 1891,
+     "height": 694,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 694,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 694,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jrvcvmj30",
+   "content": {
+    "text": "<strong>The boom: a windfall for the restaurant industry and teachers</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jrvcvqg21",
+   "content": {
+    "text": "<strong></strong>Many local residents also see positive aspects of «The Meta.» Ty Allen, 22, stands in a food truck on Rayville's main street, filling tortillas with ground beef alongside his wife and mother. When he learned about Meta's huge construction project last year, he bought a transport truck from his uncle and converted it into a food truck."
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jsa1a5i32",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/06/30/e5eaacba-270c-45d2-b263-04a11f666eef.png?crop=4128,2772,x0,y0",
+     "width": 4128,
+     "height": 2772,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4128,
+      "height": 2772,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4128,
+       "height": 2772,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0i1t0s0",
+   "content": {
+    "text": "«Holy Tacos» is now a family business; Ty's father also helps grill in the evenings after his work as a pastor. Three times a month, the company operating the construction site orders between 800 and 1,200 tacos from «Holy Tacos.» On those days, they are on their feet from 4 a.m., Allen says. «It's not easy money,» he says, but adds that it is a boom the community has never seen before. The family hopes the construction project will continue for many years."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0i1t0v0",
+   "content": {
+    "text": "Another resident has opened a new RV park that houses construction workers. Two women have started a mobile laundry service. A Holiday Inn is under construction. Several police officers have left the sheriff's office to work as private security guards on the construction site for a significantly higher hourly wage."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0i1t100",
+   "content": {
+    "text": "Teachers, in particular, received an unexpected windfall. Thanks to a 1968 tax law, the school district receives 1% of the parish's sales tax revenue each year. This provides a 13th-month salary for teachers and everyone working as bus drivers, janitors or in the school cafeteria – usually a few thousand dollars. With salaries between $29,000 and $52,000, it was a nice bonus."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0i1t110",
+   "content": {
+    "text": "This year, thanks to the massive construction project, the bonus was $50,935. This was the amount for teachers with at least four years of work experience. All other support staff received $17,000; in total, 400 people received a bonus. One janitor used the money to buy his family a new compact car, a Nissan Versa."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1js0i2ea40",
+   "content": {
+    "text": "The future: Will it really be better?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0i2gq10",
+   "content": {
+    "text": "The boom caused by the large construction site won't last forever. Eventually, the thousands of construction workers will leave, leaving behind a data center that will provide jobs for a few hundred people."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0iumkt0",
+   "content": {
+    "text": "But many aren't ready to think that far ahead. Real estate agent Jason Bruyninckx sits in his office in a low-rise building in Rayville. On the walls behind him hang two stuffed deer skulls and dozens of hunting photos. On the screen in front of him, he has pulled up a map of land sales in Richland Parish from the past year."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0iumkv0",
+   "content": {
+    "text": "Property prices are currently rising like the Mississippi River during hurricane season. The real estate agent points to a rectangle on the map, a parcel of 11 hectares. He says that plot recently sold for $1.5 million, and another company is now building a small data center there. «Five years ago, I would have estimated a piece of land like that with trees on it at maybe $68,000.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0iuml10",
+   "content": {
+    "text": "It has become difficult to advise his clients, he says: Should they speculate that prices will continue to rise? Or should they buy now? Things are changing so quickly at the moment."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1js9utnqo2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "Dustin Morris, left, and his father Todd run a farm in Richland Parish.",
+     "originalUrl": "/2026/06/30/cb0cb746-7952-4352-981a-eac113c6b079.png?crop=4128,2726,x0,y0",
+     "width": 4128,
+     "height": 2726,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4128,
+      "height": 2726,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4128,
+       "height": 2726,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Dustin Morris, left, and his father Todd run a farm in Richland Parish.",
+    "author": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js0iuml40",
+   "content": {
+    "text": "Dustin and Todd Morris agree. They climb out of their Cessna in one of their fields, floored by the progress on the construction site. «Seeing this development from week to week is breathtaking,» says Dustin Morris."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js2k2im31",
+   "content": {
+    "text": "He says they have not sold any land to Meta to date. «I grew up with farming; I love having dirt under my fingernails and on my shoes.» But the 43-year-old is the only one of 15 grandchildren who works in agriculture. And he adds that none of his own four children have any such plans."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js8um2101",
+   "content": {
+    "text": "You have to put emotions aside, says Dustin Morris, adding that the crucial point is not keeping the land in the family but being able to provide for one's family with it. And that might be easier with a data center these days. If a call came from Meta, the father and son agree, they would consider a sale."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "free-html"
+  },
+  {
+   "identifier": "free-html",
+   "id": "doc-1jsbhtnu40",
+   "content": {
+    "html": "<div style=\"display: flex; justify-content: center;\"> <iframe width=\"315\" height=\"560\"src=\"https://www.youtube.com/embed/zvBfcdxafXc\"title=\"YouTube video player\"frameborder=\"0\"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"allowfullscreen></iframe></div>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1jsa66sb00",
+   "content": {
+    "text": "<strong>Image colorization:</strong> NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "free-html",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jnp9f4n26",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-6b987a1e",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 1,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Marc Anderson",
+      "text": "«Conclusion: Life in a post-work society will no longer be defined by one's profession, but by social roles, personal development, and how we shape leisure and community.» (The prompt: What will 10 billion people likely live on once massive AI data centers can perform all the tasks they can?). Brave New World. The savages can always generate electricity on exercise bikes.",
+      "created_at": "2026-06-30T13:36:57.582Z",
+      "like_count": 2,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jnp9f4n27",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jnp9f4n28",
+      "content": {
+       "owner": "NZZ",
+       "title": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+       "teaserImage": {
+        "originalUrl": "/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1024&quality=75&auto=webp",
+        "width": 2343,
+        "height": 1758,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1936,1089,x260,y335"
+         },
+         {
+          "name": "4:3",
+          "crop": "1760,1320,x358,y219"
+         },
+         {
+          "name": "1:1",
+          "crop": "1758,1758,x293,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1319,1758,x451,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2130,1420,x107,y182"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+        "teaserAuthor": "Google Handout / EPA"
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1934446",
+       "teaserAuthor": "Google Handout / EPA",
+       "readingTime": 540,
+       "colorSchema": "color-schema--night-sky",
+       "paywallQuestionOne": "How will Europe catch up in the global AI race with data centers?",
+       "paywallQuestionTwo": "What challenges does the expansion of data centers in Europe entail?",
+       "paywallQuestionThree": "How does the energy demand of data centers affect Europe's climate goals?",
+       "tags": [
+        "Visuals",
+        "Wissenschaft aktuell",
+        "Technologie aktuell",
+        "Pro: Rechenzentren"
+       ],
+       "showHeader": true,
+       "characterCount": 12941,
+       "product": "NZZ.ch",
+       "documentId": 1934446,
+       "layout": "headlesslongformvisual",
+       "publicationDate": "2026-05-18T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-29T13:22:29.877Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-18T15:30:00.000Z",
+       "teaserCaption": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+       "authorLine": "Kalina Oroschakoff, Roland Shaw, Joana Kelén",
+       "authorImage": {
+        "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1894,
+       "premium": true,
+       "leadText": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jnp9f4n29",
+      "content": {
+       "title": "Milan's data center in the crosshairs: The precursor to Europe's looming water conflict",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1024&quality=75&auto=webp",
+        "width": 2000,
+        "height": 1500,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2000,1125,x0,y78"
+         },
+         {
+          "name": "4:3",
+          "crop": "2000,1500,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1500,1500,x188,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1125,1500,x338,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2000,1333,x0,y83"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+        "teaserAuthor": "Sara Busiol / Paolo Michele"
+       },
+       "teaserAuthor": "Sara Busiol / Paolo Michele",
+       "tags": [
+        "Technologie aktuell",
+        "Visuals",
+        "Pro: Rechenzentren"
+       ],
+       "showComments": true,
+       "nzzId": "ld.10005597",
+       "readingTime": 480,
+       "colorSchema": "color-schema--night-sky",
+       "paywallQuestionOne": "How do data centers affect water resources in the Milan region?",
+       "paywallQuestionTwo": "What measures are operators planning to reduce water consumption?",
+       "paywallQuestionThree": "Why is there a lack of reliable data on the environmental impact of data centers?",
+       "authorLine": "Kalina Oroschakoff, Roland Shaw, Joana Kelen",
+       "characterCount": 11495,
+       "product": "NZZ.ch",
+       "documentId": 10005597,
+       "layout": "longformvisual",
+       "publicationDate": "2026-06-01T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-10T13:29:17.079Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-01T15:30:00.000Z",
+       "teaserCaption": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+       "authorImage": {
+        "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1652,
+       "premium": true,
+       "leadText": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jnp9f4n210",
+      "content": {
+       "title": "Mass layoffs and rising electricity prices: In the home of AI companies, fear of technology is growing",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/09/0b10aa68-0717-4ba5-b77d-0884253c4f1d.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/09/0b10aa68-0717-4ba5-b77d-0884253c4f1d.jpg?width=1024&quality=75&auto=webp",
+        "width": 5400,
+        "height": 3602,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5400,3037,x0,y513"
+         },
+         {
+          "name": "4:3",
+          "crop": "4803,3602,x299,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3602,3602,x899,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2702,3602,x1349,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5400,3600,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The majority of Americans now view artificial intelligence negatively. Politicians are capitalizing on this: in this election year, they are campaigning for a «token tax» and against new data centers. Now, AI companies are also responding to the public's fears.",
+        "teaserAuthor": "Manuel Orbegozo / Reuters"
+       },
+       "teaserAuthor": "Manuel Orbegozo / Reuters",
+       "tags": [
+        "Technologie aktuell",
+        "Künstliche Intelligenz"
+       ],
+       "nzzId": "ld.10006292",
+       "readingTime": 360,
+       "paywallQuestionOne": "How does AI affect the job market and public opinion in the USA?",
+       "paywallQuestionTwo": "What political reactions are there to the growing skepticism towards AI in the US during this election year?",
+       "paywallQuestionThree": "How do data centers affect electricity prices for consumers?",
+       "showComments": true,
+       "characterCount": 7250,
+       "product": "NZZ.ch",
+       "documentId": 10006292,
+       "layout": "regular",
+       "publicationDate": "2026-05-09T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-09T15:34:38.362Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-09T15:30:00.000Z",
+       "teaserCaption": "The majority of Americans now view artificial intelligence negatively. Politicians are capitalizing on this: in this election year, they are campaigning for a «token tax» and against new data centers. Now, AI companies are also responding to the public's fears.",
+       "authorLine": "Marie-Astrid Langer",
+       "authorImage": {
+        "originalUrl": "/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1200,
+        "height": 1200,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "1200,1200,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/massenentlassungen-und-steigende-strompreise-in-der-heimat-der-ki-firmen-waechst-die-angst-vor-technologie-ld.10006292",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1131,
+       "premium": true,
+       "leadText": "The majority of Americans now view artificial intelligence negatively. Politicians are capitalizing on this: in this election year, they are campaigning for a «token tax» and against new data centers. Now, AI companies are also responding to the public's fears.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Cornfields for Meta: how AI is dividing a poor part of America",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "tags": [
+   "Technologie aktuell",
+   "Visuals",
+   "Pro: Rechenzentren",
+   "Künstliche Intelligenz",
+   "Amerika"
+  ],
+  "teaserImage": {
+   "originalUrl": "/2026/06/29/f4140bfb-9547-4b1c-8beb-c0dc15ef1e94.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/06/29/f4140bfb-9547-4b1c-8beb-c0dc15ef1e94.png?width=1024&quality=75&auto=webp",
+   "width": 2625,
+   "height": 1970,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2386,1343,x119,y314"
+    },
+    {
+     "name": "4:3",
+     "crop": "2169,1627,x228,y172"
+    },
+    {
+     "name": "1:1",
+     "crop": "1628,1628,x499,y171"
+    },
+    {
+     "name": "3:4",
+     "crop": "1478,1970,x602,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2386,1591,x119,y190"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "In rural Louisiana, Meta is building a gigantic AI data center from the ground up. Some thank God for it, while others demonize it. An on-site visit.",
+   "teaserAuthor": "Image: Marie-Astrid Langer"
+  },
+  "teaserAuthor": "Image: Marie-Astrid Langer",
+  "videoTeaser": "",
+  "nzzId": "ld.10005600",
+  "readingTime": 720,
+  "colorSchema": "color-schema--night-sky",
+  "characterCount": 15257,
+  "showComments": true,
+  "authorLine": "Marie-Astrid Langer, Rayville (text and photos), Roland Shaw, Joana Kelén, Kalina Oroschakoff",
+  "breadcrumbs": [
+   {
+    "name": "Technology",
+    "path": "/technologie"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10005600,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-06-30T03:30:00.000Z",
+  "publicationDate": "2026-06-30T03:30:00.000Z",
+  "publicationLastUpdated": "2026-07-02T08:47:33.489Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-06-30T15:30:00.000Z",
+  "teaserCaption": "In rural Louisiana, Meta is building a gigantic AI data center from the ground up. Some thank God for it, while others demonize it. An on-site visit.",
+  "nzzAuthors": [
+   {
+    "id": 1373049,
+    "name": "Marie-Astrid Langer",
+    "shortName": "lma",
+    "pianoId": "95b73c77-9bc7-4baa-b96a-460316c785f8",
+    "external": false
+   },
+   {
+    "id": 1667403,
+    "name": "Roland Shaw",
+    "shortName": "sro",
+    "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+    "external": false
+   },
+   {
+    "id": 1413679,
+    "name": "Joana Kelén",
+    "shortName": "jok.",
+    "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+    "external": false
+   },
+   {
+    "id": 1639830,
+    "name": "Kalina Oroschakoff",
+    "shortName": "oro",
+    "pianoId": "1b760ebe-93b2-4073-9ed8-f9b2b502b46d",
+    "external": false
+   }
+  ],
+  "authorImage": {
+   "originalUrl": "/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0",
+   "width": 1200,
+   "height": 1200,
+   "crop": {
+    "x": 0,
+    "y": 0,
+    "width": 1200,
+    "height": 1200,
+    "name": "1:1"
+   },
+   "imageService": "fastly",
+   "url": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp",
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 665515,
+    "name": "Marie-Astrid Langer, Rayville (text and photos)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1684746,
+    "name": "Roland Shaw (sro.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1288120,
+    "name": "Joana Kelén (jok.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600",
+  "department": {
+   "name": "Technology",
+   "path": "/technologie"
+  },
+  "estimationWordCount": 2380,
+  "premium": true,
+  "leadText": "In rural Louisiana, Meta is building a gigantic AI data center from the ground up. Some thank God for it, while others demonize it. An on-site visit.",
+  "nzzSummaryEN": "- In Louisiana, Meta is constructing one of the world's largest AI data centers, involving massive construction projects and substantial resource demands, transforming the rural area.\n- While some locals benefit economically, experiencing increased incomes and new business opportunities, there are criticisms over environmental impact and rising living costs.\n- The long-term implications remain uncertain, as the project relies partly on temporary construction activity with limited long-term local potential.",
+  "nzzSummaryDE": "- In Louisiana, Meta is building one of the world's largest AI data centers, with massive construction projects and extensive resource requirements, transforming the rural area.\n - While some locals experience economic benefits, such as increased local incomes and new business opportunities, there is also criticism due to environmental pollution and increased living costs.\n - The long-term impacts remain unclear, as the project is partly based on temporary construction site activities and the local potential appears to be limited in the long term.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Cornfields for Meta",
+  "nzzPrintSubtitle": "A gigantic new AI data center is polarizing opinions in Louisiana",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600",
+   "title": "Cornfields for Meta: how AI is dividing a poor part of America",
+   "socialMediaTitle": "Cornfields for Meta: how AI is dividing a poor part of America",
+   "description": "In rural Louisiana, Meta is building America's largest AI data center from scratch. Some thank God for it, others condemn it. A visit to the site.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/06/29/f4140bfb-9547-4b1c-8beb-c0dc15ef1e94.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2386,1343,x119,y314&wmark=nzz"
+  },
+  "ldPublicationId": 2456525,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   },
+   {
+    "name": "agriculture",
+    "slug": "/themen/landwirtschaft"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Mark Zuckerberg",
+    "slug": "/themen/mark-zuckerberg"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 1,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Marc Anderson",
+     "text": "«Conclusion: Life in a post-work society will no longer be defined by one's profession, but by social roles, personal development, and how we shape leisure and community.» (The prompt: What will 10 billion people likely live on once massive AI data centers can perform all the tasks they can?). Brave New World. The savages can always generate electricity on exercise bikes.",
+     "created_at": "2026-06-30T13:36:57.582Z",
+     "like_count": 2,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1934446",
+    "ld.10005597",
+    "ld.10006292"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 1077744,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "kuenstliche-intelligenz-ki",
+   "name": "Artificial Intelligence (AI)",
+   "tagName": "Artificial Intelligence (AI)",
+   "qId": "Q11660",
+   "seoTitle": "AI News – All NZZ articles on the topic of Artificial Intelligence",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:28:45.240Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/kuenstliche-intelligenz-ki",
+   "size": 2276,
+   "relatedTopics": [
+    {
+     "name": "Landwirtschaft",
+     "slug": "/themen/landwirtschaft"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Mark Zuckerberg",
+     "slug": "/themen/mark-zuckerberg"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Explained",
+    "title": "What is artificial intelligence? How does deep learning work? An overview",
+    "teaserImage": {
+     "originalUrl": "/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4661,
+     "height": 3097,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4661,2622,x0,y238"
+      },
+      {
+       "name": "1:1",
+       "crop": "3097,3097,x782,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4129,3097,x266,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2323,3097,x1169,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4646,3097,x8,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+     "teaserAuthor": "Miguel Candela / Imago"
+    },
+    "teaserAuthor": "Miguel Candela / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1632034",
+    "readingTime": 660,
+    "authorLine": "Ruth Fulterer, Eveline Geiser",
+    "characterCount": 15561,
+    "product": "NZZ.ch",
+    "documentId": "1632034",
+    "layout": "regular",
+    "publicationDate": "2021-11-05T08:27:54.281Z",
+    "publicationLastUpdated": "2026-04-29T10:01:03.477Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2021-11-05T20:27:54.281Z",
+    "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/kuenstliche-intelligenz-ki-deep-learning-einfach-erklaert-ld.1632034",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 2180,
+    "leadText": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "hasQ": true
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "The chip war reaches the logistics industry: Kühne + Nagel scrutinizes Asian subsidiary after US authorities' investigation",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3667,3667,x917,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+     "teaserAuthor": "Benoit Tessier / Reuters"
+    },
+    "teaserAuthor": "Benoit Tessier / Reuters",
+    "nzzId": "ld.10021434",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is the chip war affecting the logistics industry?",
+    "paywallQuestionTwo": "What role does Apex Logistics play in the Nvidia chip smuggling?",
+    "paywallQuestionThree": "How is Kühne + Nagel reacting to the investigations by the US authorities?",
+    "characterCount": 5867,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021434",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T10:04:23.699Z",
+    "publicationLastUpdated": "2026-09-01T07:43:01.458Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T22:04:23.699Z",
+    "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "authorLine": "Dominik Feldges",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/16/52e0b698-52d3-4f00-915a-fa5563d57443.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/kuehne-nagel-und-nvidia-transport-chip-krieg-erreicht-logistikbranche-ld.10021434",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 873,
+    "premium": true,
+    "leadText": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Madonna or Machine? Australia bans AI songs from charts – Switzerland to follow by year-end",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024&quality=75&auto=webp",
+     "width": 1972,
+     "height": 1315,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1972,1109,x0,y103"
+      },
+      {
+       "name": "4:3",
+       "crop": "1753,1315,x109,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1315,1315,x329,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "986,1315,x493,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1972,1315,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+     "teaserAuthor": "Brendan McDermid / Reuters"
+    },
+    "teaserAuthor": "Brendan McDermid / Reuters",
+    "nzzId": "ld.10021251",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why does Australia exclude AI-generated music from the charts?",
+    "paywallQuestionTwo": "How does AI affect music production and artists' rights?",
+    "paywallQuestionThree": "What measures is Switzerland planning to take against AI-generated music in the charts?",
+    "characterCount": 5105,
+    "product": "NZZ.ch",
+    "documentId": "10021251",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "authorLine": "Janique Weder",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/658595c2-7b09-41f4-b098-616595fb9540.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/madonna-oder-maschine-australien-verbannt-ki-songs-aus-den-charts-die-schweiz-zieht-bis-ende-jahr-nach-ld.10021251",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 790,
+    "leadText": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Constantly reachable and exhausted – China is the world's digital pioneer; this shows what awaits us in the near future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Oliver Radtke",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x611,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3334,3334,x1712,y333"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x1860,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+     "teaserAuthor": "Go Nakamura / Reuters"
+    },
+    "teaserAuthor": "Go Nakamura / Reuters",
+    "nzzId": "ld.10020483",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does digitalization affect mental health in China?",
+    "paywallQuestionTwo": "What social and economic pressures increase the burden?",
+    "paywallQuestionThree": "How is China responding to the challenges posed by AI and digitalization?",
+    "characterCount": 10235,
+    "tags": [
+     "Zeitgeschehen"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020483",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "url": "https://www.nzz.ch/feuilleton/dauererreichbar-und-erschoepft-china-ist-der-digitale-vorreiter-der-welt-hier-zeigt-sich-was-uns-in-naher-zukunft-bevorsteht-ld.10020483",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1407,
+    "leadText": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Countless videos circulate after Nepal disaster: Whether they are real is increasingly secondary for the public",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 675,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "615,461,x585,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "675,675,x525,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "506,675,x694,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1013,675,x187,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+     "teaserAuthor": "Screenshot Instagram; edited by NZZ"
+    },
+    "teaserAuthor": "Screenshot Instagram; edited by NZZ",
+    "editor": "1373070",
+    "tags": [
+     "Fotografie"
+    ],
+    "nzzId": "ld.10021416",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does AI-generated content influence the perception of disaster images?",
+    "paywallQuestionTwo": "What role does the labeling of AI content play in viewer trust?",
+    "paywallQuestionThree": "How does the mixing of real and fake images change our reactions?",
+    "characterCount": 6702,
+    "product": "NZZ.ch",
+    "documentId": "10021416",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T09:47:44.143Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "authorLine": "Dario Veréb",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/01/08/843b2812-68de-4f43-be8e-ade4c1e4f7e2.png?crop=1728,1728,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/medien/nach-der-katastrophe-in-nepal-kursieren-unzaehlige-videos-ob-sie-echt-sind-ist-fuer-das-publikum-zunehmend-zweitrangig-ld.10021416",
+    "department": {
+     "name": "Media",
+     "path": "/feuilleton/medien"
+    },
+    "estimationWordCount": 1068,
+    "leadText": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10005600",
+    "name": "Cornfields for Meta: how AI is dividing a poor part of America",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Technologie",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Cornfields for Meta: how AI is dividing a poor part of America",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373049,
+       "name": "Marie-Astrid Langer",
+       "shortName": "lma",
+       "pianoId": "95b73c77-9bc7-4baa-b96a-460316c785f8",
+       "external": false
+      },
+      {
+       "id": 1667403,
+       "name": "Roland Shaw",
+       "shortName": "sro",
+       "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+       "external": false
+      },
+      {
+       "id": 1413679,
+       "name": "Joana Kelén",
+       "shortName": "jok.",
+       "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+       "external": false
+      },
+      {
+       "id": 1639830,
+       "name": "Kalina Oroschakoff",
+       "shortName": "oro",
+       "pianoId": "1b760ebe-93b2-4073-9ed8-f9b2b502b46d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-06-30T03:30:00.000Z",
+     "updateTimestamp": "2026-07-02T08:47:33.489Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10005600",
+   "pageType": "longformvisual",
+   "primaryCategory": "Technologie",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Cornfields for Meta: how AI is dividing a poor part of America",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/06/29/f4140bfb-9547-4b1c-8beb-c0dc15ef1e94.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2386,1343,x119,y314&wmark=nzz",
+   "type": "image/png",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Marie-Astrid Langer, Rayville (text and photos), Roland Shaw, Joana Kelén, Kalina Oroschakoff",
+  "description": "In rural Louisiana, Meta is building America's largest AI data center from scratch. Some thank God for it, others condemn it. A visit to the site.",
+  "news_keywords": "Cornfields for Meta: How AI is dividing a poor part of America, Technology, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-07-02T12:47:33+02:00",
+  "date": "2026-06-30T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Cornfields for Meta: how AI is dividing a poor part of America",
+  "ogTitle": "Cornfields for Meta: how AI is dividing a poor part of America",
+  "ogUrl": "https://www.nzz.ch/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600",
+  "mrf:cms_id": "nzz:ld.10005600",
+  "mrf:sections": "Technologie;WTM",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10005600",
+  "nzzAuthors": [
+   {
+    "id": 1373049,
+    "name": "Marie-Astrid Langer",
+    "shortName": "lma",
+    "pianoId": "95b73c77-9bc7-4baa-b96a-460316c785f8",
+    "external": false
+   },
+   {
+    "id": 1667403,
+    "name": "Roland Shaw",
+    "shortName": "sro",
+    "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+    "external": false
+   },
+   {
+    "id": 1413679,
+    "name": "Joana Kelén",
+    "shortName": "jok.",
+    "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+    "external": false
+   },
+   {
+    "id": 1639830,
+    "name": "Kalina Oroschakoff",
+    "shortName": "oro",
+    "pianoId": "1b760ebe-93b2-4073-9ed8-f9b2b502b46d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:08 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/technologie",
+      "name": "Technology"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Cornfields for Meta: how AI is dividing a poor part of America"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600"
+   },
+   "headline": "Cornfields for Meta: how AI is dividing a poor part of America",
+   "datePublished": "2026-06-30T07:30:00+02:00",
+   "dateModified": "2026-07-02T12:47:33+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "In rural Louisiana, Meta is building America's largest AI data center from scratch. Some thank God for it, others condemn it. A visit to the site.",
+   "isAccessibleForFree": false,
+   "articleSection": "Technologie",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/06/29/f4140bfb-9547-4b1c-8beb-c0dc15ef1e94.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2386,1343,x119,y314&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Marie-Astrid Langer"
+    },
+    {
+     "@type": "Person",
+     "name": "Roland Shaw"
+    },
+    {
+     "@type": "Person",
+     "name": "Joana Kelén"
+    },
+    {
+     "@type": "Person",
+     "name": "Kalina Oroschakoff"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 1077744,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/technologie/maisfelder-fuer-meta-wie-ki-ein-armes-stueck-amerika-spaltet-ld.10005600",
+    "classification=premium",
+    "relevance=germany",
+    "layout=longformvisual",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10005600",
+    "channel=Technologie"
+   ],
+   "ContentCreated": "2026-06-30T03:30:00.000Z",
+   "ContentAuthor": "Marie-Astrid Langer, Rayville (Text und Fotos), Roland Shaw, Joana Kelén, Kalina Oroschakoff",
+   "ContentSection": "Technologie",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie beeinflusst Metas KI-Rechenzentrum die lokale Wirtschaft in Louisiana?\nWelche Bedenken hegen Anwohner gegenüber dem KI-Projekt?\nWelche langfristigen Folgen könnte das Projekt für die Region haben?",
+   "ldId": "ld.10005600",
+   "channel": "Technologie",
+   "heading": "Maisfelder für Meta: Wie KI ein armes Stück Amerika spaltet",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,94 @@
+# Germany could plunge into a gas crisis next winter
+
+*The cold winter has depleted the gas storage facilities. Now they need to be refilled. But natural gas is scarce and expensive due to the war with Iran. The German government is therefore considering building a strategic gas reserve. There would be a better option, however.*
+
+**Malte Fischer, Düsseldorf** · Wirtschaft · 2026-04-08 · 1654 words · [ld.1932267](https://www.nzz.ch/wirtschaft/iran-krieg-droht-deutschland-eine-neue-gaskrise-ld.1932267)
+
+![Underground gas storage facility in Bad Lauchstädt: Germany's gas storage facilities are currently only about one-fifth full on average.](https://img-msp-prod.nzz.ch/2026/04/02/0c73adde-adfe-4a08-8e10-8e1bedd8c59f.jpg?width=1024)
+*Underground gas storage facility in Bad Lauchstädt: Germany's gas storage facilities are currently only about one-fifth full on average.* (Getty)
+
+Just a few weeks ago, politicians in Berlin were worried whether gas reserves would be sufficient to get Germany through the winter unharmed. The country had started the winter with gas storage facilities only 77% full. Then temperatures plummeted, citizens turned up their heating, and the gas storage facilities emptied at a record pace.
+
+Although Germany narrowly avoided a gas shortage thanks to the onset of spring, concerns about its gas supply persist. The depleted storage facilities now need to be refilled to prevent chaos next winter. Whether this will be possible is far from certain.
+
+The storage facilities are currently only about one-fifth full. The fill level must be increased to 80 percent by the beginning of November. This is stipulated by the legal regulations passed by the German Bundestag in 2022 following the outbreak of the war in Ukraine, in order to ensure the gas supply during the winter.
+
+> [embed: q-tool (chart/map) 602890fbaf5636d0a2202ddef069b98d]
+
+## Bidding war between Europe and Asia for gas
+
+Replenishing the storage facilities could prove to be a Herculean task – and more expensive than anticipated. The war with Iran has reduced the global supply of gas and driven up its price. The Strait of Hormuz , through which roughly a quarter of the world's liquefied natural gas (LNG) is normally transported, has been effectively closed for weeks.
+
+Whether the strait will be fully reopened soon following the ceasefire agreement between the U.S., Israel and Iran on Wednesday, and under what conditions, remains unclear. «The key question is whether the upcoming negotiations between the U.S. and Iran will lead to a lasting peace, or whether the ceasefire merely postpones the problem,» says Matthew Ryan, head of market strategy at the payment services provider Ebury.
+
+Against this backdrop, it remains uncertain to what extent shipping traffic through the Strait of Hormuz will resume. Insurance premiums for passage remain «extremely high,» and the risk of attacks remains «elevated,» according to Ryan. Should negotiations stall or activity in the strait remain subdued, the situation could rapidly deteriorate again.
+
+In addition, in Qatar, the world's third largest supplier of LNG, 17 percent of production capacity has been destroyed.
+
+At the Dutch gas exchange , the most important trading hub for gas contracts in Europe, the price for a megawatt-hour of natural gas fell to 44 euros on Wednesday after the ceasefire was announced, having surged to more than 60 euros in mid-March. However, it is still around 50 percent higher than before the outbreak of the war.
+
+A rapid return of the price to pre-war levels is unlikely. According to experts, repairing the production facilities in Qatar will take three to five years. The global market is therefore likely to be missing 3% to 4% of its liquefied gas supply for the foreseeable future.
+
+This is being felt particularly by Asian countries, which have previously met a large portion of their liquefied gas demand through imports from the Gulf region. To avoid running out, they are purchasing gas from other sources, including the U.S., which supplies 96% of Germany's LNG. This has sparked a bidding war between Asia and Europe that is keeping natural gas prices high.
+
+> [embed: q-tool (chart/map) 5b7c8aa6fa82340fcad66a8a8b836fc6]
+
+## The problem with the fill level specifications
+
+This, combined with legal fill level regulations, makes refilling German gas storage facilities an expensive and increasingly difficult undertaking. Experience has shown that these regulations make filling the storage facilities more difficult, rather than easier. They significantly increase speculative demand for gas as early as summer. This narrows the difference between the purchase price in summer and the selling price in winter on the futures market. As a result, the incentives for gas traders and companies to buy gas in summer, store it, and sell it in winter are reduced.
+
+The war-related gas shortage is exacerbating the problem. In the first half of March, summer prices for natural gas climbed above the price expected for its sale in winter. Traders would therefore have faced losses on storage.
+
+Currently, according to the Ministry of Economic Affairs, the price for gas purchases in the summer is again lower than the price for sales in the winter. However, the difference does not cover the costs incurred by traders for storage. «If the spread remains this low, it will be difficult to meet the legally mandated storage levels without further policy measures,» says Sebastian Heinermann, Managing Director of the Energy Storage Initiative (Ines) , an association of German gas and hydrogen storage operators.
+
+The Federal Ministry for Economic Affairs remains calm. «Gas supply is secure,» a spokesperson told the NZZ. Currently, 65 percent of storage capacity is already booked. This is more than last year, when the booking rate was only 52 percent. «Significant injections of gas typically take place from May/June onwards,» the spokesperson explained. For many storage facilities, it is even sufficient if injections are made in September. «We therefore see no need for government intervention in winter gas supplies,» the spokesperson said.
+
+![Qatar has restricted its liquefied natural gas production in Ras Laffan following the attacks by Iran.](https://img-msp-prod.nzz.ch/2026/04/02/e427ff01-4dad-45b7-91c1-5f2cfa3ee0ad.jpg?crop=6323,4215,x0,y0)
+*Qatar has restricted its liquefied natural gas production in Ras Laffan following the attacks by Iran.* (Hannibal Hanschke / EPA)
+
+## The risk of expensive government emergency purchases is growing
+
+Ines CEO Heinermann is more skeptical. He says there is no guarantee that booked storage facilities will actually be filled. «It is a high risk to rely on the development of spreads in the coming months ensuring sufficient filling of gas storage facilities by market participants,» Heinermann says.
+
+Should spreads remain low in the coming months and deter gas traders from storing gas, the government would have to instruct the agency «Trading Hub Europe» (THE) to purchase and store large quantities of gas on the world market. Just as it did four years ago. At that time , Germany was threatened with a gas shortage after Russia's invasion of Ukraine. Shortly before winter, the German government therefore commissioned THE to buy large quantities of gas on the world market. This emergency measure cost taxpayers more than 13 billion euros.
+
+This time, too, a state-orchestrated emergency purchase of natural gas by THE is likely to be an expensive undertaking. It cannot be ruled out that tensions in the Middle East will persist and the price of natural gas will remain high or even rise again. Furthermore, traders are likely to speculate on large-scale purchases by THE, thereby driving the price up.
+
+## Strategic gas reserve in sight
+
+Ines managing director Heinermann therefore proposes a different approach. Instead of buying gas itself, THE could put the filling of the storage facilities out to tender, he suggests. The contract would be awarded to the gas trader offering the most favorable terms. «Competition among private traders could help to limit costs,» Heinermann explains.
+
+However, the Federal Ministry for Economic Affairs has other plans. «We are working on the future development of the current fill level regulations in Germany and the EU for 2027,» says the ministry spokeswoman. The Christian Democrats and the Social Democrats had agreed in their coalition agreement to review the fill level regulations.
+
+At the same time, the government is considering «how an additional instrument could be designed to protect us against exogenous shocks,» the spokeswoman said. This likely refers to the establishment of a strategic, state-run gas reserve, similar to the oil reserve. In a crisis, this could keep Germany afloat with gas for several months.
+
+> [embed: q-tool (chart/map) 66fedef1cb05b606dc7ade5901d9168b]
+
+## Supply shortage due to EU methane regulation
+
+Last year, the economic consultancy Frontier Economics recommended in a report for the Ministry of Economic Affairs that the legally mandated gas level requirements be phased out without replacement in 2027. To safeguard against crises, the consultants proposed a strategic gas reserve. The idea behind this was that if the price-distorting effects of the legally mandated level requirements were eliminated, market forces could, under normal circumstances, ensure sufficient storage capacity. The government would then focus solely on crisis situations and build up an emergency reserve.
+
+The interplay between market and state only works, however, if gas traders can continue to import gas from abroad without hindrance. But this is by no means certain. From the beginning of next year, the regulations of the EU Methane Regulation will apply to importers of fossil fuels in the EU. This regulation requires them to purchase gas only from foreign suppliers who record, document, and reduce their methane emissions in accordance with EU regulations. Otherwise, importers face penalties of up to 20% of their annual turnover.
+
+Qatar and the U.S. have already declared that they will not subject their gas producers to EU reporting requirements. According to former RWE manager and energy expert Fritz Vahrenholt, this leaves Germany and the EU facing a choice: either relax the methane regulation or forgo gas imports and risk a supply shortage.
+
+The Ministry of Economic Affairs has recognized the problem. Minister Katherina Reiche insists that the transposition of the methane regulation into national law must be accompanied by a «realistic interpretation and implementation.» She emphasized that sanctions, in particular, must be applied «with discretion.» Whether this will be successful remains to be seen.
+
+![The U.S. will not subject its fracking industry to the EU's climate policy reporting requirements.](https://img-msp-prod.nzz.ch/2026/04/02/a0650b0f-97ce-4eba-87f7-4174fe73a8a8.jpg?width=1024)
+*The U.S. will not subject its fracking industry to the EU's climate policy reporting requirements.* (Les Stone / Reuters)
+
+## Greater energy sovereignty through fracking
+
+There is a way to reduce Germany's dependence on imported gas while simultaneously complying with climate regulations and lowering gas prices, says Vahrenholt. Instead of transporting expensive liquefied natural gas (LNG) with its high environmental impact thousands of kilometers from the USA, the German government should tap into domestic gas reserves using fracking technology , Vahrenholt demands.
+
+«There are up to 2.3 trillion cubic meters of recoverable natural gas in the shale rock beneath Germany,» he says. This amount is enough to supply Germany with natural gas for decades. Because the drilling takes place at a depth of 1,500 meters, far below the drinking water reservoirs, and because an impermeable layer of clay lies between the two, there is no risk of contaminating the drinking water. «It would only take a year before the first gas could flow,» says Vahrenholt.
+
+If the federal and state governments were to give the green light to fracking in Germany, it would be a game-changer in energy policy. Germany would not only save itself the expense of building its own gas reserves and relieve the burden on businesses by reducing energy costs, but the country would also gain greater sovereignty over its energy supply. The fear of long, cold, and expensive winters would then come to an end.
+
+_The report is an updated version of a text published on April 3rd concerning the consequences of the Iran war for gas supplies in Germany._
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- Germany faces a potential gas crisis next winter due to insufficient storage levels and global supply disruptions caused by the Iran conflict and damages in Qatar.
+- Legal requirements and market dynamics complicate refilling storage, possibly necessitating government emergency purchases.
+- Fracking within Germany could provide a long-term solution to enhance energy sovereignty and security of supply.

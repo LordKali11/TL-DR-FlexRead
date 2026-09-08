@@ -1,0 +1,1005 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1efgdr30",
+   "content": {
+    "title": "Police assume rampage: Aarau shooter possibly mentally ill, stumbled upon rave by «chance»",
+    "lead": "Two and a half days after the suspect's arrest, police provided an update on the investigation. The motive remains unclear.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1efgdr31",
+      "content": {
+       "layout": "authorprofile",
+       "title": "<strong>Renato Schatz, Aarau</strong>",
+       "url": "/impressum/renato-schatz-ld.1907585",
+       "teaserImage": {
+        "originalUrl": "/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?crop=4333,4333,x1084,y0",
+        "url": "https://img-msp-prod.nzz.ch/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?crop=4333,4333,x1084,y0&width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1084,
+         "y": 0,
+         "width": 4333,
+         "height": 4333
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h3udkf0",
+   "content": {
+    "image": {
+     "author": "Michael Buholzer / Keystone",
+     "caption": "The Aargau authorities held a press conference on Wednesday afternoon.",
+     "originalUrl": "/2026/09/02/3df4116f-396a-444b-82dc-990a1dd27e1b.jpg?crop=5500,3667,x0,y0",
+     "width": 5500,
+     "height": 3667,
+     "altText": "epa13206601 (LR) Head of the Aargau Stationed Police Division Matthias Schildknecht, Aargau Canton Police Commander Michael Leupold, and Aargau Prosecutor's Office chief public prosecutor Philipp Umbricht address a news conference following a deadly shooting at a rave party on the Schachen horse racing track in Aarau, in Schafisheim near Aarau, Switzerland, 02 September 2026. A shooting on 30 August 2026 during an electronic music festival at the venue left one person dead and five other people injured. EPA/MICHAEL BUHOLZER",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180365306"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3667,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3667,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The Aargau authorities held a press conference on Wednesday afternoon.",
+    "author": "Michael Buholzer / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1efgdr41",
+   "content": {
+    "text": "The suspect, who reportedly killed an Italian woman after a techno festival in Aarau, is a 43-year-old «Swiss without a migration background» who lived in the canton of Jura and suffered from psychological problems. The Aargau Cantonal Police announced this at a press conference on Wednesday afternoon."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-a265520f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu5t0",
+   "content": {
+    "text": "According to cantonal police commander Michael Leupold, the accused turned himself in on Monday night: he drove his car to the police station in the Jura capital of Delémont, confessed to the crime, but then refused to make a statement. Public prosecutor Christoph Rüedi said: «I have been in poor health for some time.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h6mu680",
+   "content": {
+    "title": "Witness statement on getaway vehicle",
+    "id": "subtitle-zeugenaussage-f-hrt-zum-fluchtfahrzeug"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu670",
+   "content": {
+    "text": "In the man's trunk, police found three weapons: two pistols and an AK-74 assault rifle, a Kalashnikov. Police explained the sequence of events as follows: On Sunday night, the man parked his car in a parking lot on Schachenstrasse. He then took the weapons from the trunk, moved toward the techno festival on the horse racing track, before firing more than 40 shots indiscriminately at the well over 100 people who were still on the premises after the festival on Sunday night."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1ha3p7k0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "0df8cb5d3f7916a21666d76222b4b660",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_0df8cb5d3f7916a21666d76222b4b660_qb626db0f7a2d4b8f8f20a6bc5ef681e2_container\"        data-q-item-id=\"0df8cb5d3f7916a21666d76222b4b660\"        data-q-request-id=\"bd39dbb05d3bf4147898fa2ba0e5d03e85ff4e0a\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"0df8cb5d3f7916a21666d76222b4b660\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"0df8cb5d3f7916a21666d76222b4b660\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"bd39dbb05d3bf4147898fa2ba0e5d03e85ff4e0a\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_0df8cb5d3f7916a21666d76222b4b660_qb626db0f7a2d4b8f8f20a6bc5ef681e2_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"0df8cb5d3f7916a21666d76222b4b660\",\"title\":\"This is how the shooter moved on the night of the crime\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"ida.\",\"sources\":[{\"text\":\"Google Earth\",\"link\":{\"url\":\"\"}},{\"text\":\"Aargau Cantonal Police\",\"link\":{\"url\":\"\"}}],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/09/02/Zeichenflache-1-Vespenexplainer-df71064ee7717e786310ad95c20a6955.jpeg\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/09/02/Zeichenflache-1-Vespenexplainer-df71064ee7717e786310ad95c20a6955.jpeg\",\"size\":1964153,\"type\":\"image/jpeg\",\"originalName\":\"Zeichenfläche 1-Vespenexplainer.jpg\",\"width\":1480,\"height\":2831}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/09/02/Zeichenflache-2-Vespenexplainer-4a5a1cfffb740f7032a371791edcd31f.jpeg\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/09/02/Zeichenflache-2-Vespenexplainer-4a5a1cfffb740f7032a371791edcd31f.jpeg\",\"size\":2180084,\"type\":\"image/jpeg\",\"originalName\":\"Zeichenfläche 2-Vespenexplainer.jpg\",\"width\":2561,\"height\":2868}],\"minWidth\":540}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-09-02T15:13:02.825Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_0df8cb5d3f7916a21666d76222b4b660_qb626db0f7a2d4b8f8f20a6bc5ef681e2\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h742d50",
+   "content": {
+    "text": "The suspect legally acquired the weapons about 20 years ago, and they were registered, Leupold said. «Today, the licensing requirements would be significantly stricter,» he added. After the act, the man reportedly ran back to the parking lot, where he shot at a moving car, among other things. He then fled in his vehicle."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu681",
+   "content": {
+    "text": "Police indicated they would have caught the perpetrator if he had not turned himself in. Thanks to the «statements of one person,» they were able to determine the type of getaway car – «with license plates from the canton of Jura,» police said. Police soon found out the suspect's name."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu690",
+   "content": {
+    "text": "But why does a man drive to Aarau in the middle of the night to shoot at the remaining guests of a rave? The suspect exercised his «right to refuse to testify» during the interrogation, Leupold said on Wednesday. So, for now, police cannot answer the question of «Why?» They assumed it was a coincidence that he stumbled upon the event, adding that there are currently «no indications of ideological motives,» meaning «neither right-wing nor left-wing extremist nor Islamist motives.» This is what is unsettling about this crime: that it still has no motive. Police classify it as a rampage."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h6mu6a0",
+   "content": {
+    "title": "Reserved communication",
+    "id": "subtitle-zur-ckhaltende-kommunikation"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu6a1",
+   "content": {
+    "text": "Around 60 journalists sat in the police headquarters in Schafisheim in the canton of Aargau on Wednesday to ask police further questions. The press conference had been eagerly awaited, as little was known until then. On Sunday evening, police had stated that they had few clues. They did not know where the perpetrators were, nor what motive was behind the crime."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h40jtg1",
+   "content": {
+    "image": {
+     "author": "Michael Buholzer / Keystone",
+     "caption": "The media presence was large. Many journalists traveled there, especially from Italy.",
+     "originalUrl": "/2026/09/02/79a45e55-2814-4ed6-947a-7b9dfe2b2707.jpg?crop=5500,3667,x0,y0",
+     "width": 5500,
+     "height": 3667,
+     "altText": "epa13206597 A reconstruction of the crime is shown on a screen during a news conference following a deadly shooting at a rave party on the Schachen horse racing track in Aarau, in Schafisheim near Aarau, Switzerland, 02 September 2026. A shooting on 30 August 2026 during an electronic music festival at the venue left one person dead and five other people injured. EPA/MICHAEL BUHOLZER",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180365297"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3667,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3667,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The media presence was large. Many journalists traveled there, especially from Italy.",
+    "author": "Michael Buholzer / Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu6b0",
+   "content": {
+    "text": "A few hours later, on Monday night, the suspect was apprehended. In the corresponding communiqué, the Aargau Cantonal Police wrote about a 43-year-old Swiss man who was «under urgent suspicion of the crime.» They assumed he was a lone perpetrator. Police did not release any more information; they did not name a motive, nor did they describe the manhunt or the escape. Instead, they referred to Wednesday's press conference."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu6c0",
+   "content": {
+    "text": "Police explained on Wednesday that they first wanted to wait until «there was no longer any danger.» And when Leupold read out what work the Cantonal Police had to do after the crime, it sounded a bit like a defense speech before the international press: they had to evaluate the DNA samples, which «took a certain amount of time due to the technical process,» had «checked all cameras in public spaces,» had «followed up on well over 100 tips» from the public, and had to stop and check cars."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h6mu6b1",
+   "content": {
+    "title": "Two people in hospital",
+    "id": "subtitle-zwei-personen-im-spital"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu6c1",
+   "content": {
+    "text": "The sparse information over the past two days, however, left room for speculation, especially in Italy, where the victim came from. Several media professionals traveled to Aarau, made live broadcasts, and investigated on their own. The daily newspapers «Corriere della Sera» and «La Repubblica» indicated that the suspect moved in military circles. Leupold debunked this theory, saying that although the accused had completed recruit school and had been a troop cook, he had left the army in 2013. He had handed in his service weapon."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu6d1",
+   "content": {
+    "text": "Further information about the man is currently unavailable. The authorities did not provide any details about his family background, whether the man had a job, or how he lived. What is certain is that he was not known to the police and had, «apart from minor traffic offenses,» no previous convictions, as police commander Leupold said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6mu6e0",
+   "content": {
+    "text": "Police have ended the «special situation» and finally given the all-clear, stating that there are «no indications of accomplices or helpers.» The injured are not in life-threatening condition, although police corrected the number from five to six, saying one woman was injured by a «ricochet or stray bullet» but only reported it on Monday. Two people are still in the hospital."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1efgdr42",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1efgdr43",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1efgdr46",
+      "content": {
+       "title": "Rampage in Aarau: Accused was mentally ill and poses many questions",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Live ticker",
+       "teaserImage": {
+        "originalUrl": "/2026/09/02/53d0b5cd-0dcf-4cbf-a5ae-c942b8d17dff.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/02/53d0b5cd-0dcf-4cbf-a5ae-c942b8d17dff.jpg?width=1024&quality=75&auto=webp",
+        "width": 5500,
+        "height": 3667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4132,2325,x550,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3673,2755,x740,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2505,2505,x873,y81"
+         },
+         {
+          "name": "3:4",
+          "crop": "1878,2505,x1712,y91"
+         },
+         {
+          "name": "3:2",
+          "crop": "4132,2755,x585,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Police say the arrested 43-year-old Swiss man is «almost certainly» the perpetrator. He fired more than 40 shots into the crowd at a techno party on Sunday night, killing a 22-year-old woman and injuring six others.",
+        "teaserAuthor": "Michael Buholzer / EPA"
+       },
+       "teaserAuthor": "Michael Buholzer / EPA",
+       "nzzId": "ld.10021643",
+       "readingTime": 60,
+       "liveCenterId": "92650",
+       "paywallQuestionOne": "What are the reasons behind the shootings at the rave in Aarau?",
+       "paywallQuestionTwo": "How is the police reacting to the incident in Aarau?",
+       "paywallQuestionThree": "What measures were taken after the attack?",
+       "characterCount": 0,
+       "authorLine": "NZZ Newsroom",
+       "editor": "1894726",
+       "videoTeaser": "",
+       "product": "NZZ.ch",
+       "documentId": 10021643,
+       "layout": "regular",
+       "publicationDate": "2026-09-02T13:17:48.316Z",
+       "publicationLastUpdated": "2026-09-02T14:35:06.306Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-09-03T01:17:48.316Z",
+       "teaserCaption": "Police say the arrested 43-year-old Swiss man is «almost certainly» the perpetrator. He fired more than 40 shots into the crowd at a techno party on Sunday night, killing a 22-year-old woman and injuring six others.",
+       "url": "/schweiz/schuesse-in-aarau-polizei-informiert-um-14-uhr-ld.10021643",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 55,
+       "leadText": "Police say the arrested 43-year-old Swiss man is «almost certainly» the perpetrator. He fired more than 40 shots into the crowd at a techno party on Sunday night, killing a 22-year-old woman and injuring six others.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1efgdr44",
+      "content": {
+       "title": "Suspect apprehended, motive unclear – and the «sense of security suffers,» Aarau’s city president says",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/31/28d27e9f-8ba7-436f-a846-831eb902011f.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/31/28d27e9f-8ba7-436f-a846-831eb902011f.jpg?width=1024&quality=75&auto=webp",
+        "width": 5451,
+        "height": 3633,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5451,3066,x0,y414"
+         },
+         {
+          "name": "4:3",
+          "crop": "4844,3633,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3633,3633,x181,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2725,3633,x376,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5450,3633,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "On the second day after the shooting in the Schachen area, there was still no definitive certainty. The city is examining how upcoming events can be better protected.",
+        "teaserAuthor": "Michael Buholzer / Keystone"
+       },
+       "teaserAuthor": "Michael Buholzer / Keystone",
+       "nzzId": "ld.10021749",
+       "readingTime": 240,
+       "paywallQuestionOne": "Why does the perpetrator's motive remain unclear?",
+       "paywallQuestionTwo": "How does the shooting affect the sense of security in Aarau?",
+       "paywallQuestionThree": "What measures is Aarau planning for upcoming events?",
+       "characterCount": 6010,
+       "product": "NZZ.ch",
+       "documentId": 10021749,
+       "layout": "regular",
+       "publicationDate": "2026-08-31T15:12:04.785Z",
+       "publicationLastUpdated": "2026-08-31T17:56:56.665Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-09-01T03:12:04.785Z",
+       "teaserCaption": "On the second day after the shooting in the Schachen area, there was still no definitive certainty. The city is examining how upcoming events can be better protected.",
+       "authorLine": "Lisa Aeschlimann, Renato Schatz, Samuel Tanner",
+       "authorImage": {
+        "originalUrl": "/2025/12/11/b8de1af7-a8c1-425c-96e6-69fdf16784cb.jpg?crop=2752,2752,x688,y0",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/11/b8de1af7-a8c1-425c-96e6-69fdf16784cb.jpg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 688,
+         "y": 0,
+         "width": 2752,
+         "height": 2752
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/b8de1af7-a8c1-425c-96e6-69fdf16784cb.jpg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp",
+       "url": "/schweiz/ein-taeter-gefasst-sein-motiv-weiterhin-unklar-und-das-sicherheitsgefuehl-leidet-wie-der-stadtpraesident-von-aarau-sagt-ld.10021749",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 871,
+       "leadText": "On the second day after the shooting in the Schachen area, there was still no definitive certainty. The city is examining how upcoming events can be better protected.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1efgdr45",
+      "content": {
+       "title": "The man who hunted down the Aarau gunman: He had already apprehended the perpetrator in the Rupperswil quadruple murder",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/31/50ff46e6-6315-4330-86bd-1a19f093b66d.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/31/50ff46e6-6315-4330-86bd-1a19f093b66d.jpg?width=1024&quality=75&auto=webp",
+        "width": 6723,
+        "height": 4482,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6723,3782,x0,y350"
+         },
+         {
+          "name": "4:3",
+          "crop": "5976,4482,x747,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4482,4482,x1831,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3362,4482,x2007,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6723,4482,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "As Aargau's Chief Public Prosecutor, Philipp Umbricht solved numerous serious violent crimes. Until recently, his career proceeded without a single blemish.",
+        "teaserAuthor": "Romina Amato / Reuters"
+       },
+       "teaserAuthor": "Romina Amato / Reuters",
+       "nzzId": "ld.10021687",
+       "readingTime": 240,
+       "paywallQuestionOne": "How does Philipp Umbricht deal with media pressure in cases of violent crime?",
+       "paywallQuestionTwo": "Why are investigators deliberately withholding crucial details?",
+       "paywallQuestionThree": "What role does Umbricht's legal experience play in complex cases?",
+       "characterCount": 5780,
+       "product": "NZZ.ch",
+       "documentId": 10021687,
+       "layout": "regular",
+       "publicationDate": "2026-08-31T13:38:38.277Z",
+       "publicationLastUpdated": "2026-08-31T13:41:18.271Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-09-01T01:38:38.277Z",
+       "teaserCaption": "As Aargau's Chief Public Prosecutor, Philipp Umbricht solved numerous serious violent crimes. Until recently, his career proceeded without a single blemish.",
+       "authorLine": "Erich Aschwanden",
+       "authorImage": {
+        "originalUrl": "/2024/09/23/cb1fe2ba-059e-4629-9f53-76141706cf95.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/09/23/cb1fe2ba-059e-4629-9f53-76141706cf95.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7908,
+        "height": 5272,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "5272,5272,x1318,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/23/cb1fe2ba-059e-4629-9f53-76141706cf95.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/der-mann-der-den-todesschuetzen-von-aarau-jagte-er-fasste-schon-den-taeter-im-vierfachmord-von-rupperswil-ld.10021687",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 852,
+       "leadText": "As Aargau's Chief Public Prosecutor, Philipp Umbricht solved numerous serious violent crimes. Until recently, his career proceeded without a single blemish.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Police assume rampage: Aarau shooter possibly mentally ill, stumbled upon rave by «chance»",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/3df4116f-396a-444b-82dc-990a1dd27e1b.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/3df4116f-396a-444b-82dc-990a1dd27e1b.jpg?width=1024&quality=75&auto=webp",
+   "width": 5500,
+   "height": 3667,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5500,3094,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "4889,3667,x79,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3667,3667,x852,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2750,3667,x662,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5500,3667,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Two and a half days after the suspect's arrest, police provided an update on the investigation. The motive remains unclear.",
+   "teaserAuthor": "Michael Buholzer / Keystone"
+  },
+  "teaserAuthor": "Michael Buholzer / Keystone",
+  "nzzId": "ld.10021922",
+  "readingTime": 240,
+  "embeds": {
+   "videos": [
+    {
+     "id": "x81scxo1",
+     "provider": "jw",
+     "teaser": true
+    }
+   ]
+  },
+  "characterCount": 5394,
+  "videoTeaser": "x81scxo1",
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021922,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T14:57:40.591Z",
+  "publicationDate": "2026-09-02T14:57:40.591Z",
+  "publicationLastUpdated": "2026-09-02T17:27:04.116Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T02:57:40.591Z",
+  "teaserCaption": "Two and a half days after the suspect's arrest, police provided an update on the investigation. The motive remains unclear.",
+  "nzzAuthors": [
+   {
+    "id": 1842768,
+    "name": "Renato Schatz",
+    "shortName": "atz",
+    "pianoId": "9a9768d0-bc4b-4b2e-9192-226d18f28e4c",
+    "external": false
+   }
+  ],
+  "authorLine": "Renato Schatz, Aarau",
+  "authorImage": {
+   "originalUrl": "/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?crop=4333,4333,x1084,y0",
+   "url": "https://img-msp-prod.nzz.ch/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?crop=4333,4333,x1084,y0&width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4333,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 1084,
+    "y": 0,
+    "width": 4333,
+    "height": 4333
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1907585,
+    "name": "Renato Schatz, Aarau",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?crop=4333,4333,x1084,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?crop=4333,4333,x1084,y0&width=1024&quality=75&auto=webp",
+  "url": "/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 841,
+  "leadText": "Two and a half days after the suspect's arrest, police provided an update on the investigation. The motive remains unclear.",
+  "nzzSummaryEN": "- A 43-year-old Swiss man with mental health issues confessed to a rampage at a techno festival in Aarau, which resulted in one death and multiple injuries.\n- The perpetrator randomly fired over 40 shots into the crowd, using registered weapons he had legally acquired 20 years ago.\n- The motive for the act remains unclear, but there are no indications of ideological motives. Police believe it was coincidental.",
+  "nzzSummaryDE": "A 43-year-old Swiss man with mental health issues confessed to a shooting spree at a techno festival in Aarau, Switzerland, in which one person died and several others were injured. The perpetrator fired over 40 shots indiscriminately into the crowd, using registered weapons that he had legally acquired 20 years earlier. The motive for the attack remains unclear, but there is no indication of any ideological motivation. Police believe it was a random act.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "x",
+  "nzzPrintSubtitle": "x",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922",
+   "title": "Aarau: Police assume it was a rampage – shooter was likely mentally ill",
+   "socialMediaTitle": "Police assume it was a rampage: The shooter in Aarau was probably mentally ill",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/3df4116f-396a-444b-82dc-990a1dd27e1b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2487894,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021643",
+    "ld.10021749",
+    "ld.10021687"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 346800,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021922",
+    "name": "Police assume rampage: Aarau shooter possibly mentally ill, stumbled upon rave by «chance»",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Police assume rampage: Aarau shooter possibly mentally ill, stumbled upon rave by «chance»",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1842768,
+       "name": "Renato Schatz",
+       "shortName": "atz",
+       "pianoId": "9a9768d0-bc4b-4b2e-9192-226d18f28e4c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T14:57:40.591Z",
+     "updateTimestamp": "2026-09-02T17:27:04.116Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021922",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Aarau: Police assume it was a rampage – shooter was likely mentally ill",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/3df4116f-396a-444b-82dc-990a1dd27e1b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Renato Schatz, Aarau",
+  "description": "Two and a half days after the suspect's arrest, police provided an update on the investigation. The motive remains unclear.",
+  "news_keywords": "Police suspect a rampage: The Aarau shooter was possibly mentally ill and likely stumbled upon the rave «by chance,» Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T21:27:04+02:00",
+  "date": "2026-09-02T18:57:40+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Police assume rampage: Aarau shooter possibly mentally ill, stumbled upon rave by «chance»",
+  "ogTitle": "Police assume it was a rampage: The shooter in Aarau was probably mentally ill",
+  "ogUrl": "https://www.nzz.ch/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922",
+  "mrf:cms_id": "nzz:ld.10021922",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021922",
+  "nzzAuthors": [
+   {
+    "id": 1842768,
+    "name": "Renato Schatz",
+    "shortName": "atz",
+    "pianoId": "9a9768d0-bc4b-4b2e-9192-226d18f28e4c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:57 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Aarau: Police assume it was a rampage – shooter was likely mentally ill"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922"
+   },
+   "headline": "Aarau: Police assume it was a rampage – shooter was likely mentally ill",
+   "datePublished": "2026-09-02T18:57:40+02:00",
+   "dateModified": "2026-09-02T21:27:04+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Two and a half days after the suspect's arrest, police provided an update on the investigation. The motive remains unclear.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/3df4116f-396a-444b-82dc-990a1dd27e1b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Renato Schatz"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 346800,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/die-polizei-geht-von-einem-amoklauf-aus-der-schuetze-von-aarau-war-wohl-psychisch-krank-und-stiess-per-zufall-auf-den-rave-auf-der-pferderennbahn-ld.10021922",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021922",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-09-02T14:57:40.591Z",
+   "ContentAuthor": "Renato Schatz, Aarau",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Was motivierte den Täter zu seiner Tat?\nWie kam der Täter an die Waffen?\nWarum stuft die Polizei die Tat als Amoklauf ein?",
+   "ldId": "ld.10021922",
+   "channel": "Schweiz",
+   "heading": "Die Polizei geht von einem Amoklauf aus: Der Schütze von Aarau war womöglich psychisch krank und stiess wohl per «Zufall» auf den Rave",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

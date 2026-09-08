@@ -1,0 +1,578 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjjiu12d0",
+   "content": {
+    "subject": "Flussreise",
+    "preheader": "Durch die «Grande Nation»"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-f4b3d447",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mlk270",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/04/30/50af1110-5343-4f6a-860e-fbf71c38e5a0.png",
+     "mediaId": "DjukiLu1k38e",
+     "key": "2026/04/30/50af1110-5343-4f6a-860e-fbf71c38e5a0.png",
+     "width": 688,
+     "height": 685,
+     "mimeType": "image/png",
+     "altText": ".",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/30/50af1110-5343-4f6a-860e-fbf71c38e5a0.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjjiu12e2",
+   "content": {
+    "text": "by Peter Keller"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjjiu12e3",
+   "content": {
+    "text": "Wine editor"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj2jl30",
+   "content": {
+    "title": "On and beside the river"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjiu12e7",
+   "content": {
+    "text": "For several years now, I've been accompanying the NZZ's wine tours. Bordeaux and Tuscany are sure bets, each appealing to a large readership. River cruises offer a wonderful way to slow down. Famous wine regions are situated along waterways. Think of the Rhine or Moselle in Germany, the Danube, home to the Wachau region in Austria, or the Loire in France. This year, my trip also took me to France, to the Rhône and Saône rivers. Along the route between St. Jean de Losne and Avignon, there's the opportunity to visit four regions: the Mâconnais in southern Burgundy, the adjacent Beaujolais, and the northern and southern Rhône Valley with such renowned appellations as Hermitage, Côte-Rôtie, and Châteauneuf-du-Pape. In addition to visiting fine wineries, I served selected wines from these regions each evening on board the ship. You can read here which wines were particularly well-received and memorable on the last trip."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gfq3kc1",
+   "content": {
+    "text": "I will be accompanying one or more NZZ reader trips again next year. The program will be published in January. I would be delighted to welcome you on board again, or for the first time."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj1hv60",
+   "content": {
+    "text": "Peter Keller"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-footnote"
+  },
+  {
+   "identifier": "newsletter_baukasten-footnote",
+   "id": "doc-1jjjj1qd70",
+   "content": {
+    "text": "All articles at a glance: Click here to go to my <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/weinkeller-ld.1843436\">author page</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj46r60",
+   "content": {
+    "title": "Is it advisable to enjoy wine from clay jugs?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-footnote",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj49420",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/wein-aus-tonkruegen-trinken-empfehlenswert-oder-nicht-ld.1935118",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/8f39e23d-b045-4beb-b6b3-eb943ec15556.jpg",
+     "mediaId": "RoxAGOIYJTzt",
+     "key": "2026/09/01/8f39e23d-b045-4beb-b6b3-eb943ec15556.jpg",
+     "width": 3840,
+     "height": 5760,
+     "mimeType": "image/jpeg",
+     "altText": "Boccalino wine mugs a traditional style Ticino wine mug for sale in a local shop",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/8f39e23d-b045-4beb-b6b3-eb943ec15556.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Getty Images"
+   },
+   "styles": {
+    "image-style": "baukasten-image-portrait"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj4pqs0",
+   "content": {
+    "text": "Werner M. from K. writes that the author Georges Simenon has his Inspector Maigret feel at home in one of his novels in a place where wine is drunk from earthenware vessels. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/wein-aus-tonkruegen-trinken-empfehlenswert-oder-nicht-ld.1935118\">Is that something worth emulating, or should one refrain from doing so?</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj3sfg0",
+   "content": {
+    "title": "From Burgundy to Châteauneuf-du-Pape: Wines that leave a lasting impression"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj3ubn0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/8a48ac30-c09b-4f27-99dc-f0bc5d873bf4.jpg",
+     "mediaId": "0POGEmSFqJv1",
+     "key": "2026/09/01/8a48ac30-c09b-4f27-99dc-f0bc5d873bf4.jpg",
+     "width": 4032,
+     "height": 3024,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/8a48ac30-c09b-4f27-99dc-f0bc5d873bf4.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "PD"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj419c0",
+   "content": {
+    "text": "Anyone traveling by boat on the Saône and Rhône rivers will pass by four different French wine regions. I enjoyed some wine highlights in southern Burgundy, Beaujolais, and the northern and southern Rhône valleys. These are my five favorites."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj31iv0",
+   "content": {
+    "title": "Which Spanish wines belong in a good wine cellar?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj33jk0",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/welche-spanischen-weine-gehoeren-in-jeden-weinkeller-ld.1934598",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/18bb808c-4da7-49ac-aa0c-69cff56ec47a.jpg",
+     "mediaId": "rliJdsifkeW4",
+     "key": "2026/09/01/18bb808c-4da7-49ac-aa0c-69cff56ec47a.jpg",
+     "width": 2388,
+     "height": 3582,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/18bb808c-4da7-49ac-aa0c-69cff56ec47a.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Nathan Blackaby / Unsplash"
+   },
+   "styles": {
+    "image-style": "baukasten-image-portrait"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj359i0",
+   "content": {
+    "text": "Maria P. from L. writes that Spain is one of the most diverse wine-growing countries and asks: <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/welche-spanischen-weine-gehoeren-in-jeden-weinkeller-ld.1934598\">Which wines should one absolutely have in their portfolio? What tips do you recommend?</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj54ru0",
+   "content": {
+    "title": "Vineyards, restaurants and an idyllic château: The wine paradise on Mont Vully"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj57om0",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/mont-vully-murtensee-geheimtipp-fuer-weinliebhaber-ld.1935117",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/1c01c1ea-1e34-40eb-b9cd-52e9b166f24c.png",
+     "mediaId": "NTitWOC9vdIw",
+     "key": "2026/09/01/1c01c1ea-1e34-40eb-b9cd-52e9b166f24c.png",
+     "width": 2700,
+     "height": 1800,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/1c01c1ea-1e34-40eb-b9cd-52e9b166f24c.png?width=1024&quality=75&auto=webp"
+    },
+    "source": "Getty Images"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj5a6v0",
+   "content": {
+    "text": "The Mont Vully wine region on Lake Murten offers many oenological experiences. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/mont-vully-murtensee-geheimtipp-fuer-weinliebhaber-ld.1935117\">You can discover exciting wines, ambitious restaurants, and a historic château that now houses a stylish boutique hotel.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-infobox"
+  },
+  {
+   "identifier": "newsletter_baukasten-infobox",
+   "id": "doc-1k1eqvppv0",
+   "content": {
+    "emoji": "Ein Angebot vom NZZ Shop",
+    "title": "A Rioja that shows its origin",
+    "description": "A Rioja with a special origin and an even more special character: The ambitious Bideona winery has created a special bottling exclusively for Peter Keller. The Revillas Bideona 2021 from the Rioja Alavesa impresses with black berries, spicy notes, rounded tannins, fine acidity, and a long, elegant finish.<br> Only 300 bottles of this exclusive edition were produced. <a target=\"_blank\" href=\"https://shop.nzz.ch/Weinpaket-Rioja-Revillas-Bideona-NZZ-Edition-mit-Peter-Keller/SW13996\">Secure your 6-bottle case of this limited NZZ edition now – a special Rioja for lovers of characterful wines.</a><br><br> <strong>Price:</strong> CHF 179.00 / Subscription price: CHF 169.00",
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/e9d7ed41-aa04-4801-8996-23951bf32ae8.png",
+     "mediaId": "1CsuRyIqIK8F",
+     "key": "2026/09/01/e9d7ed41-aa04-4801-8996-23951bf32ae8.png",
+     "width": 900,
+     "height": 900,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/e9d7ed41-aa04-4801-8996-23951bf32ae8.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jmq4p5bm0",
+   "content": {
+    "text": "<strong>Do you like our «wine cellar»? Then forward this newsletter to your friends.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-infobox",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jmq4p97a0",
+   "content": {
+    "text": "Did you receive the newsletter from a friend? <a target=\"_blank\" href=\"https://abo.nzz.ch/newsletter/weinkeller/\">Sign up for the «Wine Cellar» here</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jmq4pcp70",
+   "content": {
+    "text": "Would you like to receive more content from the «Bellevue» editorial team in your daily life? <a target=\"_blank\" href=\"https://abo.nzz.ch/newsletter/\">You can find our other newsletters here</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654597"
+   }
+  },
+  "issueDate": "2026-09-03T00:00:00.000Z",
+  "title": "Wine cellar 03.09.2026",
+  "owner": "Bellevue",
+  "dependencies": {},
+  "nzzId": "ld.10021992",
+  "product": "NZZ.ch",
+  "documentId": 10021992,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T07:26:50.962Z",
+  "publicationDate": "2026-09-02T07:26:50.962Z",
+  "publicationLastUpdated": "2026-09-02T09:24:05.327Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T19:26:50.962Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021992",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021992",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487499,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021992",
+    "name": "Wine cellar 03.09.2026",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Wine cellar 03.09.2026",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T07:26:50.962Z",
+     "updateTimestamp": "2026-09-02T09:24:05.327Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "Bellevue"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021992",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Wine cellar 03.09.2026 | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Wine cellar, September 3, 2026, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T13:24:05+02:00",
+  "date": "2026-09-02T11:26:50+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021992",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Wine cellar 03.09.2026",
+  "ogTitle": "Wine cellar 03.09.2026 | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021992",
+  "mrf:cms_id": "nzz:ld.10021992",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:Bellevue;Content Type:Standard Article;Article ID:ld.10021992",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021992"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:13 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Wine cellar 03.09.2026"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021992"
+   },
+   "headline": "Wine cellar 03.09.2026 | NZZ",
+   "datePublished": "2026-09-02T11:26:50+02:00",
+   "dateModified": "2026-09-02T13:24:05+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021992",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=bellevue",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021992"
+   ],
+   "ContentCreated": "2026-09-02T07:26:50.962Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021992",
+   "heading": "Weinkeller 03.09.2026",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

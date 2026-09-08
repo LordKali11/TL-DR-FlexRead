@@ -1,0 +1,1525 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0fk8pat1",
+   "content": {
+    "title": "Strategy against Russia: How Poland makes its people resilient – and what Switzerland can learn from it",
+    "lead": "Not only the army, but society as a whole should be able to withstand the threat from Russia: Poland is systematically preparing its civilian population for an emergency. A new study recommends this model for emulation.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0fk8pat2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Selina Berner",
+       "url": "/impressum/selina-berner-ld.1868351",
+       "teaserImage": {
+        "originalUrl": "/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 2163,
+         "y": 572,
+         "width": 2405,
+         "height": 2405
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fk8pat3",
+   "content": {
+    "image": {
+     "author": "Omar Marques / Getty",
+     "caption": "«Train with the army»: The Polish military offers civilians one-day military training courses.",
+     "originalUrl": "/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?crop=8256,5504,x0,y0",
+     "width": 8256,
+     "height": 5504,
+     "altText": "WARSAW, POLAND - JUNE 08: Civilians learn how to aim and shoot assault rifles during a one day military training with the 18th Capital Territorial Defense Brigade on June 08, 2024 in Warsaw, Poland. Since the Russian full scale invasion of Ukraine, Poland has introduced the program «Train with the army», a one day training for civilians with army/military professionals where is tough weapon handling, survival rules, close combat, medical assistance, behavior during an alarm and many others. (Photo by Omar Marques/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2156647313"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 8256,
+      "height": 5504,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 8256,
+       "height": 5504,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "«Train with the army»: The Polish military offers civilians one-day military training courses.",
+    "author": "Omar Marques / Getty"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "W4vnBUzWMZey": {
+       "start": 63,
+       "end": 74,
+       "text": "one-day"
+      }
+     }
+    }
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fk8pat4",
+   "content": {
+    "text": "Poland is one of those countries that lies exposed on NATO's eastern flank. War in the neighboring country is part of everyday life here: <a href=\"https://www.nzz.ch/international/russland-im-blick-in-malbork-schuetzen-polen-und-deutsche-gemeinsam-den-luftraum-vor-gefahren-aus-dem-osten-ld.1929673\">Russian drones and military aircraft</a> penetrate its airspace, <a href=\"https://www.nzz.ch/international/in-polen-haeufen-sich-gewaltsame-uebergriffe-gegen-ukrainer-ld.10018633\">targeted disinformation</a> fuels political tensions, and the Kremlin does not shy away from <a href=\"https://www.nzz.ch/international/nach-anschlag-auf-schienennetz-polen-macht-russland-verantwortlich-ld.1912343\">acts of sabotage on the railway network</a> toward Ukraine."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-fa57d87c",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0kc0",
+   "content": {
+    "text": "Warsaw's answer to Russian aggression is large-scale rearmament. Measured by economic output, no other European country spends as much on its army as Poland: over four percent of its gross domestic product – more than the USA."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "datawrapper"
+  },
+  {
+   "identifier": "datawrapper",
+   "id": "doc-1js9rkieo0",
+   "content": {
+    "html": {
+     "service": "free-html",
+     "params": {
+      "embedCode": "<iframe title=\"So viel geben die Nato-Länder für Verteidigung aus\" aria-label=\"Choroplethen-Karte\" id=\"datawrapper-chart-fR0qO\" src=\"https://datawrapper.dwcdn.net/fR0qO/6/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"477\" data-external=\"1\"></iframe><script type=\"text/javascript\">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>"
+     },
+     "resolvedValue": {
+      "html": "<iframe title=\"So viel geben die Nato-Länder für Verteidigung aus\" aria-label=\"Choroplethen-Karte\" id=\"datawrapper-chart-fR0qO\" src=\"https://datawrapper.dwcdn.net/fR0qO/6/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"477\" data-external=\"1\"></iframe><script type=\"text/javascript\">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>"
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pottou1",
+   "content": {
+    "text": "However, the rearmament drive is not limited to billions in loans for the army, as an investigation by the geopolitical and security think tank Swiss Institute for Global Affairs shows."
+   },
+   "paidContent": true,
+   "prevElement": "datawrapper",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0ppavkf0",
+   "content": {
+    "title": "Basic military courses for young people",
+    "id": "subtitle-milit-rische-grundkurse-f-r-jugendliche"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0kd0",
+   "content": {
+    "text": "Poland understands security as a task for society as a whole. The state and private entities are jointly attempting to strengthen the population's crisis awareness and the resilience of each individual. By next year, for example, the government plans to train around 400,000 citizens in basic defense and crisis response skills. Soldiers teach emergency preparedness or how to react during air raid alarms in schools. Young people can spend their vacations in basic military courses; since last year, a shooting course has been mandatory for high school students."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0kd1",
+   "content": {
+    "text": "Civil society is also participating: NGOs educate seniors about hybrid threats and attempted fraud. Scouts are legally considered civil protection partners in a crisis. And the influential Catholic Church is developing an action plan for wartime with the Ministry of Interior and the Ministry of Defense."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0kd2",
+   "content": {
+    "text": "However, the study states that for about ten years, Poland has had a military auxiliary force of trained civilians — a light infantry, anchored in the regions. It acts as a link between the people and the army."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fmqalo0",
+   "content": {
+    "text": "In Switzerland, such measures probably sound absurd to many today. Marcel Hirsiger, the Eastern Europe expert and lecturer at the University of Applied Sciences Northwestern Switzerland, knows this. He is a co-author of the study and a Senior Fellow at the Swiss Institute for Global Affairs. In Poland, there is a consensus about the Russian threat, while in Switzerland, awareness of it is lacking, Marcel Hirsiger says – although the neutral country has also been a victim of cyberattacks or disinformation."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0q72m2l1",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "Marcel Hirsiger.",
+     "originalUrl": "/2026/08/24/903d9dd0-f1d5-4588-b32b-dcc65a3c054c.jpg?crop=451,601,x440,y0",
+     "width": 1200,
+     "height": 800,
+     "altText": "+++ IMAGE RELEASED FOR IMAGE BOX +++ Marcel Hirsiger Lecturer Contact Phone +41 62 957 20 97 Email marcel.hirsiger@fhnw.ch Address FHNW University of Applied Sciences and Arts Northwestern Switzerland School of Business Riggenbachstrasse 16 4600 Olten",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180203973"
+      }
+     ],
+     "crop": {
+      "x": 440,
+      "y": 0,
+      "width": 451,
+      "height": 601,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 440,
+       "y": 0,
+       "width": 451,
+       "height": 601,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Marcel Hirsiger.",
+    "author": "PD"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--right"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0ke0",
+   "content": {
+    "text": "Switzerland has ideal conditions to make itself resilient as a whole society, Hirsiger says: «Bunkers and the militia principle are still firmly established in Switzerland today – Poland currently has to catch up on that.» Switzerland also has experience with civilian willingness to defend, he notes: During the Second World War, «spiritual national defense» shaped the neutral country. Today, most in politics, business, and society distance themselves from it; the concept is considered outdated. In any case, the small state considers itself a special case in relative security, the Eastern Europe expert observes. The study is intended to spark a discussion and show what a modern, comprehensive security architecture could look like, he adds."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0ke1",
+   "content": {
+    "text": "The Federal Council, in its first security policy strategy <a href=\"https://www.nzz.ch/pro/sicherheitspolitische-strategie-der-bundesrat-benennt-die-bedrohung-durch-russland-klammert-aber-das-gefaehrlichste-szenario-fuer-die-schweiz-weiter-aus-ld.1916210\">from the end of 2025</a>, also speaks of «comprehensive security» as a goal for Switzerland. As one measure, the resilience of citizens is to be strengthened, for example, through increased information on the situation and emergency planning. However, the lead responsibility always lies with the federal departments, mostly with the Department of Defense. This is precisely where Hirsiger's criticism comes in: If security remains purely a state task and confined to classical security institutions, it will not reach many parts of society, Hirsiger argues. Numerous companies considered themselves in false security due to the still good economic cycle, he contends. They and their workforces were «enormously vulnerable» — without even realizing it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0ke2",
+   "content": {
+    "text": "Poland shows that resilience only emerges from the interaction of the state, business, science, and civil society, Hirsiger says. This insight has matured despite political polarization. Defense Minister Wladyslaw Kosiniak-Kamysz emphasized at the end of 2023 how central the civilian population would be in the event of war. As proof, he cited the example of Ukraine: Kyiv had not fallen in 2022 only because citizens offered determined resistance in the first weeks. According to Hirsiger, they maintained civilian logistics and ensured supplies."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0ppf11n0",
+   "content": {
+    "title": "Hybrid warfare also making Switzerland vulnerable",
+    "id": "subtitle-die-hybride-kriegsf-hrung-mache-auch-die-schweiz-verletzlich"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fkc0ke3",
+   "content": {
+    "text": "But is Poland, as a NATO country in the East, really the right country for comparison with Switzerland? Hirsiger affirms this. While Switzerland does not have to fear Russian tanks, it does have to fear the Kremlin's hybrid warfare, Hirsiger says: Drones and cyberattacks do not care about national borders and reach Bern as well as Warsaw. «We are just as threatened as everyone else,» he says."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pomf0q1",
+   "content": {
+    "text": "The new study proposes concrete steps: for example, an annual national «Resilience Day,» exercises in communities, crisis tests for business and authorities, and more cyber and media literacy in schools. The authors' conclusion: Poland serves as a source of inspiration, but the concept does not have to be copied one-to-one. Civil society, the militia system, and innovative strength were available in Switzerland and were also highly developed depending on the region, the authors conclude. They only needed to be strategically and proactively brought together."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0fk8pat5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-32a11650",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 7,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Mark Ziegler",
+      "text": "It would take less to strengthen Switzerland in this regard than in other countries. The closure of existing shooting ranges and military training areas could cease. Noise abatement could be addressed by exempting silencers from the requirement of a permit. There are plenty of retired military personnel willing to continue their service and still possessing sufficient knowledge to make a contribution.",
+      "created_at": "2026-08-26T11:26:38.413Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Max Oster",
+      "text": "To increase the army's resilience, it would certainly be possible to rely on the voluntary service of former soldiers discharged from compulsory military service, naturally with an age limit. This would relieve the active combat units and allow them to readily take over tasks such as supply, repairs, security, catering, and much more.",
+      "created_at": "2026-08-26T08:01:16.275Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0fk8pat6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0fk8pat7",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Salting meat, tying off a leg, making a fire: The Poles are learning for wartime.",
+       "teaserImage": {
+        "originalUrl": "/2025/12/13/c01a7e01-5778-4444-a1ac-28d110a94859.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/13/c01a7e01-5778-4444-a1ac-28d110a94859.jpg?width=1024&quality=75&auto=webp",
+        "width": 6240,
+        "height": 4160,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6240,3509,x0,y651"
+         },
+         {
+          "name": "1:1",
+          "crop": "2597,2597,x1281,y1288"
+         },
+         {
+          "name": "4:3",
+          "crop": "5547,4159,x93,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "3120,4159,x1236,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "6240,4159,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Since this autumn, the Polish army has been offering survival courses to civilians so they know how to defend themselves and resist in the event of an attack by Russia. The courses are fully booked, especially in the border region with Ukraine."
+       },
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2025/12/13/c01a7e01-5778-4444-a1ac-28d110a94859.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/13/c01a7e01-5778-4444-a1ac-28d110a94859.jpg?width=1024&quality=75&auto=webp",
+        "width": 6240,
+        "height": 4160,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6240,3509,x0,y651"
+         },
+         {
+          "name": "1:1",
+          "crop": "3287,3286,x1100,y874"
+         },
+         {
+          "name": "4:3",
+          "crop": "5547,4159,x0,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "3120,4159,x1227,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "6240,4159,x0,y1"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2025/12/13/48353e29-1647-45e7-ac75-1cecc951f5f3.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/13/48353e29-1647-45e7-ac75-1cecc951f5f3.jpg?width=1024&quality=75&auto=webp",
+        "width": 5838,
+        "height": 3892,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5838,3284,x0,y179"
+         },
+         {
+          "name": "1:1",
+          "crop": "2733,2733,x1810,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5189,3892,x439,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2919,3892,x1438,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5838,3892,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2025/12/13/bb69aff0-0558-4f98-93cd-6b79bbbd78a7.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/13/bb69aff0-0558-4f98-93cd-6b79bbbd78a7.jpg?width=1024&quality=75&auto=webp",
+        "width": 6518,
+        "height": 4345,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6518,3666,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3862,3862,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5793,4345,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3259,4345,x575,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6517,4344,x1,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselFour": {
+        "originalUrl": "/2025/12/13/6f50d8f2-989f-44ee-a5d0-25e6e40ab926.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/13/6f50d8f2-989f-44ee-a5d0-25e6e40ab926.jpg?width=1024&quality=75&auto=webp",
+        "width": 7728,
+        "height": 5152,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7728,4347,x0,y301"
+         },
+         {
+          "name": "1:1",
+          "crop": "5152,5151,x240,y1"
+         },
+         {
+          "name": "4:3",
+          "crop": "6869,5151,x0,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "3864,5151,x920,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "7728,5151,x0,y1"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "paywallQuestionOne": "How is Poland strengthening its civil defense against the threat from Russia?",
+       "paywallQuestionTwo": "Why do Polish citizens participate in voluntary army courses?",
+       "paywallQuestionThree": "What do civilians learn in the army's courses?",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1915889",
+       "readingTime": 480,
+       "showComments": true,
+       "authorLine": "Paul Flückiger (text), Dawid Zieliński (images)",
+       "characterCount": 9593,
+       "product": "NZZ.ch",
+       "documentId": 1915889,
+       "layout": "longformvisual",
+       "publicationDate": "2025-12-14T04:30:00.000Z",
+       "publicationLastUpdated": "2025-12-14T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-14T16:30:00.000Z",
+       "teaserCaption": "Since this autumn, the Polish army has been offering survival courses to civilians so they know how to defend themselves and resist in the event of an attack by Russia. The courses are fully booked, especially in the border region with Ukraine.",
+       "url": "/international/fleisch-poekeln-bein-abbinden-feuer-machen-die-polen-lernen-fuer-den-kriegsfall-ld.1915889",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1606,
+       "premium": true,
+       "leadText": "Since this autumn, the Polish army has been offering survival courses to civilians so they know how to defend themselves and resist in the event of an attack by Russia. The courses are fully booked, especially in the border region with Ukraine.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0fk8pat8",
+      "content": {
+       "owner": "NZZ",
+       "title": "Vladimir Putin has long been waging a war against the West – nowhere is it more clearly felt than in the Baltic states",
+       "teaserImage": {
+        "originalUrl": "/2026/03/24/9316c3ff-52d4-4571-ac21-99e0b3bd1539.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/24/9316c3ff-52d4-4571-ac21-99e0b3bd1539.png?width=1024&quality=75&auto=webp",
+        "width": 2999,
+        "height": 2217,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2999,1687,x0,y224"
+         },
+         {
+          "name": "1:1",
+          "crop": "2217,2217,x451,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2628,1971,x186,y123"
+         },
+         {
+          "name": "3:4",
+          "crop": "1663,2217,x684,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2666,1777,x167,y220"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The NZZ has documented hybrid attacks in northern Europe since the summer of 2023. The data paints a disturbing picture."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "paywallQuestionOne": "How do hybrid attacks affect trust in the Baltic states?",
+       "paywallQuestionTwo": "Why are hybrid attacks so difficult to prevent?",
+       "paywallQuestionThree": "What new vulnerabilities could attacks exploit in the future?",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1902002",
+       "readingTime": 420,
+       "showComments": true,
+       "colorSchema": "color-schema--forced-dark",
+       "authorLine": "Linda Koponen, Joana Kelén, Franco Gervasi, Adina Renner",
+       "tags": [
+        "Ukraine-Krieg"
+       ],
+       "characterCount": 9340,
+       "product": "NZZ.ch",
+       "documentId": 1902002,
+       "layout": "longformvisual",
+       "publicationDate": "2026-04-01T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-18T14:14:59.286Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-04-01T15:30:00.000Z",
+       "teaserCaption": "The NZZ has documented hybrid attacks in northern Europe since the summer of 2023. The data paints a disturbing picture.",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?width=1024&quality=75&auto=webp",
+       "url": "/international/russlands-hybrider-krieg-so-trifft-er-nordeuropa-und-das-baltikum-ld.1902002",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1349,
+       "premium": true,
+       "leadText": "The NZZ has documented hybrid attacks in northern Europe since the summer of 2023. The data paints a disturbing picture.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0fk8pat9",
+      "content": {
+       "owner": "NZZ",
+       "title": "The army is looking for ideas for a \"modern\" use of the fortress mortar bunkers.",
+       "teaserImage": {
+        "originalUrl": "/2025/07/17/9be9a241-1707-4ac6-ac7f-dbb82ee370f0.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/17/9be9a241-1707-4ac6-ac7f-dbb82ee370f0.jpeg?width=1024&quality=75&auto=webp",
+        "width": 8256,
+        "height": 5504,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8256,4644,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3866,3866,x1145,y107"
+         },
+         {
+          "name": "4:3",
+          "crop": "7339,5504,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3669,4892,x1410,y612"
+         },
+         {
+          "name": "3:2",
+          "crop": "8256,5504,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The weapon system was decommissioned in 2018. Now, in light of the worsening security situation in Europe, the army is seeking innovative solutions.",
+        "teaserAuthor": "Gian Ehrenzeller / Keystone"
+       },
+       "teaserAuthor": "Gian Ehrenzeller / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1893882",
+       "readingTime": 180,
+       "authorLine": "Selina Berner, Bern",
+       "characterCount": 4275,
+       "product": "NZZ.ch",
+       "documentId": 1893882,
+       "layout": "regular",
+       "publicationDate": "2025-07-19T03:30:00.000Z",
+       "publicationLastUpdated": "2025-07-19T11:07:09.042Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-07-19T15:30:00.000Z",
+       "teaserCaption": "The weapon system was decommissioned in 2018. Now, in light of the worsening security situation in Europe, the army is seeking innovative solutions.",
+       "url": "/schweiz/die-armee-sucht-ideen-fuer-eine-zeitgemaesse-nutzung-der-festungsminenwerfer-bunker-ld.1893882",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 619,
+       "leadText": "The weapon system was decommissioned in 2018. Now, in light of the worsening security situation in Europe, the army is seeking innovative solutions.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Strategy against Russia: How Poland is making its people more resilient – ​​and what Switzerland can learn from it",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?width=1024&quality=75&auto=webp",
+   "width": 8256,
+   "height": 5504,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "8256,4644,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "7339,5504,x31,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "5504,5504,x817,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "4128,5503,x1260,y1"
+    },
+    {
+     "name": "3:2",
+     "crop": "8256,5504,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 3477,
+    "y": 1126
+   },
+   "imageService": "fastly",
+   "teaserCaption": "Not only the army, but society as a whole should be able to withstand the threat from Russia: Poland is systematically preparing its civilian population for an emergency. A new study recommends this model for emulation.",
+   "teaserAuthor": "Omar Marques / Getty"
+  },
+  "teaserAuthor": "Omar Marques / Getty",
+  "showComments": true,
+  "nzzId": "ld.10020371",
+  "readingTime": 240,
+  "characterCount": 5401,
+  "tags": [
+   "Schweiz: Sicherheitspolitik"
+  ],
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020371,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T05:55:13.896Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "Not only the army, but society as a whole should be able to withstand the threat from Russia: Poland is systematically preparing its civilian population for an emergency. A new study recommends this model for emulation.",
+  "nzzAuthors": [
+   {
+    "id": 1839612,
+    "name": "Selina Berner",
+    "shortName": "sia",
+    "external": false
+   }
+  ],
+  "authorLine": "Selina Berner",
+  "authorImage": {
+   "originalUrl": "/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572",
+   "url": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4333,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 2163,
+    "y": 572,
+    "width": 2405,
+    "height": 2405
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1868351,
+    "name": "Selina Berner",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+  "url": "/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 788,
+  "premium": true,
+  "leadText": "Not only the army, but society as a whole should be able to withstand the threat from Russia: Poland is systematically preparing its civilian population for an emergency. A new study recommends this model for emulation.",
+  "nzzSummaryEN": "- Poland is implementing a comprehensive security strategy engaging both the state and civil society: 400,000 citizens are to be trained in defense and crisis response skills by 2024, supported by schools and NGOs.\n- Switzerland already has structures like shelters and the militia principle but lacks awareness of hybrid threats and broader civic involvement, according to experts.\n- Study authors recommend enhancing resilience in Switzerland through national simulation days, stronger cyber and media literacy, and greater collaboration between the state, businesses, and civil society.\n",
+  "nzzSummaryDE": "Poland is pursuing a comprehensive security strategy that involves the state and civil society: 400,000 citizens are to be trained in defense and crisis response skills by 2024, with support from schools and NGOs.\n - Switzerland already has structures such as shelters and the militia principle, but experts criticize the lack of awareness of hybrid threats and the lack of involvement of civil society.\n - Study authors suggest promoting resilience in Switzerland through national exercise days, stronger cyber and media literacy, and cooperation between government, business, and society.\n",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Switzerland should learn from Poland how to make an entire society capable of defending itself",
+  "nzzPrintSubtitle": "Poland is systematically preparing its civilian population for emergencies. A new study recommends this model for emulation.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371",
+   "title": "Poland is making its society more resilient: A model for Switzerland?",
+   "socialMediaTitle": "How Poland is preparing its citizens for defense – a model for Switzerland?",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8256,4644,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2483232,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Poland",
+    "slug": "/themen/polen"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   },
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 7,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Mark Ziegler",
+     "text": "It would take less to strengthen Switzerland in this regard than in other countries. The closure of existing shooting ranges and military training areas could cease. Noise abatement could be addressed by exempting silencers from the requirement of a permit. There are plenty of retired military personnel willing to continue their service and still possessing sufficient knowledge to make a contribution.",
+     "created_at": "2026-08-26T11:26:38.413Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Max Oster",
+     "text": "To increase the army's resilience, it would certainly be possible to rely on the voluntary service of former soldiers discharged from compulsory military service, naturally with an age limit. This would relieve the active combat units and allow them to readily take over tasks such as supply, repairs, security, catering, and much more.",
+     "created_at": "2026-08-26T08:01:16.275Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1915889",
+    "ld.1902002",
+    "ld.1893882"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 381960,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "polen",
+   "name": "Poland",
+   "tagName": "Poland",
+   "qId": "Q36",
+   "seoTitle": "Poland – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 16:20:15.687Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/polen",
+   "size": 1144,
+   "relatedTopics": [
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    },
+    {
+     "name": "Ukraine",
+     "slug": "/themen/ukraine"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Poland is a success story – but politically, it is not realizing its potential",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "tags": [
+     "Europa"
+    ],
+    "editor": "1371879",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/3d5a4e7b-9382-4e8c-885f-62077b410ac4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/3d5a4e7b-9382-4e8c-885f-62077b410ac4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4896,
+     "height": 3264,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4896,2754,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4352,3264,x181,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3264,3264,x95,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2448,3264,x698,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4896,3264,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Despite economic success, a year before the next elections, disillusionment prevails in Central Europe’s most important state. Disagreement within the coalition and conflicts with the president paralyze society and politics. This harms the country – and Europe.",
+     "teaserAuthor": "Tomasz Waszczuk / EPA"
+    },
+    "teaserAuthor": "Tomasz Waszczuk / EPA",
+    "nzzId": "ld.10021006",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why does Poland's political and social reform capacity remain limited?",
+    "paywallQuestionTwo": "How does the fragmentation of Poland's party landscape affect its future?",
+    "paywallQuestionThree": "What role does Poland play in the EU and European defense policy?",
+    "characterCount": 9298,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021006",
+    "layout": "opinion",
+    "publicationDate": "2026-08-31T03:40:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:40:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:40:00.000Z",
+    "teaserCaption": "Despite economic success, a year before the next elections, disillusionment prevails in Central Europe’s most important state. Disagreement within the coalition and conflicts with the president paralyze society and politics. This harms the country – and Europe.",
+    "authorLine": "Markus Ackeret",
+    "authorImage": {
+     "originalUrl": "/2022/09/14/8e9e1175-c900-481e-88b1-2e2984786b30.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/09/14/8e9e1175-c900-481e-88b1-2e2984786b30.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/8e9e1175-c900-481e-88b1-2e2984786b30.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/polen-nutzt-sein-potenzial-nicht-ld.10021006",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1376,
+    "premium": true,
+    "leadText": "Despite economic success, a year before the next elections, disillusionment prevails in Central Europe’s most important state. Disagreement within the coalition and conflicts with the president paralyze society and politics. This harms the country – and Europe.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Poland's top diplomat in Switzerland: «There is no peace through storytelling, but only through effective deterrence»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/7f341bb2-a0c3-429a-9162-847eddf158b9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/7f341bb2-a0c3-429a-9162-847eddf158b9.jpg?width=1024&quality=75&auto=webp",
+     "width": 5616,
+     "height": 3744,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5616,3159,x0,y455"
+      },
+      {
+       "name": "4:3",
+       "crop": "4992,3744,x191,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3744,3744,x1434,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2808,3744,x2009,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5616,3744,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Once a member of the citizens' movement fighting against communism, today he represents his country in Bern: Marek Prawda is Poland's top diplomat in Switzerland. He finds the local special-case mentality and distrust of the EU disconcerting.",
+     "teaserAuthor": "Alessandro Della Bella / Keystone"
+    },
+    "teaserAuthor": "Alessandro Della Bella / Keystone",
+    "nzzId": "ld.10020762",
+    "readingTime": 720,
+    "paywallQuestionOne": "How does Marek Pravda assess Switzerland's neutrality in the face of global threats?",
+    "paywallQuestionTwo": "Why does Pravda see the EU as a community of destiny and no longer as a rule factory?",
+    "paywallQuestionThree": "What role could Switzerland play in European security policy?",
+    "characterCount": 16154,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": "10020762",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T08:20:27.817Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:30:00.000Z",
+    "teaserCaption": "Once a member of the citizens' movement fighting against communism, today he represents his country in Bern: Marek Prawda is Poland's top diplomat in Switzerland. He finds the local special-case mentality and distrust of the EU disconcerting.",
+    "authorLine": "Selina Berner, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/polens-hoechster-vertreter-in-der-schweiz-es-gibt-keinen-frieden-durch-erzaehlungen-sondern-nur-durch-effektive-abschreckung-ld.10020762",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 2482,
+    "leadText": "Once a member of the citizens' movement fighting against communism, today he represents his country in Bern: Marek Prawda is Poland's top diplomat in Switzerland. He finds the local special-case mentality and distrust of the EU disconcerting.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "Poland’s prominent fugitive from Polish justice wants to return home",
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/0c740058-3186-4764-a1ba-9d36b2717c03.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/0c740058-3186-4764-a1ba-9d36b2717c03.jpg?width=1024&quality=75&auto=webp",
+     "width": 5568,
+     "height": 3712,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5568,3132,x0,y468"
+      },
+      {
+       "name": "4:3",
+       "crop": "4499,3374,x687,y338"
+      },
+      {
+       "name": "1:1",
+       "crop": "3375,3374,x1272,y338"
+      },
+      {
+       "name": "3:4",
+       "crop": "2531,3374,x1727,y338"
+      },
+      {
+       "name": "3:2",
+       "crop": "5062,3374,x306,y338"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Former Deputy Justice Minister Romanowski is wanted by Polish authorities. He has since surfaced in Russian-influenced Transnistria. Wild speculation surrounds the reasons for his escape.",
+     "teaserAuthor": "Marcin Obara / PAP / Keystone"
+    },
+    "teaserAuthor": "Marcin Obara / PAP / Keystone",
+    "tags": [
+     "Europa"
+    ],
+    "editor": "1373097",
+    "nzzId": "ld.10020328",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Poland looking for Romanowski for alleged crimes?",
+    "paywallQuestionTwo": "What role does Transnistria play in Romanowski's escape?",
+    "paywallQuestionThree": "Did Russia issue Romanowski a passport?",
+    "characterCount": 5347,
+    "product": "NZZ.ch",
+    "documentId": "10020328",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T12:23:19.807Z",
+    "publicationLastUpdated": "2026-08-21T12:49:25.253Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T00:23:19.807Z",
+    "teaserCaption": "Former Deputy Justice Minister Romanowski is wanted by Polish authorities. He has since surfaced in Russian-influenced Transnistria. Wild speculation surrounds the reasons for his escape.",
+    "authorLine": "Paul Flückiger, Danzig",
+    "url": "https://www.nzz.ch/international/polen-spekulationen-um-die-flucht-des-frueheren-vize-justizministers-ld.10020328",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 748,
+    "leadText": "Former Deputy Justice Minister Romanowski is wanted by Polish authorities. He has since surfaced in Russian-influenced Transnistria. Wild speculation surrounds the reasons for his escape.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Heat in Europe: Climate researcher warns of more extreme weather; hundreds flee wildfires in Spain",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Live ticker",
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024&quality=75&auto=webp",
+     "width": 5315,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5315,3543,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+     "teaserAuthor": "Federico Gambarini / Keystone"
+    },
+    "teaserAuthor": "Federico Gambarini / Keystone",
+    "authorLine": "NZZ Newsroom",
+    "nzzId": "ld.10008673",
+    "readingTime": 60,
+    "liveCenterId": "86247",
+    "embeds": {
+     "videos": [
+      {
+       "id": "TZNqnPW9",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 9,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/TZNqnPW9-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How do heat waves affect people, animals and the environment in Switzerland?",
+    "paywallQuestionTwo": "Which regions of Europe are affected by record temperatures?",
+    "paywallQuestionThree": "What measures does the federal government recommend to combat the heat?",
+    "characterCount": 19,
+    "videoTeaser": "TZNqnPW9",
+    "product": "NZZ.ch",
+    "documentId": "10008673",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T06:52:11.732Z",
+    "publicationLastUpdated": "2026-08-27T06:52:11.732Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-27T18:52:11.732Z",
+    "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "url": "https://www.nzz.ch/panorama/hitze-in-europa-klimaforscher-warnt-vor-mehr-extremwetter-hunderte-menschen-in-spanien-wegen-waldbrand-evakuiert-ld.10008673",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 45,
+    "leadText": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«I am a soldier. Europe is my mother»: Face of Warsaw Uprising dies",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/89ceb67f-f212-4557-b216-1a776eba2ae7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/89ceb67f-f212-4557-b216-1a776eba2ae7.jpg?width=1024&quality=75&auto=webp",
+     "width": 7504,
+     "height": 5005,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7504,4221,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6673,5005,x831,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5005,5005,x2185,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3754,5005,x2810,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7504,5003,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4687,
+      "y": 1602
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Wanda Traczyk-Stawska was a fighter, a tireless guardian of memory, a moral authority in Poland. She lived to be 99 years old.",
+     "teaserAuthor": "Wojtek Radwanski / AFP"
+    },
+    "teaserAuthor": "Wojtek Radwanski / AFP",
+    "editor": "1373097",
+    "nzzId": "ld.10020283",
+    "readingTime": 240,
+    "paywallQuestionOne": "How did Wanda Traczyk-Stawska shape the way the memory of the Warsaw Uprising is dealt with?",
+    "paywallQuestionTwo": "What values ​​did Wanda Traczyk-Stawska represent in her commitment to freedom and democracy?",
+    "paywallQuestionThree": "How did Wanda Traczyk-Stawska influence Polish society and European politics?",
+    "characterCount": 5103,
+    "tags": [
+     "Europa"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020283",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T14:00:00.000Z",
+    "publicationLastUpdated": "2026-08-20T14:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T02:00:00.000Z",
+    "teaserCaption": "Wanda Traczyk-Stawska was a fighter, a tireless guardian of memory, a moral authority in Poland. She lived to be 99 years old.",
+    "authorLine": "Inna Hartwich",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/64cc069e-192d-4de8-9d92-dfec1fbbf180.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/wanda-traczyk-stawska-heldin-des-warschauer-aufstands-verstorben-ld.10020283",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 830,
+    "leadText": "Wanda Traczyk-Stawska was a fighter, a tireless guardian of memory, a moral authority in Poland. She lived to be 99 years old.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020371",
+    "name": "Strategy against Russia: How Poland is making its people more resilient – ​​and what Switzerland can learn from it",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Strategy against Russia: How Poland is making its people more resilient – ​​and what Switzerland can learn from it",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1839612,
+       "name": "Selina Berner",
+       "shortName": "sia",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T05:55:13.896Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020371",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Poland is making its society more resilient: A model for Switzerland?",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8256,4644,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Selina Berner",
+  "description": "Not only the army, but society as a whole should be able to withstand the threat from Russia: Poland is systematically preparing its civilian population for an emergency. A new study recommends this model for emulation.",
+  "news_keywords": "Strategy against Russia: How Poland is making its people more resilient – ​​and what Switzerland can learn from it, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T09:55:13+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Strategy against Russia: How Poland is making its people more resilient – ​​and what Switzerland can learn from it",
+  "ogTitle": "How Poland is preparing its citizens for defense – a model for Switzerland?",
+  "ogUrl": "https://www.nzz.ch/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371",
+  "mrf:cms_id": "nzz:ld.10020371",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10020371",
+  "nzzAuthors": [
+   {
+    "id": 1839612,
+    "name": "Selina Berner",
+    "shortName": "sia",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:30 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Poland is making its society more resilient: A model for Switzerland?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371"
+   },
+   "headline": "Poland is making its society more resilient: A model for Switzerland?",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T09:55:13+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Not only the army, but society as a whole should be able to withstand the threat from Russia: Poland is systematically preparing its civilian population for an emergency. A new study recommends this model for emulation.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8256,4644,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Selina Berner"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 381960,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/polens-strategie-gegen-russland-wie-ein-ganzes-volk-wehrhaft-werden-soll-und-was-die-schweiz-daraus-lernen-kann-ld.10020371",
+    "classification=premium",
+    "relevance=germany",
+    "layout=regular",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020371",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Selina Berner",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie stärkt Polen die Wehrhaftigkeit seiner Zivilbevölkerung?\nWelche Rolle spielt die Zivilgesellschaft in Polens Sicherheitsstrategie?\nWas kann die Schweiz von Polens Sicherheitsmodell lernen?",
+   "ldId": "ld.10020371",
+   "channel": "Schweiz",
+   "heading": "Strategie gegen Russland: Wie Polen sein Volk wehrhaft macht – und was die Schweiz daraus lernen kann",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

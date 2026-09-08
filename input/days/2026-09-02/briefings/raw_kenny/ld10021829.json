@@ -1,0 +1,1000 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjjhakie0",
+   "content": {
+    "subject": "NZZ Newsletter Real Estate September 2026",
+    "preheader": "Wohnungskrisen sind kein Zufall, sondern das Ergebnis einer Fehlsteuerung"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-34640028",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-newsletter-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-newsletter-subtitle",
+   "id": "doc-1jjjhakig2",
+   "content": {
+    "title": "September 2026 issue"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-author-block-small"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-block-small",
+   "id": "doc-1jjjhbs1n0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/03/13/ef10189e-43c0-4167-9272-3d6c9f8419fc.png",
+     "mediaId": "j6SqVl6PDwnU",
+     "key": "2026/03/13/ef10189e-43c0-4167-9272-3d6c9f8419fc.png",
+     "width": 2529,
+     "height": 2553,
+     "mimeType": "image/png",
+     "altText": "N/A",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/13/ef10189e-43c0-4167-9272-3d6c9f8419fc.png?width=1024&quality=75&auto=webp"
+    },
+    "authorname": "by Jürg Zulliger",
+    "authorrole": "Editor, NZZ Business"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-newsletter-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1k1h0amdt0",
+   "content": {
+    "text": "In many cities, entire neighborhoods are currently changing their appearance within a short period of time. Construction cranes stand close together. And yet, despite extensive investments, city dwellers are surprised that housing is not becoming cheaper."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-block-small",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hc1bma0",
+   "content": {
+    "text": "Interpretations vary widely. The accusation of «profit-driven thinking» targets investors and developers. The counter-argument cites migration and an open labor market as key causes. And a third view places the problem in tenancy law, which it considers too lenient."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0de3b1",
+   "content": {
+    "text": "The internationally renowned real estate economist Christian Hilber examines which theories can be substantiated. He conducts research at the London School of Economics and teaches at CUREM at the University of Zurich. Two years ago, I attended his inaugural lecture on housing, affordability, and spatial planning. It remained analytical down to the last detail, yet still captured the essence of the experience that accompanies every home purchase and every apartment search."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0biu30",
+   "content": {
+    "text": "Where a city offers jobs and opportunities, but the supply of housing doesn't keep pace, prices rise. This is true worldwide. We imagine Australia as vast and boundless, yet Sydney is experiencing one of the steepest price increases anywhere. The explanation lies less in the well-intentioned plans of the responsible politicians than in the regulations governing construction."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0biu40",
+   "content": {
+    "text": "Anyone who truly grapples with this issue must also examine theories that contradict common intuition. It's quite possible that the very laws intended to protect tenants will ultimately make housing unaffordable."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hmm9760",
+   "content": {
+    "text": "Some groups are calling for lower rents while simultaneously arguing that modern societies must be able to manage without additional housing supply. This calculation doesn't add up, and it disadvantages those looking for an apartment."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0biu51",
+   "content": {
+    "text": "Hilber's research focuses on the flaws in housing policy, which often fails to recognize the underlying issues. Despite strong population growth, per capita construction activity is declining in many countries. «Previously, we rezoned and developed greenfield land on the outskirts of communities. This was a straightforward, inexpensive, and politically relatively smooth process,» he says."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0biu60",
+   "content": {
+    "text": "You can read the entire interview with the internationally renowned real estate economist exclusively in this issue."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0biu61",
+   "content": {
+    "text": "In addition, there are new studies on the Swiss real estate market and investments, as well as scenarios on how Switzerland will live in 2100."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hbarqj0",
+   "content": {
+    "text": "Further focus: We investigate why Swiss real estate companies are operationally very successful, yet their stock prices only tend to move sideways."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjhdett0",
+   "content": {
+    "text": "I hope you find it an inspiring read"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jnsbdvmr0",
+   "content": {
+    "text": "<em>Jürg Zulliger</em>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjheqfa0",
+   "content": {
+    "title": "Contents"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-ordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-ordered",
+   "id": "doc-1jjjhevlf0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjjhevlg0",
+      "content": {
+       "text": "Exclusive interview: Housing crises are not a coincidence, but the result of mismanagement"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjjhf6u90",
+      "content": {
+       "text": "Studies and analyses"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjjhf8k20",
+      "content": {
+       "text": "Personal details"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjjhfpru0",
+      "content": {
+       "text": "Pursue"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjjhfsff0",
+      "content": {
+       "text": "News from NZZ Connect"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjjhg0fu0",
+      "content": {
+       "text": "Press review"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhgg440",
+   "content": {
+    "title": "Housing crises are not a coincidence, but the result of mismanagement"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-numbered"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-ordered",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jsel983d0",
+   "content": {
+    "link": {
+     "href": "https://realestate.nzz.ch/de/newsletter/news-august-26-ortsbildschutz"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/528dbeef-1a13-44ce-89cb-5fd963dc76b0.jpg",
+     "mediaId": "PDAWfy4BrdPe",
+     "key": "2026/09/02/528dbeef-1a13-44ce-89cb-5fd963dc76b0.jpg",
+     "width": 4462,
+     "height": 4520,
+     "mimeType": "image/jpeg",
+     "altText": "Professor Christian Hilber",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/528dbeef-1a13-44ce-89cb-5fd963dc76b0.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Professor Christian Hilber",
+    "source": "Bild: PD"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1k1h1kqt00",
+   "content": {
+    "text": "House prices have been climbing for years in Switzerland and across Europe. Christian Hilber is Professor of Economic Geography at the London School of Economics (LSE) and Professor of Real Estate Finance and Economics at the University of Zurich. In this interview, he explains why the housing crisis is largely self-inflicted, why Switzerland is squandering its historical advantage, and why well-intentioned housing policies fail with remarkable regularity."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h1kv3h0",
+   "content": {
+    "text": "<a href=\"https://realestate.nzz.ch/de/newsletter/news-september-2026-interview-hilber\">Read the full interview here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhi4640",
+   "content": {
+    "title": "Studies and analyses"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-numbered"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jnsc22sg0",
+   "content": {
+    "link": {
+     "href": "https://realestate.nzz.ch/de/newsletter/news-august-26-studie-immobilienmarkt"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/6320724f-ec65-4f8d-88dc-23d3c0d700cb.jpg",
+     "mediaId": "bFImaImnVXu3",
+     "key": "2026/09/02/6320724f-ec65-4f8d-88dc-23d3c0d700cb.jpg",
+     "width": 5460,
+     "height": 4096,
+     "mimeType": "image/jpeg",
+     "altText": "Aerial View of Green Rooftops in Zurich, Switzerland on a Sunny Spring Afternoon - Urban Sustainability and Architecture Highlights",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/6320724f-ec65-4f8d-88dc-23d3c0d700cb.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Real estate is a long-term investment: What about long-term potential for repurposing and energy self-sufficiency?",
+    "source": "Bild: Adobe Stock"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv91u7hb0",
+   "content": {
+    "text": "Making predictions across three generations is a difficult undertaking. Nevertheless, the real estate services provider JLL is venturing a look into the future, imagining Switzerland through the end of the century in various scenarios. The study points to profound changes, for example, regarding energy supply, economic growth, and population growth. What these scenarios have in common is that they also draw attention to the present. Because these scenarios affect everyone who is considering buying a house or real estate in general."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h1qbbn0",
+   "content": {
+    "text": "<a href=\"https://realestate.nzz.ch/de/newsletter/news-september-26-schweiz-2100\">Read the study online here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jnsc28io0",
+   "content": {
+    "link": {
+     "href": "https://realestate.nzz.ch/de/newsletter/news-august-26-renditeimmobilien"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/2476c167-9466-4976-b31d-1dd1abb761c3.jpg",
+     "mediaId": "n5O2qv0Ta5R0",
+     "key": "2026/09/02/2476c167-9466-4976-b31d-1dd1abb761c3.jpg",
+     "width": 5264,
+     "height": 3509,
+     "mimeType": "image/jpeg",
+     "altText": "Contemporary apartment building in Zurich, Switzerland",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2476c167-9466-4976-b31d-1dd1abb761c3.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Top prices are paid for prime properties in good locations.",
+    "source": "Bild: Adobe Stock"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h270qv0",
+   "content": {
+    "text": "Two new studies reveal the economic conditions and the latest trends in the rental and investment markets: Rents continue to rise, interest rates remain low overall, and prices for investment properties continue to climb. However, the consulting firm Macro Real Estate warns that risk awareness in Swiss real estate could be waning."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2763m0",
+   "content": {
+    "text": "<a href=\"https://realestate.nzz.ch/de/newsletter/news-september-26-immobilien-gesuchte-anlage\">Read the full article online here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhjt1r0",
+   "content": {
+    "title": "Personal details"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-numbered"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k1hbe3270",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/c2473d92-3437-4b64-b8d4-beecb712c46f.jpg",
+     "mediaId": "tpO4phIoua7O",
+     "key": "2026/09/02/c2473d92-3437-4b64-b8d4-beecb712c46f.jpg",
+     "width": 740,
+     "height": 671,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/c2473d92-3437-4b64-b8d4-beecb712c46f.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Christian Sturm",
+    "source": "Bild: UBS"
+   },
+   "styles": {
+    "image-style": "baukasten-image-portrait"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1heaqjl0",
+   "content": {
+    "text": "Effective September 1, <strong>Christian Sturm</strong> will assume leadership of the listed Swiss real estate funds within Real Estate DACH at UBS. He will thus be responsible for real estate assets of approximately CHF 38 billion. Christian Sturm has been with Real Estate Switzerland since 2005 and, prior to moving into portfolio management, worked in Accounting & Controlling. For the past ten years, he has managed the UBS (CH) Property Fund – Direct Residential, a role he will continue in his expanded position. He is an expert in accounting and controlling and holds a Master of Advanced Studies (MAS) in Real Estate from the University of Zurich (UZH)."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1heatbt0",
+   "content": {
+    "text": "Sturm succeeds <strong>Urs Fäs</strong> , who is taking early retirement after 30 years at UBS. Fäs's career dates back to the 1990s, when he began working in corporate banking at what was then the Swiss Bank Corporation. Fäs is also a well-known figure in the industry outside of UBS and has significantly shaped the development of real estate investments."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhl3kt0",
+   "content": {
+    "title": "Pursue"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-numbered"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k1gkb4m50",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/193c0bd5-0551-4afe-936f-dcb8dd624466.jpg",
+     "mediaId": "9kVsr3tgbRh8",
+     "key": "2026/09/02/193c0bd5-0551-4afe-936f-dcb8dd624466.jpg",
+     "width": 7008,
+     "height": 4672,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/193c0bd5-0551-4afe-936f-dcb8dd624466.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Renovated and repositioned: The Konnex building complex in Baden (AG)",
+    "source": "Bild: Fabian Welsch"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1k1glum5r0",
+   "content": {
+    "text": "On August 29, the participating partners and guests from politics and business celebrated the completion of the <strong>Konnex</strong> building complex in Baden. Formerly known primarily for offices and events, Konnex now unites living, working, and gastronomy under one roof on the historic industrial site. The project combines diverse uses across an area of ​​42,000 square meters. Swiss pension funds are co-owners of Konnex. Following a comprehensive condition assessment, the building complex underwent extensive renovation and repositioning."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1glus5a0",
+   "content": {
+    "text": "The building was designed and constructed by <strong>Theo Hotz AG</strong> between 1992 and 1996. In 2019 and 2020, initial feasibility studies were conducted under the direction of <strong>Brandenberger+Ruosch AG (B+R)</strong> , and a strategy for repositioning the property was formulated in collaboration with the co-owners."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1glus5f0",
+   "content": {
+    "text": "With flexible office spaces, 119 furnished apartments, and a green courtyard, an urban micro-system has been created just minutes from Baden train station. According to the press release, <strong>Konnex</strong> sees itself as a location that «promotes encounters and gives people a reason» to come together on-site. This is because offices and workplaces today have different requirements than simply focused work, which is just as easily possible from a home office. The architecture is designed accordingly, featuring, among other things, generous glass surfaces, light-filled courtyards, and open floor plans."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gluel60",
+   "content": {
+    "text": "Established and successful Swiss real estate companies such as <strong>Swiss Prime Site, Hiag, and Allreal</strong> reported strong financial results this summer. Hiag alone, for example, recorded portfolio revaluations of over 50 million Swiss francs. <strong>Swiss Prime Site AG</strong> , with a portfolio exceeding 14 billion Swiss francs, also stood out as the industry leader. In addition, SPS is successfully positioning itself in asset management for third parties."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hb7o980",
+   "content": {
+    "text": "<strong>SPS shares</strong> were trading on the stock exchange at a premium of 50 to 60 percent, although the value of the third-party asset management business is not included in the net asset value (NAV). For this reason, the premium is comparatively higher than for pure real estate owners. Analysts estimate the value of the third-party asset management division at over one billion Swiss francs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hb7o9b0",
+   "content": {
+    "text": "The business magazine «Finanz und Wirtschaft» speaks of a «unique stock market story.» But why have the share prices of Swiss real estate stocks tended to move sideways?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hb7o9c0",
+   "content": {
+    "text": "There are primarily two explanations for the discrepancy between strong operational results and a lack of enthusiasm for further share price increases."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hb7o9c1",
+   "content": {
+    "text": "The first reason lies in the valuations themselves. Stock prices had reached a level that left no room for disappointment. With the slight rebound in medium-term capital market interest rates, the historically high premiums came under pressure. <strong>Markus Waeber</strong> , real estate analyst at Bank Julius Baer, ​​sees this as a healthy consolidation. «For a while, real estate stocks were even valued higher than real estate funds. That was very unusual and an indicator that these stocks were rather expensive.» The fact that valuations are now returning to normal is not unexpected, says Waeber. For companies that primarily invest in commercial properties, this corresponds to the longer-term average."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hb7o9d0",
+   "content": {
+    "text": "The second explanation is the shrinking yield advantage. <strong>Tobias Kistler</strong> , an analyst at St. Galler Kantonalbank, also doesn't see the cause in the company's operations. «Generally speaking, these companies remain richly valued. While the dividend yield of around 3 percent is attractive, it has been higher in the past.» Moreover, there are also very attractive dividend stocks in other sectors, such as Swiss insurance companies. Since a scenario with negative interest rates is currently considered very unlikely, the previously high premiums can no longer be justified. The correction is therefore less a warning signal than a return to normality."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhm7vg0",
+   "content": {
+    "title": "News from NZZ Connect"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-numbered"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jv9367ts0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/f19ca344-c5d4-4002-ac39-280fa603e82b.jpg",
+     "mediaId": "UtrI8weN-jDx",
+     "key": "2026/09/02/f19ca344-c5d4-4002-ac39-280fa603e82b.jpg",
+     "width": 1600,
+     "height": 836,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/f19ca344-c5d4-4002-ac39-280fa603e82b.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "The SEF.WomenAward makes female entrepreneurs visible.",
+    "source": "Bild:&nbsp;NZZ connect"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1k1hcq1dp0",
+   "content": {
+    "text": "The <strong>SEF.WomenAward</strong> will be presented for the eighth time in March 2027. It honors female entrepreneurs who shape the economy and society with courage, ideas, and perseverance. The award raises awareness of their achievements and makes women role models who inspire and encourage others. Do you know such an entrepreneur? Then nominate her for the SEF.WomenAward 2027."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hcq3os0",
+   "content": {
+    "text": "<a href=\"https://www.swisseconomic.ch/de/sef-womenaward-2/sef-womenaward\">Click here for the nomination.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhn8kn0",
+   "content": {
+    "title": "Press review"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-numbered"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jv9mnp8b0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/cfb9ca74-38cd-4537-a6b7-74e65442142d.webp",
+     "mediaId": "IN6FWImkUknC",
+     "key": "2026/09/02/cfb9ca74-38cd-4537-a6b7-74e65442142d.webp",
+     "width": 2400,
+     "height": 1600,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/cfb9ca74-38cd-4537-a6b7-74e65442142d.webp?width=1024&quality=75&auto=webp"
+    },
+    "caption": "In many cities around the globe, house prices have risen sharply in the long term; in London or Sydney, the rise has been far greater than in Zurich, for example. Pictured: New buildings in Zurich-Altstetten.",
+    "source": "Bild: Annick Ramp, NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjjhnseg0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1hn0oj70",
+      "content": {
+       "text": "An analysis of OECD data reveals the causes of rising housing costs. NZZ Pro, Jürg Zulliger, August 31, 2026. <a href=\"https://www.nzz.ch/wirtschaft/das-ende-des-schweizer-sonderfalls-die-immobilienpreise-entkoppeln-sich-von-jenen-im-rest-europas-ld.10020369\">Read the article.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1hn9mjl0",
+      "content": {
+       "text": "Nightmare Condominium Ownership: How Condominium Owners Become Bitter Enemies. NZZ am Sonntag, Jürg Zulliger, August 30, 2026. <a href=\"https://www.nzz.ch/wirtschaft/albtraum-eigentumswohnung-wie-stockwerkeigentuemer-zu-erbitterten-feinden-werden-ld.10014125\">Read the article.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1hnraom0",
+      "content": {
+       "text": "A city on a buying spree: Zurich has spent 1.3 billion Swiss francs on real estate within four years. NZZ, Francesca Prader, August 28, 2026. <a href=\"https://www.nzz.ch/zuerich/milliardenausgaben-fuer-immobilien-bericht-zeigt-den-zuercher-kaufrausch-ld.10021257\">Read the article.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1hnea3c0",
+      "content": {
+       "text": "Overheated real estate market: Why investors are paying top prices even for dilapidated properties. NZZ, Jürg Zulliger, August 12, 2026. <a href=\"https://www.nzz.ch/wirtschaft/ueberhitzter-immobilienmarkt-darum-zahlen-anleger-selbst-fuer-marode-liegenschaften-spitzenpreise-ld.10018661\">Read the article.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1hnkjv50",
+      "content": {
+       "text": "Government intervention makes housing expensive. The idea that it protects tenants is a dangerous illusion. NZZ, Cornelius Welp, August 11, 2026. <a href=\"https://www.nzz.ch/der-andere-blick/staatliche-eingriffe-machen-wohnen-teurer-dass-sie-mieter-schuetzen-ist-eine-gefaehrliche-illusion-ld.10018969\">Read the article.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jv9mporb0",
+      "content": {
+       "text": "Switzerland is seeing more new construction than it has in a long time. Despite this, housing is not becoming more affordable. NZZ, Jürg Zulliger, July 30, 2026. <a href=\"https://www.nzz.ch/wirtschaft/in-der-schweiz-entstehen-so-viele-neubauten-wie-schon-lange-nicht-mehr-trotzdem-wird-wohnen-nicht-guenstiger-ld.10017342\">Read the article.</a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjhp6eo0",
+   "content": {
+    "title": "Contact NZZ Real Estate"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjhpfrk0",
+   "content": {
+    "text": "Neue Zürcher Zeitung AG<br> NZZ Connect<br> Viktoriastrasse 72<br> 3013 Bern<br> Switzerland"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjjhplm10",
+   "content": {
+    "text": "Tel. +41 31 334 88 88<br> Email: connect@nzz.ch"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjjhprsm0",
+   "content": {
+    "text": "Editor: Jürg Zulliger<br> Email: juerg.zulliger@nzz.ch"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1665635"
+   }
+  },
+  "issueDate": "2026-06-03T00:00:00.000Z",
+  "title": "NZZ Newsletter Real Estate",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10021829",
+  "product": "NZZ.ch",
+  "documentId": 10021829,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T19:23:56.279Z",
+  "publicationDate": "2026-09-02T19:23:56.279Z",
+  "publicationLastUpdated": "2026-09-02T19:23:56.279Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T07:23:56.279Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021829",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021829",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487939,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021829",
+    "name": "NZZ Newsletter Real Estate",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "NZZ Newsletter Real Estate",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T19:23:56.279Z",
+     "updateTimestamp": "2026-09-02T19:23:56.279Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021829",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "NZZ Newsletter Real Estate | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "NZZ Newsletter Real Estate, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T23:23:56+02:00",
+  "date": "2026-09-02T23:23:56+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021829",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "NZZ Newsletter Real Estate",
+  "ogTitle": "NZZ Newsletter Real Estate | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021829",
+  "mrf:cms_id": "nzz:ld.10021829",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021829",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021829"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:23 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "NZZ Newsletter Real Estate"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021829"
+   },
+   "headline": "NZZ Newsletter Real Estate | NZZ",
+   "datePublished": "2026-09-02T23:23:56+02:00",
+   "dateModified": "2026-09-02T23:23:56+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021829",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021829"
+   ],
+   "ContentCreated": "2026-09-02T19:23:56.279Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021829",
+   "heading": "NZZ Newsletter Real Estate",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

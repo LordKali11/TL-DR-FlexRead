@@ -1,0 +1,381 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjhd7laq0",
+   "content": {
+    "subject": "Europas neue Kokain-Front – wie Drogenbanden Spaniens Küstenorte unterwandern",
+    "preheader": "Unser neuster «NZZ Format» Dok-Film"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-194db153",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhd7las5",
+   "content": {
+    "text": "Cocaine use has been rising in Europe for years, providing lucrative business for criminal gangs. Now, southern Spain is becoming an increasingly important hub for smugglers. For the people in the tranquil coastal towns, this has had sometimes dramatic consequences."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjhd8hde0",
+   "content": {
+    "text": "We are happy to answer any questions you may have <a target=\"_blank\" href=\"https://cdn.jwplayer.com/previews/oG1TG66w\">about the film</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhd8rgq0",
+   "content": {
+    "title": "Our latest «NZZ Format» documentary film"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjhd973t0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/5f79f1fc-7c40-49a3-876d-df73f9b0143f.jpg",
+     "mediaId": "GlK9BQberAXT",
+     "key": "2026/08/25/5f79f1fc-7c40-49a3-876d-df73f9b0143f.jpg",
+     "width": 1920,
+     "height": 1080,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/5f79f1fc-7c40-49a3-876d-df73f9b0143f.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "a film by Nicole Ris and Jan-Philipp Scholz"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhd993m0",
+   "content": {
+    "title": "<strong>Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rph3890",
+   "content": {
+    "text": "Many tourists appreciate Andalusia for its beautiful beaches, idyllic villages and cozy tapas bars. But Europe's southernmost tip also has another side: Criminal gangs are spreading here, supplying cocaine to all of Europe. «We have a veritable drug economy here,» says social worker Alma Jugado."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rph38b0",
+   "content": {
+    "text": "Andalusia is one of Spain's poorest regions. Drug smugglers earn more here in one night than others do in a month. So-called TikTok Narcos – influencers who stage the smuggler's life as a big party – contribute to the popularity of the illegal business. Law enforcement officers must carry out increasingly dangerous operations and are simultaneously growing increasingly powerless."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rph38c0",
+   "content": {
+    "text": "The documentary delves deep into Andalusia's smuggling business. It follows customs officials, social workers, and an investigative journalist who wants to meet with one of the masterminds behind the drug gangs. It becomes clear that the rising crime in southern Spain is far more than a local problem. <a href=\"https://cdn.jwplayer.com/previews/oG1TG66w\">[Link to film]</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1705259"
+   }
+  },
+  "issueDate": "2026-08-25T00:00:00.000Z",
+  "title": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns ",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10020891",
+  "breadcrumbs": [
+   {
+    "name": "Video",
+    "path": "/video"
+   },
+   {
+    "name": "NZZ Format",
+    "path": "/video/format"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020891,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T06:27:18.502Z",
+  "publicationDate": "2026-08-25T06:27:18.502Z",
+  "publicationLastUpdated": "2026-08-25T06:27:18.502Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T18:27:18.502Z",
+  "teaserImage": {},
+  "url": "/video/format/ld.10020891",
+  "department": {
+   "name": "NZZ Format",
+   "path": "/video/format"
+  },
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/video/format/ld.10020891",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483246,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020891",
+    "name": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns ",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "Video",
+    "subCategory1": "NZZ Format",
+    "attributes": {
+     "headline": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns ",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T06:27:18.502Z",
+     "updateTimestamp": "2026-08-25T06:27:18.502Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020891",
+   "pageType": "newsletter",
+   "primaryCategory": "Video",
+   "subCategory1": "NZZ Format",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns, NZZ Format, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T10:27:18+02:00",
+  "date": "2026-08-25T10:27:18+02:00",
+  "canonical": "https://www.nzz.ch/video/format/ld.10020891",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns ",
+  "ogTitle": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns | NZZ",
+  "ogUrl": "https://www.nzz.ch/video/format/ld.10020891",
+  "mrf:cms_id": "nzz:ld.10020891",
+  "mrf:sections": "Video;NZZ Format",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020891",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/video/format/ld.10020891"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:24 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/video",
+      "name": "Video"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/video/format",
+      "name": "NZZ Format"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns "
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/video/format/ld.10020891"
+   },
+   "headline": "Europe's new cocaine front – how drug gangs are infiltrating Spain's coastal towns | NZZ",
+   "datePublished": "2026-08-25T10:27:18+02:00",
+   "dateModified": "2026-08-25T10:27:18+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "NZZ Format",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/video/format/ld.10020891",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020891",
+    "channel=Video"
+   ],
+   "ContentCreated": "2026-08-25T06:27:18.502Z",
+   "ContentSection": "Video",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020891",
+   "channel": "Video",
+   "subChannel": "NZZ Format",
+   "heading": "Europas neue Kokain-Front – wie Drogenbanden Spaniens Küstenorte unterwandern ",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

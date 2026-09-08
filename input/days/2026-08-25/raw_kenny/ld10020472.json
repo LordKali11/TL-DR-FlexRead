@@ -1,0 +1,1912 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0gt73fj1",
+   "content": {
+    "title": "Tesla pushes into the robotaxi market with Cybercabs lacking steering wheels and pedals",
+    "lead": "America approaches a driverless future: Tesla's new Cybercabs could transport passengers through Austin as early as August. The company is pursuing a different strategy than its competitors.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0gt73fk0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Marie-Astrid Langer, San Francisco",
+       "url": "/impressum/marie-astrid-langer-ld.665515",
+       "teaserImage": {
+        "originalUrl": "/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 1200,
+        "height": 1200,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 1200,
+         "height": 1200
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pp71sr1",
+   "content": {
+    "image": {
+     "author": "Zuma / Press Wire / Imago",
+     "caption": "Tesla presented the Cybercab without a steering wheel and pedals two years ago.",
+     "originalUrl": "/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?crop=1693,1015,x0,y0",
+     "width": 1693,
+     "height": 1015,
+     "altText": "USA, Tesla presents announced Robotaxi October 11, 2024 - USA - Robotaxi: unveiled its long-awaited robotaxi at a Hollywood studio, although fans of the electric vehicle maker will have to wait until at least 2026 before it's available. CEO Elon Musk pulled up to a stage at the Warner Bros. studio lot in one of the company's Cybercabs, telling the crowd the sleek, AI-powered vehicles don't have steering wheels or pedals. He also expressed confidence in the progress the company has made on autonomous driving technology that makes it possible for vehicles to drive without human intervention USA - ZUMAz03_ 20241011_shm_z03_922 Copyright: xTeslax",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180201437"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1693,
+      "height": 1015,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1693,
+       "height": 1015,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Tesla presented the Cybercab without a steering wheel and pedals two years ago.",
+    "author": "Zuma / Press Wire / Imago"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "U1d395Ou44G1": {
+       "start": 19,
+       "end": 28,
+       "text": "the cars"
+      }
+     }
+    }
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fm2",
+   "content": {
+    "text": "In the U.S., <a href=\"https://www.nzz.ch/mobilitaet/sieht-so-die-zukunft-der-mobilitaet-aus-in-las-vegas-fahren-autos-ohne-lenkrad-und-pedale-ein-selbstversuch-ld.1911430\">another vehicle without a steering wheel or pedals</a> will soon be on the road: Tesla plans to launch its new Cybercabs in Austin as early as August. The tech portal <a href=\"https://www.theinformation.com/articles/tesla-readies-august-launch-cybercab-robotaxi-without-steering-wheel?rc=kb7yhs\">«The Information»</a> recently reported this, citing Tesla employees. The Cybercabs are Tesla's first vehicles designed from the ground up as robotaxis: the two-seaters have no steering wheel and no pedals. Instead, passengers look at a large screen and have ample legroom. The vehicle drives autonomously."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-be929a0d",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0gtj56l0",
+   "content": {
+    "image": {
+     "author": "Gonzalo Fuentes / File Photo / Reuters",
+     "caption": "Tesla CEO Elon Musk aims to increasingly focus on autonomous driving in the future.",
+     "originalUrl": "/2025/08/04/4b881f3f-f708-47ba-a741-3da9a60adf3e.jpg?crop=5500,3667,x0,y0",
+     "width": 5500,
+     "height": 3667,
+     "altText": "FILE PHOTO: FILE PHOTO: Elon Musk, Chief Executive Officer of SpaceX and Tesla and owner of Twitter, gestures as he attends the Viva Technology conference dedicated to innovation and startups at the Porte de Versailles exhibition center in Paris, France, June 16, 2023. REUTERS/Gonzalo Fuentes/File Photo/File Photo",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3667,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3667,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Tesla CEO Elon Musk aims to increasingly focus on autonomous driving in the future.",
+    "author": "Gonzalo Fuentes / File Photo / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fm6",
+   "content": {
+    "text": "The Cybercabs are Tesla's first self-driving cars without a steering wheel or pedals. They play a key role in CEO Elon Musk's plan for Tesla to take a dominant position in the robotaxi market. He sees autonomous driving and AI as central building blocks for the company's future. Musk first presented the new vehicles to the public about two years ago at a robotaxi event at Warner Film Studios <a href=\"https://www.nzz.ch/mobilitaet/tesla-lanciert-seine-fahrerlosen-taxis-mit-ziemlich-viel-menschlicher-unterstuetzung-ld.1889808\">in Los Angeles</a>. Series production began in April."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0quf3u90",
+   "content": {
+    "text": "Meanwhile, Tesla has already launched a robotaxi service in Florida and Texas, but it is based on the existing Tesla Model Y and the driver assistance program. The Cybercabs are the first robotaxis designed as such from the ground up."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fn1",
+   "content": {
+    "text": "Initially, the Cybercabs are intended to transport only company employees at the Austin headquarters, but soon also residents. Expansion into other cities is also planned. It is unknown whether Tesla has already received the license to charge for such a transport service. It is also unclear whether the new Cybercabs are meant to supplement or completely replace Tesla's existing robotaxi fleet in Austin."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0gt89fn3",
+   "content": {
+    "title": "Tesla's remote control of vehicles in emergencies",
+    "id": "subtitle-tesla-kann-die-fahrzeuge-im-notfall-von-einem-menschen-fernsteuern-lassen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fn5",
+   "content": {
+    "text": "Tesla has been operating a robotaxi service in Austin and other cities in Texas and Florida for several months. Both states regulate robotaxis very liberally. The vehicles in this service are all Model Ys, which cruise through the streets solely with Tesla's Autopilot software and without a driver. However, Tesla employees monitor the cars remotely and can take control in an emergency, like a remote-controlled toy car. For this purpose, the Model Ys were equipped with self-cleaning cameras, additional GPS sensors, and remote control technology."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fn7",
+   "content": {
+    "text": "Tesla also offers robotaxi services in San Francisco. However, the company still lacks the license for the cars to operate truly driverless there. This leads to the bizarre situation where a safety driver must always sit in the supposed robotaxi but is instructed not to talk to passengers, as several customers told the NZZ."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fn9",
+   "content": {
+    "text": "With the Cybercabs now introduced in Austin, remote operators can also control the vehicles from a distance in an emergency."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fo1",
+   "content": {
+    "text": "Tesla has apparently been testing the Cybercabs on Austin's streets for weeks: according to the website <a href=\"https://robotaxitracker.com/\">Robotaxi Tracker</a>, 54 Cybercabs in Austin have completed 170 trips without human intervention in the past two weeks. Tesla itself publishes no information about its robotaxi fleet. Cybercabs have also been repeatedly seen on public roads in other cities in Florida and Texas for months."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0gt89fo3",
+   "content": {
+    "title": "Market leader Waymo's nearly 4,000 robotaxis in the U.S.",
+    "id": "subtitle-der-marktf-hrer-waymo-hat-in-den-usa-knapp-4000-robotaxis"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fo5",
+   "content": {
+    "text": "Tesla is entering a market that, to date, is clearly dominated in the U.S. by Waymo, Alphabet's robotaxi division. Its robotaxis are already available for public use in eleven American cities. In Austin alone, the company operates 300 driverless vehicles. Across the entire U.S., there are almost 4,000 – up from just 700 a year and a half ago."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r0p36u0",
+   "content": {
+    "text": "Especially in Waymo's home state of California, the service is actively used by residents in the San Francisco Bay Area and Los Angeles. The responsible traffic authority recently expanded the areas where Waymo vehicles are allowed to operate. This means that 25 million Californians can now use their robotaxis."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0r1b4ud0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "f63f771c7480de5d616dc2b6c0a29010",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_f63f771c7480de5d616dc2b6c0a29010_qec5201fb826c4907a068dde82f797a96_container\"        data-q-item-id=\"f63f771c7480de5d616dc2b6c0a29010\"        data-q-request-id=\"66550a50ab0bbe37ea467220e371dcca6e246a49\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"f63f771c7480de5d616dc2b6c0a29010\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"f63f771c7480de5d616dc2b6c0a29010\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"66550a50ab0bbe37ea467220e371dcca6e246a49\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_f63f771c7480de5d616dc2b6c0a29010_qec5201fb826c4907a068dde82f797a96_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"f63f771c7480de5d616dc2b6c0a29010\",\"allowDownloadData\":false,\"title\":\"In California, Waymo robotaxis are already a part of everyday life\",\"subtitle\":\"Rides with Waymo driverless taxis in California, per month\",\"publication\":\"nzz\",\"acronym\":\"ful.\",\"data\":[[\"Month\",\"passengers\"],[\"2024-06\",\"188847\"],[\"2024-07\",\"250752\"],[\"2024-08\",\"312245\"],[\"2024-09\",\"354124\"],[\"2024-10\",\"453478\"],[\"2024-11\",\"503634\"],[\"2024-12\",\"541378\"],[\"2025-01\",\"550457\"],[\"2025-02\",\"559569\"],[\"2025-03\",\"708180\"],[\"2025-02\",\"559569\"],[\"2025-03\",\"708180\"],[\"2025-04\",\"776058\"],[\"2025-05\",\"875592\"],[\"2025-06\",\"583262\"],[\"2025-07\",\"778812\"],[\"2025-08\",\"880643\"],[\"2025-09\",\"1016546\"],[\"2025-10\",\"1217872\"],[\"2025-11\",\"1273473\"],[\"2025-12\",\"1257187\"],[\"2026-01\",\"1322645\"],[\"2026-02\",\"1220222\"],[\"2026-03\",\"1363067\"],[\"2026-04\",\"1416158\"],[\"2026-05\",\"1454991\"],[\"2026-06\",\"1348926\"]],\"sources\":[{\"text\":\"California Public Utilities Commission (CPU)\",\"link\":{\"url\":\"https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/quarterly-reporting\"}}],\"events\":[{\"type\":\"point\",\"label\":\"June 2025: Severe protests in LA, robotaxi services temporarily suspended\",\"date\":\"2025-06\"},{\"type\":\"point\",\"label\":\"The number of trips has stagnated since December, but according to the CPU, the trip distance is getting longer\",\"date\":\"2025-12\"}],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"updatedDate\":\"2026-08-24T15:35:13.174Z\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]},\"notes\":\"\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_f63f771c7480de5d616dc2b6c0a29010_qec5201fb826c4907a068dde82f797a96\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fo7",
+   "content": {
+    "text": "Unlike Tesla's Cybercabs, Waymo uses conventional vehicles from Jaguar and the Chinese manufacturer Zeekr and equips them with cameras and sensors. Pedals and steering wheels are still present. This approach is much cheaper than a vehicle designed from scratch."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fo9",
+   "content": {
+    "text": "Behind Waymo, Amazon's subsidiary Zoox is the second-largest player in the U.S. Similar to the Cybercabs, Zoox's vehicles are also designed as robotaxis through and through; they have neither a steering wheel nor pedals and not even windshield wipers. The company currently operates a free ride service for the general public only in Las Vegas; the NZZ tested it last fall."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "jw"
+  },
+  {
+   "identifier": "jw",
+   "id": "doc-1k0hsbt1p0",
+   "content": {
+    "jw": {
+     "service": "jw",
+     "params": {
+      "mediaid": "cY97zj9I",
+      "property": "YuwAxPaT",
+      "posterImage": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=720",
+      "title": "Robotaxis without a steering wheel: Autonomous driving on the Las Vegas Strip",
+      "versions": [
+       {
+        "key": "mediaid"
+       }
+      ]
+     },
+     "resolvedValue": {
+      "html": "\n    <div style=\"position: relative; padding-bottom: 56.25%\">\n      <iframe\n      src=\"https://cdn.jwplayer.com/previews/cY97zj9I\"\n      width=\"100%\"\n      height=\"100%\"\n      frameborder=\"0\"\n      style=\"position: absolute; top: 0; left: 0; width: 100%;\"\n      ></iframe>\n    </div>\n  "
+     }
+    },
+    "article": {
+     "content": {
+      "mediaid": {
+       "title": "Robotaxi ohne Lenkrad: Autonomes Fahren am Las Vegas Strip",
+       "description": "In Las Vegas fahren bereits vollständig autonome Robotaxis von Zoox, einer Amazon-Tochter, öffentlich über den Strip. Bei Touristen kommen die fahrerlosen Autos gut an. Die USA-Korrespondentin der NZZ hat die Fahrt selbst ausprobiert. Zoox will das Angebot in Las Vegas ausweiten und bereitet parallel den Start in weiteren US-Städten vor.",
+       "kind": "Single Item",
+       "siteid": "YuwAxPaT",
+       "playlist": [
+        {
+         "title": "Robotaxi ohne Lenkrad: Autonomes Fahren am Las Vegas Strip",
+         "mediaid": "cY97zj9I",
+         "link": "https://cdn.jwplayer.com/previews/cY97zj9I",
+         "image": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=720",
+         "images": [
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=320",
+           "width": 320,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=480",
+           "width": 480,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=640",
+           "width": 640,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=720",
+           "width": 720,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=1280",
+           "width": 1280,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=1920",
+           "width": 1920,
+           "type": "image/jpeg"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.mp4?width=320",
+           "width": 320,
+           "type": "video/mp4"
+          },
+          {
+           "src": "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.mp4?width=640",
+           "width": 640,
+           "type": "video/mp4"
+          }
+         ],
+         "siteid": "YuwAxPaT",
+         "duration": 240,
+         "content_source_type": "file",
+         "pubdate": 1768213777,
+         "updated": 1768220768,
+         "description": "In Las Vegas fahren bereits vollständig autonome Robotaxis von Zoox, einer Amazon-Tochter, öffentlich über den Strip. Bei Touristen kommen die fahrerlosen Autos gut an. Die USA-Korrespondentin der NZZ hat die Fahrt selbst ausprobiert. Zoox will das Angebot in Las Vegas ausweiten und bereitet parallel den Start in weiteren US-Städten vor.",
+         "sources": [
+          {
+           "file": "https://cdn.jwplayer.com/manifests/cY97zj9I.m3u8",
+           "type": "application/vnd.apple.mpegurl"
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/cY97zj9I-aSRX9V0s.mp4",
+           "type": "video/mp4",
+           "height": 1080,
+           "width": 1920,
+           "label": "1080p",
+           "bitrate": 4354645,
+           "filesize": 130639362,
+           "framerate": 30
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/cY97zj9I-EhTDc4s5.mp4",
+           "type": "video/mp4",
+           "height": 720,
+           "width": 1280,
+           "label": "720p",
+           "bitrate": 2008290,
+           "filesize": 60248707,
+           "framerate": 30
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/cY97zj9I-J4ijmxxU.mp4",
+           "type": "video/mp4",
+           "height": 406,
+           "width": 720,
+           "label": "406p",
+           "bitrate": 848103,
+           "filesize": 25443091,
+           "framerate": 30
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/cY97zj9I-kcn04Bnj.mp4",
+           "type": "video/mp4",
+           "height": 270,
+           "width": 480,
+           "label": "270p",
+           "bitrate": 624204,
+           "filesize": 18726148,
+           "framerate": 30
+          },
+          {
+           "file": "https://cdn.jwplayer.com/videos/cY97zj9I-ZberQI1f.mp4",
+           "type": "video/mp4",
+           "height": 180,
+           "width": 320,
+           "label": "180p",
+           "bitrate": 416591,
+           "filesize": 12497737,
+           "framerate": 30
+          }
+         ],
+         "tracks": [
+          {
+           "file": "https://cdn.jwplayer.com/tracks/dXyIwrlY.srt",
+           "kind": "captions",
+           "label": "Deutsch"
+          },
+          {
+           "file": "https://cdn.jwplayer.com/strips/cY97zj9I-120.vtt",
+           "kind": "thumbnails"
+          }
+         ],
+         "variations": {},
+         "articled": "id.1911430",
+         "author": "Marie-Astrid Langer, Oskar Kveton",
+         "transcript": "1\r\n00:00:00,000 --> 00:00:01,966\r\nEin Auto ohne Lenkrad und Pedale.\r\n\r\n2\r\n00:00:01,966 --> 00:00:04,600\r\nSolche vollständig autonomen Robotaxis fahren\r\n\r\n3\r\n00:00:04,600 --> 00:00:06,000\r\naktuell durch Las Vegas.\r\n\r\n4\r\n00:00:06,000 --> 00:00:08,266\r\nIch bin hier auf dem Strip in Las Vegas\r\n\r\n5\r\n00:00:08,266 --> 00:00:10,333\r\nund es ist der erste Ort in den USA,\r\n\r\n6\r\n00:00:10,333 --> 00:00:11,800\r\nwo man solche Robotaxis,\r\n\r\n7\r\n00:00:11,800 --> 00:00:13,666\r\nwie sie gerade hinter mir vorfahren,\r\n\r\n8\r\n00:00:13,666 --> 00:00:14,900\r\nöffentlich nutzen kann.\r\n\r\n9\r\n00:00:14,900 --> 00:00:18,000\r\nZoox heisst der Anbieter, es ist eine Amazon-Tochter.\r\n\r\n10\r\n00:00:18,000 --> 00:00:19,900\r\nUnd je nachdem, wie das in Las Vegas\r\n\r\n11\r\n00:00:19,900 --> 00:00:22,033\r\nangenommen wird, will Zoox diesen Dienst\r\n\r\n12\r\n00:00:22,033 --> 00:00:24,000\r\nin den ganzen USA einführen.\r\n\r\n13\r\n00:00:24,000 --> 00:00:26,833\r\nIn der Fahrgastkabine finden bis zu vier Menschen Platz.\r\n\r\n14\r\n00:00:26,833 --> 00:00:28,866\r\nJeder Passagier hat einen eigenen Screen\r\n\r\n15\r\n00:00:28,866 --> 00:00:31,733\r\nfür Musik, Temperatur und zum Öffnen der Türen.\r\n\r\n16\r\n00:00:31,733 --> 00:00:34,233\r\nBei Touristen sind die Robotaxis äusserst beliebt.\r\n\r\n17\r\n00:00:34,233 --> 00:00:38,033\r\nIch habe ein Video auf Tiktok darüber gesehen. \r\n\r\n18\r\n00:00:38,033 --> 00:00:40,833\r\nAlso haben wir beschlossen es auszuprobieren.\r\n\r\n19\r\n00:00:40,833 --> 00:00:44,600\r\nEs wird bestimmt cool und auch sicher.\r\n\r\n20\r\n00:00:44,600 --> 00:00:46,433\r\nDie Passagiere, die ich interviewt habe,\r\n\r\n21\r\n00:00:46,433 --> 00:00:49,866\r\nkamen nicht extra nach Las Vegas, nur um die Robotaxis zu testen.\r\n\r\n22\r\n00:00:49,866 --> 00:00:53,300\r\nAber sie nahmen die Zoox auf die Liste von Sightseeings,\r\n\r\n23\r\n00:00:53,300 --> 00:00:56,866\r\ndie sie unbedingt in Las Vegas sehen und ausprobieren wollten.\r\n\r\n24\r\n00:00:56,866 --> 00:01:00,966\r\nEgal wann ich geschaut habe, die Warteschlange für Zoox war jedes Mal richtig lang.\r\n\r\n25\r\n00:01:00,966 --> 00:01:03,500\r\nViele Gäste kamen auch schnell auf den Geschmack\r\n\r\n26\r\n00:01:03,500 --> 00:01:06,800\r\nund nutzten die Zoox dann bald als reguläres Transportmittel.\r\n\r\n27\r\n00:01:06,800 --> 00:01:11,566\r\nWohl auch, weil die Fahrzeuge derzeit in der ersten Phase noch gratis zu benutzen sind.\r\n\r\n28\r\n00:01:11,566 --> 00:01:15,400\r\nIrgendwann sollen sie dann so viel kosten wie ein Uber oder ein normales Taxi.\r\n\r\n29\r\n00:01:15,400 --> 00:01:19,100\r\nMehrere Gäste haben mir gesagt, dass sie es wirklich schade finden,\r\n\r\n30\r\n00:01:19,100 --> 00:01:22,500\r\ndass es die Robotaxis derzeit nur in Las Vegas gibt.\r\n\r\n31\r\n00:01:22,566 --> 00:01:24,866\r\nIch konnte die Sitzheitzung an meinem Sitz anmachen \r\n\r\n32\r\n00:01:24,866 --> 00:01:27,166\r\nund er konnte bei sich die Klimaanlage anmachen.\r\n\r\n33\r\n00:01:27,166 --> 00:01:29,433\r\nDas war super, weil mir ist immer kalt.\r\n\r\n34\r\n00:01:29,466 --> 00:01:35,100\r\nIch war etwas nervös, weil es keinen Fahrer gibt, aber nervös auf eine gute Art.\r\n\r\n35\r\n00:01:35,100 --> 00:01:38,200\r\nAuch ich habe die autonomen Taxis getestet.\r\n\r\n36\r\n00:01:38,200 --> 00:01:40,633\r\nWie man sieht, bin ich allein im Auto.\r\n\r\n37\r\n00:01:40,633 --> 00:01:46,000\r\nEs gibt keinen Fahrer. Es gibt kein Lenkrad. Es gibt keine Pedale.\r\n\r\n38\r\n00:01:46,000 --> 00:01:48,533\r\nDafür gibt es ganz viel Technologie.\r\n\r\n39\r\n00:01:48,533 --> 00:01:50,133\r\nUnd wir werden jetzt gleich mal sehen,\r\n\r\n40\r\n00:01:50,133 --> 00:01:54,033\r\nob die Technologie mich sicher den Las Vegas Strip entlang bringt.\r\n\r\n41\r\n00:01:56,533 --> 00:01:58,866\r\nSchon etwas verrückt, in einem Auto zu sitzen,\r\n\r\n42\r\n00:01:58,866 --> 00:02:01,166\r\nin dem es kein Lenkrad und keine Pedale gibt.\r\n\r\n43\r\n00:02:01,166 --> 00:02:04,166\r\nSelbst wenn man wollte, könnte man gar nicht intervenieren, wenn man müsste.\r\n\r\n44\r\n00:02:04,166 --> 00:02:07,466\r\nAber bisher fühlt sich die Fahrt in diesem Zoox-Mobil\r\n\r\n45\r\n00:02:07,466 --> 00:02:08,633\r\neigentlich recht\r\n\r\n46\r\n00:02:08,633 --> 00:02:10,466\r\ngut an, recht komfortabel.\r\n\r\n47\r\n00:02:10,466 --> 00:02:14,566\r\nDie Zoox-Fahrzeuge können bis zu 120 Stundenkilometer schnell fahren.\r\n\r\n48\r\n00:02:14,566 --> 00:02:19,066\r\nIn Las Vegas sind sie aber derzeit auf maximal 72 km/h gedrosselt.\r\n\r\n49\r\n00:02:19,066 --> 00:02:24,400\r\nDerzeit fahren die Robotaxis nur an fünf ausgewählte Orte entlang des Las Vegas Strip:\r\n\r\n50\r\n00:02:24,400 --> 00:02:27,300\r\nKonzertstätten, Casinos, Hotels.\r\n\r\n51\r\n00:02:27,300 --> 00:02:31,900\r\nSo kann man beispielsweise vom Hotel Luxor im Süden zur Resorts World im Norden\r\n\r\n52\r\n00:02:31,900 --> 00:02:34,466\r\neinmal über den berühmten Las Vegas Boulevard fahren.\r\n\r\n53\r\n00:02:34,466 --> 00:02:39,100\r\nUnd bald soll es dann so sein, dass die Taxis wirklich überall in Las Vegas fahren können.\r\n\r\n54\r\n00:02:39,600 --> 00:02:43,233\r\nParallel bereitet das Unternehmen bereits den Sprung in andere US-Städte vor.\r\n\r\n55\r\n00:02:43,233 --> 00:02:48,800\r\nSan Francisco, Austin, Atlanta, Los Angeles, Miami, Seattle und Washington D.C.\r\n\r\n56\r\n00:02:48,800 --> 00:02:52,400\r\nÜberall vermessen Zoox-Fahrzeuge die Strassen mit Sensoren und Kameras.\r\n\r\n57\r\n00:02:52,400 --> 00:02:54,200\r\nSo wie hier in San Francisco.\r\n\r\n58\r\n00:02:54,200 --> 00:02:57,200\r\nDiese Daten sind der Rohstoff für autonomes Fahren.\r\n\r\n59\r\n00:02:57,333 --> 00:03:00,533\r\nMan muss sich das Ganze vorstellen wie in der Uber-App zum Beispiel.\r\n\r\n60\r\n00:03:00,533 --> 00:03:05,233\r\nDort kann man das Auto bestellen, sieht, wann es ankommt, und kann es über die App auch öffnen.\r\n\r\n61\r\n00:03:05,233 --> 00:03:09,366\r\nMeine Fahrten mit den Zoox verliefen eigentlich ganz unspektakulär,\r\n\r\n62\r\n00:03:09,366 --> 00:03:12,566\r\nso dass ich schnell vergessen habe, dass es gar keinen Fahrer gibt,\r\n\r\n63\r\n00:03:12,566 --> 00:03:15,666\r\nsondern dass mich gerade ein Roboter über den Strip transportiert.\r\n\r\n64\r\n00:03:15,666 --> 00:03:20,300\r\nBis auf bei Stoppschildern. Manchmal hat das Fahrzeug da so abrupt gebremst,\r\n\r\n65\r\n00:03:20,300 --> 00:03:23,566\r\ndass es mich richtig in den Anschnallgurt gepresst hat.\r\n\r\n66\r\n00:03:23,566 --> 00:03:28,400\r\nUnd sollte doch irgendwas passieren, dass man dringend Hilfe benötigt oder abrupt anhalten muss,\r\n\r\n67\r\n00:03:28,400 --> 00:03:32,966\r\ndann gibt es an der Decke von den Zoox-Fahrzeugen einen Notfallknopf und wenn man den drückt,\r\n\r\n68\r\n00:03:32,966 --> 00:03:35,566\r\nwird man direkt mit dem Zoox-Hilfsdienst verbunden.\r\n\r\n69\r\n00:03:35,700 --> 00:03:39,166\r\nAls Amazon-Tochter hat Zoox einen finanzstarken Rückhalt.\r\n\r\n70\r\n00:03:39,166 --> 00:03:43,233\r\nDas hilft im teuren und vor allem umkämpften Markt für selbstfahrende Autos.\r\n\r\n71\r\n00:03:43,233 --> 00:03:48,166\r\nEs sind auch andere Anwendungen für die Technik denkbar, zum Beispiel in Amazons Versandlogistik.\r\n\r\n72\r\n00:03:48,166 --> 00:03:52,166\r\nVon den Testfahrten der Robotaxis in Las Vegas zeigt sich das Unternehmen überzeugt.\r\n\r\n73\r\n00:03:52,166 --> 00:03:58,866\r\nWenn man Zoox Glauben schenkt, dann werden wir alle bald von solchen Robotaxis transportiert.\r\n"
+        }
+       ],
+       "feed_instance_id": "fd89cb05-bd1c-4c67-bf42-b63eef1e7fbc",
+       "playerId": "ZMULDsT4",
+       "intl": {
+        "de": {
+         "advertising": {
+          "skiptext": "Überspringen"
+         }
+        }
+       }
+      }
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gtochf1",
+   "content": {
+    "text": "In San Francisco, Zoox vehicles are already cruising the streets, but so far they are reserved for friends and family of company employees and selected test drivers. Zoox also has expansion plans: in Miami, Austin, Dallas, and Phoenix, the company is already mapping the road network with cameras and sensors so that robotaxis can navigate driverlessly in these cities too."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "jw",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0gt89fp0",
+   "content": {
+    "title": "Technological differences in Tesla's robotaxis",
+    "id": "subtitle-technologisch-unterscheiden-sich-teslas-robotaxis-von-der-konkurrenz"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fo11",
+   "content": {
+    "text": "From a regulatory perspective, the requirements for robotaxis in the U.S. are loosening; President Donald Trump is <a href=\"https://www.axios.com/2026/07/01/autonomous-regulations-self-driving-trump\">known to be a big fan of the technology</a>. For example, the American regulatory authority National Highway Traffic Safety Administration recently granted Zoox a license for a paid taxi service. In Las Vegas, Zoox will now charge for its services."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ok95c90",
+   "content": {
+    "text": "Technologically, the approaches of Tesla and Waymo and Zoox differ. Musk relies entirely on neural networks: his artificial intelligence driver assistance program (Full Self-Driving, FSD) was trained with video footage millions of Tesla drivers record daily in traffic."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0okelru1",
+   "content": {
+    "text": "Based on this database, Tesla's autonomous driving program attempts to mimic human behavior by evaluating real-time camera and sensor data using neural networks. In this way, Tesla's driver assistance program can also operate in areas that have not yet been meticulously mapped."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0olasm50",
+   "content": {
+    "image": {
+     "author": "Carlos Barria / File Photo / Reuters",
+     "caption": "Zoox vehicles operate without a steering wheel or pedals – but only in regions that have been extensively mapped beforehand.",
+     "originalUrl": "/2025/02/18/e83e010d-2e83-4f81-92c2-e4b1601333e0.jpeg?crop=5000,3333,x0,y0",
+     "width": 5000,
+     "height": 3333,
+     "altText": "FILE PHOTO: Zoox, a self-driving vehicle owned by Amazon, is seen at the company's factory in Fremont, California, US July 19, 2022. REUTERS/Carlos Barria/File Photo",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5000,
+      "height": 3333,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5000,
+       "height": 3333,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Zoox vehicles operate without a steering wheel or pedals – but only in regions that have been extensively mapped beforehand.",
+    "author": "Carlos Barria / File Photo / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0okef3k0",
+   "content": {
+    "text": "Zoox and Waymo, on the other hand, operate only in regions that have been precisely mapped in 3D beforehand using cameras, radars and lidar sensors (geofencing). On the road, the robotaxis constantly compare what they register in real time with the available map data. From this perspective, Tesla's approach is, first, cheaper per vehicle and, second, faster to scale – once the company successfully enters the market. Waymo currently maintains its market dominance with years of experience."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0okipfr0",
+   "content": {
+    "title": "Robotaxis and San Francisco traffic congestion",
+    "id": "subtitle-robotaxis-verstopfen-den-verkehr-in-san-francisco"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fp2",
+   "content": {
+    "text": "However, robotaxis have repeatedly made negative headlines in recent months. When a major power outage occurred in San Francisco in December and several traffic lights stopped working, the Waymo vehicles <a href=\"https://abc7news.com/post/san-francisco-leaders-press-waymo-stalled-robotaxis-during-december-power-outage/18669520/\">simply stopped at intersections</a> and caused traffic chaos."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0gu3h3i0",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 177.78% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"405\" height=\"720\" src=\"https://www.youtube.com/embed/Ouz_q1L75_w?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Waymo pauses service in San Francisco as power outage hits city\"></iframe>\n      </div>",
+     "caption": "Nach einem schweren Sturm fiel der Strom in San Francisco aus, Ampeln funktionierten nicht mehr – und die Robotaxis blieben einfach auf den Kreuzungen stehen.",
+     "url": "https://www.youtube.com/shorts/Ouz_q1L75_w"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gu259a1",
+   "content": {
+    "text": "At street festivals with many pedestrians, the vehicles repeatedly reach their limits, causing chaotic scenes. This was the case, for example, after the fireworks shows <a href=\"https://abc7news.com/post/waymo-fleet-clogs-presidio-july-4-fireworks-leaving-vehicles-stranded-towed/19455862/\">in San Francisco</a> on the national holiday on July 4."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fp4",
+   "content": {
+    "text": "Philip Koopman, an emeritus professor of autonomous vehicles at Carnegie Mellon University, recently <a href=\"https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html\">told the «New York Times»</a> that the technology cannot cope with new situations. «And when the cars are in an unfamiliar situation, they tend to be overconfident and make spectacularly dumb failures,» he added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fp6",
+   "content": {
+    "text": "Waymo has recalled all vehicles for a software update three times since December. Robotaxis apparently also have problems with parking spaces: Waymo vehicles in Austin alone have received <a href=\"https://www.wsj.com/business/autos/waymo-is-racking-up-thousands-of-dollars-of-parking-fines-in-austin-d41483f5\">parking tickets worth more than $9,000</a> since 2024, the «Wall Street Journal» found – partly because the cars parked in disabled parking spaces. According to Waymo, these fines are paid like those of any other road user."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0gt89fp8",
+   "content": {
+    "text": "To counter criticism of the existing problems, Waymo points out that its robotaxis are significantly safer than human drivers. In fact, an independent study by the Insurance Institute for Highway Safety concluded that the vehicles are involved in fewer accidents per mile on average than humans."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r0suiq1",
+   "content": {
+    "text": "With more than 50 million miles of driverless operation in Phoenix, San Francisco, Los Angeles, and Austin, Waymo's accident involvement was 68% lower than that of human drivers, according to these figures."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r0t0980",
+   "content": {
+    "text": "Directly comparable figures for Tesla's previous robotaxis are not available, as statistics include vehicles with human safety drivers. It is clear: the bar for the Cybercabs is high."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0gt73fl2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0gt73fl3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0gt73fl4",
+      "content": {
+       "owner": "NZZ",
+       "title": "Is this what the future of mobility looks like? In Las Vegas, cars drive without steering wheels or pedals. A personal experiment.",
+       "teaserImage": {
+        "originalUrl": "/2025/11/17/7731faf3-55e5-49e6-9f17-26152b515e64.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/17/7731faf3-55e5-49e6-9f17-26152b515e64.jpg?width=1024&quality=75&auto=webp",
+        "width": 1920,
+        "height": 1080,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1517,853,x51,y218"
+         },
+         {
+          "name": "1:1",
+          "crop": "853,853,x362,y201"
+         },
+         {
+          "name": "4:3",
+          "crop": "1440,1080,x94,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "810,1080,x375,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1440,960,x161,y120"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Driverless cars are now zipping through Las Vegas. They no longer need a steering wheel, pedals, or windshield wipers. Anyone can use them.",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1911430",
+       "embeds": {
+        "videos": [
+         {
+          "id": "KKKop8hq",
+          "provider": "jw",
+          "teaser": true
+         },
+         {
+          "id": "rduTv6xs",
+          "provider": "jw",
+          "teaser": false
+         },
+         {
+          "id": "wyl1DK4d",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "readingTime": 420,
+       "authorLine": "Marie-Astrid Langer, Las Vegas",
+       "videoTeaser": "KKKop8hq",
+       "tags": [
+        "Autonomes Fahren"
+       ],
+       "characterCount": 8513,
+       "product": "NZZ.ch",
+       "documentId": 1911430,
+       "layout": "regular",
+       "publicationDate": "2025-11-24T08:43:23.429Z",
+       "publicationLastUpdated": "2026-05-28T09:55:49.187Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-11-24T20:43:23.429Z",
+       "teaserCaption": "Driverless cars are now zipping through Las Vegas. They no longer need a steering wheel, pedals, or windshield wipers. Anyone can use them.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024",
+        "imageService": "fastly",
+        "width": 1200,
+        "height": 1200,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/mobilitaet/sieht-so-die-zukunft-der-mobilitaet-aus-in-las-vegas-fahren-autos-ohne-lenkrad-und-pedale-ein-selbstversuch-ld.1911430",
+       "department": {
+        "name": "Mobility",
+        "path": "/mobilitaet"
+       },
+       "estimationWordCount": 1358,
+       "leadText": "Driverless cars are now zipping through Las Vegas. They no longer need a steering wheel, pedals, or windshield wipers. Anyone can use them.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0gt73fl5",
+      "content": {
+       "title": "Google's chauffeur service is launching: Robotaxi company Waymo is establishing a Swiss branch",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/05/847aed97-b4b4-4ea3-bc0a-6dfa56c94a86.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/05/847aed97-b4b4-4ea3-bc0a-6dfa56c94a86.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y313"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x333,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1500,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Google's sister company Waymo has registered in the commercial register. A duel with Uber for dominance in the autonomous taxi market is looming on Swiss roads.",
+        "teaserAuthor": "Mike Blake / REUTERS"
+       },
+       "teaserAuthor": "Mike Blake / REUTERS",
+       "nzzasFootnote": true,
+       "nzzId": "ld.10018346",
+       "readingTime": 300,
+       "paywallQuestionOne": "Why is Waymo establishing a branch in Switzerland?",
+       "paywallQuestionTwo": "What regulatory hurdles exist for robotaxis in Switzerland?",
+       "paywallQuestionThree": "How are Waymo and Uber positioning themselves in the Swiss robotaxi market?",
+       "characterCount": 6825,
+       "product": "NZZ.ch",
+       "documentId": 10018346,
+       "layout": "regular",
+       "publicationDate": "2026-08-08T19:45:00.000Z",
+       "publicationLastUpdated": "2026-08-08T19:45:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-09T07:45:00.000Z",
+       "teaserCaption": "Google's sister company Waymo has registered in the commercial register. A duel with Uber for dominance in the autonomous taxi market is looming on Swiss roads.",
+       "authorLine": "Moritz Kaufmann",
+       "authorImage": {
+        "originalUrl": "/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/chauffeur-google-ist-am-start-robotaxi-firma-waymo-gruendet-eine-schweizer-niederlassung-ld.10018346",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 974,
+       "leadText": "Google's sister company Waymo has registered in the commercial register. A duel with Uber for dominance in the autonomous taxi market is looming on Swiss roads.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0gt73fl6",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Podcast «NZZ Quantum Leap»",
+       "title": "Self-driving cars were long just a promise. Now they are rolling through Switzerland",
+       "teaserImage": {
+        "originalUrl": "/2026/01/22/8df7a89e-2ed3-4763-8f34-53fed8bb2b9c.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/22/8df7a89e-2ed3-4763-8f34-53fed8bb2b9c.jpg?width=1024&quality=75&auto=webp",
+        "width": 1667,
+        "height": 625,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1111,625,x278,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "625,625,x521,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "833,625,x417,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "469,625,x599,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "938,625,x365,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Autonomous taxis will supplement public transport in the rural Furttal region within a few months. How does it work, how safe is it – and what's it like to ride in one?"
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1921250",
+       "readingTime": 240,
+       "showComments": true,
+       "authorLine": "Anna Weber",
+       "tags": {
+        "$ref": "documents",
+        "references": [
+         {
+          "id": "10003706"
+         }
+        ],
+        "isPreloaded": true,
+        "values": []
+       },
+       "characterCount": 4538,
+       "product": "NZZ.ch",
+       "documentId": 1921250,
+       "layout": "regular",
+       "publicationDate": "2026-01-23T04:30:00.000Z",
+       "publicationLastUpdated": "2026-04-22T07:17:26.240Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-01-23T16:30:00.000Z",
+       "teaserCaption": "Autonomous taxis will supplement public transport in the rural Furttal region within a few months. How does it work, how safe is it – and what's it like to ride in one?",
+       "authorImage": {
+        "originalUrl": "/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/podcast/autonomes-fahren-robotaxis-rollen-in-der-schweiz-ld.1921250",
+       "department": {
+        "name": "Podcast",
+        "path": "/podcast"
+       },
+       "estimationWordCount": 727,
+       "leadText": "Autonomous taxis will supplement public transport in the rural Furttal region within a few months. How does it work, how safe is it – and what's it like to ride in one?",
+       "nzzSummaryIsAuto": true,
+       "teaserPodcastTitle": "Autonomous driving: When the car no longer needs us",
+       "teaserPodcastAuthor": "Anna Weber und Herbie Schmidt",
+       "teaserPodcastDate": "23.01.2026",
+       "teaserPodcastUrl": "https://audio.podigee-cdn.net/2318331-m-f4cc14fab7329e549a1c9a522cb6bc1f.mp3",
+       "teaserPodcastDuration": "23 "
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Tesla is pushing into the robotaxis market: with cybercabs that have no steering wheel or pedals",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?width=1024&quality=75&auto=webp",
+   "width": 1693,
+   "height": 1015,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1693,952,x0,y63"
+    },
+    {
+     "name": "4:3",
+     "crop": "1353,1015,x158,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "923,923,x45,y46"
+    },
+    {
+     "name": "3:4",
+     "crop": "761,1015,x81,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "1523,1015,x121,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "America is approaching a driverless future: Tesla's new Cybercabs could be transporting passengers through Austin as early as August. The company is pursuing a different strategy than its competitors.",
+   "teaserAuthor": "Zuma / Press Wire / Imago"
+  },
+  "teaserAuthor": "Zuma / Press Wire / Imago",
+  "nzzId": "ld.10020472",
+  "readingTime": 420,
+  "embeds": {
+   "videos": [
+    {
+     "id": "j4DBV5AL",
+     "provider": "jw",
+     "teaser": true
+    },
+    {
+     "id": "cY97zj9I",
+     "provider": "jw",
+     "teaser": false
+    }
+   ]
+  },
+  "characterCount": 9149,
+  "tags": [
+   "Mobilität aktuell",
+   "E-Mobilität",
+   "Autonomes Fahren",
+   "Auto"
+  ],
+  "videoTeaser": "j4DBV5AL",
+  "breadcrumbs": [
+   {
+    "name": "Mobility",
+    "path": "/mobilitaet"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020472,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T12:03:16.944Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "America is approaching a driverless future: Tesla's new Cybercabs could be transporting passengers through Austin as early as August. The company is pursuing a different strategy than its competitors.",
+  "nzzAuthors": [
+   {
+    "id": 1373049,
+    "name": "Marie-Astrid Langer",
+    "shortName": "lma",
+    "pianoId": "95b73c77-9bc7-4baa-b96a-460316c785f8",
+    "external": false
+   }
+  ],
+  "authorLine": "Marie-Astrid Langer, San Francisco",
+  "authorImage": {
+   "originalUrl": "/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0",
+   "url": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp",
+   "width": 1200,
+   "height": 1200,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 0,
+    "y": 0,
+    "width": 1200,
+    "height": 1200
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 665515,
+    "name": "Marie-Astrid Langer, San Francisco",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/03/ce3939b2-019d-4572-9c01-35b10c9ec35a.jpeg?crop=1200,1200,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472",
+  "department": {
+   "name": "Mobility",
+   "path": "/mobilitaet"
+  },
+  "estimationWordCount": 1393,
+  "leadText": "America is approaching a driverless future: Tesla's new Cybercabs could be transporting passengers through Austin as early as August. The company is pursuing a different strategy than its competitors.",
+  "nzzSummaryEN": "- Tesla plans to launch its Cybercabs in Austin this August, fully autonomous vehicles without steering wheels or pedals.\n- These Cybercabs are Tesla's first vehicles specifically designed as robotaxis, highlighting Elon Musk's ambitions in the autonomous mobility market.\n- Waymo remains the leading provider in the U.S. with a large fleet and established services in eleven cities.",
+  "nzzSummaryDE": "- Tesla plans to launch its Cybercabs in Austin in August; these are fully autonomous vehicles without a steering wheel or pedals. - These Cybercabs are Tesla's first vehicles designed from the ground up as robotaxi vehicles and underscore Elon Musk's ambitions in the autonomous mobility market. - Waymo remains the leading provider in the US with a large fleet and established services in eleven cities.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Driverless through Austin: Tesla launches the era of Cybercabs",
+  "nzzPrintSubtitle": "America is approaching a driverless future: Tesla is pursuing a different strategy than its competitors.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472",
+   "title": "Now come the Cybercabs – Tesla is pushing into the robotaxis market",
+   "socialMediaTitle": "Now come the Cybercabs – Tesla is pushing into the robotaxis market",
+   "description": "America is approaching a driverless future: Tesla's new Cybercabs could be transporting passengers through Austin as early as August. And competitor Zoox has also now received a license to charge for its robotaxi services.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1693,952,x0,y63&wmark=nzz"
+  },
+  "ldPublicationId": 2483411,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Tesla",
+    "slug": "/themen/tesla"
+   },
+   {
+    "name": "Autonomous driving",
+    "slug": "/themen/autonomes-fahren"
+   },
+   {
+    "name": "Elon Musk",
+    "slug": "/themen/elon-musk"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Amazon",
+    "slug": "/themen/amazon"
+   },
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1911430",
+    "ld.10018346",
+    "ld.1921250"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 617592,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "tesla",
+   "name": "Tesla",
+   "tagName": "Tesla",
+   "qId": "Q478214",
+   "seoTitle": "Tesla – All articles about the company | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 16:15:10.241Z",
+   "imageURL": "https://img.nzz.ch/s=w1200,pd1/o=75/https://nzz-img.s3.amazonaws.com/2021/7/13/db5a48a9-4539-4907-a05d-ee47673994ab.jpeg",
+   "imageCroppedURL": "https://img.nzz.ch/c=w4276.59375,h1336.435546875,x13.40625,y498.1259765625/s=w1120,pd1/o=75/https://nzz-img.s3.amazonaws.com/2021/7/13/db5a48a9-4539-4907-a05d-ee47673994ab.jpeg",
+   "imageWidth": 1200,
+   "imageHeight": 800,
+   "imageCredits": "Carlo Allegri / Reuters",
+   "url": "https://nzz.ch/themen/tesla",
+   "size": 705,
+   "relatedTopics": [
+    {
+     "name": "Autonomes Fahren",
+     "slug": "/themen/autonomes-fahren"
+    },
+    {
+     "name": "Elon Musk",
+     "slug": "/themen/elon-musk"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Amazon",
+     "slug": "/themen/amazon"
+    },
+    {
+     "name": "Künstliche Intelligenz (KI)",
+     "slug": "/themen/kuenstliche-intelligenz-ki"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Why Chinese Cars Are Conquering the World",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/f978f4eb-79ef-4020-a28f-2e1e87e21773.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/f978f4eb-79ef-4020-a28f-2e1e87e21773.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3381,1902,x560,y549"
+      },
+      {
+       "name": "4:3",
+       "crop": "3005,2254,x747,y373"
+      },
+      {
+       "name": "1:1",
+       "crop": "2479,2479,x1010,y260"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3381,2254,x560,y373"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "They're cheap, they're good – and they're also on the roads in Switzerland and Germany: Chinese cars, especially those from BYD. Behind the company's success is a powerful husband-and-wife team."
+    },
+    "showComments": true,
+    "tags": [
+     "Mobilität aktuell",
+     "E-Mobilität",
+     "Auto"
+    ],
+    "editor": "1858673",
+    "nzzId": "ld.10018631",
+    "readingTime": 660,
+    "paywallQuestionOne": "How do subsidies influence the success of Chinese car brands?",
+    "paywallQuestionTwo": "Why are Chinese cars technologically advanced and cheaper?",
+    "paywallQuestionThree": "What challenges stand in the way of BYD's global success?",
+    "characterCount": 15944,
+    "product": "NZZ.ch",
+    "documentId": "10018631",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T05:33:42.817Z",
+    "publicationLastUpdated": "2026-09-03T09:35:37.101Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T17:33:42.817Z",
+    "teaserCaption": "They're cheap, they're good – and they're also on the roads in Switzerland and Germany: Chinese cars, especially those from BYD. Behind the company's success is a powerful husband-and-wife team.",
+    "authorLine": "Katrin Büchenbacher, Herbie Schmidt, Florian Seliger, Simon Tanner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/2587ad8c-3d93-4771-875c-edab77a7381c.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/mobilitaet/china-autos-in-der-schweiz-und-ueberall-warum-byd-etc-gerade-die-welt-erobern-ld.10018631",
+    "department": {
+     "name": "Mobility",
+     "path": "/mobilitaet"
+    },
+    "estimationWordCount": 2233,
+    "premium": true,
+    "leadText": "They're cheap, they're good – and they're also on the roads in Switzerland and Germany: Chinese cars, especially those from BYD. Behind the company's success is a powerful husband-and-wife team.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Economy: Inflation in Switzerland higher than expected +++ Novartis to cut up to 130 jobs in Basel",
+    "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Short news items",
+    "authorLine": "NZZ Newsroom",
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+    },
+    "nzzId": "ld.10020450",
+    "readingTime": 1020,
+    "paywallQuestionOne": "Why is Roche investing USD 750 million in a new plant in Hillsboro?",
+    "paywallQuestionTwo": "What role does the new facility play in Roche's drug pipeline?",
+    "paywallQuestionThree": "How is Roche supporting the expansion of its production capacities in the USA?",
+    "characterCount": 24423,
+    "product": "NZZ.ch",
+    "documentId": "10020450",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:00:05.234Z",
+    "publicationLastUpdated": "2026-09-03T07:25:57.392Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:00:05.234Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/wirtschaft/wirtschaft-roche-baut-produktion-in-den-usa-weiter-aus-ld.10020450",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 3370,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Sweden has been striking against Tesla for over two and a half years – but now even employees of the automotive giant are asking themselves: why?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/06/55154dbc-8634-4e70-86b1-71ab9d9d432a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/06/55154dbc-8634-4e70-86b1-71ab9d9d432a.jpg?width=1024&quality=75&auto=webp",
+     "width": 4440,
+     "height": 3108,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4440,2497,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4144,3108,x148,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2123,2123,x1743,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2331,3108,x1791,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4440,2960,x0,y74"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The postal service stopped delivering license plates, and dockworkers refused to unload Teslas. So far, the labor dispute has achieved nothing. Now, some union members are switching sides.",
+     "teaserAuthor": "Jessica Gow / EPA"
+    },
+    "teaserAuthor": "Jessica Gow / EPA",
+    "nzzId": "ld.10018291",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why has the strike against Tesla in Sweden been unsuccessful so far?",
+    "paywallQuestionTwo": "How will Tesla's stance affect collective bargaining agreements in Sweden in the long term?",
+    "paywallQuestionThree": "Why are union members turning away from IF Metall?",
+    "characterCount": 4934,
+    "product": "NZZ.ch",
+    "documentId": "10018291",
+    "layout": "regular",
+    "publicationDate": "2026-08-06T09:00:00.000Z",
+    "publicationLastUpdated": "2026-08-06T09:36:01.288Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-06T21:00:00.000Z",
+    "teaserCaption": "The postal service stopped delivering license plates, and dockworkers refused to unload Teslas. So far, the labor dispute has achieved nothing. Now, some union members are switching sides.",
+    "authorLine": "Linda Koponen, Helsinki",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/streik-gegen-tesla-in-schweden-warum-der-widerstand-scheitert-ld.10018291",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 749,
+    "leadText": "The postal service stopped delivering license plates, and dockworkers refused to unload Teslas. So far, the labor dispute has achieved nothing. Now, some union members are switching sides.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Business: Apple value exceeds five trillion dollars for the first time +++ Mercedes-Benz defies weak Chinese business with cost discipline",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "These are the latest reports",
+     "teaserAuthor": "Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Simon Tanner / NZZ",
+    "flag": "Short news items",
+    "nzzId": "ld.10013650",
+    "readingTime": 1860,
+    "paywallQuestionOne": "Why did the arbitration proceedings between Stoffel and GKB fail?",
+    "paywallQuestionTwo": "What accusations does Stoffel make against GKB and BZ Bank?",
+    "paywallQuestionThree": "How does Stoffel plan to enforce his demands for half a billion francs?",
+    "characterCount": 42825,
+    "product": "NZZ.ch",
+    "documentId": "10013650",
+    "layout": "regular",
+    "publicationDate": "2026-07-28T18:14:46.522Z",
+    "publicationLastUpdated": "2026-07-28T18:18:27.813Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-29T06:14:46.522Z",
+    "teaserCaption": "These are the latest reports",
+    "url": "https://www.nzz.ch/wirtschaft/wirtschaft-bei-porsche-fallen-5000-stellen-weg-paramount-setzt-uebernahme-von-warner-brothers-vorerst-aus-ld.10013650",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 6146,
+    "leadText": "These are the latest reports",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany: Ifo business climate improves again",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/124fcd49-6dae-4650-b6da-494ca844e68b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/124fcd49-6dae-4650-b6da-494ca844e68b.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "These are the latest reports",
+     "teaserAuthor": "Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Simon Tanner / NZZ",
+    "flag": "Short news items",
+    "nzzId": "ld.10016108",
+    "readingTime": 1080,
+    "paywallQuestionOne": "What caused the wrong-way driving incident on the A45 motorway in Hesse?",
+    "paywallQuestionTwo": "What is the condition of the injured children after the accident?",
+    "paywallQuestionThree": "What measures were taken to clarify the cause of the accident?",
+    "characterCount": 25479,
+    "product": "NZZ.ch",
+    "documentId": "10016108",
+    "layout": "regular",
+    "publicationDate": "2026-07-27T11:25:40.525Z",
+    "publicationLastUpdated": "2026-07-27T14:49:08.350Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-27T23:25:40.525Z",
+    "teaserCaption": "These are the latest reports",
+    "url": "https://www.nzz.ch/deutschland/politik/deutschland-die-neusten-meldungen-ld.10016108",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 3537,
+    "leadText": "These are the latest reports",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Tesla is finally selling more cars again, but its shares are plummeting on the stock market. Did Elon Musk miscalculate?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/24/936d9235-750e-41df-a523-408a47dd0944.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/24/936d9235-750e-41df-a523-408a47dd0944.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3472,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3105,1746,x995,y1173"
+      },
+      {
+       "name": "4:3",
+       "crop": "2874,2156,x1338,y827"
+      },
+      {
+       "name": "1:1",
+       "crop": "1782,1782,x2329,y939"
+      },
+      {
+       "name": "3:4",
+       "crop": "2604,3472,x1481,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5208,3472,x146,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Sales of Tesla's electric cars rose sharply in Europe and China in the first half of the year. In the EU, Musk's company and Chinese manufacturers benefited most from government purchase incentives. Meanwhile, speculation is rife in the markets about a merger between Tesla and SpaceX.",
+     "teaserAuthor": "Mario Anzuoni / Reuters"
+    },
+    "teaserAuthor": "Mario Anzuoni / Reuters",
+    "editor": "1842759",
+    "nzzId": "ld.10016829",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why did Tesla's stock plummet by 14 percent despite higher sales?",
+    "paywallQuestionTwo": "How do discounts and incentives affect Tesla's profits and market share?",
+    "paywallQuestionThree": "Could a merger between Tesla and SpaceX shape the future of the companies?",
+    "characterCount": 5335,
+    "product": "NZZ.ch",
+    "documentId": "10016829",
+    "layout": "regular",
+    "publicationDate": "2026-07-24T13:35:58.346Z",
+    "publicationLastUpdated": "2026-07-24T15:37:30.392Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-25T01:35:58.346Z",
+    "teaserCaption": "Sales of Tesla's electric cars rose sharply in Europe and China in the first half of the year. In the EU, Musk's company and Chinese manufacturers benefited most from government purchase incentives. Meanwhile, speculation is rife in the markets about a merger between Tesla and SpaceX.",
+    "authorLine": "Michael Rasch",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/5d4cbc9a-6dd6-47e9-a749-844afb0d53e2.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/tesla-verkauft-endlich-wieder-mehr-autos-doch-an-der-boerse-stuerzen-die-aktien-ab-hat-sich-elon-musk-verkalkuliert-ld.10016829",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 850,
+    "leadText": "Sales of Tesla's electric cars rose sharply in Europe and China in the first half of the year. In the EU, Musk's company and Chinese manufacturers benefited most from government purchase incentives. Meanwhile, speculation is rife in the markets about a merger between Tesla and SpaceX.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020472",
+    "name": "Tesla is pushing into the robotaxis market: with cybercabs that have no steering wheel or pedals",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Mobilität",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Tesla is pushing into the robotaxis market: with cybercabs that have no steering wheel or pedals",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373049,
+       "name": "Marie-Astrid Langer",
+       "shortName": "lma",
+       "pianoId": "95b73c77-9bc7-4baa-b96a-460316c785f8",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T12:03:16.944Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020472",
+   "pageType": "regular",
+   "primaryCategory": "Mobilität",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Now come the Cybercabs – Tesla is pushing into the robotaxis market",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1693,952,x0,y63&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Marie-Astrid Langer, San Francisco",
+  "description": "America is approaching a driverless future: Tesla's new Cybercabs could be transporting passengers through Austin as early as August. And competitor Zoox has also now received a license to charge for its robotaxi services.",
+  "news_keywords": "Tesla is pushing into the robotaxis market: with cybercabs without steering wheels or pedals, Mobility, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T16:03:16+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Tesla is pushing into the robotaxis market: with cybercabs that have no steering wheel or pedals",
+  "ogTitle": "Now come the Cybercabs – Tesla is pushing into the robotaxis market",
+  "ogUrl": "https://www.nzz.ch/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472",
+  "mrf:cms_id": "nzz:ld.10020472",
+  "mrf:sections": "Mobilität;WTM",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020472",
+  "nzzAuthors": [
+   {
+    "id": 1373049,
+    "name": "Marie-Astrid Langer",
+    "shortName": "lma",
+    "pianoId": "95b73c77-9bc7-4baa-b96a-460316c785f8",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:29 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/mobilitaet",
+      "name": "Mobility"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Now come the Cybercabs – Tesla is pushing into the robotaxis market"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472"
+   },
+   "headline": "Now come the Cybercabs – Tesla is pushing into the robotaxis market",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T16:03:16+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "America is approaching a driverless future: Tesla's new Cybercabs could be transporting passengers through Austin as early as August. And competitor Zoox has also now received a license to charge for its robotaxi services.",
+   "isAccessibleForFree": false,
+   "articleSection": "Mobilität",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/f066afc2-1d8c-496d-a2d2-3c291362b0d6.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1693,952,x0,y63&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Marie-Astrid Langer"
+    }
+   ],
+   "inLanguage": "de"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "VideoObject",
+   "@id": "https://www.nzz.ch/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472#id-doc-1k0hsbt1p0",
+   "description": "In Las Vegas, fully autonomous robotaxis from Zoox, an Amazon subsidiary, are already operating on the Strip. The driverless cars are proving popular with tourists. The NZZ's US correspondent tried a ride herself. Zoox plans to expand its service in Las Vegas and is simultaneously preparing to launch in other US cities.",
+   "contentUrl": "https://cdn.jwplayer.com/videos/cY97zj9I-aSRX9V0s.mp4",
+   "width": 1920,
+   "height": 1080,
+   "inLanguage": "de-CH",
+   "name": "Robotaxis without a steering wheel: Autonomous driving on the Las Vegas Strip",
+   "thumbnailUrl": [
+    "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=320",
+    "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=480",
+    "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=640",
+    "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=720",
+    "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=1280",
+    "https://cdn.jwplayer.com/v2/media/cY97zj9I/poster.jpg?width=1920"
+   ],
+   "uploadDate": "2026-01-12T10:29:37.000Z",
+   "transcript": "00:00:00,000 --> 00:00:01,966 Ein Auto ohne Lenkrad und Pedale. 2 00:00:01,966 --> 00:00:04,600 Solche vollständig autonomen Robotaxis fahren 3 00:00:04,600 --> 00:00:06,000 aktuell durch Las Vegas. 4 00:00:06,000 --> 00:00:08,266 Ich bin hier auf dem Strip in Las Vegas 5 00:00:08,266 --> 00:00:10,333 und es ist der erste Ort in den USA, 6 00:00:10,333 --> 00:00:11,800 wo man solche Robotaxis, 7 00:00:11,800 --> 00:00:13,666 wie sie gerade hinter mir vorfahren, 8 00:00:13,666 --> 00:00:14,900 öffentlich nutzen kann. 9 00:00:14,900 --> 00:00:18,000 Zoox heisst der Anbieter, es ist eine Amazon-Tochter. 10 00:00:18,000 --> 00:00:19,900 Und je nachdem, wie das in Las Vegas 11 00:00:19,900 --> 00:00:22,033 angenommen wird, will Zoox diesen Dienst 12 00:00:22,033 --> 00:00:24,000 in den ganzen USA einführen. 13 00:00:24,000 --> 00:00:26,833 In der Fahrgastkabine finden bis zu vier Menschen Platz. 14 00:00:26,833 --> 00:00:28,866 Jeder Passagier hat einen eigenen Screen 15 00:00:28,866 --> 00:00:31,733 für Musik, Temperatur und zum Öffnen der Türen. 16 00:00:31,733 --> 00:00:34,233 Bei Touristen sind die Robotaxis äusserst beliebt. 17 00:00:34,233 --> 00:00:38,033 Ich habe ein Video auf Tiktok darüber gesehen. 18 00:00:38,033 --> 00:00:40,833 Also haben wir beschlossen es auszuprobieren. 19 00:00:40,833 --> 00:00:44,600 Es wird bestimmt cool und auch sicher. 20 00:00:44,600 --> 00:00:46,433 Die Passagiere, die ich interviewt habe, 21 00:00:46,433 --> 00:00:49,866 kamen nicht extra nach Las Vegas, nur um die Robotaxis zu testen. 22 00:00:49,866 --> 00:00:53,300 Aber sie nahmen die Zoox auf die Liste von Sightseeings, 23 00:00:53,300 --> 00:00:56,866 die sie unbedingt in Las Vegas sehen und ausprobieren wollten. 24 00:00:56,866 --> 00:01:00,966 Egal wann ich geschaut habe, die Warteschlange für Zoox war jedes Mal richtig lang. 25 00:01:00,966 --> 00:01:03,500 Viele Gäste kamen auch schnell auf den Geschmack 26 00:01:03,500 --> 00:01:06,800 und nutzten die Zoox dann bald als reguläres Transportmittel. 27 00:01:06,800 --> 00:01:11,566 Wohl auch, weil die Fahrzeuge derzeit in der ersten Phase noch gratis zu benutzen sind. 28 00:01:11,566 --> 00:01:15,400 Irgendwann sollen sie dann so viel kosten wie ein Uber oder ein normales Taxi. 29 00:01:15,400 --> 00:01:19,100 Mehrere Gäste haben mir gesagt, dass sie es wirklich schade finden, 30 00:01:19,100 --> 00:01:22,500 dass es die Robotaxis derzeit nur in Las Vegas gibt. 31 00:01:22,566 --> 00:01:24,866 Ich konnte die Sitzheitzung an meinem Sitz anmachen 32 00:01:24,866 --> 00:01:27,166 und er konnte bei sich die Klimaanlage anmachen. 33 00:01:27,166 --> 00:01:29,433 Das war super, weil mir ist immer kalt. 34 00:01:29,466 --> 00:01:35,100 Ich war etwas nervös, weil es keinen Fahrer gibt, aber nervös auf eine gute Art. 35 00:01:35,100 --> 00:01:38,200 Auch ich habe die autonomen Taxis getestet. 36 00:01:38,200 --> 00:01:40,633 Wie man sieht, bin ich allein im Auto. 37 00:01:40,633 --> 00:01:46,000 Es gibt keinen Fahrer. Es gibt kein Lenkrad. Es gibt keine Pedale. 38 00:01:46,000 --> 00:01:48,533 Dafür gibt es ganz viel Technologie. 39 00:01:48,533 --> 00:01:50,133 Und wir werden jetzt gleich mal sehen, 40 00:01:50,133 --> 00:01:54,033 ob die Technologie mich sicher den Las Vegas Strip entlang bringt. 41 00:01:56,533 --> 00:01:58,866 Schon etwas verrückt, in einem Auto zu sitzen, 42 00:01:58,866 --> 00:02:01,166 in dem es kein Lenkrad und keine Pedale gibt. 43 00:02:01,166 --> 00:02:04,166 Selbst wenn man wollte, könnte man gar nicht intervenieren, wenn man müsste. 44 00:02:04,166 --> 00:02:07,466 Aber bisher fühlt sich die Fahrt in diesem Zoox-Mobil 45 00:02:07,466 --> 00:02:08,633 eigentlich recht 46 00:02:08,633 --> 00:02:10,466 gut an, recht komfortabel. 47 00:02:10,466 --> 00:02:14,566 Die Zoox-Fahrzeuge können bis zu 120 Stundenkilometer schnell fahren. 48 00:02:14,566 --> 00:02:19,066 In Las Vegas sind sie aber derzeit auf maximal 72 km/h gedrosselt. 49 00:02:19,066 --> 00:02:24,400 Derzeit fahren die Robotaxis nur an fünf ausgewählte Orte entlang des Las Vegas Strip: 50 00:02:24,400 --> 00:02:27,300 Konzertstätten, Casinos, Hotels. 51 00:02:27,300 --> 00:02:31,900 So kann man beispielsweise vom Hotel Luxor im Süden zur Resorts World im Norden 52 00:02:31,900 --> 00:02:34,466 einmal über den berühmten Las Vegas Boulevard fahren. 53 00:02:34,466 --> 00:02:39,100 Und bald soll es dann so sein, dass die Taxis wirklich überall in Las Vegas fahren können. 54 00:02:39,600 --> 00:02:43,233 Parallel bereitet das Unternehmen bereits den Sprung in andere US-Städte vor. 55 00:02:43,233 --> 00:02:48,800 San Francisco, Austin, Atlanta, Los Angeles, Miami, Seattle und Washington D.C. 56 00:02:48,800 --> 00:02:52,400 Überall vermessen Zoox-Fahrzeuge die Strassen mit Sensoren und Kameras. 57 00:02:52,400 --> 00:02:54,200 So wie hier in San Francisco. 58 00:02:54,200 --> 00:02:57,200 Diese Daten sind der Rohstoff für autonomes Fahren. 59 00:02:57,333 --> 00:03:00,533 Man muss sich das Ganze vorstellen wie in der Uber-App zum Beispiel. 60 00:03:00,533 --> 00:03:05,233 Dort kann man das Auto bestellen, sieht, wann es ankommt, und kann es über die App auch öffnen. 61 00:03:05,233 --> 00:03:09,366 Meine Fahrten mit den Zoox verliefen eigentlich ganz unspektakulär, 62 00:03:09,366 --> 00:03:12,566 so dass ich schnell vergessen habe, dass es gar keinen Fahrer gibt, 63 00:03:12,566 --> 00:03:15,666 sondern dass mich gerade ein Roboter über den Strip transportiert. 64 00:03:15,666 --> 00:03:20,300 Bis auf bei Stoppschildern. Manchmal hat das Fahrzeug da so abrupt gebremst, 65 00:03:20,300 --> 00:03:23,566 dass es mich richtig in den Anschnallgurt gepresst hat. 66 00:03:23,566 --> 00:03:28,400 Und sollte doch irgendwas passieren, dass man dringend Hilfe benötigt oder abrupt anhalten muss, 67 00:03:28,400 --> 00:03:32,966 dann gibt es an der Decke von den Zoox-Fahrzeugen einen Notfallknopf und wenn man den drückt, 68 00:03:32,966 --> 00:03:35,566 wird man direkt mit dem Zoox-Hilfsdienst verbunden. 69 00:03:35,700 --> 00:03:39,166 Als Amazon-Tochter hat Zoox einen finanzstarken Rückhalt. 70 00:03:39,166 --> 00:03:43,233 Das hilft im teuren und vor allem umkämpften Markt für selbstfahrende Autos. 71 00:03:43,233 --> 00:03:48,166 Es sind auch andere Anwendungen für die Technik denkbar, zum Beispiel in Amazons Versandlogistik. 72 00:03:48,166 --> 00:03:52,166 Von den Testfahrten der Robotaxis in Las Vegas zeigt sich das Unternehmen überzeugt. 73 00:03:52,166 --> 00:03:58,866 Wenn man Zoox Glauben schenkt, dann werden wir alle bald von solchen Robotaxis transportiert.",
+   "duration": "PT0H4M0S"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 617592,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/mobilitaet/tesla-draengt-auf-den-markt-fuer-robotaxis-mit-cybercabs-ohne-lenkrad-und-pedale-ld.10020472",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020472",
+    "channel=Mobilität"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Marie-Astrid Langer, San Francisco",
+   "ContentSection": "Mobilität",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie unterscheidet sich Teslas Ansatz für Robotaxis von Waymo und Zoox?\nWelche Rolle spielen die Cybercabs in Teslas Strategie für autonomes Fahren?\nWelchen Herausforderungen könnten Teslas Cybercabs bei der Markteinführung begegnen?",
+   "ldId": "ld.10020472",
+   "channel": "Mobilität",
+   "heading": "Tesla drängt auf den Markt für Robotaxis: mit Cybercabs ohne Lenkrad und Pedale",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

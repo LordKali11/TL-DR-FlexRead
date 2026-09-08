@@ -1,0 +1,1834 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1k11h7rae0",
+   "content": {
+    "title": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+    "lead": "Japanese star artist, world-famous for her giant pumpkins and polka dots. Her cheerfully colorful work shaped by lifelong fears and compulsions.",
+    "authorline": "Kerstin Stremmel, Philipp Meier",
+    "image": {
+     "author": "epa10444539 A sculpture of Japanese artist Yayoi Kusama is on display on the rooftop of the Louis Vuitton store on the Champs Elysees in Paris, France, 02 February 2023. The action celebrates Louis Vuitton's second collaboration with artist Yayoi Kusama. EPA/YOAN VALAT",
+     "caption": "epa10444539 A sculpture of Japanese artist Yayoi Kusama is on display on the rooftop of the Louis Vuitton store on the Champs Elysees in Paris, France, 02 February 2023. The action celebrates Louis Vuitton's second collaboration with artist Yayoi Kusama. EPA/YOAN VALAT",
+     "originalUrl": "/2026/08/27/69e0585d-4780-476e-9b85-38e8c0175074.jpg?crop=4724,3151,x0,y0",
+     "width": 4724,
+     "height": 3151,
+     "altText": "epa10444539 A sculpture of Japanese artist Yayoi Kusama is on display on the rooftop of the Louis Vuitton store on the Champs Elysees in Paris, France, 02 February 2023. The action celebrates Louis Vuitton's second collaboration with artist Yayoi Kusama. EPA/YOAN VALAT",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180244873"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4724,
+      "height": 3151,
+      "name": "desktop"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4724,
+       "height": 3151,
+       "name": "desktop"
+      },
+      {
+       "x": 992,
+       "y": 0,
+       "width": 2363,
+       "height": 3151,
+       "name": "tablet"
+      },
+      {
+       "x": 1208,
+       "y": 0,
+       "width": 1772,
+       "height": 3151,
+       "name": "mobile"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "Yoan Valat / EPA",
+    "caption": "",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10vpfe60",
+   "content": {
+    "text": "The dots are everywhere. Her polka-dotted art is currently flooding Europe. The last stop of Yayoi Kusama's major retrospective tour, which opened spectacularly last autumn at the Fondation Beyeler in Riehen near Basel, is the Rijksmuseum in Amsterdam. There, the polka-dot show by Japan's most famous artist opens its doors on Sep. 11. Now, however, it serves as a farewell exhibition. Yayoi Kusama reportedly died on Aug. 14 at age 97, as was announced on her official website."
+   },
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-67fcc4a5",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1120vp31",
+   "content": {
+    "text": "A long life, a hallucinatory artistic career: In the late 1950s, the then-27-year-old Japanese artist left her homeland. She found it too small, too feudalistic, too servile and too misogynistic. Kusama moved to New York, then the center of the global art scene. Before that, she had contacted the great American painter Georgia O’Keeffe, whose paintings she discovered in an art book. Kusama sent O'Keeffe some of her watercolors along with a letter. The contact lasted for many years."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k117bfqc1",
+   "content": {
+    "image": {
+     "author": "Imago",
+     "caption": "A long life, a hallucinatory artistic career: Yayoi Kusama in Hong Kong in 2016.",
+     "originalUrl": "/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?crop=3024,4032,x0,y0",
+     "width": 3024,
+     "height": 4032,
+     "altText": "HONG KONG, CHINA - NOVEMBER 02: The wax figure of Japanese artist Yayoi Kusama appears is surrounded by the polka dots at Madame Tussauds Hong Kong on November 2, 2016 in Hong Kong, China. PUBLICATIONxINxENG  ",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2130563195"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3024,
+      "height": 4032,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3024,
+       "height": 4032,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A long life, a hallucinatory artistic career: Yayoi Kusama in Hong Kong in 2016.",
+    "author": "Imago"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11hth701",
+   "content": {
+    "image": {
+     "author": "Hilda Weges / Imago",
+     "caption": "The famous yellow pumpkin sculpture with black dots, photographed in Matsumoto, Japan in March 2025.",
+     "originalUrl": "/2026/08/27/3bbc43fd-19de-4a9a-8f77-8f611181d75f.jpg?crop=5800,3869,x0,y0",
+     "width": 5800,
+     "height": 3869,
+     "altText": "Matsumoto, Japan, March 19, 2025: City Museum of Art in Matsumoto with an exhibition of sculptures by the famous Japanese artist Yayoi Kusama. Close-up of the famous yellow pumpkin sculpture with black dots. Copyright: imageBROKER/HildaxWeges ibliqx17717448.jpg. Please note the legal provisions of German copyright law regarding the attribution of the photographer in the immediate vicinity of the publication",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180238979"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5800,
+      "height": 3869,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5800,
+       "height": 3869,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The famous yellow pumpkin sculpture with black dots, photographed in Matsumoto, Japan in March 2025.",
+    "author": "Hilda Weges / Imago"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k112843j1",
+   "content": {
+    "text": "After her art studies in Kyoto, Kusama was initially known primarily for her drawings. In America, she quickly explored other formats, covering giant canvases with uniform net patterns. In her «Infinity Nets» — images without a center — the eye finds no resting point. In the 1960s and 1970s, she began experimenting with textile extrusions, or «Soft Sculptures.» She covered objects or entire pieces of furniture with fabric bulges. In 1962, she exhibited her work «Couch Accumulation,» a sofa studded with phallic forms, alongside works by Andy Warhol and Claes Oldenburg in one of the first Pop Art exhibitions at the Green Gallery."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11cus0o1",
+   "content": {
+    "image": {
+     "author": "Justin Lane / EPA",
+     "caption": "Visitors view the installation «Infinity Mirrored Room – Dancing Lights That Flew Up to the Universe, 2019» by Japanese artist Yayoi Kusama in New York in November 2019.",
+     "originalUrl": "/2026/08/27/c8c3e79e-eef6-47cd-a988-34c9c03238fb.jpg?crop=6319,4157,x0,y0",
+     "width": 6319,
+     "height": 4157,
+     "altText": "epa08015166 People look at the installation 'Infinity Mirrored Room - Dancing Lights That Flew Up to the Universe, 2019' by artist Yayoi Kusama as part of the current exhibition called 'Every Day I Pray for Love' at the David Zwirner Gallery in New York, New York, USA, November 21, 2019. The exhibit runs until December 14, 2019. EPA/JUSTIN LANE",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2106148697"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6319,
+      "height": 4157,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6319,
+       "height": 4157,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Visitors view the installation «Infinity Mirrored Room – Dancing Lights That Flew Up to the Universe, 2019» by Japanese artist Yayoi Kusama in New York in November 2019.",
+    "author": "Justin Lane / EPA"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11cv5i61",
+   "content": {
+    "image": {
+     "author": "Anthony Behar / Imago",
+     "caption": "A portrait of Yayoi Kusama will be on display on the south facade of the Louis Vuitton store on Fifth Avenue in New York in January 2023.",
+     "originalUrl": "/2026/08/27/750fe50f-adc0-4b91-9aaa-584d89333c45.jpg?crop=4000,2662,x0,y0",
+     "width": 4000,
+     "height": 2662,
+     "altText": "NY: Yayoi Kusama Robot in Louis Vuitton Window collaborated with Louis Vuitton. New York NY USA NO USE IN GERMANY PUBLICATIONxINxDZAxARGxAUTxBHRxBRAxCANxCHLxCHNxCOLxECUxEGYxGRCxINDxIRNxIRQxISRxJORxKWTxLBNxLBYxMLTxMEXxMARxOMNxPERxQATxSAUxSUIxSYRxTUNxTURxUAExUKxVENxYEMxONLY PUBLICATIONxINxALGxARGxAUTxBRNxBRAxCANxCHIxCHNxCOLxECUxEGYxGRExINDxIRIxIRQxISRxJORxKUWxLIBxLBAxMLTxMEXxMARxOMAxPERxQATxKSAxSUIxSYRxTUNxTURxUAExUKxVENxYEMxONLY Copyright: xAnthonyxBeharx Editorial use only",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180238982"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4000,
+      "height": 2662,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4000,
+       "height": 2662,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A portrait of Yayoi Kusama will be on display on the south facade of the Louis Vuitton store on Fifth Avenue in New York in January 2023.",
+    "author": "Anthony Behar / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1100ovk0",
+   "content": {
+    "title": "More famous than Warhol",
+    "id": "subtitle-ber-hmter-als-warhol"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11000em0",
+   "content": {
+    "text": "Success came quickly. In 1968, Kusama once said she had been more famous in New York than Andy Warhol. Without ever aligning herself with a particular art movement, Kusama staged happenings in the following years, including demonstrations against the Vietnam War, performances and body painting, where the naked bodies of her hippie friends were covered with dots. She always staged herself effectively as well. She had repeatedly covered her own naked body with entire patterns of dots. In this way, the bodies began to dissolve into a pixel grid. Polka dots, as these specks are called in English, became her signature stylistic device. She herself was known as the Polka-Dot Queen, Princess of Dots."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k117hi521",
+   "content": {
+    "image": {
+     "author": "AP / Yayoi Kusama Studio",
+     "caption": "Yayoi Kusama poses at the «Horse Play» happening in Woodstock, New York in 1967.",
+     "originalUrl": "/2025/09/22/0dec5984-bf56-454c-a2b3-e28a321f5587.jpg?crop=2835,1879,x0,y0",
+     "width": 2835,
+     "height": 1879,
+     "altText": "In this 1967 photo released by Yayoi Kusama Studio Inc., Japanese artist Yayoi Kusama poses with a horse in a happening titled «Horse Play» in Woodstock, New York. Kusama's signature splash of dots has now arrived in the realm of fashion in a new collection from French luxury brand Louis Vuitton - bags, sunglasses, shoes and coats. The latest Kusama collection is showcased at its boutiques around the world, including New York, Paris, Tokyo and Singapore, sometimes with replica dolls of Kusama. (AP Photo/Yayoi Kusama Studio Inc.) NO SALES, EDITORIAL USE ONLY, CREDIT MANDATORY",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2174521923"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2835,
+      "height": 1879,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2835,
+       "height": 1879,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Yayoi Kusama poses at the «Horse Play» happening in Woodstock, New York in 1967.",
+    "author": "AP / Yayoi Kusama Studio"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11d0irm1",
+   "content": {
+    "image": {
+     "author": "Getty",
+     "caption": "Kusama paints Kent Feathergill's upper body in 1967.",
+     "originalUrl": "/2025/09/22/3004be83-b3d6-43d9-acdf-0cc778d31f38.jpg?crop=3000,2400,x0,y0",
+     "width": 3000,
+     "height": 2400,
+     "altText": "Yayoi Kusama paints body of Kent Feathergill. (Photo By: Seymour Wally/NY Daily News via Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2174522528"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3000,
+      "height": 2400,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3000,
+       "height": 2400,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Kusama paints Kent Feathergill's upper body in 1967.",
+    "author": "Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k113gpt21",
+   "content": {
+    "text": "With this almost obsessive creative drive and the structural clarity of her works, Kusama became one of the most popular artists not only in Japan but on the international scene. She represented her home country at the Venice Biennale in 1993 with the «Mirror Room (Pumpkin).»"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1105f0c1",
+   "content": {
+    "text": "The motif appearing in it — a pumpkin — became her trademark. This is evidenced by numerous works in public spaces, such as the walk-in yellow giant pumpkin with black dots that greets art tourists on the Japanese island of Naoshima."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10vpfe80",
+   "content": {
+    "text": "Kusama became known as a trailblazer not only between media and between East and West, but also between art and design. In 2012, the then-83-year-old artist designed a legendary collection for Louis Vuitton: leather goods, clothing, jewelry and watches were covered with her polka dots."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11g4icr1",
+   "content": {
+    "image": {
+     "author": "Bertrand Rindoff Petroff / Imago",
+     "caption": "Fashion from the Louis Vuitton fashion house is presented in a pop-up store designed by Kusama at the Le Printemps department store in Paris in Sep. 2012.",
+     "originalUrl": "/2026/08/27/4b7ea2e8-ae7a-40db-b063-4c23f6751716.jpg?crop=4896,3264,x0,y0",
+     "width": 4896,
+     "height": 3264,
+     "altText": "CREATION DE L ARTISTE JAPONAISE YAYOI KUSAMA, POP UP STORE - INAUGURATION DE L EPHEMERE LOUIS VUITTON POP UP STORE AU PRINTEMPS A PARIS, LE 4 SEPTEMBER 2012. LOUIS VUITTON POP UP STORE OPENING AT LE PRINTEMPS IN PARIS, FRANCE, ON SEPTEMBER 4TH 2012. PARIS France *** CREATION BY JAPANESE ARTIST YAYOI KUSAMA, POP UP STORE INAUGURATION DE LESPACE EPHEMERE LOUIS VUITTON POP UP STORE AT LE PRINTEMPS IN PARIS, FRANCE, ON SEPTEMBER 4TH 2012 LOUIS VUITTON POP UP STORE OPENING AT LE PRINTEMPS IN PARIS, FRANCE, ON SEPTEMBER 4TH 2012 PARIS France PUBLICATIONxNOTxINxFRAxUKxUSAxAUSxBEL Copyright: xBERTRANDxRINDOFFxPETROFFx/xBESTIMAGExBERTRANDxRINDOFFxPETROFFx/xBESTIMAGEx",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180244663"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4896,
+      "height": 3264,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4896,
+       "height": 3264,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Fashion from the Louis Vuitton fashion house is presented in a pop-up store designed by Kusama at the Le Printemps department store in Paris in Sep. 2012.",
+    "author": "Bertrand Rindoff Petroff / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11frl0c1",
+   "content": {
+    "image": {
+     "author": "Aanke Waelischmiller / Imago",
+     "caption": "The Infinity Mirrored Room in the exhibition at the Museum Ludwig in Cologne. The exhibition ran until August 2, 2026.",
+     "originalUrl": "/2026/08/27/c4d273ca-6d30-4c51-b94e-0a882a1df23b.jpg?crop=7698,5071,x0,y0",
+     "width": 7698,
+     "height": 5071,
+     "altText": " Attention: Photo for use only in connection with reporting on the Kusama exhibition from March 14 to August 2, 2026 at the Museum Ludwig in Cologne. The Infinity Mirrored Room. Yayoi Kusama exhibition at the Museum Ludwig in Cologne, Germany on April 29, 2026. Museum Ludwig *** Attention: Photo for use only in connection with reporting on the Kusama exhibition from March 14 to August 2, 2026 at the Museum Ludwig in Cologne. The Infinity Mirrored Room. Yayoi Kusama exhibition at the Museum Ludwig in Cologne, Germany on April 29, 2026. Museum Ludwig",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2178475087"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7698,
+      "height": 5071,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7698,
+       "height": 5071,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The Infinity Mirrored Room in the exhibition at the Museum Ludwig in Cologne. The exhibition ran until August 2, 2026.",
+    "author": "Aanke Waelischmiller / Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1153rka0",
+   "content": {
+    "title": "Childhood hallucinations of dots",
+    "id": "subtitle-halluzinationen-von-punkten-als-kind"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k112hjer1",
+   "content": {
+    "text": "From 1977, Kusama lived voluntarily in a psychiatric hospital in Tokyo. Through her life-sustaining creative fervor, she found a way to make her hallucinations and visions the basis of her art. Her obsessions with sexuality and the tendency toward compulsive repetition, which characterize her fascinating work, had pursued her since childhood. Her mother reportedly incited her to spy on her father during his affairs with other women. Kusama described this in her autobiography, published in 2011."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k114d8020",
+   "content": {
+    "text": "Yayoi Kusama, born in 1929 into an old-established family, grew up in the countryside. Her parents ran a seed nursery. «I spent every day hidden under a table in the corner of our dark and crowded shop, making paper boxes for the seeds,» she later recalled about her childhood."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11399va0",
+   "content": {
+    "text": "As a child, Kusama said she had been plagued by dot and pattern hallucinations. Regarding her penis sculptures, she once said: «The mere thought that a phallus could penetrate me is dreadful. That's why I create so many penises (...), so many until I am buried by their expressiveness. I call that obliteration.» Kusama's compulsion to cover the real world with dots and thus pulverize it is shaped by her «Philosophy of Self-Obliteration.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1148n5r0",
+   "content": {
+    "text": "«Artists usually don't talk about their complexes, but I make my complexes and fears the subject of my artistic work,» she once wrote. Kusama turned her fears into art. In one of her poems, she formulated her wish: «I hope to leave beautiful traces at the end of my life.» She succeeded in doing so with her manic yet poetically suggestive art of repetition."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k117n7og1",
+   "content": {
+    "image": {
+     "author": "Imago",
+     "caption": "Yayoi Kusama became known as a boundary-crosser not only between media and between East and West, but also between art and design. Image: 2018.",
+     "originalUrl": "/2026/08/27/c4631025-0dd5-4eb3-8e69-9a6f7e489576.jpg?crop=3008,2000,x0,y0",
+     "width": 3008,
+     "height": 2000,
+     "altText": "Kusama: Infinity 2018 - film still Kusama: Infinity 2018 Artist Yayoi Kusama drawing - - - EDITORIAL USE ONLY Copyright: xTokyoxLeexProductions,xInc.x",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180238984"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3008,
+      "height": 2000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3008,
+       "height": 2000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Yayoi Kusama became known as a boundary-crosser not only between media and between East and West, but also between art and design. Image: 2018.",
+    "author": "Imago"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k10vp84o2",
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k10vp84o3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k10vp84o4",
+      "content": {
+       "owner": "NZZ",
+       "title": "Psychodrama of a Japanese star artist: The Fondation Beyeler presents Yayoi Kusama",
+       "teaserImage": {
+        "originalUrl": "/2025/10/21/e7f988af-5f0d-43e9-940b-3712453ef81c.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/10/21/e7f988af-5f0d-43e9-940b-3712453ef81c.jpg?width=1024&quality=75&auto=webp",
+        "width": 3000,
+        "height": 1997,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3000,1687,x0,y90"
+         },
+         {
+          "name": "1:1",
+          "crop": "547,547,x1308,y426"
+         },
+         {
+          "name": "4:3",
+          "crop": "2663,1997,x337,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1498,1997,x819,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2996,1997,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Obsessions with sexuality and a tendency towards compulsive repetition characterize the work of the Japanese artist, now 96 years old. The Fondation Beyeler presents her oeuvre in a hallucinatory overview. It is the first comprehensive presentation in Switzerland.",
+        "teaserAuthor": "© Yayoi Kusama"
+       },
+       "teaserAuthor": "© Yayoi Kusama",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2025/10/21/e7f988af-5f0d-43e9-940b-3712453ef81c.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/10/21/e7f988af-5f0d-43e9-940b-3712453ef81c.jpg?width=1024&quality=75&auto=webp",
+        "width": 3000,
+        "height": 1997,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2370,1333,x367,y103"
+         },
+         {
+          "name": "1:1",
+          "crop": "1247,1247,x1003,y160"
+         },
+         {
+          "name": "4:3",
+          "crop": "2367,1775,x450,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1332,1775,x943,y113"
+         },
+         {
+          "name": "3:2",
+          "crop": "2663,1775,x224,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2025/10/21/20fd8e24-a223-4767-8258-22c03b76951a.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/10/21/20fd8e24-a223-4767-8258-22c03b76951a.jpg?width=1024&quality=75&auto=webp",
+        "width": 1869,
+        "height": 2616,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1661,934,x133,y363"
+         },
+         {
+          "name": "1:1",
+          "crop": "1661,1661,x128,y336"
+         },
+         {
+          "name": "4:3",
+          "crop": "1661,1246,x135,y308"
+         },
+         {
+          "name": "3:4",
+          "crop": "1661,2215,x128,y211"
+         },
+         {
+          "name": "3:2",
+          "crop": "1661,1108,x136,y338"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2025/09/22/4e1ec717-1881-4caf-9e00-1fab4128a745.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/22/4e1ec717-1881-4caf-9e00-1fab4128a745.jpg?width=1024&quality=75&auto=webp",
+        "width": 3427,
+        "height": 2315,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2708,1523,x453,y129"
+         },
+         {
+          "name": "1:1",
+          "crop": "2058,2058,x1072,y168"
+         },
+         {
+          "name": "4:3",
+          "crop": "2744,2058,x389,y79"
+         },
+         {
+          "name": "3:4",
+          "crop": "1543,2058,x1287,y81"
+         },
+         {
+          "name": "3:2",
+          "crop": "2708,1805,x378,y77"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1908081",
+       "readingTime": 420,
+       "authorLine": "Philipp Meier (text), Andrea Mittelholzer (photo editing)",
+       "characterCount": 7184,
+       "product": "NZZ.ch",
+       "documentId": 1908081,
+       "layout": "longformvisual",
+       "publicationDate": "2025-10-27T04:30:00.000Z",
+       "publicationLastUpdated": "2025-10-27T08:57:51.010Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-10-27T16:30:00.000Z",
+       "teaserCaption": "Obsessions with sexuality and a tendency towards compulsive repetition characterize the work of the Japanese artist, now 96 years old. The Fondation Beyeler presents her oeuvre in a hallucinatory overview. It is the first comprehensive presentation in Switzerland.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/67913078-df2a-4ea6-9e8f-7d820425aa1f.png?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2022/07/27/67913078-df2a-4ea6-9e8f-7d820425aa1f.png?width=1024",
+        "imageService": "fastly",
+        "width": 800,
+        "height": 800,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/67913078-df2a-4ea6-9e8f-7d820425aa1f.png?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/psychodrama-einer-japanischen-starkuenstlerin-die-fondation-beyeler-zeigt-yayoi-kusama-ld.1908081",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1334,
+       "leadText": "Obsessions with sexuality and a tendency towards compulsive repetition characterize the work of the Japanese artist, now 96 years old. The Fondation Beyeler presents her oeuvre in a hallucinatory overview. It is the first comprehensive presentation in Switzerland.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k10vp84o5",
+      "content": {
+       "owner": "NZZ",
+       "title": "The Japanese artist Chiharu Shiota weaves the world into a web of fateful threads",
+       "teaserImage": {
+        "originalUrl": "/2026/03/09/cfa12bc6-469b-41a5-b826-a95e98f94d98.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/09/cfa12bc6-469b-41a5-b826-a95e98f94d98.jpg?width=1024&quality=75&auto=webp",
+        "width": 4464,
+        "height": 4358,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4464,2511,x0,y1702"
+         },
+         {
+          "name": "1:1",
+          "crop": "4358,4358,x23,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4464,3348,x0,y945"
+         },
+         {
+          "name": "3:4",
+          "crop": "3269,4358,x193,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4464,2976,x0,y1232"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The works of the internationally acclaimed artist are highly recognizable. In Milan and Turin, Chiharu Shiota captivates with enormous spatial installations.",
+        "teaserAuthor": "Sara Rizzo / © ProLitteris, Zurich"
+       },
+       "teaserAuthor": "Sara Rizzo / © ProLitteris, Zurich",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1926613",
+       "readingTime": 300,
+       "authorLine": "Uta Appel Tallone, Milan and Turin",
+       "characterCount": 6476,
+       "product": "NZZ.ch",
+       "documentId": 1926613,
+       "layout": "longformstandard",
+       "publicationDate": "2026-03-10T04:30:00.000Z",
+       "publicationLastUpdated": "2026-03-10T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-03-10T16:30:00.000Z",
+       "teaserCaption": "The works of the internationally acclaimed artist are highly recognizable. In Milan and Turin, Chiharu Shiota captivates with enormous spatial installations.",
+       "url": "/feuilleton/die-japanische-kuenstlerin-chiharu-shiota-verwebt-die-welt-zu-einem-netz-von-schicksalsfaeden-ld.1926613",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1041,
+       "leadText": "The works of the internationally acclaimed artist are highly recognizable. In Milan and Turin, Chiharu Shiota captivates with enormous spatial installations.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k10vp84o6",
+      "content": {
+       "owner": "NZZ",
+       "title": "Matthew Wong found refuge in painting, and a kindred spirit in Vincent van Gogh",
+       "teaserImage": {
+        "originalUrl": "/2024/12/09/62d3fa6b-7901-4329-83a8-bb140d8763f2.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/09/62d3fa6b-7901-4329-83a8-bb140d8763f2.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3307,
+        "height": 2799,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3307,1860,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2799,2799,x254,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3307,2480,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2099,2799,x425,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The Chinese-Canadian artist Matthew Wong created his own refuge in his paintings. His art is also a reflection of his psychological suffering. A juxtaposition of Wong's and van Gogh's works is now on display at the Kunsthaus Zürich.",
+        "teaserAuthor": "Liz Lange and Davis Shapiro © 2024, Pro Litteris, Zurich"
+       },
+       "teaserAuthor": "Liz Lange and Davis Shapiro © 2024, Pro Litteris, Zurich",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1861601",
+       "readingTime": 240,
+       "authorLine": "Philipp Meier",
+       "characterCount": 5565,
+       "product": "NZZ.ch",
+       "documentId": 1861601,
+       "layout": "longformstandard",
+       "publicationDate": "2024-12-13T04:30:00.000Z",
+       "publicationLastUpdated": "2025-01-12T17:30:55.071Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-12-13T16:30:00.000Z",
+       "teaserCaption": "The Chinese-Canadian artist Matthew Wong created his own refuge in his paintings. His art is also a reflection of his psychological suffering. A juxtaposition of Wong's and van Gogh's works is now on display at the Kunsthaus Zürich.",
+       "url": "/feuilleton/in-der-malerei-fand-matthew-wong-eine-zuflucht-in-vincent-van-gogh-einen-seelenverwandten-ld.1861601",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 845,
+       "leadText": "The Chinese-Canadian artist Matthew Wong created his own refuge in his paintings. His art is also a reflection of his psychological suffering. A juxtaposition of Wong's and van Gogh's works is now on display at the Kunsthaus Zürich."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "authorLine": "Kerstin Stremmel, Philipp Meier",
+  "title": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+  "teaserImage": {
+   "originalUrl": "/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1024&quality=75&auto=webp",
+   "width": 3024,
+   "height": 4032,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2065,1162,x897,y2006"
+    },
+    {
+     "name": "4:3",
+     "crop": "3024,2268,x0,y1764"
+    },
+    {
+     "name": "1:1",
+     "crop": "1707,1707,x950,y1683"
+    },
+    {
+     "name": "3:4",
+     "crop": "2499,3332,x401,y700"
+    },
+    {
+     "name": "3:2",
+     "crop": "3024,2016,x0,y1863"
+    }
+   ],
+   "focalPoint": {
+    "x": 2023,
+    "y": 2698
+   },
+   "imageService": "fastly",
+   "teaserCaption": "Japanese star artist, world-famous for her giant pumpkins and polka dots. Her cheerfully colorful work shaped by lifelong fears and compulsions.",
+   "teaserAuthor": "Imago"
+  },
+  "teaserAuthor": "Imago",
+  "tags": [
+   "Kunst, Architektur, Fotografie"
+  ],
+  "nzzId": "ld.10021250",
+  "readingTime": 300,
+  "characterCount": 5299,
+  "teaserCarouselOne": {
+   "originalUrl": "/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1024&quality=75&auto=webp",
+   "width": 3024,
+   "height": 4032,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2272,1278,x752,y1992"
+    },
+    {
+     "name": "1:1",
+     "crop": "3024,3024,x0,y1008"
+    },
+    {
+     "name": "4:3",
+     "crop": "3024,2268,x0,y1553"
+    },
+    {
+     "name": "3:4",
+     "crop": "3024,4032,x0,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3024,2016,x0,y1679"
+    }
+   ],
+   "focalPoint": {
+    "x": 2019,
+    "y": 2687
+   },
+   "imageService": "fastly"
+  },
+  "teaserCarouselTwo": {
+   "originalUrl": "/2025/09/22/0dec5984-bf56-454c-a2b3-e28a321f5587.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/09/22/0dec5984-bf56-454c-a2b3-e28a321f5587.jpg?width=1024&quality=75&auto=webp",
+   "width": 2835,
+   "height": 1879,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2835,1595,x0,y156"
+    },
+    {
+     "name": "1:1",
+     "crop": "1879,1879,x390,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "2505,1879,x77,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1409,1879,x625,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2819,1879,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 1329,
+    "y": 953
+   },
+   "imageService": "fastly"
+  },
+  "teaserCarouselThree": {
+   "originalUrl": "/2026/08/27/c4d273ca-6d30-4c51-b94e-0a882a1df23b.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/c4d273ca-6d30-4c51-b94e-0a882a1df23b.jpg?width=1024&quality=75&auto=webp",
+   "width": 7698,
+   "height": 5071,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7698,4330,x0,y741"
+    },
+    {
+     "name": "1:1",
+     "crop": "5071,5071,x2281,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "6761,5071,x937,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3803,5071,x2915,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7607,5071,x91,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 4816,
+    "y": 3468
+   },
+   "imageService": "fastly"
+  },
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   },
+   {
+    "name": "Art & Architecture",
+    "path": "/feuilleton/kunst_architektur"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021250,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-08-27T09:11:38.744Z",
+  "publicationDate": "2026-08-27T09:11:38.744Z",
+  "publicationLastUpdated": "2026-08-27T12:41:57.988Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T21:11:38.744Z",
+  "teaserCaption": "Japanese star artist, world-famous for her giant pumpkins and polka dots. Her cheerfully colorful work shaped by lifelong fears and compulsions.",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "url": "/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250",
+  "department": {
+   "name": "Art & Architecture",
+   "path": "/feuilleton/kunst_architektur"
+  },
+  "estimationWordCount": 952,
+  "leadText": "Japanese star artist, world-famous for her giant pumpkins and polka dots. Her cheerfully colorful work shaped by lifelong fears and compulsions.",
+  "nzzSummaryEN": "- Japanese artist Yayoi Kusama, known as the \"Queen of Polka Dots,\" passed away at 97; her retrospective at the Rijksmuseum Amsterdam becomes a farewell exhibition.\n- Her work, marked by polka dots and pumpkins, stemmed from lifelong anxieties and hallucinations. Kusama lived voluntarily in a mental institution since 1977.\n- Internationally acclaimed, she influenced the Pop Art scene and designed iconic collections for Louis Vuitton.",
+  "nzzSummaryDE": "- Japanese artist Yayoi Kusama, known as the «Queen of Dots,» has died at the age of 97; her retrospective at the Rijksmuseum Amsterdam will be a farewell exhibition. - Her work, characterized by polka dots and pumpkins, resulted from lifelong anxieties and hallucinations. From 1977 onward, Kusama voluntarily spent her life in a psychiatric hospital. - Internationally successful, she shaped the Pop Art scene and designed iconic collections for Louis Vuitton.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "x",
+  "nzzPrintSubtitle": "x",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250",
+   "title": "Obituary for the artist Yayoi Kusama: Life and work of the Queen of Dots",
+   "socialMediaTitle": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2065,1162,x897,y2006&wmark=nzz"
+  },
+  "ldPublicationId": 2484597,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Japan",
+    "slug": "/themen/japan"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1908081",
+    "ld.1926613",
+    "ld.1861601"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 395496,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "japan",
+   "name": "Japan",
+   "tagName": "Japan",
+   "qId": "Q17",
+   "seoTitle": "Japan – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 17:58:57.443Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": 0,
+   "imageHeight": 0,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/japan",
+   "size": 923,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "title": "Japan's Answer to Hot Days? Cold-Steeped Instant Noodles",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/6745564c-3962-4fe7-8af5-c9e3fe4ee4db.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/6745564c-3962-4fe7-8af5-c9e3fe4ee4db.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3859,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y407"
+      },
+      {
+       "name": "4:3",
+       "crop": "5145,3859,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2396,2396,x711,y17"
+      },
+      {
+       "name": "3:4",
+       "crop": "2894,3859,x314,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y192"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "When temperatures climb to almost 40 degrees Celsius, nobody fancies a hot bowl of noodle soup. A Japanese food company has responded with a new ready-made meal.",
+     "teaserAuthor": "Reuters"
+    },
+    "teaserAuthor": "Reuters",
+    "nzzId": "ld.10021408",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the process for Nissin's cold instant noodles work?",
+    "paywallQuestionTwo": "Why are cold instant noodles so popular in Japan?",
+    "paywallQuestionThree": "What advantages do cold instant noodles offer in disaster scenarios?",
+    "characterCount": 3648,
+    "product": "NZZ.ch",
+    "documentId": "10021408",
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "When temperatures climb to almost 40 degrees Celsius, nobody fancies a hot bowl of noodle soup. A Japanese food company has responded with a new ready-made meal.",
+    "authorLine": "Philipp Gollmer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/83bf1485-2a91-4db2-b903-7c2fabe4a760.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/japans-antwort-auf-heisse-tage-kalt-aufgegossene-instant-nudeln-ld.10021408",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 583,
+    "leadText": "When temperatures climb to almost 40 degrees Celsius, nobody fancies a hot bowl of noodle soup. A Japanese food company has responded with a new ready-made meal.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Japanese yen falls and falls: Devaluation is a warning sign in a highly indebted world",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/394964cd-38df-41b3-8223-905acdfbb3b1.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/394964cd-38df-41b3-8223-905acdfbb3b1.jpg?width=1024&quality=75&auto=webp",
+     "width": 3968,
+     "height": 2677,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3968,2232,x0,y223"
+      },
+      {
+       "name": "4:3",
+       "crop": "3569,2677,x199,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2677,2677,x646,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2008,2677,x980,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3968,2645,x0,y16"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Japan increasingly struggles to keep its currency under control. Economists argue that the National Bank should actually raise interest rates, but the enormous national debt blocks this path.",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "paywallQuestionOne": "Why is the weak yen a warning sign for the global economy?",
+    "paywallQuestionTwo": "How does Japan's national debt influence its interest rate policy?",
+    "paywallQuestionThree": "What risks does the devaluation of the yen pose for the USA?",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020309",
+    "readingTime": 180,
+    "characterCount": 3075,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10020309",
+    "layout": "regular",
+    "publicationDate": "2026-08-23T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-23T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+    "teaserCaption": "Japan increasingly struggles to keep its currency under control. Economists argue that the National Bank should actually raise interest rates, but the enormous national debt blocks this path.",
+    "authorLine": "Albert Steck",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/der-japanische-yen-faellt-und-faellt-die-abwertung-ist-ein-warnsignal-in-einer-hoch-verschuldeten-welt-ld.10020309",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 514,
+    "premium": true,
+    "leadText": "Japan increasingly struggles to keep its currency under control. Economists argue that the National Bank should actually raise interest rates, but the enormous national debt blocks this path.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Enough with the crisis mode: Japan should stop artificially stimulating its economy",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/05/22/4f7b3884-90ad-412b-a04b-a7b5853c0399.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/22/4f7b3884-90ad-412b-a04b-a7b5853c0399.jpg?width=1024&quality=75&auto=webp",
+     "width": 9111,
+     "height": 6074,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "9111,5125,x0,y475"
+      },
+      {
+       "name": "4:3",
+       "crop": "8099,6074,x506,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "6074,6074,x1519,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4556,6074,x2278,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "9111,6074,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Japan, along with the US, is supporting its floundering currency. But this market intervention will have little effect as long as Tokyo fails to address the structural causes of the yen's weakness.",
+     "teaserAuthor": "Tomohiro Ohsumi / Getty"
+    },
+    "teaserAuthor": "Tomohiro Ohsumi / Getty",
+    "paywallQuestionOne": "How does the weak yen affect the financing of America's national debt?",
+    "paywallQuestionTwo": "Why does Japan's government remain in crisis mode despite economic recovery?",
+    "paywallQuestionThree": "What role does the interest rate differential play in the weakness of the yen?",
+    "nzzId": "ld.10019870",
+    "readingTime": 360,
+    "characterCount": 8608,
+    "flag": "Opinion",
+    "product": "NZZ.ch",
+    "documentId": "10019870",
+    "layout": "opinion",
+    "publicationDate": "2026-08-21T03:35:00.000Z",
+    "publicationLastUpdated": "2026-08-21T13:45:46.680Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T15:35:00.000Z",
+    "teaserCaption": "Japan, along with the US, is supporting its floundering currency. But this market intervention will have little effect as long as Tokyo fails to address the structural causes of the yen's weakness.",
+    "authorLine": "Thomas Fuster",
+    "authorImage": {
+     "originalUrl": "/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024&quality=75&auto=webp",
+     "width": 1976,
+     "height": 2716,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "1976,1976,x0,y370"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/schluss-mit-dem-krisenmodus-japan-sollte-aufhoeren-die-wirtschaft-kuenstlich-zu-stimulieren-ld.10019870",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1266,
+    "premium": true,
+    "leadText": "Japan, along with the US, is supporting its floundering currency. But this market intervention will have little effect as long as Tokyo fails to address the structural causes of the yen's weakness.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/13/a214e466-50a7-4ced-948b-2acd9cc8e688.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/a214e466-50a7-4ced-948b-2acd9cc8e688.jpg?width=1024&quality=75&auto=webp",
+     "width": 5140,
+     "height": 3427,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4248,2389,x421,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4569,3427,x316,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1759,1759,x284,y212"
+      },
+      {
+       "name": "3:4",
+       "crop": "2570,3427,x383,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5140,3427,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1718,
+      "y": 659
+     },
+     "imageService": "fastly",
+     "teaserCaption": "With his trip to the disputed archipelago, the Russian president is demonstrating geopolitical resolve. However, Putin's increased visits to the Russian provinces after months in Moscow also have domestic political reasons.",
+     "teaserAuthor": "Gavriil Grigorov / AP"
+    },
+    "teaserAuthor": "Gavriil Grigorov / AP",
+    "title": "First visit to the Kuril Islands: Putin angers neighbor Japan",
+    "tags": [
+     "Europa"
+    ],
+    "nzzId": "ld.10019350",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Putin visiting the Kuril Islands despite Japan's protest?",
+    "paywallQuestionTwo": "How does Putin's trip affect his approval ratings?",
+    "paywallQuestionThree": "What security measures accompany Putin's travels?",
+    "characterCount": 4553,
+    "product": "NZZ.ch",
+    "documentId": "10019350",
+    "layout": "regular",
+    "publicationDate": "2026-08-13T14:31:33.904Z",
+    "publicationLastUpdated": "2026-08-13T14:56:55.836Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-14T02:31:33.904Z",
+    "teaserCaption": "With his trip to the disputed archipelago, the Russian president is demonstrating geopolitical resolve. However, Putin's increased visits to the Russian provinces after months in Moscow also have domestic political reasons.",
+    "authorLine": "Volker Pabst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/erster-besuch-auf-den-kurilen-putin-veraergert-den-nachbarn-japan-ld.10019350",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 712,
+    "leadText": "With his trip to the disputed archipelago, the Russian president is demonstrating geopolitical resolve. However, Putin's increased visits to the Russian provinces after months in Moscow also have domestic political reasons.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "From the Donbass to the Pacific: Threatened democracies begin to learn from each other",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Junhua Zhang",
+    "flag": "Guest opinion",
+    "editor": "1373237",
+    "teaserImage": {
+     "originalUrl": "/2026/08/11/2c3be68c-9815-43e4-8b42-a6f7e4416124.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/11/2c3be68c-9815-43e4-8b42-a6f7e4416124.jpg?width=1024&quality=75&auto=webp",
+     "width": 5327,
+     "height": 3551,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5327,2996,x0,y554"
+      },
+      {
+       "name": "4:3",
+       "crop": "4735,3551,x592,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3551,3551,x981,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2663,3551,x1397,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5327,3551,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Ukraine's success in repelling a major adversary, closely watched in East Asia",
+     "teaserAuthor": "Valentyn Ogirenko / Reuters"
+    },
+    "teaserAuthor": "Valentyn Ogirenko / Reuters",
+    "nzzId": "ld.10018322",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does Ukraine influence East Asia's defense strategies?",
+    "paywallQuestionTwo": "What role does drone technology play in the Ukraine-Japan-Taiwan cooperation?",
+    "paywallQuestionThree": "How is China reacting to the new alliances of democratic states?",
+    "characterCount": 5580,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10018322",
+    "layout": "regular",
+    "publicationDate": "2026-08-12T03:20:00.000Z",
+    "publicationLastUpdated": "2026-08-12T03:20:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-12T15:20:00.000Z",
+    "teaserCaption": "Ukraine's success in repelling a major adversary, closely watched in East Asia",
+    "url": "https://www.nzz.ch/meinung/vom-donbass-in-den-pazifik-bedrohte-demokratien-beginnen-voneinander-zu-lernen-ld.10018322",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 794,
+    "premium": true,
+    "leadText": "Ukraine's success in repelling a major adversary, closely watched in East Asia",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 5,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "A trip to Japan: The work of Karl Walser, Robert Walser's brother, is currently being rediscovered. It contains images of a long-vanished world",
+    "showHeader": true,
+    "tags": [
+     "Kunst, Architektur, Fotografie"
+    ],
+    "editor": "1373417",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/06/84b2ff56-5d86-445d-8fb2-576a9edcd9eb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/06/84b2ff56-5d86-445d-8fb2-576a9edcd9eb.jpg?width=1024&quality=75&auto=webp",
+     "width": 4173,
+     "height": 3090,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3794,2134,x157,y903"
+      },
+      {
+       "name": "4:3",
+       "crop": "3405,2554,x379,y322"
+      },
+      {
+       "name": "1:1",
+       "crop": "1586,1586,x1097,y1504"
+      },
+      {
+       "name": "3:4",
+       "crop": "2318,3090,x808,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4173,2782,x0,y154"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Over a hundred years ago, Karl Walser traveled to Japan. The watercolors and paintings he created there are among the best of what remains from the Swiss painter.",
+     "teaserAuthor": "NMB New Museum Biel, on permanent loan from the Gottfried Keller Foundation, Federal Office of Culture"
+    },
+    "teaserAuthor": "NMB New Museum Biel, on permanent loan from the Gottfried Keller Foundation, Federal Office of Culture",
+    "nzzId": "ld.10018161",
+    "readingTime": 360,
+    "paywallQuestionOne": "What significance did Japan have for Karl Walser's artistic work?",
+    "paywallQuestionTwo": "How did Japonism influence Karl Walser's works and style?",
+    "paywallQuestionThree": "Why is Walser's view of Japan being rediscovered today?",
+    "characterCount": 8125,
+    "product": "NZZ.ch",
+    "documentId": "10018161",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-08T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-08T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-08T15:30:00.000Z",
+    "teaserCaption": "Over a hundred years ago, Karl Walser traveled to Japan. The watercolors and paintings he created there are among the best of what remains from the Swiss painter.",
+    "authorLine": "Philipp Meier",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/67913078-df2a-4ea6-9e8f-7d820425aa1f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/kunst_architektur/eine-japanreise-das-werk-von-karl-walser-robert-walsers-bruder-wird-gerade-wiederentdeckt-es-sind-bilder-einer-laengst-versunkenen-welt-ld.10018161",
+    "department": {
+     "name": "Art & Architecture",
+     "path": "/feuilleton/kunst_architektur"
+    },
+    "estimationWordCount": 1261,
+    "leadText": "Over a hundred years ago, Karl Walser traveled to Japan. The watercolors and paintings he created there are among the best of what remains from the Swiss painter.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021250",
+    "name": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "Kunst & Architektur",
+    "attributes": {
+     "headline": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1371759,
+       "name": "Auswärtige Autoren NZZ",
+       "shortName": "AA",
+       "external": true
+      }
+     ],
+     "issueTimestamp": "2026-08-27T09:11:38.744Z",
+     "updateTimestamp": "2026-08-27T12:41:57.988Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021250",
+   "pageType": "longformvisual",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "Kunst & Architektur",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Obituary for the artist Yayoi Kusama: Life and work of the Queen of Dots",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2065,1162,x897,y2006&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Kerstin Stremmel, Philipp Meier",
+  "description": "Japanese star artist, world-famous for her giant pumpkins and polka dots. Her cheerfully colorful work shaped by lifelong fears and compulsions.",
+  "news_keywords": "Art was a lifesaver for her. Now Yayoi Kusama, the queen of dots, has died at the age of 97. (Art & Architecture, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-27T16:41:57+02:00",
+  "date": "2026-08-27T13:11:38+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+  "ogTitle": "Art her salvation: Yayoi Kusama, Queen of Dots, dies at 97",
+  "ogUrl": "https://www.nzz.ch/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250",
+  "mrf:cms_id": "nzz:ld.10021250",
+  "mrf:sections": "Feuilleton;Kunst & Architektur",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021250",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:40 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/feuilleton/kunst_architektur",
+      "name": "Art & Architecture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Obituary for the artist Yayoi Kusama: Life and work of the Queen of Dots"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250"
+   },
+   "headline": "Obituary for the artist Yayoi Kusama: Life and work of the Queen of Dots",
+   "datePublished": "2026-08-27T13:11:38+02:00",
+   "dateModified": "2026-08-27T16:41:57+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Japanese star artist, world-famous for her giant pumpkins and polka dots. Her cheerfully colorful work shaped by lifelong fears and compulsions.",
+   "isAccessibleForFree": false,
+   "articleSection": "Kunst & Architektur",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2022/04/12/df5cca2a-9986-434e-85ac-c611b7f8422a.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2065,1162,x897,y2006&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Foreign authors NZZ"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 395496,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/kunst_architektur/die-kunst-war-fuer-sie-lebensrettend-jetzt-ist-yayoi-kusama-die-koenigin-der-punkte-im-alter-von-97-jahren-gestorben-ld.10021250",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformvisual",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021250",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-08-27T09:11:38.744Z",
+   "ContentAuthor": "Kerstin Stremmel, Philipp Meier",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie prägten Kusamas Ängste und Obsessionen ihre Kunst?\nWarum wurde Yayoi Kusama zur Polka-Dot-Queen?\nWie beeinflusste Kusamas Leben ihre künstlerische Entwicklung?",
+   "ldId": "ld.10021250",
+   "channel": "Feuilleton",
+   "subChannel": "Kunst & Architektur",
+   "heading": "Die Kunst war für sie lebensrettend. Jetzt ist Yayoi Kusama, die Königin der Punkte, im Alter von 97 Jahren gestorben",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

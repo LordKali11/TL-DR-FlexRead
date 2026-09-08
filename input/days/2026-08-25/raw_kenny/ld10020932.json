@@ -1,0 +1,1393 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0s5ck2d1",
+   "content": {
+    "title": "Out-of-touch legislation: Too often, the EU forgets Switzerland and other third countries",
+    "lead": "Many EU laws aim to improve the world. Too often recently, however, this has alienated trading partners. This should not happen with the next major project, which is due in the autumn.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0s5ck2d2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Daniel Imwinkelried, Brussels",
+       "url": "/impressum/daniel-imwinkelried-ld.1085444",
+       "teaserImage": {
+        "originalUrl": "/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528",
+        "url": "https://img-msp-prod.nzz.ch/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528&width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1580,
+         "y": 528,
+         "width": 2809,
+         "height": 2809
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0s5ck2d3",
+   "content": {
+    "image": {
+     "author": "Gaëtan Bally / Keystone",
+     "caption": "Various EU legislative proposals have recently caused confusion for Swiss industry.",
+     "originalUrl": "/2024/05/28/592cd97d-f1f2-4219-a640-2c3ac433edb8.jpeg?crop=5760,3840,x0,y0",
+     "width": 5760,
+     "height": 3840,
+     "altText": "A hoisted EU and Swiss flag flutters in the wind in Zurich, Switzerland, on May 18, 2015. (KEYSTONE/Gaetan Bally)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2152703941"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5760,
+      "height": 3840,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5760,
+       "height": 3840,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Various EU legislative proposals have recently caused confusion for Swiss industry.",
+    "author": "Gaëtan Bally / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u20",
+   "content": {
+    "text": "Swiss companies have recently experienced firsthand how much EU legislation has at times missed the mark. Sometimes it even seemed as if the EU Parliament, in particular, remained unaware that the bloc is globally integrated, repeatedly overlooking relations with third countries such as Switzerland and others."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-0c3a054d",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0si1qfk0",
+   "content": {
+    "title": "EU also needs partners",
+    "id": "subtitle-auch-die-eu-ben-tigt-partner"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u30",
+   "content": {
+    "text": "For example, the EU recently sought to prevent member countries from shipping waste to distant African and Asian states through a regulation. However, the regulation would also have affected Switzerland and its neighboring regions. Many municipalities in cross-border areas are glad to send waste to Switzerland: they do not own incineration plants themselves, while Swiss plants have free capacity and readily accept the waste. <a href=\"https://www.nzz.ch/schweiz/die-eu-gewaehrt-definitiv-eine-ausnahme-so-schaffte-es-die-schweiz-weiterhin-siedlungsabfaelle-importieren-zu-koennen-ld.10012665\">Fortunately, the EU Commission adjusted the regulation at the last moment – partly because politicians in Germany exerted pressure.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u31",
+   "content": {
+    "text": "There are other examples where the EU operated in a vacuum. For instance, with the deforestation regulation, it aims to prevent further deforestation for agricultural purposes. Here, too, producers from third countries were overlooked, <a href=\"https://www.nzz.ch/wirtschaft/die-eu-will-die-waelder-schuetzen-und-versetzt-damit-die-schweizer-schokoladeindustrie-in-aufruhr-ld.1837828\">such as Swiss chocolate manufacturers</a> or American paper producers. The EU created a database to trace the origin of cocoa, wood, or soy. However, easy access to this database for third countries was overlooked in the legislative procedure. A non-tariff trade barrier loomed. In this case, too, the Commission had to painstakingly rectify the situation."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u40",
+   "content": {
+    "text": "<a href=\"https://www.nzz.ch/wirtschaft/die-eu-vermasselt-kleinfirmen-mit-komplizierten-verpackungsregeln-das-geschaeft-betroffen-sind-auch-schweizer-unternehmen-ld.10019377\">The latest example concerns the packaging regulation.</a> It also serves a laudable purpose: less packaging waste. But it was also designed in such a complex way that not only EU manufacturers currently do not know the applicable rules. Traders and producers from third countries are also left entirely uncertain."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0shc6o70",
+   "content": {
+    "title": "Shocking images, hasty laws",
+    "id": "subtitle-schockierende-bilder-f-hren-zu-eiligen-gesetzen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u41",
+   "content": {
+    "text": "One can imagine how the regulations came about. Politicians were confronted with shocking images of conditions: for example, mountains of waste in African states, or cleared forest areas used to produce more meat, which at the same time exacerbate climate change. Given the indignation about this, however, Brussels failed to consider involving third countries."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u50",
+   "content": {
+    "text": "This oversight could recur this autumn. The EU will then debate the Industrial Accelerator Act (IAA). A key question will be whether states closely intertwined with the EU will once again be overlooked."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0seq87n1",
+   "content": {
+    "text": "<a href=\"https://www.nzz.ch/wirtschaft/aerger-ueber-die-eu-zoelle-in-bruessel-lobbyieren-der-bundesrat-und-andere-regierungen-gegen-neue-handelsbeschraenkungen-ld.10013166\">One goal of the IAA is to make the EU more independent from third countries for key products.</a> The initiative is primarily aimed at China, but not exclusively. For example, there are proposals within the EU to restrict public procurement to a narrow circle: specifically, to the EU and the EEA members Norway, Iceland, and Liechtenstein."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sgs3ai1",
+   "content": {
+    "text": "French politicians, in particular, advocate this approach. German representatives, however, want to widen the circle, believing that Switzerland should be included. But what about other EU trading partners worldwide? Here, the German perspective is currently narrowing, partly because the industry is performing so poorly."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0shvlce0",
+   "content": {
+    "title": "No more bureaucracy",
+    "id": "subtitle-es-darf-nicht-noch-mehr-b-rokratie-geben"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sa88u51",
+   "content": {
+    "text": "It is hoped that the EU Commission and the member states will learn from failed legislative processes. It is true that China is causing Europe's industry significant problems. But the EU can best address this bilaterally with China."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sfaq6g1",
+   "content": {
+    "text": "Overlooking third countries again would be costly for Europe: it would not only alienate friendly trading partners but also harm its own consumers and companies. They would be confronted with higher prices and more bureaucracy. This does not have to be the case – the EU should demonstrate such a capacity for learning."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0s5ck2d5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-516df5c6",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 17,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Thomas Krennert",
+      "text": "An actual headline from the mid-1980s in Der Spiegel (print copy): Switzerland (and the franc) are strongest on their own.",
+      "created_at": "2026-08-27T14:48:56.009Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Uli Hofer",
+      "text": "The EU and its new agreements are NOT what Switzerland needs in their current form. This article demonstrates this once again, albeit not forcefully enough. A streamlined EU (reducing bureaucracy and the hundreds of thousands of laws and regulations to a manageable level), a purely economic community, perhaps with a well-equipped defense force, would be what's needed. With such an institution, specific, clearly defined, and limited economic agreements could be reached. But with this colossus on feet of clay: NEVER! And to weaken and partially surrender our excellently functioning direct democracy for something like this: NEVER! Switzerland would bitterly regret it. And many economic experts agree, not just the Swiss People's Party (SVP). Another point: before Switzerland negotiates new agreements, which it absolutely must do, the EU should first prove that it can: manage its economy well, limit debt, reduce bureaucracy to 10%, build a strong defense, and solve problems sensibly together. So far, absolutely none of this is happening. Economic experts have submitted sensible economic policy proposals to the Federal Council (Cassis). The reaction of the gentleman in Bern: ZERO. Is this how you treat the people?",
+      "created_at": "2026-08-26T13:50:25.702Z",
+      "like_count": 6,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0s5ck2d6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s5ck2d7",
+      "content": {
+       "title": "The EU is ruining business for small companies with complicated packaging rules – Swiss companies are also affected",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/13/4a95085d-5040-4b44-b65d-da79b24e65d5.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/13/4a95085d-5040-4b44-b65d-da79b24e65d5.jpg?width=1024&quality=75&auto=webp",
+        "width": 5472,
+        "height": 3648,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5472,3078,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4864,3648,x608,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3648,3648,x1314,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2736,3648,x1770,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5472,3648,x0,y0"
+         }
+        ],
+        "focalPoint": {
+         "x": 3138,
+         "y": 649
+        },
+        "imageService": "fastly",
+        "teaserCaption": "Starting this week, new regulations are in force in the EU that are intended to lead to less waste. For small businesses, however, this primarily means selling there costs them hundreds of euros per EU country.",
+        "teaserAuthor": "Imago"
+       },
+       "teaserAuthor": "Imago",
+       "nzzId": "ld.10019377",
+       "readingTime": 360,
+       "paywallQuestionOne": "How do the new EU packaging rules affect small businesses?",
+       "paywallQuestionTwo": "Why are Swiss companies affected by EU rules?",
+       "paywallQuestionThree": "How does the EU Commission plan to relieve the burden on small businesses?",
+       "characterCount": 7679,
+       "product": "NZZ.ch",
+       "documentId": 10019377,
+       "layout": "regular",
+       "publicationDate": "2026-08-14T11:14:23.180Z",
+       "publicationLastUpdated": "2026-08-14T11:53:50.163Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-14T23:14:23.180Z",
+       "teaserCaption": "Starting this week, new regulations are in force in the EU that are intended to lead to less waste. For small businesses, however, this primarily means selling there costs them hundreds of euros per EU country.",
+       "authorLine": "Andrea Martel, Daniel Imwinkelried, Brussels",
+       "authorImage": {
+        "originalUrl": "/2024/05/27/14e3cd10-c498-490b-8b5a-a416c7d82d0d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/27/14e3cd10-c498-490b-8b5a-a416c7d82d0d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/27/14e3cd10-c498-490b-8b5a-a416c7d82d0d.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/die-eu-vermasselt-kleinfirmen-mit-komplizierten-verpackungsregeln-das-geschaeft-betroffen-sind-auch-schweizer-unternehmen-ld.10019377",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1102,
+       "leadText": "Starting this week, new regulations are in force in the EU that are intended to lead to less waste. For small businesses, however, this primarily means selling there costs them hundreds of euros per EU country.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s5ck2d8",
+      "content": {
+       "title": "Switzerland must skillfully utilize the new opportunities of the EU package",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Opinion",
+       "teaserImage": {
+        "originalUrl": "/2026/08/18/ff960ea9-70a2-40f8-9c4d-fff2e76b2341.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/18/ff960ea9-70a2-40f8-9c4d-fff2e76b2341.jpg?width=1024&quality=75&auto=webp",
+        "width": 1920,
+        "height": 1080,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1920,1080,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1440,1080,x240,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1080,1080,x420,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "810,1080,x555,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1620,1080,x150,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The EU reform of unemployment benefits reveals the limitations of the existing bilateral agreements. Despite the drawbacks, the new EU treaties, which the Council of States is now deciding on, represent the most realistic path forward."
+       },
+       "nzzId": "ld.10019362",
+       "readingTime": 360,
+       "paywallQuestionOne": "How does the EU reform affect unemployment insurance in Switzerland?",
+       "paywallQuestionTwo": "What role does Switzerland's new right to have a say in the EU play?",
+       "paywallQuestionThree": "Could Switzerland's bilateral approach lead to a dead end?",
+       "characterCount": 9010,
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10019362,
+       "layout": "opinion",
+       "publicationDate": "2026-08-20T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-20T04:19:05.266Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-20T15:30:00.000Z",
+       "teaserCaption": "The EU reform of unemployment benefits reveals the limitations of the existing bilateral agreements. Despite the drawbacks, the new EU treaties, which the Council of States is now deciding on, represent the most realistic path forward.",
+       "authorLine": "Tobias Gafafer",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024&quality=75&auto=webp",
+       "url": "/meinung/die-schweiz-muss-die-neuen-moeglichkeiten-des-eu-pakets-geschickt-nutzen-ld.10019362",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 1298,
+       "leadText": "The EU reform of unemployment benefits reveals the limitations of the existing bilateral agreements. Despite the drawbacks, the new EU treaties, which the Council of States is now deciding on, represent the most realistic path forward.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s5ck2d9",
+      "content": {
+       "title": "The EU definitively grants an exception: How Switzerland managed to continue importing municipal waste",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/29/e04e8e02-aa1b-4d28-b293-080e5f263802.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/29/e04e8e02-aa1b-4d28-b293-080e5f263802.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y134"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x386,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2732,2732,x1531,y617"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1500,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In an expedited procedure, EU institutions amended a regulation that would have cost Switzerland tens of millions of francs. This would have been difficult without the lobbying of friendly neighbors.",
+        "teaserAuthor": "Gaëtan Bally / Keystone"
+       },
+       "teaserAuthor": "Gaëtan Bally / Keystone",
+       "nzzId": "ld.10012665",
+       "readingTime": 240,
+       "paywallQuestionOne": "How was Switzerland able to obtain an exemption from the EU regarding waste imports?",
+       "paywallQuestionTwo": "What role did neighboring regions play in lobbying for the Swiss exception?",
+       "paywallQuestionThree": "What would have been the economic consequences of an import ban on Swiss waste incineration plants?",
+       "characterCount": 5656,
+       "product": "NZZ.ch",
+       "documentId": 10012665,
+       "layout": "regular",
+       "publicationDate": "2026-06-29T14:13:11.216Z",
+       "publicationLastUpdated": "2026-06-29T14:43:19.099Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-30T02:13:11.216Z",
+       "teaserCaption": "In an expedited procedure, EU institutions amended a regulation that would have cost Switzerland tens of millions of francs. This would have been difficult without the lobbying of friendly neighbors.",
+       "authorLine": "Antonio Fumagalli, Brussels",
+       "authorImage": {
+        "originalUrl": "/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+        "width": 3956,
+        "height": 5275,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 321,
+         "width": 3956,
+         "height": 3956
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+       "url": "/schweiz/die-eu-gewaehrt-definitiv-eine-ausnahme-so-schaffte-es-die-schweiz-weiterhin-siedlungsabfaelle-importieren-zu-koennen-ld.10012665",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 817,
+       "leadText": "In an expedited procedure, EU institutions amended a regulation that would have cost Switzerland tens of millions of francs. This would have been difficult without the lobbying of friendly neighbors.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2024/05/28/592cd97d-f1f2-4219-a640-2c3ac433edb8.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/28/592cd97d-f1f2-4219-a640-2c3ac433edb8.jpeg?width=1024&quality=75&auto=webp",
+   "width": 5760,
+   "height": 3840,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5760,3240,x0,y470"
+    },
+    {
+     "name": "4:3",
+     "crop": "5120,3840,x329,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3840,3840,x428,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2880,3840,x1719,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5760,3840,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Many EU laws aim to improve the world. Too often recently, however, this has alienated trading partners. This should not happen with the next major project, which is due in the autumn.",
+   "teaserAuthor": "Gaëtan Bally / Keystone"
+  },
+  "teaserAuthor": "Gaëtan Bally / Keystone",
+  "title": "Out-of-touch legislation: Too often, the EU forgets Switzerland and other third countries",
+  "flag": "Opinion",
+  "tags": [
+   "Schweiz und die EU"
+  ],
+  "showComments": true,
+  "nzzId": "ld.10020932",
+  "readingTime": 180,
+  "characterCount": 3903,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020932,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-25T15:00:00.000Z",
+  "publicationDate": "2026-08-25T15:00:00.000Z",
+  "publicationLastUpdated": "2026-08-25T15:00:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T03:00:00.000Z",
+  "teaserCaption": "Many EU laws aim to improve the world. Too often recently, however, this has alienated trading partners. This should not happen with the next major project, which is due in the autumn.",
+  "nzzAuthors": [
+   {
+    "id": 1372746,
+    "name": "Daniel Imwinkelried",
+    "shortName": "imr",
+    "pianoId": "5c12cd2d-916b-488e-be5b-a6ebf0677400",
+    "external": false
+   }
+  ],
+  "authorLine": "Daniel Imwinkelried, Brussels",
+  "authorImage": {
+   "originalUrl": "/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528",
+   "url": "https://img-msp-prod.nzz.ch/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528&width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 4000,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 1580,
+    "y": 528,
+    "width": 2809,
+    "height": 2809
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1085444,
+    "name": "Daniel Imwinkelried, Brussels",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/25/1ee7f6fd-dfbd-4762-8c66-30a3b8ae0615.jpeg?crop=2809,2809,x1580,y528&width=1024&quality=75&auto=webp",
+  "url": "/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 602,
+  "premium": true,
+  "leadText": "Many EU laws aim to improve the world. Too often recently, however, this has alienated trading partners. This should not happen with the next major project, which is due in the autumn.",
+  "nzzSummaryEN": "- The EU has repeatedly overlooked third countries like Switzerland in legislative processes, causing trade issues.\n- Examples include regulations on waste exports, deforestation, and packaging, which initially excluded third countries but were later amended with difficulty.\n- Concerns remain that the upcoming Industrial Accelerator Act (IAA) may repeat similar mistakes with trading partners.",
+  "nzzSummaryDE": "- The EU has failed to adequately consider third countries like Switzerland in several legislative processes, causing trade problems. - Examples include regulations on waste exports, deforestation, and packaging, which initially excluded third countries but were later painstakingly amended. - There are concerns that similar mistakes could be made again with trading partners under the upcoming Industrial Accelerator Act (IAA).",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The EU has forgotten Switzerland far too often (Title)",
+  "nzzPrintSubtitle": "New European laws (Headline)",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932",
+   "title": "EU and Switzerland: too much isolationism",
+   "socialMediaTitle": "The EU wants to improve the world, but should not isolate itself",
+   "description": "New European laws",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2024/05/28/592cd97d-f1f2-4219-a640-2c3ac433edb8.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y470&wmark=nzz"
+  },
+  "ldPublicationId": 2483529,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "EU",
+    "slug": "/themen/eu"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 17,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Thomas Krennert",
+     "text": "An actual headline from the mid-1980s in Der Spiegel (print copy): Switzerland (and the franc) are strongest on their own.",
+     "created_at": "2026-08-27T14:48:56.009Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Uli Hofer",
+     "text": "The EU and its new agreements are NOT what Switzerland needs in their current form. This article demonstrates this once again, albeit not forcefully enough. A streamlined EU (reducing bureaucracy and the hundreds of thousands of laws and regulations to a manageable level), a purely economic community, perhaps with a well-equipped defense force, would be what's needed. With such an institution, specific, clearly defined, and limited economic agreements could be reached. But with this colossus on feet of clay: NEVER! And to weaken and partially surrender our excellently functioning direct democracy for something like this: NEVER! Switzerland would bitterly regret it. And many economic experts agree, not just the Swiss People's Party (SVP). Another point: before Switzerland negotiates new agreements, which it absolutely must do, the EU should first prove that it can: manage its economy well, limit debt, reduce bureaucracy to 10%, build a strong defense, and solve problems sensibly together. So far, absolutely none of this is happening. Economic experts have submitted sensible economic policy proposals to the Federal Council (Cassis). The reaction of the gentleman in Bern: ZERO. Is this how you treat the people?",
+     "created_at": "2026-08-26T13:50:25.702Z",
+     "like_count": 6,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019377",
+    "ld.10019362",
+    "ld.10012665"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 244320,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "eu",
+   "name": "European Union (EU)",
+   "tagName": "EU",
+   "qId": "Q458",
+   "seoTitle": "EU – All news and articles about the European Union | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 15:41:16.127Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/eu",
+   "size": 3667,
+   "relatedTopics": [
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Europe's new protectionism threatens Swiss automotive suppliers – will China be the one to benefit?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/2d295156-8d88-4ab5-877a-4b8bd1540498.jpg?width=1024&quality=75&auto=webp",
+     "width": 8192,
+     "height": 5387,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8192,4608,x0,y164"
+      },
+      {
+       "name": "4:3",
+       "crop": "7183,5387,x505,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5387,5387,x1403,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4040,5387,x2076,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8081,5387,x56,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+     "teaserAuthor": "Maxim Shemetov / Reuters"
+    },
+    "teaserAuthor": "Maxim Shemetov / Reuters",
+    "nzzId": "ld.10021430",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does EU protectionism threaten Swiss automotive suppliers?",
+    "paywallQuestionTwo": "What consequences would a strict origin requirement have for the EU and Switzerland?",
+    "paywallQuestionThree": "Why is the problem underestimated in Switzerland?",
+    "characterCount": 7133,
+    "product": "NZZ.ch",
+    "documentId": "10021430",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T04:49:58.326Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+    "authorLine": "Jürg Meier",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/230af7f3-d061-4f2b-b075-413abe5f7e86.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/europas-neuer-protektionismus-bedroht-schweizer-autozulieferer-ld.10021430",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1012,
+    "leadText": "The EU wants to strengthen its key industries with new laws. Now, the industry association Swissmem warns that if the EU adopts strict rules of origin, it will jeopardize Swiss suppliers' access to the European market.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Economy: Inflation in Switzerland higher than expected +++ Novartis to cut up to 130 jobs in Basel",
+    "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Short news items",
+    "authorLine": "NZZ Newsroom",
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+    },
+    "nzzId": "ld.10020450",
+    "readingTime": 1020,
+    "paywallQuestionOne": "Why is Roche investing USD 750 million in a new plant in Hillsboro?",
+    "paywallQuestionTwo": "What role does the new facility play in Roche's drug pipeline?",
+    "paywallQuestionThree": "How is Roche supporting the expansion of its production capacities in the USA?",
+    "characterCount": 24423,
+    "product": "NZZ.ch",
+    "documentId": "10020450",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:00:05.234Z",
+    "publicationLastUpdated": "2026-09-03T07:25:57.392Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:00:05.234Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/wirtschaft/wirtschaft-roche-baut-produktion-in-den-usa-weiter-aus-ld.10020450",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 3370,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Iceland referendum brutally shows the EU: The bloc is not attractive enough for rich countries",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/75ccfdf9-0b2d-457d-8fc2-e525990fbc29.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/75ccfdf9-0b2d-457d-8fc2-e525990fbc29.jpg?width=1024&quality=75&auto=webp",
+     "width": 5703,
+     "height": 3772,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5703,3208,x0,y282"
+      },
+      {
+       "name": "4:3",
+       "crop": "5029,3772,x337,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3772,3772,x966,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2829,3772,x1437,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5658,3772,x23,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Iceland has decided against EU accession talks. This should give Brussels pause. Progressive centralization deters successful states.",
+     "teaserAuthor": "Leonhard Foeger / Reuters"
+    },
+    "teaserAuthor": "Leonhard Foeger / Reuters",
+    "language": {
+     "locale": "de"
+    },
+    "nzzId": "ld.10021909",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is the EU less attractive for wealthy countries like Iceland?",
+    "paywallQuestionTwo": "What role does EU centralization play in Iceland's rejection?",
+    "paywallQuestionThree": "How do economic interests influence the decision against EU membership?",
+    "characterCount": 3880,
+    "showComments": true,
+    "flag": "Opinion",
+    "product": "NZZ.ch",
+    "documentId": "10021909",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T14:40:52.488Z",
+    "publicationLastUpdated": "2026-09-01T14:50:41.669Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T02:40:52.488Z",
+    "teaserCaption": "Iceland has decided against EU accession talks. This should give Brussels pause. Progressive centralization deters successful states.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/das-island-referendum-zeigt-der-eu-schonungslos-auf-fuer-reiche-laender-ist-der-staatenverbund-zu-wenig-attraktiv-ld.10021909",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 585,
+    "leadText": "Iceland has decided against EU accession talks. This should give Brussels pause. Progressive centralization deters successful states.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 37,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«It is incomprehensible that a higher hurdle is needed for the vote on cow horns than for the EU treaties,» says the president of the Swiss Trade Association",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2020/1/22/5fea9b2f-aa20-45f9-bda8-9f30a996de99.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2020/1/22/5fea9b2f-aa20-45f9-bda8-9f30a996de99.jpeg?width=1024&quality=75&auto=webp",
+     "width": 8688,
+     "height": 5792,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8688,4887,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7723,5792,x734,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5792,5792,x1699,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4344,5792,x2423,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8688,5792,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4595,
+      "y": 2010
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "flag": "interview",
+    "nzzId": "ld.10021632",
+    "readingTime": 540,
+    "paywallQuestionOne": "What conditions does the SGV set for its approval of the EU treaties?",
+    "paywallQuestionTwo": "How should SMEs be relieved of burdens through the EU treaties?",
+    "paywallQuestionThree": "Why does the SGV reject the new food safety rules?",
+    "characterCount": 11090,
+    "product": "NZZ.ch",
+    "documentId": "10021632",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:31:00.000Z",
+    "publicationLastUpdated": "2026-09-01T08:45:08.432Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:31:00.000Z",
+    "teaserCaption": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+    "authorLine": "Katharina Fontana",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/25/7c05952b-935d-4db1-8c88-431369489c1b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sgv-praesident-fabio-regazzi-es-ist-eine-selbstverstaendlichkeit-dass-das-parlament-bei-den-eu-vertraegen-mitreden-will-ld.10021632",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Council of States aims to conclude mammoth debate on new EU agreements in three days",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/03/27/b7bda767-c45f-4bd3-ba07-4c8a59fa3665.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/27/b7bda767-c45f-4bd3-ba07-4c8a59fa3665.jpg?width=1024&quality=75&auto=webp",
+     "width": 5104,
+     "height": 3403,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5104,2871,x0,y471"
+      },
+      {
+       "name": "4:3",
+       "crop": "4537,3403,x523,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2812,2812,x1315,y556"
+      },
+      {
+       "name": "3:4",
+       "crop": "2320,3094,x1569,y309"
+      },
+      {
+       "name": "3:2",
+       "crop": "5104,3403,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "nzzId": "ld.10021730",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the majority of the cantons influence the debate on the new EU agreements?",
+    "paywallQuestionTwo": "Which topics are particularly controversial during the detailed deliberations on the EU treaties?",
+    "paywallQuestionThree": "Why is the scope of action of the Council of States limited with regard to EU agreements?",
+    "characterCount": 5016,
+    "product": "NZZ.ch",
+    "documentId": "10021730",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T07:25:13.650Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+    "authorLine": "Tobias Gafafer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/der-staenderat-will-die-mammutdebatte-ueber-die-neuen-eu-abkommen-in-drei-tagen-abschliessen-ld.10021730",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 726,
+    "leadText": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020932",
+    "name": "Out-of-touch legislation: Too often, the EU forgets Switzerland and other third countries",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Out-of-touch legislation: Too often, the EU forgets Switzerland and other third countries",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372746,
+       "name": "Daniel Imwinkelried",
+       "shortName": "imr",
+       "pianoId": "5c12cd2d-916b-488e-be5b-a6ebf0677400",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T15:00:00.000Z",
+     "updateTimestamp": "2026-08-25T15:00:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020932",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "EU and Switzerland: too much isolationism",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2024/05/28/592cd97d-f1f2-4219-a640-2c3ac433edb8.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y470&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Daniel Imwinkelried, Brussels",
+  "description": "New European laws",
+  "news_keywords": "Out-of-touch legislation: The EU has too often recently forgotten Switzerland and other third countries, Commentary, Opinion, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T19:00:00+02:00",
+  "date": "2026-08-25T19:00:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - Out-of-touch legislation: The EU has too often recently forgotten Switzerland and other third countries",
+  "ogTitle": "The EU wants to improve the world, but should not isolate itself",
+  "ogUrl": "https://www.nzz.ch/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932",
+  "mrf:cms_id": "nzz:ld.10020932",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10020932",
+  "nzzAuthors": [
+   {
+    "id": 1372746,
+    "name": "Daniel Imwinkelried",
+    "shortName": "imr",
+    "pianoId": "5c12cd2d-916b-488e-be5b-a6ebf0677400",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:53 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "EU and Switzerland: too much isolationism"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932"
+   },
+   "headline": "EU and Switzerland: too much isolationism",
+   "datePublished": "2026-08-25T19:00:00+02:00",
+   "dateModified": "2026-08-25T19:00:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "New European laws",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2024/05/28/592cd97d-f1f2-4219-a640-2c3ac433edb8.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y470&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Daniel Imwinkelried"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 244320,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/weltfremde-gesetzgebung-zu-oft-hat-die-eu-juengst-die-schweiz-und-andere-drittstaaten-vergessen-ld.10020932",
+    "classification=premium",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020932",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-08-25T15:00:00.000Z",
+   "ContentAuthor": "Daniel Imwinkelried, Brüssel",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie beeinflussen EU-Gesetze die Beziehungen zu Drittstaaten wie der Schweiz?\nWarum vergisst die EU Drittstaaten bei Gesetzesvorhaben oft?\nWelche Folgen hat die Industrial Accelerator Act für Drittstaaten?",
+   "ldId": "ld.10020932",
+   "channel": "Meinung",
+   "heading": "Weltfremde Gesetzgebung: Zu oft hat die EU jüngst die Schweiz und andere Drittstaaten vergessen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

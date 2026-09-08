@@ -1,0 +1,1516 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1167psp1",
+   "content": {
+    "title": "The star witness in the Meta lawsuit warns: «Instagram is a service that invites strangers into our children's bedrooms at night»",
+    "lead": "Former Facebook employee Arturo Béjar assesses the settlement in which Meta committed to greater protection for young people. He calls for further measures and attacks the leadership, arguing that experience has shown Mark Zuckerberg's assurances are meaningless.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1167psq0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Gioia da Silva",
+       "url": "/impressum/gioia-da-silva-ld.1837886",
+       "teaserImage": {
+        "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "4128,2322,x0,y215"
+         },
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3669,2752,x229,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x1032,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11cc8590",
+   "content": {
+    "image": {
+     "author": "Manuel Orbegozo / Reuters",
+     "caption": "Whistleblower Arturo Béjar leaves the court after testifying. Oakland, California, USA, August 19, 2026.",
+     "originalUrl": "/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?crop=6500,4333,x0,y0",
+     "width": 6500,
+     "height": 4333,
+     "altText": "Arturo Bejar, a former Facebook safety engineer and Instagram consultant, leaves as Meta faces a landmark trial in federal court over claims from 29 states that the company illegally collected and used children's data in violation of federal law, allegedly designed its social media platforms to keep young users hooked and misled consumers about their safety, in Oakland, California, US, August 19, 2026. REUTERS/Manuel Orbegozo",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180124561"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6500,
+      "height": 4333,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6500,
+       "height": 4333,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Whistleblower Arturo Béjar leaves the court after testifying. Oakland, California, USA, August 19, 2026.",
+    "author": "Manuel Orbegozo / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11680970",
+   "content": {
+    "text": "Arturo Béjar was one of the key figures in the wave of lawsuits against Instagram's parent company, Meta. From 2009 to 2015, he led the protection and integrity team at Facebook, which dealt with anti-bullying tools and child protection, among other things. He later returned as a consultant for Instagram, driven by his daughter's experiences with repeated sexual harassment on the platform."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-dcd241d7",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k116809g0",
+   "content": {
+    "text": "Béjar's central importance in the lawsuits and investigations against Meta lay in his dual role as both an insider and someone personally affected. He served as a star witness in the lawsuit because he could prove that he had personally informed Meta's leadership, including Mark Zuckerberg, about the harmful effects of the platforms on young people."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k116809h0",
+   "content": {
+    "text": "Arturo Béjar, Meta is ramping up child protection and is now paying American states up to $18 billion in damages. Are you satisfied?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k116809j0",
+   "content": {
+    "text": "The settlement is an important milestone. But it won't make Instagram any safer for young people. So parents and authorities shouldn't mistake the agreement for an all-clear signal."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k116809l0",
+   "content": {
+    "text": "What's still missing?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k116809n0",
+   "content": {
+    "text": "At first glance, the proposed order obliges Meta to implement meaningful protective measures. But on closer inspection, it's questionable whether it actually demands anything substantially different from what Meta already claims to be doing. Experience has shown that Mark Zuckerberg's apologies are as meaningless as his assurances that he is trying his «best.» In the past, independent reviews have shown that while security features exist, they are ineffective due to their design and other characteristics."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11i80ph1",
+   "content": {
+    "text": "In addition, the agreement apparently accepts Meta's own measurement of the harm caused. Yet Meta has repeatedly suppressed internal studies showing that its measurement systems underestimate the true extent of the harm by a factor of at least 100."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k116809s1",
+   "content": {
+    "text": "What are you demanding specifically?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k116809t1",
+   "content": {
+    "text": "We need external oversight of the effectiveness of these protective measures. This means there must be independent measurement of the harm young people actually experience. Ultimately, Meta must be held accountable for results, not just for its efforts. I hope the court can still amend the order before approving it. If not, the agreement threatens to simply cement much of the security theater Meta has engaged in for the last few years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k116809v0",
+   "content": {
+    "text": "Can you be specific: What measures are you calling for?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680a00",
+   "content": {
+    "text": "Safety by design, meaning a product that puts the safety of young people at its core."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680a02",
+   "content": {
+    "text": "What might that look like on a platform like Instagram?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680a11",
+   "content": {
+    "text": "Instagram is a platform that connects young people with strangers. That's dangerous. We found that for some young people, 90% of unwanted sexual advances would not have occurred if Instagram didn't exist. Instagram is a service that invites strangers into our children's bedrooms at night. If you want to create a safe product for children, it has to be more about real connections. We need a product that treats strangers as strangers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680a30",
+   "content": {
+    "text": "That has largely been implemented in Instagram's teen accounts. What other changes are needed in addition?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680a40",
+   "content": {
+    "text": "The platform must not encourage compulsive use. Young people shouldn't have an infinite scroll function, algorithms that gauge their interests or stories that disappear after a short time and make them feel they are missing out. Furthermore, there should be no popularity counters – no likes, no views, no streaks. Imagine you're 13 and you start at a new school. Every kid there has a badge on their chest showing how many people are looking at them. That puts enormous pressure on young people. They consider posting photos of themselves wearing fewer clothes to get more views and likes. Instagram is full of harmful incentives."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680a61",
+   "content": {
+    "text": "Meta has now promised some of these measures: a two-hour time limit, a night mode, no beauty filters and no autoplay. Still, it's questionable whether this will help young people. After all, it has never been scientifically proven that social networks do more harm than good to the overall well-being of young people."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680a71",
+   "content": {
+    "text": "A product like Instagram causes harm. I have spoken with more than 40 parents whose children took their own lives. On the platform, there is glorification of suicide, portrayals of eating disorders and misogyny. It doesn't have to be this way. We have to ask ourselves: How do we minimize the harm?"
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680a81",
+   "content": {
+    "text": "Can the harm really be prevented? There will probably always be children who bully others, both online and offline."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680a90",
+   "content": {
+    "text": "We have observed bullying for years, and it's true, you can't prevent it. But for many children, online bullying is even worse than what happens in the schoolyard. When children are alone with their smartphones and see hurtful content, they have no one to help them regulate their emotions. Meta's help functions are inadequate. Anyone who experiences bullying should go to a person they trust. Nevertheless, many cases of bullying would be less painful if the product were designed with children's safety at its core."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680aa0",
+   "content": {
+    "text": "What laws do you consider necessary?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680aa2",
+   "content": {
+    "text": "We are in a public health crisis. Companies must be forced to be more transparent. They need to issue regular reports on the harm their products cause. This works for financial figures, after all. They produce detailed reports on profit and revenue every three months. There is no reason not to produce similar, externally audited reports for user well-being."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680ad0",
+   "content": {
+    "text": "How realistic are your demands?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680ae0",
+   "content": {
+    "text": "I think we are moving in a good direction. Several countries are discussing a higher minimum age. Bans for young people are desirable because they solve the problem of social pressure: Children want to be on the platform because all their friends are there."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680ae2",
+   "content": {
+    "text": "But bans also have negative effects. And they take away a way for young people to express themselves and be part of our society."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680af1",
+   "content": {
+    "text": "We could raise the minimum age until we know the products are safe for children. We have to understand these products. Social networks trigger dopamine kicks, similar to alcohol or cigarettes."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680ag1",
+   "content": {
+    "text": "However, there is no scientific consensus on the question of whether social networks cause addiction."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680ah0",
+   "content": {
+    "text": "Many children have absurd amounts of screen time. All that time online distances them from their friends and family members. I would say 45 minutes to an hour a day is enough. The way children relate to these products has to change."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680ai0",
+   "content": {
+    "text": "Are there platforms that have done a better job with child protection?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680ai2",
+   "content": {
+    "text": "I hope so. But I haven't had enough time to look at smaller platforms. I believe that technology can connect people. I've worked on that for 30 years of my life. But that requires platforms that are based on the principle of safety by design."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680aj0",
+   "content": {
+    "text": "How has your life changed since you came forward as a whistleblower in the fall of 2023?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680ak1",
+   "content": {
+    "text": "It changes everything: how I look at my life and what I have done. It also changes the behavior of the people I interact with."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1k11680al0",
+   "content": {
+    "text": "Do you feel guilty, or do you regret anything?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1k11680al2",
+   "content": {
+    "text": "The people I worked with directly at Meta had good intentions and an ethical compass. I have made my peace with my own work. At the same time, it's true that the company I worked for for a long time has caused harm. A part of me feels guilty. Today, I am working to improve the product."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1167psr2",
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1167psr3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1167psr4",
+      "content": {
+       "title": "Groundbreaking settlement: Instagram limits how long children can use online service in the US",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Renzo Ruf, Washington",
+       "teaserImage": {
+        "originalUrl": "/2026/02/06/c4e867f7-eb82-4957-9be1-80e1e4060255.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/06/c4e867f7-eb82-4957-9be1-80e1e4060255.jpg?width=1024&quality=75&auto=webp",
+        "width": 8192,
+        "height": 5464,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8192,4608,x0,y252"
+         },
+         {
+          "name": "4:3",
+          "crop": "7285,5464,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4105,4105,x811,y289"
+         },
+         {
+          "name": "3:4",
+          "crop": "4098,5464,x597,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "8192,5461,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Instagram and Facebook parent agrees to pay $18 billion fine; Meta implements new child protection measures",
+        "teaserAuthor": "Imago"
+       },
+       "teaserAuthor": "Imago",
+       "tags": [
+        "Technologie aktuell"
+       ],
+       "nzzId": "ld.10021219",
+       "readingTime": 240,
+       "paywallQuestionOne": "What new child protection measures is Meta implementing in the USA?",
+       "paywallQuestionTwo": "Why is Florida the only state still suing Meta?",
+       "paywallQuestionThree": "What conditions must YouTube and TikTok meet to avoid penalties?",
+       "characterCount": 5509,
+       "product": "NZZ.ch",
+       "documentId": 10021219,
+       "layout": "regular",
+       "publicationDate": "2026-08-26T20:18:59.816Z",
+       "publicationLastUpdated": "2026-08-27T14:26:51.640Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-27T08:18:59.816Z",
+       "teaserCaption": "Instagram and Facebook parent agrees to pay $18 billion fine; Meta implements new child protection measures",
+       "url": "/wirtschaft/bahnbrechender-vergleich-instagram-limitiert-in-den-usa-wie-lange-kinder-den-online-dienst-nutzen-duerfen-ld.10021219",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 836,
+       "leadText": "Instagram and Facebook parent agrees to pay $18 billion fine; Meta implements new child protection measures",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1167psr5",
+      "content": {
+       "title": "Good news for the younger generation: Social networks are finally being forced to take responsibility",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2019/12/23/feb34c0b-fe9c-47a9-b421-8c86ad98354d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2912,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3636,2045,x262,y416"
+         },
+         {
+          "name": "4:3",
+          "crop": "3883,2912,x59,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2912,2912,x1088,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2184,2912,x1523,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4000,2667,x0,y123"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+        "teaserAuthor": "Manuel Orbegozo / Reuters"
+       },
+       "teaserAuthor": "Manuel Orbegozo / Reuters",
+       "flag": "Opinion",
+       "nzzId": "ld.10021209",
+       "readingTime": 180,
+       "paywallQuestionOne": "What youth protection measures does Meta implement on Instagram and Facebook?",
+       "paywallQuestionTwo": "How does this comparison affect the entire social media industry?",
+       "paywallQuestionThree": "What restrictions apply to young people when using meta-apps?",
+       "characterCount": 4018,
+       "tags": [
+        "Technologie aktuell"
+       ],
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10021209,
+       "layout": "opinion",
+       "publicationDate": "2026-08-27T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-27T07:38:25.032Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+       "teaserCaption": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+       "authorLine": "Ruth Fulterer",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+       "url": "/meinung/meta-prozess-fuehrt-zu-einschraenkungen-von-instagram-endlich-muessen-soziale-netzwerke-verantwortung-uebernehmen-ld.10021209",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 617,
+       "leadText": "The Meta corporation has reached an out-of-court settlement with US states that had accused it of harming young people. Restrictions will be imposed on platforms like Instagram.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1167psr6",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Ten ideas for better social networks that tech companies have kept quiet about",
+       "teaserImage": {
+        "originalUrl": "/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/27/e3859424-a7f9-4f11-9d85-2292f06cb000.jpg?width=1024&quality=75&auto=webp",
+        "width": 5761,
+        "height": 3241,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5761,3241,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "998,998,x2479,y928"
+         },
+         {
+          "name": "4:3",
+          "crop": "4321,3241,x600,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1921,2561,x2467,y444"
+         },
+         {
+          "name": "3:2",
+          "crop": "4862,3241,x450,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors."
+       },
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1926585",
+       "readingTime": 540,
+       "colorSchema": "color-schema--linden",
+       "authorLine": "Ruth Fulterer, Gioia da Silva, Olivia Fischer (illustration)",
+       "tags": [
+        "Technologie: Empfehlungen"
+       ],
+       "characterCount": 12769,
+       "product": "NZZ.ch",
+       "documentId": 1926585,
+       "layout": "longformvisual",
+       "publicationDate": "2026-03-08T04:30:00.000Z",
+       "publicationLastUpdated": "2026-05-13T13:21:57.442Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-03-08T16:30:00.000Z",
+       "teaserCaption": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+       "url": "/technologie/zehn-ideen-fuer-bessere-soziale-netzwerke-die-tech-firmen-verschwiegen-haben-ld.1926585",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1859,
+       "leadText": "Scroll pauses, night modes, and a reset button for the algorithm: Internal documents show that employees of social networks worked on better protecting young people on the platforms. But profits were more important to the companies than protecting minors.",
+       "nzzSummaryIsAuto": false
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The key witness in the meta-trial warns: «Instagram is a service that invites strangers into our children's bedrooms at night.»",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4333,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6500,3656,x0,y338"
+    },
+    {
+     "name": "4:3",
+     "crop": "5777,4333,x361,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4333,4333,x1084,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3250,4333,x1625,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6500,4333,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+   "teaserAuthor": "Manuel Orbegozo / Reuters"
+  },
+  "teaserAuthor": "Manuel Orbegozo / Reuters",
+  "flag": "interview",
+  "tags": [
+   "Technologie aktuell",
+   "Soziale Netzwerke"
+  ],
+  "nzzId": "ld.10021277",
+  "readingTime": 360,
+  "characterCount": 8071,
+  "breadcrumbs": [
+   {
+    "name": "Technology",
+    "path": "/technologie"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021277,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T13:31:37.319Z",
+  "publicationDate": "2026-08-27T13:31:37.319Z",
+  "publicationLastUpdated": "2026-08-27T13:31:37.319Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T01:31:37.319Z",
+  "teaserCaption": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+  "nzzAuthors": [
+   {
+    "id": 1572105,
+    "name": "Gioia da Silva",
+    "shortName": "gds",
+    "pianoId": "fd9b3a05-4d23-4ac1-8985-8c23a3e05570",
+    "external": false
+   }
+  ],
+  "authorLine": "Gioia da Silva",
+  "authorImage": {
+   "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2752,2752,x688,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1837886,
+    "name": "Gioia da Silva (gds.) ",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+  "department": {
+   "name": "Technology",
+   "path": "/technologie"
+  },
+  "estimationWordCount": 1224,
+  "leadText": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+  "nzzSummaryEN": "- Former Facebook employee Arturo Béjar criticizes Meta's approach to youth protection and demands stricter measures.\n- Béjar highlights that safety features are often ineffective and emphasizes the dangers of Instagram for young people.\n- Recommendations include independent oversight and designing platforms with a stronger focus on youth safety.",
+  "nzzSummaryDE": "Former Facebook employee Arturo Béjar criticizes Meta's approach to youth protection and calls for stricter measures. Béjar points out that safety features are often ineffective and emphasizes the dangers Instagram poses to young people. His proposal includes independent audits and a design that prioritizes youth safety.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Key witness in the Meta trial demands further protective measures for young people on Instagram",
+  "nzzPrintSubtitle": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He says: «Mark Zuckerberg's assurances are meaningless.»",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+   "title": "Meta-complaint: Arturo Béjar criticizes the lack of youth protection on Instagram",
+   "socialMediaTitle": "Whistleblower Arturo Béjar doubts Meta's promises of protection: «Instagram has not become safer.»",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6500,3656,x0,y338&wmark=nzz"
+  },
+  "ldPublicationId": 2484650,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Instagram",
+    "slug": "/themen/instagram"
+   },
+   {
+    "name": "Mark Zuckerberg",
+    "slug": "/themen/mark-zuckerberg"
+   },
+   {
+    "name": "Social Media",
+    "slug": "/themen/social-media"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021219",
+    "ld.10021209",
+    "ld.1926585"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 522384,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "instagram",
+   "name": "Instagram",
+   "tagName": "Instagram",
+   "qId": "Q209330",
+   "seoTitle": "Instagram – All articles about the online service | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "PROD",
+   "createdDate": "2025-04-08 15:46:11.746Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/instagram",
+   "size": 420,
+   "relatedTopics": [
+    {
+     "name": "Mark Zuckerberg",
+     "slug": "/themen/mark-zuckerberg"
+    },
+    {
+     "name": "Social Media",
+     "slug": "/themen/social-media"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "Meta and the billion-dollar settlement: Will social media now be safer?",
+    "authorLine": "Nadine Landert",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Akzent»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/e69bac7b-a2b7-470c-a4bd-474b51ee2740.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/e69bac7b-a2b7-470c-a4bd-474b51ee2740.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y470"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y315"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x397,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y359"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?"
+    },
+    "nzzId": "ld.10021292",
+    "readingTime": 60,
+    "paywallQuestionOne": "How does the billion-dollar settlement affect security on social media?",
+    "paywallQuestionTwo": "What role did Arturo Béjar play in the trial against Meta?",
+    "paywallQuestionThree": "What measures must Meta implement to protect young people?",
+    "characterCount": 1624,
+    "product": "NZZ.ch",
+    "documentId": "10021292",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-28T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T15:30:00.000Z",
+    "teaserCaption": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/25/4e421b5f-8baf-4ac6-8327-0b9d183031c3.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/akzent/meta-und-der-milliarden-vergleich-wird-social-media-jetzt-sicherer-ld.10021292",
+    "department": {
+     "name": "accent",
+     "path": "/podcast/akzent"
+    },
+    "estimationWordCount": 282,
+    "leadText": "Historic Meta lawsuit: No verdict, but far-reaching consequences for social media. How does the key witness and whistleblower assess the outcome?",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Meta and the billion-dollar comparison: Is social media becoming safer now?",
+    "teaserPodcastAuthor": "Nadine Landert, Gioia da Silva",
+    "teaserPodcastDate": "28.8.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2581151-m-6eebfd055f1a3ec428a3493a7509ab62.mp3",
+    "teaserPodcastDuration": "14",
+    "locale": "de-CH"
+   },
+   {
+    "title": "Instagram is the new smoking: The trillion-dollar lawsuit against the Zuckerberg company follows the pattern of the lawsuits against the tobacco industry",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/60e91a6e-b1b9-4af3-b99a-ac18cb45ca83.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/60e91a6e-b1b9-4af3-b99a-ac18cb45ca83.jpg?width=1024&quality=75&auto=webp",
+     "width": 8035,
+     "height": 5504,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8035,4520,x0,y422"
+      },
+      {
+       "name": "4:3",
+       "crop": "7339,5504,x204,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5504,5504,x914,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4128,5504,x1537,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8035,5357,x0,y74"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Twenty-nine US states accuse social media giant Meta of addicting minors for profit. Digital technologies are at issue, but the model draws on trials from the analog era.",
+     "teaserAuthor": "Richard Bailey / Getty"
+    },
+    "teaserAuthor": "Richard Bailey / Getty",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020224",
+    "readingTime": 300,
+    "paywallQuestionOne": "How will the lawsuit against Meta affect the future of social networks?",
+    "paywallQuestionTwo": "What parallels exist between Meta and the tobacco industry?",
+    "paywallQuestionThree": "How credible are the allegations against Meta, according to experts?",
+    "characterCount": 7068,
+    "authorLine": "Andreas Mink",
+    "product": "NZZ.ch",
+    "documentId": "10020224",
+    "layout": "regular",
+    "publicationDate": "2026-08-23T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-23T12:28:30.349Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+    "teaserCaption": "Twenty-nine US states accuse social media giant Meta of addicting minors for profit. Digital technologies are at issue, but the model draws on trials from the analog era.",
+    "url": "https://www.nzz.ch/wirtschaft/instagram-ist-das-neue-rauchen-die-billionenklage-gegen-den-zuckerberg-konzern-folgt-dem-muster-der-prozesse-gegen-die-tabakindustrie-ld.10020224",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1023,
+    "leadText": "Twenty-nine US states accuse social media giant Meta of addicting minors for profit. Digital technologies are at issue, but the model draws on trials from the analog era.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Swiss tourist sentenced to one year in prison in Bali for social media video",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/a30470a6-1e81-4d2c-90f7-9dc6723ed2c9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/a30470a6-1e81-4d2c-90f7-9dc6723ed2c9.jpg?width=1024&quality=75&auto=webp",
+     "width": 4025,
+     "height": 2684,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4025,2264,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3579,2684,x241,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2218,2218,x613,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2013,2684,x563,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4025,2683,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1623,
+      "y": 422
+     },
+     "imageService": "fastly",
+     "teaserCaption": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+     "teaserAuthor": "AP"
+    },
+    "teaserAuthor": "AP",
+    "nzzId": "ld.10020509",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why was the Swiss tourist sentenced to one year in prison in Bali?",
+    "paywallQuestionTwo": "How do Southeast Asians react to tourists who disregard local rules?",
+    "paywallQuestionThree": "What role does tourism play in the economies of Southeast Asia?",
+    "characterCount": 3785,
+    "product": "NZZ.ch",
+    "documentId": "10020509",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T14:48:14.908Z",
+    "publicationLastUpdated": "2026-08-24T07:48:46.729Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-22T02:48:14.908Z",
+    "teaserCaption": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+    "authorLine": "Andreas Babst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/fb7cc9c4-ab5a-4d06-8baf-cb9eb53c8ee1.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/schweizer-tourist-auf-bali-wegen-video-auf-social-media-zu-einem-jahr-haft-verurteilt-ld.10020509",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 590,
+    "leadText": "A Swiss man disregarded the rules during a religious holiday and filmed himself doing so. Attention-seeking tourists are increasingly encountering an outrage-prone population in Southeast Asia.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Despite TikTok and Instagram, TV debates remain a power factor in election campaigns",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/2bd86e03-0fcb-408d-9a58-39d80c011d69.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/2bd86e03-0fcb-408d-9a58-39d80c011d69.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2689,1488,x52,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x167,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2000,2000,x500,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x780,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The political parties are well aware of television's reach and often fight for airtime. This is especially true in the eastern German state of Mecklenburg-Western Pomerania, where the state premier is said to have pushed the CDU and the Left Party out of televised debates.",
+     "teaserAuthor": "Getty"
+    },
+    "teaserAuthor": "Getty",
+    "nzzId": "ld.10020166",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why do TV debates remain important for election campaigns despite social media?",
+    "paywallQuestionTwo": "How do TV debates influence viewers' voting decisions?",
+    "paywallQuestionThree": "What role does the incumbent's advantage play in TV debates?",
+    "characterCount": 7941,
+    "product": "NZZ.ch",
+    "documentId": "10020166",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-20T14:42:20.599Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-20T15:30:00.000Z",
+    "teaserCaption": "The political parties are well aware of television's reach and often fight for airtime. This is especially true in the eastern German state of Mecklenburg-Western Pomerania, where the state premier is said to have pushed the CDU and the Left Party out of televised debates.",
+    "authorLine": "Susann Kreutzmann, Berlin",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/11/10/b0608516-99ec-46f7-a2b0-281a53332343.jpg?crop=1200,1200,x200,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/deutschland/politik/trotz-tiktok-und-instagram-tv-duelle-bleiben-im-wahlkampf-ein-machtfaktor-ld.10020166",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 1146,
+    "leadText": "The political parties are well aware of television's reach and often fight for airtime. This is especially true in the eastern German state of Mecklenburg-Western Pomerania, where the state premier is said to have pushed the CDU and the Left Party out of televised debates.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«If you can afford less than you would like, you have to better exploit your potential,» says the real estate influencer",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "editor": "1372172",
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/db67478d-b7ca-4a36-8d00-e64815244069.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/db67478d-b7ca-4a36-8d00-e64815244069.jpg?width=1024&quality=75&auto=webp",
+     "width": 4512,
+     "height": 6768,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4512,2538,x0,y1661"
+      },
+      {
+       "name": "4:3",
+       "crop": "4102,3076,x195,y1527"
+      },
+      {
+       "name": "1:1",
+       "crop": "1438,1438,x1458,y1836"
+      },
+      {
+       "name": "3:4",
+       "crop": "3729,4972,x468,y1480"
+      },
+      {
+       "name": "3:2",
+       "crop": "4102,2735,x253,y1446"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Gentiana Ahmeti shows villas, houses and apartments for sale on Instagram. Can she foster understanding for real estate owners?"
+    },
+    "nzzId": "ld.10017996",
+    "readingTime": 600,
+    "paywallQuestionOne": "How does Gentiana Ahmeti influence the image of property owners?",
+    "paywallQuestionTwo": "What role does Instagram play in Ahmetis' real estate marketing?",
+    "paywallQuestionThree": "Why do property owners rarely speak out publicly on housing policy?",
+    "characterCount": 13186,
+    "product": "NZZ.ch",
+    "documentId": "10017996",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-16T03:03:00.000Z",
+    "publicationLastUpdated": "2026-08-17T14:15:12.840Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-16T15:03:00.000Z",
+    "teaserCaption": "Gentiana Ahmeti shows villas, houses and apartments for sale on Instagram. Can she foster understanding for real estate owners?",
+    "authorLine": "Andrea Marti (text), Hannes Heinzer (images)",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?crop=4000,4000,x1000,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/immobilien-influencerin-gentiana-ahmeti-villen-und-die-sicht-der-hausbesitzer-ld.10017996",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1976,
+    "leadText": "Gentiana Ahmeti shows villas, houses and apartments for sale on Instagram. Can she foster understanding for real estate owners?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "U.S. court: Meta does too little to protect children and young people on Instagram and Facebook",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/07/78afaacd-583a-4939-b1e4-e04875995583.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/07/78afaacd-583a-4939-b1e4-e04875995583.jpg?width=1024&quality=75&auto=webp",
+     "width": 4738,
+     "height": 3159,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4738,2665,x0,y247"
+      },
+      {
+       "name": "4:3",
+       "crop": "4212,3159,x263,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3159,3159,x790,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2369,3159,x1184,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4738,3159,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A court in the U.S. state of New Mexico ordered Meta to pay $567 million into a youth mental health fund. The company also was instructed to adapt the functionality of its platforms.",
+     "teaserAuthor": "Manuel Ausloos / Reuters"
+    },
+    "teaserAuthor": "Manuel Ausloos / Reuters",
+    "nzzId": "ld.10018597",
+    "readingTime": 120,
+    "paywallQuestionOne": "Why was Meta fined $567 million?",
+    "paywallQuestionTwo": "What protective measures must Meta implement for young people?",
+    "paywallQuestionThree": "How does Meta react to the court's verdict?",
+    "characterCount": 2719,
+    "product": "NZZ.ch",
+    "documentId": "10018597",
+    "layout": "regular",
+    "publicationDate": "2026-08-07T05:20:26.547Z",
+    "publicationLastUpdated": "2026-08-07T06:19:22.495Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-07T17:20:26.547Z",
+    "teaserCaption": "A court in the U.S. state of New Mexico ordered Meta to pay $567 million into a youth mental health fund. The company also was instructed to adapt the functionality of its platforms.",
+    "url": "https://www.nzz.ch/technologie/meta-macht-laut-einem-us-gericht-zu-wenig-zum-schutz-von-kindern-und-jugendlichen-auf-instagram-und-facebook-ld.10018597",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 430,
+    "leadText": "A court in the U.S. state of New Mexico ordered Meta to pay $567 million into a youth mental health fund. The company also was instructed to adapt the functionality of its platforms.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021277",
+    "name": "The key witness in the meta-trial warns: «Instagram is a service that invites strangers into our children's bedrooms at night.»",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Technologie",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The key witness in the meta-trial warns: «Instagram is a service that invites strangers into our children's bedrooms at night.»",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1572105,
+       "name": "Gioia da Silva",
+       "shortName": "gds",
+       "pianoId": "fd9b3a05-4d23-4ac1-8985-8c23a3e05570",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T13:31:37.319Z",
+     "updateTimestamp": "2026-08-27T13:31:37.319Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "interview",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021277",
+   "pageType": "regular",
+   "primaryCategory": "Technologie",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Meta-complaint: Arturo Béjar criticizes the lack of youth protection on Instagram",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6500,3656,x0,y338&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Gioia da Silva",
+  "description": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+  "news_keywords": "The key witness in the meta-trial warns: «Instagram is a service that invites strangers into our children's bedrooms at night,» Interview, Technology, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T17:31:37+02:00",
+  "date": "2026-08-27T17:31:37+02:00",
+  "canonical": "https://www.nzz.ch/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "INTERVIEW - The key witness in the meta-trial warns: «Instagram is a service that invites strangers into our children's bedrooms at night.»",
+  "ogTitle": "Whistleblower Arturo Béjar doubts Meta's promises of protection: «Instagram has not become safer.»",
+  "ogUrl": "https://www.nzz.ch/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+  "mrf:cms_id": "nzz:ld.10021277",
+  "mrf:sections": "Technologie;WTM",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021277",
+  "nzzAuthors": [
+   {
+    "id": 1572105,
+    "name": "Gioia da Silva",
+    "shortName": "gds",
+    "pianoId": "fd9b3a05-4d23-4ac1-8985-8c23a3e05570",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:55 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/technologie",
+      "name": "Technology"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Meta-complaint: Arturo Béjar criticizes the lack of youth protection on Instagram"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277"
+   },
+   "headline": "Meta-complaint: Arturo Béjar criticizes the lack of youth protection on Instagram",
+   "datePublished": "2026-08-27T17:31:37+02:00",
+   "dateModified": "2026-08-27T17:31:37+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Former Facebook employee Arturo Béjar puts the settlement, in which Meta commits to greater youth protection, into perspective. He calls for more extensive measures and attacks the leadership: Experience has shown that Mark Zuckerberg's assurances are meaningless.",
+   "isAccessibleForFree": false,
+   "articleSection": "Technologie",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/4eb7cf64-6d59-4b18-a834-17a74354782e.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6500,3656,x0,y338&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Gioia da Silva"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 522384,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/technologie/der-kronzeuge-im-meta-prozess-warnt-instagram-ist-ein-dienst-der-fremde-in-die-schlafzimmer-unserer-kinder-einlaedt-in-der-nacht-ld.10021277",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "interview",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021277",
+    "channel=Technologie"
+   ],
+   "ContentCreated": "2026-08-27T13:31:37.319Z",
+   "ContentAuthor": "Gioia da Silva",
+   "ContentSection": "Technologie",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie effektiv sind Metas neue Schutzmassnahmen für Jugendliche?\nWarum fordert Arturo Béjar externe Kontrolle über Metas Sicherheitsfunktionen?\nWelche Rolle spielt Instagram bei der Förderung von schädlichem Verhalten?",
+   "ldId": "ld.10021277",
+   "channel": "Technologie",
+   "heading": "Der Kronzeuge im Meta-Prozess mahnt: «Instagram ist ein Dienst, der Fremde in die Schlafzimmer unserer Kinder einlädt, in der Nacht»",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

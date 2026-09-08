@@ -1,0 +1,105 @@
+# Why Venezuela? What goals does Trump pursue with his naval force – and which ones are less likely to be pursued?
+
+*President Trump's declaration of a no-fly zone over Venezuela suggests that an American attack is imminent. However, Washington could also have entirely different plans.*
+
+**Peter Rásonyi** · Pro · 2025-12-03 · 2077 words · [ld.1914561](https://www.nzz.ch/pro/warum-venezuela-welche-ziele-trump-mit-seinem-gewaltigen-flottenverband-anstreben-koennte-und-welche-eher-nicht-ld.1914561)
+
+![The US's most modern aircraft carrier is cruising the Caribbean, ready to attack Venezuela. What is Commander-in-Chief Trump trying to achieve with this?](https://img-msp-prod.nzz.ch/2025/11/14/b0a00e94-f831-4dbd-866e-8b4cb9da0556.jpg?width=1024)
+*The US's most modern aircraft carrier is cruising the Caribbean, ready to attack Venezuela. What is Commander-in-Chief Trump trying to achieve with this?* (Mcs Alyssa Joy / US Navy / Imago)
+
+In recent weeks, the US has deployed its most modern and largest aircraft carrier and a dozen other warships to the coast of Venezuela. Over the weekend, President Trump declared Venezuelan airspace a no-fly zone on social media. Since this warning, a military escalation seems to hang in the air.
+
+Approximately 15,000 American soldiers and officers are awaiting deployment orders. But which orders?
+
+One would expect this question to be resolved before a commander-in-chief issues marching orders for such a large contingent of troops. But far from it. The answer is highly unclear. In any case, it is not being communicated transparently by either the White House or the Pentagon. What is President Trump's objective in Venezuela? Five scenarios analyze possible goals of the administration in Washington and the likelihood of their realization.
+
+## 1. Fight against drug trafficking
+
+![A motorboat burned after an American airstrike in September. According to the American government, the boat was transporting drugs from Venezuela.](https://img-msp-prod.nzz.ch/2025/09/16/a801d7ae-4d5b-4eac-a7fc-d9969ac5d2c1.jpg?crop=2160,1440,x200,y0)
+*A motorboat burned after an American airstrike in September. According to the American government, the boat was transporting drugs from Venezuela.* (Truth Social via Reuters)
+
+For months, President Trump and his cabinet have unanimously cited a single reason for the intervention in Venezuela: to combat drug trafficking and thus reduce the number of drug-related deaths in the United States. This goal has been demonstrated since September through the bombing of small, high-powered boats in the Caribbean used to transport drugs north from Venezuela. According to the Pentagon, the U.S. military has so far conducted 21 attacks against drug boats, killing 83 people.
+
+The intervention is legitimized in Washington through two strategies: First, the drug cartels are labeled as terrorist organizations. Second, Venezuelan President Nicolás Maduro is described as the head of the diffuse criminal network «Cartel of the Suns,» which is involved in drug trafficking, among other things. High-ranking officers of the Venezuelan armed forces are part of this network. An indictment against Maduro has been pending in the US since 2020.
+
+The systematic disabling of drug boats and the killing of drug couriers by the military is highly controversial from a legal standpoint. Resistance to the practice is gradually forming in Congress. However, politically, Trump is likely to score points with his supporters. A hard line against criminals is popular and aligns with Trump's campaign promises, especially when the criminals are foreigners.
+
+However, there is a problem with this argument: Venezuela plays a very minor role in the international drug trade. Of the 80,000 Americans who died from drug abuse in 2024, 48,000 were victims of fentanyl and its derivatives. 22,000 died in connection with cocaine use. The main problem, therefore, lies with fentanyl. This drug is neither produced nor transported in Venezuela to any significant extent.
+
+> [embed: q-tool (chart/map) 7b73f2997dddf65018467c6221dd81a5]
+
+The cocaine also doesn't originate in Venezuela, but mostly in Colombia. A small portion, however, is smuggled through Venezuela before being transported further north by sea. Attacks on this transport route can disrupt the trade, forcing it to seek alternative routes. However, if the goal were to strike at the heart of the cocaine trade, Venezuela would be the wrong target.
+
+It is also disconcerting that Trump pardoned former Honduran President Juan Orlando Hernández this week. He was serving a 45-year prison sentence in the US for a leading role in drug trafficking into the United States.
+
+Quite apart from that, an aircraft carrier isn't needed to combat individual drug couriers. The Trump administration's fight against drug terrorism may be popular domestically, but it's an implausible explanation for the massive troop buildup.
+
+## 2. Access to Venezuela's oil reserves
+
+![After nationalization, the Venezuelan oil industry went downhill from there.](https://img-msp-prod.nzz.ch/2025/12/02/20b2b5c2-d8ed-4576-b3e2-f983577beb7e.jpg?width=1024)
+*After nationalization, the Venezuelan oil industry went downhill from there.* (Carlos Garcia Rawlins/Reuters)
+
+A classic theory is that Trump wants to give the American economy access to Venezuela's vast oil reserves. Their production has largely collapsed under socialist mismanagement and Western sanctions. What little is exported goes primarily to China. However, this theory is contradicted by the fact that the US already has access, which Trump himself has questioned. The American oil company Chevron extracts roughly a quarter of Venezuela's oil. Trump initially prohibited this activity and later reinstated it.
+
+Maduro can only leverage the commitment and technology of American oil companies to monetize the reserves. Accordingly, he has made far-reaching offers. President Biden had already initiated a strategy of gradual economic cooperation in exchange for Democratic concessions. Trump could also pursue this path. That would be much simpler and less risky than military intervention.
+
+It is possible, however, that Trump's strategy involves creating a military threat to secure favorable deals with Maduro without seriously seeking military escalation. In any case, a certain effect is already visible. Maduro is in talks with Trump and has shown cooperation in accepting Venezuelan migrants deported from the US. He has also released several American prisoners.
+
+## 3. Securing the American sphere of influence
+
+![President James Monroe, who reigned from 1817 to 1825, shaped the foreign policy doctrine of the USA for two centuries.](https://img-msp-prod.nzz.ch/2023/11/17/ad6feecd-d39d-4927-a2e6-987002b076d9.jpeg?crop=2427,1618,x0,y416)
+*President James Monroe, who reigned from 1817 to 1825, shaped the foreign policy doctrine of the USA for two centuries.* (Imago)
+
+Since 1823, the so-called Monroe Doctrine has been considered the guiding principle of American foreign policy in Latin America. According to this doctrine, the USA views the southern continent as its backyard, where it claims undisputed hegemony. This has been enforced over the past 200 years through countless military, diplomatic, intelligence, and trade policy initiatives.
+
+Since the turn of the millennium, however, successive American administrations have neglected the South. Initially, the fight against Islamist terrorism dominated, focusing attention on the Middle East. Later, China's rise to superpower status demanded greater attention to the Indo-Pacific. China strategically exploited the resulting vacuum in South America. While in 2000 less than 1 percent of Latin American imports came from China, today the country is the continent's most important trading partner. Furthermore, China has provided substantial loans and investments in the region's infrastructure. This development has significantly diminished the influence of the United States.
+
+Among foreign policy advisors in Washington, there is a school of thought that advocates a return to the Monroe Doctrine under President Trump. According to this line of thinking, Trump would pursue a geopolitical strategy whereby the three major powers—the US, China, and Russia—each have a right to an environment in which they are the undisputed hegemonic powers. These rights would be mutually respected in order to reduce potential conflicts.
+
+Should these considerations be decisive for the current intervention, Venezuela would be a plausible target. The country is intertwined with the Chinese economy and dependent on substantial loans repaid through oil exports. It also maintains close strategic and diplomatic ties with China, as well as with Russia and Iran. Venezuela is part of the global alliance of states that position themselves as strategic adversaries of the United States.
+
+Looking beyond Venezuela, however, doubts arise about the claim that the recent intervention aimed at a return to the Monroe Doctrine. If the US wanted to curb Chinese influence in Latin America, it would have to compete with China to strengthen its ties with the southern states. This could be achieved primarily through respectful diplomatic exchange, mutually beneficial economic relations, the provision of loans and aid for infrastructure projects, and the conclusion of security agreements. This has been the path taken by American administrations for decades – alongside occasional targeted military interventions.
+
+But the Trump administration has spectacularly abandoned this path. Latin American immigrants are being categorically branded as criminals and treated disrespectfully and rudely. High tariffs have been imposed on allied countries; in the case of Brazil, they amount to a staggering 50 percent. Panama has been openly threatened with military intervention to recapture the Panama Canal. American aid has been abruptly halted. This is hardly a charm offensive designed to bring the two continents closer together again.
+
+## 4. Violent overthrow of the regime in Venezuela
+
+![Despite the threatening American naval presence, President Nicolás Maduro appeared in public in Caracas on Monday.](https://img-msp-prod.nzz.ch/2025/12/02/a224ea49-5485-4a5e-acdf-36599e625eec.jpg?width=1024)
+*Despite the threatening American naval presence, President Nicolás Maduro appeared in public in Caracas on Monday.* (Leonardo Fernandez Viloria/Reuters)
+
+The massive armada that Trump deployed to Venezuela suggests a military intervention. While military strategists believe the troop strength is far from sufficient to occupy the country, a focused intervention aimed at overthrowing the regime in Caracas would be conceivable, leveraging American air superiority in conjunction with a temporarily deployed contingent of ground troops.
+
+The removal of the dictatorship is long overdue for humanitarian and libertarian reasons. The socialist regime established by Hugo Chávez and his successor Maduro has terrorized the population for nearly three decades. It has devastated the economy of the country with the world's largest recoverable oil reserves and driven the nation into poverty. The 2018 and 2024 presidential elections were stolen by Maduro; opposition protests were brutally suppressed. Eight million desperate Venezuelans have fled their homeland.
+
+Trump would deserve high praise if he could promote Venezuela's return to democracy. But will he risk a military invasion to achieve this? Wasn't it Trump who criticized the political establishment in Washington for ordering costly military adventures in places like Afghanistan, Iraq, and Libya in the name of lofty democratic values, while neglecting the interests of the population at home?
+
+Venezuela has a military and paramilitary force of around 100,000 troops. It possesses Russian anti-aircraft systems and fighter jets. Even if it's uncertain whether the military would defend the regime with all its might, one thing is clear: a major US military offensive would be no walk in the park. Such an undertaking would pose a significant domestic political risk for Trump and the Republicans. Resistance and criticism would also form in the region, potentially driving these countries even further into China's arms. A military invasion of Venezuela therefore seems highly improbable.
+
+## 5. Implosion of Maduro's rule
+
+![Some high-rise buildings in Caracas do not disguise the impoverishment of large segments of the population.](https://img-msp-prod.nzz.ch/2025/12/02/f96e8f8a-ee10-4fad-a9d9-9f42236cad18.jpg?width=1024)
+*Some high-rise buildings in Caracas do not disguise the impoverishment of large segments of the population.* (Gaby Oraa / Reuters)
+
+Nevertheless, Trump's fleet could serve an important purpose. It could act as a deterrent, compelling Maduro to voluntarily withdraw and go into exile, most likely to Moscow. It is already apparent that Maduro fears a potential American airstrike and only appears in public under heightened caution.
+
+According to a Reuters report, Maduro spoke with Trump by phone last week. During the call, Maduro reportedly offered to go into exile in exchange for a comprehensive amnesty. Trump is said to have rejected the conditions, whereupon Maduro remained in Caracas. On Monday, he made a show of defiance at a staged demonstration in front of the presidential palace. A swift withdrawal does not appear likely at the moment.
+
+Alternatively, it is conceivable that American pressure is leading to the conviction within the military ranks that the regime has no future and that an uprising against the leadership is the better alternative. Large segments of the population are impoverished. Maduro is hated. Since his electoral fraud in 2024, he has lost any semblance of legitimacy. At the same time, the country has a well-organized and legitimate opposition centered around the likely election winner, Edmundo González, who lives in exile, and Nobel Peace Prize laureate María Machado.
+
+There are compelling arguments for the armed forces to switch sides to the democratic camp. However, this would need to be coordinated, as individual defectors face brutal punishments. The regime secures its power with intelligence officers sent from Cuba who infiltrate and monitor the armed forces, as well as a paramilitary thug squad. The fate of the military leadership and government officials is closely intertwined due to their deliberate complicity in corrupt and criminal activities.
+
+An implosion of the hated Maduro regime is overdue and possible, but by no means certain. Moreover, there is a risk that the transfer of power could be chaotic and violent rather than peaceful. Venezuela is home to various heavily armed groups, often linked to drug cartels, that could cause unrest. It is not yet known whether the American government has developed plans to guarantee a peaceful regime change.
+
+Should he succeed, it would be a huge victory, one that Trump would rightfully claim for himself. Ideally, this would have repercussions as far away as Cuba, where another terrorist regime is teetering under the contradictions of its socialist mismanagement. However, if the regime in Caracas holds firm, Trump would eventually have to withdraw his fleet without having accomplished his mission. His carefully cultivated image as a strongman and successful dealmaker would be tarnished.
+
+## The principle of hope
+
+However you look at it, a consistent domestic and foreign policy strategy is hardly discernible behind the massive American military buildup. Contradictions and question marks abound. Clear leadership from the president is evidently lacking, allowing various actors in his inner circle to push in different directions.
+
+A scenario of an uprising among the security forces against the Maduro regime, which would initiate an orderly democratic transition, would clearly be desirable. Whether this is truly the goal of President Trump, who simultaneously shows little interest in strengthening beleaguered democratic states like Taiwan or Ukraine and considerable sympathy for autocrats like Vladimir Putin and Xi Jinping, remains to be seen. Should the American intervention prove successful, this would be of secondary importance.
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- The US has conducted a massive military buildup off Venezuela's coast; the exact purpose remains unclear, with potential reasons including combating drug trafficking, accessing oil reserves, or securing American hegemony.
+- President Trump may aim to pressure the Maduro regime to step down or provoke an internal coup, yet clear strategic objectives seem absent.
+- Critics emphasize that Venezuela plays a minor role in global drug trade, and doubts persist regarding the success of military escalation or a peaceful transition.

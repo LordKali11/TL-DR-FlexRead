@@ -1,0 +1,115 @@
+{
+  "nzz_id": "ld.10020894",
+  "document_id": 10020894,
+  "url": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+  "language": "en",
+  "machine_translated_from_de": true,
+  "section": "Panorama",
+  "ressort_path": "panorama",
+  "genre_flag": "",
+  "layout": "regular",
+  "published_at": "2026-08-25T13:09:03.063Z",
+  "last_updated": "2026-08-25T13:49:28.806Z",
+  "headline": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+  "lead": "First break-offs Monday afternoon; extensive cordoning of affected area",
+  "author_line": "",
+  "authors": [],
+  "reading_time_seconds": 120,
+  "word_count": 366,
+  "character_count": 2126,
+  "seo_title": "Valais: Impending glacier collapse at Weisshorn near Randa",
+  "social_title": "Valais: Municipality warns of imminent glacier collapse at the Weisshorn",
+  "print_title": "Danger at Weisshorn: Impending glacier collapse near Randa",
+  "print_subtitle": "According to the municipality, demolition could take place in the coming days. The affected area has been cordoned off",
+  "summary_bullets_en": [
+    "In the Swiss municipality of Randa, a glacier collapse on Weisshorn-East threatens; the affected area has been closed off.",
+    "The glacier is now under closer monitoring as the ice masses are moving faster, potentially leading to a collapse.",
+    "Some buildings are within the danger zone, while most of the village is just outside; barriers and instructions must be followed."
+  ],
+  "key_questions_de": [
+    "Welche Massnahmen wurden in Randa wegen des drohenden Gletscherabbruchs ergriffen?",
+    "Wie gross ist die Gefahr für das Dorf Randa durch den Weisshorn-Gletscher?",
+    "Welche Bereiche wurden in der Gemeinde als Gefahrenzonen definiert?"
+  ],
+  "tags": [
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020894",
+    "channel=Panorama"
+  ],
+  "sections_tag": "Panorama",
+  "teaser_image": {
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1024",
+    "caption": "First break-offs Monday afternoon; extensive cordoning of affected area",
+    "credit": "Laurent Gillieron / Keystone",
+    "width": 4048,
+    "height": 2699
+  },
+  "original_de": {
+    "headline": "In der Walliser Gemeinde Randa droht ein Gletscherabbruch am Weisshorn",
+    "lead": "Am Montagnachmittag kam es zu ersten Abbrüchen. Das betroffene Gebiet ist weiträumig gesperrt worden.",
+    "kicker": null
+  },
+  "body": [
+    {
+      "type": "image",
+      "url": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?crop=4048,2699,x0,y0",
+      "caption": "A rockfall occurred in the Valais village of Randa thirty years ago. The house-sized boulders can still be seen today in the gigantic debris cone.",
+      "credit": "Laurent Gillieron / Keystone",
+      "width": 4048,
+      "height": 2699
+    },
+    {
+      "type": "paragraph",
+      "text": "_cov_./_cog._ The Valais municipality of Randa increased monitoring of the Weisshorn East hanging glacier above the village. Authorities reported that on Monday, it was determined the ice masses were moving faster and a break-off could occur. At least three break-offs from the unstable area occurred Monday afternoon, authorities added on Tuesday."
+    },
+    {
+      "type": "paragraph",
+      "text": "The largest break-off occurred between 5 and 6 p.m. The debris remained on the glacier plateau below. Authorities could not yet assess how much material broke off due to poor weather conditions. It also remained unclear whether the increased danger would continue or ease."
+    },
+    {
+      "type": "embed",
+      "service": "q-tool (chart/map)",
+      "id": "38eb3c6b76ee3897ce09f60436db0a33"
+    },
+    {
+      "type": "embed",
+      "service": "q-tool (chart/map)",
+      "id": "619087606ea5c12bade65f99ddbde210"
+    },
+    {
+      "type": "paragraph",
+      "text": "The defined danger zone still must not be entered. Break-offs with a range extending into the marked danger zone are possible. According to the map, only individual buildings are located within it. The majority of the village is outside, but very close to the endangered area. The applicable cordons and instructions had to be strictly observed, authorities stated."
+    },
+    {
+      "type": "paragraph",
+      "text": "The municipality wrote in a statement that movements on the Weisshorn East hanging glacier had been more closely monitored since the end of June. At that time, the hazard perimeter had also been defined. However, movements had significantly increased on Monday, and the situation was then being checked several times a day, it added."
+    },
+    {
+      "type": "heading",
+      "text": "The 1991 rockfall"
+    },
+    {
+      "type": "paragraph",
+      "text": "More than thirty years ago, one of the largest rockfalls in Europe in the 20th century occurred near Randa in the Mattertal. According to the Research Center for Alpine Environments (Crealp), 30 million cubic meters of rock fell toward the valley in three phases in spring 1991. The village of Randa is located in the Mattertal, which connects Visp with Zermatt. The landslides dammed the Mattervispa River. Parts of Randa village were submerged, roads and railways were damaged, and a several-centimeter-thick layer of dust covered the valley."
+    },
+    {
+      "type": "paragraph",
+      "text": "The event led to the development of new technologies and measures for the early detection of rockfalls in Switzerland."
+    },
+    {
+      "type": "image",
+      "url": "https://img-msp-prod.nzz.ch/2026/08/25/5625855c-a882-4a4f-81a9-15d8a6bf1839.jpg?crop=1300,867,x0,y0",
+      "caption": "Excavators and trucks clear away rock in the landslide area near Randa in the Mattertal valley, photographed in August 1991.",
+      "credit": "STR / Keystone",
+      "width": 1300,
+      "height": 867
+    }
+  ],
+  "body_text": "_cov_./_cog._ The Valais municipality of Randa increased monitoring of the Weisshorn East hanging glacier above the village. Authorities reported that on Monday, it was determined the ice masses were moving faster and a break-off could occur. At least three break-offs from the unstable area occurred Monday afternoon, authorities added on Tuesday.\n\nThe largest break-off occurred between 5 and 6 p.m. The debris remained on the glacier plateau below. Authorities could not yet assess how much material broke off due to poor weather conditions. It also remained unclear whether the increased danger would continue or ease.\n\nThe defined danger zone still must not be entered. Break-offs with a range extending into the marked danger zone are possible. According to the map, only individual buildings are located within it. The majority of the village is outside, but very close to the endangered area. The applicable cordons and instructions had to be strictly observed, authorities stated.\n\nThe municipality wrote in a statement that movements on the Weisshorn East hanging glacier had been more closely monitored since the end of June. At that time, the hazard perimeter had also been defined. However, movements had significantly increased on Monday, and the situation was then being checked several times a day, it added.\n\nThe 1991 rockfall\n\nMore than thirty years ago, one of the largest rockfalls in Europe in the 20th century occurred near Randa in the Mattertal. According to the Research Center for Alpine Environments (Crealp), 30 million cubic meters of rock fell toward the valley in three phases in spring 1991. The village of Randa is located in the Mattertal, which connects Visp with Zermatt. The landslides dammed the Mattervispa River. Parts of Randa village were submerged, roads and railways were damaged, and a several-centimeter-thick layer of dust covered the valley.\n\nThe event led to the development of new technologies and measures for the early detection of rockfalls in Switzerland."
+}

@@ -1,0 +1,1077 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1e31qmmv90",
+   "content": {
+    "title": "China's silent war for Taiwan has long begun",
+    "lead": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-HgVHhkgxgE",
+      "content": {
+       "layout": "authorprofile",
+       "title": "David Vogel",
+       "url": "/impressum/david-vogel-ld.1551662",
+       "teaserImage": {
+        "originalUrl": "/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "audio-url",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "audio-url",
+   "id": "doc-1k1eo10670",
+   "content": {
+    "image": {
+     "author": "David Vogel with Jürgen Kremb",
+     "caption": "",
+     "originalUrl": "/2026/09/01/8a35e5b9-f012-4769-a063-f00a531e3088.jpg?width=1024",
+     "width": 3000,
+     "height": 3000,
+     "imageService": "fastly"
+    },
+    "audioname": "China's silent war for Taiwan has long begun",
+    "author": "David Vogel with Jürgen Kremb",
+    "date": "2. 9. 2026",
+    "audiosrc": {
+     "service": "podigee-audio-url",
+     "params": {
+      "src": "https://audio.podigee-cdn.net/2584737-m-75dfe7983db77acc14e92b078e903bf8.mp3"
+     }
+    },
+    "duration": 1660.9436734693877,
+    "caption": ""
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-8bae7f6d",
+   "identifier": "barrier",
+   "prevElement": "audio-url",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqm3efk90",
+   "content": {
+    "text": "<em>Your opinion matters: How do you like the podcast <a href=\"https://salon.nzz.ch/c/r/umfrage_geopolitik_podcast\">«NZZ Geopolitik»</a>? </em>"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1e31r87h90",
+   "content": {
+    "title": "In this podcast episode",
+    "id": "subtitle-in-dieser-podcast-episode"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqm2cn0f0",
+   "content": {
+    "text": "«Beijing is waging a hybrid war to wear down the democratic island republic and force a unification,» says veteran China correspondent Jürgen Kremb. In the new episode of «NZZ Geopolitik,» the sinologist recounts the methods of this war: from millions of daily cyberattacks on critical infrastructure such as water and electricity works, to the targeted flooding of social networks with fake news by troll armies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0a5tv281",
+   "content": {
+    "text": "The Chinese’s goal, Kremb says, is to divide society in Taiwan and break its will to resist. Kremb, who himself was pursued in Taiwan by a suspected agent, says the West must not stand by idly: «What is happening in Taiwan also threatens us as free and democratic societies. We must wake up.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0a6b5700",
+   "content": {
+    "text": "For China’s President Xi Jinping, Kremb says, the annexation of Taiwan is, on the one hand, a personal mission to secure his place in history. On the other hand, he adds, the mere existence of a free and democratic Taiwan is considered a fundamental threat to the legitimacy of the Communist Party."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1inop84ao1",
+   "content": {
+    "text": "<em>All episodes of «NZZ Geopolitik: Understanding the Big Picture» can be found in <a href=\"https://www.nzz.ch/podcast/geopolitik\">this overview</a>.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1fab2afhl0",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "title": "China's silent war for Taiwan has long begun",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1024&quality=75&auto=webp",
+   "width": 3000,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3000,1687,x0,y350"
+    },
+    {
+     "name": "4:3",
+     "crop": "3000,2250,x0,y320"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x232,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3000,2000,x0,y371"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage."
+  },
+  "flag": "Podcast «NZZ Geopolitics»",
+  "showComments": true,
+  "nzzId": "ld.10021963",
+  "readingTime": 60,
+  "characterCount": 1396,
+  "breadcrumbs": [
+   {
+    "name": "Podcast",
+    "path": "/podcast"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021963,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+  "nzzAuthors": [
+   {
+    "id": 1550920,
+    "name": "David Vogel",
+    "shortName": "dv",
+    "pianoId": "00dd7ff4-465b-4389-9377-a9442cf4706c",
+    "external": false
+   }
+  ],
+  "authorLine": "David Vogel",
+  "authorImage": {
+   "originalUrl": "/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1551662,
+    "name": "David Vogel (dv.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/350dcacf-0037-4900-bd54-d0ac546e8332.png?width=1024&quality=75&auto=webp",
+  "url": "/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+  "department": {
+   "name": "Podcast",
+   "path": "/podcast"
+  },
+  "estimationWordCount": 235,
+  "leadText": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+  "nzzSummaryEN": "- China is waging a hybrid war against Taiwan to destabilize the island and force unification, using methods such as cyberattacks, disinformation, and espionage.\n- Xi Jinping views control over Taiwan as a personal mission and sees it as a threat to the Communist Party's legitimacy.\n- The West is warned not to remain idle, as similar threats could affect other democratic societies.",
+  "nzzSummaryDE": "China is waging a hybrid war against Taiwan to destabilize the island and force unification, using methods such as cyberattacks, disinformation, and espionage.\n Xi Jinping views control over Taiwan as a personal mission and sees it as a threat to the legitimacy of the Communist Party.\n - The West is warned not to stand idly by, as similar threats could also affect democratic societies.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The silent war for Taiwan",
+  "nzzPrintSubtitle": "Beijing is attempting to destabilize Taiwan through cyberattacks and disinformation.",
+  "teaserPodcastTitle": "China's silent war for Taiwan has long begun",
+  "teaserPodcastAuthor": "David Vogel mit Jürgen Kremb ",
+  "teaserPodcastDate": "02.09.2026",
+  "teaserPodcastUrl": "https://audio.podigee-cdn.net/2584737-m-75dfe7983db77acc14e92b078e903bf8.mp3",
+  "teaserPodcastDuration": "28 ",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+   "title": "China's strategy: Hybrid war against Taiwan without armed force",
+   "socialMediaTitle": "Taiwan in the crosshairs: China's gradual approach without military force",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y350&wmark=nzz"
+  },
+  "ldPublicationId": 2487344,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Taiwan",
+    "slug": "/themen/taiwan"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   },
+   {
+    "name": "Xi Jinping",
+    "slug": "/themen/xi-jinping"
+   },
+   {
+    "name": "Cyberattack",
+    "slug": "/themen/cyberangriff"
+   },
+   {
+    "name": "Social Media",
+    "slug": "/themen/social-media"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Vladimir Putin",
+    "slug": "/themen/wladimir-putin"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 0,
+   "openToComment": false,
+   "newestTopComments": [],
+   "confirmed": true
+  },
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": false,
+  "locale": "de-CH",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "taiwan",
+   "name": "Taiwan",
+   "tagName": "Taiwan",
+   "qId": "Q865",
+   "seoTitle": "Taiwan – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:17:43.332Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/taiwan",
+   "size": 558,
+   "relatedTopics": [
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    },
+    {
+     "name": "Xi Jinping",
+     "slug": "/themen/xi-jinping"
+    },
+    {
+     "name": "Cyberangriff",
+     "slug": "/themen/cyberangriff"
+    },
+    {
+     "name": "Social Media",
+     "slug": "/themen/social-media"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Wladimir Putin",
+     "slug": "/themen/wladimir-putin"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Soon, anyone can unleash autonomous AI agents on their enemies: The attack on Taiwan marks a dangerous turning point",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "teaserImage": {
+     "originalUrl": "/2026/08/14/b2bfbcb8-86ae-4696-af74-65e43e448840.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/14/b2bfbcb8-86ae-4696-af74-65e43e448840.jpg?width=1024&quality=75&auto=webp",
+     "width": 5044,
+     "height": 3363,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2847,1602,x2025,y203"
+      },
+      {
+       "name": "4:3",
+       "crop": "2784,2088,x2128,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3363,3363,x841,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1895,2527,x2494,y128"
+      },
+      {
+       "name": "3:2",
+       "crop": "5044,3363,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Autonomous AI agents help attackers more than defenders in cyber warfare. Western democracies must now make their digital resilience and the protection of critical infrastructure a central task of national security.",
+     "teaserAuthor": "Annabelle Chih / Getty"
+    },
+    "teaserAuthor": "Annabelle Chih / Getty",
+    "tags": [
+     "Technologie aktuell",
+     "Neue Technologien im Krieg"
+    ],
+    "nzzId": "ld.10019537",
+    "readingTime": 180,
+    "paywallQuestionOne": "How do AI agents exacerbate the asymmetry in cyber warfare?",
+    "paywallQuestionTwo": "Why is the attack on Taiwan a wake-up call for Western democracies?",
+    "paywallQuestionThree": "How can states strengthen their digital defenses?",
+    "characterCount": 3870,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10019537",
+    "layout": "opinion",
+    "publicationDate": "2026-08-14T14:50:00.000Z",
+    "publicationLastUpdated": "2026-08-14T15:01:15.130Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-15T02:50:00.000Z",
+    "teaserCaption": "Autonomous AI agents help attackers more than defenders in cyber warfare. Western democracies must now make their digital resilience and the protection of critical infrastructure a central task of national security.",
+    "authorLine": "Gioia da Silva",
+    "authorImage": {
+     "originalUrl": "/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "2752,2752,x688,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/10/08/d020d476-4be3-4f7f-a939-58ebcb1530ac.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/bald-kann-jeder-autonome-ki-agenten-auf-seine-feinde-hetzen-der-angriff-auf-taiwan-markiert-einen-gefaehrlichen-wendepunkt-ld.10019537",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 571,
+    "leadText": "Autonomous AI agents help attackers more than defenders in cyber warfare. Western democracies must now make their digital resilience and the protection of critical infrastructure a central task of national security.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 21,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "For the first time, a country has been attacked using AI agents: Taiwan is experiencing what cyber warfare will look like in the future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Anna Weber, Gioia da Silva, Martin Koelling (Tokyo)",
+    "teaserImage": {
+     "originalUrl": "/2026/08/13/df5938a5-2b41-4136-a645-0c1542a4b68d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/df5938a5-2b41-4136-a645-0c1542a4b68d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5000,
+     "height": 3334,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5000,2812,x0,y261"
+      },
+      {
+       "name": "4:3",
+       "crop": "4445,3334,x277,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3334,3334,x833,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2501,3334,x1250,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5000,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "AI agents may have carried out the cyberattack largely autonomously. Experts expect such incidents to become more frequent in the future as AI's hacking capabilities increase.",
+     "teaserAuthor": "Daniel Ceng / Imago"
+    },
+    "teaserAuthor": "Daniel Ceng / Imago",
+    "tags": [
+     "Technologie aktuell",
+     "Hackerangriffe und Cybersicherheit"
+    ],
+    "nzzId": "ld.10019401",
+    "readingTime": 300,
+    "paywallQuestionOne": "How autonomously did the AI ​​agents act during the cyberattack on Taiwan?",
+    "paywallQuestionTwo": "What role does AI play in modern cyber warfare?",
+    "paywallQuestionThree": "How can states protect themselves against AI-based attacks?",
+    "characterCount": 7018,
+    "product": "NZZ.ch",
+    "documentId": "10019401",
+    "layout": "regular",
+    "publicationDate": "2026-08-14T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-14T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-14T15:30:00.000Z",
+    "teaserCaption": "AI agents may have carried out the cyberattack largely autonomously. Experts expect such incidents to become more frequent in the future as AI's hacking capabilities increase.",
+    "url": "https://www.nzz.ch/technologie/zum-ersten-mal-wurde-ein-land-mithilfe-von-ki-agenten-angegriffen-taiwan-erlebt-wie-cyber-kriegsfuehrung-kuenftig-aussehen-wird-ld.10019401",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 1029,
+    "leadText": "AI agents may have carried out the cyberattack largely autonomously. Experts expect such incidents to become more frequent in the future as AI's hacking capabilities increase.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "From the Donbass to the Pacific: Threatened democracies begin to learn from each other",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Junhua Zhang",
+    "flag": "Guest opinion",
+    "editor": "1373237",
+    "teaserImage": {
+     "originalUrl": "/2026/08/11/2c3be68c-9815-43e4-8b42-a6f7e4416124.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/11/2c3be68c-9815-43e4-8b42-a6f7e4416124.jpg?width=1024&quality=75&auto=webp",
+     "width": 5327,
+     "height": 3551,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5327,2996,x0,y554"
+      },
+      {
+       "name": "4:3",
+       "crop": "4735,3551,x592,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3551,3551,x981,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2663,3551,x1397,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5327,3551,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Ukraine's success in repelling a major adversary, closely watched in East Asia",
+     "teaserAuthor": "Valentyn Ogirenko / Reuters"
+    },
+    "teaserAuthor": "Valentyn Ogirenko / Reuters",
+    "nzzId": "ld.10018322",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does Ukraine influence East Asia's defense strategies?",
+    "paywallQuestionTwo": "What role does drone technology play in the Ukraine-Japan-Taiwan cooperation?",
+    "paywallQuestionThree": "How is China reacting to the new alliances of democratic states?",
+    "characterCount": 5580,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10018322",
+    "layout": "regular",
+    "publicationDate": "2026-08-12T03:20:00.000Z",
+    "publicationLastUpdated": "2026-08-12T03:20:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-12T15:20:00.000Z",
+    "teaserCaption": "Ukraine's success in repelling a major adversary, closely watched in East Asia",
+    "url": "https://www.nzz.ch/meinung/vom-donbass-in-den-pazifik-bedrohte-demokratien-beginnen-voneinander-zu-lernen-ld.10018322",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 794,
+    "premium": true,
+    "leadText": "Ukraine's success in repelling a major adversary, closely watched in East Asia",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 5,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Taiwan Practices Resistance Against a Chinese Attack",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/05/44fdc4fa-3570-4fa1-b59d-0fa767e3dd93.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/44fdc4fa-3570-4fa1-b59d-0fa767e3dd93.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3001,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4091,2301,x0,y288"
+      },
+      {
+       "name": "4:3",
+       "crop": "3637,2728,x133,y127"
+      },
+      {
+       "name": "1:1",
+       "crop": "2728,2728,x694,y131"
+      },
+      {
+       "name": "3:4",
+       "crop": "2251,3001,x1003,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3719,2479,x0,y231"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With the «Han Kuang» maneuver, Taiwan is rehearsing for ten days how it could survive an attack from China. New to the program: strengthening civil defense capabilities. The internet will also be slowed down temporarily.",
+     "teaserAuthor": "RITCHIE B. TONGO v EPA"
+    },
+    "teaserAuthor": "RITCHIE B. TONGO v EPA",
+    "tags": [
+     "Asien und Pazifik"
+    ],
+    "editor": "1533538",
+    "nzzId": "ld.10018329",
+    "readingTime": 180,
+    "embeds": {
+     "videos": [
+      {
+       "id": "q0cf7aQO",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 707,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/q0cf7aQO-ZberQI1f.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How is Taiwan strengthening civil defense in the Han Kuang maneuvers?",
+    "paywallQuestionTwo": "Why is China increasing the pressure on Taiwan and its neighbors?",
+    "paywallQuestionThree": "What role do the US play in Taiwan's defense strategy?",
+    "characterCount": 4727,
+    "product": "NZZ.ch",
+    "documentId": "10018329",
+    "layout": "regular",
+    "publicationDate": "2026-08-05T12:37:10.725Z",
+    "publicationLastUpdated": "2026-08-05T18:52:09.346Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-06T00:37:10.725Z",
+    "teaserCaption": "With the «Han Kuang» maneuver, Taiwan is rehearsing for ten days how it could survive an attack from China. New to the program: strengthening civil defense capabilities. The internet will also be slowed down temporarily.",
+    "authorLine": "Martin Koelling, Tokyo",
+    "url": "https://www.nzz.ch/international/taiwan-uebt-den-widerstand-gegen-einen-chinesischen-angriff-ld.10018329",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 687,
+    "leadText": "With the «Han Kuang» maneuver, Taiwan is rehearsing for ten days how it could survive an attack from China. New to the program: strengthening civil defense capabilities. The internet will also be slowed down temporarily.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Podcast «NZZ Akzent»",
+    "teaserImage": {
+     "originalUrl": "/2026/07/23/06a58513-03c9-4f7c-896d-6fdf601a7289.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/23/06a58513-03c9-4f7c-896d-6fdf601a7289.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y146"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y74"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x161,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y141"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Our correspondent Patrick Zoll lives in Taiwan. In the podcast, he talks about how the rivalry between China and the USA shapes his work – and how he experienced the conflict firsthand."
+    },
+    "editor": "1727733",
+    "showComments": true,
+    "paywallQuestionOne": "How does the rivalry between China and the USA affect life in Taiwan?",
+    "paywallQuestionTwo": "Why does the Taiwanese population remain calm despite the threat from China?",
+    "paywallQuestionThree": "What experiences did Patrick Zoll have with Chinese ships in the South China Sea?",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 60,
+    "nzzId": "ld.10016788",
+    "characterCount": 1542,
+    "tags": [
+     "Schifffahrt",
+     "Asien und Pazifik"
+    ],
+    "title": "«As a journalist, you certainly wouldn’t be the first to flee» – Taiwan correspondent Patrick Zoll",
+    "product": "NZZ.ch",
+    "documentId": "10016788",
+    "layout": "regular",
+    "publicationDate": "2026-07-25T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-25T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-25T15:30:00.000Z",
+    "teaserCaption": "Our correspondent Patrick Zoll lives in Taiwan. In the podcast, he talks about how the rivalry between China and the USA shapes his work – and how he experienced the conflict firsthand.",
+    "authorLine": "Alice Grosjean",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/19/51293fc6-2f1e-4048-b0d4-c1af88677cb4.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/als-journalist-fluechtet-man-sicher-nicht-als-erster-der-taiwan-korrespondent-patrick-zoll-ld.10016788",
+    "department": {
+     "name": "Podcast",
+     "path": "/podcast"
+    },
+    "estimationWordCount": 271,
+    "leadText": "Our correspondent Patrick Zoll lives in Taiwan. In the podcast, he talks about how the rivalry between China and the USA shapes his work – and how he experienced the conflict firsthand.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "«As a journalist, you certainly wouldn’t be the first to flee» – Taiwan correspondent Patrick Zoll",
+    "teaserPodcastAuthor": "Alice Grosjean mit Patrick Zoll",
+    "teaserPodcastDate": "25.07.26",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2554726-m-060e648db41af81dec9f10f4f9b54806.mp3",
+    "teaserPodcastDuration": "23",
+    "locale": "de-CH"
+   },
+   {
+    "title": "«It's not easy being Taiwanese,» says the man who is enraging China",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/22/b0ffaeb4-0a14-4842-a076-5c7eae048712.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/22/b0ffaeb4-0a14-4842-a076-5c7eae048712.jpg?width=1024&quality=75&auto=webp",
+     "width": 4428,
+     "height": 2952,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4428,2491,x0,y76"
+      },
+      {
+       "name": "4:3",
+       "crop": "3936,2952,x77,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2952,2952,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2214,2952,x24,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4025,2684,x0,y95"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Puma Shen is a human rights activist, an expert on Chinese influence, and a politician. This makes him a separatist in Beijing's eyes. Now he wants to become mayor of Taipei.",
+     "teaserAuthor": "Ann Wang / Reuters"
+    },
+    "teaserAuthor": "Ann Wang / Reuters",
+    "tags": [
+     "Asien und Pazifik"
+    ],
+    "characterCount": 6347,
+    "nzzId": "ld.10012348",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does Puma Shen's work affect Taiwan's democracy?",
+    "paywallQuestionTwo": "What risks does Shen face as a result of Beijing's reaction?",
+    "paywallQuestionThree": "Why is Shen running for mayor of Taipei?",
+    "product": "NZZ.ch",
+    "documentId": "10012348",
+    "layout": "regular",
+    "publicationDate": "2026-07-21T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-21T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-21T15:30:00.000Z",
+    "teaserCaption": "Puma Shen is a human rights activist, an expert on Chinese influence, and a politician. This makes him a separatist in Beijing's eyes. Now he wants to become mayor of Taipei.",
+    "authorLine": "Patrick Zoll, Taipei",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/a1b5d7fd-3108-40bf-a30b-455eb1d67d3e.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/es-ist-nicht-einfach-taiwaner-zu-sein-sagt-der-mann-der-china-zur-rage-bringt-ld.10012348",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 944,
+    "leadText": "Puma Shen is a human rights activist, an expert on Chinese influence, and a politician. This makes him a separatist in Beijing's eyes. Now he wants to become mayor of Taipei.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021963",
+    "name": "China's silent war for Taiwan has long begun",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Podcast",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "China's silent war for Taiwan has long begun",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1550920,
+       "name": "David Vogel",
+       "shortName": "dv",
+       "pianoId": "00dd7ff4-465b-4389-9377-a9442cf4706c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Podcast «NZZ Geopolitics»",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021963",
+   "pageType": "regular",
+   "primaryCategory": "Podcast",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "China's strategy: Hybrid war against Taiwan without armed force",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y350&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "David Vogel",
+  "description": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+  "news_keywords": "China's silent war over Taiwan has long since begun, Podcast «NZZ Geopolitics», Podcast, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:30:00+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "PODCAST «NZZ GEOPOLITIK» - China's silent war over Taiwan has long since begun",
+  "ogTitle": "Taiwan in the crosshairs: China's gradual approach without military force",
+  "ogUrl": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+  "mrf:cms_id": "nzz:ld.10021963",
+  "mrf:sections": "Podcast",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021963",
+  "nzzAuthors": [
+   {
+    "id": 1550920,
+    "name": "David Vogel",
+    "shortName": "dv",
+    "pianoId": "00dd7ff4-465b-4389-9377-a9442cf4706c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:03 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/podcast",
+      "name": "Podcast"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "China's strategy: Hybrid war against Taiwan without armed force"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963"
+   },
+   "headline": "China's strategy: Hybrid war against Taiwan without armed force",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Beijing is trying by all means to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb describes in the podcast «NZZ Geopolitik» how China is undermining the island with cyberattacks, disinformation, and espionage.",
+   "isAccessibleForFree": false,
+   "articleSection": "Podcast",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/3b514eb8-b0f9-4bdc-9c84-f6347dcfca88.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y350&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "David Vogel"
+    }
+   ],
+   "inLanguage": "de"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "AudioObject",
+   "@id": "https://www.nzz.ch/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963#id-doc-1k1eo10670",
+   "inLanguage": "de-CH",
+   "name": "China's silent war for Taiwan has long begun",
+   "author": "David Vogel with Jürgen Kremb",
+   "contentUrl": {
+    "service": "podigee-audio-url",
+    "params": {
+     "src": "https://audio.podigee-cdn.net/2584737-m-75dfe7983db77acc14e92b078e903bf8.mp3"
+    }
+   },
+   "thumbnailUrl": "https://img-msp-prod.nzz.ch/2026/09/01/8a35e5b9-f012-4769-a063-f00a531e3088.jpg?width=1024&quality=75&auto=webp?width=120&height=120&fit=bound&quality=75&auto=webp",
+   "datePublished": "2026-09-01",
+   "timeRequired": "PT0H27M40S"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/podcast/chinas-stiller-krieg-um-taiwan-hat-laengst-begonnen-ld.10021963",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "podcast-«nzz-geopolitik»",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021963",
+    "channel=Podcast"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "David Vogel",
+   "ContentSection": "Podcast",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie destabilisiert China Taiwan durch hybride Kriegsführung?\nWelche Rolle spielt Desinformation in Chinas Strategie gegen Taiwan?\nWarum sieht Xi Jinping ein freies Taiwan als Bedrohung?",
+   "ldId": "ld.10021963",
+   "channel": "Podcast",
+   "heading": "Chinas stiller Krieg um Taiwan hat längst begonnen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

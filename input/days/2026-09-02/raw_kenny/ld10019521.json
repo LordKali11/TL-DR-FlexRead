@@ -1,0 +1,736 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jvvf4h3g1",
+   "content": {
+    "title": "Tenant runs lucrative subletting business, leading to conviction",
+    "lead": "Disability pensioner's illegal subletting for profit",
+    "authorline": "Tom Felber",
+    "author": "Tom Felber"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jvvf4h3g3",
+   "content": {
+    "image": {
+     "author": "Alessandro Della Bella / Keystone",
+     "caption": "Despite a prohibition, a disability pensioner sublets his apartment.",
+     "originalUrl": "/2026/09/01/879fcbc5-2e99-4316-9cb2-8bd1779e73ea.jpg?crop=5427,3618,x0,y0",
+     "width": 5427,
+     "height": 3618,
+     "altText": "A shopping trolley in front of an apartment door in an apartment building in Zurich, Switzerland, pictured on December 3, 2009. (KEYSTONE/Alessandro Della Bella)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180348576"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5427,
+      "height": 3618,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5427,
+       "height": 3618,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Despite a prohibition, a disability pensioner sublets his apartment.",
+    "author": "Alessandro Della Bella / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvf4h3g4",
+   "content": {
+    "text": "For at least three and a half years, the scheme operated undetected: The tenant of an apartment in Zurich's District 5 discovered a lucrative sideline, renting out the rooms to three subtenants at a time for profit, rather than living in the apartment himself – all without the landlord's knowledge."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-fcde9d04",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvj9dq51",
+   "content": {
+    "text": "He rented out the apartment for more than he paid for it. The 59-year-old disability pensioner, a Sri Lankan national, was convicted of fraud by a penal order."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvft7qf0",
+   "content": {
+    "text": "According to the final penal order from the Zurich-Limmat prosecutor's office, which the NZZ reviewed, the accused signed a rental agreement for the apartment in Zurich's District 5 in September 2017. The agreement stipulated occupancy by a maximum of two people and explicitly prohibited subletting. The rent was 1439 Swiss francs per month."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvvg9tr70",
+   "content": {
+    "title": "Untruthful reply to landlord's letter",
+    "id": "subtitle-wahrheitswidrige-beantwortung-eines-briefs"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvga4400",
+   "content": {
+    "text": "The landlord had long suspected that his tenant was not living in the apartment himself. But it was not until September 2024 that he wrote him a letter. In it, he asked the disability pensioner to inform him within 10 days of receiving the letter who was actually living in the apartment and whether any subtenancy agreements existed. The accused falsely replied that he had been living in the apartment with another man for several years, but that this person was not a subtenant, he said."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvghb5r1",
+   "content": {
+    "text": "However, the subsequent criminal investigation uncovered completely different facts: From approximately April 2018 to April 2021, three of the tenant's compatriots lived in the apartment. Each of them paid him 650 francs. This provided the accused with a monthly income of 1950 francs. He thus made a monthly profit of 511 francs from his undeclared subtenants. This amount was 35.5% above the actual rent."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvh8ssc0",
+   "content": {
+    "text": "In a second, shorter period, from September 2022 to March 2023, three subtenants paid him a total of 1650 francs, which was still 14.7% above the actual rent. The penal order stated that the accused generated a total profit of 19,662 francs through his actions, which he was not entitled to, while he himself lived elsewhere."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvhjv431",
+   "content": {
+    "text": "Through his conduct, the disability pensioner had misled the landlord about the apartment's actual occupancy, the penal order said. This error, which he caused, led the landlord to forgo legally stipulated measures to recover the unlawfully obtained additional earnings over all those years, it added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvvimmqa0",
+   "content": {
+    "title": "Fraudulent intent affirmed",
+    "id": "subtitle-arglist-bejaht"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvi4bvm0",
+   "content": {
+    "text": "The accused acted intentionally and with intent to enrich himself, and also deliberately fraudulently through his false reply to the letter, the penal order stated. The actual use of the apartment, moreover, could only have been verified by the landlord with considerable effort. His ability to check was limited, it noted, as the privacy of the main tenant was protected and the landlord could not conduct an apartment viewing or unannounced inspections without specific cause."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvffb7l0",
+   "content": {
+    "text": "The 59-year-old disability pensioner was convicted of fraud and sentenced to a suspended monetary penalty of 120 daily rates at 60 francs each, totaling 7200 francs. The enforcement of the monetary penalty was suspended during a two-year probationary period. However, the accused also had to pay a fine of 1000 francs and 1600 francs in procedural costs, for a total of 2600 francs. Any civil claims were not mentioned in the penal order."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jvvf4h3g5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jvvf4h3g6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvvf4h3g7",
+      "content": {
+       "title": "Business apartment providers lose before the Federal Supreme Court: the city of Zurich may impose restrictions – an AL veteran expects a «guerrilla war with the operators»",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/25/5bdd7292-ee70-4aa0-a50d-a0219cb84b37.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/25/5bdd7292-ee70-4aa0-a50d-a0219cb84b37.jpg?width=1024&quality=75&auto=webp",
+        "width": 4543,
+        "height": 3024,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4543,2555,x0,y468"
+         },
+         {
+          "name": "4:3",
+          "crop": "4032,3024,x511,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1282,1282,x1456,y1741"
+         },
+         {
+          "name": "3:4",
+          "crop": "2268,3024,x1388,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4536,3024,x7,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Four short-term landlords battled the city in court for five years. Now the final decision has been made. The city council plans to introduce the new regulations in the fall.",
+        "teaserAuthor": "Goran Basic / NZZ"
+       },
+       "teaserAuthor": "Goran Basic / NZZ",
+       "editor": "1719533",
+       "nzzId": "ld.10012803",
+       "readingTime": 360,
+       "paywallQuestionOne": "Why is Zurich allowed to restrict short-term rentals in residential areas?",
+       "paywallQuestionTwo": "How does the Federal Court justify the regulation in favor of the resident population?",
+       "paywallQuestionThree": "What are the consequences of this ruling for providers of business apartments?",
+       "characterCount": 8774,
+       "product": "NZZ.ch",
+       "documentId": 10012803,
+       "layout": "regular",
+       "publicationDate": "2026-06-25T11:40:21.497Z",
+       "publicationLastUpdated": "2026-06-25T12:44:48.332Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-06-25T23:40:21.497Z",
+       "teaserCaption": "Four short-term landlords battled the city in court for five years. Now the final decision has been made. The city council plans to introduce the new regulations in the fall.",
+       "authorLine": "Francesca Prader",
+       "authorImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/bundesgericht-stuetzt-stadt-zuerich-im-streit-um-business-apartments-ld.10012803",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1204,
+       "leadText": "Four short-term landlords battled the city in court for five years. Now the final decision has been made. The city council plans to introduce the new regulations in the fall.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvvf4h3g9",
+      "content": {
+       "owner": "NZZ",
+       "title": "The battle for housing: Why subtenants suddenly have more rights than many think",
+       "teaserImage": {
+        "originalUrl": "/2024/07/17/4e204d61-ac1c-4feb-9244-6a393d8a06a5.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/07/17/4e204d61-ac1c-4feb-9244-6a393d8a06a5.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6173,
+        "height": 4115,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6173,3472,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4115,4115,x1857,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5487,4115,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3086,4115,x2330,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Tenants have the legal right to sublet their apartment, for example during a year abroad. However, this right is increasingly being misused to secure favorable long-term rental agreements.",
+        "teaserAuthor": "Annick Ramp / NZZ"
+       },
+       "teaserAuthor": "Annick Ramp / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1857274",
+       "readingTime": 360,
+       "authorLine": "Jürg Zulliger",
+       "characterCount": 7804,
+       "product": "NZZ.ch",
+       "documentId": 1857274,
+       "layout": "regular",
+       "publicationDate": "2024-11-20T04:30:00.000Z",
+       "publicationLastUpdated": "2024-11-20T07:22:07.491Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-11-20T16:30:00.000Z",
+       "teaserCaption": "Tenants have the legal right to sublet their apartment, for example during a year abroad. However, this right is increasingly being misused to secure favorable long-term rental agreements.",
+       "url": "/wirtschaft/der-kampf-um-die-wohnung-warum-untermieter-ploetzlich-mehr-rechte-haben-als-viele-denken-ld.1857274",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1112,
+       "leadText": "Tenants have the legal right to sublet their apartment, for example during a year abroad. However, this right is increasingly being misused to secure favorable long-term rental agreements."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvvf4h3g8",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Things to consider when subletting",
+       "teaserImage": {
+        "originalUrl": "/2018/11/2/4f104818-91b6-41d8-869d-3aa535582c5f.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2018/11/2/4f104818-91b6-41d8-869d-3aa535582c5f.jpeg?width=1024&quality=75&auto=webp",
+        "width": 2290,
+        "height": 1527,
+        "imageService": "fastly",
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2290,1288,x0,y240"
+         },
+         {
+          "name": "1:1",
+          "crop": "1207,1207,x0,y260"
+         },
+         {
+          "name": "4:3",
+          "crop": "2036,1527,x127,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1145,1527,x572,y0"
+         }
+        ],
+        "teaserCaption": "Subletting residential space has been permitted since 1990. However, it is essential to strictly adhere to the regulations."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1796862",
+       "readingTime": 240,
+       "authorLine": "Erik Brühlmann",
+       "hugo": {
+        "id": "articleArchive-261095752",
+        "timestamp": "2018-11-04T00:00:00.000Z",
+        "keywords": "Invest Aufmacher",
+        "note": ""
+       },
+       "characterCount": 5411,
+       "product": "NZZ.ch",
+       "documentId": 1796862,
+       "layout": "regular",
+       "publicationDate": "2024-02-10T09:48:41.941Z",
+       "publicationLastUpdated": "2024-02-22T22:40:26.826Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-02-10T21:48:41.941Z",
+       "teaserCaption": "Subletting residential space has been permitted since 1990. However, it is essential to strictly adhere to the regulations.",
+       "url": "/wirtschaft/das-muss-bei-der-untermiete-beachtet-werden-ld.1796862",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 802,
+       "leadText": "Subletting residential space has been permitted since 1990. However, it is essential to strictly adhere to the regulations."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Tenant runs lucrative subletting business, leading to conviction",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "authorLine": "Tom Felber",
+  "editor": "1373892",
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/879fcbc5-2e99-4316-9cb2-8bd1779e73ea.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/879fcbc5-2e99-4316-9cb2-8bd1779e73ea.jpg?width=1024&quality=75&auto=webp",
+   "width": 5427,
+   "height": 3618,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5427,3053,x0,y283"
+    },
+    {
+     "name": "4:3",
+     "crop": "4824,3618,x302,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3618,3618,x905,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2714,3618,x1357,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5427,3618,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Disability pensioner's illegal subletting for profit",
+   "teaserAuthor": "Alessandro Della Bella / Keystone"
+  },
+  "teaserAuthor": "Alessandro Della Bella / Keystone",
+  "nzzId": "ld.10019521",
+  "readingTime": 180,
+  "characterCount": 3559,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10019521,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:02:00.000Z",
+  "publicationDate": "2026-09-02T03:02:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:02:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:02:00.000Z",
+  "teaserCaption": "Disability pensioner's illegal subletting for profit",
+  "url": "/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 547,
+  "leadText": "Disability pensioner's illegal subletting for profit",
+  "nzzSummaryEN": "- A 59-year-old disability pensioner in Zurich illegally sublet rooms in his apartment for a profit of approximately CHF 19,662.\n- He was convicted of fraud and received a suspended fine of CHF 7,200 and additional costs of CHF 2,600.\n- The landlord was misled about the actual use of the apartment, delaying the discovery of the fraud.",
+  "nzzSummaryDE": "- A 59-year-old disability pensioner from Zurich illegally rented rooms in his apartment to several subtenants and thus made a profit of around 19,662 francs.\n - He was convicted of fraud and sentenced to a suspended fine of 7200 francs and additional costs of 2600 francs.\n - The landlord was deceived about the actual use of the apartment, which delayed the detection of the fraud.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Tenant runs lucrative subletting business, leading to conviction",
+  "nzzPrintSubtitle": "A disability pensioner rented out his apartment to several people for years and made a profit.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521",
+   "title": "Tenant runs lucrative subletting business, leading to conviction",
+   "socialMediaTitle": "Tenant runs lucrative subletting business, leading to conviction",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/879fcbc5-2e99-4316-9cb2-8bd1779e73ea.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5427,3053,x0,y283&wmark=nzz"
+  },
+  "ldPublicationId": 2487277,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10012803",
+    "ld.1857274",
+    "ld.1796862"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 248520,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10019521",
+    "name": "Tenant runs lucrative subletting business, leading to conviction",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Tenant runs lucrative subletting business, leading to conviction",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T03:02:00.000Z",
+     "updateTimestamp": "2026-09-02T03:02:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10019521",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Tenant runs lucrative subletting business, leading to conviction",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/879fcbc5-2e99-4316-9cb2-8bd1779e73ea.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5427,3053,x0,y283&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Tom Felber",
+  "description": "Disability pensioner's illegal subletting for profit",
+  "news_keywords": "Tenant runs lucrative business with subtenants – now he has been convicted, Zurich, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:02:00+02:00",
+  "date": "2026-09-02T07:02:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Tenant runs lucrative subletting business, leading to conviction",
+  "ogTitle": "Tenant runs lucrative subletting business, leading to conviction",
+  "ogUrl": "https://www.nzz.ch/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521",
+  "mrf:cms_id": "nzz:ld.10019521",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10019521",
+  "nzzAuthors": [
+   {
+    "name": "Tom Felber"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:40 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Tenant runs lucrative subletting business, leading to conviction"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521"
+   },
+   "headline": "Tenant runs lucrative subletting business, leading to conviction",
+   "datePublished": "2026-09-02T07:02:00+02:00",
+   "dateModified": "2026-09-02T07:02:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Disability pensioner's illegal subletting for profit",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/879fcbc5-2e99-4316-9cb2-8bd1779e73ea.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5427,3053,x0,y283&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Tom Felber"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 248520,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/mieter-betreibt-lukratives-geschaeft-mit-untermietern-nun-wurde-er-verurteilt-ld.10019521",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10019521",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-09-02T03:02:00.000Z",
+   "ContentAuthor": "Tom Felber",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie konnte der Mieter jahrelang unbemerkt Untermieter aufnehmen?\nWelche rechtlichen Konsequenzen hatte das Vorgehen des Mieters?\nWarum war die Kontrolle durch den Vermieter so eingeschränkt?",
+   "ldId": "ld.10019521",
+   "channel": "Zürich",
+   "heading": "Mieter betreibt lukratives Geschäft mit Untermietern – nun wurde er verurteilt",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

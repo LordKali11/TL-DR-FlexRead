@@ -1,0 +1,432 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k123n3g31",
+   "content": {
+    "title": "Sina Frei finishes third in short track world championship – gold for Austria's Stigger",
+    "lead": "Sina Frei won the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole. Austria's Laura Stigger secured gold. The Swiss men remained without a medal.",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k123n3g41",
+   "content": {
+    "image": {
+     "author": "Maxime Schmid / Keystone",
+     "caption": "Sina Frei won the bronze medal at the Mountain Bike World Championships.",
+     "originalUrl": "/2026/08/27/036100e3-32ce-4736-8e47-90f470f84702.jpg?crop=7181,4787,x0,y0",
+     "width": 7181,
+     "height": 4787,
+     "altText": "Sina Frei of Switzerland, in acton during the UCI Women Short Track, XCC, Mountain Bike World Championship, on Thursday, August 27, 2026, in Val di Sole, Italy.(KEYSTONE/Maxime Schmid)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180248574"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7181,
+      "height": 4787,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7181,
+       "height": 4787,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Sina Frei won the bronze medal at the Mountain Bike World Championships.",
+    "author": "Maxime Schmid / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k123n3g42",
+   "content": {
+    "text": "<em>(sda)</em> At the start of the tenth and final lap, Sina Frei set out to overtake the two competitors ahead of her on the outside before a right turn. But Sweden's Jenny Rissveds swung wide in the turn, which almost brought Frei to a standstill and dropped her back to the last position of the leading group of five. «It was rule-compliant, but certainly not fair in terms of sportsmanship. But I also have to be able to deal with that,» the 29-year-old said in an SRF interview."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-9113bb9f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k123oa4u0",
+   "content": {
+    "text": "Despite the incident, Frei did not give up, moving back into third place on the following climb. However, she could not secure more than bronze in the long final sprint. Austria's Stigger surged from position 4 all the way to the front, and Britain's Evie Richards finished second. «It just wasn't meant to be, but on Sunday I have another chance,» Frei said. The cross-country race will then take place in northern Italy."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k123ohc10",
+   "content": {
+    "title": "<strong>Koller's annoying mistake</strong>",
+    "id": "subtitle-kollers-rgerlicher-irrtum"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k123oiis0",
+   "content": {
+    "text": "Behind Rissveds, Nicole Koller finished fifth, not sprinting at all because she thought the race would continue for another lap. Defending champion Alessandra Keller, winner a year ago at the home world championships in Valais, reached the finish line in sixth place, 12 seconds back. A fourth Swiss rider, Ronja Blöchlinger, finished 11th."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k123otes0",
+   "content": {
+    "text": "There were numerous successes for Swiss juniors on Thursday. In the U23 category, Monique Halter won world championship gold in the short track, and an hour later, her younger brother, Nicolas Halter, also triumphed. In the U19 junior women's cross-country race, Anja Grossmann won the world championship, and Marwan Barhoumi won bronze in the junior men's race."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k123n3g43",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Sina Frei finishes third in short track world championship – gold for Austria's Stigger",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/036100e3-32ce-4736-8e47-90f470f84702.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/036100e3-32ce-4736-8e47-90f470f84702.jpg?width=1024&quality=75&auto=webp",
+   "width": 7181,
+   "height": 4787,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7181,4039,x0,y374"
+    },
+    {
+     "name": "4:3",
+     "crop": "6383,4787,x399,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4787,4787,x182,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3590,4787,x756,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7181,4787,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Sina Frei won the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole. Austria's Laura Stigger secured gold. The Swiss men remained without a medal.",
+   "teaserAuthor": "Maxime Schmid / Keystone"
+  },
+  "teaserAuthor": "Maxime Schmid / Keystone",
+  "nzzId": "ld.10021389",
+  "readingTime": 60,
+  "characterCount": 1670,
+  "breadcrumbs": [
+   {
+    "name": "Sport",
+    "path": "/sport"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021389,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T17:24:46.324Z",
+  "publicationDate": "2026-08-27T17:24:46.324Z",
+  "publicationLastUpdated": "2026-08-27T17:24:46.324Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T05:24:46.324Z",
+  "teaserCaption": "Sina Frei won the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole. Austria's Laura Stigger secured gold. The Swiss men remained without a medal.",
+  "url": "/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389",
+  "department": {
+   "name": "Sport",
+   "path": "/sport"
+  },
+  "estimationWordCount": 297,
+  "leadText": "Sina Frei won the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole. Austria's Laura Stigger secured gold. The Swiss men remained without a medal.",
+  "nzzSummaryEN": "- Sina Frei wins the bronze medal in the Short Track at the Mountain Bike World Championships in Val di Sole; gold goes to Austria's Laura Stigger.\n- Swiss men miss out on medals, while the youth category sees multiple successes, including gold for Monique and Nicolas Halter.",
+  "nzzSummaryDE": "- Sina Frei wins the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole; gold goes to the Austrian Laura Stigger.\n - Swiss men leave without a medal, while there are several successes in the junior ranks, including gold for Monique and Nicolas Halter.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "x",
+  "nzzPrintSubtitle": "x",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389",
+   "title": "Sina Frei wins the bronze medal at the Mountain Bike World Championships",
+   "socialMediaTitle": "Sina Frei wins the bronze medal at the Mountain Bike World Championships",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/036100e3-32ce-4736-8e47-90f470f84702.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7181,4039,x0,y374&wmark=nzz"
+  },
+  "ldPublicationId": 2484871,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 121200,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021389",
+    "name": "Sina Frei finishes third in short track world championship – gold for Austria's Stigger",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Sport",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Sina Frei finishes third in short track world championship – gold for Austria's Stigger",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T17:24:46.324Z",
+     "updateTimestamp": "2026-08-27T17:24:46.324Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021389",
+   "pageType": "regular",
+   "primaryCategory": "Sport",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Sina Frei wins the bronze medal at the Mountain Bike World Championships",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/036100e3-32ce-4736-8e47-90f470f84702.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7181,4039,x0,y374&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "description": "Sina Frei won the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole. Austria's Laura Stigger secured gold. The Swiss men remained without a medal.",
+  "news_keywords": "Sina Frei wins bronze in the Short Track World Championships – gold goes to Austrian Stigger, Sport, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T21:24:46+02:00",
+  "date": "2026-08-27T21:24:46+02:00",
+  "canonical": "https://www.nzz.ch/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Sina Frei finishes third in short track world championship – gold for Austria's Stigger",
+  "ogTitle": "Sina Frei wins the bronze medal at the Mountain Bike World Championships",
+  "ogUrl": "https://www.nzz.ch/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389",
+  "mrf:cms_id": "nzz:ld.10021389",
+  "mrf:sections": "Sport",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021389",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:04 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/sport",
+      "name": "Sport"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Sina Frei wins the bronze medal at the Mountain Bike World Championships"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389"
+   },
+   "headline": "Sina Frei wins the bronze medal at the Mountain Bike World Championships",
+   "datePublished": "2026-08-27T21:24:46+02:00",
+   "dateModified": "2026-08-27T21:24:46+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Sina Frei won the bronze medal in the short track at the Mountain Bike World Championships in Val di Sole. Austria's Laura Stigger secured gold. The Swiss men remained without a medal.",
+   "isAccessibleForFree": false,
+   "articleSection": "Sport",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/036100e3-32ce-4736-8e47-90f470f84702.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7181,4039,x0,y374&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 121200,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/sport/sina-frei-im-short-track-wm-dritte-gold-an-oesterreicherin-stigger-ld.10021389",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021389",
+    "channel=Sport"
+   ],
+   "ContentCreated": "2026-08-27T17:24:46.324Z",
+   "ContentSection": "Sport",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie beurteilt Sina Frei den Zwischenfall mit Jenny Rissveds?\nWelche Schweizer Nachwuchsathleten holten WM-Medaillen?\nWas sind Freis Chancen im Cross-Country-Rennen am Sonntag?",
+   "ldId": "ld.10021389",
+   "channel": "Sport",
+   "heading": "Sina Frei im Short Track WM-Dritte – Gold an Österreicherin Stigger",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

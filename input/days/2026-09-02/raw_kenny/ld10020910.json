@@ -1,0 +1,1572 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0rvo4j51",
+   "content": {
+    "title": "This summer's heat shows: As glaciers disappear, more dams needed",
+    "lead": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0rvo4j60",
+      "content": {
+       "layout": "authorprofile",
+       "title": "<strong>Matthias Venetz, Bern</strong>",
+       "url": "/impressum/matthias-venetz-ld.1772814",
+       "teaserImage": {
+        "originalUrl": "/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0",
+        "width": 800,
+        "height": 800,
+        "crop": {
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800,
+         "name": "1:1"
+        },
+        "imageService": "fastly",
+        "url": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0rvo4j61",
+   "content": {
+    "image": {
+     "author": "Illustration by Simon Tanner / NZZ",
+     "caption": "",
+     "originalUrl": "/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?crop=4500,3000,x0,y0",
+     "width": 4500,
+     "height": 3000,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4500,
+      "height": 3000,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4500,
+       "height": 3000,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Illustration by Simon Tanner / NZZ",
+    "caption": ""
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rvo4j62",
+   "content": {
+    "text": "The first sign of trouble appeared when Zermatt mountain guide Harry Lauber published an extraordinary photo of the Matterhorn early this summer. It showed torrents and waterfalls pouring down the Matterhorn’s north face. At first, people considered Lauber’s photo to be the product of artificial intelligence, but then the 78-year-old denied it, saying he had taken the picture from his house. He also said he had only seen such waterfalls once before. That was in 2022, during the last heatwave summer."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-ceaa32bc",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rvufqa0",
+   "content": {
+    "text": "A few weeks later – in the middle of peak season – Zermatt mountain guides urgently advised against tours on the Matterhorn. The heat made the exposed mountain unpredictable, they said. Later in the summer, Zermatt mountain railways had to close the summer ski area on the Theodul Glacier to tourists. For the first time in fifty years. Enthusiastic skiers initially hoped they could simply switch to Saas-Fee, in the neighboring valley. But within a few days, the glacier there was also closed. Meltwater pools had formed in many hollows. The ski area looked like a water park."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s053od0",
+   "content": {
+    "text": "These images can be ignored, suppressed, or dismissed as mere episodes of a heatwave summer. Alternatively, one can ask what all this means in the long term. Climate change is forcing new priorities on mountain regions."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c09g460",
+   "content": {
+    "text": "Glacier melt is no longer merely a problem for tourism, but one for the entire country. Meltwater from the high Alps feeds drinking water pipes in many places. Industry and, above all, agriculture depend on sufficient water being available even in midsummer. Swiss glaciers are systemically critical in every respect."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1dmgoa60",
+   "content": {
+    "text": "In the future, the profitability of summer ski areas on Valais glaciers or the danger of tours on the exposed Matterhorn will no longer be the crucial questions. Politics and society must ask how meltwater will be used and, above all, stored in the future."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0srgd130",
+   "content": {
+    "title": "Romanticized alpine landscape",
+    "id": "subtitle-die-alpen-sind-eine-verkl-rte-landschaft"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t3vn840",
+   "content": {
+    "text": "The mountains must become a strategic area. Even if the images of melting glaciers are painful, it is primarily because the Alps have been a projection surface since the days of the Old Confederacy. They are considered the origin of the nation, their topography a symbol of Switzerland. Good confederate virtues such as modesty and love of freedom are rooted in the barrenness of the alpine soils."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cf2f071",
+   "content": {
+    "text": "Even in the age of the service society, these narratives persist. The Alps are romanticized as a redoubt of an original Switzerland and marketed accordingly."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t65jap0",
+   "content": {
+    "text": "A hundred years ago, Charles-Ferdinand Ramuz described Switzerland on the eve of the apocalypse in «Sturz in die Sonne» (Fall into the Sun). At the end of the story, people flee to the «third dimension,» into the mountains. Up there, the refugees hoped, they would find refuge, like in a second Noah's Ark."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1dmn4mg0",
+   "content": {
+    "text": "The apocalypse is not imminent, but this summer, too, many day-trippers and tourists fled the heat to the mountains. Swiss cable cars recorded almost 30% more entries on average over five years. But this boom is deceptive."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1dmrrv00",
+   "content": {
+    "text": "Scientific studies show that the Alps are not spared from the effects of climate change, as Ramuz's refugees believed. On the contrary. The refuge he describes is crumbling."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0u9sjf10",
+   "content": {
+    "text": "The temperature increase in Switzerland compared to the pre-industrial era is twice as high as the global average. This development is more pronounced in the Alps. Winters are getting warmer, summers hotter, and glaciers smaller. The number of mudslides and rockfalls is increasing. According to a study by the National Centre for Climate Services, 50% to 90% of the glaciers are likely to have disappeared by the middle of the century. Mountain regions must prepare for this – not just for the next season."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t5j8aj0",
+   "content": {
+    "title": "Dams as artificial glaciers",
+    "id": "subtitle-staud-mme-als-k-nstliche-gletscher"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6jcs80",
+   "content": {
+    "text": "Again and again, Switzerland is referred to as the water tower of Europe; the Alpine glaciers are still its largest water reservoir. But when the glaciers are gone, these natural reservoirs will be lost. Alternatives are needed, and this can become an opportunity for mountain regions."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1dn6llv0",
+   "content": {
+    "text": "The dams in the Alps have so far been the backbone of Swiss electricity production. In the future, they will also gain importance in other areas: for the water supply of the entire country."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c2i54h0",
+   "content": {
+    "text": "Ideas about what this water management could look like have existed for a long time. Researchers from ETH Zurich and the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL) launched a «provocative» thought experiment – as <a href=\"https://iopscience.iop.org/article/10.1088/1748-9326/11/5/054022\">they themselves said</a> – ten years ago in a study: Could dams replace the shrinking glaciers?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c3v7d10",
+   "content": {
+    "text": "The researchers explained that two-thirds of the missing water volume from the Alps could be compensated for by dams and artificial reservoirs in summer. At least theoretically."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1dngrla0",
+   "content": {
+    "text": "In practice, everything is more complicated. The expansion of hydropower has been blocked for years – even though a round table of environmental organizations, electricity producers, and politicians has agreed on a whole list of projects. The Grande Dixence is the last major dam to be inaugurated in Switzerland. That was in the 1960s."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cls9qd1",
+   "content": {
+    "text": "In response to this stagnation, Albert Rösti's Department of the Environment is looking for new projects. Alpiq proposes in this context to raise the dam wall of the Grande Dixence in Valais. This is the right approach; cantons and municipalities must now look for suitable locations for new dams or expansion projects for existing facilities. But that alone is not enough."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uh4a540",
+   "content": {
+    "text": "Already in May, the <a href=\"https://www.nzz.ch/schweiz/wasserknappheit-die-wasserversorger-fordern-den-bund-zum-handeln-auf-ld.10015836\">Swiss Water Association submitted a paper to the federal government</a>, demanding national water management. According to the water suppliers, the federal government – and not, as is currently the case, the municipalities and cantons – should take the lead in the future. Jürg Grossen, president of the Green Liberal Party, recently declared that the Federal Council's plans for water management were «not far-reaching enough.» The Greens have also been demanding a shift of competencies in favor of the federal government for years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cktmdm0",
+   "content": {
+    "text": "The mountain cantons are thus threatened with a massive loss of sovereignty. In the coming years, ownership of numerous power plants will revert to the cantons. Many cantons hope for a windfall and believe themselves to be in a promising position. But this is deceptive. The pressure on them will increase."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1do5h7j1",
+   "content": {
+    "text": "In the upcoming discussions on water management, a rethinking is needed, first in the mountain regions and then throughout the country. Until now, dams have been considered cumbersome infrastructure for electricity production. This must change, because dams will be used multifunctionally in the future: for energy production, agriculture, drinking water supply, and flood protection. It is necessary to weigh the interests of landscape and nature conservation against the necessity of a secure water supply. After this summer, supply security must no longer merely mean that electricity supply is ensured. The term must also be applied to water supply in the future."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c5m5je0",
+   "content": {
+    "text": "Below the Aletsch Glacier, the largest water reservoir in the Alps, lies the Gebidem reservoir. During the heatwave summer of 2022, operators constantly had to release water over the dam wall because the meltwater volumes were too large, but the storage capacities were far too small. The river below the wall is actually a small stream. In 2022, however, 120 cubic meters per second drained in phases, which corresponds approximately to the flow of the Aare in Bern. Except that this outflow is in a narrow gorge. This summer, the overflow at the Gebidem dam was even greater, according to Alpiq."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1c7eg7g0",
+   "content": {
+    "text": "Already in the heatwave summer of 2022, a project titled «Oberaletsch» existed to reduce this waste. Meanwhile, the project has been resized. It is now called «Oberaletsch Klein.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1cla6uo0",
+   "content": {
+    "text": "The fact that this and other projects are not progressing shows that the upcoming discussions must no longer only be about how many terawatt-hours a project yields. Instead, it must be about how much water is wasted each heatwave summer if it is not built."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0rvo4j63",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-bd914d98",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 23,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Urs Fahrni",
+      "text": "…and who will now take on the regulatory «dam express»… even the 16 «BR Rösti dams» are being bogged down in petty squabbles. Which party will champion this urgent, once-in-a-century project? Or are the parliamentarians still busy accounting for «their subsidies»? Let’s hope some momentum is injected into this important issue.",
+      "created_at": "2026-09-03T07:57:41.922Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "",
+      "text": "",
+      "created_at": "2026-09-02T18:15:42.873Z",
+      "like_count": 0,
+      "isPro": false,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0rvo4j64",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rvo4j65",
+      "content": {
+       "title": "«The glaciers here are likely disappearing,» says Switzerland's most famous glaciologist",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "tags": [
+        "Klima, Umwelt, Erde",
+        "Wissenschaft aktuell",
+        "Schweiz: Empfehlungen"
+       ],
+       "teaserImage": {
+        "originalUrl": "/2026/07/17/ec49c66a-7888-4eed-945a-705e9fc89dd5.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/17/ec49c66a-7888-4eed-945a-705e9fc89dd5.jpg?width=1024&quality=75&auto=webp",
+        "width": 5731,
+        "height": 3647,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5731,3223,x0,y424"
+         },
+         {
+          "name": "4:3",
+          "crop": "4863,3646,x164,y1"
+         },
+         {
+          "name": "1:1",
+          "crop": "3647,3646,x769,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "959,1278,x2197,y1871"
+         },
+         {
+          "name": "3:2",
+          "crop": "5471,3646,x0,y1"
+         }
+        ],
+        "focalPoint": {
+         "x": 2595,
+         "y": 2122
+        },
+        "imageService": "fastly",
+        "teaserCaption": "ETH glaciologist Matthias Huss has been documenting ice loss in the Swiss Alps for years. In this interview, he explains why he continues his work despite the constant stream of «bad news», but recommends other professions to his children.",
+        "teaserAuthor": "Pierre Albouy / Reuters"
+       },
+       "teaserAuthor": "Pierre Albouy / Reuters",
+       "flag": "interview",
+       "nzzId": "ld.10015809",
+       "readingTime": 600,
+       "paywallQuestionOne": "How will climate change affect the future of glacier research?",
+       "paywallQuestionTwo": "What role do glaciers play in the water supply in Switzerland?",
+       "paywallQuestionThree": "Why are glaciers an emotional symbol of climate change?",
+       "characterCount": 12679,
+       "product": "NZZ.ch",
+       "documentId": 10015809,
+       "layout": "longformvisual",
+       "publicationDate": "2026-07-24T03:30:00.000Z",
+       "publicationLastUpdated": "2026-07-24T08:17:08.815Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-24T15:30:00.000Z",
+       "teaserCaption": "ETH glaciologist Matthias Huss has been documenting ice loss in the Swiss Alps for years. In this interview, he explains why he continues his work despite the constant stream of «bad news», but recommends other professions to his children.",
+       "authorLine": "Matthias Venetz, Sven Titz",
+       "authorImage": {
+        "originalUrl": "/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/ich-werde-immer-wieder-da-hoch-gehen-auch-wenn-es-kein-eis-mehr-gibt-sagt-der-bekannteste-gletscherforscher-der-schweiz-ld.10015809",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 2055,
+       "leadText": "ETH glaciologist Matthias Huss has been documenting ice loss in the Swiss Alps for years. In this interview, he explains why he continues his work despite the constant stream of «bad news», but recommends other professions to his children.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rvo4j66",
+      "content": {
+       "title": "Intense heat, deep crevasses: Zermatt closes the highest ski slopes in the Alps",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Patrick Gasser",
+       "editor": "1371759",
+       "teaserImage": {
+        "originalUrl": "/2024/08/05/2c842df5-0e0d-4297-9059-a81f65e88c4f.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/05/2c842df5-0e0d-4297-9059-a81f65e88c4f.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7360,
+        "height": 4912,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7360,4140,x0,y386"
+         },
+         {
+          "name": "4:3",
+          "crop": "6549,4912,x405,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4912,4912,x1224,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3684,4912,x1838,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7360,4907,x0,y3"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Zermatt is closing its summer ski area. Officials say the situation has become too dangerous due to lack of snow and deep crevasses. The end is also near for the second summer ski area in Valais.",
+        "teaserAuthor": "Keystone"
+       },
+       "teaserAuthor": "Keystone",
+       "nzzId": "ld.10017837",
+       "readingTime": 300,
+       "paywallQuestionOne": "Why did the summer ski area in Zermatt have to be closed?",
+       "paywallQuestionTwo": "What dangers does glacial melt pose for ski resorts?",
+       "paywallQuestionThree": "How is climate change affecting skiing in Valais?",
+       "characterCount": 6167,
+       "product": "NZZ.ch",
+       "documentId": 10017837,
+       "layout": "regular",
+       "publicationDate": "2026-08-01T14:33:10.994Z",
+       "publicationLastUpdated": "2026-08-01T14:33:10.994Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-02T02:33:10.994Z",
+       "teaserCaption": "Zermatt is closing its summer ski area. Officials say the situation has become too dangerous due to lack of snow and deep crevasses. The end is also near for the second summer ski area in Valais.",
+       "url": "/panorama/klimawandel-trifft-alpen-zermatt-schliesst-sommerskigebiet-wegen-hitzewelle-ld.10017837",
+       "department": {
+        "name": "Panorama",
+        "path": "/panorama"
+       },
+       "estimationWordCount": 901,
+       "leadText": "Zermatt is closing its summer ski area. Officials say the situation has become too dangerous due to lack of snow and deep crevasses. The end is also near for the second summer ski area in Valais.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rvo4j67",
+      "content": {
+       "title": "Zurich's water supply was once considered inexhaustible. But does that certainty survive intense heat waves?",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/07/17/435c4da2-da68-4254-919d-f609ac7d47d6.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/17/435c4da2-da68-4254-919d-f609ac7d47d6.jpg?width=1024&quality=75&auto=webp",
+        "width": 7943,
+        "height": 5297,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7943,4468,x0,y415"
+         },
+         {
+          "name": "4:3",
+          "crop": "7063,5297,x440,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "5297,5297,x1323,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3973,5297,x1985,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7943,5295,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Drought leads to low lake levels and dried-up streams – raising questions about the longevity of Zurich's drinking water supply.",
+        "teaserAuthor": "Karin Hofer / NZZ"
+       },
+       "teaserAuthor": "Karin Hofer / NZZ",
+       "nzzId": "ld.10018952",
+       "readingTime": 540,
+       "paywallQuestionOne": "How does glacial melt affect the water supply in Zurich?",
+       "paywallQuestionTwo": "Why does Lake Zurich remain an inexhaustible reservoir despite the drought?",
+       "paywallQuestionThree": "What role does rain play in drinking water safety in Zurich?",
+       "characterCount": 11875,
+       "editor": "1719533",
+       "product": "NZZ.ch",
+       "documentId": 10018952,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-14T03:00:00.000Z",
+       "publicationLastUpdated": "2026-08-18T15:27:33.884Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-14T15:00:00.000Z",
+       "teaserCaption": "Drought leads to low lake levels and dried-up streams – raising questions about the longevity of Zurich's drinking water supply.",
+       "authorLine": "Andrea Marti",
+       "authorImage": {
+        "originalUrl": "/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/das-wasser-sei-in-zuerich-unerschoepflich-hiess-es-aber-ueberlebt-diese-gewissheit-auch-heftige-hitzewellen-ld.10018952",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1839,
+       "leadText": "Drought leads to low lake levels and dried-up streams – raising questions about the longevity of Zurich's drinking water supply.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "title": "This summer's heat shows: As glaciers disappear, more dams needed",
+  "flag": "Opinion",
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4500,2531,x0,y234"
+    },
+    {
+     "name": "4:3",
+     "crop": "4000,3000,x250,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x750,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x1125,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4500,3000,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+   "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+  },
+  "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+  "nzzId": "ld.10020910",
+  "readingTime": 360,
+  "characterCount": 8329,
+  "showComments": true,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020910,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-09-02T03:35:00.000Z",
+  "publicationDate": "2026-09-02T03:35:00.000Z",
+  "publicationLastUpdated": "2026-09-02T09:49:17.448Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:35:00.000Z",
+  "teaserCaption": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+  "nzzAuthors": [
+   {
+    "id": 1699169,
+    "name": "Matthias Venetz",
+    "shortName": "etz",
+    "pianoId": "e79b7a7a-26c8-486f-8d80-e2d1bb97e58b",
+    "external": false
+   }
+  ],
+  "authorLine": "Matthias Venetz, Bern",
+  "authorImage": {
+   "originalUrl": "/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0",
+   "width": 800,
+   "height": 800,
+   "crop": {
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 800,
+    "name": "1:1"
+   },
+   "imageService": "fastly",
+   "url": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1772814,
+    "name": "Matthias Venetz, Bern",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 1209,
+  "leadText": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+  "nzzSummaryEN": "- Glacier melt in the Alps threatens not only tourism but also drinking water supplies and energy production in Switzerland.\n- Experts suggest building additional dams to store meltwater and use it multifunctionally.\n- Winters are getting warmer, summers hotter, and by mid-century, 50–90% of glaciers could disappear.",
+  "nzzSummaryDE": "- The melting of glaciers in the Alps not only threatens tourism, but also the drinking water supply and energy production in Switzerland.\n Experts recommend building additional dams to store the meltwater and use it for multiple purposes.\n - Winters are getting warmer, summers hotter, and by the middle of the century, 50–90% of glaciers could be gone.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Because the glaciers are disappearing, Switzerland needs more dams",
+  "nzzPrintSubtitle": "The Alps are considered a refuge for day-trippers and tourists, but now they must be thought of as a strategic area for water supply",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+   "title": "Heatwave summer: Because the glaciers are melting, more dams are needed",
+   "socialMediaTitle": "New priorities after the heatwave summer: Dams as artificial glaciers",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz"
+  },
+  "ldPublicationId": 2487526,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "glacier",
+    "slug": "/themen/gletscher"
+   },
+   {
+    "name": "climate change",
+    "slug": "/themen/klimawandel"
+   },
+   {
+    "name": "Hydropower",
+    "slug": "/themen/wasserkraft"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 23,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Urs Fahrni",
+     "text": "…and who will now take on the regulatory «dam express»… even the 16 «BR Rösti dams» are being bogged down in petty squabbles. Which party will champion this urgent, once-in-a-century project? Or are the parliamentarians still busy accounting for «their subsidies»? Let’s hope some momentum is injected into this important issue.",
+     "created_at": "2026-09-03T07:57:41.922Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "",
+     "text": "",
+     "created_at": "2026-09-02T18:15:42.873Z",
+     "like_count": 0,
+     "isPro": false,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10015809",
+    "ld.10017837",
+    "ld.10018952"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 515184,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "gletscher",
+   "name": "glacier",
+   "tagName": "glacier",
+   "qId": "Q35666",
+   "seoTitle": "Glaciers – All NZZ articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 19:28:31.596Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/gletscher",
+   "size": 319,
+   "relatedTopics": [
+    {
+     "name": "Klimawandel",
+     "slug": "/themen/klimawandel"
+    },
+    {
+     "name": "Wasserkraft",
+     "slug": "/themen/wasserkraft"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Deadly flood in Nepal: How the mudslide raced through the valley",
+    "showHeader": false,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/061e08bc-9d3e-417a-bba2-2581419c6238.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/061e08bc-9d3e-417a-bba2-2581419c6238.png?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1080,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1745,982,x86,y98"
+      },
+      {
+       "name": "4:3",
+       "crop": "1309,982,x339,y98"
+      },
+      {
+       "name": "1:1",
+       "crop": "982,982,x531,y98"
+      },
+      {
+       "name": "3:4",
+       "crop": "810,1080,x583,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1473,982,x254,y98"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nepal flood disaster: Emerging causes of glacier ice and debris plunge into valley, burying hundreds"
+    },
+    "tags": [
+     "Visuals"
+    ],
+    "nzzId": "ld.10021510",
+    "readingTime": 60,
+    "colorSchema": "color-schema--default",
+    "paywallQuestionOne": "What caused the glacier to collapse and the deadly mudslide?",
+    "paywallQuestionTwo": "What dangers are posed by the accumulated water masses in the mountains?",
+    "paywallQuestionThree": "How are the tsunami waves affecting rescue efforts in Nepal?",
+    "characterCount": 1410,
+    "product": "NZZ.ch",
+    "documentId": "10021510",
+    "layout": "headlesslongformvisual",
+    "publicationDate": "2026-08-28T17:01:01.358Z",
+    "publicationLastUpdated": "2026-08-28T17:14:09.281Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T05:01:01.358Z",
+    "teaserCaption": "Nepal flood disaster: Emerging causes of glacier ice and debris plunge into valley, burying hundreds",
+    "authorLine": "Jan Ludwig, Jasmine Jacot-Descombes, Jessica Eberhart, Cian Jochem",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/02/05/3b6e13f1-482a-4a6c-b4af-e5db7bba6699.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/toedliche-flut-in-nepal-so-raste-die-schlammlawine-durchs-tal-ld.10021510",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 224,
+    "leadText": "Nepal flood disaster: Emerging causes of glacier ice and debris plunge into valley, burying hundreds",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1024&quality=75&auto=webp",
+     "width": 4048,
+     "height": 2699,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4048,2277,x0,y422"
+      },
+      {
+       "name": "4:3",
+       "crop": "2974,2231,x978,y468"
+      },
+      {
+       "name": "1:1",
+       "crop": "1259,1259,x2311,y1290"
+      },
+      {
+       "name": "3:4",
+       "crop": "1521,2028,x2027,y671"
+      },
+      {
+       "name": "3:2",
+       "crop": "4048,2699,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "First break-offs Monday afternoon; extensive cordoning of affected area",
+     "teaserAuthor": "Laurent Gillieron / Keystone"
+    },
+    "teaserAuthor": "Laurent Gillieron / Keystone",
+    "paywallQuestionOne": "What measures were taken in Randa due to the imminent glacier collapse?",
+    "paywallQuestionTwo": "How great is the danger to the village of Randa from the Weisshorn glacier?",
+    "paywallQuestionThree": "Which areas in the municipality have been defined as danger zones?",
+    "nzzId": "ld.10020894",
+    "readingTime": 120,
+    "characterCount": 2126,
+    "editor": "1398648",
+    "product": "NZZ.ch",
+    "documentId": "10020894",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T13:09:03.063Z",
+    "publicationLastUpdated": "2026-08-25T13:49:28.806Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-26T01:09:03.063Z",
+    "teaserCaption": "First break-offs Monday afternoon; extensive cordoning of affected area",
+    "url": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 366,
+    "leadText": "First break-offs Monday afternoon; extensive cordoning of affected area",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Switzerland: Laurent Favre joins SRG Board of Directors",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e89501eb-56ea-4ac2-bb1d-bf1c2f7916e9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e89501eb-56ea-4ac2-bb1d-bf1c2f7916e9.jpg?width=1024&quality=75&auto=webp",
+     "width": 5265,
+     "height": 3510,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5265,2962,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4680,3510,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3510,3510,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2633,3510,x367,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5265,3510,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1683,
+      "y": 702
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Laurent Gillieron / KEYSTONE"
+    },
+    "teaserAuthor": "Laurent Gillieron / KEYSTONE",
+    "flag": "Short news items",
+    "nzzId": "ld.10020886",
+    "readingTime": 300,
+    "paywallQuestionOne": "What measures is Randa taking to combat the impending glacier collapse?",
+    "paywallQuestionTwo": "How endangered is the village of Randa by the Weisshorn East Glacier?",
+    "paywallQuestionThree": "Which areas in Randa are currently closed to the public?",
+    "characterCount": 6562,
+    "product": "NZZ.ch",
+    "documentId": "10020886",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T12:54:11.658Z",
+    "publicationLastUpdated": "2026-09-02T12:54:11.658Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T00:54:11.658Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/schweiz/schweiz-die-neusten-meldungen-ld.10020886",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 941,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Heat in Europe: Climate researcher warns of more extreme weather; hundreds flee wildfires in Spain",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Live ticker",
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024&quality=75&auto=webp",
+     "width": 5315,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5315,3543,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+     "teaserAuthor": "Federico Gambarini / Keystone"
+    },
+    "teaserAuthor": "Federico Gambarini / Keystone",
+    "authorLine": "NZZ Newsroom",
+    "nzzId": "ld.10008673",
+    "readingTime": 60,
+    "liveCenterId": "86247",
+    "embeds": {
+     "videos": [
+      {
+       "id": "TZNqnPW9",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 9,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/TZNqnPW9-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How do heat waves affect people, animals and the environment in Switzerland?",
+    "paywallQuestionTwo": "Which regions of Europe are affected by record temperatures?",
+    "paywallQuestionThree": "What measures does the federal government recommend to combat the heat?",
+    "characterCount": 19,
+    "videoTeaser": "TZNqnPW9",
+    "product": "NZZ.ch",
+    "documentId": "10008673",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T06:52:11.732Z",
+    "publicationLastUpdated": "2026-08-27T06:52:11.732Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-27T18:52:11.732Z",
+    "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "url": "https://www.nzz.ch/panorama/hitze-in-europa-klimaforscher-warnt-vor-mehr-extremwetter-hunderte-menschen-in-spanien-wegen-waldbrand-evakuiert-ld.10008673",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 45,
+    "leadText": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Missing for 34 years: Summer heat releases bodies of two hikers on Trift Glacier",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/fb4c8eb3-deb8-4a66-b66c-1f738ccc7916.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/fb4c8eb3-deb8-4a66-b66c-1f738ccc7916.jpg?width=1024&quality=75&auto=webp",
+     "width": 4368,
+     "height": 2912,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4368,2457,x0,y455"
+      },
+      {
+       "name": "4:3",
+       "crop": "3883,2912,x243,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2912,2912,x728,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2184,2912,x1092,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4368,2912,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Once again, glacial melt has exposed human remains in Valais. According to authorities, these were two Belgians who had been missing since 1992.",
+     "teaserAuthor": "imago"
+    },
+    "teaserAuthor": "imago",
+    "nzzId": "ld.10020153",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role does glacial melt play in uncovering missing persons?",
+    "paywallQuestionTwo": "Why are the Valais Alps particularly dangerous for mountaineers?",
+    "paywallQuestionThree": "How frequently are human remains found in Swiss glaciers?",
+    "characterCount": 3785,
+    "product": "NZZ.ch",
+    "documentId": "10020153",
+    "layout": "regular",
+    "publicationDate": "2026-08-19T14:35:06.041Z",
+    "publicationLastUpdated": "2026-08-20T06:25:33.962Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-20T02:35:06.041Z",
+    "teaserCaption": "Once again, glacial melt has exposed human remains in Valais. According to authorities, these were two Belgians who had been missing since 1992.",
+    "authorLine": "Leonie C. Wagner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/20/0be0ea33-c4db-46ef-81de-70d372135e9b.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/34-jahre-vermisst-die-sommerhitze-gibt-die-leichen-zweier-wanderer-auf-dem-triftgletscher-frei-ld.10020153",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 623,
+    "leadText": "Once again, glacial melt has exposed human remains in Valais. According to authorities, these were two Belgians who had been missing since 1992.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«The peak has been reached»: Switzerland is drying out – and now the glacial meltwater is also receding",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3988,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y307"
+      },
+      {
+       "name": "4:3",
+       "crop": "5317,3988,x341,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3988,3988,x1006,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2991,3988,x1505,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5982,3988,x9,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "So far this summer, the waterways have benefited from the increased runoff from the glaciers. But this source will soon dry up too. Experts are calling for Switzerland to build more reservoirs and dams, including new storage lakes.",
+     "teaserAuthor": "Michelangelo Oprandi / Imago"
+    },
+    "teaserAuthor": "Michelangelo Oprandi / Imago",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3988,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y207"
+      },
+      {
+       "name": "1:1",
+       "crop": "3988,3988,x1006,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5317,3988,x683,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2991,3988,x1505,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5982,3988,x18,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/13/5f6f90ff-2bc0-442d-858e-9ba49ae4d159.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/5f6f90ff-2bc0-442d-858e-9ba49ae4d159.jpg?width=1024&quality=75&auto=webp",
+     "width": 7785,
+     "height": 5839,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7785,4379,x0,y621"
+      },
+      {
+       "name": "1:1",
+       "crop": "5839,5839,x973,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7785,5839,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4379,5839,x1703,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7785,5190,x0,y123"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzasFootnote": true,
+    "editor": "1373500",
+    "nzzId": "ld.10019358",
+    "readingTime": 660,
+    "paywallQuestionOne": "How can Switzerland compensate for the decline in glacial meltwater?",
+    "paywallQuestionTwo": "What role do reservoirs play in the future water strategy?",
+    "paywallQuestionThree": "What conflicts arise from multifunctional water use?",
+    "characterCount": 14153,
+    "product": "NZZ.ch",
+    "documentId": "10019358",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-15T19:46:46.841Z",
+    "publicationLastUpdated": "2026-08-17T07:22:08.140Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-16T07:46:46.841Z",
+    "teaserCaption": "So far this summer, the waterways have benefited from the increased runoff from the glaciers. But this source will soon dry up too. Experts are calling for Switzerland to build more reservoirs and dams, including new storage lakes.",
+    "authorLine": "René Donzé, Daniel Friedli",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/01/6c663d20-ff0c-4c7b-b1e4-38c868796d13.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/der-peak-ist-erreicht-die-schweiz-ist-am-austrocknen-und-nun-geht-auch-noch-das-gletscherwasser-zurueck-ld.10019358",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 2162,
+    "leadText": "So far this summer, the waterways have benefited from the increased runoff from the glaciers. But this source will soon dry up too. Experts are calling for Switzerland to build more reservoirs and dams, including new storage lakes.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020910",
+    "name": "This summer's heat shows: As glaciers disappear, more dams needed",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "This summer's heat shows: As glaciers disappear, more dams needed",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1699169,
+       "name": "Matthias Venetz",
+       "shortName": "etz",
+       "pianoId": "e79b7a7a-26c8-486f-8d80-e2d1bb97e58b",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:35:00.000Z",
+     "updateTimestamp": "2026-09-02T09:49:17.448Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020910",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Heatwave summer: Because the glaciers are melting, more dams are needed",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Matthias Venetz, Bern",
+  "description": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+  "news_keywords": "This hot summer shows: Because the glaciers are disappearing, we need to build more dams. (Commentary, Opinion, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-09-02T13:49:17+02:00",
+  "date": "2026-09-02T07:35:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - This hot summer shows: Because the glaciers are disappearing, we need to build more dams",
+  "ogTitle": "New priorities after the heatwave summer: Dams as artificial glaciers",
+  "ogUrl": "https://www.nzz.ch/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+  "mrf:cms_id": "nzz:ld.10020910",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020910",
+  "nzzAuthors": [
+   {
+    "id": 1699169,
+    "name": "Matthias Venetz",
+    "shortName": "etz",
+    "pianoId": "e79b7a7a-26c8-486f-8d80-e2d1bb97e58b",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:06 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Heatwave summer: Because the glaciers are melting, more dams are needed"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910"
+   },
+   "headline": "Heatwave summer: Because the glaciers are melting, more dams are needed",
+   "datePublished": "2026-09-02T07:35:00+02:00",
+   "dateModified": "2026-09-02T13:49:17+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Matthias Venetz"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 515184,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+    "classification=default",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020910",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-09-02T03:35:00.000Z",
+   "ContentAuthor": "Matthias Venetz, Bern",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie können Staudämme die schwindenden Gletscher ersetzen?\nWelche Rolle spielt Wassermanagement für die Bergregionen?\nWie beeinflusst der Klimawandel die Alpen langfristig?",
+   "ldId": "ld.10020910",
+   "channel": "Meinung",
+   "heading": "Dieser Hitzesommer zeigt: Weil die Gletscher verschwinden, müssen wir mehr Staudämme bauen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

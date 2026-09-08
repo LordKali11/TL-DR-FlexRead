@@ -1,0 +1,1238 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0t4i5741",
+   "content": {
+    "title": "Songs for all time: Dolly Parton's six greatest hits",
+    "lead": "Poverty, pain, and love: The country icon with the blonde wigs and clear soprano voice has fallen silent. Millions recognize themselves in her songs and her story. What do they tell?",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0t4mjrr0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Ivo Mijnssen",
+       "url": "/impressum/ivo-mijnssen-ld.1287492",
+       "teaserImage": {
+        "originalUrl": "/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024&quality=75&auto=webp",
+        "width": 7953,
+        "height": 5293,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "7953,4474,x0,y410"
+         },
+         {
+          "name": "1:1",
+          "crop": "5293,5293,x1330,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "7057,5293,x448,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3970,5293,x1992,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0t4mn5a0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Inna Hartwich",
+       "url": "/impressum/inna-hartwich-ld.1911275",
+       "teaserImage": {
+        "originalUrl": "/2025/12/11/64cc069e-192d-4de8-9d92-dfec1fbbf180.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/11/64cc069e-192d-4de8-9d92-dfec1fbbf180.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0t4i5742",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Lisa Aeschlimann",
+       "url": "/impressum/lisa-aeschlimann-ld.1907581",
+       "teaserImage": {
+        "originalUrl": "/2025/12/11/b8de1af7-a8c1-425c-96e6-69fdf16784cb.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/11/b8de1af7-a8c1-425c-96e6-69fdf16784cb.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "4128,2322,x0,y215"
+         },
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3669,2752,x229,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2064,2752,x1032,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0t4i5743",
+   "content": {
+    "image": {
+     "author": "Brandon Sloter / Getty",
+     "caption": "Dolly Parton in a 2023 recording.",
+     "originalUrl": "/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?crop=4609,3073,x0,y0",
+     "width": 4609,
+     "height": 3073,
+     "altText": "ARLINGTON, TEXAS - NOVEMBER 23: Dolly Parton performs at halftime during the game between the Dallas Cowboys and the Washington Commanders at AT&T Stadium on November 23, 2023 in Arlington, Texas. (Photo by Brandon Sloter/Image Of Sport/Getty Images)",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4609,
+      "height": 3073,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4609,
+       "height": 3073,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Dolly Parton in a 2023 recording.",
+    "author": "Brandon Sloter / Getty"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6joe50",
+   "content": {
+    "text": "Country legend Dolly Parton died at the age of 80 in Nashville. Born on January 19, 1946, one of twelve children in a poor Tennessee family, she wrote her first songs as a child and became a member of the country radio show «Grand Ole Opry» at age 13."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-ebee84fc",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6r2kr1",
+   "content": {
+    "text": "In a career spanning over six decades, she wrote an estimated 3,000 songs, including several global hits. A selection."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t4ip580",
+   "content": {
+    "title": "«My Tennessee Mountain Home»",
+    "id": "subtitle-my-tennessee-mountain-home"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0t50cmc0",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 56.25% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/sb-Y5rsGKDo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Dolly Parton - My Tennessee Mountain Home\"></iframe>\n      </div>",
+     "caption": "",
+     "url": "https://www.youtube.com/watch?v=sb-Y5rsGKDo"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6bf5j0",
+   "content": {
+    "text": "<em>ael.</em> «My Tennessee Mountain Home» is Dolly Parton's homage to her childhood in the Smoky Mountains. The song describes the simple life Parton knew as one of twelve children in Locust Ridge, Tennessee: sitting on the porch, watching siblings play with May beetles, chasing fireflies, listening to crickets."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6bf5l0",
+   "content": {
+    "text": "Parton wrote the song herself and released it as a single in 1972; a year later, it became the title track of her 1973 concept album. The entire album is a musical autobiography. The album cover shows the actual log cabin where Dolly Parton grew up. Parton later bought back and restored the house. The song later became the theme song for her Dollywood amusement park."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t4isan0",
+   "content": {
+    "title": "«Jolene»",
+    "id": "subtitle-jolene"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0t4vbl60",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 56.25% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/L0eeSoU35wM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Dolly Parton - Jolene 19880110\"></iframe>\n      </div>",
+     "caption": "",
+     "url": "https://www.youtube.com/watch?v=L0eeSoU35wM"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t4ivne0",
+   "content": {
+    "text": "<em>inn</em>. She pleads, she begs, yet she is so powerful. «Jolene, Jolene,» Dolly Parton sings — for the first time in 1973 — «don’t take my man.» With this, she ultimately addresses everyone's fear of being replaceable. «Jolene» is this beauty, with «auburn hair,» «ivory skin,» and «emerald eyes.» She could have practically anyone. But the man Dolly fears losing, she should leave him alone, leave him to her."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t5fr2o0",
+   "content": {
+    "text": "A typical jealousy story? No."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t5nkvi0",
+   "content": {
+    "text": "The country singer does not condemn «Jolene»; she portrays her as someone admirable. It is not aggression; it is simply her own fear of loss that she addresses. It is her anxiety, and with it, exactly what Dolly Parton spoke to for many years. Or rather, from the gut, because the pain of being abandoned sits there."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t4i5744",
+   "content": {
+    "title": "«Here You Come Again»",
+    "id": "subtitle-here-you-come-again"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0t50k1a0",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 75% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"960\" height=\"720\" src=\"https://www.youtube.com/embed/x87Zx3XAIsI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Dolly Parton - Here You Come Again (Official Video)\"></iframe>\n      </div>",
+     "caption": "",
+     "url": "https://www.youtube.com/watch?v=x87Zx3XAIsI"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t4ij080",
+   "content": {
+    "text": "<em>ael.</em> «Here You Come Again, just when I’ve begun to get myself together»: Dolly Parton's first major pop crossover hit from 1977 is about a woman who is just getting over a past relationship when her charming, confident ex-partner appears."
+   },
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t5illl1",
+   "content": {
+    "text": "Unlike almost all her other hits, Dolly Parton did not write it herself. It comes from the songwriting couple Barry Mann and Cynthia Weil. The famous opening line «Here You Come Again» came about by accident: Cynthia Weil accidentally deleted part of the original lyric and had to improvise. Her husband liked her new version better than the original."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t5j0341",
+   "content": {
+    "text": "The song marked the beginning of Dolly Parton's worldwide mainstream success. At that time, Parton was already an established country star. However, she was afraid of losing her core audience with a too «slick» pop song. To make her country roots more audible, she included a steel guitar. The song reached number one on the country charts and number three on the pop charts."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t4ikbe0",
+   "content": {
+    "title": "«9 to 5»",
+    "id": "subtitle-9-to-5"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0t50m580",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 75% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"960\" height=\"720\" src=\"https://www.youtube.com/embed/UbxUSsFXYo4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Dolly Parton - 9 To 5 (Official Video)\"></iframe>\n      </div>",
+     "caption": "",
+     "url": "https://www.youtube.com/watch?v=UbxUSsFXYo4"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t4ilim0",
+   "content": {
+    "text": "<em>mij</em>. First, this hard piano beat, then the trumpet comes in – and Dolly's voice. The singer stumbles out of bed and pours herself a high-proof «cup of ambition.» She gets ready for «9 to 5,» the job, the daily madness, the disappointments, and the small triumphs. «Out on the street, the traffic starts jumping,» she sings, and in the video, businesswomen rush through the big city to the beat of a metronome. Dolly sits with her band in the barn, more country yet «all business»: red blouse, blue jeans. And that incredible hair."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t96h4k0",
+   "content": {
+    "text": "«9 to 5» is also the title song for the Hollywood blockbuster of the same name. The story about three women who kidnap their boss because he spreads lies about them grossed 100 million dollars. Parton always has a clear message. But she never allows herself to be co-opted politically. Dolly is program enough. That's why Americans love her so much."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t4ncd00",
+   "content": {
+    "title": "«Islands In The Stream» with Kenny Rogers",
+    "id": "subtitle-islands-in-the-stream-mit-kenny-rogers"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0t50s0c0",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 56.25% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/HQW7I62TNOw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"KENNY ROGERS &amp;  DOLLY PARTON -  ISLANDS IN THE STREAM - HQ Audio\"></iframe>\n      </div>",
+     "caption": "",
+     "url": "https://www.youtube.com/watch?v=HQW7I62TNOw"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t4njg80",
+   "content": {
+    "text": "<em>inn</em>. No, no, it is not «Ghetto Supastar,» not the earworm by American rapper Pras Michel. Nor is it the Bee Gees, who had a comeback with «Islands In The Stream» in 1997. It is Dolly Parton and her country colleague Kenny Rogers, who in 1983 happily moved through country clubs with the song, stood on arena stages with it, and performed on television."
+   },
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6ckv10",
+   "content": {
+    "text": "While Dolly Parton still sings about the vulnerable side of love in «Jolene,» «Islands In The Stream» is a kind of anthem to unconditional connection. The two celebrate the intimacy between two people; the adversities of the world should not harm them."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6li9s0",
+   "content": {
+    "text": "Rogers actually wanted to record the song alone in a Nashville studio, but found it stiff and boring. Coincidence or not, Parton was also in town at the time and came at the perfect time. The duet song became a hit. Not just for the two of them."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t6q4ua0",
+   "content": {
+    "text": "The Bee Gees actually wrote it — and reclaimed it fourteen years after Dolly's and Kenny's triumph."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0t4imoe0",
+   "content": {
+    "title": "«I Will Always Love You»",
+    "id": "subtitle-i-will-always-love-you"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "youtube"
+  },
+  {
+   "identifier": "youtube",
+   "id": "doc-1k0t50gln0",
+   "content": {
+    "youtube": {
+     "html": "<div style=\"position: relative; padding: 75% 0 0 0;\">\n        <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" width=\"960\" height=\"720\" src=\"https://www.youtube.com/embed/pW2TgGy5gjY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Dolly Parton - I Will Always Love You (Live)\"></iframe>\n      </div>",
+     "caption": "",
+     "url": "https://www.youtube.com/watch?v=pW2TgGy5gjY"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0t4io6h0",
+   "content": {
+    "text": "<em>mij.</em> Everyone knows Whitney Houston's beautiful version. Some still see the singer in the arms of bodyguard Kevin Costner. But the heart is truly touched only when Dolly sings the sad love ballad. It is about separation and starting a new chapter: «I’m not what you need,» she sang, separating from her mentor and manager Porter Wagoner in 1974. Dolly took control of her career, asserting herself as a woman in the tough country business. And she paid a price for it. But Dolly holds no grudge. «I wish you joy and happiness,» she sang. Dolly's voice almost breaks with sadness, Whitney Houston calls out the words bravely into the night. Now both voices have fallen silent."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "youtube",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k0tar97p0",
+   "content": {
+    "text": "Contributor: Jessica Mijnssen"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0t4i5745",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0t4i5746",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0t4i5747",
+      "content": {
+       "title": "Glitter for eternity: Country singer Dolly Parton has died. An obituary",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/01/14/14f2c318-42b2-422c-8455-ff0fc66fa9fc.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/14f2c318-42b2-422c-8455-ff0fc66fa9fc.jpg?width=1024&quality=75&auto=webp",
+        "width": 2403,
+        "height": 3000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2403,1352,x0,y566"
+         },
+         {
+          "name": "4:3",
+          "crop": "2403,1802,x0,y315"
+         },
+         {
+          "name": "1:1",
+          "crop": "2403,2403,x0,y57"
+         },
+         {
+          "name": "3:4",
+          "crop": "2250,3000,x153,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2403,1602,x0,y304"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Dolly Parton, who turned artificiality into an art form and self-irony into a kind of sovereignty, dies at 80. Her songs transcended the boundaries between tradition and pop.",
+        "teaserAuthor": "Michael Ochs Archives / Getty"
+       },
+       "teaserAuthor": "Michael Ochs Archives / Getty",
+       "nzzId": "ld.10021046",
+       "readingTime": 360,
+       "paywallQuestionOne": "What made Dolly Parton a country music legend?",
+       "paywallQuestionTwo": "How did Dolly Parton shape the world of music and film?",
+       "paywallQuestionThree": "What legacy does Dolly Parton leave behind offstage?",
+       "characterCount": 7114,
+       "authorLine": "Jonathan Fischer",
+       "product": "NZZ.ch",
+       "documentId": 10021046,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-25T19:25:01.301Z",
+       "publicationLastUpdated": "2026-08-26T13:06:11.544Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-26T07:25:01.301Z",
+       "teaserCaption": "Dolly Parton, who turned artificiality into an art form and self-irony into a kind of sovereignty, dies at 80. Her songs transcended the boundaries between tradition and pop.",
+       "url": "/feuilleton/die-us-country-saengerin-dolly-parton-ist-gestorben-sie-wurde-80-jahre-alt-ld.10021046",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1155,
+       "leadText": "Dolly Parton, who turned artificiality into an art form and self-irony into a kind of sovereignty, dies at 80. Her songs transcended the boundaries between tradition and pop.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0t4i5748",
+      "content": {
+       "owner": "NZZ",
+       "title": "The United States of Dolly Parton: The musician supposedly loves everyone – therein lies her power",
+       "teaserImage": {
+        "originalUrl": "/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024&quality=75&auto=webp",
+        "width": 2400,
+        "height": 3300,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2400,1350,x0,y711"
+         },
+         {
+          "name": "1:1",
+          "crop": "935,935,x725,y740"
+         },
+         {
+          "name": "4:3",
+          "crop": "2400,1800,x0,y446"
+         },
+         {
+          "name": "3:4",
+          "crop": "2400,3200,x0,y100"
+         },
+         {
+          "name": "3:2",
+          "crop": "2400,1600,x0,y551"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For decades, even divided parties of the left and right have been able to agree on Dolly Parton. Now she is turning 80.",
+        "teaserAuthor": "Michael Ochs Archives / Getty"
+       },
+       "teaserAuthor": "Michael Ochs Archives / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/3c5acbd4-1963-478f-99b3-8e0d3f557577.jpg?width=1024&quality=75&auto=webp",
+        "width": 2400,
+        "height": 3300,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2400,1350,x0,y732"
+         },
+         {
+          "name": "1:1",
+          "crop": "2400,2400,x0,y118"
+         },
+         {
+          "name": "4:3",
+          "crop": "2400,1800,x0,y403"
+         },
+         {
+          "name": "3:4",
+          "crop": "2400,3200,x0,y50"
+         },
+         {
+          "name": "3:2",
+          "crop": "2400,1600,x0,y651"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/01/14/d7129356-0054-4cf5-9fbf-07d8a565659d.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/d7129356-0054-4cf5-9fbf-07d8a565659d.jpg?width=1024&quality=75&auto=webp",
+        "width": 2328,
+        "height": 1788,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2328,1309,x0,y168"
+         },
+         {
+          "name": "1:1",
+          "crop": "1788,1788,x540,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2328,1746,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1341,1788,x758,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2328,1552,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024&quality=75&auto=webp",
+        "width": 4609,
+        "height": 3073,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4609,2593,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1516,1516,x1565,y160"
+         },
+         {
+          "name": "4:3",
+          "crop": "4097,3073,x256,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1821,2428,x1455,y170"
+         },
+         {
+          "name": "3:2",
+          "crop": "4609,3073,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1920106",
+       "readingTime": 360,
+       "authorLine": "Rahel Zingg",
+       "characterCount": 6512,
+       "product": "NZZ.ch",
+       "documentId": 1920106,
+       "layout": "longformvisual",
+       "publicationDate": "2026-01-19T04:30:00.000Z",
+       "publicationLastUpdated": "2026-01-19T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-01-19T16:30:00.000Z",
+       "teaserCaption": "For decades, even divided parties of the left and right have been able to agree on Dolly Parton. Now she is turning 80.",
+       "authorImage": {
+        "originalUrl": "/2023/06/14/21d364d0-08ad-4702-a2cc-385027e0009f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/06/14/21d364d0-08ad-4702-a2cc-385027e0009f.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/21d364d0-08ad-4702-a2cc-385027e0009f.png?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/die-vereinigten-staaten-von-dolly-parton-die-musikerin-liebt-angeblich-alle-darin-liegt-ihre-macht-ld.1920106",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1219,
+       "leadText": "For decades, even divided parties of the left and right have been able to agree on Dolly Parton. Now she is turning 80.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0t4i5749",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Dolly Parton even wears high heels in the kitchen",
+       "teaserImage": {
+        "originalUrl": "/2020/12/19/462f4880-fdf1-4459-a0e4-f2e217a82333.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2020/12/19/462f4880-fdf1-4459-a0e4-f2e217a82333.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3840,
+        "height": 3521,
+        "imageService": "fastly",
+        "crops": [
+         {
+          "name": "4:3",
+          "crop": "3840,2880,x0,y320"
+         },
+         {
+          "name": "3:4",
+          "crop": "2641,3521,x600,y0"
+         },
+         {
+          "name": "16:9",
+          "crop": "3840,2160,x0,y681"
+         },
+         {
+          "name": "1:1",
+          "crop": "3521,3521,x160,y0"
+         }
+        ],
+        "teaserCaption": "Dolly Parton, an entertainer with a penchant for extravagance, has produced a Christmas musical. She is cementing her reputation as one of the most versatile and intelligent stars in show business."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1789906",
+       "readingTime": 240,
+       "authorLine": "Peter Hossli",
+       "characterCount": 4452,
+       "product": "NZZ.ch",
+       "documentId": 1789906,
+       "layout": "regular",
+       "publicationDate": "2024-02-10T00:20:15.846Z",
+       "publicationLastUpdated": "2024-02-22T17:48:53.876Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-02-10T12:20:15.846Z",
+       "teaserCaption": "Dolly Parton, an entertainer with a penchant for extravagance, has produced a Christmas musical. She is cementing her reputation as one of the most versatile and intelligent stars in show business.",
+       "url": "/gesellschaft/dolly-parton-traegt-selbst-in-der-kueche-highheels-ld.1789906",
+       "department": {
+        "name": "Society",
+        "path": "/gesellschaft"
+       },
+       "estimationWordCount": 725,
+       "leadText": "Dolly Parton, an entertainer with a penchant for extravagance, has produced a Christmas musical. She is cementing her reputation as one of the most versatile and intelligent stars in show business."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Songs for all time: The six greatest songs by Dolly Parton",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "videoTeaser": "",
+  "teaserImage": {
+   "originalUrl": "/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1024&quality=75&auto=webp",
+   "width": 4609,
+   "height": 3073,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4609,2593,x0,y123"
+    },
+    {
+     "name": "4:3",
+     "crop": "4097,3073,x329,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1577,1577,x1567,y191"
+    },
+    {
+     "name": "3:4",
+     "crop": "2305,3073,x1661,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4609,3073,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+   "teaserAuthor": "Brandon Sloter / Getty"
+  },
+  "teaserAuthor": "Brandon Sloter / Getty",
+  "nzzId": "ld.10021051",
+  "readingTime": 300,
+  "characterCount": 5910,
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021051,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T20:25:22.436Z",
+  "publicationDate": "2026-08-25T20:25:22.436Z",
+  "publicationLastUpdated": "2026-08-26T08:45:37.161Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T08:25:22.436Z",
+  "teaserCaption": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+  "nzzAuthors": [
+   {
+    "id": 1373175,
+    "name": "Ivo Mijnssen",
+    "shortName": "mij",
+    "pianoId": "189dbe08-3db0-4758-96c4-6fe52e75608f",
+    "external": false
+   },
+   {
+    "id": 1372750,
+    "name": "Inna Hartwich",
+    "shortName": "inn",
+    "external": false
+   },
+   {
+    "id": 1887149,
+    "name": "Lisa Aeschlimann",
+    "shortName": "ael",
+    "external": false
+   }
+  ],
+  "authorLine": "Ivo Mijnssen, Inna Hartwich, Lisa Aeschlimann",
+  "authorImage": {
+   "originalUrl": "/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024&quality=75&auto=webp",
+   "width": 7953,
+   "height": 5293,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "5293,5293,x1330,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1287492,
+    "name": "Ivo Mijnssen (mij.) - Deputy Editor-in-Chief",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1911275,
+    "name": "Inna Hartwich",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/64cc069e-192d-4de8-9d92-dfec1fbbf180.jpg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1907581,
+    "name": "Lisa Aeschlimann",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/b8de1af7-a8c1-425c-96e6-69fdf16784cb.jpg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/09/29/697952c9-66ca-489c-ac67-a8098b83d41c.jpg?width=1024&quality=75&auto=webp",
+  "url": "/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+  "department": {
+   "name": "Arts & Culture",
+   "path": "/feuilleton"
+  },
+  "estimationWordCount": 937,
+  "leadText": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+  "nzzSummaryEN": "- Dolly Parton, an iconic country music legend, has passed away at the age of 80; she wrote approximately 3,000 songs during her career, including major hits like \"Jolene\" and \"I Will Always Love You\".\n- Her career was defined by songs that narrate personal stories of poverty, pain, and love, showcasing her versatility in both country and pop genres with global recognition.\n- Other renowned works include songs like \"My Tennessee Mountain Home\", \"9 to 5\", and \"Islands in the Stream\", the latter created in collaboration with artists like Kenny Rogers.",
+  "nzzSummaryDE": "Dolly Parton, a country music icon, has died at the age of 80. She wrote approximately 3,000 songs throughout her career, including several worldwide hits such as «Jolene» and «I Will Always Love You.» Her career was characterized by songs that told personal stories of poverty, pain, and love, and she achieved global recognition for her versatility in both the country and pop genres. Other well-known works include songs like «My Tennessee Mountain Home,» «9 to 5,» and «Islands in the Stream,» some of which were collaborations with other artists such as Kenny Rogers.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Dolly Parton: These songs shaped her career",
+  "nzzPrintSubtitle": "Dolly Parton: These songs shaped her career",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+   "title": "Dolly Parton: These songs shaped her career",
+   "socialMediaTitle": "From «Jolene» to «9 to 5»: The six most important songs by Dolly Parton",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4609,2593,x0,y123&wmark=nzz"
+  },
+  "ldPublicationId": 2483855,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021046",
+    "ld.1920106",
+    "ld.1789906"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 387240,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021051",
+    "name": "Songs for all time: The six greatest songs by Dolly Parton",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Songs for all time: The six greatest songs by Dolly Parton",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373175,
+       "name": "Ivo Mijnssen",
+       "shortName": "mij",
+       "pianoId": "189dbe08-3db0-4758-96c4-6fe52e75608f",
+       "external": false
+      },
+      {
+       "id": 1372750,
+       "name": "Inna Hartwich",
+       "shortName": "inn",
+       "external": false
+      },
+      {
+       "id": 1887149,
+       "name": "Lisa Aeschlimann",
+       "shortName": "ael",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T20:25:22.436Z",
+     "updateTimestamp": "2026-08-26T08:45:37.161Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021051",
+   "pageType": "regular",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Dolly Parton: These songs shaped her career",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4609,2593,x0,y123&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Ivo Mijnssen, Inna Hartwich, Lisa Aeschlimann",
+  "description": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+  "news_keywords": "Songs for all time: The six greatest songs by Dolly Parton, Feuilleton, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-26T12:45:37+02:00",
+  "date": "2026-08-26T00:25:22+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Songs for all time: The six greatest songs by Dolly Parton",
+  "ogTitle": "From «Jolene» to «9 to 5»: The six most important songs by Dolly Parton",
+  "ogUrl": "https://www.nzz.ch/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+  "mrf:cms_id": "nzz:ld.10021051",
+  "mrf:sections": "Feuilleton",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021051",
+  "nzzAuthors": [
+   {
+    "id": 1373175,
+    "name": "Ivo Mijnssen",
+    "shortName": "mij",
+    "pianoId": "189dbe08-3db0-4758-96c4-6fe52e75608f",
+    "external": false
+   },
+   {
+    "id": 1372750,
+    "name": "Inna Hartwich",
+    "shortName": "inn",
+    "external": false
+   },
+   {
+    "id": 1887149,
+    "name": "Lisa Aeschlimann",
+    "shortName": "ael",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:01 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Dolly Parton: These songs shaped her career"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051"
+   },
+   "headline": "Dolly Parton: These songs shaped her career",
+   "datePublished": "2026-08-26T00:25:22+02:00",
+   "dateModified": "2026-08-26T12:45:37+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Poverty, pain, and love: The country icon with the blonde wigs and the bright soprano voice has fallen silent. Millions see themselves in her songs and her story. What are they telling us?",
+   "isAccessibleForFree": false,
+   "articleSection": "Feuilleton",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/01/14/14c43577-cd81-4a99-92b4-829bf99b6885.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4609,2593,x0,y123&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Ivo Mijnssen"
+    },
+    {
+     "@type": "Person",
+     "name": "Inna Hartwich"
+    },
+    {
+     "@type": "Person",
+     "name": "Lisa Aeschlimann"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 387240,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/lieder-fuer-die-ewigkeit-die-sechs-groessten-songs-von-dolly-parton-ld.10021051",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021051",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-08-25T20:25:22.436Z",
+   "ContentAuthor": "Ivo Mijnssen, Inna Hartwich, Lisa Aeschlimann",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Welche Themen prägen die grössten Hits von Dolly Parton?\nWie hat Dolly Parton ihre Country-Wurzeln in Pop-Hits integriert?\nWelche Botschaften transportieren Dollys Songs über Liebe und Verlust?",
+   "ldId": "ld.10021051",
+   "channel": "Feuilleton",
+   "heading": "Songs für alle Zeiten: Die sechs grössten Lieder von Dolly Parton",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

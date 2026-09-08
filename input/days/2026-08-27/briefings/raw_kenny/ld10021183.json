@@ -1,0 +1,1570 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jk0n02i70",
+   "content": {
+    "subject": "9/11 hat die Kluft zwischen Russland und den USA vertieft",
+    "preheader": "Blick voraus auf Geopolitik und Weltwirtschaft"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-06524530",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0n02i81",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/03/18/6b3d0d9f-9078-4317-8e01-66c512704a55.png",
+     "mediaId": "zD98XgkizBBo",
+     "key": "2026/03/18/6b3d0d9f-9078-4317-8e01-66c512704a55.png",
+     "width": 800,
+     "height": 800,
+     "mimeType": "image/png",
+     "altText": "N/A",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/18/6b3d0d9f-9078-4317-8e01-66c512704a55.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jk0n02i83",
+   "content": {
+    "text": "Leon Hedgehog"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jk0n02i84",
+   "content": {
+    "text": "<a data-li-document-ref=\"1834836\" href=\"https://www.nzz.ch/leon-igel-ld.1834836\">Editor «NZZ Pro»</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n2bpk0",
+   "content": {
+    "text": "This week, too, is dominated by the seemingly endless wars. Sheikh Al Thani, the Prime Minister of Qatar, is scheduled to meet with several Iranian representatives in Tehran today. He aims to reduce tensions, discuss the Strait of Hormuz, and contribute to a dialogue between the United States and Iran, according to the Qatari Foreign Ministry. Meanwhile, Trump is in no particular hurry. He stated that the war will continue as long as necessary."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n02i90",
+   "content": {
+    "text": "Even 2,500 kilometers from Tehran, there is little prospect of peace anytime soon. On Tuesday, a US military plane landed at Moscow's Vnukovo Airport. The reason for the trip was initially unclear, fueling speculation. It has since become clear that CIA Director John Ratcliffe visited representatives of the Russian intelligence service. According to media reports, he warned Russia against attacking NATO allies."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k10thbt81",
+   "content": {
+    "text": "America now considers an escalation in Eastern Europe possible. This is a completely different assessment than the optimism suggested by President Trump at the beginning of his second term. During his election campaign, he said he could end the war in Ukraine within 24 hours. Trump was wrong."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1118ojl0",
+   "content": {
+    "text": "Another miscalculation in the relationship between the US and Russia is discussed further below in this newsletter. Markus Ackeret examines a historical moment that could have brought the US and Russia closer together. However, the two superpowers fundamentally misunderstood each other. And so, as our Russia expert writes in his analysis, this brief moment only widened the gap between Russia and the US."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k111gg360",
+   "content": {
+    "text": "Ackeret looks back at September 11, 2001. The terrorist attacks shook America, and Russian President Vladimir Putin immediately sent a telegram to Washington. He was the first head of state to try to reach George W. Bush by phone. The next day, Putin offered the American president his support in the fight against international terrorism."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k111css81",
+   "content": {
+    "text": "The proposal was surprising. What would the world look like today if Russia and America had found a common language back then? Counterfactual history doesn't change the course of events, but it can sharpen our vision for the future. For those moments when we have to make decisions for the future amidst the thicket of the present."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6tvih0",
+   "content": {
+    "text": "Markus Ackeret's analysis is part of our «NZZ Pro» series on the 25th anniversary of 9/11. Leading up to September 11th, we are exploring how the terrorist attacks changed America and the world. You can read the articles published so far <a href=\"https://www.nzz.ch/pro/25-jahre-9-11\">here</a> ; further analyses will follow in the coming weeks."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v87i1k0",
+   "content": {
+    "text": "Furthermore, I would like to recommend the following articles from «NZZ Pro»:"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1k0v7arb70",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0v7arb71",
+      "content": {
+       "text": "<strong>Iran:</strong> Donald Trump wants to go down in American history as a great president. Now he could be brought down by Iran, as Christian Weisflog <a data-li-document-ref=\"10012906\" href=\"https://www.nzz.ch/ld.10012906\">comments</a> . But Trumpism will remain."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0v7t04m0",
+      "content": {
+       "text": "<strong>Yemen:</strong> The country is threatened by a new war. Daniel Böhm and Dominic Nahr visited the port city of Aden and <a data-li-document-ref=\"10018312\" href=\"https://www.nzz.ch/ld.10018312\">met</a> people who, after years of decline, are simply weary."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n2obr0",
+   "content": {
+    "text": "Tomorrow, from 12 to 1 p.m., our next <a target=\"_blank\" href=\"https://abo.nzz.ch/25093009000_nzzlive\">«NZZ Pro» talk</a> will take place. Peter A. Fischer, Georg Häsler, and Baltic correspondent Linda Koponen will discuss: How relevant is neutrality in today's multipolar world order? The occasion is the Swiss People's Party's (SVP) neutrality initiative, which will be put to a vote at the end of September. The talk is free of charge, but you must <a target=\"_blank\" rel=\"noopener\" href=\"https://abo.nzz.ch/25093009000_nzzlive\">register here</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0n2ti40",
+   "content": {
+    "text": "I wish you an insightful read."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0n32170",
+   "content": {
+    "text": "<em>Your Leon Hedgehog</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-footnote"
+  },
+  {
+   "identifier": "newsletter_baukasten-footnote",
+   "id": "doc-1jk0n36nj0",
+   "content": {
+    "text": "If you have any questions, suggestions or criticism, please feel free to write to me at leon.igel@nzz.ch."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jk0n3ohn0",
+   "content": {
+    "title": "September 11, 2001 deepened the rift between Russia and the USA"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-footnote",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jk0n47bi0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/26/7b8c32b0-2543-4f86-843b-224ec90d5976.jpg",
+     "mediaId": "or-vPV-1RA5Y",
+     "key": "2026/08/26/7b8c32b0-2543-4f86-843b-224ec90d5976.jpg",
+     "width": 3000,
+     "height": 2239,
+     "mimeType": "image/jpeg",
+     "altText": "397207 07: US President George W. Bush (R) and Russian President Vladimir Putin shake hands after speaking to the media in the East Room of the White House November 13, 2001 in Washington, DC. (Photo by Mark Wilson/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180226925"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b8c32b0-2543-4f86-843b-224ec90d5976.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Vladimir Putin and George W. Bush shake hands in the White House. Both men still believed in a shared future for their countries in November 2001.",
+    "source": "Mark Wilson / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jk0n4ij70",
+   "content": {
+    "title": "Geopolitical classification at a glance"
+   },
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n4ij80",
+      "content": {
+       "text": "<strong>In short:</strong> After September 11, 2001, there was a brief glimmer of hope for a new order in which Russia and America would work together to combat international terrorism. This proved to be an illusion."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n52s40",
+      "content": {
+       "text": "<strong>Geopolitical assessment:</strong> Differences regarding political goals deepened the mistrust between Russia and the USA. These include NATO enlargement to the east and a fundamentally different understanding of terrorism."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n5ad50",
+      "content": {
+       "text": "<strong>Looking ahead:</strong> The failure of closer cooperation between the two states exacerbated political tensions. This mutual lack of understanding also laid the groundwork for later conflicts such as the annexation of Crimea and the war in Ukraine."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n6hbv0",
+   "content": {
+    "text": "The telegram from Moscow arrived at noon on September 11, 2001, US time, and seemed like a ray of light on that dark day. Russian President Vladimir Putin was the first foreign head of state to attempt to reach then-US President George W. Bush by telephone. When he finally got through the following day, he expressed his solidarity with Bush in the fight against international terrorism."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6h2na0",
+   "content": {
+    "text": "The world was surprised. Would the largest attack on the U.S. since Pearl Harbor achieve what had not been possible since 1989, namely, bringing Russia and America together? Was this to be the beginning of a new world order, focused on a common goal: combating international terrorism?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6h2nd0",
+   "content": {
+    "text": "The main actors themselves recalled the joint Soviet-American fight against Hitler in World War II. This time, al-Qaeda, the Taliban, and the scattered Islamist offshoots were the common enemy. Putin already saw himself fighting this enemy in the North Caucasus. The second Chechen War, starting in 1999, drew much criticism in the West. Now, the then-young Kremlin leader hoped for more understanding."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0v6h2nd1",
+   "content": {
+    "title": "Unexpected move by Putin"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6h2nf0",
+   "content": {
+    "text": "That Europeans and NATO initially and unequivocally sided with America was only natural. Putin's move, however, came unexpectedly."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6h2ng0",
+   "content": {
+    "text": "Hopes in Russia and the West for a completely new relationship after the fall of the Iron Curtain had not been fulfilled. Much of what some on both sides had dreamed of remained illusory. The West saw itself as the victor in the Cold War. The Central and Eastern European states freed from Soviet embrace and the former Soviet republics that had gained independence wanted to go their own way and looked westward, not eastward."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n6kk50",
+   "content": {
+    "text": "Russia wanted to remain a great power and be able to exert influence on the reordered continent. The clearer it became that this would not succeed, the more Russia's politicians and society mourned their past greatness."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hbjn0",
+   "content": {
+    "text": "At the same time, the U.S., under its newly empowered neoconservative leadership, tried to challenge established norms. Among other things, they questioned the 1972 Anti-Ballistic Missile (ABM) Treaty, thereby unsettling the Kremlin."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0v6hbjo0",
+   "content": {
+    "title": "Russian approval for U.S. presence in Central Asia"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hbjp0",
+   "content": {
+    "text": "The first meeting between Bush and Putin in the summer of 2001 in Slovenia had been positive. But it had not looked like an embrace between the two powers. After the September 11 attacks, Putin suddenly made the unthinkable possible: among other things, he offered overflight rights for military supply flights and the exchange of intelligence, and gave his consent for the U.S. to use military bases in Central Asia for the fight against the Taliban in Afghanistan."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hbjp1",
+   "content": {
+    "text": "This was a geopolitically remarkable concession: Central Asia, described by the British geographer Halford Mackinder at the beginning of the 20th century as the «heartland» and «pivot point» for the control of Eurasia, is claimed by Russia as part of its sphere of influence."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hbjq0",
+   "content": {
+    "text": "Putin had good reasons for his apparent change of heart. He seized the opportunity and likely had two main hopes in mind: He saw it as a chance to portray the Chechen war as part of the fight against international terrorism, thereby seeking recognition and acceptance of his actions in the West. At the same time, he speculated that this joint struggle would finally put him on equal footing with the US and allow him to be treated accordingly – from one great power to another."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hbjq1",
+   "content": {
+    "text": "His generous offer, however, met with resistance in the Russian general staff, in politics, and in society. The September 11 attacks had also shocked Russians. But there could still be no talk of sympathy for the Americans. Mistrust remained high. In the eyes of many, Putin had made concessions without firm quid pro quos. Their suspicions were reportedly confirmed."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k0v6hg8g0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/26/f9a49dee-7d33-4e2c-b445-3a614ae24a27.jpg",
+     "mediaId": "brQmWuI-jMNG",
+     "key": "2026/08/26/f9a49dee-7d33-4e2c-b445-3a614ae24a27.jpg",
+     "width": 2400,
+     "height": 1698,
+     "mimeType": "image/jpeg",
+     "altText": "President George W. Bush (L) and Russian President Vladimir Putin (R) sharing a toast at the conclusion of dinner at the Bush Ranch. (Photo by Eric Draper/Greg Mathieson/Mai/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180226924"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/f9a49dee-7d33-4e2c-b445-3a614ae24a27.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Bush also invited Putin to his ranch.",
+    "source": "Greg Mathieson / The Chronicle Collection / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jk0n6j330",
+   "content": {
+    "title": "Divergent ideas, common ground eroded"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa20",
+   "content": {
+    "text": "Essentially, Putin's hopes and the brief euphoria of world political observers were based on a mutual misunderstanding. America readily accepted any support, but also considered it a given in light of the gigantic scale of the catastrophe. Assessing Russian sensitivities and expectations seemed inappropriate. The US viewed it as equally beneficial for Russia and itself to eliminate the terrorist strongholds in Afghanistan and thus rid Russia's neighborhood of the Islamist threat."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa30",
+   "content": {
+    "text": "At the same time, Bush and Putin did not understand the same thing by terrorism and the fight against it. Both perceived al-Qaeda and the Taliban as their adversaries. But the Palestinian Hamas, the Lebanese Hezbollah, and the Middle Eastern rivals Iraq and Iran were not terrorists or troublemakers for Russia. By broadly classifying Chechen resistance as international terrorism, Putin also diverted attention from his own failures in the North Caucasus."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa31",
+   "content": {
+    "text": "Under these circumstances, expectations were not met. Russia felt a lack of appreciation for what it considered to be extensive concessions. America's view of the successor state to the Soviet Union did not change significantly. The following months and years demonstrated this, and it confirmed the suspicions of Russian skeptics. As early as December 2001, Washington withdrew from the ABM Treaty. NATO's eastward expansion continued as planned. As America steered toward the Iraq War, the lines of division seemed to be drawn as firmly as they had been before September 11, 2001."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa40",
+   "content": {
+    "text": "The fact that the West and Russia pursued different interests became increasingly clear. Russia accused America in particular of wanting to overthrow leaders it favored – in Serbia, Georgia, and Ukraine. Conversely, it was an illusion to expect Putin to place greater emphasis on the rule of law, as well as freedom and human rights in Russia. In retrospect, the disappointment over these unfulfilled expectations even seems to have acted as a catalyst for deepening the divide."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa41",
+   "content": {
+    "text": "Vladimir Putin's infamous speech at the Munich Security Conference in February 2007 referred, not least, to developments that had triggered the misunderstandings and fallacies of 2001. 9/11 had repercussions even further into the future: the 2014 rift over the Maidan in Kyiv, the annexation of Crimea, the incitement in the Donbas, and the 2022 break with Putin's major offensive against Ukraine were all already foreshadowed in 2001. Putin envisioned European security differently than the US, and the US's unwavering commitment to NATO expansion and the development of missile defense reinforced his rearmament projects."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0v6hpa50",
+   "content": {
+    "title": "Not merely a reaction to the West"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa51",
+   "content": {
+    "text": "Putin's alliance with Bush in September 2001 was a spark that quickly fizzled out. The mutual dreams of shared goals and overcoming differences soon proved to be an illusion. The perspectives and interests in the West and the East were simply too divergent. Western reflections on the relationship between America, Russia, and Europe tend to view Russia's policies since then as a reaction to Western decisions: as if Presidents Yeltsin and Putin had merely responded to the West and never pursued their own political course. This is an oversimplification."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa60",
+   "content": {
+    "text": "Mistakes were made on both sides. A confrontation always requires at least two parties. But the belief that their dreams were aligned masked the more complex reality. After everything that has happened since, this is all the more true for the new attempts, this time initiated by US President Donald Trump, to find common ground and cooperate with Russia."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6hpa61",
+   "content": {
+    "text": "The path to the Ukraine war and the Ukraine war itself highlight the very different ideas of European security. For Europe, peaceful coexistence with Russia must be the goal. However, there will be no common Russian-European security policy with a Russia that is prepared to assert its great power claims, if necessary, by force. As 25 years ago, Trump and Putin threaten to fail because they cannot meet each other's expectations."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-articlelist"
+  },
+  {
+   "identifier": "newsletter_baukasten-articlelist",
+   "id": "doc-1jk0n7v1u0",
+   "content": {
+    "title": "More articles – exclusively for subscribers of «NZZ Pro»"
+   },
+   "containers": {
+    "articlelist-area": [
+     {
+      "identifier": "newsletter_baukasten-article-embed",
+      "id": "doc-1jk0n7v1v0",
+      "content": {
+       "newsletter-article-embed": {
+        "service": "newsletter-article-embed",
+        "params": {
+         "article": {
+          "$ref": "document",
+          "reference": {
+           "id": "10020558"
+          }
+         },
+         "layout": [
+          "article",
+          "fullwidth",
+          "gallery",
+          "alias-teaser"
+         ]
+        },
+        "resolvedValue": {
+         "document": {
+          "metadata": {
+           "germanyRelevant": true,
+           "title": "The war in Ukraine spills over – and the risk of military escalation between Russia and NATO grows",
+           "showHeader": true,
+           "owner": "NZZ",
+           "teaserCarouselStyle": "",
+           "language": {
+            "locale": "de",
+            "groupId": "BA4mWCvmcYOb9GJD-aIRq"
+           },
+           "dependencies": {},
+           "editor": "1750700",
+           "seoTitle": "Ukraine: Growing risk of escalation between Russia and NATO",
+           "seoSocialMediaTitle": "Dangerous border region: The war in Ukraine is encroaching on NATO territory",
+           "teaserImage": {
+            "mediaId": "vBUBV-8dXzZO",
+            "key": "2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg",
+            "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?width=1024&quality=75&auto=webp",
+            "width": 7000,
+            "height": 4667,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 730,
+              "width": 7000,
+              "height": 3937,
+              "name": "16:9",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,3937,x0,y730&width=1024&quality=75&auto=webp",
+              "ratio": 1.77778,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,3937,x0,y730&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,3937,x0,y730&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,3937,x0,y730&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,3937,x0,y730&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 655,
+              "y": 0,
+              "width": 6223,
+              "height": 4667,
+              "name": "4:3",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=6223,4667,x655,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.33333,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=6223,4667,x655,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=6223,4667,x655,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=6223,4667,x655,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=6223,4667,x655,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 2195,
+              "y": 410,
+              "width": 3857,
+              "height": 3857,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3857,3857,x2195,y410&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3857,3857,x2195,y410&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3857,3857,x2195,y410&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3857,3857,x2195,y410&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3857,3857,x2195,y410&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 2579,
+              "y": 0,
+              "width": 3500,
+              "height": 4667,
+              "name": "3:4",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3500,4667,x2579,y0&width=1024&quality=75&auto=webp",
+              "ratio": 0.75,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3500,4667,x2579,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3500,4667,x2579,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3500,4667,x2579,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=3500,4667,x2579,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": true,
+              "x": 0,
+              "y": 0,
+              "width": 7000,
+              "height": 4667,
+              "name": "3:2",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,4667,x0,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.5,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,4667,x0,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,4667,x0,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,4667,x0,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,4667,x0,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly",
+            "teaserCaption": "Russian drones and cruise missiles are increasingly entering NATO territory. Moscow can learn a lot from the alliance's reaction.",
+            "teaserAuthor": "Vadim Ghirda / AP"
+           },
+           "teaserAuthor": "Vadim Ghirda / AP",
+           "showComments": true,
+           "nzzId": "ld.10020558",
+           "readingTime": 420,
+           "slug": "ukraine-wachsende-eskalationsgefahr-zwischen-russland-und-nato",
+           "embeds": {
+            "images": [
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3993a5c-ab57-4db5-888a-9f9cddce786f.jpg?crop=7000,4667,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "A Romanian F-16 fighter jet before a mission at Borcea Air Base.",
+              "author": "Vadim Ghirda / AP"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/f3b9725e-624a-4c16-9d26-7ac580e2a3bb.jpg?crop=890,581,x353,y0&width=1024&quality=75&auto=webp",
+              "caption": "According to the Romanian Ministry of Defense, a sea drone like this was destroyed by an F-16 jet recently while carrying explosives and heading towards the Neptun Deep gas production platform in the Black Sea.",
+              "author": "Radu Miruta via Facebook / Handout"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/0422e0c0-ceec-440c-a9de-baa50795c0b9.jpg?crop=4781,2894,x58,y482&width=1024&quality=75&auto=webp",
+              "caption": "A NATO AWACS reconnaissance aircraft over Lielvarde Air Base in Latvia at the end of July.",
+              "author": "Valda Kalnina / EPA"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/25/39d5971d-ef8e-47bc-b1ab-c4b5a4fb930b.jpg?crop=3167,2006,x207,y0&width=1024&quality=75&auto=webp",
+              "caption": "The Romanian Ministry of Defense published this image. It reportedly shows how the remains of a Russian drone that crashed on NATO territory were destroyed at the end of June.",
+              "author": "Romanian Defense Ministry / Handout"
+             }
+            ],
+            "videos": [],
+            "qEmbeds": [
+             {
+              "id": "7b73f2997dddf65018467c6221caf864"
+             }
+            ]
+           },
+           "paywallQuestionOne": "How do Russian drones affect the security of NATO's eastern flank?",
+           "paywallQuestionTwo": "What risks does the increasing proximity between NATO and Russia entail?",
+           "paywallQuestionThree": "How does Russia use NATO responses for its own reconnaissance?",
+           "componentStats": [
+            {
+             "identifier": "article-container",
+             "count": 1
+            },
+            {
+             "identifier": "head",
+             "count": 1
+            },
+            {
+             "identifier": "author-teaser",
+             "count": 1
+            },
+            {
+             "identifier": "image",
+             "count": 4
+            },
+            {
+             "identifier": "paragraph",
+             "count": 26
+            },
+            {
+             "identifier": "subtitle",
+             "count": 4
+            },
+            {
+             "identifier": "q-embed",
+             "count": 1
+            },
+            {
+             "identifier": "sharebox",
+             "count": 1
+            },
+            {
+             "identifier": "related-articles-container",
+             "count": 1
+            },
+            {
+             "identifier": "teaser",
+             "count": 2
+            }
+           ],
+           "characterCount": 8352,
+           "breadcrumbs": [
+            {
+             "name": "Pro",
+             "path": "/pro"
+            }
+           ],
+           "product": "NZZ.ch",
+           "documentId": 10020558,
+           "contentTypeGroup": "web",
+           "layout": "longformstandard",
+           "designName": "p:1:1",
+           "firstPublicationDate": "2026-08-26T08:46:59.992Z",
+           "publicationDate": "2026-08-26T08:46:59.992Z",
+           "publicationLastUpdated": "2026-08-26T09:53:41.564Z",
+           "significantUpdate": false,
+           "significantUpdateTill": "2026-08-26T20:46:59.992Z",
+           "nzzArticleSnippet": "Russische Drohnen und Marschflugkörper gelangen immer häufiger in Nato-Gebiet. Aus der Reaktion der Allianz kann Moskau viel lernen.",
+           "teaserCaption": "Russian drones and cruise missiles are increasingly entering NATO territory. Moscow can learn a lot from the alliance's reaction.",
+           "nzzAuthors": [
+            {
+             "id": 1720515,
+             "name": "Marco Seliger",
+             "shortName": "mse",
+             "pianoId": "7df8a3bd-b304-4a24-9f11-a808a207a32c",
+             "external": false
+            }
+           ],
+           "authorLine": "Marco Seliger",
+           "authorImage": {
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg",
+            "url": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp",
+            "mediaId": "LJbQ9VbOSTWU",
+            "width": 800,
+            "height": 800,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": true,
+              "x": 0,
+              "y": 0,
+              "width": 800,
+              "height": 800,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1
+             }
+            ],
+            "imageService": "fastly",
+            "key": "2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg"
+           },
+           "nzzAuthorProfileDataCollection": [
+            {
+             "documentId": 1746755,
+             "name": "Marco Seliger (mse.) Editor for Security and Defense Policy",
+             "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp"
+            }
+           ],
+           "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/11/655ec6f0-bdde-427b-b1d1-ef0074b1ee76.jpeg?width=1024&quality=75&auto=webp",
+           "urlPath": "/pro/ukraine-wachsende-eskalationsgefahr-zwischen-russland-und-nato-ld.10020558",
+           "url": "/pro/ukraine-wachsende-eskalationsgefahr-zwischen-russland-und-nato-ld.10020558",
+           "department": {
+            "name": "Pro",
+            "path": "/pro",
+            "level": 1
+           },
+           "estimationWordCount": 1303,
+           "premium": true,
+           "leadText": "Russian drones and cruise missiles are increasingly entering NATO territory. Moscow can learn a lot from the alliance's reaction.",
+           "nzzSummaryEN": "- Russian drones and missiles increasingly penetrate NATO territories, prompting military responses from the alliance. Romania and other eastern flank states are particularly affected.\n- Russia tests NATO's response capabilities through deliberate provocations like border violations to gather valuable military intelligence.\n- Growing military encounters heighten the risk of misinterpretations and escalation, especially due to autonomous weapon systems.",
+           "nzzSummaryDE": "Russian drones and missiles are increasingly penetrating NATO territory, prompting military responses from the alliance. Romania and other eastern flanking states are particularly affected.\n - Russia is testing NATO's responsiveness through targeted provocations such as border violations in order to gather valuable military information.\n - The increasing number of military encounters increases the risk of misinterpretations and escalations, especially through autonomous weapon systems.",
+           "nzzSummaryIsAuto": true,
+           "nzzSummaryModel": "gpt-4o-2024-11-20",
+           "nzzPrintTitle": "Dangerous proximity: The war spills over into NATO territory",
+           "nzzPrintSubtitle": "The war in Ukraine is transcending geographical boundaries: NATO and Russia are increasingly encountering each other at critical thresholds"
+          },
+          "systemdata": {
+           "version": 341,
+           "projectId": 1,
+           "channelId": 1,
+           "documentId": 10020558,
+           "contentType": "article",
+           "documentType": "article",
+           "title": "The war in Ukraine spills over – and the risk of military escalation between Russia and NATO grows",
+           "publicationId": 2483896,
+           "firstPublicationDate": "2026-08-26T08:46:59.992Z",
+           "lastPublicationDate": "2026-08-26T09:53:41.564Z",
+           "updatedAt": "2026-08-26T09:53:41.564Z",
+           "significantPublicationDate": "2026-08-26T08:46:59.992Z",
+           "visiblePublicationDate": "2026-08-26T08:46:59.992Z",
+           "design": {
+            "name": "p:1:1",
+            "version": "423.0.0"
+           }
+          }
+         },
+         "documentIds": [
+          10020558
+         ]
+        }
+       }
+      }
+     },
+     {
+      "identifier": "newsletter_baukasten-article-embed",
+      "id": "doc-1jk0n7v1v1",
+      "content": {
+       "newsletter-article-embed": {
+        "service": "newsletter-article-embed",
+        "params": {
+         "article": {
+          "$ref": "document",
+          "reference": {
+           "id": "10016250"
+          }
+         },
+         "layout": [
+          "article",
+          "fullwidth",
+          "gallery",
+          "alias-teaser"
+         ]
+        },
+        "resolvedValue": {
+         "document": {
+          "metadata": {
+           "germanyRelevant": true,
+           "title": "«China is expected to overtake the US in certain areas of science,» says Swiss Nobel laureate Kurt Wüthrich",
+           "showHeader": true,
+           "owner": "NZZaS",
+           "teaserCarouselStyle": "",
+           "language": {
+            "locale": "de",
+            "groupId": "tph1Ue2abC6larbRPnv3j"
+           },
+           "dependencies": {},
+           "flag": "interview",
+           "teaserImage": {
+            "mediaId": "l74Scsft70xx",
+            "key": "2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg",
+            "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?width=1024&quality=75&auto=webp",
+            "width": 8660,
+            "height": 5773,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 162,
+              "width": 8660,
+              "height": 4871,
+              "name": "16:9",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,4871,x0,y162&width=1024&quality=75&auto=webp",
+              "ratio": 1.77778,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,4871,x0,y162&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,4871,x0,y162&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,4871,x0,y162&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,4871,x0,y162&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 531,
+              "y": 1,
+              "width": 7697,
+              "height": 5772,
+              "name": "4:3",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=7697,5772,x531,y1&width=1024&quality=75&auto=webp",
+              "ratio": 1.33333,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=7697,5772,x531,y1&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=7697,5772,x531,y1&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=7697,5772,x531,y1&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=7697,5772,x531,y1&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 2749,
+              "y": 475,
+              "width": 3585,
+              "height": 3585,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=3585,3585,x2749,y475&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=3585,3585,x2749,y475&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=3585,3585,x2749,y475&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=3585,3585,x2749,y475&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=3585,3585,x2749,y475&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 2294,
+              "y": 1,
+              "width": 4330,
+              "height": 5772,
+              "name": "3:4",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=4330,5772,x2294,y1&width=1024&quality=75&auto=webp",
+              "ratio": 0.75,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=4330,5772,x2294,y1&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=4330,5772,x2294,y1&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=4330,5772,x2294,y1&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=4330,5772,x2294,y1&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 1,
+              "width": 8660,
+              "height": 5772,
+              "name": "3:2",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,5772,x0,y1&width=1024&quality=75&auto=webp",
+              "ratio": 1.5,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,5772,x0,y1&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,5772,x0,y1&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,5772,x0,y1&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8660,5772,x0,y1&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly",
+            "teaserCaption": "The 87-year-old chemist has been conducting research in China since 2013. He says that while biomedical research is booming there, China still struggles to develop innovative industrial applications from it.",
+            "teaserAuthor": "Asia-Pacific Images / E+ / Getty"
+           },
+           "teaserAuthor": "Asia-Pacific Images / E+ / Getty",
+           "tags": [
+            "Wissenschaft aktuell",
+            "Wissenschaft Empfehlungen"
+           ],
+           "seoTitle": "Nobel laureate Wüthrich on the rise of China in science",
+           "seoSocialMediaTitle": "Nobel laureate Wüthrich in an interview about China's rise in science ",
+           "nzzasFootnote": true,
+           "nzzId": "ld.10016250",
+           "readingTime": 420,
+           "slug": "es-ist-damit-zu-rechnen-dass-china-die-usa-in-gewissen-wissenschaftsbereichen-ueberholen-wird-sagt-der-schweizer-nobelpreistraeger-kurt-wuethrich",
+           "embeds": {
+            "images": [
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/18945b87-44af-452d-96e2-fa2d98927da9.jpg?crop=8658,5772,x1,y1&width=1024&quality=75&auto=webp",
+              "caption": "China invests large sums in biomedical research with the goal of developing drugs independently.",
+              "author": "Asia-Pacific Images / E+ / Getty"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/3b065351-c2ea-4ca6-86e0-fb4e2b543395.jpg?crop=1125,1500,x139,y0&width=1024&quality=75&auto=webp",
+              "caption": "Kurt Wüthrich.",
+              "author": "PD"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/18/06554968-5649-41b3-ba8d-52455f322177.jpg?crop=3991,2661,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "The Chinese government funds large-scale research projects with billions. Pictured is a facility for simulating gravity through strong centrifugal forces at Zhejiang University in Hangzhou.",
+              "author": "Photo / Imago"
+             }
+            ],
+            "videos": [],
+            "qEmbeds": []
+           },
+           "paywallQuestionOne": "How does China's focus on biomedical research influence its innovative capacity?",
+           "paywallQuestionTwo": "Can China overtake the US in science and technology in the long term?",
+           "paywallQuestionThree": "Why is China finding it difficult to transition from basic research to industrial applications?",
+           "componentStats": [
+            {
+             "identifier": "article-container",
+             "count": 1
+            },
+            {
+             "identifier": "head",
+             "count": 1
+            },
+            {
+             "identifier": "author-teaser",
+             "count": 1
+            },
+            {
+             "identifier": "image",
+             "count": 3
+            },
+            {
+             "identifier": "paragraph",
+             "count": 1
+            },
+            {
+             "identifier": "question",
+             "count": 16
+            },
+            {
+             "identifier": "answer",
+             "count": 16
+            },
+            {
+             "identifier": "sharebox",
+             "count": 1
+            },
+            {
+             "identifier": "related-articles-container",
+             "count": 1
+            },
+            {
+             "identifier": "teaser",
+             "count": 3
+            }
+           ],
+           "characterCount": 8420,
+           "showComments": true,
+           "breadcrumbs": [
+            {
+             "name": "Science",
+             "path": "/wissenschaft"
+            }
+           ],
+           "product": "NZZ.ch",
+           "documentId": 10016250,
+           "contentTypeGroup": "web",
+           "layout": "longformstandard",
+           "designName": "p:1:1",
+           "firstPublicationDate": "2026-08-23T03:30:00.000Z",
+           "publicationDate": "2026-08-23T03:30:00.000Z",
+           "publicationLastUpdated": "2026-08-23T03:30:00.000Z",
+           "significantUpdate": false,
+           "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+           "nzzArticleSnippet": "Seit 2013 forscht der 87-jährige Chemiker in China. Er sagt, dort boome die biomedizinische Forschung – doch innovative Industrieanwendungen daraus zu entwickeln, falle den Chinesen noch schwer.",
+           "teaserCaption": "The 87-year-old chemist has been conducting research in China since 2013. He says that while biomedical research is booming there, China still struggles to develop innovative industrial applications from it.",
+           "nzzAuthors": [
+            {
+             "id": 1373019,
+             "name": "Leonid Leiva Ariosa",
+             "shortName": "lel",
+             "external": false
+            }
+           ],
+           "authorLine": "Leonid Leiva Ariosa",
+           "authorImage": {
+            "mediaId": "ZPcLLCOPlkyJ",
+            "key": "2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg",
+            "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024&quality=75&auto=webp",
+            "width": 6001,
+            "height": 4000,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": false,
+              "x": 1675,
+              "y": 518,
+              "width": 2809,
+              "height": 2809,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?crop=2809,2809,x1675,y518&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?crop=2809,2809,x1675,y518&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?crop=2809,2809,x1675,y518&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?crop=2809,2809,x1675,y518&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?crop=2809,2809,x1675,y518&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly"
+           },
+           "nzzAuthorProfileDataCollection": [
+            {
+             "documentId": 1876564,
+             "name": "Leonid Leiva Ariosa | NZZ",
+             "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024&quality=75&auto=webp"
+            }
+           ],
+           "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/bd2998c4-14cf-4b24-863a-0566e5285f93.jpeg?width=1024&quality=75&auto=webp",
+           "urlPath": "/wissenschaft/es-ist-damit-zu-rechnen-dass-china-die-usa-in-gewissen-wissenschaftsbereichen-ueberholen-wird-sagt-der-schweizer-nobelpreistraeger-kurt-wuethrich-ld.10016250",
+           "url": "/wissenschaft/es-ist-damit-zu-rechnen-dass-china-die-usa-in-gewissen-wissenschaftsbereichen-ueberholen-wird-sagt-der-schweizer-nobelpreistraeger-kurt-wuethrich-ld.10016250",
+           "department": {
+            "name": "Science",
+            "path": "/wissenschaft",
+            "level": 1
+           },
+           "estimationWordCount": 1334,
+           "premium": true,
+           "leadText": "The 87-year-old chemist has been conducting research in China since 2013. He says that while biomedical research is booming there, China still struggles to develop innovative industrial applications from it.",
+           "nzzSummaryEN": "- Kurt Wüthrich, a Swiss Nobel laureate, notes significant progress in China's basic and biomedical research but highlights weaknesses in translating this into innovative industrial applications.\n- China is heavily investing in research and development (including billions for large-scale projects) and has surpassed the US in fields like material sciences and chemistry.\n- Wüthrich observes that China continues to aim for independence in research, viewing foreign experts like him as temporary support.",
+           "nzzSummaryDE": "Kurt Wüthrich, a Swiss Nobel laureate, observes significant progress in China's basic and biomedical research, but points to weaknesses in its translation into innovative industrial applications. China invests heavily in research and development (including billions for large-scale projects) and has partially overtaken the US in fields such as materials science and chemistry. Wüthrich notes that China continues to strive for research independence and views foreign experts like himself only as temporary support.",
+           "nzzSummaryIsAuto": true,
+           "nzzSummaryModel": "gpt-4o-2024-11-20",
+           "nzzPrintTitle": "«China still struggles to develop innovative applications from basic research,» says Swiss Nobel laureate Kurt Wüthrich",
+           "nzzPrintSubtitle": "The 87-year-old chemist has been conducting research in Shanghai since 2013. He is convinced that China will overtake the USA in certain research areas"
+          },
+          "systemdata": {
+           "version": 1370,
+           "projectId": 1,
+           "channelId": 1,
+           "documentId": 10016250,
+           "contentType": "article",
+           "documentType": "article",
+           "title": "«China is expected to overtake the US in certain areas of science,» says Swiss Nobel laureate Kurt Wüthrich",
+           "publicationId": 2481852,
+           "firstPublicationDate": "2026-08-23T03:30:00.000Z",
+           "lastPublicationDate": "2026-08-23T03:30:00.000Z",
+           "updatedAt": "2026-08-23T03:30:00.000Z",
+           "significantPublicationDate": "2026-08-23T03:30:00.000Z",
+           "visiblePublicationDate": "2026-08-23T03:30:00.000Z",
+           "design": {
+            "name": "p:1:1",
+            "version": "423.0.0"
+           }
+          }
+         },
+         "documentIds": [
+          10016250
+         ]
+        }
+       }
+      },
+      "styles": {
+       "teaser-type": "teaser--small"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n9sd40",
+   "content": {
+    "text": "All articles from «NZZ Pro» can be read at <a href=\"https://www.nzz.ch/pro\">www.nzz.ch/pro</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-articlelist",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0na1ef0",
+   "content": {
+    "text": "Do you have feedback on «NZZ Pro»? Write to us at <a href=\"mailto:proglobal@nzz.ch\">pro@nzz.ch.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654594"
+   }
+  },
+  "issueDate": "2026-08-27T00:00:00.000Z",
+  "title": "9/11 deepened the divide between Russia and the USA",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10021183",
+  "product": "NZZ.ch",
+  "documentId": 10021183,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-27T08:34:44.726Z",
+  "publicationDate": "2026-08-27T08:34:44.726Z",
+  "publicationLastUpdated": "2026-08-27T08:34:44.726Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T20:34:44.726Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021183",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021183",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2484441,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021183",
+    "name": "9/11 deepened the divide between Russia and the USA",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "9/11 deepened the divide between Russia and the USA",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T08:34:44.726Z",
+     "updateTimestamp": "2026-08-27T08:34:44.726Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021183",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "9/11 deepened the divide between Russia and the USA | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "9/11 deepened the divide between Russia and the USA, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T12:34:44+02:00",
+  "date": "2026-08-27T12:34:44+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021183",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "9/11 deepened the divide between Russia and the USA",
+  "ogTitle": "9/11 deepened the divide between Russia and the USA | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021183",
+  "mrf:cms_id": "nzz:ld.10021183",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021183",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021183"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:34 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "9/11 deepened the divide between Russia and the USA"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021183"
+   },
+   "headline": "9/11 deepened the divide between Russia and the USA | NZZ",
+   "datePublished": "2026-08-27T12:34:44+02:00",
+   "dateModified": "2026-08-27T12:34:44+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021183",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021183"
+   ],
+   "ContentCreated": "2026-08-27T08:34:44.726Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021183",
+   "heading": "9/11 hat die Kluft zwischen Russland und den USA vertieft",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

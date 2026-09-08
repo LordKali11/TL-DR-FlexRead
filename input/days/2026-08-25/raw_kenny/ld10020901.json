@@ -1,0 +1,1235 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0rudaiv0",
+   "content": {
+    "title": "Joyriding: When risky driving becomes a deadly social media trend",
+    "lead": "In recent weeks, twelve people have died in traffic accidents in Great Britain and Ireland, several of them involving young wrong-way drivers who film dangerous joyrides for social media.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0rudaiv1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Kevin Weber",
+       "url": "/impressum/kevin-weber-ld.1748991",
+       "teaserImage": {
+        "originalUrl": "/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0rudaiv2",
+   "content": {
+    "image": {
+     "author": "Owen Humphreys / AP",
+     "caption": "Seven people died in a head-on collision in Middlesbrough last weekend. The accident was reportedly preceded by a police chase.",
+     "originalUrl": "/2026/08/25/a3be3499-67c7-424f-a1d4-f397589e0ddd.jpg?crop=6000,4000,x0,y0",
+     "width": 6000,
+     "height": 4000,
+     "altText": "Police officers at the scene of a fatal crash involving a police car and a Volkswagen Passat on the A66 in South Bank, near Middlesbrough, England, Saturday Aug. 22, 2026. (Owen Humphreys/PA via AP) Britain-Car Crash",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180162662"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 4000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 4000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Seven people died in a head-on collision in Middlesbrough last weekend. The accident was reportedly preceded by a police chase.",
+    "author": "Owen Humphreys / AP"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rudaiv3",
+   "content": {
+    "text": "They drive in the oncoming lane, accelerate, and film themselves doing it. In the worst-case scenario, they collide head-on with an approaching vehicle. In Great Britain and Ireland, concern is growing about a dangerous social media trend that reportedly claimed twelve lives in recent weeks."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-bf87e5e0",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0mj0o0",
+   "content": {
+    "text": "In Middlesbrough, England, two police officers and five teenagers died last weekend in a head-on collision between two vehicles. The teenagers were driving against the flow of traffic on a two-lane expressway. The accident was apparently preceded by a nighttime police chase. The officers killed were in a different patrol car that was not involved in the pursuit, as British media reported."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0mj0s0",
+   "content": {
+    "text": "A week earlier, a similar fatal accident had occurred in Ireland. Five teenagers sped at night in a stolen BMW on the M9 motorway in County Kildare, driving on the wrong side of the road. The car crashed into a vehicle carrying a family on their way to Dublin Airport. The four family members sustained serious injuries. The five teenagers, aged between 15 and 18, did not survive."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0nhd30",
+   "content": {
+    "text": "According to the police, this accident was also preceded by a chase. However, the officers had already called off the pursuit due to the dangerous driving of the teenagers when the collision with the family's car occurred. In another similar accident recently, nine people were injured in Dublin."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0s0oej20",
+   "content": {
+    "title": "«They are playing Russian roulette»",
+    "id": "subtitle-sie-spielen-russisches-roulette"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0nhd41",
+   "content": {
+    "text": "British and Irish media link the cases to joyriding. The term refers to risky car journeys in which young people steal or use cars without authorization. They speed down streets, film themselves, and deliberately provoke police chases. They often intentionally drive in the oncoming lane. But what drives these young people to such dangerous driving?"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0o6mo0",
+   "content": {
+    "text": "The thrill plays a role. Apparently, the prospect of likes on social networks also counts. The riskier the footage, the greater the attention seems to be. According to media reports, videos of illegal and dangerous car journeys were found on the accounts of some of the deceased. These included footage of police chases."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0o6mp0",
+   "content": {
+    "text": "Ireland's Police Chief Justin Kelly called the accident in Kildare an «appalling incident.» He said it showed «how irresponsible and dangerous driving on the wrong side of the motorway is.» Kelly found it particularly outrageous that «in some cases, it's all about likes on social media.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0osv90",
+   "content": {
+    "text": "James Morrisroe, the Deputy General Secretary of the Irish police union GRA, expressed his disbelief. He said he did not know what was going through the minds of teenagers who would drive in the wrong direction on a motorway. «They are playing Russian roulette with their own lives and Russian roulette with the lives of other people,» he added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0osvb0",
+   "content": {
+    "text": "At the same time, the Irish police are registering significantly more wrong-way driving incidents. So far in 2026, they counted 62 cases. In the same period last year, there were 47. This corresponds to an increase of around 32%. «These figures show that these perpetrators are out of control,» Morrisroe said. «This is no longer a trend, but a clear and present danger to every road user in the country,» he added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0s0s04r0",
+   "content": {
+    "title": "Teenagers previously investigated by police",
+    "id": "subtitle-polizei-ermittelte-bereits-gegen-die-jugendlichen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0osvc0",
+   "content": {
+    "text": "In Ireland, investigators are now examining whether the joyriding trend is truly the reason for the fatal drive. According to Irish media, at least three of the deceased were among the country's most active and problematic joyriders. The police had already investigated all of them for serious traffic offenses and multiple car thefts before the fatal accident."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0pfmj0",
+   "content": {
+    "text": "Investigators had already obtained a court order against one of the teenagers. This allowed them to secure data from his numerous TikTok accounts. There, he published videos of his risky car journeys. According to the investigators, he filmed himself during dangerous driving maneuvers. These also included wrong-way driving on motorways. On several occasions, other road users narrowly avoided a head-on collision."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0pfmk0",
+   "content": {
+    "text": "In the case of Middlesbrough, the police paint a different picture. The Cleveland Police found no evidence that those involved had recorded videos for TikTok. According to the police, the accident vehicle was linked to a second car that had attracted attention for dangerous driving. Both vehicles bore fake license plates. Investigators arrested nine men and three women aged between 19 and 61."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0s0svgb0",
+   "content": {
+    "title": "Political calls for TikTok accountability",
+    "id": "subtitle-politik-nimmt-tiktok-in-die-pflicht"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0pfml0",
+   "content": {
+    "text": "The debate has nevertheless reached the British government. «Anyone glorifying dangerous driving is doing something truly reprehensible,» Prime Minister Andy Burnham said on Monday during a visit to the Ukrainian capital, Kyiv. Luke Pollard, the Minister of State for the Armed Forces, announced that the government had urged social media companies to delete such videos from platforms like TikTok."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0q4vs0",
+   "content": {
+    "text": "In Ireland, political pressure is also growing. The relevant media committee summoned TikTok representatives. The committee said the company was supposed to explain why such videos sometimes remained online for a long time. However, TikTok declined the invitation. The company stated that the platform prohibits content that could cause physical harm, including dangerous driving. According to its own statements, TikTok removes 99% of such videos before users report them."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s0q4vt0",
+   "content": {
+    "text": "The Irish government is now planning tougher penalties for wrong-way drivers. In addition, it intends to draft legislation to protect police officers «who conduct vehicle pursuits.» Justice Minister Jim O’Callaghan urgently warned wrong-way drivers of the consequences: «They end up in prison. Or in the grave.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k0sf06fk0",
+   "content": {
+    "text": "<strong>NZZ Live Event: Perfectly cared for, endlessly informed – our social networks</strong><br>Smartphones and social networks have completely changed our communication. While everything used to be formal and slow, today it's casual and fast. A utopia of liberation.<br><strong>September 3, 2026, 6:30 PM, NZZ Foyer, Zurich, and online</strong><br><a href=\"https://live.nzz.ch/de/events/nzz-podium-schweiz/social-media\">Tickets and further information can be found here</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0rudaiv4",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0rudaiv5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rudaiv7",
+      "content": {
+       "title": "When speed becomes a crime: why Switzerland cracks down harder on speeders than Germany",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2024/10/22/166f096f-2b23-4748-9490-33890f72b323.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/22/166f096f-2b23-4748-9490-33890f72b323.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4896,
+        "height": 3072,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4896,2754,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4096,3072,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3072,3072,x912,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2304,3072,x1296,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4608,3072,x144,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "It was not a speed camera that put a young woman behind bars, but cellphone videos she recorded herself. Four years in prison – the sentence is harsh, even by Swiss standards. Why?",
+        "teaserAuthor": "Lucerne Cantonal Police"
+       },
+       "teaserAuthor": "Lucerne Cantonal Police",
+       "editor": "1372351",
+       "nzzId": "ld.10007656",
+       "readingTime": 360,
+       "paywallQuestionOne": "Why was the penalty for the speeding woman in Switzerland so high?",
+       "paywallQuestionTwo": "How does Swiss legislation differ from German legislation regarding speeding offenses?",
+       "paywallQuestionThree": "What role do social media play in speeding and its documentation?",
+       "characterCount": 8020,
+       "product": "NZZ.ch",
+       "documentId": 10007656,
+       "layout": "regular",
+       "publicationDate": "2026-06-03T11:35:43.869Z",
+       "publicationLastUpdated": "2026-06-03T18:38:57.518Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-03T23:35:43.869Z",
+       "teaserCaption": "It was not a speed camera that put a young woman behind bars, but cellphone videos she recorded herself. Four years in prison – the sentence is harsh, even by Swiss standards. Why?",
+       "authorLine": "Elena Panagiotidis",
+       "authorImage": {
+        "originalUrl": "/2026/01/20/b264c7f4-02dd-4d65-9706-f7fdc96f2233.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/20/b264c7f4-02dd-4d65-9706-f7fdc96f2233.jpg?width=1024&quality=75&auto=webp",
+        "width": 2832,
+        "height": 4256,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2832,2832,x0,y712"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/20/b264c7f4-02dd-4d65-9706-f7fdc96f2233.jpg?width=1024&quality=75&auto=webp",
+       "url": "/panorama/wenn-tempo-zum-verbrechen-wird-warum-die-schweiz-raser-haerter-ausbremst-als-deutschland-ld.10007656",
+       "department": {
+        "name": "Panorama",
+        "path": "/panorama"
+       },
+       "estimationWordCount": 1174,
+       "leadText": "It was not a speed camera that put a young woman behind bars, but cellphone videos she recorded herself. Four years in prison – the sentence is harsh, even by Swiss standards. Why?",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Joyriding: When risky driving becomes a deadly social media trend",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/a3be3499-67c7-424f-a1d4-f397589e0ddd.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3be3499-67c7-424f-a1d4-f397589e0ddd.jpg?width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 4000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6000,3375,x0,y625"
+    },
+    {
+     "name": "4:3",
+     "crop": "5333,4000,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4000,4000,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3000,4000,x437,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6000,4000,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 1937,
+    "y": 3271
+   },
+   "imageService": "fastly",
+   "teaserCaption": "In recent weeks, twelve people have died in traffic accidents in Great Britain and Ireland, several of them involving young wrong-way drivers who film dangerous joyrides for social media.",
+   "teaserAuthor": "Owen Humphreys / AP"
+  },
+  "teaserAuthor": "Owen Humphreys / AP",
+  "nzzId": "ld.10020901",
+  "readingTime": 300,
+  "characterCount": 6404,
+  "breadcrumbs": [
+   {
+    "name": "Panorama",
+    "path": "/panorama"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020901,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T12:39:11.864Z",
+  "publicationDate": "2026-08-25T12:39:11.864Z",
+  "publicationLastUpdated": "2026-08-26T18:03:54.058Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T00:39:11.864Z",
+  "teaserCaption": "In recent weeks, twelve people have died in traffic accidents in Great Britain and Ireland, several of them involving young wrong-way drivers who film dangerous joyrides for social media.",
+  "nzzAuthors": [
+   {
+    "id": 1722619,
+    "name": "Kevin Weber",
+    "shortName": "wek",
+    "pianoId": "47f5550a-1095-4407-a673-85a4bc13efce",
+    "external": false
+   }
+  ],
+  "authorLine": "Kevin Weber",
+  "authorImage": {
+   "originalUrl": "/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1748991,
+    "name": "Kevin Weber (wek.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024&quality=75&auto=webp",
+  "url": "/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901",
+  "department": {
+   "name": "Panorama",
+   "path": "/panorama"
+  },
+  "estimationWordCount": 920,
+  "leadText": "In recent weeks, twelve people have died in traffic accidents in Great Britain and Ireland, several of them involving young wrong-way drivers who film dangerous joyrides for social media.",
+  "nzzSummaryEN": "- In the UK and Ireland, fatal accidents involving young wrong-way drivers filming risky rides for social media are a growing concern.\n- Police are investigating several deadly incidents where youths drove against traffic, often in stolen cars and following car chases.\n- Politicians are calling for stricter rules and measures against platforms like Tiktok, which fail to consistently remove such content.",
+  "nzzSummaryDE": "- In Great Britain and Ireland, fatal accidents involving teenage wrong-way drivers who film risky drives for social media are a growing problem.\n - Police are investigating several fatal incidents involving teenagers driving against the flow of traffic, often in stolen cars and after chases.\n - Politicians are calling for stricter rules and measures against social media platforms like TikTok that do not consistently remove such content.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "«Joyriding»: When risky driving becomes a deadly social media spectacle",
+  "nzzPrintSubtitle": "In Great Britain and Ireland, twelve people have died in traffic accidents in recent weeks. Several cases are linked to teenage wrong-way drivers who film their dangerous drives for social media. Now, politicians are demanding consequences for TikTok.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901",
+   "title": "«Joyriding»: When risky driving becomes a deadly social media spectacle",
+   "socialMediaTitle": "«Joyriding»: When risky driving becomes a deadly social media spectacle",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/a3be3499-67c7-424f-a1d4-f397589e0ddd.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz"
+  },
+  "ldPublicationId": 2484307,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Ireland",
+    "slug": "/themen/irland"
+   },
+   {
+    "name": "TikTok",
+    "slug": "/themen/tiktok"
+   },
+   {
+    "name": "Social Media",
+    "slug": "/themen/social-media"
+   },
+   {
+    "name": "Great Britain",
+    "slug": "/themen/grossbritannien"
+   },
+   {
+    "name": "England",
+    "slug": "/themen/england"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10007656"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 375528,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "irland",
+   "name": "Ireland",
+   "tagName": "Ireland",
+   "qId": "Q27",
+   "seoTitle": "Ireland – All the news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 17:07:24.819Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/irland",
+   "size": 613,
+   "relatedTopics": [
+    {
+     "name": "Tiktok",
+     "slug": "/themen/tiktok"
+    },
+    {
+     "name": "Social Media",
+     "slug": "/themen/social-media"
+    },
+    {
+     "name": "Grossbritannien",
+     "slug": "/themen/grossbritannien"
+    },
+    {
+     "name": "England",
+     "slug": "/themen/england"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Heat in Europe: Climate researcher warns of more extreme weather; hundreds flee wildfires in Spain",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Live ticker",
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024&quality=75&auto=webp",
+     "width": 5315,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5315,3543,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+     "teaserAuthor": "Federico Gambarini / Keystone"
+    },
+    "teaserAuthor": "Federico Gambarini / Keystone",
+    "authorLine": "NZZ Newsroom",
+    "nzzId": "ld.10008673",
+    "readingTime": 60,
+    "liveCenterId": "86247",
+    "embeds": {
+     "videos": [
+      {
+       "id": "TZNqnPW9",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 9,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/TZNqnPW9-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How do heat waves affect people, animals and the environment in Switzerland?",
+    "paywallQuestionTwo": "Which regions of Europe are affected by record temperatures?",
+    "paywallQuestionThree": "What measures does the federal government recommend to combat the heat?",
+    "characterCount": 19,
+    "videoTeaser": "TZNqnPW9",
+    "product": "NZZ.ch",
+    "documentId": "10008673",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T06:52:11.732Z",
+    "publicationLastUpdated": "2026-08-27T06:52:11.732Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-27T18:52:11.732Z",
+    "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "url": "https://www.nzz.ch/panorama/hitze-in-europa-klimaforscher-warnt-vor-mehr-extremwetter-hunderte-menschen-in-spanien-wegen-waldbrand-evakuiert-ld.10008673",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 45,
+    "leadText": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Boxing promoter and alleged head of a drug empire: Who is Daniel Kinahan, arguably Ireland's most dangerous gangster boss?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/11/856cae1a-ba3b-47dc-a10d-ae708228cf0c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/11/856cae1a-ba3b-47dc-a10d-ae708228cf0c.jpg?width=1024&quality=75&auto=webp",
+     "width": 4966,
+     "height": 3304,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4966,2793,x0,y255"
+      },
+      {
+       "name": "4:3",
+       "crop": "4405,3304,x280,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3304,3304,x831,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2478,3304,x1244,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4956,3304,x5,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Kinahan reportedly controlled drug and arms trafficking in Ireland and beyond for years with his organization. Now, the United Arab Emirates has extradited him to Ireland, where he faces life imprisonment.",
+     "teaserAuthor": "Natalia Campos / Reuters"
+    },
+    "teaserAuthor": "Natalia Campos / Reuters",
+    "nzzId": "ld.10019021",
+    "readingTime": 300,
+    "paywallQuestionOne": "How did Daniel Kinahan become one of Ireland's most dangerous gangster bosses?",
+    "paywallQuestionTwo": "What role did the Kinahan Cartel play in the international drug trade?",
+    "paywallQuestionThree": "Why did Kinahan withdraw from the boxing business and get extradited?",
+    "characterCount": 6812,
+    "product": "NZZ.ch",
+    "documentId": "10019021",
+    "layout": "regular",
+    "publicationDate": "2026-08-11T13:30:00.000Z",
+    "publicationLastUpdated": "2026-08-11T13:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-12T01:30:00.000Z",
+    "teaserCaption": "Kinahan reportedly controlled drug and arms trafficking in Ireland and beyond for years with his organization. Now, the United Arab Emirates has extradited him to Ireland, where he faces life imprisonment.",
+    "authorLine": "Kevin Weber",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/08/29/58428602-9875-4c5d-9d40-b40533cd40b0.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/boxpromoter-und-mutmasslicher-chef-eines-drogenimperiums-wer-ist-daniel-kinahan-irlands-wohl-gefaehrlichster-gangsterboss-ld.10019021",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 1052,
+    "leadText": "Kinahan reportedly controlled drug and arms trafficking in Ireland and beyond for years with his organization. Now, the United Arab Emirates has extradited him to Ireland, where he faces life imprisonment.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "Italy clears the first hurdle in the World Cup play-offs, beating Northern Ireland 2-0",
+    "teaserImage": {
+     "originalUrl": "/2026/03/26/af447b12-32d6-47db-aa12-d15e17f59629.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/26/af447b12-32d6-47db-aa12-d15e17f59629.jpg?width=1024&quality=75&auto=webp",
+     "width": 3500,
+     "height": 2333,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3500,1969,x0,y179"
+      },
+      {
+       "name": "1:1",
+       "crop": "1456,1456,x333,y93"
+      },
+      {
+       "name": "4:3",
+       "crop": "3111,2333,x195,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1750,2333,x875,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3500,2333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Italy is halfway to qualifying for the 2026 World Cup. The four-time world champion won its playoff semifinal in Bergamo against Northern Ireland 2-0.",
+     "teaserAuthor": "Andrea Staccioli / Imago"
+    },
+    "teaserAuthor": "Andrea Staccioli / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1931313",
+    "readingTime": 120,
+    "characterCount": 2190,
+    "product": "NZZ.ch",
+    "documentId": "1931313",
+    "layout": "regular",
+    "publicationDate": "2026-03-26T21:51:53.344Z",
+    "publicationLastUpdated": "2026-03-26T22:10:31.296Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-03-27T09:51:53.344Z",
+    "teaserCaption": "Italy is halfway to qualifying for the 2026 World Cup. The four-time world champion won its playoff semifinal in Bergamo against Northern Ireland 2-0.",
+    "authorLine": "",
+    "url": "https://www.nzz.ch/sport/italien-nimmt-die-erste-huerde-in-den-wm-play-offs-und-schlaegt-nordirland-mit-20-ld.1931313",
+    "department": {
+     "name": "Sport",
+     "path": "/sport"
+    },
+    "estimationWordCount": 373,
+    "leadText": "Italy is halfway to qualifying for the 2026 World Cup. The four-time world champion won its playoff semifinal in Bergamo against Northern Ireland 2-0.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "British pubs in decline: A brief ethnography of a threatened culture",
+    "teaserImage": {
+     "originalUrl": "/2026/01/15/81b64cb1-806f-4a35-87a2-778402c5a85a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/01/15/81b64cb1-806f-4a35-87a2-778402c5a85a.jpg?width=1024&quality=75&auto=webp",
+     "width": 8192,
+     "height": 5464,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8192,4608,x0,y763"
+      },
+      {
+       "name": "1:1",
+       "crop": "5464,5464,x1693,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7285,5464,x907,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4098,5464,x1581,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8192,5461,x0,y3"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The trend towards less alcohol, changing lifestyles, high taxes, and strict laws are putting a strain on pubs. This is causing traditional spaces of freedom, which nevertheless operate under clear, unwritten rules, to disappear.",
+     "teaserAuthor": "Hollie Adams / Reuters"
+    },
+    "teaserAuthor": "Hollie Adams / Reuters",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1920428",
+    "readingTime": 360,
+    "authorLine": "David Signer, London",
+    "characterCount": 7616,
+    "product": "NZZ.ch",
+    "documentId": "1920428",
+    "layout": "longformstandard",
+    "publicationDate": "2026-01-22T04:30:00.000Z",
+    "publicationLastUpdated": "2026-01-22T04:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-01-22T16:30:00.000Z",
+    "teaserCaption": "The trend towards less alcohol, changing lifestyles, high taxes, and strict laws are putting a strain on pubs. This is causing traditional spaces of freedom, which nevertheless operate under clear, unwritten rules, to disappear.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/c7293c90-04fc-4a20-a0dd-68d626e919d3.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/die-britischen-pubs-im-niedergang-kleine-ethnografie-einer-bedrohten-kultur-ld.1920428",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1257,
+    "leadText": "The trend towards less alcohol, changing lifestyles, high taxes, and strict laws are putting a strain on pubs. This is causing traditional spaces of freedom, which nevertheless operate under clear, unwritten rules, to disappear.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "Atlantic storm «Amy» causes power outages and traffic chaos – Switzerland remains largely unaffected by damage",
+    "teaserImage": {
+     "originalUrl": "/2025/10/04/65b77e8a-24c4-49b3-bee1-b3ed2380723c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/10/04/65b77e8a-24c4-49b3-bee1-b3ed2380723c.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y313"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1746,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x333,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x2678,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In Ireland and Norway, several hundred thousand households were without power. In Zurich, a section of the facade of a high-rise building broke off.",
+     "teaserAuthor": "Clodagh Kilcoyne / Reuters"
+    },
+    "teaserAuthor": "Clodagh Kilcoyne / Reuters",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1905626",
+    "readingTime": 120,
+    "authorLine": "Marius Huber",
+    "characterCount": 2689,
+    "product": "NZZ.ch",
+    "documentId": "1905626",
+    "layout": "regular",
+    "publicationDate": "2025-10-05T06:54:50.680Z",
+    "publicationLastUpdated": "2025-10-05T11:44:39.545Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2025-10-05T18:54:50.680Z",
+    "teaserCaption": "In Ireland and Norway, several hundred thousand households were without power. In Zurich, a section of the facade of a high-rise building broke off.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/der-atlantiksturm-amy-sorgt-fuer-stromausfaelle-und-richtet-verkehrschaos-an-auch-fuer-die-schweiz-gilt-eine-wetterwarnung-ld.1905626",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 435,
+    "leadText": "In Ireland and Norway, several hundred thousand households were without power. In Zurich, a section of the facade of a high-rise building broke off.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "There are places where nothing happens except history",
+    "teaserImage": {
+     "originalUrl": "/2025/08/19/17eaafc8-3e7e-4d66-b13b-960df4f75714.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/08/19/17eaafc8-3e7e-4d66-b13b-960df4f75714.jpg?width=1024&quality=75&auto=webp",
+     "width": 5472,
+     "height": 3648,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5472,3078,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2277,2277,x211,y1207"
+      },
+      {
+       "name": "4:3",
+       "crop": "4864,3648,x363,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2736,3648,x319,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5472,3648,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Valentia Island is typically Irish: small, rainy, and difficult to reach. And yet it has shaped world history twice – with a footprint and a wire.",
+     "teaserAuthor": "Ponds5 / Imago"
+    },
+    "teaserAuthor": "Ponds5 / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1887916",
+    "readingTime": 360,
+    "authorLine": "Nicole Quint",
+    "characterCount": 7794,
+    "product": "NZZ.ch",
+    "documentId": "1887916",
+    "layout": "longformvisual",
+    "publicationDate": "2025-08-22T03:30:00.000Z",
+    "publicationLastUpdated": "2025-08-26T14:24:09.978Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-08-22T15:30:00.000Z",
+    "teaserCaption": "Valentia Island is typically Irish: small, rainy, and difficult to reach. And yet it has shaped world history twice – with a footprint and a wire.",
+    "url": "https://www.nzz.ch/reisen/es-gibt-orte-an-denen-nichts-passiert-ausser-geschichte-ld.1887916",
+    "department": {
+     "name": "Travel",
+     "path": "/reisen"
+    },
+    "estimationWordCount": 1290,
+    "leadText": "Valentia Island is typically Irish: small, rainy, and difficult to reach. And yet it has shaped world history twice – with a footprint and a wire.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020901",
+    "name": "Joyriding: When risky driving becomes a deadly social media trend",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Panorama",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Joyriding: When risky driving becomes a deadly social media trend",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1722619,
+       "name": "Kevin Weber",
+       "shortName": "wek",
+       "pianoId": "47f5550a-1095-4407-a673-85a4bc13efce",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T12:39:11.864Z",
+     "updateTimestamp": "2026-08-26T18:03:54.058Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020901",
+   "pageType": "regular",
+   "primaryCategory": "Panorama",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "«Joyriding»: When risky driving becomes a deadly social media spectacle",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3be3499-67c7-424f-a1d4-f397589e0ddd.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Kevin Weber",
+  "description": "In recent weeks, twelve people have died in traffic accidents in Great Britain and Ireland, several of them involving young wrong-way drivers who film dangerous joyrides for social media.",
+  "news_keywords": "Joyriding: when risky driving becomes a deadly social media trend, Panorama, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-26T22:03:54+02:00",
+  "date": "2026-08-25T16:39:11+02:00",
+  "canonical": "https://www.nzz.ch/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Joyriding: When risky driving becomes a deadly social media trend",
+  "ogTitle": "«Joyriding»: When risky driving becomes a deadly social media spectacle",
+  "ogUrl": "https://www.nzz.ch/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901",
+  "mrf:cms_id": "nzz:ld.10020901",
+  "mrf:sections": "Panorama",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020901",
+  "nzzAuthors": [
+   {
+    "id": 1722619,
+    "name": "Kevin Weber",
+    "shortName": "wek",
+    "pianoId": "47f5550a-1095-4407-a673-85a4bc13efce",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:47 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/panorama",
+      "name": "Panorama"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "«Joyriding»: When risky driving becomes a deadly social media spectacle"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901"
+   },
+   "headline": "«Joyriding»: When risky driving becomes a deadly social media spectacle",
+   "datePublished": "2026-08-25T16:39:11+02:00",
+   "dateModified": "2026-08-26T22:03:54+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "In recent weeks, twelve people have died in traffic accidents in Great Britain and Ireland, several of them involving young wrong-way drivers who film dangerous joyrides for social media.",
+   "isAccessibleForFree": false,
+   "articleSection": "Panorama",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/a3be3499-67c7-424f-a1d4-f397589e0ddd.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Kevin Weber"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 375528,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/panorama/joyriding-wenn-riskantes-fahren-zum-toedlichen-social-media-trend-wird-ld.10020901",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020901",
+    "channel=Panorama"
+   ],
+   "ContentCreated": "2026-08-25T12:39:11.864Z",
+   "ContentAuthor": "Kevin Weber",
+   "ContentSection": "Panorama",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Was sind die Hauptgründe für den gefährlichen «Joyriding»-Trend?\nWie reagiert die Politik auf die Zunahme von Geisterfahrten?\nWelche Rolle spielen soziale Medien bei der Verbreitung des Trends?",
+   "ldId": "ld.10020901",
+   "channel": "Panorama",
+   "heading": "Joyriding: wenn riskantes Fahren zum tödlichen Social-Media-Trend wird",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,1234 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jshgriso0",
+   "content": {
+    "title": "Pesticides in bread: It’s normal – but is it bad?",
+    "lead": "Not just fruit and vegetables, but bread too often contains pesticide residues. Experts explain how concerning these are for health and how to protect oneself.",
+    "authorline": "Nina Himmer",
+    "author": "Nina Himmer"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jshgriso2",
+   "content": {
+    "image": {
+     "author": "Illustration by Simon Tanner / NZZ",
+     "caption": "",
+     "originalUrl": "/2026/07/06/8cd48468-dd86-464a-a803-a443a6f7daa5.gif?crop=2400,1600,x0,y0",
+     "width": 2400,
+     "height": 1600,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2400,
+      "height": 1600,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2400,
+       "height": 1600,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Illustration by Simon Tanner / NZZ",
+    "caption": ""
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpa7id0",
+   "content": {
+    "text": "<strong>Reader question: How high are pesticide residues in bread, and are there differences between white bread and whole-grain bread?</strong>"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-136cb262",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpa7if0",
+   "content": {
+    "text": "Bread is very popular. In both Switzerland and Germany, it is among the most beloved foods. Around 40 kilograms are consumed per person annually in both countries. In terms of nutritional content, white flour and whole-grain products differ significantly, but neither variant is immune to undesirable contaminants: residues of chemical-synthetic pesticides, sprayed in the field to combat pests, can be detected in many grain products – such as glyphosate, chlormequat, ethephon, and carbofuran."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpgmp40",
+   "content": {
+    "text": "«In 2023, we evaluated more than 2,000 official samples from various European countries and found a total of 65 pesticides. Every third grain product was contaminated with residues,» says Annemarie Botzki from the consumer protection organization Foodwatch. The frequency of pesticide residues varied among the different types of grain – residues were found more frequently in wheat bread and rolls than in emmer and rye samples. Nevertheless, it cannot be generally stated that there are always differences between whole-grain and white bread."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0idjdrl1",
+   "content": {
+    "text": "While it seems obvious that more pesticides enter bread when the entire grain, including the outer layers, is processed – meaning whole-grain bread would be more contaminated – Botzki says: «Many factors play a role in the measurement result, such as grain type, cultivation, origin, storage, and processing.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvph7eh0",
+   "content": {
+    "text": "In addition, whole-grain bread offers many health benefits, for instance, due to its high content of dietary fiber, complex carbohydrates, and B vitamins. Therefore, those who consume a lot of bread are better served by the whole-grain variety."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvvpnrap0",
+   "content": {
+    "title": "Pesticide residue limits mostly adhered to",
+    "id": "subtitle-grenzwerte-f-r-pestizidr-ckst-nde-werden-meist-eingehalten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpa7ih0",
+   "content": {
+    "text": "Although traces of pesticides can often be detected, the limits set by authorities are rarely exceeded. The European Union sets maximum residue levels for each active ingredient and grain type – for glyphosate, for example, 10 milligrams per kilogram for wheat and rye, but 20 milligrams for barley and oats. In Switzerland, specific limits apply that are based on EU regulations."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvphin01",
+   "content": {
+    "text": "«In our study, 1215 out of a total of 2243 samples showed residues, but only 14 of them exceeded the permissible limits,» says Botzki about the situation in Germany. Other tests show similar results. In the latest monitoring by the Swiss Federal Food Safety and Veterinary Office (FSVO), none of the examined samples exceeded the permissible limits."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpk04b1",
+   "content": {
+    "text": "The Federal Institute for Risk Assessment classifies traces of pesticides in grain products as «generally harmless to health» as long as the limits are not exceeded. Botzki also does not want to stir up fears. «Nobody drops dead after eating a slice of bread,» she says. However, she does not want to simply ignore the pesticide contamination: «Firstly, we want to draw attention to the high use of pesticides, especially in grain cultivation. Secondly, many consumers want residue-free grain or do not even know that many grain products contain pesticide residues.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvvpojt90",
+   "content": {
+    "title": "Another way",
+    "id": "subtitle-es-geht-auch-anders"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpa7ii0",
+   "content": {
+    "text": "Some experts do not take as relaxed a view as many authorities. Ecotoxicologist Carsten Brühl from the Technical University of Kaiserslautern-Landau, for example, says: «Pesticides threaten our environment, animal and plant life, and thus our livelihoods, as well as our health. And their use would not be necessary to the extent currently practiced.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpkbg91",
+   "content": {
+    "text": "He refers to examples from conventional agriculture such as Kraichgau Korn in Germany or IP Suisse with its ladybug label in Switzerland. Both have relied on pesticide-free grain for decades. Regarding official limits, Brühl says: «They consider neither the multiple exposure in many products nor the fact that in our daily lives we are exposed to a variety of environmental toxins that accumulate.» For example, anyone who consumes contaminated bread, fruit, and vegetables, lives near a vineyard or field where spraying occurs, and inhales fine dust daily, accumulates a considerable cocktail of pollutants that can potentially harm health, Brühl adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpa7ij0",
+   "content": {
+    "text": "Individuals seeking to minimize their risk must take action themselves. For example, by switching to organic products, which are less contaminated because pesticide use is prohibited in organic farming. Regional products also typically show fewer residues, and some conventional suppliers, like those mentioned, also forego pesticides. Beyond that, it is advisable to consume different types of bread and grain, as grain contamination can vary."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvpp0t90",
+   "content": {
+    "text": "<em>Do you also have a question about nutrition and health? Write to us at <a href=\"mailto:wohlundsein@nzz.ch\">wohlundsein@nzz.ch</a>.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jshgriso4",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jshgriso5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jshgriso6",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Explained",
+       "title": "Bread contains more salt than many people realize. Children, in particular, can easily exceed the recommended daily intake",
+       "teaserImage": {
+        "originalUrl": "/2025/09/18/a4cd523f-611e-48e2-bb60-88fa79332088.gif?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/18/a4cd523f-611e-48e2-bb60-88fa79332088.gif?width=1024&quality=75&auto=webp",
+        "width": 900,
+        "height": 600,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "900,506,x0,y47"
+         },
+         {
+          "name": "1:1",
+          "crop": "533,533,x183,y33"
+         },
+         {
+          "name": "4:3",
+          "crop": "711,533,x94,y33"
+         },
+         {
+          "name": "3:4",
+          "crop": "400,533,x250,y33"
+         },
+         {
+          "name": "3:2",
+          "crop": "800,533,x50,y33"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "If there's also salami or cheese on the slice of bread, this further increases salt intake. A pediatrician explains what parents should pay attention to.",
+        "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+       },
+       "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1903082",
+       "readingTime": 240,
+       "authorLine": "Nina Himmer",
+       "characterCount": 4500,
+       "product": "NZZ.ch",
+       "documentId": 1903082,
+       "layout": "regular",
+       "publicationDate": "2025-10-29T04:30:00.000Z",
+       "publicationLastUpdated": "2025-10-30T14:52:56.765Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-10-29T16:30:00.000Z",
+       "teaserCaption": "If there's also salami or cheese on the slice of bread, this further increases salt intake. A pediatrician explains what parents should pay attention to.",
+       "url": "/wissenschaft/brot-enthaelt-viel-salz-was-das-fuer-die-ernaehrung-von-kindern-bedeutet-ld.1903082",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 735,
+       "leadText": "If there's also salami or cheese on the slice of bread, this further increases salt intake. A pediatrician explains what parents should pay attention to.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jshgriso7",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Explained",
+       "title": "Must it always be whole grain? Ruchbrot is also healthier than white bread.",
+       "teaserImage": {
+        "originalUrl": "/2026/01/16/e732f833-c3a4-4af5-b0f9-29d72f2917b8.gif?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/16/e732f833-c3a4-4af5-b0f9-29d72f2917b8.gif?width=1024&quality=75&auto=webp",
+        "width": 3600,
+        "height": 2400,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3200,1800,x200,y301"
+         },
+         {
+          "name": "1:1",
+          "crop": "2400,2400,x600,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3200,2400,x200,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1800,2400,x900,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3200,2133,x200,y133"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "How the popular Swiss bread performs in terms of fiber and nutrients."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1920431",
+       "readingTime": 240,
+       "authorLine": "Kathrin Burger",
+       "characterCount": 4966,
+       "product": "NZZ.ch",
+       "documentId": 1920431,
+       "layout": "regular",
+       "publicationDate": "2026-02-18T04:30:00.000Z",
+       "publicationLastUpdated": "2026-02-23T15:24:50.474Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-02-18T16:30:00.000Z",
+       "teaserCaption": "How the popular Swiss bread performs in terms of fiber and nutrients.",
+       "url": "/wissenschaft/ruchbrot-vs-weissbrot-die-gesunde-alternative-erklaert-ld.1920431",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 721,
+       "leadText": "How the popular Swiss bread performs in terms of fiber and nutrients.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jshgriso8",
+      "content": {
+       "owner": "NZZ",
+       "title": "Our daily white bread is worthless to the body – which alternatives are better?",
+       "teaserImage": {
+        "originalUrl": "/2024/12/02/f8a2fb36-3c8d-4cca-96a3-30011ca8a3df.gif?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/02/f8a2fb36-3c8d-4cca-96a3-30011ca8a3df.gif?width=1024&quality=75&auto=webp",
+        "width": 900,
+        "height": 600,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "900,506,x0,y47"
+         },
+         {
+          "name": "1:1",
+          "crop": "600,600,x150,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x50,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "450,600,x225,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "With hardly any nutrients or fiber, and few vitamins and minerals, white bread made from wheat can easily be done without. But should it be completely banished from the diet? A nutritional medicine expert weighs in.",
+        "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+       },
+       "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1859970",
+       "readingTime": 180,
+       "authorLine": "Nina Himmer",
+       "characterCount": 4129,
+       "product": "NZZ.ch",
+       "documentId": 1859970,
+       "layout": "regular",
+       "publicationDate": "2024-12-11T04:30:00.000Z",
+       "publicationLastUpdated": "2024-12-11T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-12-11T16:30:00.000Z",
+       "teaserCaption": "With hardly any nutrients or fiber, and few vitamins and minerals, white bread made from wheat can easily be done without. But should it be completely banished from the diet? A nutritional medicine expert weighs in.",
+       "url": "/wissenschaft/weissbrot-aus-weizen-wie-ungesund-ist-es-wirklich-ld.1859970",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 620,
+       "leadText": "With hardly any nutrients or fiber, and few vitamins and minerals, white bread made from wheat can easily be done without. But should it be completely banished from the diet? A nutritional medicine expert weighs in."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Pesticides in bread: It’s normal – but is it bad?",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/07/06/b40f92ef-923e-4e94-8ca7-33034b6e2e82.gif?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/07/06/b40f92ef-923e-4e94-8ca7-33034b6e2e82.gif?width=1024&quality=75&auto=webp",
+   "width": 900,
+   "height": 600,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "900,506,x0,y47"
+    },
+    {
+     "name": "4:3",
+     "crop": "800,600,x50,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "600,600,x150,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "450,600,x225,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "900,600,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+   "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+  },
+  "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+  "characterCount": 5064,
+  "authorLine": "Nina Himmer",
+  "flag": "Explained",
+  "tags": [
+   "Wissenschaft aktuell",
+   "Wohl & Sein Antwortet",
+   "Wohl & Sein"
+  ],
+  "editor": "1371759",
+  "nzzId": "ld.10013927",
+  "readingTime": 240,
+  "breadcrumbs": [
+   {
+    "name": "Science",
+    "path": "/wissenschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10013927,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationDate": "2026-09-02T03:30:00.000Z",
+  "publicationLastUpdated": "2026-09-02T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+  "teaserCaption": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "url": "/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927",
+  "department": {
+   "name": "Science",
+   "path": "/wissenschaft"
+  },
+  "estimationWordCount": 723,
+  "leadText": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+  "nzzSummaryEN": "- Residues of pesticides such as glyphosate are detectable in one-third of grain products, though legal limits are rarely exceeded.\n- Whole-grain bread may offer health benefits, but pesticide levels depend on factors like cultivation and processing.\n- Organic products or pesticide-free providers like IP Suisse reduce risks, and varying grain types is recommended.",
+  "nzzSummaryDE": "- Residues of pesticides such as glyphosate can be detected in one third of grain products, but legal limits are rarely exceeded.\n Wholegrain bread can offer health benefits, but pesticide contamination depends on various factors such as cultivation and processing.\n Organic products or pesticide-free suppliers like IP Suisse minimize the risk, and variety in grain types is recommended.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Pesticides in our daily bread",
+  "nzzPrintSubtitle": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927",
+   "title": "Pesticides in bread: How dangerous are the residues?",
+   "socialMediaTitle": "Pesticides in wheat: How heavily contaminated is our daily bread?",
+   "description": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/07/06/b40f92ef-923e-4e94-8ca7-33034b6e2e82.gif?width=900&height=506&fit=bounds&quality=75&auto=webp&crop=900,506,x0,y47"
+  },
+  "ldPublicationId": 2481925,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "agriculture",
+    "slug": "/themen/landwirtschaft"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1903082",
+    "ld.1920431",
+    "ld.1859970"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 355584,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "landwirtschaft",
+   "name": "agriculture",
+   "tagName": "agriculture",
+   "qId": "Q11451",
+   "seoTitle": "Agriculture – Current news and all articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 18:29:07.872Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/landwirtschaft",
+   "size": 855,
+   "relatedTopics": [
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Subsidies for results: Trained farmer Guy Parmelin wants farmers to think like entrepreneurs in the future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/a51a7a11-d8de-41d6-b658-5bb8c25a3116.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/a51a7a11-d8de-41d6-b658-5bb8c25a3116.jpg?width=1024&quality=75&auto=webp",
+     "width": 3291,
+     "height": 2194,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3291,1851,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2925,2194,x229,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2194,2194,x528,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1646,2194,x657,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3291,2194,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Agricultural Policy 2030: Economic affairs minister seeks new mindset for agriculture to address climate change",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10022110",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does Parmelin intend to make Swiss agriculture more market-oriented?",
+    "paywallQuestionTwo": "What reforms is the Federal Council planning regarding direct payments to farmers?",
+    "paywallQuestionThree": "How does the small farmers' association react to Parmelin's agricultural policy?",
+    "characterCount": 6758,
+    "product": "NZZ.ch",
+    "documentId": "10022110",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T16:28:38.625Z",
+    "publicationLastUpdated": "2026-09-02T17:03:56.506Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T04:28:38.625Z",
+    "teaserCaption": "Agricultural Policy 2030: Economic affairs minister seeks new mindset for agriculture to address climate change",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/subventionen-nur-noch-gegen-resultate-der-gelernte-landwirt-guy-parmelin-will-dass-die-bauern-kuenftig-wie-unternehmer-denken-ld.10022110",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 958,
+    "leadText": "Agricultural Policy 2030: Economic affairs minister seeks new mindset for agriculture to address climate change",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Unrealistic Food Initiative: Switzerland Does Not Need a Second Cultivation Battle",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "nzzId": "ld.10021451",
+    "readingTime": 360,
+    "paywallQuestionOne": "How realistic is an increase in the self-sufficiency rate to 70 percent?",
+    "paywallQuestionTwo": "What risks are associated with a stronger focus on domestic production?",
+    "paywallQuestionThree": "How could Switzerland improve its security of supply without isolating itself?",
+    "characterCount": 8630,
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/bf368f0f-c8a7-4327-a135-970c3d6800d4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/bf368f0f-c8a7-4327-a135-970c3d6800d4.jpg?width=1024&quality=75&auto=webp",
+     "width": 3425,
+     "height": 1927,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3425,1927,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2569,1927,x674,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1927,1927,x1258,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1445,1927,x323,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2891,1927,x313,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Food Initiative aims to make Switzerland more crisis-proof through increased domestic production and, to that end, radically transform agriculture. However, greater self-sufficiency at any cost creates more problems than it solves."
+    },
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021451",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:35:00.000Z",
+    "publicationLastUpdated": "2026-09-01T03:56:26.544Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:35:00.000Z",
+    "teaserCaption": "The Food Initiative aims to make Switzerland more crisis-proof through increased domestic production and, to that end, radically transform agriculture. However, greater self-sufficiency at any cost creates more problems than it solves.",
+    "authorLine": "David Vonplon",
+    "authorImage": {
+     "originalUrl": "/2024/04/30/63700c94-c5a7-4404-9e5c-1ab9a2a181a5.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/04/30/63700c94-c5a7-4404-9e5c-1ab9a2a181a5.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/63700c94-c5a7-4404-9e5c-1ab9a2a181a5.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/realitaetsfremde-ernaehrungsinitiative-die-schweiz-braucht-keine-zweite-anbauschlacht-ld.10021451",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1195,
+    "leadText": "The Food Initiative aims to make Switzerland more crisis-proof through increased domestic production and, to that end, radically transform agriculture. However, greater self-sufficiency at any cost creates more problems than it solves.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 22,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/9ff58b98-cdd6-43c5-9f8f-108ce43eb158.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/9ff58b98-cdd6-43c5-9f8f-108ce43eb158.jpg?width=1024&quality=75&auto=webp",
+     "width": 4518,
+     "height": 6777,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4518,2541,x0,y890"
+      },
+      {
+       "name": "4:3",
+       "crop": "4518,3389,x0,y477"
+      },
+      {
+       "name": "1:1",
+       "crop": "4518,4518,x0,y260"
+      },
+      {
+       "name": "3:4",
+       "crop": "4518,6024,x0,y145"
+      },
+      {
+       "name": "3:2",
+       "crop": "4518,3012,x0,y476"
+      }
+     ],
+     "focalPoint": {
+      "x": 1760,
+      "y": 1870
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The food initiative evokes memories for some of the time when the people sowed grain together. Is this more than just nostalgia?",
+     "teaserAuthor": "Linda Käsbohrer"
+    },
+    "teaserAuthor": "Linda Käsbohrer",
+    "title": "Less meat, more grain: The food initiative is bringing back the cultivation battle of the Second World War – and making a fan of a former Federal Councillor rave",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10021411",
+    "readingTime": 300,
+    "paywallQuestionOne": "What are the main goals of the nutrition initiative?",
+    "paywallQuestionTwo": "What is the agricultural sector's stance on the food initiative?",
+    "paywallQuestionThree": "What criticisms are there of Friedrich Wahlen's agricultural expansion campaign?",
+    "characterCount": 6982,
+    "tags": [
+     "Abstimmung Ernährungsinitiative"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10021411",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T08:15:49.653Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "The food initiative evokes memories for some of the time when the people sowed grain together. Is this more than just nostalgia?",
+    "authorLine": "Gina Bachmann",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/08/3d6c7f54-2b98-4bfb-8062-01f465d1221b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/mehr-getreide-weniger-vieh-die-ernaehrungsinitiative-bringt-die-anbauschlacht-des-zweiten-weltkriegs-zurueck--ld.10021411",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1063,
+    "leadText": "The food initiative evokes memories for some of the time when the people sowed grain together. Is this more than just nostalgia?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Food Initiative: «The Swiss can continue to eat as much meat as they want»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2025/01/08/97f1a7e2-f2af-4763-9253-f989c5864250.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/01/08/97f1a7e2-f2af-4763-9253-f989c5864250.jpeg?width=1024&quality=75&auto=webp",
+     "width": 6001,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6001,3376,x0,y7"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x370,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3306,3306,x1471,y290"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1570,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x1,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Opponents of the food initiative warn of a «vegan mandate.» This claim is false – and most of the arguments are misleading, says economist Felix Schläpfer.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "nzzId": "ld.10021285",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does the nutrition initiative affect meat consumption in Switzerland?",
+    "paywallQuestionTwo": "Why is the self-sufficiency rate of 70 percent controversial?",
+    "paywallQuestionThree": "What are the environmental consequences of meat production in Switzerland?",
+    "characterCount": 11768,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": "10021285",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-29T13:37:35.073Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:30:00.000Z",
+    "teaserCaption": "Opponents of the food initiative warn of a «vegan mandate.» This claim is false – and most of the arguments are misleading, says economist Felix Schläpfer.",
+    "authorLine": "Matthias Benz, David Vonplon",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/ernaehrungsinitiative-die-schweizer-koennen-weiter-so-viel-fleisch-essen-wie-sie-wollen-ld.10021285",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1700,
+    "leadText": "Opponents of the food initiative warn of a «vegan mandate.» This claim is false – and most of the arguments are misleading, says economist Felix Schläpfer.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«If Markus Ritter wants to play Russian roulette, he should tell the farmers»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "interview",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/373740c9-fcd2-4560-8749-27246ada441f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/373740c9-fcd2-4560-8749-27246ada441f.jpg?width=1024&quality=75&auto=webp",
+     "width": 2400,
+     "height": 1600,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2400,1350,x0,y213"
+      },
+      {
+       "name": "4:3",
+       "crop": "2133,1600,x267,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1600,1600,x255,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1200,1600,x378,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2400,1600,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The farmers' association is opposing the Mercosur agreement and is also threatening to reject the EU package. Agricultural strategist Christof Dietler considers this course dangerous. He warns of an agricultural sector that isolates itself and hardly allows for any further debate about market integration.",
+     "teaserAuthor": "Gian Ehrenzeller / Keystone"
+    },
+    "teaserAuthor": "Gian Ehrenzeller / Keystone",
+    "nzzId": "ld.10020063",
+    "readingTime": 480,
+    "paywallQuestionOne": "Why does Christof Dietler consider the farmers' association's course to be dangerous?",
+    "paywallQuestionTwo": "How does the Mercosur agreement affect Swiss agriculture?",
+    "paywallQuestionThree": "What consequences would a «no» vote on the EU treaty package have for farmers?",
+    "characterCount": 11990,
+    "product": "NZZ.ch",
+    "documentId": "10020063",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T03:31:00.000Z",
+    "publicationLastUpdated": "2026-08-28T03:31:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T15:31:00.000Z",
+    "teaserCaption": "The farmers' association is opposing the Mercosur agreement and is also threatening to reject the EU package. Agricultural strategist Christof Dietler considers this course dangerous. He warns of an agricultural sector that isolates itself and hardly allows for any further debate about market integration.",
+    "authorLine": "David Vonplon",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/63700c94-c5a7-4404-9e5c-1ab9a2a181a5.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/wenn-markus-ritter-russisches-roulette-spielen-will-soll-er-das-den-bauern-offen-sagen-ld.10020063",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1693,
+    "leadText": "The farmers' association is opposing the Mercosur agreement and is also threatening to reject the EU package. Agricultural strategist Christof Dietler considers this course dangerous. He warns of an agricultural sector that isolates itself and hardly allows for any further debate about market integration.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "New grain war in the Black Sea – is world hunger imminent?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/d8568f47-5b35-4bc4-8228-c14a8d60808b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/d8568f47-5b35-4bc4-8228-c14a8d60808b.jpg?width=1024&quality=75&auto=webp",
+     "width": 4330,
+     "height": 2771,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4330,2436,x0,y168"
+      },
+      {
+       "name": "4:3",
+       "crop": "3695,2771,x318,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2771,2771,x780,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2078,2771,x1126,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4157,2771,x87,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia and Ukraine are among the world's largest exporters of wheat, yet the grain remains stuck in the Black Sea. This is reminiscent of the Russian blockade at the beginning of the war.",
+     "teaserAuthor": "Recep Bilek / Imago"
+    },
+    "teaserAuthor": "Recep Bilek / Imago",
+    "showComments": true,
+    "nzzId": "ld.10019993",
+    "readingTime": 360,
+    "paywallQuestionOne": "How will the new grain war affect global food supplies?",
+    "paywallQuestionTwo": "What are the economic consequences of the blockade for Russia and Ukraine?",
+    "paywallQuestionThree": "Could a prolonged blockade trigger a global hunger crisis?",
+    "characterCount": 8782,
+    "tags": [
+     "Pro: Fokus"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019993",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-24T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-24T07:09:33.540Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T15:30:00.000Z",
+    "teaserCaption": "Russia and Ukraine are among the world's largest exporters of wheat, yet the grain remains stuck in the Black Sea. This is reminiscent of the Russian blockade at the beginning of the war.",
+    "authorLine": "Peter Rásonyi",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/19/84831e9b-908d-401f-9143-3cd550f1d85e.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/neuer-getreidekrieg-im-schwarzen-meer-droht-bald-hunger-auf-der-welt-ld.10019993",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1266,
+    "premium": true,
+    "leadText": "Russia and Ukraine are among the world's largest exporters of wheat, yet the grain remains stuck in the Black Sea. This is reminiscent of the Russian blockade at the beginning of the war.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10013927",
+    "name": "Pesticides in bread: It’s normal – but is it bad?",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Wissenschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Pesticides in bread: It’s normal – but is it bad?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1371759,
+       "name": "Auswärtige Autoren NZZ",
+       "shortName": "AA",
+       "external": true
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:30:00.000Z",
+     "updateTimestamp": "2026-09-02T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Explained",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10013927",
+   "pageType": "regular",
+   "primaryCategory": "Wissenschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Pesticides in bread: How dangerous are the residues?",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/07/06/b40f92ef-923e-4e94-8ca7-33034b6e2e82.gif?width=900&height=506&fit=bounds&quality=75&auto=webp&crop=900,506,x0,y47",
+   "width": 900,
+   "height": 506
+  },
+  "author": "Nina Himmer",
+  "description": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+  "news_keywords": "Pesticides in bread: Is it normal – but is it also bad?, Explained, Science, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T07:30:00+02:00",
+  "date": "2026-09-02T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "EXPLAINED - Pesticides in bread: This is normal – but is it also bad?",
+  "ogTitle": "Pesticides in wheat: How heavily contaminated is our daily bread?",
+  "ogUrl": "https://www.nzz.ch/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927",
+  "mrf:cms_id": "nzz:ld.10013927",
+  "mrf:sections": "Wissenschaft;WTM",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10013927",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:49 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wissenschaft",
+      "name": "Science"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Pesticides in bread: How dangerous are the residues?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927"
+   },
+   "headline": "Pesticides in bread: How dangerous are the residues?",
+   "datePublished": "2026-09-02T07:30:00+02:00",
+   "dateModified": "2026-09-02T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Not only fruits and vegetables, but also bread often contains pesticide residues. Experts explain how concerning this is for health and how to protect yourself.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wissenschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/07/06/b40f92ef-923e-4e94-8ca7-33034b6e2e82.gif?width=900&height=506&fit=bounds&quality=75&auto=webp&crop=900,506,x0,y47",
+    "width": 900,
+    "height": 506
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Foreign authors NZZ"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 355584,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wissenschaft/pestizide-im-brot-wie-gefaehrlich-sind-die-rueckstaende-ld.10013927",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "erklärt",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10013927",
+    "channel=Wissenschaft"
+   ],
+   "ContentCreated": "2026-09-02T03:30:00.000Z",
+   "ContentAuthor": "Nina Himmer",
+   "ContentSection": "Wissenschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie unterscheiden sich Pestizidrückstände zwischen Weissbrot und Vollkornbrot?\nWie häufig werden Grenzwerte für Pestizidrückstände in Getreideprodukten überschritten?\nWelche Massnahmen können Verbraucher gegen Pestizidrückstände in Brot ergreifen?",
+   "ldId": "ld.10013927",
+   "channel": "Wissenschaft",
+   "heading": "Pestizide im Brot: Das ist normal – ist es auch schlimm?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

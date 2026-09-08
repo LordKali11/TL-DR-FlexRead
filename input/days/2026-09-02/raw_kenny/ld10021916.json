@@ -1,0 +1,1173 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1eestuj1",
+   "content": {
+    "title": "Red-Green wants to force private property owners to build affordable housing: Social Democrats make strange retreat in city parliament",
+    "lead": "Tactical defeat for City of Zurich's largest party in council: red-green bloc weakened by vacancies",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1eestuj2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Michael von Ledebur",
+       "url": "/impressum/michael-von-ledebur-ld.1390700",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1eestuk0",
+   "content": {
+    "image": {
+     "author": "Christian Beutler / Keystone",
+     "caption": "Private developers build by far the most housing in the City of Zurich – the red-green bloc wants to impose even stricter rules on them.",
+     "originalUrl": "/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?crop=7310,5479,x0,y0",
+     "width": 7310,
+     "height": 5479,
+     "altText": "The construction site of the Hard tram depot near Escher-Wyss-Platz, illuminated by the last light of evening, photographed on Tuesday, July 2, 2024 in Zurich. A residential complex with 193 apartments and commercial space is planned above the depot. (KEYSTONE/Christian Beutler)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2163929546"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7310,
+      "height": 5479,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7310,
+       "height": 5479,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Private developers build by far the most housing in the City of Zurich – the red-green bloc wants to impose even stricter rules on them.",
+    "author": "Christian Beutler / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrku0",
+   "content": {
+    "text": "The left-wing parties' demand is significant. It aims to pressure property owners in the City of Zurich. To do so, the Social Democrats and the Greens chose the sharpest weapon in parliamentary operations: a motion directly instructing the city government to prepare a proposal."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-b26b7350",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl00",
+   "content": {
+    "text": "The red-green bloc is targeting «profit-oriented private entities» in the housing market. These entities, the red-green bloc says, are to be forced to create affordable housing – within the scope of all housing construction projects in which the city is involved in some form. The city is very often involved as a supervisory authority."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl10",
+   "content": {
+    "text": "In all these cases, the red-green bloc says, the city should exert pressure on private entities. This goes significantly beyond the principle the city only recently introduced: that private developers must build a minimum proportion of affordable housing if they are granted higher utilization when building land is rezoned or redeveloped."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl20",
+   "content": {
+    "text": "From now on, a minimum proportion is also to apply even if private entities do not gain any additional utilization, the bloc argues. And the city's role as a supervisory and approval authority, they add, is to serve as leverage."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl30",
+   "content": {
+    "text": "It is an idea that alarms the bourgeois parties. This approach, the bourgeois parties say, will definitively deter private entities, with whom the city has not been gentle recently anyway. This is despite the fact that private entities build by far the most housing in the City of Zurich, and the vacancy rate is record-low, they add."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl31",
+   "content": {
+    "text": "On Wednesday, the motion by the Social Democrats and the Greens was on the agenda in the city parliament. SP City Councilor Anjushka Früh began her speech with expected words: «There is a huge housing shortage in Zurich. That is why it is important for the city to buy properties.» However, the city must also «be in contact» with private players and try to assert its influence and «demand consideration,» she said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl40",
+   "content": {
+    "text": "What followed was surprising. Früh said that «a lot is already happening» in this area. And because that is the case, the motion is being withdrawn, she added. This is a process rarely seen in the city parliament."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl51",
+   "content": {
+    "text": "One could conclude that City of Zurich politics has sufficiently addressed the housing issue. In the last five years, the three left-wing parties – the Social Democrats, the Greens, and the Alternative List – submitted no fewer than 50 motions on the subject, demanding, for example, stricter rent controls or remedies against empty terminations."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl60",
+   "content": {
+    "text": "In addition, the Social Democrats have occupied the Building Department for many years anyway – so the left-wing city parliamentarians could simply call the city hall directly."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl70",
+   "content": {
+    "text": "But, of course, such insights probably did not prompt SP city parliamentarian Früh to withdraw. Rather, the city's largest party was obviously forced to resort to political maneuvering."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl71",
+   "content": {
+    "text": "The party strategists on the left must have realized at the beginning of the council debate that it would not be enough for a majority, they deduced. The three left-wing parties in the city parliament have only a 63 to 62 majority when all parliamentarians are present. However, on this evening, the left side had too many vacancies."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl80",
+   "content": {
+    "text": "The left-wing parties therefore tried everything to prevent their motion from being debated."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hrhqvt0",
+   "content": {
+    "text": "First, in the preceding discussion about a women's quota for leadership positions in the city administration, several speakers prolonged the debate with numerous additional contributions. And then Council President Ivo Bieri (SP) declared the session closed: There was no longer enough time to deal with the housing motion, he said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl81",
+   "content": {
+    "text": "However, Sven Sobernheim (GLP) did not let this pass. It was obvious that the left side had deliberately debated at length and thus «filibustered» – because they knew they would be defeated, Sobernheim contended. Sobernheim forced the continuation of the discussion by means of a procedural motion, the center-right prevailed, and the debate continued. Afterward, Früh withdrew her motion."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl82",
+   "content": {
+    "text": "FDP parliamentary group leader Emanuel Tschannen said after the council debate: «If we on the bourgeois side are well-represented and work together, we can win votes.» The red-green bloc is outnumbered partly due to a vacancy among the Greens: a member resigned there, and the succession is delayed."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hqrrl90",
+   "content": {
+    "text": "However, several parliamentarians from the Green Liberal Party (GLP) and bourgeois parties are convinced that the Social Democrats will re-submit the motion in a slightly altered form, they believe. Früh was not available for comment. The idea was «at least delayed,» said FDP parliamentary group leader Tschannen. It would take months until the matter came before the council again in a possible new edition, he added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1eestuk2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1eestuk3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1eestuk4",
+      "content": {
+       "title": "The City of Zurich gets serious about business apartments and accepts complaints",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1024&quality=75&auto=webp",
+        "width": 4784,
+        "height": 3184,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4784,2691,x0,y247"
+         },
+         {
+          "name": "4:3",
+          "crop": "4245,3184,x269,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3184,3184,x800,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2388,3184,x1198,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4776,3184,x4,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+        "teaserAuthor": "Symbolic image / Goran Basic"
+       },
+       "teaserAuthor": "Symbolic image / Goran Basic",
+       "nzzId": "ld.10021912",
+       "readingTime": 120,
+       "paywallQuestionOne": "How is Zurich reacting to the short-term rental of business apartments?",
+       "paywallQuestionTwo": "What measures is the city taking against unauthorized rentals?",
+       "paywallQuestionThree": "How does the Airbnb regulation initiative affect rental policy?",
+       "characterCount": 3122,
+       "product": "NZZ.ch",
+       "documentId": 10021912,
+       "layout": "regular",
+       "publicationDate": "2026-09-02T03:05:00.000Z",
+       "publicationLastUpdated": "2026-09-02T05:35:09.802Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-09-02T15:05:00.000Z",
+       "teaserCaption": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+       "authorLine": "Francesca Prader",
+       "authorImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 464,
+       "leadText": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Red-Green wants to force private property owners to build affordable housing: Social Democrats make strange retreat in city parliament",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1024&quality=75&auto=webp",
+   "width": 7310,
+   "height": 5479,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7310,4112,x0,y684"
+    },
+    {
+     "name": "4:3",
+     "crop": "7305,5479,x2,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "5479,5479,x916,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "4109,5479,x1600,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7310,4873,x0,y303"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+   "teaserAuthor": "Christian Beutler / Keystone"
+  },
+  "teaserAuthor": "Christian Beutler / Keystone",
+  "nzzId": "ld.10021916",
+  "readingTime": 240,
+  "characterCount": 4706,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021916,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T20:01:58.727Z",
+  "publicationDate": "2026-09-02T20:01:58.727Z",
+  "publicationLastUpdated": "2026-09-02T23:51:07.927Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T08:01:58.727Z",
+  "teaserCaption": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+  "nzzAuthors": [
+   {
+    "id": 1373270,
+    "name": "Michael von Ledebur",
+    "shortName": "mvl",
+    "pianoId": "06846a86-7257-4b2e-bf38-6279fd141157",
+    "external": false
+   }
+  ],
+  "authorLine": "Michael von Ledebur",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1390700,
+    "name": "Michael von Ledebur (mvl.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 749,
+  "leadText": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+  "nzzSummaryEN": "- The left-green coalition in Zurich seeks to compel private property owners to build affordable housing but faces opposition from conservative groups.\n- Due to personnel vacancies and tactical debates, the Social Democrats and Greens initially maneuvered their proposal out of a city council vote but surprisingly withdrew it altogether.\n- Conservatives expect the Social Democrats to resubmit the proposal in a modified form at a later date.",
+  "nzzSummaryDE": "- The red-green coalition plans to require private property owners in Zurich to build affordable housing, but is encountering resistance from the bourgeois side.\n - Due to personnel vacancies and tactical debates, the SP and the Greens initially maneuvered their motion out of the vote in the city parliament, but then surprisingly withdrew it completely.\n - Conservatives expect the SP to resubmit the proposal later in a modified form.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The SP and its strange reversal on the issue of affordable housing ",
+  "nzzPrintSubtitle": "Because vacancies weaken the red-green coalition, the city's largest party suffers a tactical defeat in the council.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+   "title": "Affordable apartments in the city of Zurich: The left-wing coalition makes a strange retreat",
+   "socialMediaTitle": "Affordable apartments in the city of Zurich: The left-wing coalition makes a strange retreat",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7310,4112,x0,y684&wmark=nzz"
+  },
+  "ldPublicationId": 2487965,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "SP",
+    "slug": "/themen/sp"
+   },
+   {
+    "name": "FDP Switzerland",
+    "slug": "/themen/fdp-schweiz"
+   },
+   {
+    "name": "GLP",
+    "slug": "/themen/glp"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021912"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 304824,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "sp",
+   "name": "SP",
+   "tagName": "SP",
+   "qId": "Q303745",
+   "seoTitle": "SP – All news and articles about the Social Democratic Party",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 15:32:32.281Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/sp",
+   "size": 780,
+   "relatedTopics": [
+    {
+     "name": "FDP Schweiz",
+     "slug": "/themen/fdp-schweiz"
+    },
+    {
+     "name": "GLP",
+     "slug": "/themen/glp"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "A city on a buying spree: Zurich has spent 1.3 billion francs on real estate within four years – the Social Democratic Party (SP) and the Free Democratic Party (FDP) are calling for a change of thinking",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/e7d9b982-b20e-4782-84b7-0c896d9fad93.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/e7d9b982-b20e-4782-84b7-0c896d9fad93.jpg?width=1024&quality=75&auto=webp",
+     "width": 5364,
+     "height": 3576,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5364,3017,x0,y559"
+      },
+      {
+       "name": "4:3",
+       "crop": "4768,3576,x596,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3251,3250,x819,y326"
+      },
+      {
+       "name": "3:4",
+       "crop": "2438,3250,x1298,y326"
+      },
+      {
+       "name": "3:2",
+       "crop": "5364,3576,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+     "teaserAuthor": "Claudio Thoma / Keystone"
+    },
+    "teaserAuthor": "Claudio Thoma / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10021257",
+    "readingTime": 660,
+    "paywallQuestionOne": "How does Zurich's real estate strategy affect the city's finances?",
+    "paywallQuestionTwo": "Why does the potential of acquired properties often remain unrealized?",
+    "paywallQuestionThree": "What challenges arise from the follow-up costs of real estate purchases?",
+    "characterCount": 14967,
+    "product": "NZZ.ch",
+    "documentId": "10021257",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T08:30:25.167Z",
+    "publicationLastUpdated": "2026-08-31T08:14:02.744Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T20:30:25.167Z",
+    "teaserCaption": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+    "authorLine": "Francesca Prader",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/milliardenausgaben-fuer-immobilien-bericht-zeigt-den-zuercher-kaufrausch-ld.10021257",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2138,
+    "leadText": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Zurich FDP loses its last district school board presidency. Përparim Avdili says: «My incomprehension of the GLP could hardly be greater.»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/913d70f5-fb23-4e20-9eb7-0d0a9d36d715.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/913d70f5-fb23-4e20-9eb7-0d0a9d36d715.jpg?width=1024&quality=75&auto=webp",
+     "width": 3888,
+     "height": 2592,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3888,2187,x0,y141"
+      },
+      {
+       "name": "4:3",
+       "crop": "3456,2592,x432,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2356,2356,x191,y51"
+      },
+      {
+       "name": "3:4",
+       "crop": "1944,2592,x1944,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3888,2592,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+     "teaserAuthor": "Karin Hofer / NZZ"
+    },
+    "teaserAuthor": "Karin Hofer / NZZ",
+    "editor": "1371941",
+    "nzzId": "ld.10020746",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is the FDP losing its last district school board presidency to the SP?",
+    "paywallQuestionTwo": "What role did the GLP play in the election of the district school president?",
+    "paywallQuestionThree": "How is the administration of Zurich's schools criticized and reformed?",
+    "characterCount": 5113,
+    "product": "NZZ.ch",
+    "documentId": "10020746",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T03:06:00.000Z",
+    "publicationLastUpdated": "2026-08-25T03:06:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-25T15:06:00.000Z",
+    "teaserCaption": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+    "authorLine": "Andrea Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/fdp-zuerich-verliert-letztes-kreisschulpraesidium-an-sp-ld.10020746",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 774,
+    "leadText": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "News from Zurich: The new sports center in Witikon also costs over 100 million Swiss francs",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "NZZ Editorial Team Zurich",
+    "flag": "Short news items",
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/a8e34387-ede8-4617-8db9-25418fc29146.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/a8e34387-ede8-4617-8db9-25418fc29146.jpg?width=1024&quality=75&auto=webp",
+     "width": 1787,
+     "height": 1191,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1787,1005,x0,y186"
+      },
+      {
+       "name": "4:3",
+       "crop": "1588,1191,x101,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1191,1191,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "893,1191,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1787,1191,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Latest news from the canton",
+     "teaserAuthor": "Visualization by Filippo Bolognese Images"
+    },
+    "teaserAuthor": "Visualization by Filippo Bolognese Images",
+    "nzzId": "ld.10012099",
+    "readingTime": 4080,
+    "paywallQuestionOne": "Why was the Töss relay race in Winterthur cancelled?",
+    "paywallQuestionTwo": "What role did the BAG's heat warning play in the cancellation?",
+    "paywallQuestionThree": "What measures is the organizing committee planning for future events?",
+    "characterCount": 94378,
+    "product": "NZZ.ch",
+    "documentId": "10012099",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T14:59:12.846Z",
+    "publicationLastUpdated": "2026-09-03T08:21:56.463Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-25T02:59:12.846Z",
+    "teaserCaption": "Latest news from the canton",
+    "url": "https://www.nzz.ch/zuerich/news-aus-zuerich-hardturm-war-wohl-einst-teil-einer-burg-ld.10012099",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 13524,
+    "leadText": "Latest news from the canton",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The city of Zurich is to get a baby hatch – the FDP, SP and AL are joining forces for a controversial idea",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/afb46ec2-0316-44b8-8548-748b2ec8d4ae.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/afb46ec2-0316-44b8-8548-748b2ec8d4ae.jpg?width=1024&quality=75&auto=webp",
+     "width": 4368,
+     "height": 2912,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4368,2457,x0,y291"
+      },
+      {
+       "name": "4:3",
+       "crop": "3883,2912,x309,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2912,2912,x714,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2184,2912,x1035,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3971,2647,x206,y132"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+     "teaserAuthor": "Peter Schneider / Keystone"
+    },
+    "teaserAuthor": "Peter Schneider / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10020341",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why should Zurich get a baby hatch?",
+    "paywallQuestionTwo": "How could baby hatches save lives?",
+    "paywallQuestionThree": "What political controversies surround baby hatches?",
+    "characterCount": 6180,
+    "product": "NZZ.ch",
+    "documentId": "10020341",
+    "layout": "regular",
+    "publicationDate": "2026-08-22T03:02:00.000Z",
+    "publicationLastUpdated": "2026-08-22T03:02:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T15:02:00.000Z",
+    "teaserCaption": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+    "authorLine": "Francesca Prader",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/ein-ungewoehnliches-trio-setzt-sich-fuer-eine-babyfenster-in-der-stadt-zuerich-ein-ld.10020341",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 940,
+    "leadText": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Switzerland: SVP Mobilizes Against EU Treaties",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Short news items",
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/6281bfce-732e-44f9-8698-4682111aa167.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/6281bfce-732e-44f9-8698-4682111aa167.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Simon Tanner / NZZ",
+    "nzzId": "ld.10010833",
+    "readingTime": 1560,
+    "paywallQuestionOne": "Why did the Council of States approve the financing model for the 13th AHV pension payment?",
+    "paywallQuestionTwo": "How should wage contributions and value added tax contribute to financing?",
+    "paywallQuestionThree": "What are the annual costs of the 13th AHV pension payment?",
+    "characterCount": 36269,
+    "product": "NZZ.ch",
+    "documentId": "10010833",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T06:54:00.916Z",
+    "publicationLastUpdated": "2026-08-22T11:33:12.537Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-20T18:54:00.916Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10010833",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 5148,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "No Committee on Neutrality Initiative Is Almost as Broad in Content as in Personnel",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/17/11c5128a-59c9-46ae-a73e-d1602629f275.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/17/11c5128a-59c9-46ae-a73e-d1602629f275.jpg?width=1024&quality=75&auto=webp",
+     "width": 7788,
+     "height": 5193,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7788,4381,x0,y406"
+      },
+      {
+       "name": "4:3",
+       "crop": "6924,5193,x432,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5193,5193,x1298,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3895,5193,x1947,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7788,5192,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Conservative security policy experts fear for Switzerland's defense capabilities, while left-wing foreign policy experts want to continue imposing sanctions in accordance with international law. In this referendum campaign, they are trying to reconcile these opposing views.",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10019806",
+    "readingTime": 300,
+    "paywallQuestionOne": "How would the neutrality initiative restrict Swiss foreign policy?",
+    "paywallQuestionTwo": "Why do opponents criticize the initiative as a «rigid neutrality corset»?",
+    "paywallQuestionThree": "What security policy risks do critics of the neutrality initiative see?",
+    "characterCount": 6968,
+    "tags": [
+     "Abstimmung Neutralitätsinitiative"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019806",
+    "layout": "regular",
+    "publicationDate": "2026-08-17T16:04:59.295Z",
+    "publicationLastUpdated": "2026-08-24T08:39:30.510Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-18T04:04:59.295Z",
+    "teaserCaption": "Conservative security policy experts fear for Switzerland's defense capabilities, while left-wing foreign policy experts want to continue imposing sanctions in accordance with international law. In this referendum campaign, they are trying to reconcile these opposing views.",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/das-nein-komitee-zur-neutralitaetsinitiative-ist-fast-so-breit-wie-seine-interessen-ld.10019806",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 981,
+    "leadText": "Conservative security policy experts fear for Switzerland's defense capabilities, while left-wing foreign policy experts want to continue imposing sanctions in accordance with international law. In this referendum campaign, they are trying to reconcile these opposing views.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021916",
+    "name": "Red-Green wants to force private property owners to build affordable housing: Social Democrats make strange retreat in city parliament",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Red-Green wants to force private property owners to build affordable housing: Social Democrats make strange retreat in city parliament",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373270,
+       "name": "Michael von Ledebur",
+       "shortName": "mvl",
+       "pianoId": "06846a86-7257-4b2e-bf38-6279fd141157",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T20:01:58.727Z",
+     "updateTimestamp": "2026-09-02T23:51:07.927Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021916",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Affordable apartments in the city of Zurich: The left-wing coalition makes a strange retreat",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7310,4112,x0,y684&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Michael von Ledebur",
+  "description": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+  "news_keywords": "The left-wing coalition wants to force private property owners to build affordable housing. But in the city parliament, the Social Democrats are making a strange about-face. (Zurich, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-09-03T03:51:07+02:00",
+  "date": "2026-09-03T00:01:58+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Red-Green wants to force private property owners to build affordable housing: Social Democrats make strange retreat in city parliament",
+  "ogTitle": "Affordable apartments in the city of Zurich: The left-wing coalition makes a strange retreat",
+  "ogUrl": "https://www.nzz.ch/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+  "mrf:cms_id": "nzz:ld.10021916",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021916",
+  "nzzAuthors": [
+   {
+    "id": 1373270,
+    "name": "Michael von Ledebur",
+    "shortName": "mvl",
+    "pianoId": "06846a86-7257-4b2e-bf38-6279fd141157",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:24 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Affordable apartments in the city of Zurich: The left-wing coalition makes a strange retreat"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916"
+   },
+   "headline": "Affordable apartments in the city of Zurich: The left-wing coalition makes a strange retreat",
+   "datePublished": "2026-09-03T00:01:58+02:00",
+   "dateModified": "2026-09-03T03:51:07+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7310,4112,x0,y684&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Michael von Ledebur"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 304824,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021916",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-09-02T20:01:58.727Z",
+   "ContentAuthor": "Michael von Ledebur",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum zog die SP ihren Vorstoss zur Wohnbau-Motion überraschend zurück?\nWie beeinflussen Vakanzen die Machtverhältnisse im Zürcher Stadtparlament?\nWird die SP den Wohnbauvorstoss in veränderter Form erneut einreichen?",
+   "ldId": "ld.10021916",
+   "channel": "Zürich",
+   "heading": "Rot-Grün will private Immobilienbesitzer zum Bau von günstigen Wohnungen zwingen. Doch im Stadtparlament macht die SP einen seltsamen Rückzieher",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

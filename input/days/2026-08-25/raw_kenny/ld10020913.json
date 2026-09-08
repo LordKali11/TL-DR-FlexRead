@@ -1,0 +1,828 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0s0744v1",
+   "content": {
+    "title": "A man rages in a cocaine frenzy at the «Baur au Lac» and «Storchen» hotels – and causes 167,000 Swiss francs in damage",
+    "lead": "Luxury hotel rooms booked by electrician, claims of persecution delusion",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0s0744v2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Michael von Ledebur",
+       "url": "/impressum/michael-von-ledebur-ld.1390700",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0s074500",
+   "content": {
+    "image": {
+     "author": "Karin Hofer / NZZ",
+     "caption": "Hotel room at the «Baur au Lac»: Not much was left of the furnishings after the excess.",
+     "originalUrl": "/2026/08/25/022f0726-305c-4310-b8ac-dfd5dfa2e9c5.jpg?crop=4929,3286,x0,y0",
+     "width": 4929,
+     "height": 3286,
+     "altText": "Baur au Lac, bed hotel room (Image: Karin Hofer / NZZ)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2073213320"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4929,
+      "height": 3286,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4929,
+       "height": 3286,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Hotel room at the «Baur au Lac»: Not much was left of the furnishings after the excess.",
+    "author": "Karin Hofer / NZZ"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8g0",
+   "content": {
+    "text": "The «Baur au Lac» hotel is 182 years old, once built as Zurich’s first luxury hotel offering lake access. Throughout its history, it hosted a wide variety of guests. Empress Elisabeth of Austria, known as Sisi, resided here, as did pop star Elton John. Rarely, however, would hotel staff have encountered such a scene after a guest’s departure as they did on Oct. 20, 2024, in Room 310."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-5d93aaf4",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8j0",
+   "content": {
+    "text": "The curtains were torn down. Broken paintings lay on the floor. The carpet was destroyed, the wallpaper scratched and dented, and the television screen ripped off. The minibar furniture, the stool in the bathroom, and the floor and table lamps were smashed. Furnishings, thrown haphazardly, piled up in the bathtub."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8k0",
+   "content": {
+    "text": "The culprit was quickly identified, as he had properly checked in a week earlier: a then 32-year-old man from canton Aargau. He later stated that he had acted in a cocaine frenzy."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0sc55bc0",
+   "content": {
+    "title": "Flying crockery in a luxury hotel",
+    "id": "subtitle-fliegendes-geschirr-im-luxushotel"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8k1",
+   "content": {
+    "text": "Hotels regularly have problems with undesirable guests. Such matters are usually settled out of court by establishments keen on discretion. However, it became known, for example, that former Raiffeisen CEO Pierin Vincenz caused 3,700 Swiss francs in damage in a suite at the «Park Hyatt» in Zurich and wrote off the bill as expenses."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scjeqq1",
+   "content": {
+    "text": "Or the case of a 58-year-old <a href=\"https://xn--ein%20wohlhabender%20ukrainer%20randaliert%20im%20speisesaal%20eines%20zrcher%20fnf-sterne-hotels-j8jj.%20das%20kommt%20ihn%20teuer%20zu%20stehen\">Ukrainian</a> who threw crockery around in the dining room of a Zurich five-star hotel, causing 12,000 francs in damage, apparently out of anger that he had to wait too long for his food."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbpdco1",
+   "content": {
+    "text": "The property damage in the present case, however, is on a completely different scale: here, the total damage amounts to no less than 167,000 francs."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8l0",
+   "content": {
+    "text": "The man, who stands before the District Court of Zurich on Tuesday, has little in common with the image of the uninhibited party animal from the jeunesse dorée commonly associated with cocaine users. He wears sneakers and a T-shirt, is unkempt, with a scraggly beard. His parents accompany him."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8l1",
+   "content": {
+    "text": "The 34-year-old still lives at home, is employed in a work integration program, and has applied for support from disability insurance. He presents the excessive property damage entirely differently from a drug-fueled orgy: He claims it was the result of psychological problems."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scsb5f1",
+   "content": {
+    "text": "He says in court: «Yes, I destroyed the hotel rooms. But I heard voices and felt persecuted by the television.» The judge asks what he did the day after. «I changed hotels,» the man replies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbs6cj1",
+   "content": {
+    "text": "And indeed: just one day after the incident at the «Baur au Lac,» he caused similar devastation at the «Storchen» hotel, another traditional luxury hotel less than a kilometer away in the Old Town. Here, he ripped ceiling lights from their sockets, threw glass bottles against televisions and room walls, and scratched the wallpaper. In the hotel’s entrance area, he knocked over a large flower vase."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8m1",
+   "content": {
+    "text": "He says he is sorry, the man states at the trial. His defense counsel puts it in a broad Aargau dialect: «He made more than just a blunder.» But he argues that the man should be credited for admitting himself to a psychiatric clinic some time after the incidents at the hotels. He has been undergoing treatment ever since."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbsvmd1",
+   "content": {
+    "text": "Within this framework, it is also being checked whether he is truly drug-free – and this is the case, his counsel states. The man himself says he had never heard voices before. He sees the delusions as a consequence of his cocaine use."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8n0",
+   "content": {
+    "text": "The lawyer’s problem is that his client did not undergo a forensic examination. He says this is not customary for property damage. Although specialists diagnosed the man with a schizophrenic illness, such a diagnosis does not carry the same weight as an expert opinion. Nevertheless, the lawyer demands an acquittal, arguing that his client was not criminally responsible at the time of the offense."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8o0",
+   "content": {
+    "text": "The court, however, does not agree, sentencing the man to a suspended monetary penalty of 4,500 francs and a fine of 200 francs for the property damage, as well as for drug possession. He was, after all, able to check into another hotel after the first excessive night without being noticed, the sole judge says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8o1",
+   "content": {
+    "text": "Nevertheless, the court fundamentally believes the accused – and reduces the sentence accordingly. If someone had «committed these acts willfully and with joy,» the sentence would have been set at 1.5 years in prison, the sole judge said. So, it remained a monetary penalty."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0sc6l4c0",
+   "content": {
+    "title": "Hotels' claims for lost revenue",
+    "id": "subtitle-hotels-pochen-auf-entgangene-einnahmen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8p0",
+   "content": {
+    "text": "The reduced culpability attributed to him could also benefit the man regarding the civil proceedings that await him. Both hotels and their insurance companies have made claims. His lawyer criticized at the trial that the two hotels had not specified the damages precisely enough. However, his client is aware that «something will stick to him,» he added."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8p1",
+   "content": {
+    "text": "The pure property damage amounts to 75,500 francs. However, the majority of the total sum of 167,000 francs consists of the 91,500 francs that the hotels are claiming for lost profits. This is because they had to renovate the hotel rooms for weeks, the hotels say."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sbmn8p2",
+   "content": {
+    "text": "These details also show the price range of the rooms the man had chosen: 900 and 980 francs per night, respectively. It remains unclear at the hearing whether he at least paid for the overnight stays, and what prompted the man, an electrician, to stay in Zurich’s luxury hotels for over a week in the first place."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0s074502",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0s074503",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s074504",
+      "content": {
+       "owner": "NZZ",
+       "title": "A wealthy Ukrainian man went on a rampage in the dining room of a five-star hotel in Zurich. It proved to be very costly for him",
+       "teaserImage": {
+        "originalUrl": "/2025/08/11/460cf7bb-dfc8-47e7-98ce-dfb9d6fe12c0.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/08/11/460cf7bb-dfc8-47e7-98ce-dfb9d6fe12c0.jpg?width=1024&quality=75&auto=webp",
+        "width": 4550,
+        "height": 3034,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4550,2559,x0,y205"
+         },
+         {
+          "name": "1:1",
+          "crop": "2697,2697,x1123,y195"
+         },
+         {
+          "name": "4:3",
+          "crop": "4045,3034,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2276,3034,x1255,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4550,3033,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The 58-year-old threw dishes around and shouted because he had to wait too long for his food.",
+        "teaserAuthor": "Getty"
+       },
+       "teaserAuthor": "Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1895480",
+       "readingTime": 180,
+       "authorLine": "Tom Felber",
+       "characterCount": 3443,
+       "product": "NZZ.ch",
+       "documentId": 1895480,
+       "layout": "regular",
+       "publicationDate": "2025-09-22T14:18:00.000Z",
+       "publicationLastUpdated": "2025-09-22T14:18:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-09-23T02:18:00.000Z",
+       "teaserCaption": "The 58-year-old threw dishes around and shouted because he had to wait too long for his food.",
+       "url": "/zuerich/ukrainer-rastet-in-zuercher-luxushotel-aus-und-richtet-grossen-schaden-an-ld.1895480",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 566,
+       "leadText": "The 58-year-old threw dishes around and shouted because he had to wait too long for his food.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0s074505",
+      "content": {
+       "owner": "NZZ",
+       "title": "Not paying at a restaurant can be expensive – as the case of a German woman with 43 prior convictions shows",
+       "teaserImage": {
+        "originalUrl": "/2021/9/7/fe1b7699-70c8-4452-ac53-717526265c84.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/9/7/fe1b7699-70c8-4452-ac53-717526265c84.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5568,3132,x0,y580"
+         },
+         {
+          "name": "1:1",
+          "crop": "2317,2317,x1767,y760"
+         },
+         {
+          "name": "4:3",
+          "crop": "3910,2932,x986,y780"
+         },
+         {
+          "name": "3:4",
+          "crop": "1955,2607,x1776,y905"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Payment practices in Switzerland are good. But sometimes restaurant owners experience the most adventurous stories.",
+        "teaserAuthor": "Annick Ramp / NZZ"
+       },
+       "teaserAuthor": "Annick Ramp / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1868834",
+       "readingTime": 300,
+       "authorLine": "Oliver Camenzind",
+       "characterCount": 7141,
+       "product": "NZZ.ch",
+       "documentId": 1868834,
+       "layout": "regular",
+       "publicationDate": "2025-03-06T04:15:00.000Z",
+       "publicationLastUpdated": "2025-03-06T04:15:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-03-06T16:15:00.000Z",
+       "teaserCaption": "Payment practices in Switzerland are good. But sometimes restaurant owners experience the most adventurous stories.",
+       "url": "/zuerich/im-restaurant-nicht-zu-zahlen-kann-teuer-werden-wie-der-fall-einer-43-fach-vorbestraften-deutschen-zeigt-ld.1868834",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1062,
+       "leadText": "Payment practices in Switzerland are good. But sometimes restaurant owners experience the most adventurous stories."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "A man rages in a cocaine frenzy at the «Baur au Lac» and «Storchen» hotels – and causes 167,000 Swiss francs in damage",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/022f0726-305c-4310-b8ac-dfd5dfa2e9c5.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/022f0726-305c-4310-b8ac-dfd5dfa2e9c5.jpg?width=1024&quality=75&auto=webp",
+   "width": 4929,
+   "height": 3286,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4929,2773,x0,y513"
+    },
+    {
+     "name": "4:3",
+     "crop": "4381,3286,x274,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3286,3286,x822,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2465,3286,x1232,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4929,3286,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Luxury hotel rooms booked by electrician, claims of persecution delusion",
+   "teaserAuthor": "Karin Hofer / NZZ"
+  },
+  "teaserAuthor": "Karin Hofer / NZZ",
+  "nzzId": "ld.10020913",
+  "readingTime": 240,
+  "characterCount": 5691,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020913,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T14:00:00.000Z",
+  "publicationDate": "2026-08-25T14:00:00.000Z",
+  "publicationLastUpdated": "2026-08-25T15:14:03.513Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T02:00:00.000Z",
+  "teaserCaption": "Luxury hotel rooms booked by electrician, claims of persecution delusion",
+  "nzzAuthors": [
+   {
+    "id": 1373270,
+    "name": "Michael von Ledebur",
+    "shortName": "mvl",
+    "pianoId": "06846a86-7257-4b2e-bf38-6279fd141157",
+    "external": false
+   }
+  ],
+  "authorLine": "Michael von Ledebur",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1390700,
+    "name": "Michael von Ledebur (mvl.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 889,
+  "leadText": "Luxury hotel rooms booked by electrician, claims of persecution delusion",
+  "nzzSummaryEN": "- A man under the influence of cocaine destroyed rooms in two Zurich luxury hotels in 2024, causing damages of 167,000 Swiss francs.\n- The man cited mental health issues and hallucinations as reasons for his actions but was still convicted.\n- Both hotels are also seeking compensation for lost revenue due to renovations in addition to property damage.",
+  "nzzSummaryDE": "- A man under the influence of cocaine destroyed 2024 rooms in two Zurich luxury hotels, causing damage amounting to 167,000 Swiss francs.\n - The man explained his behavior with mental problems and delusions, but was nevertheless convicted.\n - Both hotels are demanding compensation for lost revenue due to renovations, in addition to compensation for property damage.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Cocaine rush in a luxury hotel",
+  "nzzPrintSubtitle": "A man vandalizes two rooms in Zurich hotels, causing more than 150,000 Swiss francs in damage",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913",
+   "title": "Man vandalizes rooms in Zurich luxury hotels – damage exceeds 150,000 Swiss francs",
+   "socialMediaTitle": "Under the influence of cocaine, a man trashed two luxury rooms at the Baur au Lac and the Storchen hotels in Zurich. The damage amounts to over 150,000 Swiss francs",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/022f0726-305c-4310-b8ac-dfd5dfa2e9c5.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4929,2773,x0,y513&wmark=nzz"
+  },
+  "ldPublicationId": 2483559,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1895480",
+    "ld.1868834"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 374856,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020913",
+    "name": "A man rages in a cocaine frenzy at the «Baur au Lac» and «Storchen» hotels – and causes 167,000 Swiss francs in damage",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "A man rages in a cocaine frenzy at the «Baur au Lac» and «Storchen» hotels – and causes 167,000 Swiss francs in damage",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373270,
+       "name": "Michael von Ledebur",
+       "shortName": "mvl",
+       "pianoId": "06846a86-7257-4b2e-bf38-6279fd141157",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T14:00:00.000Z",
+     "updateTimestamp": "2026-08-25T15:14:03.513Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020913",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Man vandalizes rooms in Zurich luxury hotels – damage exceeds 150,000 Swiss francs",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/022f0726-305c-4310-b8ac-dfd5dfa2e9c5.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4929,2773,x0,y513&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Michael von Ledebur",
+  "description": "Luxury hotel rooms booked by electrician, claims of persecution delusion",
+  "news_keywords": "A man, high on cocaine, went on a rampage at the «Baur au Lac» and the «Storchen» hotel – causing 167,000 Swiss francs in damage. (Zurich, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T19:14:03+02:00",
+  "date": "2026-08-25T18:00:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "A man rages in a cocaine frenzy at the «Baur au Lac» and «Storchen» hotels – and causes 167,000 Swiss francs in damage",
+  "ogTitle": "Under the influence of cocaine, a man trashed two luxury rooms at the Baur au Lac and the Storchen hotels in Zurich. The damage amounts to over 150,000 Swiss francs",
+  "ogUrl": "https://www.nzz.ch/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913",
+  "mrf:cms_id": "nzz:ld.10020913",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020913",
+  "nzzAuthors": [
+   {
+    "id": 1373270,
+    "name": "Michael von Ledebur",
+    "shortName": "mvl",
+    "pianoId": "06846a86-7257-4b2e-bf38-6279fd141157",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:48 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Man vandalizes rooms in Zurich luxury hotels – damage exceeds 150,000 Swiss francs"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913"
+   },
+   "headline": "Man vandalizes rooms in Zurich luxury hotels – damage exceeds 150,000 Swiss francs",
+   "datePublished": "2026-08-25T18:00:00+02:00",
+   "dateModified": "2026-08-25T19:14:03+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Luxury hotel rooms booked by electrician, claims of persecution delusion",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/022f0726-305c-4310-b8ac-dfd5dfa2e9c5.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4929,2773,x0,y513&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Michael von Ledebur"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 374856,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/mann-verwuestet-zimmer-in-zuercher-luxushotels-mehr-als-150-000-franken-schaden-ld.10020913",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020913",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-08-25T14:00:00.000Z",
+   "ContentAuthor": "Michael von Ledebur",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie rechtfertigt der Mann seine Taten vor Gericht?\nWelche Rolle spielt der Kokainkonsum bei den Vorfällen?\nWie reagierten die Hotels auf die Sachbeschädigungen?",
+   "ldId": "ld.10020913",
+   "channel": "Zürich",
+   "heading": "Ein Mann wütet im Kokainrausch im «Baur au Lac» und im Hotel «Storchen» – und richtet einen Schaden von 167 000 Franken an",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

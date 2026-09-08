@@ -1,0 +1,1222 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0sn38l91",
+   "content": {
+    "title": "Tuesday Evening Briefing",
+    "lead": "<strong>This evening's most important news:</strong> Iran reacts calmly to new US sanctions – Israel's attack in Syria escalates conflict with Turkey – How the shock of 9/11 makes flying safer",
+    "author": ""
+   },
+   "position": "fixed",
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc27ihc7",
+   "content": {
+    "text": "<strong>You can only read this in the NZZ:</strong> In Poland, the war in neighboring Russia is part of everyday life. The Polish government says Warsaw is systematically preparing its civilian population for an emergency, stating that the entire society should be able to defy the threat from Russia. A new study by an Eastern Europe expert recommends that Switzerland learn from this approach, arguing that it, too, is threatened by the Kremlin's hybrid warfare. <a href=\"https://www.nzz.ch/ld.10020371\">To the «NZZ Pro» background article</a>"
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-742f6ad7",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2a8b40",
+   "content": {
+    "title": "This Evening's Most Important News",
+    "id": "subtitle-das-wichtigste-am-abend"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2ahhg0",
+   "content": {
+    "title": "Washington's increased pressure – Tehran unimpressed",
+    "id": "subtitle-washington-erh-ht-den-druck-teheran-gibt-sich-unbeeindruckt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ju7oe7vi0",
+   "content": {
+    "image": {
+     "author": "Majid Asgaripour / Reuters",
+     "caption": "",
+     "originalUrl": "/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1024",
+     "width": 2048,
+     "height": 1365,
+     "altText": "An Iranian woman walks in a local market as the value of the Iranian rial drops, in Tehran, Iran, December 20, 2025. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS ATTENTION EDITORS - THIS PICTURE WAS PROVIDED BY A THIRD PARTY",
+     "imageService": "fastly"
+    },
+    "author": "Majid Asgaripour / Reuters",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2ap7v0",
+   "content": {
+    "text": "<strong>What happened:</strong> The U.S. is intensifying economic pressure on Iran and also threatening its trading partners with sanctions. Tehran remains undeterred and, for its part, threatens to restrict oil flow in the Persian Gulf. Washington faces a dilemma: Iran is difficult to isolate as long as China, as the most important buyer of Iranian oil, remains on its side. Beijing signals that it will not be deterred from trading with Iran by U.S. threats. <a href=\"https://www.nzz.ch/ld.10020976\">To the analysis</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0slejb80",
+   "content": {
+    "text": "<strong>Why it matters:</strong> If it were up to the U.S. government, all countries were to cut their economic ties with Iran. Last week, American President Donald Trump had spoken of «measures of historical proportions.» However, the steps presented on Monday fell short of this announcement."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2b5jt0",
+   "content": {
+    "text": "<strong>What the expert says:</strong> «Even if sanction pressure is further increased, a short-term change in Tehran's strategic calculus in the war is unlikely,» says Iran expert Ali Fathollah-Nejad. In the medium or long term, however, targeted sanctions against the regime could pave the way for Iran to re-evaluate its strategic calculus and develop a greater willingness for understanding and concessions."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2befn0",
+   "content": {
+    "title": "Israel's bombing of Syria, targeting Turkey",
+    "id": "subtitle-israel-bombardiert-syrien-und-zielt-auf-die-t-rkei"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sio1jl0",
+   "content": {
+    "text": "<strong>What happened:</strong> Israeli fighter jets attacked a military base in the Syrian province of Idlib last week. Damascus spoke of an «act of aggression.» Israeli Prime Minister Benjamin Netanyahu explained his motives that evening. His country and Syria had agreed on a status quo in security matters, according to a report. But in Israel itself, doubts are emerging as to whether the plan will work out. <a href=\"https://www.nzz.ch/ld.10020882\">To the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2braf0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Syria has thus definitively become the scene of the Israeli-Turkish power struggle. This had already been hinted at 10 years ago. At that time, the Turkish army moved into northern Syria. Officially, the operation has since protected the border from Islamist terrorists and Kurdish militias. In Israel, however, this was always also seen as Turkish expansionism."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sjh3js0",
+   "content": {
+    "text": "<strong>Reactions:</strong> In Israel, voices are warning against the weaknesses of the new doctrine, not least with regard to Syria. When Bashar al-Assad's regime collapsed at the end of 2024, Israeli troops advanced on the Golan Heights. They have occupied the strip ever since. Danny Citrinowicz of the Institute for National Security Studies recently wrote that this brought little security, adding that the longer it takes, the more expensive it will become."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2ldtc0",
+   "content": {
+    "title": "What Else Happened",
+    "id": "subtitle-was-sonst-noch-passiert-ist"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "enumeration-regular"
+  },
+  {
+   "identifier": "enumeration-regular",
+   "id": "doc-1jjc2mckq0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sig2hq0",
+      "content": {
+       "text": "<strong>Continued decrease in asylum applications in Switzerland:</strong> The State Secretariat for Migration (SEM) expects significantly fewer asylum seekers this year than originally assumed. The federal government is lowering its forecast from previously about 26,000 to probably about 22,000 applications. <a href=\"https://www.nzz.ch/ld.10020886\">To the short news items</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0skgbfo0",
+      "content": {
+       "text": "<strong>Glacier collapse threat on Weisshorn in Valais municipality of Randa:</strong> The first collapses occurred on Monday. Randa has increased monitoring of the Weisshorn East hanging glacier above the village, and the area has been extensively cordoned off. It is unclear whether the increased danger will continue or subside. <a href=\"https://www.nzz.ch/ld.10020894\">To the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sih26a0",
+      "content": {
+       "text": "<strong>Swiss aircraft emergency landing due to chemical odor:</strong> On Tuesday morning, a flight from Chicago to Zurich over the Atlantic issued a distress call. The aircraft then landed in the Azores. All 222 passengers and the crew were able to exit the aircraft normally. <a href=\"https://www.nzz.ch/ld.10020892\">To the report</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "FXyDtWAE9NAM": {
+          "start": 209,
+          "end": 217,
+          "text": "Terceira"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sih2cd0",
+      "content": {
+       "text": "<strong>Man's rampage in Zurich luxury hotels; 167,000 Swiss francs in damage:</strong> The man, who stood before the Zurich District Court on Tuesday, booked luxury rooms in the «Baur au Lac» and Hotel «Storchen» in October 2024. The then 32-year-old claims to have committed his acts while high on cocaine. <a href=\"https://www.nzz.ch/ld.10020913\">To the report</a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "lmJGiSuLucRW": {
+          "start": 146,
+          "end": 151,
+          "text": "stand"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mckq1",
+      "content": {
+       "text": "<strong>Chip giant Nvidia's impact on nervous stock markets:</strong> For the global economy, Nvidia's financial results are as important as a U.S. central bank interest rate decision. The quarterly figures, which will be published on Wednesday, absolutely must show a positive result, otherwise a market crash threatens. <a href=\"https://www.nzz.ch/ld.10020939\">To the analysis</a><a href=\"https://www.nzz.ch/ld.10020939\"></a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "rojQKuRQXUKC": {
+          "start": 304,
+          "end": 304,
+          "text": "splans"
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0s6qhqe0",
+      "content": {
+       "text": "<strong>Another vehicle without steering wheel or pedals soon on U.S. roads:</strong> Tesla plans to launch its new Cybercabs in Austin this month. They play a key role in CEO Elon Musk's plan to dominate the robotaxi market. <a href=\"https://www.nzz.ch/ld.10020472\">To the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0sk9g480",
+      "content": {
+       "text": "<strong>Basketball player Sophie Cunningham, a sudden star in the culture war:</strong> Athletically, Cunningham is not one of the big figures in the American basketball league. But with her criticism of trans athletes in an interview, she has become a favorite of the MAGA movement – even though no trans woman currently plays in the league. <a href=\"https://www.nzz.ch/ld.10020859\">To the report</a><a href=\"https://www.nzz.ch/ld.10020859\"></a>"
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "ISmbVt28wAZV": {
+          "start": 179,
+          "end": 183,
+          "text": "WNBA"
+         }
+        }
+       }
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2nlqu0",
+   "content": {
+    "title": "Our recommendation for «NZZ Pro» subscribers",
+    "id": "subtitle-unsere-empfehlung-f-r-nzz-pro-abonnenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "enumeration-regular",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jjc2o9ei0",
+   "content": {
+    "image": {
+     "author": "Bob Riha Jr / Getty",
+     "caption": "",
+     "originalUrl": "/2026/08/25/d3192a8d-e83a-4678-b8ec-85b2bf261a8c.webp?width=1024",
+     "width": 1200,
+     "height": 880,
+     "imageService": "fastly"
+    },
+    "author": "Bob Riha Jr / Getty",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2okv20",
+   "content": {
+    "text": "<strong>Aviation security:</strong> Since the terrorist attack of Sept. 11, 2001, in the U.S., much has changed regarding aviation security. The term stands for the prevention of interventions in air traffic. Since then, further attacks with aircraft have been prevented. The question, however, is whether this success will last. <a href=\"https://www.nzz.ch/ld.10019389\">To the background article</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1jjc2pk0h0",
+   "content": {
+    "text": "With the premium newsletter «NZZ Pro,» you get a look ahead at the global economy and geopolitics. Test it free for 30 days now. <a href=\"http://abo.nzz.ch/newsletter/pro\">Register here</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2qi8q0",
+   "content": {
+    "title": "Our Recommendations Today",
+    "id": "subtitle-das-empfehlen-wir-heute"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jjc2qrde0",
+   "content": {
+    "image": {
+     "author": "Sammy Kogan / AP",
+     "caption": "",
+     "originalUrl": "/2026/08/25/2335615b-a563-401d-8345-e691b0ceaa2e.webp?width=1024",
+     "width": 1200,
+     "height": 800,
+     "imageService": "fastly"
+    },
+    "author": "Sammy Kogan / AP",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2r0390",
+   "content": {
+    "text": "<strong>Trade dispute with the U.S.:</strong> Since Mark Carney took office as head of government in March 2025, he has invoked Canadian sovereignty like a mantra. Carney seems prepared for the arduous conflict with Trump – however, it remains unclear how long the Canadian population is willing to bear the economic burdens for it. <a href=\"https://www.nzz.ch/ld.10020798\">To the background article</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sgghr80",
+   "content": {
+    "text": "<strong>Frequent stomach aches:</strong> «When in doubt, operate to remove the appendix,» that's what they used to say. But today, it is much easier to determine whether the appendix is actually inflamed. Fortunately, because in children, indeterminate abdominal pain can also have completely different causes. And not infrequently, the pain originates more in the head than in the stomach. <a href=\"https://www.nzz.ch/ld.10014468\">To the column «The main thing is health»</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2rng90",
+   "content": {
+    "title": "Before You Go On",
+    "id": "subtitle-bevor-sie-weitergehen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2s2t20",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Ukraine handles a significant part of its exports through the ports near Odesa. Now Russia is intensifying its attacks on the region. A decisive battle for Ukraine's economic survival is being fought far from the front. Foreign editor Jonas Roth was on site and describes in «NZZ Akzent» how the city is trying to defend itself against Russia. <a href=\"https://www.nzz.ch/ld.10020514\">To the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2sab20",
+   "content": {
+    "text": "<strong>🎶 Experience:</strong> This year's Lucerne Festival features maximum contrasts. Three concerts with different works push the boundaries of both volume and silence at the KKL Luzern. A tightrope walk that makes one hear the monumental «Alpine Symphony» differently, in particular. The festival runs until Sept. 13. <a href=\"https://www.nzz.ch/ld.10020769\">To the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2skk80",
+   "content": {
+    "text": "I wished you a relaxing Tuesday evening.<br>Lillybelle Eisele"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k0sn38ld0",
+   "content": {
+    "text": "The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Iran reacts calmly to the announcement of new US sanctions",
+  "dependencies": {},
+  "nzzId": "ld.10021009",
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1024&quality=75&auto=webp",
+   "width": 2048,
+   "height": 1365,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2048,1152,x0,y107"
+    },
+    {
+     "name": "4:3",
+     "crop": "1820,1365,x114,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1365,1365,x342,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1024,1365,x512,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2048,1365,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The most important news of the evening: Iran reacts calmly to the announcement of new US sanctions ++ Israel's attack in Syria escalates conflict with Turkey ++ How the shock of 9/11 made flying safer",
+   "teaserAuthor": "Majid Asgaripour / Reuters"
+  },
+  "teaserAuthor": "Majid Asgaripour / Reuters",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 360,
+  "characterCount": 7578,
+  "product": "NZZ.ch",
+  "documentId": 10021009,
+  "contentTypeGroup": "web",
+  "layout": "briefing",
+  "firstPublicationDate": "2026-08-25T15:07:23.603Z",
+  "publicationDate": "2026-08-25T15:07:23.603Z",
+  "publicationLastUpdated": "2026-08-25T15:07:23.603Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T03:07:23.603Z",
+  "teaserCaption": "The most important news of the evening: Iran reacts calmly to the announcement of new US sanctions ++ Israel's attack in Syria escalates conflict with Turkey ++ How the shock of 9/11 made flying safer",
+  "breadcrumbs": [],
+  "url": "/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009",
+  "department": {},
+  "estimationWordCount": 1164,
+  "leadText": "The most important news of the evening: Iran reacts calmly to the announcement of new US sanctions ++ Israel's attack in Syria escalates conflict with Turkey ++ How the shock of 9/11 made flying safer",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009",
+   "title": "Tuesday Evening Briefing",
+   "socialMediaTitle": "Tuesday Evening Briefing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y107&wmark=nzz"
+  },
+  "ldPublicationId": 2483553,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Iran",
+    "slug": "/themen/iran"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Israel",
+    "slug": "/themen/israel"
+   },
+   {
+    "name": "Syria",
+    "slug": "/themen/syrien"
+   },
+   {
+    "name": "Turkey",
+    "slug": "/themen/tuerkei"
+   },
+   {
+    "name": "Donald Trump",
+    "slug": "/themen/donald-trump"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 391392,
+  "colorSchema": "color-schema--briefing",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "iran",
+   "name": "Iran",
+   "tagName": "Iran",
+   "qId": "Q794",
+   "seoTitle": "Iran – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:35:10.644Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/iran",
+   "size": 2771,
+   "relatedTopics": [
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Israel",
+     "slug": "/themen/israel"
+    },
+    {
+     "name": "Syrien",
+     "slug": "/themen/syrien"
+    },
+    {
+     "name": "Türkei",
+     "slug": "/themen/tuerkei"
+    },
+    {
+     "name": "Donald Trump",
+     "slug": "/themen/donald-trump"
+    },
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "How the war in Iran affects prices and the economy in Switzerland",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1927555",
+    "readingTime": 60,
+    "paywallQuestionOne": "How does the Iran war affect energy prices in Switzerland?",
+    "paywallQuestionTwo": "What impact will the conflict have on food prices in this country?",
+    "paywallQuestionThree": "What are the consequences of the Iran war on the Swiss stock market?",
+    "teaserImage": {
+     "originalUrl": "/2026/04/24/5cabb4f1-ce89-4ba6-a416-848d330af613.gif?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/24/5cabb4f1-ce89-4ba6-a416-848d330af613.gif?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 674,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,674,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1200,674,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1200,674,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1200,674,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The war in Iran is also driving up energy prices in Switzerland. With daily updated graphics, we show the developments — and how the conflict affects consumers."
+    },
+    "characterCount": 91,
+    "product": "NZZ.ch",
+    "documentId": "1927555",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:58:32.308Z",
+    "publicationLastUpdated": "2026-09-03T07:58:32.308Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:58:32.308Z",
+    "teaserCaption": "The war in Iran is also driving up energy prices in Switzerland. With daily updated graphics, we show the developments — and how the conflict affects consumers.",
+    "authorLine": "Florian Seliger",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/9549be3a-88e2-411f-91d7-aefb7ae675dd.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/aktuell/iran-krieg-entwicklung-von-oel-und-benzinpreisen-in-der-schweiz-ld.1927555",
+    "department": {
+     "name": "Current",
+     "path": "/visuals/aktuell"
+    },
+    "estimationWordCount": 55,
+    "leadText": "The war in Iran is also driving up energy prices in Switzerland. With daily updated graphics, we show the developments — and how the conflict affects consumers.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "«Tanker for Tanker»: Trump escalates further in the Strait of Hormuz",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y306"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x427,y62"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x536,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2273,3030,x487,y185"
+      },
+      {
+       "name": "3:2",
+       "crop": "4999,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+     "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters"
+    },
+    "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Iran-Krieg",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10022048",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the escalation in Hormuz affect the global oil supply?",
+    "paywallQuestionTwo": "What goals is Trump pursuing with the blockade against Iran?",
+    "paywallQuestionThree": "How is Iran reacting to the US attacks?",
+    "characterCount": 5043,
+    "product": "NZZ.ch",
+    "documentId": "10022048",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:30:00.880Z",
+    "publicationLastUpdated": "2026-09-02T12:17:04.250Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:30:00.880Z",
+    "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "authorLine": "Christian Weisflog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/tanker-fuer-tanker-trump-zuendet-in-der-strasse-von-hormuz-die-naechste-eskalationsstufe-ld.10022048",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 776,
+    "leadText": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Iranian videos call for the assassination of Barron Trump – what's behind it?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/5af01f3b-61bb-4397-a3ac-da7c809efe85.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/5af01f3b-61bb-4397-a3ac-da7c809efe85.jpg?width=1024&quality=75&auto=webp",
+     "width": 1853,
+     "height": 1286,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1853,1042,x0,y34"
+      },
+      {
+       "name": "4:3",
+       "crop": "1715,1286,x69,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1286,1286,x284,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "965,1286,x463,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1853,1235,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Iranian state media threatens the U.S. president's son with death. There is reportedly even a murder plot against the son of Israeli Prime Minister Benjamin Netanyahu.",
+     "teaserAuthor": "Carlos Barria / Reuters"
+    },
+    "teaserAuthor": "Carlos Barria / Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Nahost und Afrika",
+     "Iran-Krieg"
+    ],
+    "nzzId": "ld.10021887",
+    "readingTime": 300,
+    "embeds": {
+     "videos": [
+      {
+       "id": "dH1Em75X",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 170,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/dH1Em75X-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How dangerous are the threats against Barron Trump really?",
+    "paywallQuestionTwo": "What role does AI-generated video play in Iranian propaganda?",
+    "paywallQuestionThree": "Why is Iran targeting prominent sons?",
+    "characterCount": 6166,
+    "product": "NZZ.ch",
+    "documentId": "10021887",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T04:39:09.867Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "Iranian state media threatens the U.S. president's son with death. There is reportedly even a murder plot against the son of Israeli Prime Minister Benjamin Netanyahu.",
+    "authorLine": "Anne Allmeling",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/18/c2216812-cc68-4cbb-93a7-cf77bddf76b0.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/iranische-videos-rufen-zur-ermordung-von-barron-trump-auf-was-steckt-dahinter-ld.10021887",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 903,
+    "leadText": "Iranian state media threatens the U.S. president's son with death. There is reportedly even a murder plot against the son of Israeli Prime Minister Benjamin Netanyahu.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Everything revolves around Xi: SCO summit in Bishkek reveals the growing influence of China's president",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Asien und Pazifik"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/478e166c-e144-40ba-bce1-454ce803ebc6.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4508,2536,x0,y390"
+      },
+      {
+       "name": "4:3",
+       "crop": "4407,3306,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2258,2258,x873,y462"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x606,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4959,3306,x0,y142"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+     "teaserAuthor": "Pavel Mikheyev / Reuters"
+    },
+    "teaserAuthor": "Pavel Mikheyev / Reuters",
+    "nzzId": "ld.10021854",
+    "readingTime": 300,
+    "embeds": {
+     "videos": [
+      {
+       "id": "kjuQK0rw",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 10,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/kjuQK0rw-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How is China strengthening its regional dominance through the SCO summit?",
+    "paywallQuestionTwo": "What role does the Iran war play in geopolitical tensions?",
+    "paywallQuestionThree": "Why does cooperation within the SCO often remain limited?",
+    "characterCount": 6923,
+    "editor": "1900563",
+    "videoTeaser": "kjuQK0rw",
+    "product": "NZZ.ch",
+    "documentId": "10021854",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T07:30:00.309Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+    "authorLine": "Ulrich von Schwerin, Mumbai",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/764702a4-033b-4fbc-83bd-d75fbb4c92dc.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/sco-gipfel-in-bischkek-zeigt-die-regionale-dominanz-von-chinas-praesidenten-xi-jinping-ld.10021854",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1037,
+    "premium": true,
+    "leadText": "At regional summit in Kyrgyzstan, China presented itself as a source of stability in a turbulent world, remained unimpressed by U.S. pressure to reduce support for Iran and Russia",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "High costs, limited success: America assesses Iran war after six months",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Die USA unter Trump",
+     "Amerika"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/248043d6-4f94-4333-b115-2cdc84923214.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/248043d6-4f94-4333-b115-2cdc84923214.jpg?width=1024&quality=75&auto=webp",
+     "width": 5727,
+     "height": 3818,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5727,3221,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5091,3818,x318,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3818,3818,x955,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2864,3818,x1432,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5727,3818,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Many observers in the US view the Iran war as a failure. The American military is again flying new airstrikes, but public dissatisfaction is increasing. In this war of attrition, pressure on Iran is also now rising sharply.",
+     "teaserAuthor": "US Central Command via Getty"
+    },
+    "teaserAuthor": "US Central Command via Getty",
+    "showComments": true,
+    "editor": "1374076",
+    "nzzId": "ld.10021770",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does the Iran war affect Trump's popularity and US policy?",
+    "paywallQuestionTwo": "What economic and military costs are the US incurring in the Iran war?",
+    "paywallQuestionThree": "How does the strategic situation change as a result of the blockade of the Strait of Hormuz?",
+    "characterCount": 7010,
+    "product": "NZZ.ch",
+    "documentId": "10021770",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T17:15:24.341Z",
+    "publicationLastUpdated": "2026-09-01T17:15:36.579Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-02T05:15:24.341Z",
+    "teaserCaption": "Many observers in the US view the Iran war as a failure. The American military is again flying new airstrikes, but public dissatisfaction is increasing. In this war of attrition, pressure on Iran is also now rising sharply.",
+    "authorLine": "Niklaus Nuspliger, Washington",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/b3cf3347-523f-4918-82c7-0463146504dd.jpeg?crop=3712,3712,x928,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/hohe-kosten-begrenzter-erfolg-amerika-zieht-nach-sechs-monaten-iran-krieg-bilanz-ld.10021770",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1051,
+    "premium": true,
+    "leadText": "Many observers in the US view the Iran war as a failure. The American military is again flying new airstrikes, but public dissatisfaction is increasing. In this war of attrition, pressure on Iran is also now rising sharply.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 11,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Battle of Hormuz: After a month of peace, the US and Iran are firing at each other again",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/00d3a60d-13e6-4bcc-9fde-b39675c0fa74.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/00d3a60d-13e6-4bcc-9fde-b39675c0fa74.jpg?width=1024&quality=75&auto=webp",
+     "width": 4271,
+     "height": 2847,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4271,2402,x0,y445"
+      },
+      {
+       "name": "4:3",
+       "crop": "3796,2847,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2847,2847,x265,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2135,2847,x438,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4271,2847,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "U.S. forces attacked Revolutionary Guard positions on Larak Island. Tehran responded with missiles fired at Jordan and drones at the Emirates. Washington, however, had wanted to win the war with sanctions",
+     "teaserAuthor": "Stringer/Reuters"
+    },
+    "teaserAuthor": "Stringer/Reuters",
+    "tags": [
+     "Iran-Krieg",
+     "Krieg in Nahost",
+     "Nahost und Afrika"
+    ],
+    "nzzId": "ld.10021709",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is the conflict between the US and Iran escalating militarily again?",
+    "paywallQuestionTwo": "How will the new sanctions affect the Iranian economy and trading partners?",
+    "paywallQuestionThree": "What role does the Strait of Hormuz play in the current conflict?",
+    "characterCount": 5414,
+    "product": "NZZ.ch",
+    "documentId": "10021709",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T13:36:11.629Z",
+    "publicationLastUpdated": "2026-08-31T19:42:29.658Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T01:36:11.629Z",
+    "teaserCaption": "U.S. forces attacked Revolutionary Guard positions on Larak Island. Tehran responded with missiles fired at Jordan and drones at the Emirates. Washington, however, had wanted to win the war with sanctions",
+    "authorLine": "Johannes C. Bockenheimer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/gefecht-um-hormuz-nach-einem-monat-ruhe-schiessen-die-usa-und-iran-wieder-aufeinander-ld.10021709",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 826,
+    "leadText": "U.S. forces attacked Revolutionary Guard positions on Larak Island. Tehran responded with missiles fired at Jordan and drones at the Emirates. Washington, however, had wanted to win the war with sanctions",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021009",
+    "name": "Iran reacts calmly to the announcement of new US sanctions",
+    "type": "article",
+    "subType1": "briefing",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Iran reacts calmly to the announcement of new US sanctions",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T15:07:23.603Z",
+     "updateTimestamp": "2026-08-25T15:07:23.603Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021009",
+   "pageType": "briefing",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Tuesday Evening Briefing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y107&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "The most important news of the evening: Iran reacts calmly to the announcement of new US sanctions ++ Israel's attack in Syria escalates conflict with Turkey ++ How the shock of 9/11 made flying safer",
+  "news_keywords": "Iran reacts calmly to the announcement of new US sanctions, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T19:07:23+02:00",
+  "date": "2026-08-25T19:07:23+02:00",
+  "canonical": "https://www.nzz.ch/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Iran reacts calmly to the announcement of new US sanctions",
+  "ogTitle": "Tuesday Evening Briefing",
+  "bookmarkTitle": "NZZ Briefing",
+  "ogUrl": "https://www.nzz.ch/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009",
+  "mrf:cms_id": "nzz:ld.10021009",
+  "mrf:tags": "Page Type:briefing;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021009",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:27 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009"
+   },
+   "headline": "Tuesday Evening Briefing",
+   "datePublished": "2026-08-25T19:07:23+02:00",
+   "dateModified": "2026-08-25T19:07:23+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The most important news of the evening: Iran reacts calmly to the announcement of new US sanctions ++ Israel's attack in Syria escalates conflict with Turkey ++ How the shock of 9/11 made flying safer",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/04a7c344-c528-437e-b767-4262af1305bc.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y107&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 391392,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/iran-reagiert-gelassen-auf-die-ankuendigung-neuer-us-sanktionen-ld.10021009",
+    "classification=default",
+    "relevance=default",
+    "layout=briefing",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021009"
+   ],
+   "ContentCreated": "2026-08-25T15:07:23.603Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "briefing",
+   "ldId": "ld.10021009",
+   "heading": "Iran reagiert gelassen auf die Ankündigung neuer US-Sanktionen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

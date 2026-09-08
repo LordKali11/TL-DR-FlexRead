@@ -1,0 +1,436 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1g93vrn1",
+   "content": {
+    "title": "Substation near Cologne experiences disruption – police investigate «anti-constitutional sabotage»",
+    "lead": "Second incident near Cologne after sabotage in eastern Germany",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1g93vrn3",
+   "content": {
+    "image": {
+     "author": "Jochen Tack / Imago",
+     "caption": "The substation at the lignite power plant in Bergheim was presumably intentionally damaged.",
+     "originalUrl": "/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?crop=7794,5199,x0,y0",
+     "width": 7794,
+     "height": 5199,
+     "altText": " Transformer station at the lignite-fired power plant, RWE Power AG Niederaußem power plant, near Bergheim, North Rhine-Westphalia, Germany, Niederaußem lignite-fired power plant",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180356583"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7794,
+      "height": 5199,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7794,
+       "height": 5199,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The substation at the lignite power plant in Bergheim was presumably intentionally damaged.",
+    "author": "Jochen Tack / Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1g93vrn4",
+   "content": {
+    "text": "<em>ehj/jsc.</em> Following a disruption at a substation in Bergheim near Cologne, police assume an intentional act, German media and the German Press Agency reported. A spokesman for the Essen police department said upon inquiry by the news agency that they did not assume a technical defect but rather an intentional act. He added that the background of the act was still unclear, and that investigations were underway into «anti-constitutional sabotage.» This refers to targeted acts of sabotage on critical public infrastructure that pursue an anti-state purpose."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-eadabd44",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gblfa30",
+   "content": {
+    "text": "The substation connects different voltages. Several lines failed due to a short circuit; however, current findings indicated no general power outage. According to the reports, police were called to the substation in Bergheim's Rheidt district on Tuesday evening around 8 p.m. due to a technical malfunction."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gpjl101",
+   "content": {
+    "text": "Herbert Reul, the Interior Minister for the western German state of North Rhine-Westphalia, said that unidentified individuals had placed cables over the overhead line, causing a short circuit. «Anyone who attacks that is attacking our country,» he said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1g98bub1",
+   "content": {
+    "text": "Earlier on Tuesday morning, unidentified individuals attempted to cause short circuits on high-voltage lines at a substation in Brandenburg. According to the authorities, this succeeded in two cases. Police are investigating the incident as sabotage. In addition to these recent cases, further acts of sabotage on power infrastructure occurred in recent months. <a href=\"https://www.nzz.ch/international/kein-strom-keine-heizung-und-klirrende-kaelte-ein-brandanschlag-mutmasslicher-linksextremisten-versetzt-teile-berlins-in-den-ausnahmezustand-ld.1918700\">In January, left-wing extremists damaged high-voltage lines near a power plant in southwestern Berlin.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1g93vrn5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "A malfunction occurs at a substation near Cologne – police are investigating for «anti-constitutional sabotage»",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1024&quality=75&auto=webp",
+   "width": 7794,
+   "height": 5199,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7794,4384,x0,y407"
+    },
+    {
+     "name": "4:3",
+     "crop": "6932,5199,x431,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "5199,5199,x1298,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3899,5199,x1947,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7794,5196,x0,y2"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+   "teaserAuthor": "Jochen Tack / Imago"
+  },
+  "teaserAuthor": "Jochen Tack / Imago",
+  "nzzId": "ld.10022019",
+  "readingTime": 60,
+  "characterCount": 1670,
+  "breadcrumbs": [
+   {
+    "name": "Homepage (Germany)",
+    "path": "/deutschland"
+   },
+   {
+    "name": "International (Germany)",
+    "path": "/deutschland/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022019,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T05:54:40.359Z",
+  "publicationDate": "2026-09-02T10:11:26.616Z",
+  "publicationLastUpdated": "2026-09-02T10:11:26.616Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-09-02T22:11:26.616Z",
+  "teaserCaption": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+  "url": "/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+  "department": {
+   "name": "International (Germany)",
+   "path": "/deutschland/international"
+  },
+  "estimationWordCount": 269,
+  "leadText": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+  "nzzSummaryEN": "- A suspected act of sabotage occurred at a substation in Bergheim near Cologne, causing several lines to fail due to a short circuit, although no power outage resulted.\n- Just hours earlier, unknown individuals in Brandenburg attempted to create short circuits on high-voltage lines, an act classified as sabotage.\n- Similar incidents have occurred in recent months, including an attack on high-voltage lines near Berlin in January.",
+  "nzzSummaryDE": "- A suspected act of sabotage occurred at a substation in Bergheim near Cologne, causing several lines to fail due to a short circuit, but without resulting in a power outage.\n - Just hours earlier, unknown individuals in Brandenburg had attempted to cause short circuits on high-voltage power lines, which is considered sabotage.\n - Similar incidents have occurred in recent months, including an attack on high-voltage power lines near Berlin in January.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "X",
+  "nzzPrintSubtitle": "X",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+   "title": "Police suspect sabotage: Substation near Cologne damaged",
+   "socialMediaTitle": "Police suspect sabotage: Substation near Cologne damaged",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7794,4384,x0,y407&wmark=nzz"
+  },
+  "ldPublicationId": 2487541,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 121752,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022019",
+    "name": "A malfunction occurs at a substation near Cologne – police are investigating for «anti-constitutional sabotage»",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Startseite (Deutschland)",
+    "subCategory1": "International (Deutschland)",
+    "attributes": {
+     "headline": "A malfunction occurs at a substation near Cologne – police are investigating for «anti-constitutional sabotage»",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T10:11:26.616Z",
+     "updateTimestamp": "2026-09-02T10:11:26.616Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022019",
+   "pageType": "regular",
+   "primaryCategory": "Startseite (Deutschland)",
+   "subCategory1": "International (Deutschland)",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Police suspect sabotage: Substation near Cologne damaged",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7794,4384,x0,y407&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "description": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+  "news_keywords": "A malfunction occurs at a substation near Cologne – police are investigating for «anti-constitutional sabotage», International (Germany), News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T14:11:26+02:00",
+  "date": "2026-09-02T09:54:40+02:00",
+  "canonical": "https://www.nzz.ch/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "A malfunction occurs at a substation near Cologne – police are investigating for «anti-constitutional sabotage»",
+  "ogTitle": "Police suspect sabotage: Substation near Cologne damaged",
+  "ogUrl": "https://www.nzz.ch/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+  "mrf:cms_id": "nzz:ld.10022019",
+  "mrf:sections": "Startseite (Deutschland);International (Deutschland)",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022019",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:09 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/deutschland",
+      "name": "Homepage (Germany)"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/deutschland/international",
+      "name": "International (Germany)"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Police suspect sabotage: Substation near Cologne damaged"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019"
+   },
+   "headline": "Police suspect sabotage: Substation near Cologne damaged",
+   "datePublished": "2026-09-02T09:54:40+02:00",
+   "dateModified": "2026-09-02T14:11:26+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Following an act of sabotage against the electricity infrastructure in eastern Germany, another incident occurred a few hours later in Bergheim near Cologne.",
+   "isAccessibleForFree": false,
+   "articleSection": "International (Deutschland)",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/2c8994f4-7786-47c4-95b3-7ab68acc9bdf.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7794,4384,x0,y407&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 121752,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/deutschland/international/an-umspannwerk-nahe-koeln-kommt-es-zu-einer-stoerung-polizei-spricht-von-einer-vorsaetzlichen-tat-ld.10022019",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022019",
+    "channel=Startseite (Deutschland)"
+   ],
+   "ContentCreated": "2026-09-02T05:54:40.359Z",
+   "ContentSection": "Startseite (Deutschland)",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Was sind die Hintergründe der mutmasslichen Sabotage in Bergheim?\nWelche Parallelen gibt es zu früheren Sabotageakten an Strominfrastruktur?\nWie reagiert die Polizei auf die Häufung solcher Vorfälle?",
+   "ldId": "ld.10022019",
+   "channel": "Startseite (Deutschland)",
+   "subChannel": "International (Deutschland)",
+   "heading": "An einem Umspannwerk nahe Köln kommt es zu einer Störung – Polizei ermittelt wegen «verfassungsfeindlicher Sabotage»",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

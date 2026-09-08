@@ -1,0 +1,1454 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0evt6n31",
+   "content": {
+    "title": "Kunsthaus: more cost-consciousness, less room-closing threats – city support still needed",
+    "lead": "Museum performance compared to city cultural institutions: greater effort needed to break even",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0evt6n32",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Isabel Heusser",
+       "url": "/impressum/isabel-heusser-ld.1678302",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0phq1h90",
+   "content": {
+    "image": {
+     "author": "Illustration by Simon Tanner / NZZ",
+     "caption": "",
+     "originalUrl": "/2026/08/24/0a36b201-ddc0-4580-aac9-5b475ebba1f4.jpg?crop=4500,3000,x0,y0",
+     "width": 4500,
+     "height": 3000,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4500,
+      "height": 3000,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4500,
+       "height": 3000,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Illustration by Simon Tanner / NZZ",
+    "caption": ""
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0evt6n41",
+   "content": {
+    "text": "Zurich aims for a leading role in art. The promises were grand when the Kunsthaus opened the monumental extension by renowned British architect David Chipperfield in 2021. The extension was expected to increase the museum's international appeal, enable collaborations with the world's best institutions, and offer more space for its valuable collections."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-5d9f9f4f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fh22s90",
+   "content": {
+    "text": "Five years later, the extension has indeed strengthened Zurich's art scene. The doubled exhibition space attracts more visitors, and is projected to record in 2025 the second-highest attendance figures in its history."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fhmtkm1",
+   "content": {
+    "text": "But the good news ends there. In recent years, the Kunsthaus has made headlines less for its exhibitions and more for the dispute over the Bührle Collection and its financial problems. Last year, the museum reported a deficit of 1.4 million Swiss francs. The preceding years were no better. Costs for the expanded operations were significantly underestimated, particularly for personnel. And in the coming years, building renovations costing millions are scheduled."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fka70v1",
+   "content": {
+    "text": "<a href=\"https://www.nzz.ch/feuilleton/philipp-hildebrand-zu-den-kunsthaus-schulden-wenn-die-vergangenheit-so-gut-gewesen-waere-dann-haetten-wir-heute-diese-probleme-nicht-ld.1832664\">Two years ago</a>, the Kunsthaus leadership, under director Ann Demeester and president of the Zürcher Kunstgesellschaft Philipp Hildebrand, raised the alarm, saying they were urgently dependent on higher subsidies. Otherwise, they warned, individual rooms might have to be closed and staff laid off."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fi71pe0",
+   "content": {
+    "text": "In other words: the City of Zurich, as the largest financier, is expected to save the Kunsthaus. Voters will decide on Sept. 27 on an annual additional credit of 7.3 million Swiss francs. Of this, 4 million francs will go to the Zürcher Kunstgesellschaft as the museum's operator, and 3.3 million francs to the Zürcher Kunsthaus Foundation. As the owner and leaseholder of the properties, the foundation is responsible for their maintenance and preservation of value. The subsidies would thus amount to a total of 25.8 million Swiss francs – a considerable sum."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hlgdf40",
+   "content": {
+    "text": "The city has already generously supported the museum in recent years. It paid 88 million Swiss francs for the Chipperfield building and approved higher subsidies. In addition, the City Council recently approved 3 million Swiss francs for another research project to examine the provenance of the works in the Bührle Collection."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0i8os550",
+   "content": {
+    "title": "Addressing poor planning",
+    "id": "subtitle-die-fehlplanung-muss-aufgearbeitet-werden"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fnqnqp1",
+   "content": {
+    "text": "One might rightly ask why public funds should once again provide a financial injection. Especially since the Kunsthaus is run by professionals: Economist Philipp Hildebrand is a former National Bank chief and now serves as Vice Chairman of asset manager Blackrock. Demeester is a cultural scholar and, before moving to Zurich, headed the Frans Hals Museum in Haarlem, Netherlands."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hme9pt0",
+   "content": {
+    "text": "Nevertheless, it would be wrong to abandon the Kunsthaus due to recent miscalculations. Zurich wanted a museum with charisma and got one. Its transformation into a renovation case after the expansion is vexing. The increase in personnel, the biggest cost driver, is particularly notable. According to the annual report, the museum currently has 250 full-time positions, and 20 more positions are to be created by 2027."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0p75tea0",
+   "content": {
+    "text": "Under pressure from the left, 1.8 million Swiss francs are earmarked for «improved working conditions.» In this context, it is not very helpful that the Kunsthaus asserts it is making efforts to save money, while its director receives a salary of 310,000 Swiss francs – more than the city president."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0id0p3s1",
+   "content": {
+    "text": "The Kunsthaus leadership must demonstrate greater cost awareness instead of threatening to close rooms. The poor planning, which dates back many years, must also be rectified."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hvbpvp1",
+   "content": {
+    "text": "Under this premise, it is right that the city supports the Kunsthaus with a higher contribution. In return, it must deliver. Only an attractive museum is a successful museum. The general public primarily attends blockbuster exhibitions. Last year, the show by performance artist Marina Abramovic attracted almost 120,000 visitors – it was the most successful exhibition in twelve years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hp2eua1",
+   "content": {
+    "text": "One thing is clear: the Kunsthaus cannot currently afford experiments. It relies on exhibitions that generate significant revenue. Cultural tourism can be a lucrative business. In Paris, people queue outside the Louvre to see the «Mona Lisa» once in their lives. In Zurich, treasures also frequently grace the walls. But big names cost money. To bring Abramovic to Zurich, the Kunsthaus paid 2.3 million Swiss francs."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hq0aj20",
+   "content": {
+    "text": "Of course, it is not solely the city's task to get operations back on track. The Kunstgesellschaft's efforts are also required. For years, it has been looking for a third major sponsor – so far without success, even though Philipp Hildebrand has contacts in the highest economic circles. Nevertheless, the volume of donations increased last year."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i00qhk0",
+   "content": {
+    "text": "Has the public-private partnership model behind the Kunsthaus failed? On the contrary. The Kunstgesellschaft raised almost half of the 200 million Swiss francs in costs for the extension from private donors. Without this commitment, the Kunsthaus would probably not exist in its current form – or the city would have had to finance it entirely alone and bear deficits alone. Even in ongoing operations, costs are split roughly fifty-fifty. This is rare in the cultural sector."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i059bn1",
+   "content": {
+    "text": "Nevertheless, such collaborations are unpopular in red-green Zurich. Recently, the left prevented the construction of an athletics hall because a private sports club would have had sovereignty over the facility."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i096pr0",
+   "content": {
+    "text": "The furor against public-private partnerships is surprising, because it has been shown, particularly with the Kunsthaus, that parliament can exert influence in such joint projects – though not always for the best. At the behest of the red-green majority, a research committee is examining the provenance of the Bührle Collection for the umpteenth time. The focus is on works that changed hands during the Nazi era. Since the extension's opening, it has been treated more like a scientific project than an art treasure. Currently, the Kunsthaus presents the permanent loan tightly packed in a small space."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i3cp400",
+   "content": {
+    "text": "Parliament also had a say in the higher subsidies. In the proposal, which will now go to a vote in September, Parliament demands that public funds be used carefully. The City Council must report on this to the council. The contributions to the Kunstgesellschaft are limited until 2033. In addition, Parliament stipulates that Zurich residents should be able to visit the exhibitions free of charge four times a year. Access to the collection is already free every Wednesday."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i803el1",
+   "content": {
+    "text": "Free admission for the entire population in the canton is not very helpful in the fight against the deficit. But fundamentally, it is appropriate that the city sets conditions when it allocates so much public money. It does not do this everywhere. Each year, it distributes around 150 million Swiss francs in cultural subsidies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i4v4re1",
+   "content": {
+    "text": "By far the most money, 40 million Swiss francs, goes to the Schauspielhaus. Unlike the Kunsthaus, it can afford to be complacent when things go badly. This is because the funds flow indefinitely, even though the previous management alienated the audience with its approach. In the 2024/25 season, occupancy was only 53%. The city's contributions account for over 80% of operating income."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0i8r8im0",
+   "content": {
+    "title": "Kunsthaus: greater efficiency needed",
+    "id": "subtitle-das-kunsthaus-muss-effizienter-werden"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i29tvh1",
+   "content": {
+    "text": "In comparison, the Kunsthaus operates significantly more successfully and requires fewer state funds. It can finance about half of its operations itself – through admissions, membership fees, its shop, and art sales. This is a good foundation. Now the Kunsthaus must become more efficient and commit even more strongly to attracting private patrons. By the end of 2027, management aims to present a balanced budget."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0i5ulsj0",
+   "content": {
+    "text": "To achieve this, the Kunstgesellschaft has a responsibility. It benefits if the cost-sharing ratio between private parties and the state remains at 50/50. With higher subsidies, the red-green parliament will demand even more say. Where this leads has been seen with the Bührle Collection. Due to the ongoing back-and-forth concerning the collection, the Bührle Foundation is openly considering withdrawing the paintings. This would be fatal for the museum."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hv950h0",
+   "content": {
+    "text": "The expanded Kunsthaus deserves the city's support. The Chipperfield building has created an architectural gem. Just walking through the rooms is a pleasure. Finally, the institution can present its collections in a dignified setting and has more space and flexibility for large exhibitions. The Kunsthaus must be able to maintain its grandeur, even if it incurs costs – a pared-down version is not an alternative."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0evt6n42",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-d1138f0a",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 8,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Daniel Schmid",
+      "text": "Solution: Drastically reduce top salaries. That will save a lot.",
+      "created_at": "2026-08-25T14:00:49.118Z",
+      "like_count": 8,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Tobias Suter",
+      "text": "It seems to me that the management of the Kunsthaus is overwhelmed. The new building was poorly planned, and above all, unreliable assumptions were made regarding its operation. This is now coming back to haunt them. How can it be that such a well-equipped museum fails to make more of its collection and thus achieve greater financial success? The endless saga of the Bührle Collection alone demonstrates that they are no longer in control but merely being driven by external forces. Consequently, the Kunsthaus struggles to mount exhibitions with significant impact. Just look at what the Beyeler Collection in Riehen consistently achieves. Its influence far surpasses that of the Kunsthaus. I observe this particularly abroad. Many art enthusiasts there are completely unaware of the Kunsthaus Zürich, or if they are, it's only because of the constant wrangling over the Bührle Collection. It's a disgrace that the Kunsthaus hasn't been able to achieve more for years.",
+      "created_at": "2026-08-25T13:30:12.277Z",
+      "like_count": 12,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0evt6n43",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0evt6n44",
+      "content": {
+       "owner": "NZZ",
+       "title": "A thief steals two paintings from the Kunsthaus Zürich. When they reappear, nobody wants to talk about it anymore.",
+       "teaserImage": {
+        "originalUrl": "/2026/01/23/57505b66-9501-4e13-8441-e483997afdfb.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/23/57505b66-9501-4e13-8441-e483997afdfb.jpg?width=1024&quality=75&auto=webp",
+        "width": 2686,
+        "height": 3543,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2686,1511,x0,y386"
+         },
+         {
+          "name": "1:1",
+          "crop": "2686,2686,x0,y346"
+         },
+         {
+          "name": "4:3",
+          "crop": "2686,2015,x0,y385"
+         },
+         {
+          "name": "3:4",
+          "crop": "2657,3543,x29,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2686,1791,x0,y341"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The location where the artwork was found suggests an inside job. The art thief will likely get away with it either way.",
+        "teaserAuthor": "Andreas Becker / Keystone"
+       },
+       "teaserAuthor": "Andreas Becker / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1921087",
+       "readingTime": 240,
+       "authorLine": "Tobias Marti",
+       "characterCount": 5104,
+       "product": "NZZ.ch",
+       "documentId": 1921087,
+       "layout": "regular",
+       "publicationDate": "2026-01-26T04:02:00.000Z",
+       "publicationLastUpdated": "2026-01-26T04:02:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-01-26T16:02:00.000Z",
+       "teaserCaption": "The location where the artwork was found suggests an inside job. The art thief will likely get away with it either way.",
+       "authorImage": {
+        "originalUrl": "/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/im-kunsthaus-zuerich-stiehlt-ein-dieb-zwei-gemaelde-als-sie-wieder-auftauchen-will-niemand-mehr-darueber-reden-ld.1921087",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 808,
+       "leadText": "The location where the artwork was found suggests an inside job. The art thief will likely get away with it either way.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0evt6n45",
+      "content": {
+       "owner": "NZZ",
+       "title": "The Bührle Foundation is considering withdrawing its paintings from the Kunsthaus – now the city of Zurich is taking legal action against it.",
+       "teaserImage": {
+        "originalUrl": "/2025/11/18/76709713-a666-479d-9850-5df20fecb031.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/18/76709713-a666-479d-9850-5df20fecb031.jpg?width=1024&quality=75&auto=webp",
+        "width": 4800,
+        "height": 3200,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4800,2700,x0,y250"
+         },
+         {
+          "name": "1:1",
+          "crop": "3200,3200,x800,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4267,3200,x267,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2400,3200,x1200,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4800,3200,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The city is taking the matter to the administrative court. The Bührle Foundation finds this \"not very constructive\".",
+        "teaserAuthor": "Ennio Leanza / Keystone"
+       },
+       "teaserAuthor": "Ennio Leanza / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1912461",
+       "readingTime": 300,
+       "authorLine": "Isabel Heusser",
+       "characterCount": 6687,
+       "product": "NZZ.ch",
+       "documentId": 1912461,
+       "layout": "regular",
+       "publicationDate": "2025-11-19T13:42:29.167Z",
+       "publicationLastUpdated": "2025-11-19T14:09:41.493Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2025-11-20T01:42:29.167Z",
+       "teaserCaption": "The city is taking the matter to the administrative court. The Bührle Foundation finds this \"not very constructive\".",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/stadt-zuerich-wehrt-sich-juristisch-gegen-drohenden-abzug-der-buehrle-sammlung-ld.1912461",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 977,
+       "leadText": "The city is taking the matter to the administrative court. The Bührle Foundation finds this \"not very constructive\".",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0evt6n46",
+      "content": {
+       "owner": "NZZaS",
+       "flag": "interview",
+       "title": "Kunsthaus director Ann Demeester: «We are supposed to be the Queen of England, Greta Thunberg and Adolf Ogi»",
+       "teaserImage": {
+        "originalUrl": "/2025/09/11/03680b81-1a4d-4de0-bfdf-765ab357a05b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/09/11/03680b81-1a4d-4de0-bfdf-765ab357a05b.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 6000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3556,2000,x238,y1511"
+         },
+         {
+          "name": "1:1",
+          "crop": "1232,1232,x1511,y1524"
+         },
+         {
+          "name": "4:3",
+          "crop": "4000,3000,x0,y1318"
+         },
+         {
+          "name": "3:4",
+          "crop": "3160,4214,x386,y1524"
+         },
+         {
+          "name": "3:2",
+          "crop": "4000,2667,x0,y1540"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The Kunsthaus Zürich has been called a museum of boredom, according to the «NZZ am Sonntag.» Now the director is responding to the accusations against her institution."
+       },
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1901569",
+       "readingTime": 600,
+       "characterCount": 12190,
+       "product": "NZZ.ch",
+       "documentId": 1901569,
+       "layout": "longformstandard",
+       "publicationDate": "2025-09-13T19:45:00.000Z",
+       "publicationLastUpdated": "2025-09-15T03:18:17.188Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-09-14T07:45:00.000Z",
+       "teaserCaption": "The Kunsthaus Zürich has been called a museum of boredom, according to the «NZZ am Sonntag.» Now the director is responding to the accusations against her institution.",
+       "authorLine": "Peer Teuwsen",
+       "authorImage": {
+        "originalUrl": "/2024/04/30/0d1ed11f-2c77-401e-aca1-a78369962c50.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/04/30/0d1ed11f-2c77-401e-aca1-a78369962c50.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/0d1ed11f-2c77-401e-aca1-a78369962c50.png?width=1024&quality=75&auto=webp",
+       "url": "/feuilleton/kunsthausdirektorin-ann-demeester-wir-sollen-die-queen-of-england-greta-thunberg-und-adolf-ogi-sein-ld.1901569",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1963,
+       "leadText": "The Kunsthaus Zürich has been called a museum of boredom, according to the «NZZ am Sonntag.» Now the director is responding to the accusations against her institution.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Kunsthaus: more cost-consciousness, less room-closing threats – city support still needed",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "flag": "Opinion",
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/0a36b201-ddc0-4580-aac9-5b475ebba1f4.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/0a36b201-ddc0-4580-aac9-5b475ebba1f4.jpg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4500,2531,x0,y234"
+    },
+    {
+     "name": "4:3",
+     "crop": "4000,3000,x250,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x750,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x1125,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4500,3000,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Museum performance compared to city cultural institutions: greater effort needed to break even",
+   "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+  },
+  "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+  "nzzId": "ld.10020278",
+  "readingTime": 420,
+  "characterCount": 8983,
+  "showComments": true,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020278,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-25T03:35:00.000Z",
+  "publicationDate": "2026-08-25T03:35:00.000Z",
+  "publicationLastUpdated": "2026-08-25T03:56:05.962Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:35:00.000Z",
+  "teaserCaption": "Museum performance compared to city cultural institutions: greater effort needed to break even",
+  "nzzAuthors": [
+   {
+    "id": 1648381,
+    "name": "Isabel Heusser",
+    "shortName": "heu",
+    "pianoId": "4fa4cc7b-2903-473e-93fc-75a09106b64f",
+    "external": false
+   }
+  ],
+  "authorLine": "Isabel Heusser",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1678302,
+    "name": "Isabel Heusser (heu.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+  "url": "/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 1306,
+  "leadText": "Museum performance compared to city cultural institutions: greater effort needed to break even",
+  "nzzSummaryEN": "- The Kunsthaus Zürich gained international recognition after the Chipperfield expansion but is struggling with financial deficits and high operating costs.\n- The city council will vote on September 27 to approve annual additional subsidies of 7.3 million Swiss francs to support the museum and stabilize operations.\n- The management must improve efficiency, attract private donors, and revise financial planning to achieve a balanced budget in the long term.",
+  "nzzSummaryDE": "- The Kunsthaus Zürich has gained international appeal after the expansion with the Chipperfield building, but struggles with financial deficits and high operating costs.\n - The city council will vote on annual additional subsidies of 7.3 million francs on September 27 to support the museum and stabilize its operations.\n - Those in charge still need to manage their resources more efficiently, attract private donors, and revise their financial planning in order to achieve a balanced budget in the long term.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The art museum needs to think more cost-consciously",
+  "nzzPrintSubtitle": "Switzerland's largest art museum deserves the city's support. However, it needs to make more of an effort to become profitable.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278",
+   "title": "Art museum subsidies in Zurich: The museum needs to be more cost-conscious",
+   "socialMediaTitle": "Art museum subsidies in Zurich: The museum needs to be more cost-conscious",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/0a36b201-ddc0-4580-aac9-5b475ebba1f4.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz"
+  },
+  "ldPublicationId": 2483181,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Kunsthaus Zürich",
+    "slug": "/themen/kunsthaus-zurich"
+   },
+   {
+    "name": "Bührle Collection",
+    "slug": "/themen/sammlung-buhrle"
+   },
+   {
+    "name": "David Chipperfield",
+    "slug": "/themen/david-chipperfield"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 8,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Daniel Schmid",
+     "text": "Solution: Drastically reduce top salaries. That will save a lot.",
+     "created_at": "2026-08-25T14:00:49.118Z",
+     "like_count": 8,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Tobias Suter",
+     "text": "It seems to me that the management of the Kunsthaus is overwhelmed. The new building was poorly planned, and above all, unreliable assumptions were made regarding its operation. This is now coming back to haunt them. How can it be that such a well-equipped museum fails to make more of its collection and thus achieve greater financial success? The endless saga of the Bührle Collection alone demonstrates that they are no longer in control but merely being driven by external forces. Consequently, the Kunsthaus struggles to mount exhibitions with significant impact. Just look at what the Beyeler Collection in Riehen consistently achieves. Its influence far surpasses that of the Kunsthaus. I observe this particularly abroad. Many art enthusiasts there are completely unaware of the Kunsthaus Zürich, or if they are, it's only because of the constant wrangling over the Bührle Collection. It's a disgrace that the Kunsthaus hasn't been able to achieve more for years.",
+     "created_at": "2026-08-25T13:30:12.277Z",
+     "like_count": 12,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1921087",
+    "ld.1912461",
+    "ld.1901569"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 606912,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "kunsthaus-zurich",
+   "name": "Kunsthaus Zürich",
+   "tagName": "Kunsthaus Zürich",
+   "qId": "Q685038",
+   "seoTitle": "Kunsthaus Zürich – All news and articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 17:26:01.414Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/kunsthaus-zurich",
+   "size": 387,
+   "relatedTopics": [
+    {
+     "name": "Sammlung Bührle",
+     "slug": "/themen/sammlung-buhrle"
+    },
+    {
+     "name": "David Chipperfield",
+     "slug": "/themen/david-chipperfield"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Philipp Hildebrand on the financial problems at the Kunsthaus Zürich: «I fought against this subsidy increase.»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "interview",
+    "teaserImage": {
+     "originalUrl": "/2024/05/28/478ad1b2-0d1a-4056-b9a0-da0e28281faa.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/05/28/478ad1b2-0d1a-4056-b9a0-da0e28281faa.jpeg?width=1024&quality=75&auto=webp",
+     "width": 7582,
+     "height": 5055,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7582,4265,x0,y262"
+      },
+      {
+       "name": "4:3",
+       "crop": "6740,5055,x410,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5055,5055,x1332,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3791,5055,x2088,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7582,5055,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Museum director Ann Demeester and art society president Philipp Hildebrand explain why they are demanding more funding from the state and how they view the potential relocation of the Bührle collection."
+    },
+    "nzzId": "ld.10021424",
+    "readingTime": 780,
+    "paywallQuestionOne": "Why does the Kunsthaus Zürich need additional subsidies?",
+    "paywallQuestionTwo": "What would be the consequences of a «no» vote on the subsidy increase?",
+    "paywallQuestionThree": "How does the art museum plan to secure its financial foundation?",
+    "characterCount": 18794,
+    "product": "NZZ.ch",
+    "documentId": "10021424",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:00:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:00:00.000Z",
+    "teaserCaption": "Museum director Ann Demeester and art society president Philipp Hildebrand explain why they are demanding more funding from the state and how they view the potential relocation of the Bührle collection.",
+    "authorLine": "Isabel Heusser (text), Daniel Fritzsche (text), Annick Ramp (images)",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/kunsthaus-subventionen-zuerich-philipp-hildebrand-und-ann-demeester-im-interview-ld.10021424",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2668,
+    "leadText": "Museum director Ann Demeester and art society president Philipp Hildebrand explain why they are demanding more funding from the state and how they view the potential relocation of the Bührle collection.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Vilhelm Hammershoi captures in color what we long for today: deep tranquility",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Gerhard Mack",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020963",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why are Hammershois' minimalist and deserted interiors so fascinating?",
+    "paywallQuestionTwo": "How does Hammershois' color palette shape his artistic expression?",
+    "paywallQuestionThree": "What significance does silence in Hammershois' work have for today?",
+    "characterCount": 3113,
+    "product": "NZZ.ch",
+    "documentId": "10020963",
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "No one could coax as many shades of gray and white as Vilhelm Hammershoi. His unique work is now on display at the Kunsthaus Zürich.",
+    "teaserImage": {
+     "teaserCaption": "No one could coax as many shades of gray and white as Vilhelm Hammershoi. His unique work is now on display at the Kunsthaus Zürich."
+    },
+    "url": "https://www.nzz.ch/feuilleton/vilhelm-hammershoi-bannte-in-farbe-wonach-wir-uns-heute-sehnen-tiefe-ruhe-ld.10020963",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 511,
+    "leadText": "No one could coax as many shades of gray and white as Vilhelm Hammershoi. His unique work is now on display at the Kunsthaus Zürich.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Art museum subsidies, politicians' salaries, euthanasia and skyscrapers: Zurich residents will vote on these issues on September 27th",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "NZZ Zurich Editorial Team",
+    "flag": "Explained",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/35500dd6-038b-4a3d-8fa7-85c9fb7c896f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/35500dd6-038b-4a3d-8fa7-85c9fb7c896f.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4002,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y381"
+      },
+      {
+       "name": "4:3",
+       "crop": "5336,4002,x294,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3307,3307,x1333,y368"
+      },
+      {
+       "name": "3:4",
+       "crop": "2481,3307,x1748,y695"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The most important proposals briefly explained: Who is for, who is against – and what the NZZ recommends.",
+     "teaserAuthor": "Michael Buholzer / Keystone"
+    },
+    "teaserAuthor": "Michael Buholzer / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10020730",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the NZZ assess the impact of the Teaching Staff Act?",
+    "paywallQuestionTwo": "Why does the NZZ support the obligation to tolerate assisted suicide in nursing homes?",
+    "paywallQuestionThree": "What arguments does the NZZ put forward in favor of high-rise buildings up to 40 meters in Zurich?",
+    "characterCount": 4137,
+    "product": "NZZ.ch",
+    "documentId": "10020730",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T03:04:00.000Z",
+    "publicationLastUpdated": "2026-08-29T03:04:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T15:04:00.000Z",
+    "teaserCaption": "The most important proposals briefly explained: Who is for, who is against – and what the NZZ recommends.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/09/05/c9887e83-1771-4870-9798-4a4a35cba55a.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/abstimmungen-vom-27-september-2026-in-zuerich-wichtige-vorlagen-im-ueberblick-ld.10020730",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 634,
+    "leadText": "The most important proposals briefly explained: Who is for, who is against – and what the NZZ recommends.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Inheritance dispute in a respected Zurich family: It involves hundreds of millions of francs and a world-class art collection",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/06/606541a3-5b5d-4cbd-a0c0-ac0064925abc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/06/606541a3-5b5d-4cbd-a0c0-ac0064925abc.jpg?width=1024&quality=75&auto=webp",
+     "width": 3806,
+     "height": 5709,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3460,1946,x346,y1529"
+      },
+      {
+       "name": "4:3",
+       "crop": "3806,2855,x0,y1516"
+      },
+      {
+       "name": "1:1",
+       "crop": "3145,3145,x593,y906"
+      },
+      {
+       "name": "3:4",
+       "crop": "3806,5075,x0,y534"
+      },
+      {
+       "name": "3:2",
+       "crop": "3806,2537,x0,y1466"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Shortly before his death, art collector Werner Merzbacher amended his will, naming a close associate as his heir. His descendants were unaware of this. Now a legal battle is raging – with unforeseeable consequences, including for the Kunsthaus Zürich.",
+     "teaserAuthor": "Salvatore Vinci / 13 Photo / © Succession Henri Matisse / Pro Litteris, Zurich"
+    },
+    "teaserAuthor": "Salvatore Vinci / 13 Photo / © Succession Henri Matisse / Pro Litteris, Zurich",
+    "nzzId": "ld.10013575",
+    "readingTime": 720,
+    "paywallQuestionOne": "Why did Werner Merzbacher name his asset manager as his main heir?",
+    "paywallQuestionTwo": "What impact could the inheritance dispute have on the Kunsthaus Zürich?",
+    "paywallQuestionThree": "How does the prenuptial agreement affect the distribution of Merzbacher's assets?",
+    "characterCount": 15902,
+    "product": "NZZ.ch",
+    "documentId": "10013575",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-07T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-07T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-07T15:30:00.000Z",
+    "teaserCaption": "Shortly before his death, art collector Werner Merzbacher amended his will, naming a close associate as his heir. His descendants were unaware of this. Now a legal battle is raging – with unforeseeable consequences, including for the Kunsthaus Zürich.",
+    "authorLine": "Rico Bandle",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/07/22/b40ab3b2-27c3-4cda-bb32-b15c56324e97.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/erbstreit-in-angesehener-zuercher-familie-es-geht-um-hunderte-millionen-franken-und-eine-kunstsammlung-von-weltrang-ld.10013575",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 2408,
+    "leadText": "Shortly before his death, art collector Werner Merzbacher amended his will, naming a close associate as his heir. His descendants were unaware of this. Now a legal battle is raging – with unforeseeable consequences, including for the Kunsthaus Zürich.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "He painted the pictures back then that people want to see today – and is only now being discovered by a wider audience",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "tags": [
+     "Kunst, Architektur, Fotografie"
+    ],
+    "editor": "1373417",
+    "teaserImage": {
+     "originalUrl": "/2026/07/03/a7009b33-26c3-49c4-9317-541f161630f7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/03/a7009b33-26c3-49c4-9317-541f161630f7.jpg?width=1024&quality=75&auto=webp",
+     "width": 2905,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2905,1634,x0,y785"
+      },
+      {
+       "name": "4:3",
+       "crop": "2905,2179,x0,y682"
+      },
+      {
+       "name": "1:1",
+       "crop": "1804,1804,x823,y602"
+      },
+      {
+       "name": "3:4",
+       "crop": "2657,3543,x248,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2905,1937,x0,y803"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Vilhelm Hammershøi is a grand master of modernism, yet he was misunderstood by his contemporaries. Now, the Danish painter of uneventfulness can be discovered at the Kunsthaus Zürich in his first comprehensive museum exhibition in Switzerland.",
+     "teaserAuthor": "Brandt Art Museum"
+    },
+    "teaserAuthor": "Brandt Art Museum",
+    "nzzId": "ld.10013592",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why is Hammershøi appreciated today as a painter of tranquility?",
+    "paywallQuestionTwo": "How does Hammershøi's art reflect stagnation?",
+    "paywallQuestionThree": "What role does music play in Hammershøi's work?",
+    "characterCount": 7571,
+    "product": "NZZ.ch",
+    "documentId": "10013592",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-06T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-06T08:37:27.621Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-06T15:30:00.000Z",
+    "teaserCaption": "Vilhelm Hammershøi is a grand master of modernism, yet he was misunderstood by his contemporaries. Now, the Danish painter of uneventfulness can be discovered at the Kunsthaus Zürich in his first comprehensive museum exhibition in Switzerland.",
+    "authorLine": "Philipp Meier",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/67913078-df2a-4ea6-9e8f-7d820425aa1f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/kunst_architektur/er-malte-die-bilder-damals-die-man-heute-sehen-will-ld.10013592",
+    "department": {
+     "name": "Art & Architecture",
+     "path": "/feuilleton/kunst_architektur"
+    },
+    "estimationWordCount": 1181,
+    "leadText": "Vilhelm Hammershøi is a grand master of modernism, yet he was misunderstood by his contemporaries. Now, the Danish painter of uneventfulness can be discovered at the Kunsthaus Zürich in his first comprehensive museum exhibition in Switzerland.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "She is the forgotten star of pop art. Now Marisol is being rediscovered",
+    "teaserImage": {
+     "originalUrl": "/2026/04/16/bec88550-5d1f-4687-9b69-51417f87514f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/16/bec88550-5d1f-4687-9b69-51417f87514f.jpg?width=1024&quality=75&auto=webp",
+     "width": 2406,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2406,1353,x0,y337"
+      },
+      {
+       "name": "1:1",
+       "crop": "2406,2406,x0,y293"
+      },
+      {
+       "name": "4:3",
+       "crop": "2406,1805,x0,y418"
+      },
+      {
+       "name": "3:4",
+       "crop": "2406,3208,x0,y168"
+      },
+      {
+       "name": "3:2",
+       "crop": "2406,1604,x0,y382"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Marisol was once one of the most celebrated figures in the New York art scene. Then she fell into obscurity, partly through her own fault. Now, the Kunsthaus Zürich is dedicating the first retrospective in Europe to the American artist with Venezuelan roots.",
+     "teaserAuthor": "Albright-Knox Art Gallery / Buff / Digital Assets Collection"
+    },
+    "teaserAuthor": "Albright-Knox Art Gallery / Buff / Digital Assets Collection",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "authorLine": "Philipp Meier",
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1933945",
+    "readingTime": 360,
+    "tags": [
+     "Kunst, Architektur, Fotografie"
+    ],
+    "characterCount": 7533,
+    "product": "NZZ.ch",
+    "documentId": "1933945",
+    "layout": "regular",
+    "publicationDate": "2026-04-18T03:30:00.000Z",
+    "publicationLastUpdated": "2026-04-22T14:51:03.160Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-04-18T15:30:00.000Z",
+    "teaserCaption": "Marisol was once one of the most celebrated figures in the New York art scene. Then she fell into obscurity, partly through her own fault. Now, the Kunsthaus Zürich is dedicating the first retrospective in Europe to the American artist with Venezuelan roots.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/67913078-df2a-4ea6-9e8f-7d820425aa1f.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/kunst_architektur/sie-ist-der-vergessene-star-der-pop-art-jetzt-wird-marisol-wiederentdeckt-ld.1933945",
+    "department": {
+     "name": "Art & Architecture",
+     "path": "/feuilleton/kunst_architektur"
+    },
+    "estimationWordCount": 1231,
+    "leadText": "Marisol was once one of the most celebrated figures in the New York art scene. Then she fell into obscurity, partly through her own fault. Now, the Kunsthaus Zürich is dedicating the first retrospective in Europe to the American artist with Venezuelan roots.",
+    "nzzSummaryIsAuto": true
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020278",
+    "name": "Kunsthaus: more cost-consciousness, less room-closing threats – city support still needed",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Kunsthaus: more cost-consciousness, less room-closing threats – city support still needed",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1648381,
+       "name": "Isabel Heusser",
+       "shortName": "heu",
+       "pianoId": "4fa4cc7b-2903-473e-93fc-75a09106b64f",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:35:00.000Z",
+     "updateTimestamp": "2026-08-25T03:56:05.962Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020278",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Art museum subsidies in Zurich: The museum needs to be more cost-conscious",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/0a36b201-ddc0-4580-aac9-5b475ebba1f4.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Isabel Heusser",
+  "description": "Museum performance compared to city cultural institutions: greater effort needed to break even",
+  "news_keywords": "The Kunsthaus should be more cost-conscious instead of threatening to close spaces. Nevertheless, it needs the support of the city of Zurich. (Comment, Opinion, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T07:56:05+02:00",
+  "date": "2026-08-25T07:35:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - The Kunsthaus should think more cost-consciously instead of threatening to close spaces. Nevertheless, it needs the support of the city of Zurich",
+  "ogTitle": "Art museum subsidies in Zurich: The museum needs to be more cost-conscious",
+  "ogUrl": "https://www.nzz.ch/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278",
+  "mrf:cms_id": "nzz:ld.10020278",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020278",
+  "nzzAuthors": [
+   {
+    "id": 1648381,
+    "name": "Isabel Heusser",
+    "shortName": "heu",
+    "pianoId": "4fa4cc7b-2903-473e-93fc-75a09106b64f",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:34 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Art museum subsidies in Zurich: The museum needs to be more cost-conscious"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278"
+   },
+   "headline": "Art museum subsidies in Zurich: The museum needs to be more cost-conscious",
+   "datePublished": "2026-08-25T07:35:00+02:00",
+   "dateModified": "2026-08-25T07:56:05+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Museum performance compared to city cultural institutions: greater effort needed to break even",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/0a36b201-ddc0-4580-aac9-5b475ebba1f4.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Isabel Heusser"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 606912,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/kunsthaus-subventionen-in-zuerich-das-museum-muss-kostenbewusster-denken-ld.10020278",
+    "classification=default",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020278",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-08-25T03:35:00.000Z",
+   "ContentAuthor": "Isabel Heusser",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie kann das Kunsthaus effizienter wirtschaften und private Gönner gewinnen?\nSoll die Stadt Zürich höhere Subventionen für das Kunsthaus bewilligen?\nWie beeinflusst die Bührle-Sammlung die Zukunft des Kunsthauses?",
+   "ldId": "ld.10020278",
+   "channel": "Meinung",
+   "heading": "Das Kunsthaus sollte kostenbewusster denken, statt mit der Schliessung von Räumen zu drohen. Dennoch braucht es die Unterstützung der Stadt Zürich",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

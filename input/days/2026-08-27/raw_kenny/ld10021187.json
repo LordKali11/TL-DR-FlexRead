@@ -1,0 +1,893 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0v6pcgi1",
+   "content": {
+    "title": "The biggest nuisance in urban traffic is facing the axe: The e-scooter",
+    "lead": "Zurich’s City Council tightens rules for electric scooter providers. Parliament adds another layer. Is it the end of micromobility?",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0v6pcgi2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Daniel Fritzsche",
+       "url": "/impressum/daniel-fritzsche-ld.1287938",
+       "teaserImage": {
+        "originalUrl": "/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+        "width": 320,
+        "height": 320,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "320,180,x0,y40"
+         },
+         {
+          "name": "1:1",
+          "crop": "320,320,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "320,240,x0,y26"
+         },
+         {
+          "name": "3:4",
+          "crop": "240,320,x42,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0v6pcgj0",
+   "content": {
+    "image": {
+     "author": "Christian Hartmann / Reuters",
+     "caption": "More than half of Zurich residents are annoyed by improperly parked e-scooters.",
+     "originalUrl": "/2019/6/7/558f1b5b-9128-4f8e-b1bd-b717b9247400.jpeg?crop=4032,2625,x0,y0",
+     "width": 4032,
+     "height": 2625,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4032,
+      "height": 2625,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4032,
+       "height": 2625,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "More than half of Zurich residents are annoyed by improperly parked e-scooters.",
+    "author": "Christian Hartmann / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v6pcgj1",
+   "content": {
+    "text": "No, it is not cyclists who disregard traffic rules. Nor is it noisy car posers or pedestrians moving at a snail’s pace. What annoys Zurich residents most in daily traffic is something else: e-scooters."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-8b51360f",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vn9rlq1",
+   "content": {
+    "text": "In a <a href=\"https://skm-cvm.ch/cmsfiles/250317_mobilitat_in_stadten_gesamtbericht_final_de.pdf\">survey by the GfS research institute</a> last year, 53% of participants stated they were annoyed by improperly parked e-scooters. In no other Swiss city is the resentment so great."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vl6aco0",
+   "content": {
+    "text": "The vehicles were once called «whirring troublemakers on two wheels.» They have shaped Zurich’s cityscape for nearly 10 years. But now they are facing the axe. On Wednesday night, the City Council discussed a package of measures proposed by Green Security Director Karin Rykart, and demanded further tightening."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "alias-teaser-embed"
+  },
+  {
+   "identifier": "alias-teaser-embed",
+   "id": "doc-1jlml006u0",
+   "content": {
+    "title": "Whatsapp Channel «Zurich Traffic Policy»",
+    "owner": "NZZ",
+    "teaserImage": {
+     "originalUrl": "/2025/09/10/3eabe872-3369-40a4-9864-888c0954ebc8.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/09/10/3eabe872-3369-40a4-9864-888c0954ebc8.jpg?width=1024&quality=75&auto=webp",
+     "width": 4040,
+     "height": 2693,
+     "crops": [
+      {
+       "name": "web-teaser",
+       "crop": "4040,2272,x0,y210"
+      },
+      {
+       "name": "1:1",
+       "crop": "2693,2693,x674,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3591,2693,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2020,2693,x1010,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4040,2693,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "When it comes to construction sites, bike paths, or parking spaces, emotions run high in Zurich. Here you'll find the most important news, debates, and background information on transport policy.",
+     "teaserAuthor": "Severin Pomsel"
+    },
+    "teaserAuthor": "Severin Pomsel",
+    "urlAliasTeaser": "https://whatsapp.com/channel/0029VbBFGKnDp2QFyM8uCM3v",
+    "urlLabel": "Register now for free",
+    "isExternal": true,
+    "nzzId": "ld.1901778",
+    "product": "NZZ.ch",
+    "documentId": 1901778,
+    "layout": "alias-teaser",
+    "publicationDate": "2025-09-10T05:46:56.194Z",
+    "publicationLastUpdated": "2025-09-10T05:46:56.194Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-09-10T17:46:56.194Z",
+    "teaserCaption": "When it comes to construction sites, bike paths, or parking spaces, emotions run high in Zurich. Here you'll find the most important news, debates, and background information on transport policy.",
+    "url": "https://whatsapp.com/channel/0029VbBFGKnDp2QFyM8uCM3v",
+    "department": {},
+    "leadText": "When it comes to construction sites, bike paths, or parking spaces, emotions run high in Zurich. Here you'll find the most important news, debates, and background information on transport policy."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vnkd1a0",
+   "content": {
+    "text": "Karin Rykart reported in the council chamber that numerous people had contacted her about e-scooters. She said she had «great understanding» for citizens’ concerns and that the current situation was «unsatisfactory.» She added that e-scooters, as well as rental bikes that blocked paths, were a danger, especially for people with disabilities."
+   },
+   "paidContent": true,
+   "prevElement": "alias-teaser-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vnoa1f0",
+   "content": {
+    "text": "A number of measures have already been taken to improve the situation. For example, since 2019, rental companies have been required to obtain a permit and must pay fees, «for the increased public use of public land.» In addition, the city has introduced no-riding zones and speed limits."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0vseck60",
+   "content": {
+    "title": "Only 3,000 vehicles in the future",
+    "id": "subtitle-in-zukunft-nur-noch-3000-fahrzeuge"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vpi23v1",
+   "content": {
+    "text": "There are currently more than 7,000 rental vehicles in the city. Two-thirds of these are e-scooters, with the remainder accounted for by e-bikes and e-mopeds. Eight companies share the market."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vp3vt60",
+   "content": {
+    "text": "Rykart now wants to drastically reduce the supply, to 3,000 vehicles. Only three companies are to receive a permit, she added. A scramble is therefore likely to ensue soon. The new system is to be introduced next year."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vprd8d0",
+   "content": {
+    "text": "In addition, the city is overhauling the very recipe for the e-scooters’ success: the «free-floating approach.» In the city center, rental vehicles will no longer be allowed to be parked anywhere; instead, they must be deposited at fixed stations. The same applies in other heavily used areas of the city, such as train stations."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vvvkgm0",
+   "content": {
+    "text": "«We do not want to ban shared micromobility from Zurich,» Rykart said. E-scooters are part of modern urban mobility, she added. «But users must adhere to rules, and providers should offer quality.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vnbmj60",
+   "content": {
+    "text": "Rykart’s regulatory offensive was well received by most parties in parliament. Patrick Stählin (GLP) said the plan would increase the overall acceptance of micromobility in the city. Only the SVP met the accompanying City Council report with disapproval."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vqrg6d0",
+   "content": {
+    "text": "For Roman Mörgeli (SVP), the city lacks not rules, but consistent enforcement. Violations must be punished more frequently, he argued. For example, if you park an e-scooter on the sidewalk, you must already leave a passage of at least 1.5 meters for pedestrians, strollers, or wheelchairs. However, this requirement seems to be unknown or completely irrelevant to many users."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0vs3nq80",
+   "content": {
+    "title": "Stations only in the center and at train stations",
+    "id": "subtitle-stationen-nur-im-zentrum-und-an-bahnh-fen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vn0c2q0",
+   "content": {
+    "text": "Rykart’s proposals did not go far enough for the left-wing parties in particular. The SP and Greens demanded in a postulate that fixed stations be set up not only in central District 1 and at train stations, but throughout the entire city area, and that car parking spaces should be removed for this purpose."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vrmf3r0",
+   "content": {
+    "text": "However, the left-wing parties were unsuccessful with this initiative. Karin Weyermann (Mitte) pointed out that the offering would become less attractive with a departure from the free-floating principle in the outer districts, and that the additional stations would consume too much space."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vuvpgl1",
+   "content": {
+    "text": "Martina Zürcher (FDP) also warned against the step. The existing regulations had already noticeably improved the situation, she contended. She herself had stumbled over wrongly parked e-scooters less often this summer than before."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k100d4h20",
+   "content": {
+    "title": "A «removal service» and data for the city",
+    "id": "subtitle-ein-entfernungsdienst-und-daten-f-r-die-stadt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vs763u0",
+   "content": {
+    "text": "The Alternative Left demanded a further tightening: Currently, rental companies are obliged to remove improperly parked vehicles from public land within 24 hours. A municipal «removal service» should now take over this task immediately after the first report, they demanded. The rental companies must pay the costs. Michael Schmid (AL) said: «Those who cause the mess must also pay for it.» With this, he convinced a majority in the council chamber."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vtapr40",
+   "content": {
+    "text": "A postulate jointly submitted by AL and GLP was also successful. Rental companies should now forward the movement and usage data they collect to the city. The data should then be used for evaluations and independent traffic research. The question arises, among other things, what exact role e-scooters could play in urban traffic."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vtr94m0",
+   "content": {
+    "text": "A study by the Federal Roads Office already concluded in 2025 that rental vehicles most frequently replace walking trips. These are followed by trips using public transport."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vtuh510",
+   "content": {
+    "text": "The GfS survey cited at the beginning shows that the «whirring troublemakers» have now found their place in the city. More than a quarter of the Zurich residents surveyed stated they had used the service at least once. Of these, nearly 20% had used an e-scooter more than 10 times in the last year."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0vug97r0",
+   "content": {
+    "text": "What impact the newly adopted regulations will have remains to be seen. Security Director Karin Rykart, in any case, is determined to curb the «wild growth.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0v6pcgj2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0v6pcgj3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0v6pcgj4",
+      "content": {
+       "owner": "NZZ",
+       "title": "An e-scooter rider allegedly insulted a female Mercedes driver, calling her a \"Hitler whore with a Hitler car.\" However, the supposed troublemaker successfully defended himself in court.",
+       "teaserImage": {
+        "originalUrl": "/2026/02/05/b47a3319-1f3e-49fd-8c34-d4e6f8facded.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/05/b47a3319-1f3e-49fd-8c34-d4e6f8facded.jpg?width=1024&quality=75&auto=webp",
+        "width": 1300,
+        "height": 867,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1156,650,x51,y217"
+         },
+         {
+          "name": "1:1",
+          "crop": "867,867,x202,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1156,867,x144,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "650,867,x313,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1156,771,x144,y81"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "If you are the accused in a case involving car damage, it can be advantageous if your defense attorney also works in a garage on the side. This happened in Winterthur.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1923385",
+       "readingTime": 240,
+       "authorLine": "Tom Felber",
+       "characterCount": 5450,
+       "product": "NZZ.ch",
+       "documentId": 1923385,
+       "layout": "regular",
+       "publicationDate": "2026-02-06T04:01:00.000Z",
+       "publicationLastUpdated": "2026-02-06T07:47:49.216Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-02-06T16:01:00.000Z",
+       "teaserCaption": "If you are the accused in a case involving car damage, it can be advantageous if your defense attorney also works in a garage on the side. This happened in Winterthur.",
+       "url": "/zuerich/freispruch-fuer-e-trottinett-fahrer-zweifel-an-vorwuerfen-ld.1923385",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 846,
+       "leadText": "If you are the accused in a case involving car damage, it can be advantageous if your defense attorney also works in a garage on the side. This happened in Winterthur.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0v6pcgj5",
+      "content": {
+       "owner": "NZZ",
+       "title": "Publibike is getting a thousand new bikes – even though the rental service makes losses every year",
+       "teaserImage": {
+        "originalUrl": "/2025/05/26/728abd47-03fa-4733-a1e8-67ec38a2b737.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/26/728abd47-03fa-4733-a1e8-67ec38a2b737.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4337,
+        "height": 2891,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3427,1928,x752,y902"
+         },
+         {
+          "name": "1:1",
+          "crop": "494,494,x2551,y1701"
+         },
+         {
+          "name": "4:3",
+          "crop": "3046,2284,x790,y606"
+         },
+         {
+          "name": "3:4",
+          "crop": "1353,1805,x2172,y1086"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The city of Zurich wants to promote the «bicycle revolution» and is also building rental stations outside the city limits.",
+        "teaserAuthor": "Simon Tanner / NZZ"
+       },
+       "teaserAuthor": "Simon Tanner / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1886188",
+       "readingTime": 180,
+       "authorLine": "Oliver Camenzind",
+       "characterCount": 3629,
+       "product": "NZZ.ch",
+       "documentId": 1886188,
+       "layout": "regular",
+       "publicationDate": "2025-05-26T14:20:04.239Z",
+       "publicationLastUpdated": "2025-05-26T15:41:52.430Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-05-27T02:20:04.239Z",
+       "teaserCaption": "The city of Zurich wants to promote the «bicycle revolution» and is also building rental stations outside the city limits.",
+       "url": "/zuerich/publibike-in-zuerich-waechst-1000-neue-velos-trotz-defiziten-ld.1886188",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 539,
+       "leadText": "The city of Zurich wants to promote the «bicycle revolution» and is also building rental stations outside the city limits.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The biggest nuisance in urban traffic is facing the axe: The e-scooter",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2019/6/7/558f1b5b-9128-4f8e-b1bd-b717b9247400.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2019/6/7/558f1b5b-9128-4f8e-b1bd-b717b9247400.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4032,
+   "height": 2625,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4032,2268,x0,y357"
+    },
+    {
+     "name": "4:3",
+     "crop": "3500,2625,x260,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2625,2625,x326,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1969,2625,x542,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3938,2625,x47,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The Zurich city council is tightening the rules for e-scooter providers. Parliament is going even further. Is this the end of micromobility?",
+   "teaserAuthor": "Christian Hartmann / Reuters"
+  },
+  "teaserAuthor": "Christian Hartmann / Reuters",
+  "nzzId": "ld.10021187",
+  "readingTime": 240,
+  "characterCount": 5624,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021187,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T03:00:00.000Z",
+  "publicationDate": "2026-08-27T03:00:00.000Z",
+  "publicationLastUpdated": "2026-08-27T10:25:50.245Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:00:00.000Z",
+  "teaserCaption": "The Zurich city council is tightening the rules for e-scooter providers. Parliament is going even further. Is this the end of micromobility?",
+  "nzzAuthors": [
+   {
+    "id": 1372257,
+    "name": "Daniel Fritzsche",
+    "shortName": "dfr",
+    "pianoId": "65a0422a-a255-4e85-b259-1aa39dfc435c",
+    "external": false
+   }
+  ],
+  "authorLine": "Daniel Fritzsche",
+  "authorImage": {
+   "originalUrl": "/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+   "width": 320,
+   "height": 320,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "320,320,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1287938,
+    "name": "Daniel Fritzsche (dfr.) - Head of Zurich Department, NZZ",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 822,
+  "leadText": "The Zurich city council is tightening the rules for e-scooter providers. Parliament is going even further. Is this the end of micromobility?",
+  "nzzSummaryEN": "- Zurich city council tightens regulations for e-scooter providers, limiting the fleet to 3,000 vehicles and requiring fixed stations in central areas.\n- Measures aim to improve acceptance of micromobility and address issues with improperly parked scooters, particularly affecting people with disabilities.\n- Additional steps, such as a municipal removal service and mandatory sharing of movement data by providers, were also approved.",
+  "nzzSummaryDE": "- The Zurich City Council is tightening the rules for e-scooter providers, including limiting the number of vehicles to 3000 and requiring the use of fixed stations in central areas.\n - The measures aim to increase the acceptance of micromobility and to solve the problem of incorrectly parked vehicles, which primarily affects people with disabilities.\n Further tightening of restrictions, such as a city-wide distance tracking service and the provision of movement data by service providers, was also decided upon.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Zurich is decimating its scooter fleet",
+  "nzzPrintSubtitle": "The city council is tightening the rules for e-scooter providers. Parliament is going even further",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187",
+   "title": "Zurich tightens rules for e-scooters: new measures",
+   "socialMediaTitle": "Zurich tightens rules for e-scooters: fewer vehicles, more order?",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2019/6/7/558f1b5b-9128-4f8e-b1bd-b717b9247400.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4032,2268,x0,y357&wmark=nzz"
+  },
+  "ldPublicationId": 2484512,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1923385",
+    "ld.1886188"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 361032,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021187",
+    "name": "The biggest nuisance in urban traffic is facing the axe: The e-scooter",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The biggest nuisance in urban traffic is facing the axe: The e-scooter",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372257,
+       "name": "Daniel Fritzsche",
+       "shortName": "dfr",
+       "pianoId": "65a0422a-a255-4e85-b259-1aa39dfc435c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:00:00.000Z",
+     "updateTimestamp": "2026-08-27T10:25:50.245Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021187",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Zurich tightens rules for e-scooters: new measures",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2019/6/7/558f1b5b-9128-4f8e-b1bd-b717b9247400.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4032,2268,x0,y357&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Daniel Fritzsche",
+  "description": "The Zurich city council is tightening the rules for e-scooter providers. Parliament is going even further. Is this the end of micromobility?",
+  "news_keywords": "The biggest nuisance in city traffic is being tackled: the e-scooter, Zurich, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T14:25:50+02:00",
+  "date": "2026-08-27T07:00:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The biggest nuisance in urban traffic is facing the axe: The e-scooter",
+  "ogTitle": "Zurich tightens rules for e-scooters: fewer vehicles, more order?",
+  "ogUrl": "https://www.nzz.ch/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187",
+  "mrf:cms_id": "nzz:ld.10021187",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021187",
+  "nzzAuthors": [
+   {
+    "id": 1372257,
+    "name": "Daniel Fritzsche",
+    "shortName": "dfr",
+    "pianoId": "65a0422a-a255-4e85-b259-1aa39dfc435c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:10 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Zurich tightens rules for e-scooters: new measures"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187"
+   },
+   "headline": "Zurich tightens rules for e-scooters: new measures",
+   "datePublished": "2026-08-27T07:00:00+02:00",
+   "dateModified": "2026-08-27T14:25:50+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The Zurich city council is tightening the rules for e-scooter providers. Parliament is going even further. Is this the end of micromobility?",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2019/6/7/558f1b5b-9128-4f8e-b1bd-b717b9247400.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4032,2268,x0,y357&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Daniel Fritzsche"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 361032,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/zuerich-verschaerft-regeln-fuer-e-trottinetts-neue-massnahmen-ld.10021187",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021187",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-08-27T03:00:00.000Z",
+   "ContentAuthor": "Daniel Fritzsche",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum reduziert Zürich die Anzahl der E-Trottinetts auf 3000 Fahrzeuge?\nWie sollen fixe Stationen das Problem der falsch abgestellten Trottinetts lösen?\nWelche Rolle spielen Bewegungsdaten für die Verkehrsforschung in Zürich?",
+   "ldId": "ld.10021187",
+   "channel": "Zürich",
+   "heading": "Dem grössten Ärgernis im Stadtverkehr geht es an den Kragen: dem E-Trottinett",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

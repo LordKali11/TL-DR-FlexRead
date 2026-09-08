@@ -1,0 +1,1296 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1ghto3g1",
+   "content": {
+    "title": "From beacon of hope to problem case: Nestlé sells vitamin brands at billion-franc loss",
+    "lead": "Nestlé once pursued ambitious plans in the health business. CEO Philipp Navratil is scaling them back.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1ghto3g2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Matthias Benz",
+       "url": "/impressum/matthias-benz-ld.154637",
+       "teaserImage": {
+        "originalUrl": "/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "6500,3656,x0,y338"
+         },
+         {
+          "name": "1:1",
+          "crop": "4333,4333,x1084,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5777,4333,x361,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3250,4333,x1625,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h9mpv51",
+   "content": {
+    "image": {
+     "author": "Ulrich Roth / Imago",
+     "caption": "Nestlé's hopes in the vitamin business were not fulfilled.",
+     "originalUrl": "/2026/09/02/3ae0fbb0-6c52-4814-9ae1-b74e3fdfffcb.jpg?crop=5750,3826,x0,y0",
+     "width": 5750,
+     "height": 3826,
+     "altText": "Close-up of yellow capsules, Germany, May 22, 2026. Several yellow capsules lie on a green surface. The close-up shows food supplements or medicine capsules in warm lighting and shallow depth of field",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180365939"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5750,
+      "height": 3826,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5750,
+       "height": 3826,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Nestlé's hopes in the vitamin business were not fulfilled.",
+    "author": "Ulrich Roth / Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ghto3h1",
+   "content": {
+    "text": "Exactly one year after <a href=\"https://www.nzz.ch/wirtschaft/marktanteile-zu-verlieren-ist-inakzeptabel-philipp-navratil-baut-nestle-um-doch-die-boerse-ist-noch-nicht-ueberzeugt-ld.10021537\">taking office</a>, CEO Philipp Navratil is streamlining Nestlé's vitamin portfolio. The food giant found a buyer for its mainstream vitamin, mineral, and dietary supplement business, it announced Monday evening. The division was sold to the American private equity firm Yellow Wood Partners for about 800 million Swiss francs. Seven brands, primarily sold in the U.S., including Nature’s Bounty, are being divested."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-327c6176",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gifinf0",
+   "content": {
+    "text": "The mainstream vitamin business, with sales of 1 billion Swiss francs, is relatively small by Nestlé standards (group sales: 89.5 billion Swiss francs). Furthermore, Navratil had already announced in February that he intended to sell it. Nevertheless, the sale marks a «line drawn under a painful episode of value destruction,» as Vontobel analyst Jean-Philippe Bertschy writes."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gt80gn0",
+   "content": {
+    "title": "Departure from previous ambitions",
+    "id": "subtitle-abkehr-von-fr-heren-ambitionen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gisbsl0",
+   "content": {
+    "text": "Nestlé once had ambitious plans in the health business. Under former CEO Mark Schneider, the group acquired various vitamin and supplement providers. For example, in 2021, it bought The Bountiful Company for about 5.2 billion Swiss francs, which included most of the brands now being sold again."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gj9c7v1",
+   "content": {
+    "text": "Schneider wanted to increasingly position Nestlé as a health company that sells products at the intersection of nutrition and health. Under his predecessors Paul Bulcke and Peter Brabeck-Letmathe, <a href=\"https://www.nzz.ch/wirtschaft/vitamine-proteine-ozempic-profitiert-nestle-health-science-vom-gesundheits-trend-ld.1868419\">the Nestlé Health Science division had been specifically established</a> for this purpose."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gja49o0",
+   "content": {
+    "text": "However, hopes for the vitamin business were not fulfilled. The market is competitive: Nestlé is likely making less revenue from mainstream vitamins today than it did at the time of purchase in 2021. In addition, Nestlé had acquired many brands too hastily. IT problems arose during integration, which led to the group being unable to deliver products for months."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h3a43g0",
+   "content": {
+    "image": {
+     "author": "Stefan Wermuth / Reuters",
+     "caption": "Nestlé CEO Philipp Navratil has scaled back the group's health business.",
+     "originalUrl": "/2026/09/02/e5b8c283-867a-4142-a2ac-8dbb3e666fa1.jpg?crop=3915,2610,x659,y490",
+     "width": 4737,
+     "height": 3158,
+     "altText": "Nestle CEO Philipp Navratil attends the Annual General Meeting of Nestle in Ecublens near Lausanne, Switzerland, April 16, 2026. REUTERS/Stefan Wermuth",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2178286352"
+      }
+     ],
+     "crop": {
+      "x": 659,
+      "y": 490,
+      "width": 3915,
+      "height": 2610,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 659,
+       "y": 490,
+       "width": 3915,
+       "height": 2610,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Nestlé CEO Philipp Navratil has scaled back the group's health business.",
+    "author": "Stefan Wermuth / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gtbh120",
+   "content": {
+    "title": "Significant write-down",
+    "id": "subtitle-hohe-wertberichtigung"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gk760g0",
+   "content": {
+    "text": "The sale is an admission that Nestlé bet on the wrong horse with mainstream vitamins. It is also associated with a significant write-down. When presenting its half-year figures for 2026, Nestlé announced that a write-down of 1.3 billion Swiss francs was to be expected. The fact that it is not more is partly due to the retention of certain vitamin brands."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gkdbqi0",
+   "content": {
+    "text": "Despite the sale, Nestlé will continue to be involved in the health business. However, CEO Navratil wants to concentrate on products where Nestlé potentially has a competitive advantage. For example, the group is retaining the high-priced vitamin brands Solgar and Pure Encapsulations, where Nestlé aims to leverage its in-house research. In addition, health activities are being more closely integrated with the rest of the business."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1glb87t0",
+   "content": {
+    "text": "But one thing is clear: Navratil is abandoning plans to build an independent pillar in Nestlé's health business. In doing so, he is undoing the legacy of his predecessors. He already dissolved the Nestlé Health Science division in the spring."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1ghto3h2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1ghto3h3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1ghto3h4",
+      "content": {
+       "title": "«Losing market share is unacceptable»: Philipp Navratil overhauls Nestlé – but the stock market is not yet convinced",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/31/511d1179-a6f2-4ca6-b547-33c3d2cf8395.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/31/511d1179-a6f2-4ca6-b547-33c3d2cf8395.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4002,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3726,2096,x1923,y800"
+         },
+         {
+          "name": "4:3",
+          "crop": "5336,4002,x664,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1275,1275,x3156,y748"
+         },
+         {
+          "name": "3:4",
+          "crop": "3002,4002,x2338,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y2"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For a year now, the Swiss national has led the world's largest food conglomerate. In an interview with the NZZ, he takes stock.",
+        "teaserAuthor": "Pierre Albouy / Reuters"
+       },
+       "teaserAuthor": "Pierre Albouy / Reuters",
+       "nzzId": "ld.10021537",
+       "readingTime": 420,
+       "paywallQuestionOne": "What strategy is Philipp Navratil pursuing to make Nestlé grow again?",
+       "paywallQuestionTwo": "How is the stock market reacting to Navratil's restructuring of the company?",
+       "paywallQuestionThree": "Does Navratil have the necessary toughness to resolve internal conflicts at Nestlé?",
+       "characterCount": 9173,
+       "product": "NZZ.ch",
+       "documentId": 10021537,
+       "layout": "longformstandard",
+       "publicationDate": "2026-09-01T03:30:00.000Z",
+       "publicationLastUpdated": "2026-09-01T06:17:11.800Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+       "teaserCaption": "For a year now, the Swiss national has led the world's largest food conglomerate. In an interview with the NZZ, he takes stock.",
+       "authorLine": "Matthias Benz",
+       "authorImage": {
+        "originalUrl": "/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "4333,4333,x1084,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/marktanteile-zu-verlieren-ist-inakzeptabel-philipp-navratil-baut-nestle-um-doch-die-boerse-ist-noch-nicht-ueberzeugt-ld.10021537",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1362,
+       "leadText": "For a year now, the Swiss national has led the world's largest food conglomerate. In an interview with the NZZ, he takes stock.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1ghto3h5",
+      "content": {
+       "owner": "NZZ",
+       "title": "Coffee man instead of health evangelist: how Philipp Navratil is winding down Peter Brabeck's legacy at Nestlé",
+       "teaserImage": {
+        "originalUrl": "/2026/02/20/30f789e1-fc40-43fd-b75c-365220198371.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/20/30f789e1-fc40-43fd-b75c-365220198371.jpg?width=1024&quality=75&auto=webp",
+        "width": 2800,
+        "height": 1866,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2800,1575,x0,y136"
+         },
+         {
+          "name": "1:1",
+          "crop": "818,818,x1283,y254"
+         },
+         {
+          "name": "4:3",
+          "crop": "2488,1866,x97,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1244,1659,x1328,y207"
+         },
+         {
+          "name": "3:2",
+          "crop": "2799,1866,x1,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Nestlé Health Science was once the company's great hope. Now the division is disappearing. The new CEO, Philipp Navratil, is relying on tried and tested methods.",
+        "teaserAuthor": "Gaëtan Bally / Keystone"
+       },
+       "teaserAuthor": "Gaëtan Bally / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1925744",
+       "readingTime": 300,
+       "authorLine": "Matthias Benz",
+       "characterCount": 6489,
+       "product": "NZZ.ch",
+       "documentId": 1925744,
+       "layout": "regular",
+       "publicationDate": "2026-02-23T04:30:00.000Z",
+       "publicationLastUpdated": "2026-02-23T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-02-23T16:30:00.000Z",
+       "teaserCaption": "Nestlé Health Science was once the company's great hope. Now the division is disappearing. The new CEO, Philipp Navratil, is relying on tried and tested methods.",
+       "authorImage": {
+        "originalUrl": "/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "4333,4333,x1084,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wirtschaft/kaffeemann-statt-gesundheitsapostel-wie-philipp-navratil-bei-nestle-das-erbe-von-peter-brabeck-abwickelt-ld.1925744",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 967,
+       "leadText": "Nestlé Health Science was once the company's great hope. Now the division is disappearing. The new CEO, Philipp Navratil, is relying on tried and tested methods.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1ghto3h6",
+      "content": {
+       "owner": "NZZ",
+       "title": "Nestlé once aimed to combat Alzheimer's and allergies – today, its health division primarily sells vitamin tablets.",
+       "teaserImage": {
+        "originalUrl": "/2025/02/06/c9c8849a-67d5-421a-ba07-0b34e8c29b19.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/02/06/c9c8849a-67d5-421a-ba07-0b34e8c29b19.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3000,
+        "height": 2000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2667,1500,x14,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "384,384,x1836,y456"
+         },
+         {
+          "name": "4:3",
+          "crop": "2667,2000,x18,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1500,2000,x1159,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The food conglomerate's pharmaceutical plans have proven too ambitious. What future does Nestlé Health Science, the perennial hopeful, have under its new CEO?",
+        "teaserAuthor": "Salvatore Di Nolfi / Keystone"
+       },
+       "teaserAuthor": "Salvatore Di Nolfi / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1868419",
+       "readingTime": 420,
+       "authorLine": "Dieter Bachmann, Matthias Benz, Lausanne",
+       "characterCount": 9601,
+       "product": "NZZ.ch",
+       "documentId": 1868419,
+       "layout": "longformstandard",
+       "publicationDate": "2025-02-08T04:30:00.000Z",
+       "publicationLastUpdated": "2025-02-08T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-02-08T16:30:00.000Z",
+       "teaserCaption": "The food conglomerate's pharmaceutical plans have proven too ambitious. What future does Nestlé Health Science, the perennial hopeful, have under its new CEO?",
+       "url": "/wirtschaft/vitamine-proteine-ozempic-profitiert-nestle-health-science-vom-gesundheits-trend-ld.1868419",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1382,
+       "leadText": "The food conglomerate's pharmaceutical plans have proven too ambitious. What future does Nestlé Health Science, the perennial hopeful, have under its new CEO?",
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "From a beacon of hope to a problem case: Nestlé sells vitamin brands at a loss of billions",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/3ae0fbb0-6c52-4814-9ae1-b74e3fdfffcb.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/3ae0fbb0-6c52-4814-9ae1-b74e3fdfffcb.jpg?width=1024&quality=75&auto=webp",
+   "width": 5750,
+   "height": 3826,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5750,3234,x0,y494"
+    },
+    {
+     "name": "4:3",
+     "crop": "5101,3826,x85,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3826,3826,x1141,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2870,3826,x2072,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5739,3826,x2,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Nestlé once pursued ambitious plans in the health business. CEO Philipp Navratil is scaling them back.",
+   "teaserAuthor": "Ulrich Roth / Imago"
+  },
+  "teaserAuthor": "Ulrich Roth / Imago",
+  "nzzId": "ld.10022039",
+  "readingTime": 120,
+  "characterCount": 3090,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022039,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T13:24:22.348Z",
+  "publicationDate": "2026-09-02T13:24:22.348Z",
+  "publicationLastUpdated": "2026-09-02T14:54:02.637Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T01:24:22.348Z",
+  "teaserCaption": "Nestlé once pursued ambitious plans in the health business. CEO Philipp Navratil is scaling them back.",
+  "nzzAuthors": [
+   {
+    "id": 1373120,
+    "name": "Matthias Benz",
+    "shortName": "mbe",
+    "pianoId": "b364c563-5339-41e3-8bd6-f2a8cd7883f6",
+    "external": false
+   }
+  ],
+  "authorLine": "Matthias Benz",
+  "authorImage": {
+   "originalUrl": "/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4333,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "4333,4333,x1084,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 154637,
+    "name": "Matthias Benz (mbe.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 457,
+  "leadText": "Nestlé once pursued ambitious plans in the health business. CEO Philipp Navratil is scaling them back.",
+  "nzzSummaryEN": "- Nestlé sells its mainstream vitamins business for 800 million Swiss francs to Yellow Wood Partners, marking a 1.3 billion franc write-off.\n- Original expansion plans in the health business under former CEO Mark Schneider failed due to a competitive market and integration issues.\n- CEO Philipp Navratil will focus on profitable brands and integrate health products more closely into the core business.",
+  "nzzSummaryDE": "Nestlé sells its mainstream vitamins business to Yellow Wood Partners for 800 million Swiss francs, representing a loss in value of 1.3 billion Swiss francs.\n - Initial expansion plans in the healthcare business under former CEO Mark Schneider failed due to a competitive market and integration problems.\n CEO Philipp Navratil will focus on profitable brands in the future and integrate health products more closely into the core business.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Nestlé is cleaning up the vitamin aisle",
+  "nzzPrintSubtitle": "Sale of several brands ends ambitious plans in the healthcare business ",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039",
+   "title": "Nestlé sells vitamin brands: End of big plans in the health business",
+   "socialMediaTitle": "From a beacon of hope to a problem case: Nestlé sells vitamin brands in the USA",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/3ae0fbb0-6c52-4814-9ae1-b74e3fdfffcb.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5750,3234,x0,y494&wmark=nzz"
+  },
+  "ldPublicationId": 2487763,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Nestlé",
+    "slug": "/themen/nestle"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021537",
+    "ld.1925744",
+    "ld.1868419"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 209664,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "nestle",
+   "name": "Nestlé",
+   "tagName": "Nestlé",
+   "qId": "Q160746",
+   "seoTitle": "Nestlé – All articles about the company | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 19:02:40.238Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/nestle",
+   "size": 362,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/6bc0ee50-f823-47fa-917e-763778a8b728.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/6bc0ee50-f823-47fa-917e-763778a8b728.jpg?width=1024&quality=75&auto=webp",
+     "width": 5283,
+     "height": 3522,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5283,2972,x0,y487"
+      },
+      {
+       "name": "4:3",
+       "crop": "4696,3522,x294,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3522,3522,x881,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2642,3522,x1511,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5283,3522,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nestlé remained in Russia after the war in Ukraine began. Production continues, making the attack on the company unusual.",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "title": "Nestlé fears for its Russian business – an ominous company is apparently asking Putin for trusteeship",
+    "nzzId": "ld.10020128",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why is Russia considering placing Nestlé under receivership?",
+    "paywallQuestionTwo": "How do sanctions affect Nestlé's business in Russia?",
+    "paywallQuestionThree": "What would be the consequences of Nestlé withdrawing from Russia?",
+    "characterCount": 7603,
+    "product": "NZZ.ch",
+    "documentId": "10020128",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-20T04:00:08.407Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-20T15:30:00.000Z",
+    "teaserCaption": "Nestlé remained in Russia after the war in Ukraine began. Production continues, making the attack on the company unusual.",
+    "authorLine": "Matthias Benz, Elena Oberholzer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/nestle-bangt-um-sein-russland-geschaeft-eine-ominoese-firma-hat-putin-offenbar-um-zwangsverwaltung-gebeten-ld.10020128",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1078,
+    "leadText": "Nestlé remained in Russia after the war in Ukraine began. Production continues, making the attack on the company unusual.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/09/b2708f43-651c-492c-b31a-1985bd7baf02.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/09/b2708f43-651c-492c-b31a-1985bd7baf02.jpg?width=1024&quality=75&auto=webp",
+     "width": 3324,
+     "height": 2240,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3324,1870,x0,y185"
+      },
+      {
+       "name": "4:3",
+       "crop": "2987,2240,x169,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2240,2240,x542,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1680,2240,x822,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3324,2216,x0,y12"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "When it comes to the world's most famous coffee capsule, everyone wants a piece of the glory: Nespresso turns 40.",
+     "teaserAuthor": "Keystone"
+    },
+    "teaserAuthor": "Keystone",
+    "characterCount": 8971,
+    "title": "Nespresso was a flop, then it became a billion-dollar brand – but who deserves credit for its success? The debate continues to this day",
+    "nzzId": "ld.10014360",
+    "readingTime": 420,
+    "paywallQuestionOne": "How did Nespresso become a billion-dollar company despite initial skepticism?",
+    "paywallQuestionTwo": "What role did Eric Favre and Jean-Paul Gaillard play in the success of Nespresso?",
+    "paywallQuestionThree": "How did the exclusive business model influence the rise of Nespresso?",
+    "product": "NZZ.ch",
+    "documentId": "10014360",
+    "layout": "longformvisual",
+    "publicationDate": "2026-08-15T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-15T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-15T15:30:00.000Z",
+    "teaserCaption": "When it comes to the world's most famous coffee capsule, everyone wants a piece of the glory: Nespresso turns 40.",
+    "authorLine": "Janique Weder",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/658595c2-7b09-41f4-b098-616595fb9540.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/nespresso-war-ein-flop-dann-wurde-es-zur-milliardenmarke-doch-wem-ist-der-erfolg-zu-verdanken-darueber-wird-bis-heute-gestritten-ld.10014360",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1413,
+    "leadText": "When it comes to the world's most famous coffee capsule, everyone wants a piece of the glory: Nespresso turns 40.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "While the music on board has improved, the Nestlé supertanker is traveling too slowly",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "teaserImage": {
+     "originalUrl": "/2026/07/23/9d92cc0d-7ee4-437f-a9f7-974a96c323f1.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/23/9d92cc0d-7ee4-437f-a9f7-974a96c323f1.jpg?width=1024&quality=75&auto=webp",
+     "width": 7283,
+     "height": 4858,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7283,4097,x0,y761"
+      },
+      {
+       "name": "4:3",
+       "crop": "6477,4858,x733,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4858,4858,x1213,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3644,4858,x1820,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7283,4855,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Vaudois food giant is adapting to the new realities of the consumer world. Sales of its mineral water brands are a step in the right direction, but not enough.",
+     "teaserAuthor": "Beata Zawrzel/NurPhoto/Getty"
+    },
+    "teaserAuthor": "Beata Zawrzel/NurPhoto/Getty",
+    "nzzId": "ld.10016691",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is Nestlé positioning itself in the oversaturated consumer goods market?",
+    "paywallQuestionTwo": "What role does the partial sale of the mineral water business play for Nestlé?",
+    "paywallQuestionThree": "Can Nestlé accelerate its transformation into a more agile company?",
+    "characterCount": 4539,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10016691",
+    "layout": "opinion",
+    "publicationDate": "2026-07-23T14:53:17.060Z",
+    "publicationLastUpdated": "2026-07-24T03:59:26.904Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-24T02:53:17.060Z",
+    "teaserCaption": "The Vaudois food giant is adapting to the new realities of the consumer world. Sales of its mineral water brands are a step in the right direction, but not enough.",
+    "authorLine": "Moritz Kaufmann",
+    "authorImage": {
+     "originalUrl": "/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/zwar-ist-die-musik-an-bord-besser-geworden-aber-der-supertanker-nestle-ist-zu-langsam-unterwegs-ld.10016691",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 729,
+    "leadText": "The Vaudois food giant is adapting to the new realities of the consumer world. Sales of its mineral water brands are a step in the right direction, but not enough.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Goodbye San Pellegrino? Nestlé is outsourcing its mineral water business and partnering with a private equity firm",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/23/f3db3ca8-ee00-41a6-a827-6e764e0f8547.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/23/f3db3ca8-ee00-41a6-a827-6e764e0f8547.jpg?width=1024&quality=75&auto=webp",
+     "width": 5200,
+     "height": 3461,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5200,2925,x0,y536"
+      },
+      {
+       "name": "4:3",
+       "crop": "4615,3461,x226,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3461,3461,x870,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2596,3461,x1302,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5192,3461,x4,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nestlé is establishing a joint venture with the American financial investor Platinum Equity for its water business. Analysts view the spin-off positively. Nevertheless, the shares are falling.",
+     "teaserAuthor": "Richard B. Levine / Imago"
+    },
+    "teaserAuthor": "Richard B. Levine / Imago",
+    "nzzId": "ld.10016668",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Nestlé outsourcing its mineral water business to a joint venture?",
+    "paywallQuestionTwo": "Which brands are affected by the cooperation with Platinum Equity?",
+    "paywallQuestionThree": "What is the financial value of the deal for Nestlé?",
+    "characterCount": 5602,
+    "product": "NZZ.ch",
+    "documentId": "10016668",
+    "layout": "regular",
+    "publicationDate": "2026-07-23T10:37:51.097Z",
+    "publicationLastUpdated": "2026-07-23T15:48:03.967Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-23T22:37:51.097Z",
+    "teaserCaption": "Nestlé is establishing a joint venture with the American financial investor Platinum Equity for its water business. Analysts view the spin-off positively. Nevertheless, the shares are falling.",
+    "authorLine": "Moritz Kaufmann, Beatrice Bösiger",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/12/06/48c0348b-607f-4ad3-bd83-7dbfb7d943a9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/arrividerci-san-pellegrino-nestle-lagert-sein-mineralwassergeschaeft-aus-und-spannt-mit-einem-private-equity-unternehmen-zusammen-ld.10016668",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 785,
+    "leadText": "Nestlé is establishing a joint venture with the American financial investor Platinum Equity for its water business. Analysts view the spin-off positively. Nevertheless, the shares are falling.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Business: Siemens Energy saves hundreds of millions and therefore drops Siemens from its name",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+    "flag": "Short news items",
+    "nzzId": "ld.10010807",
+    "readingTime": 960,
+    "paywallQuestionOne": "How did Trump's statements affect the Dax on June 10th?",
+    "paywallQuestionTwo": "What role do geopolitical risks play for the markets, according to experts?",
+    "paywallQuestionThree": "Why does the Fed's monetary policy outlook remain unclear?",
+    "characterCount": 22084,
+    "product": "NZZ.ch",
+    "documentId": "10010807",
+    "layout": "regular",
+    "publicationDate": "2026-07-14T15:18:42.843Z",
+    "publicationLastUpdated": "2026-07-14T15:26:35.356Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-15T03:18:42.843Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/wirtschaft/wirtschaft-stefan-hartung-tritt-als-bosch-chef-ab-ex-ceo-geht-laut-medienbericht-nach-kuendigung-gegen-nestle-vor-ld.10010807",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 3252,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Love affair with legal repercussions: Former CEO Laurent Freixe demands millions back from Nestlé",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/26/cb8ffa4a-8e68-443f-afcc-381b082e617a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/26/cb8ffa4a-8e68-443f-afcc-381b082e617a.jpg?width=1024&quality=75&auto=webp",
+     "width": 3200,
+     "height": 2134,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3200,1800,x0,y158"
+      },
+      {
+       "name": "4:3",
+       "crop": "2845,2134,x355,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2134,2134,x1066,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1601,2134,x1393,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3200,2133,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Laurent Freixe lost his job as CEO of Nestlé because of a secret love affair. Now he is fighting legally for his reputation and money. An employment lawyer assesses his chances of success.",
+     "teaserAuthor": "Carlos Manuel / Global Images / Imago"
+    },
+    "teaserAuthor": "Carlos Manuel / Global Images / Imago",
+    "nzzId": "ld.10013078",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why was Laurent Freixe dismissed without notice?",
+    "paywallQuestionTwo": "What claims does Freixe make against Nestlé?",
+    "paywallQuestionThree": "Was the dismissal without notice legally justified?",
+    "characterCount": 5982,
+    "product": "NZZ.ch",
+    "documentId": "10013078",
+    "layout": "regular",
+    "publicationDate": "2026-06-27T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-27T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-27T15:30:00.000Z",
+    "teaserCaption": "Laurent Freixe lost his job as CEO of Nestlé because of a secret love affair. Now he is fighting legally for his reputation and money. An employment lawyer assesses his chances of success.",
+    "authorLine": "Matthias Benz",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/11/20/879cccfa-6edb-469a-ac0b-9d031edda89b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/liebesaffaere-mit-juristischem-nachspiel-der-ehemalige-ceo-laurent-freixe-fordert-von-nestle-millionen-zurueck-ld.10013078",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 878,
+    "leadText": "Laurent Freixe lost his job as CEO of Nestlé because of a secret love affair. Now he is fighting legally for his reputation and money. An employment lawyer assesses his chances of success.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022039",
+    "name": "From a beacon of hope to a problem case: Nestlé sells vitamin brands at a loss of billions",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "From a beacon of hope to a problem case: Nestlé sells vitamin brands at a loss of billions",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373120,
+       "name": "Matthias Benz",
+       "shortName": "mbe",
+       "pianoId": "b364c563-5339-41e3-8bd6-f2a8cd7883f6",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T13:24:22.348Z",
+     "updateTimestamp": "2026-09-02T14:54:02.637Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022039",
+   "pageType": "regular",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Nestlé sells vitamin brands: End of big plans in the health business",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/3ae0fbb0-6c52-4814-9ae1-b74e3fdfffcb.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5750,3234,x0,y494&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Matthias Benz",
+  "description": "Nestlé once pursued ambitious plans in the health business. CEO Philipp Navratil is scaling them back.",
+  "news_keywords": "From a beacon of hope to a problem case: Nestlé sells vitamin brands at a loss of billions, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T18:54:02+02:00",
+  "date": "2026-09-02T17:24:22+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "From a beacon of hope to a problem case: Nestlé sells vitamin brands at a loss of billions",
+  "ogTitle": "From a beacon of hope to a problem case: Nestlé sells vitamin brands in the USA",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039",
+  "mrf:cms_id": "nzz:ld.10022039",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022039",
+  "nzzAuthors": [
+   {
+    "id": 1373120,
+    "name": "Matthias Benz",
+    "shortName": "mbe",
+    "pianoId": "b364c563-5339-41e3-8bd6-f2a8cd7883f6",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:44 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Nestlé sells vitamin brands: End of big plans in the health business"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039"
+   },
+   "headline": "Nestlé sells vitamin brands: End of big plans in the health business",
+   "datePublished": "2026-09-02T17:24:22+02:00",
+   "dateModified": "2026-09-02T18:54:02+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Nestlé once pursued ambitious plans in the health business. CEO Philipp Navratil is scaling them back.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/3ae0fbb0-6c52-4814-9ae1-b74e3fdfffcb.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5750,3234,x0,y494&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Matthias Benz"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 209664,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/vom-hoffnungstraeger-zum-problemfall-nestle-verkauft-vitaminmarken-mit-milliardenverlust-ld.10022039",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022039",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2026-09-02T13:24:22.348Z",
+   "ContentAuthor": "Matthias Benz",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum verkauft Nestlé seine Vitaminmarken mit Milliardenverlust?\nWelche Fehler führten zur Wertvernichtung im Vitamingeschäft von Nestlé?\nWie will Nestlé künftig im Gesundheitsgeschäft erfolgreich sein?",
+   "ldId": "ld.10022039",
+   "channel": "Wirtschaft",
+   "heading": "Vom Hoffnungsträger zum Problemfall: Nestlé verkauft Vitaminmarken mit Milliardenverlust",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,2287 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1jnp9bh6i1",
+   "content": {
+    "title": "AI is devouring our water: Milan's data centers symbolize a looming water conflict in Europe",
+    "lead": "Many new data centers are being built around Milan. Activists are sounding the alarm while politicians offer reassurances. But no one knows exactly how much these facilities strain the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+    "authorline": "Kalina Oroschakoff, Roland Shaw, Joana Kelen",
+    "image": {
+     "author": "Data Centers Header",
+     "caption": "Data Centers Header",
+     "originalUrl": "/2026/06/01/daae7bea-7827-4a3c-a635-47645e50ef41.png?crop=2000,1500,x0,y0",
+     "width": 2000,
+     "height": 1500,
+     "altText": "Data Centers Header",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2000,
+      "height": 1500,
+      "name": "desktop",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2000,
+       "height": 1500,
+       "name": "desktop",
+       "isAutomatic": true
+      },
+      {
+       "x": 438,
+       "y": 0,
+       "width": 1125,
+       "height": 1500,
+       "name": "tablet",
+       "isAutomatic": true
+      },
+      {
+       "x": 578,
+       "y": 0,
+       "width": 844,
+       "height": 1500,
+       "name": "mobile",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "",
+    "caption": "",
+    "author": ""
+   },
+   "data": {
+    "_leadDirective": {}
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jp7dgihg0",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Roland Shaw",
+       "url": "/impressum/roland-shaw-ld.1684746",
+       "teaserImage": {
+        "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jp7jhjdd0",
+   "content": {
+    "text": "<strong></strong>Milan is synonymous with fashion and Aperol Spritz, with the Duomo and La Scala. But just a few kilometers outside the city center, a different world begins. There, warehouses, factories and industrial parks are lined up one after another, often right next to farmland. Steel and concrete dominate the landscape."
+   },
+   "data": {},
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-b6894576",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpht21hh1",
+   "content": {
+    "text": "Lombardy has been one of Europe's most important industrial regions for decades. But where machines were once manufactured, a new industrial landscape is emerging, built for data. Data centers are clustering together in Milan and its surrounding area, with consequences for the region and its people that are still unforeseeable."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jpkt4k2r0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "9ddb1fb6f0b57e162c0e68699baf2d31",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "containerwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_9ddb1fb6f0b57e162c0e68699baf2d31_qcd1c85814803402f8b68851e5bd3b234_container\"        data-q-item-id=\"9ddb1fb6f0b57e162c0e68699baf2d31\"        data-q-request-id=\"3453d74b55b554bd0a61fd2f4c0d550bb544e329\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"9ddb1fb6f0b57e162c0e68699baf2d31\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"9ddb1fb6f0b57e162c0e68699baf2d31\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"3453d74b55b554bd0a61fd2f4c0d550bb544e329\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_9ddb1fb6f0b57e162c0e68699baf2d31_qcd1c85814803402f8b68851e5bd3b234_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"9ddb1fb6f0b57e162c0e68699baf2d31\",\"title\":\"Data centers in Milan\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/27/Rechenzentren-Mailand-mw-bcfcb6ba3446dc053ea2be0e240eef70.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/27/Rechenzentren-Mailand-mw-bcfcb6ba3446dc053ea2be0e240eef70.png\",\"size\":1364854,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Mailand-mw.png\",\"width\":1110,\"height\":1836}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/27/Rechenzentren-Mailand-cw-7f6a0b264bb080275abe9257fd47792c.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/27/Rechenzentren-Mailand-cw-7f6a0b264bb080275abe9257fd47792c.png\",\"size\":2152369,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Mailand-cw.png\",\"width\":1890,\"height\":1401}],\"minWidth\":540},{\"images\":[{\"key\":\"2026/05/27/Rechenzentren-Mailand-fw-946ce2eaa91091e9e4c9d6a29461bd0a.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/27/Rechenzentren-Mailand-fw-946ce2eaa91091e9e4c9d6a29461bd0a.png\",\"size\":4777599,\"type\":\"image/png\",\"originalName\":\"Rechenzentren-Mailand-fw.png\",\"width\":3000,\"height\":2244}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-27T14:25:26.195Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_9ddb1fb6f0b57e162c0e68699baf2d31_qcd1c85814803402f8b68851e5bd3b234\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpi32kfj1",
+   "content": {
+    "text": "However, tensions are already running high in the affected communities. Residents are worried about the local impacts – water consumption and heat stress, noise, air and environmental pollution."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jq17o7b10",
+   "content": {
+    "image": {
+     "author": "Sara Busiol / Paolo Michele",
+     "caption": "A data center for Segrate: Micheli was mayor of the municipality near Milan until the end of May.",
+     "originalUrl": "/2026/06/01/6594f7e3-5966-4558-a9a3-b248c15f4d12.png?crop=755,1544,x0,y0",
+     "width": 755,
+     "height": 1544,
+     "altText": "A data center for Segrate: Micheli was mayor of the municipality near Milan until the end of May.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 755,
+      "height": 1544,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 755,
+       "height": 1544,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A data center for Segrate: Micheli was mayor of the municipality near Milan until the end of May.",
+    "author": "Sara Busiol / Paolo Michele"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--left"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpht2nbb0",
+   "content": {
+    "text": "«The crucial point is that data centers are something new here. No one knows what the consequences will be if a data center is built here – not even the public administration,» says Paolo Micheli, a politician from the former governing party, the PD. He was mayor of Segrate, a municipality near Linate Airport, until the elections at the end of May. The American company Cyrus One is building its <a href=\"https://www.cyrusone.com/resources/press-releases/cyrusone-breaks-ground-on-first-data-center-in-italy\">first AI data center in Italy</a> there. Construction on the medium-sized facility began in mid-March on a former industrial site. The investment exceeds $200 million."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jphtlff61",
+   "content": {
+    "text": "Segrate is considered a flagship project for data center expansion in the Milan region. Micheli has often spoken with colleagues from other municipalities. Many of them have problems, he says. Residents are worried and are organizing themselves into protest and environmental initiatives. They fear that the construction projects will bring environmental problems but little economic benefit."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jphv9hmh1",
+   "content": {
+    "text": "Cyrus One presents itself as a company that lives up to its responsibility to the community. To that end, it is building a new park in Segrate. The land for it has already been purchased. The company is also financing road construction work. It will install solar panels on school roofs and source solar and wind energy to operate its data center."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpi3b5n21",
+   "content": {
+    "text": "But Micheli has also chalked these plans up as a success for his community and as the result of tough negotiations by his city administration. The heat produced by the data center is to be used for heating the community. However, the necessary infrastructure still needs to be built. A data center typically operates for around 20 years. Micheli says the plan for utilizing the heat is correspondingly long-term."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jphuva0i1",
+   "content": {
+    "text": "But not all residents are convinced. «The local residents are very worried about emissions from electricity consumption, noise and water,» he says. Micheli considers some of these concerns surprising, even unfounded."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpk6vc5v1",
+   "content": {
+    "text": "This is not always related to specific incidents but rather to developments in the U.S. For example, a video by U.S. Congresswoman Alexandria Ocasio-Cortez about potential harmful <a href=\"https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-presses-epa-assistant-administrator-kramer-jeopardizing-clean\">effects on water quality</a> has reportedly attracted attention recently – and prompted questions for Micheli."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "tiktok"
+  },
+  {
+   "identifier": "tiktok",
+   "id": "doc-1jpkdetqu0",
+   "content": {
+    "tiktok": {
+     "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@nbcnews/video/7642473402573278477\" data-video-id=\"7642473402573278477\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@nbcnews\" href=\"https://www.tiktok.com/@nbcnews?refer=embed\">@nbcnews</a> <p>During a House hearing, Rep. Alexandria Ocasio-Cortez showed jars of murky drinking water taken from Morgan County, Georgia, where new data centers were constructed.</p> <a target=\"_blank\" title=\"♬ original sound - nbcnews - nbcnews\" href=\"https://www.tiktok.com/music/original-sound-nbcnews-7642473434957581069?refer=embed\">♬ original sound - nbcnews - nbcnews</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+     "caption": "",
+     "url": "https://www.tiktok.com/@nbcnews/video/7642473402573278477"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpi3ro1b0",
+   "content": {
+    "text": "Wherever data centers are built, residents worry about water consumption – and local politicians have to prepare for this. This also applies to Milan, which, thanks to its proximity to the Alps, is actually very well supplied with water. «A month ago, nobody was talking about water, but recently I received letters from residents wanting to know what water problems the data center might cause,» says Micheli."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "tiktok",
+   "nextElement": "quote"
+  },
+  {
+   "identifier": "quote",
+   "id": "doc-1jpkdgbb31",
+   "content": {
+    "text": "«A month ago, no one was talking about water, but recently I have received letters from residents wanting to know what water problems the data center might cause.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jpn830oq2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/05/28/3282919c-b1b0-4fdb-b102-6e6d6cd95a78.png?crop=1891,695,x0,y0",
+     "width": 1891,
+     "height": 695,
+     "altText": "Chapter icon Questions",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 695,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 695,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "quote",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jpi54bcr0",
+   "content": {
+    "title": "Many questions, no answers",
+    "id": "subtitle-viele-fragen-keine-antworten"
+   },
+   "styles": {
+    "subtitle-type": "subtitle--chapter"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkgho6d0",
+   "content": {
+    "text": "Researchers and environmental activists in Milan <a href=\"https://www.polimi.it/en/the-politecnico/news/news-detail/milan-capital-data-centers-politecnico-di-milano-mapping\">are observing</a> the construction boom with concern. But they currently cannot substantiate their suspicions with data."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkh13jk0",
+   "content": {
+    "text": "«We have no data,» says Cristiana Mattioli. She is a researcher at the Politecnico, the technical university in Milan."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkk70c91",
+   "content": {
+    "text": "«The issue of water is of crucial importance, but is very difficult to monitor due to the lack of publicly available data.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jpl12d5v0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "9ddb1fb6f0b57e162c0e68699bbe4ed2",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-infographic-container\"        id=\"q_infographic_9ddb1fb6f0b57e162c0e68699bbe4ed2_qc24021a0c362463f9600c9a9e77e8b4d_container\"        data-q-item-id=\"9ddb1fb6f0b57e162c0e68699bbe4ed2\"        data-q-request-id=\"e695b553e06cc7929ac97b2af42cc438b4f25a17\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"9ddb1fb6f0b57e162c0e68699bbe4ed2\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"infographic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"9ddb1fb6f0b57e162c0e68699bbe4ed2\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"infographic\"}},\"e695b553e06cc7929ac97b2af42cc438b4f25a17\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/infographic/q-infographic-1.2.9.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_infographic_9ddb1fb6f0b57e162c0e68699bbe4ed2_qc24021a0c362463f9600c9a9e77e8b4d_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"9ddb1fb6f0b57e162c0e68699bbe4ed2\",\"title\":\"Water scarcity chart\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sro.\",\"sources\":[],\"images\":{\"variants\":[{\"images\":[{\"key\":\"2026/05/28/Wasserknappheit-Q-Chart-mw-c3960e1915865de99243c3feef0bdeaa.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Wasserknappheit-Q-Chart-mw-c3960e1915865de99243c3feef0bdeaa.png\",\"size\":114725,\"type\":\"image/png\",\"originalName\":\"Wasserknappheit-Q-Chart-mw.png\",\"width\":1110,\"height\":1617}],\"minWidth\":0},{\"images\":[{\"key\":\"2026/05/28/Wasserknappheit-Q-Chart-cw-b9d6fdf5926ca44c56ce8552f62779d8.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Wasserknappheit-Q-Chart-cw-b9d6fdf5926ca44c56ce8552f62779d8.png\",\"size\":120069,\"type\":\"image/png\",\"originalName\":\"Wasserknappheit-Q-Chart-cw.png\",\"width\":1890,\"height\":1470}],\"minWidth\":540},{\"images\":[{}],\"minWidth\":830}]},\"options\":{\"serveLosslessWebP\":false},\"updatedDate\":\"2026-05-28T12:48:32.265Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_infographic_9ddb1fb6f0b57e162c0e68699bbe4ed2_qc24021a0c362463f9600c9a9e77e8b4d\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qInfographic) {              clearInterval(checkAndInitialize);              new window.qInfographic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qInfographic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkdjauf1",
+   "content": {
+    "text": "In the Milan region, heat and drought repeatedly push people, industry and infrastructure to their limits. Now, data centers are adding to the list of water consumers. «Milan is a region with abundant groundwater resources, but we already experienced water shortages two years ago following a dry winter,» says Eugenio Morello, who heads the research project at the Politecnico."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jpnjl9k70",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "63f87aaa668621f558a7e1a8d7837f58",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": false,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "containerwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-scroll_graphic-container\"        id=\"q_scroll_graphic_63f87aaa668621f558a7e1a8d7837f58_qeb55f701b4bd4c07a730280da60dfa7a_container\"        data-q-item-id=\"63f87aaa668621f558a7e1a8d7837f58\"        data-q-request-id=\"d2f0aeb6d8d8c6ff9ca926a79a49c890670d9540\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/scrollGraphic/q-scrollGraphic-1.2.14.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"63f87aaa668621f558a7e1a8d7837f58\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"scroll_graphic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"63f87aaa668621f558a7e1a8d7837f58\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"scroll_graphic\"}},\"d2f0aeb6d8d8c6ff9ca926a79a49c890670d9540\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/scrollGraphic/q-scrollGraphic-1.2.14.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_scroll_graphic_63f87aaa668621f558a7e1a8d7837f58_qeb55f701b4bd4c07a730280da60dfa7a_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"63f87aaa668621f558a7e1a8d7837f58\",\"acronym\":\"sro.\",\"publication\":\"nzz\",\"title\":\"Scrolly data centers Europe incl. Choropleth\",\"subtitle\":\"\",\"headerMetaInfo\":{\"title\":\"\",\"lead\":\"\",\"author\":\"\",\"publicationDate\":\"\"},\"highlightedTextColors\":[{\"color\":\"#72ded1\"}],\"options\":{\"disableAnimation\":false,\"useSansSerif\":false},\"sectionText\":{\"sectionTextBackground\":\"custom\",\"customized\":{\"textShadow\":\"none\",\"textColor\":\"#ffffff\",\"textBackgroundColor\":\"rgba(56, 55, 82, 1)\"}},\"steps\":[{\"text\":\"Many regions in southern Europe struggle with seasonal water shortages. Water resources there are under greater pressure than in northern and eastern Europe, due in part to agriculture and industry.\",\"highlightedTexts\":[],\"variants\":[{\"asset\":{\"key\":\"2026/05/28/Karte-Wasserknappheit-Europa-mw1-245f44ba76010ea2fab0b31b5f2f6a39.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Karte-Wasserknappheit-Europa-mw1-245f44ba76010ea2fab0b31b5f2f6a39.png\",\"size\":542430,\"type\":\"image/png\",\"originalName\":\"Karte-Wasserknappheit-Europa-mw1.png\",\"width\":1110,\"height\":1920},\"minWidth\":0},{\"asset\":{\"key\":\"2026/05/28/Karte-Wasserknappheit-Europa-cw1-5495cf2159db409640a63fb2cbcd80a8.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Karte-Wasserknappheit-Europa-cw1-5495cf2159db409640a63fb2cbcd80a8.png\",\"size\":885489,\"type\":\"image/png\",\"originalName\":\"Karte-Wasserknappheit-Europa-cw1.png\",\"width\":1890,\"height\":2088},\"minWidth\":540},{\"asset\":{\"key\":\"2026/05/28/Karte-Wasserknappheit-Europa-fw1-8c7723aeb9eafa74ae0d1b272b81903e.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Karte-Wasserknappheit-Europa-fw1-8c7723aeb9eafa74ae0d1b272b81903e.png\",\"size\":1892506,\"type\":\"image/png\",\"originalName\":\"Karte-Wasserknappheit-Europa-fw1.png\",\"width\":3000,\"height\":2349},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"The expansion of data centers is accelerating across the continent — often in regions already suffering from water stress. Water could therefore become a contested resource.\",\"highlightedTexts\":[{\"text\":\"Data centers\",\"color\":0,\"type\":\"bold\",\"preventLineBreak\":false}],\"variants\":[{\"asset\":{\"key\":\"2026/05/28/Karte-Wasserknappheit-Europa-mw2-a70452d624851ced7ad09f7a86c63c87.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Karte-Wasserknappheit-Europa-mw2-a70452d624851ced7ad09f7a86c63c87.png\",\"size\":797519,\"type\":\"image/png\",\"originalName\":\"Karte-Wasserknappheit-Europa-mw2.png\",\"width\":1110,\"height\":1920},\"minWidth\":0},{\"asset\":{\"key\":\"2026/05/28/Karte-Wasserknappheit-Europa-cw2-810b4a85ebf76a81831f04819a5a6848.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Karte-Wasserknappheit-Europa-cw2-810b4a85ebf76a81831f04819a5a6848.png\",\"size\":1106272,\"type\":\"image/png\",\"originalName\":\"Karte-Wasserknappheit-Europa-cw2.png\",\"width\":1890,\"height\":2088},\"minWidth\":540},{\"asset\":{\"key\":\"2026/05/28/Karte-Wasserknappheit-Europa-fw2-ca501abdbc8152de1e4b815ec8411f4c.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/28/Karte-Wasserknappheit-Europa-fw2-ca501abdbc8152de1e4b815ec8411f4c.png\",\"size\":2242508,\"type\":\"image/png\",\"originalName\":\"Karte-Wasserknappheit-Europa-fw2.png\",\"width\":3000,\"height\":2349},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}}],\"sources\":[],\"updatedDate\":\"2026-05-29T08:48:21.393Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":false,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_scroll_graphic_63f87aaa668621f558a7e1a8d7837f58_qeb55f701b4bd4c07a730280da60dfa7a\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qScrollGraphic) {              clearInterval(checkAndInitialize);              new window.qScrollGraphic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qScrollGraphic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpiftp171",
+   "content": {
+    "text": "Morello also observes that water is increasingly becoming a concern for the public. Tech companies are aware of this growing suspicion and have adapted their communication strategies accordingly."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpksi7891",
+   "content": {
+    "text": "For years, water played a negligible role. Now, Microsoft, Google, Amazon, Oracle and many other data center operators regularly emphasize that they would use less water thanks to improved technology. As early as <a href=\"https://www.climateneutraldatacentre.net/2022/07/26/climate-neutral-data-centre-pact-presents-new-water-metrics-to-european-commission/\">2022, many of these companies announced</a> new targets for 2040 as part of a voluntary EU initiative. At the time, the companies wrote that water scarcity would increase in many regions, making it «essential for the data center industry to take measures to reduce its water consumption.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkc57h80",
+   "content": {
+    "text": "This depends heavily on location, climate and cooling technology. Data centers get extremely hot, especially in the age of AI. This is because the chips required for AI heat up more than conventional processors. To cool them, operators use various technologies, which in turn affect water consumption."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jpn8s80h2",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/05/28/1e51c6d6-c6ef-412a-b536-490f68df7b27.png?crop=1891,695,x0,y0",
+     "width": 1891,
+     "height": 695,
+     "altText": "Melting Server Chapter Icon",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 695,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 695,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jpkh62e50",
+   "content": {
+    "title": "Hot data centers need to be cooled",
+    "id": "subtitle-heisse-rechenzentren-m-ssen-gek-hlt-werden"
+   },
+   "styles": {
+    "subtitle-type": "subtitle--chapter"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkh6qtb0",
+   "content": {
+    "text": "In some data centers, cooling functions similarly to oversized air conditioning systems, requiring relatively little water but a great deal of electricity. Increasingly, however, operators are cooling their facilities through evaporation and water. Older facilities often used cooling towers for this purpose. The water was simply released into the environment as steam, which consumed a significant amount of water. Increasingly, however, so-called closed-loop systems are being used, which recycle the water in a closed circuit."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jpppdigq0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "63f87aaa668621f558a7e1a8d7f83033",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "containerwidth"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-scroll_graphic-container\"        id=\"q_scroll_graphic_63f87aaa668621f558a7e1a8d7f83033_q6765a68ad9274344b396d39e92d4414d_container\"        data-q-item-id=\"63f87aaa668621f558a7e1a8d7f83033\"        data-q-request-id=\"bf6543e277118d1b6cfd876e824c9c6869867fd8\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-font%23master,sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/scrollGraphic/q-scrollGraphic-1.2.14.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"63f87aaa668621f558a7e1a8d7f83033\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"scroll_graphic\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"63f87aaa668621f558a7e1a8d7f83033\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"scroll_graphic\"}},\"bf6543e277118d1b6cfd876e824c9c6869867fd8\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/scrollGraphic/q-scrollGraphic-1.2.14.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_scroll_graphic_63f87aaa668621f558a7e1a8d7f83033_q6765a68ad9274344b396d39e92d4414d_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"63f87aaa668621f558a7e1a8d7f83033\",\"acronym\":\"jok.\",\"publication\":\"nzz\",\"title\":\"Scrolly data centers water cooling\",\"subtitle\":\"\",\"headerMetaInfo\":{\"title\":\"\",\"lead\":\"\",\"author\":\"\",\"publicationDate\":\"\"},\"highlightedTextColors\":[],\"options\":{\"disableAnimation\":false,\"useSansSerif\":false},\"sectionText\":{\"sectionTextBackground\":\"custom\",\"customized\":{\"textShadow\":\"none\",\"textColor\":\"#ffffff\",\"textBackgroundColor\":\"rgba(56, 55, 82, 1)\"}},\"steps\":[{\"text\":\"Hot chips need to be cooled. Previously, air was used for cooling. Today, that's no longer sufficient. Increasingly, water is being used for cooling.\",\"highlightedTexts\":[],\"variants\":[{\"asset\":{\"key\":\"2026/05/31/Rechenzentrum-Kuhlung-Mobile1mw3x-72b4d60a76649921b68f918bf736a19c.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/31/Rechenzentrum-Kuhlung-Mobile1mw3x-72b4d60a76649921b68f918bf736a19c.png\",\"size\":289313,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Mobile1mw@3x.png\",\"width\":1110,\"height\":1968},\"minWidth\":0},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop1Zeichenflache-173x-31eae252b40c62c16d22bb34bace1966.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop1Zeichenflache-173x-31eae252b40c62c16d22bb34bace1966.png\",\"size\":2409386,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop1Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":540},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop1Zeichenflache-173x-31eae252b40c62c16d22bb34bace1966.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop1Zeichenflache-173x-31eae252b40c62c16d22bb34bace1966.png\",\"size\":2409386,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop1Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"Water or a cooling fluid flows directly to the servers to absorb the heat.\",\"highlightedTexts\":[],\"variants\":[{\"asset\":{\"key\":\"2026/05/31/Rechenzentrum-Kuhlung-Mobile2mw3x-21d5e4bd413e633acfcca41a998a55fb.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/31/Rechenzentrum-Kuhlung-Mobile2mw3x-21d5e4bd413e633acfcca41a998a55fb.png\",\"size\":213917,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Mobile2mw@3x.png\",\"width\":1110,\"height\":1968},\"minWidth\":0},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop2Zeichenflache-173x-21cc721d8f360dc96de4b7d4e6795b68.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop2Zeichenflache-173x-21cc721d8f360dc96de4b7d4e6795b68.png\",\"size\":1978778,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop2Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":540},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop2Zeichenflache-173x-21cc721d8f360dc96de4b7d4e6795b68.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop2Zeichenflache-173x-21cc721d8f360dc96de4b7d4e6795b68.png\",\"size\":1978778,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop2Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"The warm liquid flows back, is cooled, and flows back again in a closed cycle.\",\"highlightedTexts\":[],\"variants\":[{\"asset\":{\"key\":\"2026/05/31/Rechenzentrum-Kuhlung-Mobile3mw3x-b5c1eb1a9f186ecc2ce4fcee0b7dd3b9.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/31/Rechenzentrum-Kuhlung-Mobile3mw3x-b5c1eb1a9f186ecc2ce4fcee0b7dd3b9.png\",\"size\":291254,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Mobile3mw@3x.png\",\"width\":1110,\"height\":1968},\"minWidth\":0},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop3Zeichenflache-173x-7944d66e1e65cb09b6f1caf2e7a442f5.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop3Zeichenflache-173x-7944d66e1e65cb09b6f1caf2e7a442f5.png\",\"size\":2611731,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop3Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":540},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop3Zeichenflache-173x-7944d66e1e65cb09b6f1caf2e7a442f5.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop3Zeichenflache-173x-7944d66e1e65cb09b6f1caf2e7a442f5.png\",\"size\":2611731,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop3Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}},{\"text\":\"In a separate step, the heat is released to the outside.\",\"highlightedTexts\":[],\"variants\":[{\"asset\":{\"key\":\"2026/05/31/Rechenzentrum-Kuhlung-Mobile4mw3x-77d2b33614637e22dae6f3f5597cb2e2.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/05/31/Rechenzentrum-Kuhlung-Mobile4mw3x-77d2b33614637e22dae6f3f5597cb2e2.png\",\"size\":288755,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Mobile4mw@3x.png\",\"width\":1110,\"height\":1968},\"minWidth\":0},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop4Zeichenflache-173x-1dfc25dfba5e373c558370e1f20f5656.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop4Zeichenflache-173x-1dfc25dfba5e373c558370e1f20f5656.png\",\"size\":2551997,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop4Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":540},{\"asset\":{\"key\":\"2026/06/01/Rechenzentrum-Kuhlung-Desktop4Zeichenflache-173x-1dfc25dfba5e373c558370e1f20f5656.png\",\"url\":\"https://nzz-q-assets2.static-nzz.ch/2026/06/01/Rechenzentrum-Kuhlung-Desktop4Zeichenflache-173x-1dfc25dfba5e373c558370e1f20f5656.png\",\"size\":2551997,\"type\":\"image/png\",\"originalName\":\"Rechenzentrum-Kühlung-Desktop4Zeichenfläche 17@3x.png\",\"width\":7464,\"height\":6592},\"minWidth\":830}],\"isTitle\":false,\"textboxImage\":{\"position\":\"top\",\"type\":\"circle\",\"borderColor\":\"#ff0000\"}}],\"sources\":[{\"text\":\"Equinix\",\"link\":{\"url\":\"https://www.youtube.com/watch?v=JYmu1eNvfNQ\"}}],\"updatedDate\":\"2026-06-01T08:15:11.576Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_scroll_graphic_63f87aaa668621f558a7e1a8d7f83033_q6765a68ad9274344b396d39e92d4414d\",\"imageServiceUrl\":\"https://nzz-q-assets2.static-nzz.ch\",\"imageServiceType\":\"cloudflare\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qScrollGraphic) {              clearInterval(checkAndInitialize);              new window.qScrollGraphic({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qScrollGraphic after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkeim621",
+   "content": {
+    "text": "Technology is constantly evolving. Today, cooling primarily aims to cool the heated surfaces of servers. <a href=\"https://news.microsoft.com/source/features/innovation/microfluidics-liquid-cooling-ai-chips/\">Companies like Microsoft</a> say these technical adjustments and innovations significantly reduce consumption."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkc35kc0",
+   "content": {
+    "text": "But this cannot be verified, according to Morello, who added that it is in the operators' interest «to present figures and gain public trust in the infrastructure.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpigfkpg0",
+   "content": {
+    "text": "It is a concern that is troubling large parts <a href=\"https://www.eea.europa.eu/en/analysis/publications/artificial-intelligence-and-sustainable-consumption-in-europe\">of Europe</a>."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpplaot41",
+   "content": {
+    "text": "Reports from the European Commission clearly show how poor the data is. Although operators are actually required under EU rules to disclose their water, emissions and energy footprints, the commission has <a href=\"https://op.europa.eu/en/publication-detail/-/publication/83be4c3e-5c79-11f0-a9d0-01aa75ed71a1/language-en\">received the necessary information for 2024 from only 36%</a> of the facilities."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jpugv7610",
+   "content": {
+    "image": {
+     "author": "Christian Beutler / Keystone",
+     "caption": "Devoid of people, but cooled and ventilated: a server room in a data center of Green Datacenter AG in the canton of Aargau in 2018.",
+     "originalUrl": "/2026/05/31/4a59f119-daf6-44da-a9e6-f7df31610b50.png?crop=2316,1544,x0,y0",
+     "width": 2316,
+     "height": 1544,
+     "altText": "Devoid of people, but cooled and ventilated: a server room in a data center of Green Datacenter AG in the canton of Aargau in 2018.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2316,
+      "height": 1544,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2316,
+       "height": 1544,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Devoid of people, but cooled and ventilated: a server room in a data center of Green Datacenter AG in the canton of Aargau in 2018.",
+    "author": "Christian Beutler / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpiupjl70",
+   "content": {
+    "text": "In Brussels, the EU Commission is now aiming to make the planned expansion of AI infrastructure as sustainable as possible. Officials there are currently working on an assessment system to evaluate the sustainability of data centers, including their water consumption. This is intended to prevent the industry's growth from becoming an environmental and sociopolitical disaster from the outset. After all, the AI industry's already significant water consumption is set to increase even further in the coming years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpk9bpjg1",
+   "content": {
+    "text": "The more people use AI, the more computing power, electricity and cooling are needed. The International Energy Agency currently estimates the global water consumption of data centers at around 560 billion liters per year. By 2030, this could rise to around 1,200 billion liters per year. For comparison, the city of Zurich consumes about 42 billion liters of drinking water annually."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkaqbmm1",
+   "content": {
+    "text": "For municipalities, however, these figures are far less relevant. For residents, the primary concern is how much a single facility consumes. In the U.S., a hyperscale data center – a massive 100-megawatt project – consumes an average of around 2 million liters of water per day, according to the IEA. That is equivalent to about 6,500 households."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jpniomhc1",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/05/28/3a911a44-7bdc-4412-9cc2-70327b626659.png?crop=1891,695,x0,y0",
+     "width": 1891,
+     "height": 695,
+     "altText": "Chapter icon scale",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1891,
+      "height": 695,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1891,
+       "height": 695,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jpiu985b0",
+   "content": {
+    "title": "Local problems need local solutions",
+    "id": "subtitle-lokale-probleme-brauchen-l-sungen-vor-ort"
+   },
+   "styles": {
+    "subtitle-type": "subtitle--chapter"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpigflmd0",
+   "content": {
+    "text": "Agriculture and industry consume significantly more water than data centers, a fact the industry regularly points out. But AI facilities still pose a problem. The crucial factor is not the absolute water consumption of all data centers, but their local impact."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpigflmi0",
+   "content": {
+    "text": "The hottest days of the year are crucial for the local impact, says Shaolei Ren of the University of California, Riverside. Only then do many facilities require water for cooling. Especially in Europe, where it is cooler, data centers do not use water year-round."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpigflmk0",
+   "content": {
+    "text": "Then, however, data centers can increasingly compete with households, agriculture and industry for the same water resources. The European Environment Agency also warns of this.<strong></strong>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpiv697r0",
+   "content": {
+    "text": "In Spain, for example, Amazon has increased its water consumption expectations for a huge data center in the agricultural heartland of Aragon by almost 50%, <a href=\"https://elpais.com/tecnologia/2025-03-22/amazon-pide-un-48-mas-de-agua-para-sus-centros-de-datos-de-aragon.html\">according to media reports</a>. The reason was said to be the increased need for water and cooling due to the heat."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpivorrr1",
+   "content": {
+    "text": "The American tech company is nevertheless planning additional investments of around €34 million in the region. In <a href=\"https://www.aboutamazon.eu/news/job-creation-and-investment/learn-about-awss-long-term-commitment-to-aragon-spain\">March, it announced</a> its business plans, including investments to strengthen the local water infrastructure. This is primarily intended to secure the needs of the agricultural sector."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jpuh09930",
+   "content": {
+    "image": {
+     "author": "Audrey Richardson / Reuters",
+     "caption": "A look inside a Microsoft data center in Wisconsin.",
+     "originalUrl": "/2026/05/31/598e160c-6586-446e-ad2c-06aaa8cb7e11.png?crop=2316,1544,x0,y0",
+     "width": 2316,
+     "height": 1544,
+     "altText": "A look inside a Microsoft data center in Wisconsin.",
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2316,
+      "height": 1544,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2316,
+       "height": 1544,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A look inside a Microsoft data center in Wisconsin.",
+    "author": "Audrey Richardson / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpigflmq0",
+   "content": {
+    "text": "It remains unclear whether local water pipes can even withstand the additional strain from the data center boom. «This is less a question of sustainability than a question of infrastructure,» says American researcher Ren. The problem is that expanding water infrastructure takes many more years than building a data center."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpiuf0df0",
+   "content": {
+    "text": "The dilemma is evident in the U.S. In <a href=\"https://arxiv.org/pdf/2603.02705\">a recently published study</a>, Ren wrote that, as things stand today, the water demand of data centers could not be met. He noted that many of the communities lacked the additional water capacity to serve the massive facilities."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpiuns5l1",
+   "content": {
+    "text": "In the U.S., water consumption is viewed with similar concern by Republicans and Democrats. It is one of the few political issues that increasingly unites politicians. In Washington, tax incentives for water reuse facilities are already being discussed. Such discussions will likely soon find their way into parliaments in Europe as well."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpki9t2i0",
+   "content": {
+    "text": "«Even if water use efficiency improves dramatically, overall water demand is likely to continue to rise due to the rapid expansion of infrastructure,» says David Atienza Alonso of the EPFL in Lausanne. He added that the pressure on resources would increase accordingly in regions already suffering from water stress."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jpkijatu1",
+   "content": {
+    "text": "Water is thus becoming an increasingly important location factor, with consequences for the affected regions and Brussels' expansion targets. One response will certainly be the introduction of new and stricter rules for water use. But even EU officials cannot regulate a physical reality out of existence. Water has long been a political issue for the AI industry. The conflict is likely to intensify further in the future."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1jogs4nb00",
+   "content": {
+    "text": "<strong>Contributions by:</strong> Martin Berz (photo editor)<br><strong>Sources:</strong> Data Center Map, International Energy Agency, European Environment Agency, European Commission, Politecnico di Milano<br><strong>Colorization:</strong> NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jnp9bh6i6",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-2f837194",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 4,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Roger Planzer",
+      "text": "The solution: HYDROGEN. The industry is positioning itself.",
+      "created_at": "2026-06-01T11:48:24.504Z",
+      "like_count": 1,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Vincent Kraeutler",
+      "text": "«Water resources there are under greater pressure from agriculture and industry, among other things, than in northern and eastern Europe.» ... that pretty much says it all about the competition, which looks something like this: «Italy Is Europe's Largest Producer of Rice, and It's All Thanks to the Po Valley» https://italysegreta.com/panissa-in-the-po-valley/ That data centers don't *consume* water but merely *heat* it should probably be obvious without needing a PhD in high school physics.",
+      "created_at": "2026-06-01T10:47:30.709Z",
+      "like_count": 3,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jnp9bh6i7",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jnp9bh6i8",
+      "content": {
+       "owner": "NZZ",
+       "title": "Power through computing: how Europe aims to secure its future with a massive data center expansion",
+       "teaserImage": {
+        "originalUrl": "/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/14/fc7d81c7-2a3f-4887-8d40-67fb20239b39.png?width=1024&quality=75&auto=webp",
+        "width": 2343,
+        "height": 1758,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1936,1089,x260,y335"
+         },
+         {
+          "name": "4:3",
+          "crop": "1760,1320,x358,y219"
+         },
+         {
+          "name": "1:1",
+          "crop": "1758,1758,x293,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1319,1758,x451,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2130,1420,x107,y182"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+        "teaserAuthor": "Google Handout / EPA"
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1934446",
+       "teaserAuthor": "Google Handout / EPA",
+       "readingTime": 540,
+       "colorSchema": "color-schema--night-sky",
+       "paywallQuestionOne": "How will Europe catch up in the global AI race with data centers?",
+       "paywallQuestionTwo": "What challenges does the expansion of data centers in Europe entail?",
+       "paywallQuestionThree": "How does the energy demand of data centers affect Europe's climate goals?",
+       "tags": [
+        "Visuals",
+        "Wissenschaft aktuell",
+        "Technologie aktuell",
+        "Pro: Rechenzentren"
+       ],
+       "showHeader": true,
+       "characterCount": 12941,
+       "product": "NZZ.ch",
+       "documentId": 1934446,
+       "layout": "headlesslongformvisual",
+       "publicationDate": "2026-05-18T03:30:00.000Z",
+       "publicationLastUpdated": "2026-05-29T13:22:29.877Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-18T15:30:00.000Z",
+       "teaserCaption": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+       "authorLine": "Kalina Oroschakoff, Roland Shaw, Joana Kelén",
+       "authorImage": {
+        "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+       "url": "/technologie/das-zeitalter-der-datenzentren-der-globale-wettlauf-um-die-infrastruktur-der-kuenstlichen-intelligenz-ld.1934446",
+       "department": {
+        "name": "Technology",
+        "path": "/technologie"
+       },
+       "estimationWordCount": 1894,
+       "premium": true,
+       "leadText": "Europe has fallen behind in the AI ​​race. With a massive construction offensive, it now aims to reach the top of the world. But this will put a strain on the power grids, power plants, and society. An «NZZ Pro» series.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jnp9bh6i9",
+      "content": {
+       "owner": "NZZ",
+       "title": "Leaky pipes and hidden drainage systems: When water becomes scarce in Europe, it is also due to man-made waste",
+       "teaserImage": {
+        "originalUrl": "/2025/04/16/0eb425cb-10d3-4cb3-a8ce-815522309b76.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/04/16/0eb425cb-10d3-4cb3-a8ce-815522309b76.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3676,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y300"
+         },
+         {
+          "name": "1:1",
+          "crop": "3676,3676,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4901,3676,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2757,3676,x3243,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "What water loss means for people, agriculture and climate – an investigation from Italy and Germany.",
+        "teaserAuthor": "Natalia Alana"
+       },
+       "teaserAuthor": "Natalia Alana",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1880231",
+       "readingTime": 660,
+       "authorLine": "Antonia Gross, Elena Ledda, Elena Matera",
+       "characterCount": 14596,
+       "product": "NZZ.ch",
+       "documentId": 1880231,
+       "layout": "regular",
+       "publicationDate": "2025-04-19T03:30:00.000Z",
+       "publicationLastUpdated": "2025-04-20T15:32:26.382Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-04-19T15:30:00.000Z",
+       "teaserCaption": "What water loss means for people, agriculture and climate – an investigation from Italy and Germany.",
+       "url": "/wissenschaft/wasserverschwendung-in-europa-italien-und-deutschlands-kampf-gegen-verluste-ld.1880231",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 2170,
+       "leadText": "What water loss means for people, agriculture and climate – an investigation from Italy and Germany.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jnp9bh6i10",
+      "content": {
+       "owner": "NZZ",
+       "title": "Tropical nights, heavy rain, less snow: New scenarios show how drastically climate change is altering Switzerland.",
+       "teaserImage": {
+        "originalUrl": "/2025/11/04/d064ec31-1a6e-4522-8b71-d27e6db5665d.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/04/d064ec31-1a6e-4522-8b71-d27e6db5665d.png?width=1024&quality=75&auto=webp",
+        "width": 1201,
+        "height": 901,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1201,676,x0,y113"
+         },
+         {
+          "name": "1:1",
+          "crop": "901,901,x150,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1201,901,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "676,901,x263,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1201,801,x0,y50"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The climate scenarios show in greater detail than before how global warming is affecting the country. Besides the heat, changes in precipitation are likely to cause particular problems."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1909399",
+       "readingTime": 300,
+       "authorLine": "Sven Titz (text), Nikolai Thelitz, Roland Shaw (graphics)",
+       "characterCount": 6181,
+       "product": "NZZ.ch",
+       "documentId": 1909399,
+       "layout": "longformvisual",
+       "publicationDate": "2025-11-04T10:00:00.000Z",
+       "publicationLastUpdated": "2025-11-04T11:39:01.885Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-11-04T22:00:00.000Z",
+       "teaserCaption": "The climate scenarios show in greater detail than before how global warming is affecting the country. Besides the heat, changes in precipitation are likely to cause particular problems.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2024/08/15/42d4cdd4-6a81-4190-ba63-0baba74a0e50.jpeg?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2024/08/15/42d4cdd4-6a81-4190-ba63-0baba74a0e50.jpeg?width=1024",
+        "imageService": "fastly",
+        "width": 4128,
+        "height": 2752,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/15/42d4cdd4-6a81-4190-ba63-0baba74a0e50.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wissenschaft/schweizer-klimaszenarien-2025-temperaturanstieg-und-folgen-ld.1909399",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 936,
+       "leadText": "The climate scenarios show in greater detail than before how global warming is affecting the country. Besides the heat, changes in precipitation are likely to cause particular problems.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Milan's data center in the crosshairs: The precursor to Europe's looming water conflict",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1024&quality=75&auto=webp",
+   "width": 2000,
+   "height": 1500,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2000,1125,x0,y78"
+    },
+    {
+     "name": "4:3",
+     "crop": "2000,1500,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1500,1500,x188,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1125,1500,x338,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2000,1333,x0,y83"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+   "teaserAuthor": "Sara Busiol / Paolo Michele"
+  },
+  "teaserAuthor": "Sara Busiol / Paolo Michele",
+  "tags": [
+   "Technologie aktuell",
+   "Visuals",
+   "Pro: Rechenzentren"
+  ],
+  "showComments": true,
+  "nzzId": "ld.10005597",
+  "readingTime": 480,
+  "colorSchema": "color-schema--night-sky",
+  "authorLine": "Kalina Oroschakoff, Roland Shaw, Joana Kelen",
+  "characterCount": 11495,
+  "breadcrumbs": [
+   {
+    "name": "Technology",
+    "path": "/technologie"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10005597,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-06-01T03:30:00.000Z",
+  "publicationDate": "2026-06-01T03:30:00.000Z",
+  "publicationLastUpdated": "2026-06-10T13:29:17.079Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-06-01T15:30:00.000Z",
+  "teaserCaption": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+  "nzzAuthors": [
+   {
+    "id": 1639830,
+    "name": "Kalina Oroschakoff",
+    "shortName": "oro",
+    "pianoId": "1b760ebe-93b2-4073-9ed8-f9b2b502b46d",
+    "external": false
+   },
+   {
+    "id": 1667403,
+    "name": "Roland Shaw",
+    "shortName": "sro",
+    "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+    "external": false
+   },
+   {
+    "id": 1413679,
+    "name": "Joana Kelén",
+    "shortName": "jok.",
+    "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+    "external": false
+   }
+  ],
+  "authorImage": {
+   "originalUrl": "/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "2752,2752,x688,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1684746,
+    "name": "Roland Shaw (sro.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp"
+   },
+   {
+    "documentId": 1288120,
+    "name": "Joana Kelén (jok.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/12/11/f4bf5607-87df-4919-a85e-2e1cfe1e38d1.jpg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/03/02/f722187b-e204-4a9b-8798-97664f42b529.jpg?width=1024&quality=75&auto=webp",
+  "url": "/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+  "department": {
+   "name": "Technology",
+   "path": "/technologie"
+  },
+  "estimationWordCount": 1652,
+  "premium": true,
+  "leadText": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+  "nzzSummaryEN": "- Numerous data centers are being built around Milan, potentially impacting water resources and the environment, but reliable data is lacking.\n- Local communities express concerns about water usage, noise, and heat emissions, while companies like Cyrus One announce sustainability measures.\n- The European Union and other organizations are developing frameworks to regulate water usage in the industry as consumption is expected to rise with increasing AI usage.",
+  "nzzSummaryDE": "- Numerous new data centers are being built around Milan, which potentially have serious impacts on water resources and the environment, but reliable data on this is lacking.\n Local communities are expressing concerns about water consumption, noise and heat emissions, while companies like Cyrus One are announcing measures to improve sustainability.\n - The European Union and other organisations are working on frameworks to regulate the industry's water use, as consumption could increase further with the growing use of AI.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Milan's data center: Precursors to Europe's looming water conflict",
+  "nzzPrintSubtitle": "Many new data centers are being built around Milan. Activists are sounding the alarm. Politicians are holding back. However, no one knows exactly how much the new facilities are impacting the environment and water resources; reliable data is lacking—and this applies to all of Europe. An NZZ Pro series.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+   "title": "Milan's data centers: The precursor to Europe's looming water conflict",
+   "socialMediaTitle": "Data centers in Milan: Activists warn of water crisis",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2000,1125,x0,y78&wmark=nzz"
+  },
+  "ldPublicationId": 2443108,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   },
+   {
+    "name": "Microsoft",
+    "slug": "/themen/microsoft"
+   },
+   {
+    "name": "Italy",
+    "slug": "/themen/italien"
+   },
+   {
+    "name": "EU",
+    "slug": "/themen/eu"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "agriculture",
+    "slug": "/themen/landwirtschaft"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 4,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Roger Planzer",
+     "text": "The solution: HYDROGEN. The industry is positioning itself.",
+     "created_at": "2026-06-01T11:48:24.504Z",
+     "like_count": 1,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Vincent Kraeutler",
+     "text": "«Water resources there are under greater pressure from agriculture and industry, among other things, than in northern and eastern Europe.» ... that pretty much says it all about the competition, which looks something like this: «Italy Is Europe's Largest Producer of Rice, and It's All Thanks to the Po Valley» https://italysegreta.com/panissa-in-the-po-valley/ That data centers don't *consume* water but merely *heat* it should probably be obvious without needing a PhD in high school physics.",
+     "created_at": "2026-06-01T10:47:30.709Z",
+     "like_count": 3,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1934446",
+    "ld.1880231",
+    "ld.1909399"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 770976,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "kuenstliche-intelligenz-ki",
+   "name": "Artificial Intelligence (AI)",
+   "tagName": "Artificial Intelligence (AI)",
+   "qId": "Q11660",
+   "seoTitle": "AI News – All NZZ articles on the topic of Artificial Intelligence",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:28:45.240Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/kuenstliche-intelligenz-ki",
+   "size": 2276,
+   "relatedTopics": [
+    {
+     "name": "Microsoft",
+     "slug": "/themen/microsoft"
+    },
+    {
+     "name": "Italien",
+     "slug": "/themen/italien"
+    },
+    {
+     "name": "EU",
+     "slug": "/themen/eu"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Landwirtschaft",
+     "slug": "/themen/landwirtschaft"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Explained",
+    "title": "What is artificial intelligence? How does deep learning work? An overview",
+    "teaserImage": {
+     "originalUrl": "/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/11/5/dee2f4b8-2c04-49f8-bdd9-96ba31b03d64.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4661,
+     "height": 3097,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4661,2622,x0,y238"
+      },
+      {
+       "name": "1:1",
+       "crop": "3097,3097,x782,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4129,3097,x266,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2323,3097,x1169,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4646,3097,x8,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+     "teaserAuthor": "Miguel Candela / Imago"
+    },
+    "teaserAuthor": "Miguel Candela / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1632034",
+    "readingTime": 660,
+    "authorLine": "Ruth Fulterer, Eveline Geiser",
+    "characterCount": 15561,
+    "product": "NZZ.ch",
+    "documentId": "1632034",
+    "layout": "regular",
+    "publicationDate": "2021-11-05T08:27:54.281Z",
+    "publicationLastUpdated": "2026-04-29T10:01:03.477Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2021-11-05T20:27:54.281Z",
+    "teaserCaption": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/b4a7225d-fbad-484c-8e6e-d48eacd967e9.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/technologie/kuenstliche-intelligenz-ki-deep-learning-einfach-erklaert-ld.1632034",
+    "department": {
+     "name": "Technology",
+     "path": "/technologie"
+    },
+    "estimationWordCount": 2180,
+    "leadText": "What is behind Chat-GPT, and where else in our daily lives is AI used? What can machines do better than humans? And should we be worried?",
+    "hasQ": true
+   },
+   {
+    "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+     "width": 7898,
+     "height": 5268,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7898,4443,x0,y187"
+      },
+      {
+       "name": "4:3",
+       "crop": "7024,5268,x143,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5268,5268,x1162,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3951,5268,x1731,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7898,5265,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+     "teaserAuthor": "Jacquelyn Martin / AP"
+    },
+    "teaserAuthor": "Jacquelyn Martin / AP",
+    "nzzId": "ld.10022036",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why are American Treasury bonds experiencing a historic sell-off?",
+    "paywallQuestionTwo": "How do rising oil prices and interest rates affect global financial markets?",
+    "paywallQuestionThree": "What role do AI investments play in the competition with government bonds?",
+    "characterCount": 7839,
+    "product": "NZZ.ch",
+    "documentId": "10022036",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:02:39.657Z",
+    "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+    "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "authorLine": "Benjamin Triebe",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1151,
+    "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "The chip war reaches the logistics industry: Kühne + Nagel scrutinizes Asian subsidiary after US authorities' investigation",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/a4c9eaef-0e59-4975-a08c-d969c28f0e30.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x358,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3667,3667,x917,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+     "teaserAuthor": "Benoit Tessier / Reuters"
+    },
+    "teaserAuthor": "Benoit Tessier / Reuters",
+    "nzzId": "ld.10021434",
+    "readingTime": 240,
+    "paywallQuestionOne": "How is the chip war affecting the logistics industry?",
+    "paywallQuestionTwo": "What role does Apex Logistics play in the Nvidia chip smuggling?",
+    "paywallQuestionThree": "How is Kühne + Nagel reacting to the investigations by the US authorities?",
+    "characterCount": 5867,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021434",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T10:04:23.699Z",
+    "publicationLastUpdated": "2026-09-01T07:43:01.458Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T22:04:23.699Z",
+    "teaserCaption": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "authorLine": "Dominik Feldges",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/16/52e0b698-52d3-4f00-915a-fa5563d57443.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/kuehne-nagel-und-nvidia-transport-chip-krieg-erreicht-logistikbranche-ld.10021434",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 873,
+    "premium": true,
+    "leadText": "Nvidia AI semiconductor exports to China prohibited, opening a billion-dollar smuggling business. Logistics companies' careful consideration of partners.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Madonna or Machine? Australia bans AI songs from charts – Switzerland to follow by year-end",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/5c87e21a-1fab-4862-ba38-2badac36a924.jpg?width=1024&quality=75&auto=webp",
+     "width": 1972,
+     "height": 1315,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1972,1109,x0,y103"
+      },
+      {
+       "name": "4:3",
+       "crop": "1753,1315,x109,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1315,1315,x329,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "986,1315,x493,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1972,1315,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+     "teaserAuthor": "Brendan McDermid / Reuters"
+    },
+    "teaserAuthor": "Brendan McDermid / Reuters",
+    "nzzId": "ld.10021251",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why does Australia exclude AI-generated music from the charts?",
+    "paywallQuestionTwo": "How does AI affect music production and artists' rights?",
+    "paywallQuestionThree": "What measures is Switzerland planning to take against AI-generated music in the charts?",
+    "characterCount": 5105,
+    "product": "NZZ.ch",
+    "documentId": "10021251",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "authorLine": "Janique Weder",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/658595c2-7b09-41f4-b098-616595fb9540.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/madonna-oder-maschine-australien-verbannt-ki-songs-aus-den-charts-die-schweiz-zieht-bis-ende-jahr-nach-ld.10021251",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 790,
+    "leadText": "Several countries plan to exclude purely AI-generated music from the charts in the future. Behind this lies a question that is preoccupying the industry: How much AI should be allowed in songs?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Constantly reachable and exhausted – China is the world's digital pioneer; this shows what awaits us in the near future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Oliver Radtke",
+    "editor": "1371769",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/b7722b32-5602-4703-978e-abd163a49dfb.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y573"
+      },
+      {
+       "name": "4:3",
+       "crop": "4889,3667,x611,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3334,3334,x1712,y333"
+      },
+      {
+       "name": "3:4",
+       "crop": "2750,3667,x1860,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+     "teaserAuthor": "Go Nakamura / Reuters"
+    },
+    "teaserAuthor": "Go Nakamura / Reuters",
+    "nzzId": "ld.10020483",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does digitalization affect mental health in China?",
+    "paywallQuestionTwo": "What social and economic pressures increase the burden?",
+    "paywallQuestionThree": "How is China responding to the challenges posed by AI and digitalization?",
+    "characterCount": 10235,
+    "tags": [
+     "Zeitgeschehen"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020483",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "url": "https://www.nzz.ch/feuilleton/dauererreichbar-und-erschoepft-china-ist-der-digitale-vorreiter-der-welt-hier-zeigt-sich-was-uns-in-naher-zukunft-bevorsteht-ld.10020483",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 1407,
+    "leadText": "While Europe reels under the weight of its long history, China is gripped by a belief in progress fueled by social media and AI. The psychological cost of this rapid merging of digital and analog life is particularly high for young people.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Countless videos circulate after Nepal disaster: Whether they are real is increasingly secondary for the public",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/41e45e38-c788-4152-a397-c46e9cba9c9e.jpg?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 675,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "615,461,x585,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "675,675,x525,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "506,675,x694,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1013,675,x187,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+     "teaserAuthor": "Screenshot Instagram; edited by NZZ"
+    },
+    "teaserAuthor": "Screenshot Instagram; edited by NZZ",
+    "editor": "1373070",
+    "tags": [
+     "Fotografie"
+    ],
+    "nzzId": "ld.10021416",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does AI-generated content influence the perception of disaster images?",
+    "paywallQuestionTwo": "What role does the labeling of AI content play in viewer trust?",
+    "paywallQuestionThree": "How does the mixing of real and fake images change our reactions?",
+    "characterCount": 6702,
+    "product": "NZZ.ch",
+    "documentId": "10021416",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-31T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-31T09:47:44.143Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-31T15:30:00.000Z",
+    "teaserCaption": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "authorLine": "Dario Veréb",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/01/08/843b2812-68de-4f43-be8e-ade4c1e4f7e2.png?crop=1728,1728,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/medien/nach-der-katastrophe-in-nepal-kursieren-unzaehlige-videos-ob-sie-echt-sind-ist-fuer-das-publikum-zunehmend-zweitrangig-ld.10021416",
+    "department": {
+     "name": "Media",
+     "path": "/feuilleton/medien"
+    },
+    "estimationWordCount": 1068,
+    "leadText": "Viewers' increasing difficulty distinguishing real from AI images; the image's changing role",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10005597",
+    "name": "Milan's data center in the crosshairs: The precursor to Europe's looming water conflict",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Technologie",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Milan's data center in the crosshairs: The precursor to Europe's looming water conflict",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1639830,
+       "name": "Kalina Oroschakoff",
+       "shortName": "oro",
+       "pianoId": "1b760ebe-93b2-4073-9ed8-f9b2b502b46d",
+       "external": false
+      },
+      {
+       "id": 1667403,
+       "name": "Roland Shaw",
+       "shortName": "sro",
+       "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+       "external": false
+      },
+      {
+       "id": 1413679,
+       "name": "Joana Kelén",
+       "shortName": "jok.",
+       "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-06-01T03:30:00.000Z",
+     "updateTimestamp": "2026-06-10T13:29:17.079Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10005597",
+   "pageType": "longformvisual",
+   "primaryCategory": "Technologie",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Milan's data centers: The precursor to Europe's looming water conflict",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2000,1125,x0,y78&wmark=nzz",
+   "type": "image/png",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Kalina Oroschakoff, Roland Shaw, Joana Kelen",
+  "description": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+  "news_keywords": "Milan's data center in the crosshairs: The precursor to Europe's looming water conflict, Technology, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-06-10T17:29:17+02:00",
+  "date": "2026-06-01T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Milan's data center in the crosshairs: The precursor to Europe's looming water conflict",
+  "ogTitle": "Data centers in Milan: Activists warn of water crisis",
+  "ogUrl": "https://www.nzz.ch/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+  "mrf:cms_id": "nzz:ld.10005597",
+  "mrf:sections": "Technologie;WTM",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10005597",
+  "nzzAuthors": [
+   {
+    "id": 1639830,
+    "name": "Kalina Oroschakoff",
+    "shortName": "oro",
+    "pianoId": "1b760ebe-93b2-4073-9ed8-f9b2b502b46d",
+    "external": false
+   },
+   {
+    "id": 1667403,
+    "name": "Roland Shaw",
+    "shortName": "sro",
+    "pianoId": "24155423-cb62-435a-8ed9-7cf04565cc37",
+    "external": false
+   },
+   {
+    "id": 1413679,
+    "name": "Joana Kelén",
+    "shortName": "jok.",
+    "pianoId": "892a78de-937a-4e46-9343-d3c842fad8a0",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:07 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/technologie",
+      "name": "Technology"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Milan's data centers: The precursor to Europe's looming water conflict"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597"
+   },
+   "headline": "Milan's data centers: The precursor to Europe's looming water conflict",
+   "datePublished": "2026-06-01T07:30:00+02:00",
+   "dateModified": "2026-06-10T17:29:17+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Many new data centers are being built around Milan. Activists are sounding the alarm, while politicians are trying to downplay the concerns. But no one knows exactly how much these facilities are impacting the environment and water resources. Reliable data is lacking – in Italy as well as in the rest of Europe.",
+   "isAccessibleForFree": false,
+   "articleSection": "Technologie",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/06/01/1cb50fb0-f543-4491-be9e-690e23811a85.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2000,1125,x0,y78&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Kalina Oroschakoff"
+    },
+    {
+     "@type": "Person",
+     "name": "Roland Shaw"
+    },
+    {
+     "@type": "Person",
+     "name": "Joana Kelén"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 770976,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/technologie/mailands-datencenter-im-visier-das-vorbeben-fuer-europas-drohenden-wasserkonflikt-ld.10005597",
+    "classification=premium",
+    "relevance=germany",
+    "layout=longformvisual",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10005597",
+    "channel=Technologie"
+   ],
+   "ContentCreated": "2026-06-01T03:30:00.000Z",
+   "ContentAuthor": "Kalina Oroschakoff, Roland Shaw, Joana Kelen",
+   "ContentSection": "Technologie",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie beeinflussen Rechenzentren die Wasserressourcen in der Region Mailand?\nWelche Massnahmen planen Betreiber, um den Wasserverbrauch zu reduzieren?\nWarum fehlen verlässliche Daten zu den Umweltauswirkungen von Rechenzentren?",
+   "ldId": "ld.10005597",
+   "channel": "Technologie",
+   "heading": "Mailands Datencenter im Visier: Das Vorbeben für Europas drohenden Wasserkonflikt",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

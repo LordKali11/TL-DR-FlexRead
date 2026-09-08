@@ -1,0 +1,2025 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jvlg8qha0",
+   "content": {
+    "title": "What happens when even selling books becomes a crime? Hong Kong experiences just that",
+    "lead": "Psychogram of a city on the verge of losing its soul.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jvlg8qha1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Matthias Kamp, Hong Kong, Beijing",
+       "url": "/impressum/matthias-kamp-ld.1497895",
+       "teaserImage": {
+        "originalUrl": "/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jvlg8qha2",
+   "content": {
+    "image": {
+     "author": "Chan Long Hei / AP",
+     "caption": "Under fire: Former local politician and bookseller Leticia Wong was in prison. Now she is free on bail.",
+     "originalUrl": "/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0",
+     "width": 4500,
+     "height": 3000,
+     "altText": "FILE - Leticia Wong, former pro-democracy district councilor, arranges books at her bookstore in Hong Kong on June 20, 2025. (AP Photo/Chan Long Hei, File)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180099990"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4500,
+      "height": 3000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4500,
+       "height": 3000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Under fire: Former local politician and bookseller Leticia Wong was in prison. Now she is free on bail.",
+    "author": "Chan Long Hei / AP"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvlg8qha3",
+   "content": {
+    "text": "Leticia Wong and her partner sold books. Then they went to prison. Hong Kong police <a href=\"https://hongkongfp.com/2026/06/25/police-raid-independent-bookstore-ex-pro-democracy-district-councillor-arrested-for-alleged-sedition-report/\">arrested the couple at the end of June.</a> Authorities accused them of carrying «seditious works.» Both are now out on bail."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-d6e84dc6",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvlm3c900",
+   "content": {
+    "text": "Leticia Wong was formerly a district councilor for the Civic Party, a party banned since 2023. She opened her bookstore, Hunter Bookstore, in 2020, a year after the mass protests against the Hong Kong government. The shelves contained books such as George Orwell's «Animal Farm,» as well as biographies of high-ranking Chinese party officials. At least the store is allowed to remain open for the time being."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvlmd33e0",
+   "content": {
+    "text": "It is not the only bookstore that has come under fire in recent weeks. Over the past 12 months, Hong Kong law enforcement authorities have arrested at least 11 booksellers. In July, authorities carted away boxes of books from the Have A Nice Stay bookstore. Shortly thereafter, the owners announced they had to close their bookstore due to «financial problems» and <a href=\"https://hongkongfp.com/2026/07/14/hong-kong-independent-bookstore-have-a-nice-stay-announces-closure-citing-financial-difficulties-and-red-lines/\">«unclear red lines.»</a> A handful of journalists had opened the business in 2022."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnpcaba0",
+   "content": {
+    "text": "A few days later, the 50-year-old <a href=\"https://hongkongfp.com/2026/07/29/50-year-old-greenfield-bookstore-to-close-following-arrests-national-security-raid/\">Greenfield bookstore</a> also closed. Two weeks earlier, police had arrested five employees. «Thank you for walking with us through wind and rain for over 50 years,» the owners wrote in a farewell message to their regular customers."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k083acs31",
+   "content": {
+    "image": {
+     "author": "Lam Yik / Reuters",
+     "caption": "The shelves of Hunter Bookstore held works such as George Orwell's «Animal Farm» and biographies of Chinese party officials.",
+     "originalUrl": "/2026/08/17/4bd2e1c0-68e6-4d0f-b9e0-2bf35556b9d7.jpg?crop=4157,2771,x0,y0",
+     "width": 4157,
+     "height": 2771,
+     "altText": "A person carrying a box walks into the reopened Hunter Bookstore, which local media reported was raided by national security police in June and had two owners arrested on suspicion of displaying and selling publications with «seditious» content, in Hong Kong, China July 16, 2026. REUTERS/Lam Yik",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179641047"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4157,
+      "height": 2771,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4157,
+       "height": 2771,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The shelves of Hunter Bookstore held works such as George Orwell's «Animal Farm» and biographies of Chinese party officials.",
+    "author": "Lam Yik / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "data": {
+    "_captionDirective": {
+     "highlightedTextRanges": {
+      "TxsbH5sJRHMd": {
+       "start": 90,
+       "end": 132,
+       "text": "Biographies of Chinese party officials."
+      }
+     }
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k025rk0r0",
+   "content": {
+    "title": "Beijing's weapon: A law",
+    "id": "subtitle-pekings-waffe-ein-gesetz"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnphuno0",
+   "content": {
+    "text": "The attacks against bookstores are just the latest step in the Hong Kong government's efforts to silence all critical voices in the former British Crown Colony. The National Security Law, introduced by Beijing in Hong Kong in 2020, grants authorities far-reaching powers."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnrcb8h1",
+   "content": {
+    "text": "What is «seditious»? A biography of Vaclav Havel? What is a «conspiracy with foreign forces»? If one accepts donations from a European aid organization? The wording of the individual paragraphs leaves law enforcement authorities much room for interpretation. And that is precisely what Beijing intends."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnrilh70",
+   "content": {
+    "text": "Shortly after the 2019 protests, authorities launched a campaign against the media based on the controversial law. Afterwards, the government turned its attention to non-governmental organizations. Last summer, one of the most important had to close. China Labor Bulletin (CLB) exposed abuses in Chinese factories, for example, when a company had not paid wages on time. CLB was founded by Han Dongfang. The wiry Chinese had already advocated for workers' rights in 1989 during the Tiananmen Square protests in Beijing."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k082pfri1",
+   "content": {
+    "image": {
+     "author": "Lam Yik / Reuters",
+     "caption": "Hong Kong authorities accuse the owners of Hunter Bookstore of selling books that incite sedition. The National Security Law introduced by Beijing gives them free rein.",
+     "originalUrl": "/2026/08/17/4c7b0c91-bc22-4943-985a-924bd451011c.jpg?crop=4183,2789,x0,y0",
+     "width": 4183,
+     "height": 2789,
+     "altText": "The reopened Hunter Bookstore, which local media reported was raided by national security police in June and had two owners arrested on suspicion of displaying and selling publications with «seditious» content, in Hong Kong, China July 16, 2026. REUTERS/Lam Yik",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179641054"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4183,
+      "height": 2789,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4183,
+       "height": 2789,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Hong Kong authorities accuse the owners of Hunter Bookstore of selling books that incite sedition. The National Security Law introduced by Beijing gives them free rein.",
+    "author": "Lam Yik / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hurqns0",
+   "content": {
+    "text": "Last Friday, a Hong Kong court again convicted two democracy activists. Their offense: They had organized commemorative events for the victims of the 1989 Tiananmen Square massacre in Beijing for years. The judges for the trial had been personally selected by Hong Kong Chief Executive John Lee."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvntnuvt0",
+   "content": {
+    "text": "Meanwhile, the Hong Kong government is even moving against churches. Authorities are pushing for churches to merge their charitable activities, such as those for disadvantaged workers, with those of the government. This would allow individual initiatives to be better controlled."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnvaros1",
+   "content": {
+    "text": "Hong Kong is well on its way to becoming, at least politically, a completely normal Chinese city. An organized opposition no longer exists in the former British colony anyway."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k025tmte0",
+   "content": {
+    "title": "Remembering the 2019 protests",
+    "id": "subtitle-erinnerung-an-die-proteste-von-2019"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvntr3pc0",
+   "content": {
+    "text": "The «Hop Fat Cafe» is located on a small side street in the Mong Kok district. In this neighborhood in northern Hong Kong, the former journalists had opened their bookstore Have A Nice Stay, and Mong Kok was also one of the hotspots of the democracy protests in 2019."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k083biqf1",
+   "content": {
+    "image": {
+     "author": "Tyrone Siu / Reuters",
+     "caption": "Former journalists had opened the Have A Nice Stay bookstore. Now the store is closed.",
+     "originalUrl": "/2026/08/17/10a26160-a8b5-41c4-b808-a6a86b6d4ae3.jpg?crop=5500,3668,x0,y0",
+     "width": 5500,
+     "height": 3668,
+     "altText": "FILE PHOTO: People are seen inside the independent bookstore 'Have A Nice Stay' in Hong Kong, China June 2, 2023. REUTERS/Tyrone Siu/File Photo",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179638217"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3668,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3668,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Former journalists had opened the Have A Nice Stay bookstore. Now the store is closed.",
+    "author": "Tyrone Siu / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnvi8cj0",
+   "content": {
+    "text": "Now Dickson Chau, who also marched through the streets at the time, sits in the «Hop Fat Café» in front of a milk tea and looks at the oversized painting on the wall. The comic-style image shows a long line of smiling men and women in helmets, exchanging hearts."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnvi8ck0",
+   "content": {
+    "text": "On the right edge, a chicken with a backpack is visible. It reads: «Live in truth.» The painting is captioned with the sentence: «Even the darkest night will end, and the sun will rise again.» It is a thinly veiled reminiscence of the restrictions on political freedoms in Hong Kong since 2019."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvnvi8cm0",
+   "content": {
+    "text": "For Dickson Chau, the sun has not yet risen again. A year ago, the government <a href=\"https://www.bbc.com/news/articles/cz7l08dzvljo\">banned his party, the League of Social Democrats.</a> Now the former activist with the youthful face produces a regular podcast. But even that is difficult. «I have to censor myself,» says Dickson Chau."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k083m01p0",
+   "content": {
+    "image": {
+     "author": "Anthony Kwan / Getty",
+     "caption": "Dickson Chau (right) and two other leaders of the League of Social Democrats announced last June that they had to dissolve their party.",
+     "originalUrl": "/2026/08/17/fa0a1e34-0c0d-4a69-8254-5481a64b7bed.jpg?crop=4000,2675,x0,y0",
+     "width": 4000,
+     "height": 2675,
+     "altText": "HONG KONG, CHINA - JUNE 29: Jimmy Sham Tsz-kit, Raphael Wong Ho-ming and Dickson Chau Ka-faat hold roses during a press conferenceon June 29, 2025 in Hong Kong, China. The League of Social Democrats, one of Hong Kong's last remaining pro-democracy parties, announced its dissolution Sunday after 19 years, citing overwhelming political pressure as the reason for its decision. (Photo by Anthony Kwan/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180100128"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4000,
+      "height": 2675,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4000,
+       "height": 2675,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Dickson Chau (right) and two other leaders of the League of Social Democrats announced last June that they had to dissolve their party.",
+    "author": "Anthony Kwan / Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0260lgn0",
+   "content": {
+    "title": "Beijing's «great mandate»",
+    "id": "subtitle-der-grosse-auftrag-aus-peking"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo0mdd70",
+   "content": {
+    "text": "In public speeches, Hong Kong politicians always emphasize that the city stands out significantly from the rest of China and assure that this will remain so. In fact, they are in the process of turning the Special Administrative Region into a completely normal Chinese city. This is evident in many places. Recently, for example, European consulates and chambers of commerce had to submit a list of participants to the authorities for approval when planning events."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1c0ht1",
+   "content": {
+    "text": "A European diplomat in Hong Kong recounts that at the event itself, men had stood in front of the halls and filmed the arriving guests. These are Beijing's methods in their purest form."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1g4830",
+   "content": {
+    "text": "Foreign observers wonder what drives the local authorities in their aggressive approach. Several independent local observers say it is impossible that Beijing's representatives in Hong Kong directly instructed law enforcement officials on every single step against critics or a possible political opposition. Instead, a Chinese sociology professor in Hong Kong explains that there is only one «great mandate» from Beijing: A repeat of the 2019 protests must be avoided at all costs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0261ts70",
+   "content": {
+    "title": "The worst thing: Uncertainty",
+    "id": "subtitle-das-schlimmste-ist-die-ungewissheit"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo2cdtu0",
+   "content": {
+    "text": "The fact that Beijing – consciously or unconsciously – draws no clear red lines explains the local authorities' crackdowns, such as those against bookstores. The most critical writings are certainly not found on bookstore shelves, but on the internet. But out of fear of making mistakes, local authorities prefer to do too much rather than too little. It is the classic Chinese motto: More is more."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo3i9ni0",
+   "content": {
+    "text": "Overall, a climate of fear and uncertainty prevails in the Hong Kong bureaucracy. When the head of Hong Kong's investment promotion agency, beads of sweat on his forehead, receives a foreign journalist for an interview, he nervously hands him a stack of information brochures. Finally, he answers every question with the statement that Hong Kong is a successful international financial center."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo4hbut0",
+   "content": {
+    "text": "Another example: A cultural official absolutely does not want to decide whether to approve a harmless art event from a European country. Finally, after repeated probing by the applicant, it bursts out of her: she does not want to lose her job."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k003o7eh0",
+   "content": {
+    "text": "It would probably be easier for the local authorities if Beijing governed directly and gave clear instructions on every issue. Many foreign businesspeople wish for exactly this. «Then at least there is clarity» is a commonly heard phrase these days. The worst thing is uncertainty."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k027nsh10",
+   "content": {
+    "text": "However, such direct rule would be problematic, as the principle of «one country, two systems» still officially applies to the Special Administrative Region."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k02635nf0",
+   "content": {
+    "title": "200,000 Hong Kongers leave their home",
+    "id": "subtitle-200-000-hongkonger-haben-ihre-heimat-verlassen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo4ri0j0",
+   "content": {
+    "text": "The former editor-in-chief of a major Hong Kong daily newspaper says in an interview that Hong Kong has not yet found the right balance between internal security and development. Local authorities are still busy sweeping up the remnants of the 2019 protests, even after seven years, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvviqqpp0",
+   "content": {
+    "text": "The journalist says the «worst troublemakers» have long since left Hong Kong. Since 2019, around 200,000 Hong Kongers have turned their backs on the city."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k085j3jo1",
+   "content": {
+    "image": {
+     "author": "Sawayasu Tsuji/Getty",
+     "caption": "In the Central financial district, too, young people protested against their government in the summer of 2019.",
+     "originalUrl": "/2026/08/17/ca5859bb-2611-4e2e-b50c-4a21a91dafdd.jpg?crop=4651,3101,x0,y0",
+     "width": 4651,
+     "height": 3101,
+     "altText": "HONG KONG, CHINA - APRIL 30: People cross a street during rush hour on April 30, 2026 in Hong Kong, China. (Photo by Sawayasu Tsuji/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2178845489"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4651,
+      "height": 3101,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4651,
+       "height": 3101,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In the Central financial district, too, young people protested against their government in the summer of 2019.",
+    "author": "Sawayasu Tsuji/Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k026551u0",
+   "content": {
+    "title": "Hostility toward Chinese tourists",
+    "id": "subtitle-anfeindungen-gegen-chinesische-touristen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvq5r0mq0",
+   "content": {
+    "text": "Mainland Chinese have arrived. They are truly taking over the city. Over the past five years, on average, <a href=\"https://www.statista.com/statistics/901381/number-of-immigrants-from-mainland-china-living-in-hong-kong/?srsltid=AfmBOorNaj6O2coG-5N95BMsrsre20aRx1grdcnKBnkyxF8U8RGRbEG-\">more than 100,000 mainland Chinese</a> have relocated to the former British colony each year. In addition, there are hordes of tourists. They are recognizable by the rolling suitcases they push through the skyscraper canyons of Central and Wan Chai. In the Tsim Sha Tsui district, they photograph themselves in front of the impressive skyscraper backdrop on the opposite side of the harbor."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvkpjov1",
+   "content": {
+    "text": "Chinese tourists report in conversation about hostility and derogatory remarks from Hong Kongers. The cultural differences between a city that was a melting pot between East and West for more than a century and autocratic mainland China are apparently still great."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k02665of0",
+   "content": {
+    "title": "The end of press freedom",
+    "id": "subtitle-das-ende-der-pressefreiheit"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvle2c40",
+   "content": {
+    "text": "But Hong Kong is gradually losing its soul. Hong Kong journalists were once known for their tenacity, but above all for their good contacts in the highest political circles of China. The Hong Kong government gave them the cold shoulder. Jimmy Lai, the founder of the China-critical newspaper «Apple Daily,» was <a href=\"https://www.bbc.com/news/articles/c8d5pl34vv0o\">sentenced to 20 years in prison</a> in February. The government had already ordered his newspaper to cease operations in June 2021."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k085kgue1",
+   "content": {
+    "image": {
+     "author": "Tyrone Siu / Reuters",
+     "caption": "Tourists from mainland China are truly taking over Hong Kong. Not all Hong Kongers like it.",
+     "originalUrl": "/2026/08/17/a96b1d0d-90bd-4a9a-ab66-9cab47a5f342.jpg?crop=5500,3668,x0,y0",
+     "width": 5500,
+     "height": 3668,
+     "altText": "FILE PHOTO: Tourists take photos in front of Victoria Harbour, in Tsim Sha Tsui, in Hong Kong, China April 29, 2024. REUTERS/Tyrone Siu/File Photo",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2173812963"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3668,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3668,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Tourists from mainland China are truly taking over Hong Kong. Not all Hong Kongers like it.",
+    "author": "Tyrone Siu / Reuters"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvrnffu1",
+   "content": {
+    "text": "Also unforgettable are industry stars like Willy Lam, who, while working for the «South China Morning Post,» supplied the world for decades with exclusive, sometimes piquant news from the inner workings of the Chinese Communist Party. Over. Done. Lam has now lived in the U.S. for many years. Today, there are practically no independent newspapers, news portals, or radio stations left in Hong Kong."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo5odpo0",
+   "content": {
+    "text": "One person who is nevertheless trying to carry on somehow is Ronson Chan. The journalist reported live from the mass protests against the Hong Kong government in 2019 for the news portal «Stand News.» Authorities <a href=\"https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news\">closed the portal</a> at the end of 2021."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvvsn3qg0",
+   "content": {
+    "text": "Now Ronson Chan tries to explain what is still possible in Hong Kong media. When «Stand News» had to close, the journalist launched a YouTube channel. Twice a week, Chan interviews a prominent guest there – and tries to test the narrow limits. «We have to think about every word beforehand,» says the journalist."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k085uhda0",
+   "content": {
+    "image": {
+     "author": "Anthony Kwan / Getty",
+     "caption": "Journalist Ronson Chan, former chairman of the Hong Kong Journalists Association, reported live from the mass protests in 2019. Now he runs a YouTube channel and interviews prominent figures. But he has to think carefully about every word.",
+     "originalUrl": "/2026/08/17/814b53a0-3bbb-4433-8cab-e77333af7745.jpg?crop=4000,2667,x0,y0",
+     "width": 4000,
+     "height": 2667,
+     "altText": "HONG KONG, CHINA - SEPTEMBER 19: Chairman of the Hong Kong Journalist Association (HKJA) Ronson Chan speaks to members of media outside a police station on September 19, 2022 in Hong Kong, China. Chan turned himself in to police over his charge of obstructing police while reporting. (Photo by Anthony Kwan/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2135502805"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4000,
+      "height": 2667,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4000,
+       "height": 2667,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Journalist Ronson Chan, former chairman of the Hong Kong Journalists Association, reported live from the mass protests in 2019. Now he runs a YouTube channel and interviews prominent figures. But he has to think carefully about every word.",
+    "author": "Anthony Kwan / Getty"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k001lg2b0",
+   "content": {
+    "text": "Nevertheless, Ronson Chan cannot give up his passion. A few months ago, he invited the well-known LGBT and former democracy activist Jimmy Sham. Sham belonged to the famous Group 47 of Hong Kong civil rights activists and spent several months in prison last year."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0022s5n0",
+   "content": {
+    "text": "But the conversation was a tightrope walk. Ronson Chan wanted to talk to Sham about the 2025 fire disaster. In the major fire in a high-rise residential complex at the end of November last year, 168 people lost their lives, partly because the responsible authorities had been negligent in fire protection. «But openly talking about the authorities' failures was not possible,» the journalist recounts. Chan says «one has to embed the criticism differently.» If the government says the bamboo scaffolding was responsible for the fire, Chan says it was not the bamboo scaffolding."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k002rk8t0",
+   "content": {
+    "text": "But that's all there is to the criticism. It's not much. But it fits into the new climate of a city that was once unique."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jvlg8qha4",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-fc49a98f",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 5,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Ulrich Bruhn",
+      "text": "This sounds like «cold book burning» in analogy to a book titled «Cold Crematorium»!",
+      "created_at": "2026-08-25T20:54:44.401Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Tobias Suter",
+      "text": "Hong Kong began to lose its soul the moment it returned to China's control. Today, Hong Kong is hardly distinguishable from any other major Chinese city. Any criticism is stifled, democracy is nonexistent, the rule of law is gone, etc. China grants Hong Kong only as much «freedom» as is useful to China.",
+      "created_at": "2026-08-25T20:09:57.817Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jvlg8qha5",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvlg8qha6",
+      "content": {
+       "owner": "NZZ",
+       "title": "China's last rebel",
+       "teaserImage": {
+        "originalUrl": "/2025/11/11/744aca32-5730-4c04-a681-3b29b34571e8.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/11/744aca32-5730-4c04-a681-3b29b34571e8.jpg?width=1024&quality=75&auto=webp",
+        "width": 3600,
+        "height": 2400,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3600,2025,x0,y199"
+         },
+         {
+          "name": "1:1",
+          "crop": "831,831,x1444,y269"
+         },
+         {
+          "name": "4:3",
+          "crop": "3200,2400,x203,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1800,2400,x828,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3600,2400,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Han Dongfang protested in Tiananmen Square in Beijing in the spring of 1989. The government then expelled him. Since then, the activist has been fighting for the rights of Chinese workers from Hong Kong – until the authorities there persecuted him as well. This is the story of someone who simply cannot stop.",
+        "teaserAuthor": "Anthony Kwan for NYT / Laif"
+       },
+       "teaserAuthor": "Anthony Kwan for NYT / Laif",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1911236",
+       "readingTime": 480,
+       "authorLine": "Matthias Kamp, Hong Kong",
+       "characterCount": 10928,
+       "product": "NZZ.ch",
+       "documentId": 1911236,
+       "layout": "longformstandard",
+       "publicationDate": "2026-01-03T04:30:00.000Z",
+       "publicationLastUpdated": "2026-01-03T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-01-03T16:30:00.000Z",
+       "teaserCaption": "Han Dongfang protested in Tiananmen Square in Beijing in the spring of 1989. The government then expelled him. Since then, the activist has been fighting for the rights of Chinese workers from Hong Kong – until the authorities there persecuted him as well. This is the story of someone who simply cannot stop.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024",
+        "imageService": "fastly",
+        "width": 800,
+        "height": 800,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+       "url": "/international/chinas-letzter-rebell-ld.1911236",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1692,
+       "leadText": "Han Dongfang protested in Tiananmen Square in Beijing in the spring of 1989. The government then expelled him. Since then, the activist has been fighting for the rights of Chinese workers from Hong Kong – until the authorities there persecuted him as well. This is the story of someone who simply cannot stop.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvlg8qha7",
+      "content": {
+       "owner": "NZZ",
+       "title": "Who is Jimmy Lai, Hong Kong's most famous prisoner?",
+       "teaserImage": {
+        "originalUrl": "/2025/12/15/5f2d3e7b-6e1a-41bc-beea-effb9488a33b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/15/5f2d3e7b-6e1a-41bc-beea-effb9488a33b.jpg?width=1024&quality=75&auto=webp",
+        "width": 2371,
+        "height": 1518,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2371,1334,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1349,1349,x729,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "2024,1518,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1139,1518,x616,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2277,1518,x47,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "A Hong Kong court has convicted publisher Jimmy Lai, accusing him of attempting to overthrow the Chinese Communist Party. The founder of the now-defunct newspaper \"Apple Daily\" faces a life sentence.",
+        "teaserAuthor": "Liau Chung-Ren / Imago"
+       },
+       "teaserAuthor": "Liau Chung-Ren / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1916520",
+       "readingTime": 300,
+       "authorLine": "Matthias Kamp, Beijing",
+       "characterCount": 6172,
+       "product": "NZZ.ch",
+       "documentId": 1916520,
+       "layout": "regular",
+       "publicationDate": "2025-12-15T09:36:32.539Z",
+       "publicationLastUpdated": "2025-12-15T10:57:36.215Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-15T21:36:32.539Z",
+       "teaserCaption": "A Hong Kong court has convicted publisher Jimmy Lai, accusing him of attempting to overthrow the Chinese Communist Party. The founder of the now-defunct newspaper \"Apple Daily\" faces a life sentence.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024",
+        "imageService": "fastly",
+        "width": 800,
+        "height": 800,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+       "url": "/international/wer-ist-jimmy-lai-der-beruehmteste-haeftling-hongkongs-ld.1916520",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 966,
+       "leadText": "A Hong Kong court has convicted publisher Jimmy Lai, accusing him of attempting to overthrow the Chinese Communist Party. The founder of the now-defunct newspaper \"Apple Daily\" faces a life sentence.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jvlg8qha8",
+      "content": {
+       "owner": "NZZ",
+       "title": "Following the fire disaster, most Hong Kongers are boycotting the parliamentary elections.",
+       "teaserImage": {
+        "originalUrl": "/2025/12/08/673a0088-b54b-4ba5-959d-fe11db447b27.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/08/673a0088-b54b-4ba5-959d-fe11db447b27.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x333,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1500,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Anger is running high among Hong Kong citizens over apparent fire safety deficiencies. The government is acting increasingly nervously, suppressing critical voices – including those of foreign media.",
+        "teaserAuthor": "Vernon Yuen / Imago"
+       },
+       "teaserAuthor": "Vernon Yuen / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1915455",
+       "readingTime": 240,
+       "authorLine": "Matthias Kamp, Shenzhen",
+       "characterCount": 5538,
+       "product": "NZZ.ch",
+       "documentId": 1915455,
+       "layout": "regular",
+       "publicationDate": "2025-12-08T14:50:11.426Z",
+       "publicationLastUpdated": "2025-12-08T20:46:51.181Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-09T02:50:11.426Z",
+       "teaserCaption": "Anger is running high among Hong Kong citizens over apparent fire safety deficiencies. The government is acting increasingly nervously, suppressing critical voices – including those of foreign media.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024",
+        "imageService": "fastly",
+        "width": 800,
+        "height": 800,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?width=1024&quality=75&auto=webp",
+       "url": "/international/nach-der-brandkatastrophe-boykottieren-die-meisten-hongkonger-die-parlamentswahlen-ld.1915455",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 809,
+       "leadText": "Anger is running high among Hong Kong citizens over apparent fire safety deficiencies. The government is acting increasingly nervously, suppressing critical voices – including those of foreign media.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "What happens when even selling books becomes a crime? Hong Kong is experiencing just that",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4500,2531,x0,y234"
+    },
+    {
+     "name": "4:3",
+     "crop": "4000,3000,x250,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x750,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x1125,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4500,3000,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Psychogram of a city on the verge of losing its soul.",
+   "teaserAuthor": "Chan Long Hei / AP"
+  },
+  "teaserAuthor": "Chan Long Hei / AP",
+  "editor": "1533538",
+  "nzzId": "ld.10018914",
+  "readingTime": 540,
+  "characterCount": 11584,
+  "showComments": true,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10018914,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "Psychogram of a city on the verge of losing its soul.",
+  "nzzAuthors": [
+   {
+    "id": 1373189,
+    "name": "Matthias Kamp",
+    "shortName": "mka",
+    "pianoId": "9e391cde-1179-42dd-ac32-121590fd59f7",
+    "external": false
+   }
+  ],
+  "authorLine": "Matthias Kamp, Hong Kong, Beijing",
+  "authorImage": {
+   "originalUrl": "/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0",
+   "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 800
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1497895,
+    "name": "Matthias Kamp, Hong Kong, Beijing",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+  "url": "/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 1831,
+  "premium": true,
+  "leadText": "Psychogram of a city on the verge of losing its soul.",
+  "nzzSummaryEN": "- Bookstores in Hong Kong are under scrutiny; several owners have been arrested for allegedly selling \"seditious works.\"\n- The national security law grants authorities extensive powers, silencing nearly all critical voices.\n- Since the 2019 protests, Hong Kong has undergone significant political shifts, with around 200,000 residents leaving the city.",
+  "nzzSummaryDE": "- Bookshops in Hong Kong are under attack; several owners have been arrested for allegedly selling «seditious works». - The national security law gives authorities sweeping powers, effectively silencing critical voices. - Since the 2019 protests, Hong Kong has undergone a dramatic political transformation, with around 200,000 residents leaving the city.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "When selling books becomes a crime",
+  "nzzPrintSubtitle": "Psychological portrait of a city on the verge of losing its soul",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+   "title": "What happens when selling books becomes a crime? Hong Kong is experiencing this",
+   "socialMediaTitle": "Hong Kong is losing its identity: from crown colony to Chinese province",
+   "description": "Psychological portrait of a city on the verge of losing its soul",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz"
+  },
+  "ldPublicationId": 2482929,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Hong Kong",
+    "slug": "/themen/hongkong"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 5,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Ulrich Bruhn",
+     "text": "This sounds like «cold book burning» in analogy to a book titled «Cold Crematorium»!",
+     "created_at": "2026-08-25T20:54:44.401Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Tobias Suter",
+     "text": "Hong Kong began to lose its soul the moment it returned to China's control. Today, Hong Kong is hardly distinguishable from any other major Chinese city. Any criticism is stifled, democracy is nonexistent, the rule of law is gone, etc. China grants Hong Kong only as much «freedom» as is useful to China.",
+     "created_at": "2026-08-25T20:09:57.817Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1911236",
+    "ld.1916520",
+    "ld.1915455"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 702240,
+  "colorSchema": "color-schema--premium",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "hongkong",
+   "name": "Hong Kong",
+   "tagName": "Hong Kong",
+   "qId": "Q8646",
+   "seoTitle": "Hong Kong – All the NZZ news and articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 17:27:34.225Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/hongkong",
+   "size": 686,
+   "relatedTopics": [
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Third time's the charm: After failing in New York and London, the budget fashion retailer Shein plans to go public in Hong Kong",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/ee507e98-6c9e-4a2c-9509-e37b533d39d7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/ee507e98-6c9e-4a2c-9509-e37b533d39d7.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y469"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x427,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x802,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1927,
+      "y": 2305
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The Chinese online retailer plans to launch trading in early September. The path was difficult; Shein canceled two planned IPOs. UBS is also on board as an anchor investor.",
+     "teaserAuthor": "Go Nakamura / Reuters"
+    },
+    "teaserAuthor": "Go Nakamura / Reuters",
+    "nzzId": "ld.10020726",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why did Shein postpone its IPO twice?",
+    "paywallQuestionTwo": "What challenges affect Shein's rating?",
+    "paywallQuestionThree": "How is the political response to Shein's business model?",
+    "characterCount": 4984,
+    "product": "NZZ.ch",
+    "documentId": "10020726",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T12:21:02.892Z",
+    "publicationLastUpdated": "2026-08-24T12:42:40.264Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-25T00:21:02.892Z",
+    "teaserCaption": "The Chinese online retailer plans to launch trading in early September. The path was difficult; Shein canceled two planned IPOs. UBS is also on board as an anchor investor.",
+    "authorLine": "Beatrice Bösiger",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/18/fe52bced-0cc0-4555-a3ba-c4b9ed4dd1da.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/aller-guter-dinge-sind-drei-nach-new-york-und-london-will-der-billigmodehaendler-shein-in-hongkong-an-die-boerse-ld.10020726",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 758,
+    "leadText": "The Chinese online retailer plans to launch trading in early September. The path was difficult; Shein canceled two planned IPOs. UBS is also on board as an anchor investor.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Hong Kong Tiananmen vigil activists convicted – face long prison sentences",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/7f946c04-48d0-4c35-a6e8-3f1496d11e57.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/7f946c04-48d0-4c35-a6e8-3f1496d11e57.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y313"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x333,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1500,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "For a long time, Hong Kong residents commemorated the bloody crackdown on protests in Beijing in 1989. Two former organizers have now been convicted. Germany and France demand their immediate release.",
+     "teaserAuthor": "AP"
+    },
+    "teaserAuthor": "AP",
+    "editor": "1394236",
+    "nzzId": "ld.10020526",
+    "readingTime": 120,
+    "paywallQuestionOne": "Why were the activists convicted in Hong Kong?",
+    "paywallQuestionTwo": "What role does the security law play?",
+    "paywallQuestionThree": "How are Germany and France reacting to the conviction?",
+    "characterCount": 2583,
+    "product": "NZZ.ch",
+    "documentId": "10020526",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T10:09:25.070Z",
+    "publicationLastUpdated": "2026-08-21T10:09:25.070Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T22:09:25.070Z",
+    "teaserCaption": "For a long time, Hong Kong residents commemorated the bloody crackdown on protests in Beijing in 1989. Two former organizers have now been convicted. Germany and France demand their immediate release.",
+    "url": "https://www.nzz.ch/international/aktivisten-von-tiananmen-mahnwachen-in-hongkong-verurteilt-ihnen-drohen-lange-haftstrafen-ld.10020526",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 394,
+    "leadText": "For a long time, Hong Kong residents commemorated the bloody crackdown on protests in Beijing in 1989. Two former organizers have now been convicted. Germany and France demand their immediate release.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A $99 million loss and trouble from the EU: The Chinese fashion sensation loses its magic",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/28/25178dc8-c3bd-4726-ac26-5a0ede743cef.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/28/25178dc8-c3bd-4726-ac26-5a0ede743cef.webp?width=1024&quality=75&auto=webp",
+     "width": 1200,
+     "height": 800,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1200,675,x0,y63"
+      },
+      {
+       "name": "4:3",
+       "crop": "1067,800,x67,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "800,800,x200,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "600,800,x300,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1200,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After two failed attempts in New York and London, online retailer Shein is finally aiming for a Hong Kong IPO. However, following geopolitical conflicts, its own financial results are now casting doubt on the plan.",
+     "teaserAuthor": "Stephanie Keith / Bloomberg"
+    },
+    "teaserAuthor": "Stephanie Keith / Bloomberg",
+    "nzzId": "ld.10017256",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Shein's growth slowing down despite its market size?",
+    "paywallQuestionTwo": "How do geopolitical and regulatory factors influence Shein's business model?",
+    "paywallQuestionThree": "What challenges does Shein face with its planned IPO in Hong Kong?",
+    "characterCount": 4869,
+    "product": "NZZ.ch",
+    "documentId": "10017256",
+    "layout": "regular",
+    "publicationDate": "2026-07-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-29T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-29T15:30:00.000Z",
+    "teaserCaption": "After two failed attempts in New York and London, online retailer Shein is finally aiming for a Hong Kong IPO. However, following geopolitical conflicts, its own financial results are now casting doubt on the plan.",
+    "authorLine": "Janique Weder",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/658595c2-7b09-41f4-b098-616595fb9540.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/99-millionen-dollar-verlust-und-auch-die-eu-macht-probleme-das-chinesische-fashion-wunder-shein-entzaubert-sich-selbst-ld.10017256",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 752,
+    "leadText": "After two failed attempts in New York and London, online retailer Shein is finally aiming for a Hong Kong IPO. However, following geopolitical conflicts, its own financial results are now casting doubt on the plan.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Beijing's pincer movement: China's government wants to make it more difficult for Chinese citizens to invest money in Hong Kong",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/07/70ce7de7-d913-4bbf-ba17-88483cc6eb9c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/07/70ce7de7-d913-4bbf-ba17-88483cc6eb9c.jpg?width=1024&quality=75&auto=webp",
+     "width": 6952,
+     "height": 4634,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6952,3910,x0,y411"
+      },
+      {
+       "name": "4:3",
+       "crop": "6179,4634,x540,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1965,1965,x2690,y314"
+      },
+      {
+       "name": "3:4",
+       "crop": "3476,4634,x1940,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6951,4634,x1,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Investors from mainland China who wanted to invest in foreign stocks, insurance or real estate previously brought their money to Hong Kong. This will now be significantly more difficult. UBS is also affected.",
+     "teaserAuthor": "Bertha Wang/Bloomberg/Getty"
+    },
+    "teaserAuthor": "Bertha Wang/Bloomberg/Getty",
+    "showComments": true,
+    "nzzId": "ld.10014265",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why is China making it difficult to transfer capital to Hong Kong?",
+    "paywallQuestionTwo": "How is UBS reacting to Beijing's new rules?",
+    "paywallQuestionThree": "What are the consequences of China's campaign for Hong Kong's financial sector?",
+    "characterCount": 7234,
+    "product": "NZZ.ch",
+    "documentId": "10014265",
+    "layout": "regular",
+    "publicationDate": "2026-07-09T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-09T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-09T15:30:00.000Z",
+    "teaserCaption": "Investors from mainland China who wanted to invest in foreign stocks, insurance or real estate previously brought their money to Hong Kong. This will now be significantly more difficult. UBS is also affected.",
+    "authorLine": "Matthias Kamp, Beijing",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/pekings-zangengriff-chinas-regierung-will-chinesen-die-geldanlage-in-hongkong-erschweren-ld.10014265",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1065,
+    "premium": true,
+    "leadText": "Investors from mainland China who wanted to invest in foreign stocks, insurance or real estate previously brought their money to Hong Kong. This will now be significantly more difficult. UBS is also affected.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "Spice Girls on cocaine: Hong Kong tries to warn against drugs and achieves the opposite with a bizarre AI video",
+    "videoTeaser": "hDqKBdHx",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/07/02/882dffca-0476-4f0f-8cdb-7a57db51e1b3.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/02/882dffca-0476-4f0f-8cdb-7a57db51e1b3.png?width=1024&quality=75&auto=webp",
+     "width": 1277,
+     "height": 714,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1269,714,x4,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "714,714,x282,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "952,714,x163,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "536,714,x371,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1071,714,x103,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "tags": [
+     "Asien und Pazifik",
+     "Künstliche Intelligenz"
+    ],
+    "nzzId": "ld.10013833",
+    "readingTime": 240,
+    "embeds": {
+     "videos": [
+      {
+       "id": "hDqKBdHx",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 9,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/hDqKBdHx-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      },
+      {
+       "id": "tWg0B6K7",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 69,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/tWg0B6K7-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      },
+      {
+       "id": "FvwtIzj3",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 56,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/FvwtIzj3-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "Why was the AI ​​video from the Hong Kong Correctional Service criticized?",
+    "paywallQuestionTwo": "How does the video present drugs in a glamorous light before showing the negative consequences?",
+    "paywallQuestionThree": "What lessons has Hong Kong learned from the criticism of its anti-drug campaign?",
+    "characterCount": 5607,
+    "teaserImage": {
+     "originalUrl": "/2026/07/02/882dffca-0476-4f0f-8cdb-7a57db51e1b3.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/02/882dffca-0476-4f0f-8cdb-7a57db51e1b3.png?width=1024&quality=75&auto=webp",
+     "width": 1277,
+     "height": 714,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1154,649,x45,y65"
+      },
+      {
+       "name": "4:3",
+       "crop": "952,714,x173,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "714,714,x255,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "536,714,x371,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1071,714,x103,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Hong Kong's Correctional Services Department provides a new object lesson in how anti-drug campaigns fail."
+    },
+    "product": "NZZ.ch",
+    "documentId": "10013833",
+    "layout": "regular",
+    "publicationDate": "2026-07-04T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-06T16:03:52.072Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-04T15:30:00.000Z",
+    "teaserCaption": "Hong Kong's Correctional Services Department provides a new object lesson in how anti-drug campaigns fail.",
+    "authorLine": "Corina Gall",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/5a0badb7-bd7a-4d3d-9030-0bbc422574b6.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/spice-girls-auf-kokain-hongkong-will-vor-drogen-warnen-und-erreicht-mit-einem-skurrilen-ki-video-das-genaue-gegenteil-ld.10013833",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 852,
+    "leadText": "Hong Kong's Correctional Services Department provides a new object lesson in how anti-drug campaigns fail.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Switzerland is losing its leading position in offshore banking – but is benefiting from capital flight from the Middle East",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/05/26/024ffc8e-afa6-4713-905f-c4598ff7e91e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/26/024ffc8e-afa6-4713-905f-c4598ff7e91e.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4002,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y327"
+      },
+      {
+       "name": "4:3",
+       "crop": "5336,4002,x322,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1697,1697,x2217,y286"
+      },
+      {
+       "name": "3:4",
+       "crop": "3002,4002,x2855,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Switzerland is losing its leading position in cross-border wealth management to Hong Kong. Nevertheless, the Swiss financial center is currently benefiting from new inflows from crisis regions.",
+     "teaserAuthor": "Tyrone Siu / Reuters"
+    },
+    "teaserAuthor": "Tyrone Siu / Reuters",
+    "nzzId": "ld.10008555",
+    "readingTime": 240,
+    "paywallQuestionOne": "How will Hong Kong overtake Switzerland as the leading offshore financial center?",
+    "paywallQuestionTwo": "What role does geopolitical uncertainty play for the Swiss financial center?",
+    "paywallQuestionThree": "Why is Singapore growing faster than the Swiss financial center?",
+    "characterCount": 5075,
+    "product": "NZZ.ch",
+    "documentId": "10008555",
+    "layout": "regular",
+    "publicationDate": "2026-05-27T04:00:00.000Z",
+    "publicationLastUpdated": "2026-05-27T08:18:49.627Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-05-27T16:00:00.000Z",
+    "teaserCaption": "Switzerland is losing its leading position in cross-border wealth management to Hong Kong. Nevertheless, the Swiss financial center is currently benefiting from new inflows from crisis regions.",
+    "authorLine": "Eflamm Mordrelle",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/hongkong-ist-dabei-die-schweiz-als-fuehrenden-offshore-finanzplatz-zu-ueberholen-ld.10008555",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 727,
+    "leadText": "Switzerland is losing its leading position in cross-border wealth management to Hong Kong. Nevertheless, the Swiss financial center is currently benefiting from new inflows from crisis regions.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10018914",
+    "name": "What happens when even selling books becomes a crime? Hong Kong is experiencing just that",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "What happens when even selling books becomes a crime? Hong Kong is experiencing just that",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373189,
+       "name": "Matthias Kamp",
+       "shortName": "mka",
+       "pianoId": "9e391cde-1179-42dd-ac32-121590fd59f7",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": true,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10018914",
+   "pageType": "longformstandard",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "What happens when selling books becomes a crime? Hong Kong is experiencing this",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Matthias Kamp, Hong Kong, Beijing",
+  "description": "Psychological portrait of a city on the verge of losing its soul",
+  "news_keywords": "What happens when even selling books becomes a crime? Hong Kong is experiencing exactly that. (International News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T07:30:00+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "What happens when even selling books becomes a crime? Hong Kong is experiencing just that",
+  "ogTitle": "Hong Kong is losing its identity: from crown colony to Chinese province",
+  "ogUrl": "https://www.nzz.ch/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+  "mrf:cms_id": "nzz:ld.10018914",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Pro Article;Article ID:ld.10018914",
+  "nzzAuthors": [
+   {
+    "id": 1373189,
+    "name": "Matthias Kamp",
+    "shortName": "mka",
+    "pianoId": "9e391cde-1179-42dd-ac32-121590fd59f7",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:26 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "What happens when selling books becomes a crime? Hong Kong is experiencing this"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914"
+   },
+   "headline": "What happens when selling books becomes a crime? Hong Kong is experiencing this",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Psychological portrait of a city on the verge of losing its soul",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y234&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Matthias Kamp"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 702240,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+    "classification=premium",
+    "relevance=germany",
+    "layout=longformstandard",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10018914",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Matthias Kamp, Hongkong, Peking",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie beeinflusst das Sicherheitsgesetz die Meinungsfreiheit in Hongkong?\nWarum geraten Buchhandlungen in Hongkong ins Visier der Behörden?\nWelche Folgen hat die politische Entwicklung für Hongkongs Identität?",
+   "ldId": "ld.10018914",
+   "channel": "International",
+   "heading": "Was passiert, wenn selbst Bücher verkaufen zum Verbrechen wird? Hongkong erlebt genau das",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

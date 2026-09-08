@@ -1,0 +1,727 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1edskpi1",
+   "content": {
+    "title": "The City of Zurich gets serious about business apartments and accepts complaints",
+    "lead": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1edskpi2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Francesca Prader",
+       "url": "/impressum/francesca-prader-ld.1748962",
+       "teaserImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1edskpi3",
+   "content": {
+    "image": {
+     "author": "Symbolic image / Goran Basic",
+     "caption": "An unpleasant time could begin for providers of commercial short-term rentals.",
+     "originalUrl": "/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?crop=4784,3184,x0,y0",
+     "width": 4784,
+     "height": 3184,
+     "altText": "Upper floor, terrace view. Le Bijou Apartment, hotel room, rental apartment at Münsterplatz 6 in Zurich, approx. 150m², standard overnight stay CHF 1200.- Hotel series. The company Le Bijou HRM AG, founded by Madeleine Fallegger and Alexander Hübner, rents luxury apartments as hotel rooms at several locations in Zurich's city center, e.g., via Booking.com and Airbnb, for standard overnight stays or conferences, among other uses. The apartments are luxuriously furnished, mostly with a whirlpool on the terrace, sauna, etc. Technically, the apartments are managed in the background by a digital voice assistant, «Butler James,» which is available to guests 24/7. For example, the music volume can be adjusted via voice commands, or a restaurant can be booked.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "1916388839"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4784,
+      "height": 3184,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4784,
+       "height": 3184,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "An unpleasant time could begin for providers of commercial short-term rentals.",
+    "author": "Symbolic image / Goran Basic"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1edskpi4",
+   "content": {
+    "text": "A few months ago, the <a href=\"https://www.nzz.ch/zuerich/bundesgericht-stuetzt-stadt-zuerich-im-streit-um-business-apartments-ld.10012803\">Federal Supreme Court</a> ruled that the City of Zurich can restrict business apartments. Specifically, apartments rented for less than one year at a time will no longer be counted toward the minimum proportion of residential units required in residential zones. This ended a years-long legal dispute between the city and <a href=\"https://www.nzz.ch/zuerich/zuerich-betreiber-von-business-appartements-wehren-sich-gegen-bzo-ld.1655925\">four companies</a> that operate short-term rental businesses."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-7c135dbc",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eporub1",
+   "content": {
+    "text": "Now, the City of Zurich is getting serious. From Sept. 1, providers of short-term rental apartments will have to submit a building application to request a change of use from residential to business apartment. As the Department of Building Construction wrote in a statement on Tuesday, this also applies even if no structural changes are made."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eprnh60",
+   "content": {
+    "text": "However, the city will not only act when such a building application has been received, but also when it receives information that apartments are being rented out commercially for short periods. The city could not answer how many such complaints had already been received when asked by the NZZ. The recording of complaints and building applications is only just beginning."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eqb2si1",
+   "content": {
+    "text": "City officials further stated that due to the great public interest in the business apartment issue, it was to be assumed that a large number of complaints would be received, especially at the beginning. They added that this would be the case, for example, if entire buildings were rented out for short periods by commercial providers."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eqif8b1",
+   "content": {
+    "text": "To enable the Office for Building Permits to manage this work, which is in addition to its daily operations, the City Council approved an urgent supplementary credit. This enables five new full-time positions for three years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eqfck40",
+   "content": {
+    "text": "How long an individual procedure would take was difficult to predict, the Department of Building Construction wrote. «Extensive case-by-case reviews with comprehensive balancing of interests will certainly have to be carried out,» it added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eqlnta0",
+   "content": {
+    "text": "City officials said that if an application was rejected, the city would carry out checks to ensure that the apartment, once rented short-term, would be offered regularly. The exact procedure is currently being developed, the Department of Building Construction wrote."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eqp7mi0",
+   "content": {
+    "text": "They also noted that one possibility for this would be, for example, that the owner would provide proof of booking cancellations or the conclusion of long-term rental agreements. Should owners not comply with the instructions of the Office for Building Permits, they added, they would be reported to the district governor, and a fine would be imposed."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eslsb90",
+   "content": {
+    "text": "Individuals who occasionally rent out their own apartment, for example while they are on vacation themselves, are not affected by the regulation."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1es7ere0",
+   "content": {
+    "text": "However, the issue of short-term rentals is not off the table in the City of Zurich. An initiative launched by the SP together with the Greens and the AL to restrict platforms like Airbnb is still pending. The City of Lucerne serves as a model for this. There, voters decided three years ago that apartments may only be rented out for short periods for a maximum of 90 days per year."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1esjmnp0",
+   "content": {
+    "text": "The initiative is expected to come to a vote next year. The City Council is working on a counter-proposal."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1edskpi5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1edskpj0",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1edskpj1",
+      "content": {
+       "title": "Business apartment providers lose before the Federal Supreme Court: the city of Zurich may impose restrictions – an AL veteran expects a «guerrilla war with the operators»",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/06/25/5bdd7292-ee70-4aa0-a50d-a0219cb84b37.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/25/5bdd7292-ee70-4aa0-a50d-a0219cb84b37.jpg?width=1024&quality=75&auto=webp",
+        "width": 4543,
+        "height": 3024,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4543,2555,x0,y468"
+         },
+         {
+          "name": "4:3",
+          "crop": "4032,3024,x511,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1282,1282,x1456,y1741"
+         },
+         {
+          "name": "3:4",
+          "crop": "2268,3024,x1388,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4536,3024,x7,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Four short-term landlords battled the city in court for five years. Now the final decision has been made. The city council plans to introduce the new regulations in the fall.",
+        "teaserAuthor": "Goran Basic / NZZ"
+       },
+       "teaserAuthor": "Goran Basic / NZZ",
+       "editor": "1719533",
+       "nzzId": "ld.10012803",
+       "readingTime": 360,
+       "paywallQuestionOne": "Why is Zurich allowed to restrict short-term rentals in residential areas?",
+       "paywallQuestionTwo": "How does the Federal Court justify the regulation in favor of the resident population?",
+       "paywallQuestionThree": "What are the consequences of this ruling for providers of business apartments?",
+       "characterCount": 8774,
+       "product": "NZZ.ch",
+       "documentId": 10012803,
+       "layout": "regular",
+       "publicationDate": "2026-06-25T11:40:21.497Z",
+       "publicationLastUpdated": "2026-06-25T12:44:48.332Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-06-25T23:40:21.497Z",
+       "teaserCaption": "Four short-term landlords battled the city in court for five years. Now the final decision has been made. The city council plans to introduce the new regulations in the fall.",
+       "authorLine": "Francesca Prader",
+       "authorImage": {
+        "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/bundesgericht-stuetzt-stadt-zuerich-im-streit-um-business-apartments-ld.10012803",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1204,
+       "leadText": "Four short-term landlords battled the city in court for five years. Now the final decision has been made. The city council plans to introduce the new regulations in the fall.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1edskpj2",
+      "content": {
+       "title": "«A direct attack on us»: Operators of business apartments in Zurich are fighting back against new legal regulations",
+       "teaserImage": {
+        "originalUrl": "/2021/11/22/6dae8184-c99d-405e-9dd6-b585d2dc7c2c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/11/22/6dae8184-c99d-405e-9dd6-b585d2dc7c2c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4048,
+        "height": 3032,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4048,2277,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2396,2396,x1603,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Resistance is forming against the upcoming partial revision of the building and zoning regulations in the city of Zurich. Operators of business apartments see their freedom and livelihoods threatened and will therefore file an appeal.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1655925",
+       "readingTime": 300,
+       "authorLine": "Mark Baer",
+       "characterCount": 7414,
+       "product": "NZZ.ch",
+       "documentId": 1655925,
+       "layout": "regular",
+       "publicationDate": "2021-11-22T14:31:24.239Z",
+       "publicationLastUpdated": "2021-11-23T09:47:57.649Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2021-11-23T02:31:24.239Z",
+       "teaserCaption": "Resistance is forming against the upcoming partial revision of the building and zoning regulations in the city of Zurich. Operators of business apartments see their freedom and livelihoods threatened and will therefore file an appeal.",
+       "url": "/zuerich/zuerich-betreiber-von-business-appartements-wehren-sich-gegen-bzo-ld.1655925",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1090,
+       "leadText": "Resistance is forming against the upcoming partial revision of the building and zoning regulations in the city of Zurich. Operators of business apartments see their freedom and livelihoods threatened and will therefore file an appeal."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The City of Zurich gets serious about business apartments and accepts complaints",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1024&quality=75&auto=webp",
+   "width": 4784,
+   "height": 3184,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4784,2691,x0,y247"
+    },
+    {
+     "name": "4:3",
+     "crop": "4245,3184,x269,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3184,3184,x800,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2388,3184,x1198,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4776,3184,x4,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+   "teaserAuthor": "Symbolic image / Goran Basic"
+  },
+  "teaserAuthor": "Symbolic image / Goran Basic",
+  "nzzId": "ld.10021912",
+  "readingTime": 120,
+  "characterCount": 3122,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021912,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:05:00.000Z",
+  "publicationDate": "2026-09-02T03:05:00.000Z",
+  "publicationLastUpdated": "2026-09-02T05:35:09.802Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:05:00.000Z",
+  "teaserCaption": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+  "nzzAuthors": [
+   {
+    "id": 1740520,
+    "name": "Francesca Prader",
+    "shortName": "fpr",
+    "pianoId": "1fbf2b70-875a-4464-8b73-4838b981c67f",
+    "external": false
+   }
+  ],
+  "authorLine": "Francesca Prader",
+  "authorImage": {
+   "originalUrl": "/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1748962,
+    "name": "Francesca Prader (fpr.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 464,
+  "leadText": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+  "nzzSummaryEN": "- The city of Zurich requires a building application for business apartments starting September 1, even without structural changes.\n- Five new full-time positions for three years were created to handle reports and applications.\n- Private short-term rentals, e.g., during holidays, are not affected by the regulation.",
+  "nzzSummaryDE": "- The city of Zurich will require a building permit for business apartments starting September 1st, even without structural alterations. - Five new full-time positions have been created for three years to process the applications and notifications. - Private short-term rentals, for example during holidays, are not affected by this regulation.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The city of Zurich is getting serious about business apartments",
+  "nzzPrintSubtitle": "Now, providers of short-term rental apartments must submit building permit applications. The city is creating five full-time positions to review these applications",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+   "title": "Business apartments in Zurich: The city is now getting serious",
+   "socialMediaTitle": "Business apartments in Zurich: The city is now getting serious",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4784,2691,x0,y247&wmark=nzz"
+  },
+  "ldPublicationId": 2487398,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10012803",
+    "ld.1655925"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 222408,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021912",
+    "name": "The City of Zurich gets serious about business apartments and accepts complaints",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The City of Zurich gets serious about business apartments and accepts complaints",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1740520,
+       "name": "Francesca Prader",
+       "shortName": "fpr",
+       "pianoId": "1fbf2b70-875a-4464-8b73-4838b981c67f",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:05:00.000Z",
+     "updateTimestamp": "2026-09-02T05:35:09.802Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021912",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Business apartments in Zurich: The city is now getting serious",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4784,2691,x0,y247&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Francesca Prader",
+  "description": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+  "news_keywords": "The city of Zurich is getting serious about business apartments and is accepting advertisements, Zurich News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T09:35:09+02:00",
+  "date": "2026-09-02T07:05:00+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The City of Zurich gets serious about business apartments and accepts complaints",
+  "ogTitle": "Business apartments in Zurich: The city is now getting serious",
+  "ogUrl": "https://www.nzz.ch/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+  "mrf:cms_id": "nzz:ld.10021912",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021912",
+  "nzzAuthors": [
+   {
+    "id": 1740520,
+    "name": "Francesca Prader",
+    "shortName": "fpr",
+    "pianoId": "1fbf2b70-875a-4464-8b73-4838b981c67f",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:41 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Business apartments in Zurich: The city is now getting serious"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912"
+   },
+   "headline": "Business apartments in Zurich: The city is now getting serious",
+   "datePublished": "2026-09-02T07:05:00+02:00",
+   "dateModified": "2026-09-02T09:35:09+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "From Sept. 1, providers of short-term rental apartments must submit building applications. To process these, the city is creating five full-time positions.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/8ef73d82-9d7e-4c71-9366-5152ccf3bd02.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4784,2691,x0,y247&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Francesca Prader"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 222408,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/business-apartments-in-zuerich-jetzt-macht-die-stadt-ernst-ld.10021912",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021912",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-09-02T03:05:00.000Z",
+   "ContentAuthor": "Francesca Prader",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie reagiert Zürich auf die Kurzzeitvermietung von Business-Apartments?\nWelche Massnahmen ergreift die Stadt gegen unerlaubte Vermietungen?\nWie beeinflusst die Initiative zur Airbnb-Regulierung die Vermietungspolitik?",
+   "ldId": "ld.10021912",
+   "channel": "Zürich",
+   "heading": "Die Stadt Zürich macht Ernst in Sachen Business-Apartments und nimmt Anzeigen entgegen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,605 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjh4rkn00",
+   "content": {
+    "subject": "Deutschland reagiert klug auf Russlands Aggression",
+    "preheader": "Die Regierung zeigt Entschlossenheit, ohne die Schraube zu überdrehen"
+   },
+   "data": {
+    "_subjectDirective": {}
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-7089b9c5",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mkp800",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/65877bd4-a81f-482d-8503-65907919fac4.jpg",
+     "mediaId": "Jl5v1vJzBqBd",
+     "key": "2026/08/25/65877bd4-a81f-482d-8503-65907919fac4.jpg",
+     "width": 800,
+     "height": 800,
+     "mimeType": "image/jpeg",
+     "altText": "Jonas Hermann NZZ author photo",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2162854785"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/65877bd4-a81f-482d-8503-65907919fac4.jpg?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjh4rkn21",
+   "content": {
+    "text": "by Jonas Hermann"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjh4rkn22",
+   "content": {
+    "text": "Editor NZZ Germany"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jrpiqmsn0",
+   "content": {
+    "text": "Sovereignty sometimes also means refraining from action: those who are insulted should refrain from insulting back, and those who are provoked should not overreact – if only to avoid stooping to the level of the insulter and the provocateur. In this sense, the German government reacted appropriately when it <a href=\"https://www.nzz.ch/aggression-gegenueber-europa-deutschland-gibt-russland-die-schuld-an-dem-versuchten-drohnenanschlag-in-leipzig-und-schliesst-das-generalkonsulat-ld.10021908\">announced its response on Tuesday evening to the attack</a> on Leipzig Airport in early August. Russia is highly likely responsible. An explosive-laden drone was apparently intended to strike a Ukrainian cargo plane there."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f47v0",
+   "content": {
+    "text": "In response, Germany will close the <a href=\"https://www.nzz.ch/deutschland/politik/tarnung-fuer-spione-neue-vorwuerfe-gegen-das-russische-haus-in-berlin-ld.10018771?srsltid=AfmBOorgL2HP1HgjHat4AqThWvIzzRwvp4Tg6gyYhVAmzo_WffGecUPI\">Russian House</a> . Located in the heart of Berlin, it is officially a cultural institution. In reality, it is quite likely used by Russian intelligence services. Furthermore, Russia will also have to vacate its consulate general in Bonn. Germany also intends to take tougher action against <a href=\"https://www.nzz.ch/deutschland/politik/die-russische-schattenflotte-faehrt-oefter-durch-deutsche-gewaesser-berlin-hat-darauf-keine-antwort-ld.10014903?srsltid=AfmBOopY45RCuDU_MC3Mx3SYx0u3v-di8hor3wVw_HwKcP8q-3O1UQP5\">Russia's shadow fleet</a> . Russia uses these dilapidated ships to circumvent Western sanctions. Germany still has room for improvement in putting a stop to this unfortunate practice as much as possible."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k1f2ihpi0",
+   "content": {
+    "title": "Merz's less prudent statement"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f4810",
+   "content": {
+    "text": "The government thus draws lines but does not overreact. This is prudent. Chancellor Friedrich Merz’s statement a week ago was somewhat less prudent: «They will pay for it,» he declared regarding those who commissioned the attack in Leipzig. Merz sounded like the hero in an action movie, but his strong words do not quite fit the prudent reaction that he had his Interior and Foreign Ministers announce on Tuesday evening."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jnu2qm5n0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/01/af9273b5-97ce-48b5-aa7c-c08d8cd36865.jpg",
+     "mediaId": "noUCp4jSKqNe",
+     "key": "2026/09/01/af9273b5-97ce-48b5-aa7c-c08d8cd36865.jpg",
+     "width": 5505,
+     "height": 3770,
+     "mimeType": "image/jpeg",
+     "altText": "The Russky Dom (Russian House), officially known as the Russian House of Science and Culture (Russisches Haus der Wissenschaft und Kultur) a cultural center is pictured in Berlin, Germany, September 1, 2026. REUTERS/Fabrizio Bensch",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180346106"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/af9273b5-97ce-48b5-aa7c-c08d8cd36865.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "The Russian House in the heart of Berlin will soon be history. It originally dates back to the GDR era.",
+    "source": "Fabrizio Bensch / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f4830",
+   "content": {
+    "text": "The Russian actions against Europe have one thing in common: they generally cannot be definitively attributed to Russia – hacking attacks, parcel bombs, drones that cripple airports, systematic disinformation: all of this infringes upon Germany's sovereignty and that of its neighboring states. Russia can, of course, always deny all of this, which is naturally part of its strategy. Nevertheless, on Tuesday the German government held Russia responsible for the failed attack on Leipzig Airport."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f4840",
+   "content": {
+    "text": "This is also appropriate for two reasons: First, politicians are not judges who must always decide in favor of the accused in cases of doubt. Second, the overall view of the many hybrid actions against Ukraine’s supporters allows no other conclusion than that Russia is behind them."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k1f2ij640",
+   "content": {
+    "title": "AfD and BSW united in error"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f4850",
+   "content": {
+    "text": "Germany’s room for maneuver is limited because its intelligence services can do less and are permitted to do much less than, for example, their American counterparts. The capabilities of the Bundeswehr are also limited. For example, drone defense in Germany is a nascent discipline."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f4860",
+   "content": {
+    "text": "However, political reasons also limit the government’s options. The AfD and BSW invert reality: Politicians from these parties claim that Germany is pursuing an aggressive course against Russia. In this particular reality, the NATO states are ultimately to blame for the war in Ukraine. Russia’s campaign is thus – more or less – reinterpreted as an act of self-defense. Its war crimes are transformed in this worldview into a necessary evil that, these politicians claim, the West provoked unnecessarily."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1f2f4871",
+   "content": {
+    "text": "This can only be explained by the fact that AfD leader <a href=\"https://www.nzz.ch/ld.10011381\">Tino Chrupalla</a> seriously said of Russian strongman Vladimir Putin: «He has done nothing to me.» Germany as an aggressor, Merz as a warmonger – this is what it sounds like not only from the far right but also from the far left. An overreaction to the attack in Leipzig would only have unnecessarily fueled Russia apologists."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh50dcf0",
+   "content": {
+    "title": "What else is important"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh50sdj0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/deutschland/politik/anschlag-auf-den-leipziger-flughafen-putin-nennt-berlins-sanktionen-schweren-fehler-bundesregierung-will-russisches-generalkonsulat-schliessen-und-einreise-russischer-staatsbuerger-verschaerfen-ld.10021936"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/29/f81ac8db-8cb0-4f41-b8e3-8c6f22b1295f.jpg",
+     "mediaId": "BvtmNMFwcrsM",
+     "key": "2026/08/29/f81ac8db-8cb0-4f41-b8e3-8c6f22b1295f.jpg",
+     "width": 4447,
+     "height": 2971,
+     "mimeType": "image/jpeg",
+     "altText": "epa13198840 Russian President Vladimir Putin attends a meeting with Belarusian President Alexander Lukashenko (not pictured) at the Novo-Ogaryovo state residence outside Moscow, Russia, 29 August 2026. EPA/ANASTASIA BARASHKOVA/REUTERS / POOL",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/f81ac8db-8cb0-4f41-b8e3-8c6f22b1295f.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "The German government is convinced that Vladimir Putin is waging a hybrid war in Germany.",
+    "source": "Anastasia Barashkova/Reuters/EPA"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjh511h60",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh51d5n0",
+      "content": {
+       "text": "<strong>Vladimir Putin has described the German sanctions as a «grave mistake»:</strong> «Where is the evidence?» the Russian president asked at a press conference. He claimed that the evidence presented so far for Russian involvement in the drone incident was «falsified.» He asserted that the German reaction was primarily motivated by domestic politics, as Chancellor Merz had lost the trust of the public. [Link <a href=\"https://www.nzz.ch/deutschland/politik/anschlag-auf-den-leipziger-flughafen-putin-nennt-berlins-sanktionen-schweren-fehler-bundesregierung-will-russisches-generalkonsulat-schliessen-und-einreise-russischer-staatsbuerger-verschaerfen-ld.10021936\">to live ticker]</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh511h70",
+      "content": {
+       "text": "<strong>The VW board has reportedly decided to close four plants:</strong> According to the business magazine «Wirtschaftswoche,» production in Emden and Zwickau is slated to end in 2031, at VW Commercial Vehicles in Hanover in 2032, and at the Audi plant in Neckarsulm in 2034. <a href=\"https://www.nzz.ch/wirtschaft/umbruch-bei-vw-was-in-den-kommenden-tagen-zu-erwarten-ist-ld.10020783\">(See also the latest developments.</a> )"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh51il90",
+      "content": {
+       "text": "<strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong>German Navy successfully tests Israeli missile system:</strong> A frigate has successfully completed a previously secret test of the Lora system in the North Atlantic. Plans for acquiring the ballistic missiles, which have a range of more than 500 kilometers, are now to be expedited. <a data-li-document-ref=\"10021683\" href=\"https://www.nzz.ch/ld.10021683\">(See also the latest news from Germany)</a><a data-li-document-ref=\"10009024\" href=\"https://www.nzz.ch/ld.10009024\"></a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh527ec0",
+   "content": {
+    "title": "Behind the headlines"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh52onk0",
+   "content": {
+    "title": "A little bit of normality near the front"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh52vf20",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10015567",
+     "$ref": "document",
+     "reference": {
+      "id": "10015567"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/20/9b0278df-d1d6-479d-a943-aafd73aceaa0.jpg",
+     "mediaId": "wkvWHVVjnYDh",
+     "key": "2026/08/20/9b0278df-d1d6-479d-a943-aafd73aceaa0.jpg",
+     "width": 6000,
+     "height": 3992,
+     "mimeType": "image/jpeg",
+     "altText": "Visitors watch the dolphin show at the Nemo Hotel in Kharkiv. Kharkiv, Ukraine (June 28, 2026)",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/9b0278df-d1d6-479d-a943-aafd73aceaa0.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Visitors watch a dolphin show in Kharkiv.",
+    "source": "Dominic Nahr / NZZ"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jmo691sr0",
+   "content": {
+    "text": "The eastern Ukrainian city of millions<strong> </strong>Kharkiv is only 30 kilometers from the front. People can forget the daily realities of war for a few hours at the zoo or the dolphinarium. But even there, air raid sirens sound frequently. One woman says: «If we ran to the bunker every time, we wouldn't have a life anymore.» <a data-li-document-ref=\"10015567\" href=\"https://www.nzz.ch/ld.10015567\">(See the report.</a> )"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh53fto0",
+   "content": {
+    "title": "Do you like «A Different Perspective in the Morning»? Then forward this newsletter to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh53slp0",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/der-andere-blick-am-morgen/\">Sign up here for the daily newsletter «A Different Perspective in the Morning».</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh55k600",
+   "content": {
+    "text": "I wish you a nice day."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjh55rpf0",
+   "content": {
+    "text": "Jonas Hermann"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1857345"
+   }
+  },
+  "title": "Germany reacts prudently to Russia’s aggression",
+  "owner": "NZZ",
+  "dependencies": {},
+  "issueDate": "2026-09-02T00:00:00.000Z",
+  "nzzId": "ld.10021906",
+  "product": "NZZ.ch",
+  "documentId": 10021906,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T04:20:26.649Z",
+  "publicationDate": "2026-09-02T04:20:26.649Z",
+  "publicationLastUpdated": "2026-09-02T04:20:26.649Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T16:20:26.649Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021906",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021906",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487375,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021906",
+    "name": "Germany reacts prudently to Russia’s aggression",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Germany reacts prudently to Russia’s aggression",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T04:20:26.649Z",
+     "updateTimestamp": "2026-09-02T04:20:26.649Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021906",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Germany responds intelligently to Russia's aggression | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Germany responds intelligently to Russia's aggression, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T08:20:26+02:00",
+  "date": "2026-09-02T08:20:26+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021906",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Germany reacts prudently to Russia’s aggression",
+  "ogTitle": "Germany responds intelligently to Russia's aggression | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021906",
+  "mrf:cms_id": "nzz:ld.10021906",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021906",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021906"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:08 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Germany reacts prudently to Russia’s aggression"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021906"
+   },
+   "headline": "Germany responds intelligently to Russia's aggression | NZZ",
+   "datePublished": "2026-09-02T08:20:26+02:00",
+   "dateModified": "2026-09-02T08:20:26+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021906",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021906"
+   ],
+   "ContentCreated": "2026-09-02T04:20:26.649Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021906",
+   "heading": "Deutschland reagiert klug auf Russlands Aggression",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

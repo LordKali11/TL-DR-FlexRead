@@ -1,0 +1,1301 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1h2rvt60",
+   "content": {
+    "title": "Federal Council Open to Banning Conversion Therapies",
+    "lead": "For years, the Federal Council firmly opposed a ban on conversion therapies. Now it has changed its stance. However, it leaves the question of implementation open.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1h2rvt61",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Adrien Woeffray, Bern",
+       "url": "",
+       "teaserImage": {}
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h2rvt62",
+   "content": {
+    "image": {
+     "author": "Andreas Becker / Keystone",
+     "caption": "According to a study, up to 16% of queer people in Switzerland have encountered conversion measures.",
+     "originalUrl": "/2026/09/02/577054fb-d3a2-4dc9-a68a-cc6685ca3cc0.jpg?crop=7130,4753,x0,y0",
+     "width": 7130,
+     "height": 4753,
+     "altText": "A woman cools herself with a rainbow-colored fan at the unveiling of Zurich's first Queer Memorial on Thursday, August 20, 2026, at the Sihlfeld Cemetery in Zurich. The memorial commemorates people who lost their lives due to homophobic discrimination, violence, or social exclusion. (KEYSTONE/Andreas Becker)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180137689"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7130,
+      "height": 4753,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7130,
+       "height": 4753,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "According to a study, up to 16% of queer people in Switzerland have encountered conversion measures.",
+    "author": "Andreas Becker / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ucvn0",
+   "content": {
+    "text": "So-called conversion therapies are also conducted in Switzerland. The Federal Council has now stated this somewhat trivial, yet long-known fact in black and white in a report published on Wednesday."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-c397e45c",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ucvq0",
+   "content": {
+    "text": "According to a study by the University of Bern, 9.5% of homosexual and bisexual individuals and 15.5% of trans people have already been confronted with efforts aimed at changing or suppressing their sexual orientation or gender identity. However, due to the limited data available, it is not possible to quantify how widespread conversion measures are in Switzerland, the study states. An exact calculation is difficult, it adds, especially since the practice often takes place in secret."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ucvq2",
+   "content": {
+    "text": "These «pseudo-therapies,» predominantly offered in religious institutions, ranged from subtle influence to severe infringements on physical integrity."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h7glig0",
+   "content": {
+    "text": "Even those who offer such conversion measures have refrained from using the term «therapy» since the 2000s. The criticism of the methods simply became too great. Since then, the offerings have operated in vague terms, such as «support in wrestling with one's sexuality» or under the guise of «depression treatment.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h7gsp80",
+   "content": {
+    "text": "Figures have shown that conversion therapies also take place in Switzerland since 2019. Since then, the Swiss LGBTIQ+ Panel has been collecting data as part of a longitudinal study. The University of Bern study, on which the Federal Council now relies, also refers to these figures. However, when asked whether this practice should be banned, the Federal Council avoided a clear answer for years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ucvr0",
+   "content": {
+    "text": "Already at the end of 2021, the National Council had adopted a postulate by the now-retired Erich von Siebenthal (Swiss People's Party). In it, von Siebenthal called for an examination of «the actual extent of these practices» in Switzerland and an assessment of how current law «responds to this situation.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h3cj6q0",
+   "content": {
+    "image": {
+     "author": "Gaëtan Bally / Keystone",
+     "caption": "Former National Councillor Erich von Siebenthal (Swiss People's Party).",
+     "originalUrl": "/2026/09/02/51fcb90a-56de-4a4e-b6f2-3730071d1ca4.jpg?crop=4157,4157,x1590,y84",
+     "width": 8300,
+     "height": 5533,
+     "altText": "Erich von Siebenthal, National Councillor SVP-BE, portrait taken on December 5, 2019 in Bern. (KEYSTONE/Gaetan Bally)",
+     "crop": {
+      "x": 1590,
+      "y": 84,
+      "width": 4157,
+      "height": 4157,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 1590,
+       "y": 84,
+       "width": 4157,
+       "height": 4157,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Former National Councillor Erich von Siebenthal (Swiss People's Party).",
+    "author": "Gaëtan Bally / Keystone"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--left"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h329460",
+   "content": {
+    "title": "<strong>Mounting Pressure</strong>",
+    "id": "subtitle-der-druck-steigt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ucvt0",
+   "content": {
+    "text": "The Federal Council «clearly and decisively» rejects conversion therapies. Nevertheless, its reasoning remains contradictory. On the one hand, it considers the existing legal framework to be sufficient. Current criminal, civil, and health professional law already offers extensive protection against conversion therapies, the Federal Council argues. Therefore, a federal legal regulation does not appear «absolutely necessary,» it maintains."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h95jq11",
+   "content": {
+    "text": "On the other hand, it is nevertheless receptive to a ban. It justifies this, in part, with the growing pressure from politics and society. Indeed, resistance against the «gay healers» is expanding. Last May, the Swiss Bishops' Conference and the Council of the Federation of Swiss Protestant Churches <a href=\"https://www.nzz.ch/ld.10008518\">spoke out in favor of a ban in a coordinated action</a>. In addition, the cantons of Neuchâtel, Valais, and Vaud have already introduced a criminal ban on conversion measures. In eleven other cantons, political efforts are underway in the same direction."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ucvu2",
+   "content": {
+    "text": "The Federal Council also wants to prevent a federal patchwork of regulations. Different cantonal regulations could impair their effectiveness. Last but not least, it is also important to «send a clear signal against conversion measures,» the Council states. The Federal Council still leaves open in what form this will occur."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h32o4c0",
+   "content": {
+    "title": "Many Possibilities, Many Buts",
+    "id": "subtitle-viele-m-glichkeiten-viele-aber"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ud000",
+   "content": {
+    "text": "Although the Federal Council outlines various ways in which a ban could be introduced, it also always points out the limitations of the options."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ud010",
+   "content": {
+    "text": "An extension of the Equality Act does not convince the Federal Council, as it would miss the original purpose of the law, it argues. It considers an expansion of the anti-racism criminal provision unlikely, since parliament explicitly spoke out against including gender identity as a criterion. However, a separate law, analogous to the burqa ban or the draft ban on Nazi symbols, is conceivable, it says. The mandate, however, must come from parliament, the Council maintains."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2ud014",
+   "content": {
+    "text": "The next opportunity will arise with the implementation of the motion «Prohibit and criminalize conversion measures against LGBTQ persons» by the Legal Affairs Committee of the National Council, the Council suggests. The responsible Legal Affairs Committee of the Council of States had suspended deliberations on the motion until the Federal Council's report was available. Now the way is clear for a new beginning."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1h2rvt64",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1h2rvt65",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1h2rvt66",
+      "content": {
+       "title": "A sign against gay conversion therapists: Bishops' Conference and Swiss Reformed Church call for a ban on conversion therapies",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/26/5474d85d-3e18-4251-98d6-65fc5d5bb9ab.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/26/5474d85d-3e18-4251-98d6-65fc5d5bb9ab.jpg?width=1024&quality=75&auto=webp",
+        "width": 7417,
+        "height": 4945,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7417,4172,x0,y554"
+         },
+         {
+          "name": "4:3",
+          "crop": "6593,4945,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4495,4495,x378,y450"
+         },
+         {
+          "name": "3:4",
+          "crop": "3709,4945,x792,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7417,4945,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The Catholic Church still struggles with the issue of homosexuality. Now, the Swiss bishops are taking a much clearer stance. The Reformed churches are also taking a position – with implications for the free churches.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "editor": "1555252",
+       "nzzId": "ld.10008518",
+       "readingTime": 180,
+       "paywallQuestionOne": "Why are the Swiss churches taking a stand against conversion therapies?",
+       "paywallQuestionTwo": "According to the SBK, how do pastoral care and conversion therapies differ?",
+       "paywallQuestionThree": "What legal gray areas exist regarding conversion therapies in Switzerland?",
+       "characterCount": 4170,
+       "product": "NZZ.ch",
+       "documentId": 10008518,
+       "layout": "regular",
+       "publicationDate": "2026-05-26T16:02:59.144Z",
+       "publicationLastUpdated": "2026-05-27T11:50:20.664Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-05-27T04:02:59.144Z",
+       "teaserCaption": "The Catholic Church still struggles with the issue of homosexuality. Now, the Swiss bishops are taking a much clearer stance. The Reformed churches are also taking a position – with implications for the free churches.",
+       "authorLine": "Andri Rostetter",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/cd6f5c95-b628-4964-9e19-f7a357efbe8c.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/cd6f5c95-b628-4964-9e19-f7a357efbe8c.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/cd6f5c95-b628-4964-9e19-f7a357efbe8c.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/position-gegen-bischofskonferenz-und-schweizer-reformierte-stellen-sich-gegen-konversionstherapien-ld.10008518",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 597,
+       "leadText": "The Catholic Church still struggles with the issue of homosexuality. Now, the Swiss bishops are taking a much clearer stance. The Reformed churches are also taking a position – with implications for the free churches.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1h2rvt67",
+      "content": {
+       "owner": "NZZ",
+       "title": "Jans' work and Nemo's contribution – this is stated in the Federal Council's report on the situation of non-binary people.",
+       "teaserImage": {
+        "originalUrl": "/2025/12/12/be1211af-9f82-4737-9593-88516e273ba0.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/12/be1211af-9f82-4737-9593-88516e273ba0.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y313"
+         },
+         {
+          "name": "1:1",
+          "crop": "4000,4000,x1000,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x333,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1500,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Following her win last year, the musician from Biel used her newfound popularity to try to convince Federal Councillor Beat Jans of the necessity of a third gender option. The Federal Councillor is opposed to this, but expresses considerable understanding for his position in a 60-page report.",
+        "teaserAuthor": "Denis Balibouse / Reuters"
+       },
+       "teaserAuthor": "Denis Balibouse / Reuters",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1916268",
+       "readingTime": 180,
+       "authorLine": "Christina Neuhaus",
+       "characterCount": 4399,
+       "product": "NZZ.ch",
+       "documentId": 1916268,
+       "layout": "regular",
+       "publicationDate": "2025-12-12T12:59:33.399Z",
+       "publicationLastUpdated": "2025-12-12T21:03:56.251Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-13T00:59:33.399Z",
+       "teaserCaption": "Following her win last year, the musician from Biel used her newfound popularity to try to convince Federal Councillor Beat Jans of the necessity of a third gender option. The Federal Councillor is opposed to this, but expresses considerable understanding for his position in a 60-page report.",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/da505cf8-75b9-421a-b1c1-b04f1fde5265.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/da505cf8-75b9-421a-b1c1-b04f1fde5265.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/da505cf8-75b9-421a-b1c1-b04f1fde5265.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/jans-werk-und-nemos-beitrag-das-steht-im-bericht-des-bundesrats-ueber-die-situation-nichtbinaerer-personen-ld.1916268",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 669,
+       "leadText": "Following her win last year, the musician from Biel used her newfound popularity to try to convince Federal Councillor Beat Jans of the necessity of a third gender option. The Federal Councillor is opposed to this, but expresses considerable understanding for his position in a 60-page report.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1h2rvt68",
+      "content": {
+       "owner": "NZZ",
+       "title": "Puberty blockers: The debate surrounding transgender youth flares up again. Answers to the most important questions about gender identity.",
+       "teaserImage": {
+        "originalUrl": "/2021/12/29/2970cf7b-70a5-4826-9dea-cbe38a4b5f26.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/12/29/2970cf7b-70a5-4826-9dea-cbe38a4b5f26.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5168,
+        "height": 3445,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5168,2907,x0,y537"
+         },
+         {
+          "name": "1:1",
+          "crop": "838,838,x2116,y1471"
+         },
+         {
+          "name": "4:3",
+          "crop": "4083,3062,x592,y382"
+         },
+         {
+          "name": "3:4",
+          "crop": "2042,2722,x1532,y723"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Trans and gender: These terms repeatedly spark heated debates. Most recently, this was the case when some countries severely restricted the distribution of puberty blockers to minors – not Switzerland and Germany. These debates revolve around issues such as gender, identity, and sexuality.",
+        "teaserAuthor": "Urs Flüeler / Keystone"
+       },
+       "teaserAuthor": "Urs Flüeler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1772701",
+       "readingTime": 480,
+       "authorLine": "Alan Niederer and Eveline Geiser",
+       "characterCount": 12178,
+       "product": "NZZ.ch",
+       "documentId": 1772701,
+       "layout": "regular",
+       "publicationDate": "2024-03-14T16:00:00.000Z",
+       "publicationLastUpdated": "2024-03-22T12:52:02.838Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-03-15T04:00:00.000Z",
+       "teaserCaption": "Trans and gender: These terms repeatedly spark heated debates. Most recently, this was the case when some countries severely restricted the distribution of puberty blockers to minors – not Switzerland and Germany. These debates revolve around issues such as gender, identity, and sexuality.",
+       "url": "/wissenschaft/transsexualitaet-wenn-es-bei-der-frage-mann-oder-frau-kompliziert-wird-ld.1772701",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 1663,
+       "leadText": "Trans and gender: These terms repeatedly spark heated debates. Most recently, this was the case when some countries severely restricted the distribution of puberty blockers to minors – not Switzerland and Germany. These debates revolve around issues such as gender, identity, and sexuality.",
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": false,
+  "title": "Federal Council Open to Banning Conversion Therapies",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/577054fb-d3a2-4dc9-a68a-cc6685ca3cc0.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/577054fb-d3a2-4dc9-a68a-cc6685ca3cc0.jpg?width=1024&quality=75&auto=webp",
+   "width": 7130,
+   "height": 4753,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7130,4011,x0,y340"
+    },
+    {
+     "name": "4:3",
+     "crop": "6337,4753,x779,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4753,4753,x2151,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3565,4753,x1956,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7130,4753,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "For years, the Federal Council firmly opposed a ban on conversion therapies. Now it has changed its stance. However, it leaves the question of implementation open.",
+   "teaserAuthor": "Andreas Becker / Keystone"
+  },
+  "teaserAuthor": "Andreas Becker / Keystone",
+  "nzzId": "ld.10022117",
+  "readingTime": 180,
+  "characterCount": 4303,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022117,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T15:58:30.069Z",
+  "publicationDate": "2026-09-02T15:58:30.069Z",
+  "publicationLastUpdated": "2026-09-02T15:58:30.069Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T03:58:30.069Z",
+  "teaserCaption": "For years, the Federal Council firmly opposed a ban on conversion therapies. Now it has changed its stance. However, it leaves the question of implementation open.",
+  "nzzAuthors": [
+   {
+    "id": 10020305,
+    "name": "Adrien Woeffray",
+    "shortName": "awo",
+    "external": false
+   }
+  ],
+  "authorLine": "Adrien Woeffray, Bern",
+  "url": "/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 632,
+  "leadText": "For years, the Federal Council firmly opposed a ban on conversion therapies. Now it has changed its stance. However, it leaves the question of implementation open.",
+  "nzzSummaryEN": "- The Swiss Federal Council has changed its stance and is open to banning conversion therapies, though specific implementation plans remain unclear.\n- Studies show a significant number of queer individuals in Switzerland have encountered conversion measures, although precise data is hard to obtain.\n- There are already cantonal initiatives and laws against these practices, and new federal regulations may follow to ensure uniformity.",
+  "nzzSummaryDE": "- The Federal Council has changed its position and is open to a ban on conversion therapies, although the specific implementation remains unclear.\n Studies show that a significant proportion of queer people in Switzerland have already been confronted with conversion measures, although exact figures are difficult to determine.\n - There are already cantonal efforts and laws against these practices, and new regulations could follow at the federal level to ensure a uniform approach.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Federal Council reverses course on «reversal»",
+  "nzzPrintSubtitle": "Suddenly, the Federal Council is open to a ban on conversion therapies. However, it leaves open the question of how this should be done.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117",
+   "title": "Switzerland: The Federal Council is open to a ban on conversion measures",
+   "socialMediaTitle": "The Federal Council shows openness to a ban on controversial conversion therapies",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/577054fb-d3a2-4dc9-a68a-cc6685ca3cc0.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7130,4011,x0,y340&wmark=nzz"
+  },
+  "ldPublicationId": 2487834,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Federal Council (Switzerland)",
+    "slug": "/themen/bundesrat"
+   },
+   {
+    "name": "LGBT",
+    "slug": "/themen/lgbt"
+   },
+   {
+    "name": "National Council",
+    "slug": "/themen/nationalrat"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10008518",
+    "ld.1916268",
+    "ld.1772701"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 281328,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "bundesrat",
+   "name": "Federal Council (Switzerland)",
+   "tagName": "Federal Council (Switzerland)",
+   "qId": "Q30917",
+   "seoTitle": "Federal Council – All articles about the Swiss government | NZZ",
+   "description": "Four parties, seven members: The Swiss Federal Council, elected by parliament, has presented itself for decades with a stability that can seem puzzling to foreigners. Direct democracy, however, demands a balance of interests, because decisions must stand up to popular vote. Since 1959, the four largest parties (SVP, SP, FDP, CVP) have been part of the government. Here you can find all NZZ articles on the Federal Council.",
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 16:57:22.993Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/bundesrat",
+   "size": 4100,
+   "relatedTopics": [
+    {
+     "name": "LGBT",
+     "slug": "/themen/lgbt"
+    },
+    {
+     "name": "Nationalrat",
+     "slug": "/themen/nationalrat"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Subsidies for results: Trained farmer Guy Parmelin wants farmers to think like entrepreneurs in the future",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/a51a7a11-d8de-41d6-b658-5bb8c25a3116.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/a51a7a11-d8de-41d6-b658-5bb8c25a3116.jpg?width=1024&quality=75&auto=webp",
+     "width": 3291,
+     "height": 2194,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3291,1851,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2925,2194,x229,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2194,2194,x528,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1646,2194,x657,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3291,2194,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Agricultural Policy 2030: Economic affairs minister seeks new mindset for agriculture to address climate change",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10022110",
+    "readingTime": 300,
+    "paywallQuestionOne": "How does Parmelin intend to make Swiss agriculture more market-oriented?",
+    "paywallQuestionTwo": "What reforms is the Federal Council planning regarding direct payments to farmers?",
+    "paywallQuestionThree": "How does the small farmers' association react to Parmelin's agricultural policy?",
+    "characterCount": 6758,
+    "product": "NZZ.ch",
+    "documentId": "10022110",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T16:28:38.625Z",
+    "publicationLastUpdated": "2026-09-02T17:03:56.506Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T04:28:38.625Z",
+    "teaserCaption": "Agricultural Policy 2030: Economic affairs minister seeks new mindset for agriculture to address climate change",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/subventionen-nur-noch-gegen-resultate-der-gelernte-landwirt-guy-parmelin-will-dass-die-bauern-kuenftig-wie-unternehmer-denken-ld.10022110",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 958,
+    "leadText": "Agricultural Policy 2030: Economic affairs minister seeks new mindset for agriculture to address climate change",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Kompass Initiative: Who really waited too long?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Alfred Gantner",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/ca194788-2350-424a-97fc-fcd7f4c41ec6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/ca194788-2350-424a-97fc-fcd7f4c41ec6.jpg?width=1024&quality=75&auto=webp",
+     "width": 3008,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3008,1692,x0,y139"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x95,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2000,2000,x504,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x754,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x4,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The initiators of the Compass initiative are accused of submitting their proposal too late. The retroactive application to the vote on the EU treaties, enshrined in the initiative text, is therefore legally problematic. However, what actually arrived very late was the message from the Federal Council.",
+     "teaserAuthor": "Michael Stahl / NZZ"
+    },
+    "teaserAuthor": "Michael Stahl / NZZ",
+    "flag": "Guest opinion",
+    "editor": "1373665",
+    "nzzId": "ld.10021486",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is the Compass initiative being accused of a late submission?",
+    "paywallQuestionTwo": "How does the Federal Council's delay affect the vote on the majority of cantons?",
+    "paywallQuestionThree": "What are the political consequences of the Federal Council exhausting the maximum time limit?",
+    "characterCount": 3549,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021486",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T03:20:00.000Z",
+    "publicationLastUpdated": "2026-09-02T04:02:11.805Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:20:00.000Z",
+    "teaserCaption": "The initiators of the Compass initiative are accused of submitting their proposal too late. The retroactive application to the vote on the EU treaties, enshrined in the initiative text, is therefore legally problematic. However, what actually arrived very late was the message from the Federal Council.",
+    "url": "https://www.nzz.ch/meinung/kompass-initiative-wer-hat-hier-wirklich-zu-lange-gewartet-ld.10021486",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 548,
+    "leadText": "The initiators of the Compass initiative are accused of submitting their proposal too late. The retroactive application to the vote on the EU treaties, enshrined in the initiative text, is therefore legally problematic. However, what actually arrived very late was the message from the Federal Council.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 10,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Internal Federal Council documents show: a second air defense system would be barely financeable even with a VAT increase",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/02/04/f590e33a-a9f1-4b54-97bd-5fe1023d8b1f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/02/04/f590e33a-a9f1-4b54-97bd-5fe1023d8b1f.jpg?width=1024&quality=75&auto=webp",
+     "width": 6903,
+     "height": 4861,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6903,3883,x0,y316"
+      },
+      {
+       "name": "4:3",
+       "crop": "6481,4861,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4861,4861,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3646,4861,x430,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6903,4602,x0,y130"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Federal Councillor Martin Pfister wants to procure a second system in addition to the American Patriot system. Internal documents show: how it would be financed is unclear, the Federal Department of Finance warns",
+     "teaserAuthor": "Mike Mareen via Imago"
+    },
+    "teaserAuthor": "Mike Mareen via Imago",
+    "nzzId": "ld.10021930",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the Federal Council intend to secure the financing of the second air defense system?",
+    "paywallQuestionTwo": "Why is the planned VAT increase insufficient for financing?",
+    "paywallQuestionThree": "What alternatives to the VAT increase does the tax authorities propose?",
+    "characterCount": 4054,
+    "product": "NZZ.ch",
+    "documentId": "10021930",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T15:23:27.236Z",
+    "publicationLastUpdated": "2026-09-01T18:14:15.974Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T03:23:27.236Z",
+    "teaserCaption": "Federal Councillor Martin Pfister wants to procure a second system in addition to the American Patriot system. Internal documents show: how it would be financed is unclear, the Federal Department of Finance warns",
+    "authorLine": "Selina Berner, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/zweites-luftabwehrsystem-auch-mit-mehrwertsteuererhoehung-kaum-finanzierbar-warnt-das-finanzdepartement-ld.10021930",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 592,
+    "leadText": "Federal Councillor Martin Pfister wants to procure a second system in addition to the American Patriot system. Internal documents show: how it would be financed is unclear, the Federal Department of Finance warns",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«It is incomprehensible that a higher hurdle is needed for the vote on cow horns than for the EU treaties,» says the president of the Swiss Trade Association",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2020/1/22/5fea9b2f-aa20-45f9-bda8-9f30a996de99.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2020/1/22/5fea9b2f-aa20-45f9-bda8-9f30a996de99.jpeg?width=1024&quality=75&auto=webp",
+     "width": 8688,
+     "height": 5792,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8688,4887,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7723,5792,x734,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5792,5792,x1699,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4344,5792,x2423,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8688,5792,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 4595,
+      "y": 2010
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "flag": "interview",
+    "nzzId": "ld.10021632",
+    "readingTime": 540,
+    "paywallQuestionOne": "What conditions does the SGV set for its approval of the EU treaties?",
+    "paywallQuestionTwo": "How should SMEs be relieved of burdens through the EU treaties?",
+    "paywallQuestionThree": "Why does the SGV reject the new food safety rules?",
+    "characterCount": 11090,
+    "product": "NZZ.ch",
+    "documentId": "10021632",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:31:00.000Z",
+    "publicationLastUpdated": "2026-09-01T08:45:08.432Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:31:00.000Z",
+    "teaserCaption": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+    "authorLine": "Katharina Fontana",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/25/7c05952b-935d-4db1-8c88-431369489c1b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sgv-praesident-fabio-regazzi-es-ist-eine-selbstverstaendlichkeit-dass-das-parlament-bei-den-eu-vertraegen-mitreden-will-ld.10021632",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The Swiss Business Federation supports the agreements with the EU, provided that SMEs are relieved of some of the burden. It rejects the new food safety regulations, arguing that they are unnecessarily complicated for businesses.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Look, we are doing enough: Rösti reacts to hot summer, vows support for forests and farmers",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/70c32f58-952b-4fe4-b198-7b72a4d1a0cf.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/70c32f58-952b-4fe4-b198-7b72a4d1a0cf.jpg?width=1024&quality=75&auto=webp",
+     "width": 7920,
+     "height": 5280,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7920,4455,x0,y233"
+      },
+      {
+       "name": "4:3",
+       "crop": "7040,5279,x347,y1"
+      },
+      {
+       "name": "1:1",
+       "crop": "5280,5279,x1254,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "3960,5279,x1854,y1"
+      },
+      {
+       "name": "3:2",
+       "crop": "7920,5279,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The environment minister is telling a press conference how much the federal government is doing for climate protection. The Left Party is hardly appeased by this.",
+     "teaserAuthor": "Anthony Anex / Keystone"
+    },
+    "teaserAuthor": "Anthony Anex / Keystone",
+    "nzzId": "ld.10021089",
+    "readingTime": 360,
+    "paywallQuestionOne": "How does Rösti react to criticism of climate protection measures?",
+    "paywallQuestionTwo": "What financial aid is the federal government planning for farmers and forests?",
+    "paywallQuestionThree": "Why does Rösti remain a target for the Greens and the Left?",
+    "characterCount": 8790,
+    "product": "NZZ.ch",
+    "documentId": "10021089",
+    "layout": "regular",
+    "publicationDate": "2026-08-26T17:47:16.160Z",
+    "publicationLastUpdated": "2026-08-27T08:22:40.606Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T05:47:16.160Z",
+    "teaserCaption": "The environment minister is telling a press conference how much the federal government is doing for climate protection. The Left Party is hardly appeased by this.",
+    "authorLine": "Renato Schatz, Matthias Venetz",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/10/17/41ee53e2-acde-45fe-a9c5-8683e1a77750.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/seht-her-wir-machen-genug-roesti-reagiert-auf-den-hitzesommer-und-will-waelder-und-bauern-unterstuetzen-ld.10021089",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1285,
+    "leadText": "The environment minister is telling a press conference how much the federal government is doing for climate protection. The Left Party is hardly appeased by this.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Tasers for the transport police: The Federal Council wants to strengthen security on public transport",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2025/11/03/452280be-8a70-4e29-a1f7-06391ea7f45e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/11/03/452280be-8a70-4e29-a1f7-06391ea7f45e.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4002,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y265"
+      },
+      {
+       "name": "4:3",
+       "crop": "5336,4002,x30,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4002,4002,x687,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3002,4002,x477,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In the future, police officers will be able to carry tasers on trains, buses, and trams. The federal government also wants to use more bodycams.",
+     "teaserAuthor": "Michael Buholzer / Keystone"
+    },
+    "teaserAuthor": "Michael Buholzer / Keystone",
+    "nzzId": "ld.10021166",
+    "readingTime": 120,
+    "paywallQuestionOne": "Why is the Federal Council relying on Tasers in public transport?",
+    "paywallQuestionTwo": "How should body cameras monitor the use of Tasers?",
+    "paywallQuestionThree": "What criticisms exist regarding the use of Tasers in public transport?",
+    "characterCount": 2758,
+    "product": "NZZ.ch",
+    "documentId": "10021166",
+    "layout": "regular",
+    "publicationDate": "2026-08-26T15:48:21.308Z",
+    "publicationLastUpdated": "2026-08-27T14:21:13.599Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T03:48:21.308Z",
+    "teaserCaption": "In the future, police officers will be able to carry tasers on trains, buses, and trams. The federal government also wants to use more bodycams.",
+    "url": "https://www.nzz.ch/schweiz/taser-fuer-die-transportpolizei-der-bundesrat-will-die-sicherheit-im-oev-staerken-ld.10021166",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 400,
+    "leadText": "In the future, police officers will be able to carry tasers on trains, buses, and trams. The federal government also wants to use more bodycams.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022117",
+    "name": "Federal Council Open to Banning Conversion Therapies",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Federal Council Open to Banning Conversion Therapies",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 10020305,
+       "name": "Adrien Woeffray",
+       "shortName": "awo",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T15:58:30.069Z",
+     "updateTimestamp": "2026-09-02T15:58:30.069Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022117",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Switzerland: The Federal Council is open to a ban on conversion measures",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/577054fb-d3a2-4dc9-a68a-cc6685ca3cc0.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7130,4011,x0,y340&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Adrien Woeffray, Bern",
+  "description": "For years, the Federal Council firmly opposed a ban on conversion therapies. Now it has changed its stance. However, it leaves the question of implementation open.",
+  "news_keywords": "The Federal Council is open to a ban on conversion therapies, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T19:58:30+02:00",
+  "date": "2026-09-02T19:58:30+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Federal Council Open to Banning Conversion Therapies",
+  "ogTitle": "The Federal Council shows openness to a ban on controversial conversion therapies",
+  "ogUrl": "https://www.nzz.ch/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117",
+  "mrf:cms_id": "nzz:ld.10022117",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022117",
+  "nzzAuthors": [
+   {
+    "id": 10020305,
+    "name": "Adrien Woeffray",
+    "shortName": "awo",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:10 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Switzerland: The Federal Council is open to a ban on conversion measures"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117"
+   },
+   "headline": "Switzerland: The Federal Council is open to a ban on conversion measures",
+   "datePublished": "2026-09-02T19:58:30+02:00",
+   "dateModified": "2026-09-02T19:58:30+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "For years, the Federal Council firmly opposed a ban on conversion therapies. Now it has changed its stance. However, it leaves the question of implementation open.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/577054fb-d3a2-4dc9-a68a-cc6685ca3cc0.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7130,4011,x0,y340&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Adrien Woeffray"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 281328,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/der-bundesrat-zeigt-sich-offen-fuer-ein-verbot-von-konversionstherapien-ld.10022117",
+    "classification=default",
+    "relevance=default",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022117",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-09-02T15:58:30.069Z",
+   "ContentAuthor": "Adrien Woeffray, Bern",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum zeigt sich der Bundesrat plötzlich offen für ein Verbot von Konversionstherapien?\nWie könnten unterschiedliche kantonale Regelungen die Wirksamkeit beeinträchtigen?\nWelche Optionen für ein Verbot nennt der Bundesrat und welche Grenzen sieht er dabei?",
+   "ldId": "ld.10022117",
+   "channel": "Schweiz",
+   "heading": "Der Bundesrat zeigt sich offen für ein Verbot von Konversionstherapien",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

@@ -1,0 +1,585 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jqlqgvnq0",
+   "content": {
+    "subject": "Die erste Pille zum Abnehmen auf dem deutschen Markt",
+    "preheader": "Das Wichtigste zum Start in den Tag"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-c081663d",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-newsletter-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-newsletter-subtitle",
+   "id": "doc-1jqlqgvnq3",
+   "content": {
+    "title": "The most important things to start the day"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jqlqgvnq6",
+   "content": {
+    "text": "<strong>The most important news this morning:</strong> Newly approved weight-loss drugs in Germany and Europe's support for Ukraine"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-newsletter-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqib7v0",
+   "content": {
+    "text": "<strong>And you'll only read this in the NZZ:</strong> Leticia Wong and her partner sold books in Hong Kong. Then they were imprisoned. The charge: They were accused of selling «seditious works.» In the past twelve months, Hong Kong law enforcement has arrested at least eleven booksellers. The psychological profile of a city on the verge of losing its soul: <a data-li-document-ref=\"10018914\" href=\"https://www.nzz.ch/ld.10018914\">Read the «NZZ Pro» report.</a><a data-li-document-ref=\"10018914\" href=\"https://www.nzz.ch/ld.10018914\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqje3p0",
+   "content": {
+    "title": "The Most Important News This Morning"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqjsuh0",
+   "content": {
+    "title": "Germany's first weight-loss pill available from September"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1ju7ocipg0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10018895",
+     "$ref": "document",
+     "reference": {
+      "id": "10018895"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg",
+     "mediaId": "wdKMMIsx86yE",
+     "key": "2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg",
+     "width": 5472,
+     "height": 3648,
+     "mimeType": "image/jpeg",
+     "altText": "A person poses with a Wegovy (semaglutide) tablet in this illustration picture taken in Schwenksville, Pennsylvania, US June 16, 2026. REUTERS/Hannah Beier",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/14/ffb92c54-b355-480c-93d1-9531e2fd3625.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Hannah Beier / Reuters"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk0lk0",
+   "content": {
+    "text": "<strong>What happened:</strong> Anyone in Germany who wants to take a weight-loss drug can take one tablet daily starting in September. It contains the same active ingredient as the weekly Ozempic or Wegovy injections. Like these, the preparation is approved for overweight or obese patients who already have a weight-related comorbidity. The tablet is already prescribed as a treatment for type 2 diabetes. <a href=\"https://www.nzz.ch/ld.10018895\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk3tu0",
+   "content": {
+    "text": "<strong>Why it matters: </strong>Health insurance funds cover costs only for diabetics. Many patients lose 10 to 15 kilograms of body weight with injections under real-world conditions, but only about half continue a year after starting therapy. Those who do not continue permanently regain the lost kilograms. This is unlikely to change significantly with the tablets. Side effects primarily include gastrointestinal issues such as nausea, diarrhea, vomiting or constipation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqkj090",
+   "content": {
+    "title": "London reaffirms support on Ukraine's Independence Day"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk71p0",
+   "content": {
+    "text": "<strong>What happened:</strong> Ukraine marked the 35th anniversary of its independence yesterday. In his address, President Volodymyr Zelenskyy emphasized his country's will to resist: «Ukraine wants peace but is not ready to simply surrender.» He called on partners for more support, especially for air defense. The most important pledge of the day concerned offensive weapons. Great Britain gave the green light for the transfer of crucial armaments technology. <a href=\"https://www.nzz.ch/international/35-jahre-ukrainische-unabhaengigkeit-selenski-fordert-mehr-unterstuetzung-ld.10020761\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r67qrg0",
+   "content": {
+    "text": "<strong>Why it matters:</strong> Russia strongly condemned the fact that the Storm Shadow/Scalp cruise missile, based on British and French technology, can soon be produced in Ukraine. The guided missile has a range of 250 kilometers. «Great Britain is part of the war and regularly pours oil on the fire,» a Kremlin spokesperson said. Germany still opposes the delivery of the comparable Taurus cruise missile to Ukraine."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r5t4490",
+   "content": {
+    "text": "<strong>Background: </strong>After the official celebrations, the so-called Coalition of the Willing held a hybrid meeting. The meeting was chaired by British Prime Minister Andy Burnham, who made his first foreign trip since taking office in Kyiv. Chancellor Friedrich Merz, like French President Emmanuel Macron and many others, participated via video. The U.S. was not represented. <a href=\"https://www.nzz.ch/ld.10009803\">Follow the live ticker</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r6a67i1",
+   "content": {
+    "text": "<strong>This was what the celebrations in the heart of Kyiv looked like:</strong> <a href=\"https://www.nzz.ch/shorts/die-ukraine-feiert-den-35-jahrestag-ihrer-unabhaengigkeit-ld.10020866\">Watch the video</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlql0jn0",
+   "content": {
+    "title": "What Else Happened"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqiffn0",
+   "content": {
+    "text": "<strong>In the economic war against Iran, the U.S. government is now suddenly relying on «quiet diplomacy»:</strong> U.S. Treasury Secretary Scott Bessent is refraining for now from imposing sanctions on Iran's trading partners. He wants to give the affected states one last chance – after previously threatening to bring Tehran to its knees. <a href=\"https://www.nzz.ch/international/iran-krieg/usa-wollen-einnahmequellen-irans-trockenlegen-ld.10020878\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0r88ssb0",
+   "content": {
+    "text": "<strong>U.S. Supreme Court temporarily allows Trump's mail-in ballot plans:</strong> Just over two months before the American parliamentary elections, the Supreme Court on Monday lifted a temporary blockade of President Donald Trump's plans to tighten mail-in voting rules. Although a final decision on the matter is still pending, the administration can at least provisionally continue to pursue its plans. <a href=\"https://www.nzz.ch/ld.1856621\">Read the latest developments</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqms3k0",
+   "content": {
+    "text": "<strong>Canada breaks off customs negotiations with the U.S.:</strong> The neighboring country left the negotiating table and suspended ongoing negotiations for a customs agreement. U.S. President Trump then announced on Monday that he would increase punitive tariffs on cars, auto parts and steel from Canada. <a href=\"https://www.nzz.ch/ld.10020779\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqnjlm0",
+   "content": {
+    "title": "Our Recommendations Today"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jqlqo04q0",
+   "content": {
+    "link": {
+     "href": "https://www.nzz.ch/ld.10018697",
+     "$ref": "document",
+     "reference": {
+      "id": "10018697"
+     }
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/24/3f5ef17a-ee5f-4dc8-84b5-baed6488ca30.webp",
+     "mediaId": "jJAbrcf4FQjE",
+     "key": "2026/08/24/3f5ef17a-ee5f-4dc8-84b5-baed6488ca30.webp",
+     "width": 1440,
+     "height": 1440,
+     "mimeType": "image/webp",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/3f5ef17a-ee5f-4dc8-84b5-baed6488ca30.webp?width=1024&quality=75&auto=webp"
+    },
+    "source": "Instagram"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jqlqo2lq0",
+   "content": {
+    "text": "<strong>Poetic adventure: </strong>The Count of Velhoco, a district on the Canary Island of La Palma, hated official letters and bills. One day, when he had had enough, he wrote on his mailbox: «Solo cartas de amor» – only love letters. Indeed, people began to drop only love letters into it. Three years ago, the Count died. Since his death, his daughter has continued this unusual legacy. <a href=\"https://www.nzz.ch/ld.10018697\">Read the background story</a><a href=\"https://www.nzz.ch/ld.10018697\"></a><a href=\"https://www.nzz.ch/ld.10018914\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo6pr0",
+   "content": {
+    "text": "<strong>Autonomous driving: </strong>Another vehicle without a steering wheel and pedals will soon be driving on U.S. roads: Tesla plans to launch its new Cybercabs in Austin this month. They play a key role in CEO Elon Musk's plan to dominate the robotaxi market. The company is pursuing a different strategy than its competitors. <a href=\"https://www.nzz.ch/ld.10020472\">Read the background story</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoabg0",
+   "content": {
+    "text": "<strong>Europe's dangerous missile gap:</strong> The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran exacerbates the deficit. This is more than a gap in the arsenal: Against an adversary like Russia, which possesses a large arsenal of ballistic missiles, Europe lacks precisely those conventional options that lie between merely intercepting an attack and a significantly higher level of escalation. <a href=\"https://www.nzz.ch/ld.10018958\">Read the «NZZ Pro» background story</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqodt40",
+   "content": {
+    "title": "Our Recommendation for «The Market» Subscribers"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoibo0",
+   "content": {
+    "text": "<strong>Record profits with pitfalls: </strong>AI investments are driving a surge in profits in the U.S. In Europe, the profits of energy companies are inflating the overall result. But for strong earnings growth to continue for a while, many things must align. <a href=\"https://themarket.ch/makro-maerkte/diesmal-droht-die-blase-bei-den-gewinnen-ld.17529\">Read the analysis</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jqlqours0",
+   "content": {
+    "title": "Before You Go On"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpnda0",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Ukraine handles a significant portion of its exports through the ports around Odesa. Now, Russia is intensifying its attacks on the region. Far from the front, a decisive battle is being fought here. It is about Ukraine's economic survival. Foreign correspondent Jonas Roth traveled to Odesa to get a picture. In «NZZ Akzent,» he describes how the city is trying to defend itself against Russia. <a href=\"https://www.nzz.ch/ld.10020514\">Listen to the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpro70",
+   "content": {
+    "text": "<strong>📖 Read:</strong> «The Oyster» is a novel of brilliant reflections. Yael Inokai, the writer born in Basel and living in Berlin, begins her work with sharply etched scenes. What follows is a crime novel set under Berlin's gray winter sky and, at the same time, a highly literary mystery. <a href=\"https://www.nzz.ch/ld.10020734\">Read the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpvb00",
+   "content": {
+    "text": "We wish you a good start to the day.<br>Ulrike Putz, Klaus Bardenhagen, and Lillybelle Eisele"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654585"
+   }
+  },
+  "issueDate": "2026-06-09T00:00:00.000Z",
+  "title": "Copy of template briefing morning INT",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10020858",
+  "product": "NZZ.ch",
+  "documentId": 10020858,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T02:58:08.971Z",
+  "publicationDate": "2026-08-25T02:58:08.971Z",
+  "publicationLastUpdated": "2026-08-25T03:52:47.437Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T14:58:08.971Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10020858",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10020858",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483178,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020858",
+    "name": "Copy of template briefing morning INT",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Copy of template briefing morning INT",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T02:58:08.971Z",
+     "updateTimestamp": "2026-08-25T03:52:47.437Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020858",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Copy of template Briefing Morning INT | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Copy of template Briefing Morning INT, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T07:52:47+02:00",
+  "date": "2026-08-25T06:58:08+02:00",
+  "canonical": "https://www.nzz.ch/ld.10020858",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Copy of template briefing morning INT",
+  "ogTitle": "Copy of template Briefing Morning INT | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10020858",
+  "mrf:cms_id": "nzz:ld.10020858",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020858",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10020858"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:21 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Copy of template briefing morning INT"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10020858"
+   },
+   "headline": "Copy of template Briefing Morning INT | NZZ",
+   "datePublished": "2026-08-25T06:58:08+02:00",
+   "dateModified": "2026-08-25T07:52:47+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10020858",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020858"
+   ],
+   "ContentCreated": "2026-08-25T02:58:08.971Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020858",
+   "heading": "Kopie von Vorlage Briefing Morgen INT",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

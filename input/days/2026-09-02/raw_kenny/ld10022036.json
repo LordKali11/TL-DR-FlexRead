@@ -1,0 +1,2114 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1gh56p01",
+   "content": {
+    "title": "September begins turbulently on the stock market: Seven developments making financial markets nervous",
+    "lead": "Rising yields, expensive oil and the insatiable demand for AI capital: No quick solution in sight. What investors need to prepare for.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1gh56p02",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Benjamin Triebe",
+       "url": "/impressum/benjamin-triebe-ld.154630",
+       "teaserImage": {
+        "originalUrl": "/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "711,711,x44,y44"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "533,711,x133,y44"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h8u8th0",
+   "content": {
+    "image": {
+     "author": "Jacquelyn Martin / AP",
+     "caption": "Donald Trump's priorities are met with skepticism on the stock market, particularly regarding growing government spending.",
+     "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?crop=7898,5268,x0,y0",
+     "width": 7898,
+     "height": 5268,
+     "altText": "President Donald Trump arrives to speak at a campaign rally for Sen. Darline Graham, RS.C., at the Myrtle Beach Convention Center in Myrtle Beach, SC, Friday, Aug. 21, 2026. (AP Photo/Jacquelyn Martin) Donald Trump",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180155895"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 7898,
+      "height": 5268,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 7898,
+       "height": 5268,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Donald Trump's priorities are met with skepticism on the stock market, particularly regarding growing government spending.",
+    "author": "Jacquelyn Martin / AP"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvlobv0",
+   "content": {
+    "text": "American government bonds are considered the safest form of investment worldwide. Yet Treasuries are experiencing a sell-off not seen in a long time – even though the world currently appears quite uncertain. Can investors no longer rely on anything in financial markets?"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-33577b44",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvloc40",
+   "content": {
+    "text": "At the very least, investors must prepare for a turbulent September. Stock markets are gripped by several problems for which there is no quick solution. An overview of the most significant difficulties and interconnections."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gvml2l0",
+   "content": {
+    "title": "1. Investors turning away from the U.S.",
+    "id": "subtitle-1-investoren-verabschieden-sich-von-den-usa"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1h3mc5b0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "e0dee9722d20b8c0e6f2d50690327eb2",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_e0dee9722d20b8c0e6f2d50690327eb2_q1447ed36c4bd46948cd57a8f5e8af8a2_container\"        data-q-item-id=\"e0dee9722d20b8c0e6f2d50690327eb2\"        data-q-request-id=\"54db82d81544a357452a32f2bf0e0eaddf61df82\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"e0dee9722d20b8c0e6f2d50690327eb2\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"e0dee9722d20b8c0e6f2d50690327eb2\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"54db82d81544a357452a32f2bf0e0eaddf61df82\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_e0dee9722d20b8c0e6f2d50690327eb2_q1447ed36c4bd46948cd57a8f5e8af8a2_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"e0dee9722d20b8c0e6f2d50690327eb2\",\"allowDownloadData\":false,\"title\":\"This is how bond yields develop\",\"subtitle\":\"Yield of 10-year US Treasury bonds, in percent\",\"publication\":\"nzz\",\"acronym\":\"fsl.\",\"data\":[[\"Date\",\"Thanks!\"],[\"2025-09-02 00:00:00\",\"4.2769999504089355\"],[\"2025-09-03 00:00:00\",\"4.210999965667725\"],[\"2025-09-04 00:00:00\",\"4.176000118255615\"],[\"2025-09-05 00:00:00\",\"4.085999965667725\"],[\"2025-09-08 00:00:00\",\"4.046000003814697\"],[\"2025-09-09 00:00:00\",\"4.073999881744385\"],[\"2025-09-10 00:00:00\",\"4.0320000648498535\"],[\"2025-09-11 00:00:00\",\"4.011000156402588\"],[\"2025-09-12 00:00:00\",\"4.060999870300293\"],[\"2025-09-15 00:00:00\",\"4.033999919891357\"],[\"2025-09-16 00:00:00\",\"4.026000022888184\"],[\"2025-09-17 00:00:00\",\"4.076000213623047\"],[\"2025-09-18 00:00:00\",\"4.104000091552734\"],[\"2025-09-19 00:00:00\",\"4.138999938964844\"],[\"2025-09-22 00:00:00\",\"4.14300012588501\"],[\"2025-09-23 00:00:00\",\"4.119999885559082\"],[\"2025-09-24 00:00:00\",\"4.146999835968018\"],[\"2025-09-25 00:00:00\",\"4.171999931335449\"],[\"2025-09-26 00:00:00\",\"4.186999797821045\"],[\"2025-09-29 00:00:00\",\"4.140999794006348\"],[\"2025-09-30 00:00:00\",\"4.1479997634887695\"],[\"2025-10-01 00:00:00\",\"4.105999946594238\"],[\"2025-10-02 00:00:00\",\"4.0879998207092285\"],[\"2025-10-03 00:00:00\",\"4.11899995803833\"],[\"2025-10-06 00:00:00\",\"4.1620001792907715\"],[\"2025-10-07 00:00:00\",\"4.126999855041504\"],[\"2025-10-08 00:00:00\",\"4.129000186920166\"],[\"2025-10-09 00:00:00\",\"4.1479997634887695\"],[\"2025-10-10 00:00:00\",\"4.051000118255615\"],[\"2025-10-13 00:00:00\",\"4.051000118255615\"],[\"2025-10-14 00:00:00\",\"4.021999835968018\"],[\"2025-10-15 00:00:00\",\"4.046000003814697\"],[\"2025-10-16 00:00:00\",\"3.9760000705718994\"],[\"2025-10-17 00:00:00\",\"4.006999969482422\"],[\"2025-10-20 00:00:00\",\"3.9860000610351562\"],[\"2025-10-21 00:00:00\",\"3.9630000591278076\"],[\"2025-10-22 00:00:00\",\"3.953000068664551\"],[\"2025-10-23 00:00:00\",\"3.990999937057495\"],[\"2025-10-24 00:00:00\",\"3.996999979019165\"],[\"2025-10-27 00:00:00\",\"3.996999979019165\"],[\"2025-10-28 00:00:00\",\"3.9830000400543213\"],[\"2025-10-29 00:00:00\",\"4.058000087738037\"],[\"2025-10-30 00:00:00\",\"4.0929999351501465\"],[\"2025-10-31 00:00:00\",\"4.10099983215332\"],[\"2025-11-03 00:00:00\",\"4.105999946594238\"],[\"2025-11-04 00:00:00\",\"4.089000225067139\"],[\"2025-11-05 00:00:00\",\"4.1570000648498535\"],[\"2025-11-06 00:00:00\",\"4.0929999351501465\"],[\"2025-11-07 00:00:00\",\"4.0929999351501465\"],[\"2025-11-10 00:00:00\",\"4.110000133514404\"],[\"2025-11-11 00:00:00\",\"4.119999885559082\"],[\"2025-11-12 00:00:00\",\"4.065000057220459\"],[\"2025-11-13 00:00:00\",\"4.111999988555908\"],[\"2025-11-14 00:00:00\",\"4.1479997634887695\"],[\"2025-11-17 00:00:00\",\"4.132999897003174\"],[\"2025-11-18 00:00:00\",\"4.123000144958496\"],[\"2025-11-19 00:00:00\",\"4.132999897003174\"],[\"2025-11-20 00:00:00\",\"4.105999946594238\"],[\"2025-11-21 00:00:00\",\"4.063000202178955\"],[\"2025-11-24 00:00:00\",\"4.038000106811523\"],[\"2025-11-25 00:00:00\",\"4.001999855041504\"],[\"2025-11-26 00:00:00\",\"3.997999906539917\"],[\"2025-11-28 00:00:00\",\"4.017000198364258\"],[\"2025-12-01 00:00:00\",\"4.0960001945495605\"],[\"2025-12-02 00:00:00\",\"4.085999965667725\"],[\"2025-12-03 00:00:00\",\"4.057000160217285\"],[\"2025-12-04 00:00:00\",\"4.107999801635742\"],[\"2025-12-05 00:00:00\",\"4.138999938964844\"],[\"2025-12-08 00:00:00\",\"4.171999931335449\"],[\"2025-12-09 00:00:00\",\"4.185999870300293\"],[\"2025-12-10 00:00:00\",\"4.164000034332275\"],[\"2025-12-11 00:00:00\",\"4.140999794006348\"],[\"2025-12-12 00:00:00\",\"4.193999767303467\"],[\"2025-12-15 00:00:00\",\"4.182000160217285\"],[\"2025-12-16 00:00:00\",\"4.14900016784668\"],[\"2025-12-17 00:00:00\",\"4.151000022888184\"],[\"2025-12-18 00:00:00\",\"4.116000175476074\"],[\"2025-12-19 00:00:00\",\"4.151000022888184\"],[\"2025-12-22 00:00:00\",\"4.169000148773193\"],[\"2025-12-23 00:00:00\",\"4.169000148773193\"],[\"2025-12-24 00:00:00\",\"4.136000156402588\"],[\"2025-12-26 00:00:00\",\"4.136000156402588\"],[\"2025-12-29 00:00:00\",\"4.116000175476074\"],[\"2025-12-30 00:00:00\",\"4.130000114440918\"],[\"2025-12-31 00:00:00\",\"4.163000106811523\"],[\"2026-01-02 00:00:00\",\"4.186999797821045\"],[\"2026-01-05 00:00:00\",\"4.164999961853027\"],[\"2026-01-06 00:00:00\",\"4.178999900817871\"],[\"2026-01-07 00:00:00\",\"4.138000011444092\"],[\"2026-01-08 00:00:00\",\"4.183000087738037\"],[\"2026-01-09 00:00:00\",\"4.171000003814697\"],[\"2026-01-12 00:00:00\",\"4.186999797821045\"],[\"2026-01-13 00:00:00\",\"4.171000003814697\"],[\"2026-01-14 00:00:00\",\"4.139999866485596\"],[\"2026-01-15 00:00:00\",\"4.159999847412109\"],[\"2026-01-16 00:00:00\",\"4.230999946594238\"],[\"2026-01-20 00:00:00\",\"4.295000076293945\"],[\"2026-01-21 00:00:00\",\"4.252999782562256\"],[\"2026-01-22 00:00:00\",\"4.249000072479248\"],[\"2026-01-23 00:00:00\",\"4.238999843597412\"],[\"2026-01-26 00:00:00\",\"4.2129998207092285\"],[\"2026-01-27 00:00:00\",\"4.2230000495910645\"],[\"2026-01-28 00:00:00\",\"4.250999927520752\"],[\"2026-01-29 00:00:00\",\"4.2270002365112305\"],[\"2026-01-30 00:00:00\",\"4.241000175476074\"],[\"2026-02-02 00:00:00\",\"4.275000095367432\"],[\"2026-02-03 00:00:00\",\"4.27400016784668\"],[\"2026-02-04 00:00:00\",\"4.275000095367432\"],[\"2026-02-05 00:00:00\",\"4.210000038146973\"],[\"2026-02-06 00:00:00\",\"4.205999851226807\"],[\"2026-02-09 00:00:00\",\"4.197999954223633\"],[\"2026-02-10 00:00:00\",\"4.146999835968018\"],[\"2026-02-11 00:00:00\",\"4.171999931335449\"],[\"2026-02-12 00:00:00\",\"4.104000091552734\"],[\"2026-02-13 00:00:00\",\"4.056000232696533\"],[\"2026-02-17 00:00:00\",\"4.052000045776367\"],[\"2026-02-18 00:00:00\",\"4.078999996185303\"],[\"2026-02-19 00:00:00\",\"4.074999809265137\"],[\"2026-02-20 00:00:00\",\"4.085999965667725\"],[\"2026-02-23 00:00:00\",\"4.0289998054504395\"],[\"2026-02-24 00:00:00\",\"4.0329999923706055\"],[\"2026-02-25 00:00:00\",\"4.047999858856201\"],[\"2026-02-26 00:00:00\",\"4.017000198364258\"],[\"2026-02-27 00:00:00\",\"3.9619998931884766\"],[\"2026-03-02 00:00:00\",\"4.047999858856201\"],[\"2026-03-03 00:00:00\",\"4.056000232696533\"],[\"2026-03-04 00:00:00\",\"4.079999923706055\"],[\"2026-03-05 00:00:00\",\"4.145999908447266\"],[\"2026-03-06 00:00:00\",\"4.132999897003174\"],[\"2026-03-09 00:00:00\",\"4.136000156402588\"],[\"2026-03-10 00:00:00\",\"4.136000156402588\"],[\"2026-03-11 00:00:00\",\"4.208000183105469\"],[\"2026-03-12 00:00:00\",\"4.2729997634887695\"],[\"2026-03-13 00:00:00\",\"4.284999847412109\"],[\"2026-03-16 00:00:00\",\"4.21999979019165\"],[\"2026-03-17 00:00:00\",\"4.202000141143799\"],[\"2026-03-18 00:00:00\",\"4.258999824523926\"],[\"2026-03-19 00:00:00\",\"4.281000137329102\"],[\"2026-03-20 00:00:00\",\"4.390999794006348\"],[\"2026-03-23 00:00:00\",\"4.334000110626221\"],[\"2026-03-24 00:00:00\",\"4.392000198364258\"],[\"2026-03-25 00:00:00\",\"4.328000068664551\"],[\"2026-03-26 00:00:00\",\"4.415999889373779\"],[\"2026-03-27 00:00:00\",\"4.440000057220459\"],[\"2026-03-30 00:00:00\",\"4.3420000076293945\"],[\"2026-03-31 00:00:00\",\"4.310999870300293\"],[\"2026-04-01 00:00:00\",\"4.318999767303467\"],[\"2026-04-02 00:00:00\",\"4.313000202178955\"],[\"2026-04-06 00:00:00\",\"4.335000038146973\"],[\"2026-04-07 00:00:00\",\"4.3429999351501465\"],[\"2026-04-08 00:00:00\",\"4.290999889373779\"],[\"2026-04-09 00:00:00\",\"4.293000221252441\"],[\"2026-04-10 00:00:00\",\"4.316999912261963\"],[\"2026-04-13 00:00:00\",\"4.296999931335449\"],[\"2026-04-14 00:00:00\",\"4.25600004196167\"],[\"2026-04-15 00:00:00\",\"4.2820000648498535\"],[\"2026-04-16 00:00:00\",\"4.309000015258789\"],[\"2026-04-17 00:00:00\",\"4.245999813079834\"],[\"2026-04-20 00:00:00\",\"4.25\"],[\"2026-04-21 00:00:00\",\"4.291999816894531\"],[\"2026-04-22 00:00:00\",\"4.294000148773193\"],[\"2026-04-23 00:00:00\",\"4.322999954223633\"],[\"2026-04-24 00:00:00\",\"4.309999942779541\"],[\"2026-04-27 00:00:00\",\"4.335999965667725\"],[\"2026-04-28 00:00:00\",\"4.354000091552734\"],[\"2026-04-29 00:00:00\",\"4.418000221252441\"],[\"2026-04-30 00:00:00\",\"4.389999866485596\"],[\"2026-05-01 00:00:00\",\"4.377999782562256\"],[\"2026-05-04 00:00:00\",\"4.446000099182129\"],[\"2026-05-05 00:00:00\",\"4.415999889373779\"],[\"2026-05-06 00:00:00\",\"4.355999946594238\"],[\"2026-05-07 00:00:00\",\"4.392000198364258\"],[\"2026-05-08 00:00:00\",\"4.363999843597412\"],[\"2026-05-11 00:00:00\",\"4.409999847412109\"],[\"2026-05-12 00:00:00\",\"4.4629998207092285\"],[\"2026-05-13 00:00:00\",\"4.480999946594238\"],[\"2026-05-14 00:00:00\",\"4.460999965667725\"],[\"2026-05-15 00:00:00\",\"4.59499979019165\"],[\"2026-05-18 00:00:00\",\"4.623000144958496\"],[\"2026-05-19 00:00:00\",\"4.666999816894531\"],[\"2026-05-20 00:00:00\",\"4.572000026702881\"],[\"2026-05-21 00:00:00\",\"4.585999965667725\"],[\"2026-05-22 00:00:00\",\"4.558000087738037\"],[\"2026-05-26 00:00:00\",\"4.493000030517578\"],[\"2026-05-27 00:00:00\",\"4.480999946594238\"],[\"2026-05-28 00:00:00\",\"4.454999923706055\"],[\"2026-05-29 00:00:00\",\"4.453000068664551\"],[\"2026-06-01 00:00:00\",\"4.474999904632568\"],[\"2026-06-02 00:00:00\",\"4.454999923706055\"],[\"2026-06-03 00:00:00\",\"4.491000175476074\"],[\"2026-06-04 00:00:00\",\"4.4770002365112305\"],[\"2026-06-05 00:00:00\",\"4.535999774932861\"],[\"2026-06-08 00:00:00\",\"4.552000045776367\"],[\"2026-06-09 00:00:00\",\"4.5279998779296875\"],[\"2026-06-10 00:00:00\",\"4.541999816894531\"],[\"2026-06-11 00:00:00\",\"4.4629998207092285\"],[\"2026-06-12 00:00:00\",\"4.486999988555908\"],[\"2026-06-15 00:00:00\",\"4.468999862670898\"],[\"2026-06-16 00:00:00\",\"4.427999973297119\"],[\"2026-06-17 00:00:00\",\"4.4629998207092285\"],[\"2026-06-18 00:00:00\",\"4.451000213623047\"],[\"2026-06-22 00:00:00\",\"4.508999824523926\"],[\"2026-06-23 00:00:00\",\"4.493000030517578\"],[\"2026-06-24 00:00:00\",\"4.4019999504089355\"],[\"2026-06-25 00:00:00\",\"4.392000198364258\"],[\"2026-06-26 00:00:00\",\"4.372000217437744\"],[\"2026-06-29 00:00:00\",\"4.374000072479248\"],[\"2026-06-30 00:00:00\",\"4.418000221252441\"],[\"2026-07-01 00:00:00\",\"4.474999904632568\"],[\"2026-07-02 00:00:00\",\"4.485000133514404\"],[\"2026-07-06 00:00:00\",\"4.479000091552734\"],[\"2026-07-07 00:00:00\",\"4.5289998054504395\"],[\"2026-07-08 00:00:00\",\"4.568999767303467\"],[\"2026-07-09 00:00:00\",\"4.539000034332275\"],[\"2026-07-10 00:00:00\",\"4.568999767303467\"],[\"2026-07-13 00:00:00\",\"4.609000205993652\"],[\"2026-07-14 00:00:00\",\"4.585000038146973\"],[\"2026-07-15 00:00:00\",\"4.545000076293945\"],[\"2026-07-16 00:00:00\",\"4.568999767303467\"],[\"2026-07-17 00:00:00\",\"4.540999889373779\"],[\"2026-07-20 00:00:00\",\"4.5980000495910645\"],[\"2026-07-21 00:00:00\",\"4.627999782562256\"],[\"2026-07-22 00:00:00\",\"4.6570000648498535\"],[\"2026-07-23 00:00:00\",\"4.703000068664551\"],[\"2026-07-24 00:00:00\",\"4.678999900817871\"],[\"2026-07-27 00:00:00\",\"4.640999794006348\"],[\"2026-07-28 00:00:00\",\"4.604000091552734\"],[\"2026-07-29 00:00:00\",\"4.622000217437744\"],[\"2026-07-30 00:00:00\",\"4.663000106811523\"],[\"2026-07-31 00:00:00\",\"4.744999885559082\"],[\"2026-08-03 00:00:00\",\"4.685999870300293\"],[\"2026-08-04 00:00:00\",\"4.626999855041504\"],[\"2026-08-05 00:00:00\",\"4.617000102996826\"],[\"2026-08-06 00:00:00\",\"4.670000076293945\"],[\"2026-08-07 00:00:00\",\"4.659999847412109\"],[\"2026-08-10 00:00:00\",\"4.698999881744385\"],[\"2026-08-11 00:00:00\",\"4.684000015258789\"],[\"2026-08-12 00:00:00\",\"4.682000160217285\"],[\"2026-08-13 00:00:00\",\"4.640999794006348\"],[\"2026-08-14 00:00:00\",\"4.696000099182129\"],[\"2026-08-17 00:00:00\",\"4.723999977111816\"],[\"2026-08-18 00:00:00\",\"4.705999851226807\"],[\"2026-08-19 00:00:00\",\"4.6529998779296875\"],[\"2026-08-20 00:00:00\",\"4.696000099182129\"],[\"2026-08-21 00:00:00\",\"4.73799991607666\"],[\"2026-08-24 00:00:00\",\"4.703999996185303\"],[\"2026-08-25 00:00:00\",\"4.638999938964844\"],[\"2026-08-26 00:00:00\",\"4.664000034332275\"],[\"2026-08-27 00:00:00\",\"4.671999931335449\"],[\"2026-08-31 00:00:00\",\"4.757999897003174\"],[\"2026-09-01 00:00:00\",\"4.796000003814697\"],[\"2026-09-02 00:00:00\",\"4.796000003814697\"]],\"sources\":[{\"text\":\"Yahoo Finance\",\"link\":{\"url\":\"https://finance.yahoo.com/quote/%5ETNX/history/\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false,\"minValue\":4.4},\"largeNumbers\":{\"divideBy\":0}},\"notes\":\"The current price for the current day is displayed (intraday).<br> As of September 3, 2026, 12:37 PM.\",\"updatedDate\":\"2026-09-03T10:39:37.240Z\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"date\",\"dateFormatGroup\":\"year_first\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]}};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_e0dee9722d20b8c0e6f2d50690327eb2_q1447ed36c4bd46948cd57a8f5e8af8a2\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvml2n0",
+   "content": {
+    "text": "Most striking is the price decline in the government bond market, especially for U.S. bonds. Mirroring the falling prices, yields are climbing. American government bonds with a 30-year maturity yield just under 5.3%. This is the highest value in almost 20 years. 10-year bonds are trading at a three-year high."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvml2p0",
+   "content": {
+    "text": "Behind the sell-off are concerns about the increasing debt burden of the world's largest economy. Due to doubts about the sustainability of liabilities, investors are demanding higher risk premiums, especially for longer maturities."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvml2q0",
+   "content": {
+    "text": "These concerns were reinforced rather than mitigated by the U.S. Treasury's announcement to buy back its own government bonds on the market. While this would increase demand for the bonds and thus their prices, it would only combat the symptom – not the cause of doubts about America's fiscal policy."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gvqkrf0",
+   "content": {
+    "title": "2. Rest of the world caught in the maelstrom",
+    "id": "subtitle-2-der-rest-der-welt-ger-t-in-den-strudel"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvqkri0",
+   "content": {
+    "text": "Investors could dismiss the unrest as an American problem, had it not already spread to other countries. In Japan, 10-year government bonds are yielding more than 3% for the first time since 1996. 30-year bonds are yielding more than ever before."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvqkrk0",
+   "content": {
+    "text": "This also has repercussions for the U.S. bond market, where Japanese investors are traditionally heavily involved. Foreign investment becomes less attractive for them when yields also rise at home. Furthermore, the weak yen makes the purchase of American government bonds more expensive for them, which additionally burdens demand for these bonds and thus their prices."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvqkrl0",
+   "content": {
+    "text": "Government bond prices are also falling in Europe. The phenomenon is pronounced in France, but German 10- and 30-year bonds also yielded at their highest levels in 15 years. Many Eurozone countries themselves have to shoulder large mountains of debt. Added to this is the international signaling effect of the much-watched Treasuries: Bank of America expects that American risk premiums are an important driver for the sell-off in Europe and will remain so in the short term."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1h0orkh0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "ed619eaea881ca10a8e5108fa0a1bbc2",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_ed619eaea881ca10a8e5108fa0a1bbc2_qe413b9ebd3b44d5c9e609b8f7f582a19_container\"        data-q-item-id=\"ed619eaea881ca10a8e5108fa0a1bbc2\"        data-q-request-id=\"a9daf17a5e489713ae97d8e06dc6e698d721b47c\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"ed619eaea881ca10a8e5108fa0a1bbc2\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"ed619eaea881ca10a8e5108fa0a1bbc2\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"a9daf17a5e489713ae97d8e06dc6e698d721b47c\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_ed619eaea881ca10a8e5108fa0a1bbc2_qe413b9ebd3b44d5c9e609b8f7f582a19_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"ed619eaea881ca10a8e5108fa0a1bbc2\",\"allowDownloadData\":false,\"title\":\"Investors want risk premiums for government bonds\",\"subtitle\":\"Yields on 30-year government bonds, in percent\",\"publication\":\"nzz\",\"acronym\":\"bet.\",\"data\":[[\"Date\",\"USA\",\"Germany\",\"France\",\"Japan\"],[\"9/7/2025\",\"4.68\",\"3.29\",\"4.33\",\"3.21\"],[\"9/14/2025\",\"4.75\",\"3.33\",\"4.4\",\"3.14\"],[\"9/21/2025\",\"4.77\",\"3.32\",\"4.4\",\"3.16\"],[\"9/28/2025\",\"4.71\",\"3.27\",\"4.33\",\"3.15\"],[\"10/5/2025\",\"4.63\",\"3.22\",\"4.3\",\"3.19\"],[\"10/12/2025\",\"4.6\",\"3.17\",\"4.22\",\"3.12\"],[\"10/19/2025\",\"4.59\",\"3.21\",\"4.29\",\"3.05\"],[\"10/26/2025\",\"4.67\",\"3.22\",\"4.28\",\"3.04\"],[\"11/2/2025\",\"4.7\",\"3.27\",\"4.33\",\"3.1\"],[\"11/9/2025\",\"4.74\",\"3.32\",\"4.32\",\"3.21\"],[\"11/16/2025\",\"4.71\",\"3.34\",\"4.38\",\"3.32\"],[\"11/23/2025\",\"4.67\",\"3.32\",\"4.3\",\"3.34\"],[\"11/30/2025\",\"4.79\",\"3.43\",\"4.42\",\"3.36\"],[\"12/7/2025\",\"4.85\",\"3.49\",\"4.46\",\"3.35\"],[\"12/14/2025\",\"4.82\",\"3.54\",\"4.51\",\"3.41\"],[\"12/21/2025\",\"4.81\",\"3.48\",\"4.46\",\"3.38\"],[\"12/28/2025\",\"4.86\",\"3.54\",\"4.52\",\"3.4\"],[\"1/4/2026\",\"4.82\",\"3.47\",\"4.45\",\"3.4\"],[\"1/11/2026\",\"4.83\",\"3.43\",\"4.41\",\"3.48\"],[\"1/18/2026\",\"4.82\",\"3.51\",\"4.41\",\"3.64\"],[\"1/25/2026\",\"4.87\",\"3.5\",\"4.37\",\"3.63\"],[\"2/1/2026\",\"4.85\",\"3.51\",\"4.42\",\"3.55\"],[\"2/8/2026\",\"4.69\",\"3.43\",\"4.31\",\"3.43\"],[\"2/15/2026\",\"4.72\",\"3.4\",\"4.26\",\"3.31\"],[\"2/22/2026\",\"4.64\",\"3.33\",\"4.18\",\"3.33\"],[\"3/1/2026\",\"4.77\",\"3.41\",\"4.35\",\"3.39\"],[\"3/8/2026\",\"4.9\",\"3.53\",\"4.49\",\"3.5\"],[\"3/15/2026\",\"4.96\",\"3.53\",\"4.5\",\"3.52\"],[\"3/22/2026\",\"4.98\",\"3.55\",\"4.57\",\"3.7\"],[\"3/29/2026\",\"4.91\",\"3.47\",\"4.44\",\"3.67\"],[\"4/5/2026\",\"4.91\",\"3.58\",\"4.51\",\"3.63\"],[\"4/12/2026\",\"4.88\",\"3.55\",\"4.46\",\"3.6\"],[\"4/19/2026\",\"4.91\",\"3.53\",\"4.46\",\"3.66\"],[\"4/26/2026\",\"4.97\",\"3.54\",\"4.47\",\"3.71\"],[\"5/3/2026\",\"4.95\",\"3.54\",\"4.45\",\"3.71\"],[\"5/10/2026\",\"5.12\",\"3.67\",\"4.63\",\"4\"],[\"5/17/2026\",\"5.07\",\"3.57\",\"4.52\",\"4.01\"],[\"5/24/2026\",\"4.99\",\"3.49\",\"4.43\",\"3.91\"],[\"5/31/2026\",\"5.01\",\"3.57\",\"4.54\",\"3.89\"],[\"6/7/2026\",\"4.97\",\"3.55\",\"4.53\",\"3.79\"],[\"6/14/2026\",\"4.9\",\"3.53\",\"4.52\",\"3.83\"],[\"6/21/2026\",\"4.87\",\"3.41\",\"4.42\",\"3.8\"],[\"6/28/2026\",\"4.98\",\"3.51\",\"4.55\",\"4.03\"],[\"7/5/2026\",\"5.06\",\"3.61\",\"4.63\",\"3.92\"],[\"7/12/2026\",\"5.06\",\"3.62\",\"4.7\",\"3.87\"],[\"7/19/2026\",\"5.16\",\"3.65\",\"4.71\",\"3.98\"],[\"7/26/2026\",\"5.27\",\"3.7\",\"4.76\",\"3.98\"],[\"8/2/2026\",\"5.19\",\"3.64\",\"4.71\",\"3.91\"],[\"8/9/2026\",\"5.25\",\"3.71\",\"4.82\",\"4.01\"],[\"8/16/2026\",\"5.27\",\"3.76\",\"4.91\",\"4.06\"],[\"8/23/2026\",\"5.22\",\"3.78\",\"4.88\",\"4.12\"],[\"8/30/2026\",\"5.27\",\"3.81\",\"4.94\",\"4.18\"],[\"9/1/2026\",\"5.27\",\"3.814\",\"4.944\",\"4.1828\"]],\"sources\":[{\"text\":\"S&P Global Market Intelligence\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"month\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false,\"minValue\":3},\"largeNumbers\":{\"divideBy\":0}},\"datasheetParseInfo\":{\"columns\":[{\"type\":\"date\",\"dateFormatGroup\":\"month_first\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"}]},\"updatedDate\":\"2026-09-02T14:23:42.165Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_ed619eaea881ca10a8e5108fa0a1bbc2_qe413b9ebd3b44d5c9e609b8f7f582a19\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gvvbg60",
+   "content": {
+    "title": "3. Rising prices and rising interest rates",
+    "id": "subtitle-3-steigende-preise-f-hren-zu-steigenden-zinsen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvvbg90",
+   "content": {
+    "text": "Another reason for the price losses in the bond markets in the U.S., Japan, and Europe is inflation. Inflation in the Eurozone climbed to more than 3% in August. This increases the chances that the European Central Bank (ECB) will raise key interest rates next week. The main reason was higher energy costs, driven by turbulence in the crude oil and natural gas markets due to the Iran war."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1h3nt2b0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "b8410dd5ca0403bd650b88c41c810bf2",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_b8410dd5ca0403bd650b88c41c810bf2_q0b77edd44b7141dbbf006fd2568f4fea_container\"        data-q-item-id=\"b8410dd5ca0403bd650b88c41c810bf2\"        data-q-request-id=\"9e722f1aa0ce4fbd59301f67754ec9ba611cdccc\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"b8410dd5ca0403bd650b88c41c810bf2\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"b8410dd5ca0403bd650b88c41c810bf2\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"9e722f1aa0ce4fbd59301f67754ec9ba611cdccc\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_b8410dd5ca0403bd650b88c41c810bf2_q0b77edd44b7141dbbf006fd2568f4fea_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"b8410dd5ca0403bd650b88c41c810bf2\",\"allowDownloadData\":false,\"title\":\"The key interest rate in the US is still higher than in Europe\",\"subtitle\":\"Key interest rates of central banks, in percent\",\"publication\":\"nzz\",\"acronym\":\"amü.\",\"data\":[[\"Time\",\"SNB key interest rate\",\"ECB deposit rate\",\"Fed (middle of the band)\"],[\"2015-08\",\"-0.75\",\"-0.20\",\"0.125\"],[\"2015-09\",\"-0.75\",\"-0.20\",\"0.125\"],[\"2015-10\",\"-0.75\",\"-0.20\",\"0.125\"],[\"2015-11\",\"-0.75\",\"-0.20\",\"0.125\"],[\"2015-12\",\"-0.75\",\"-0.30\",\"0.375\"],[\"2016-01\",\"-0.75\",\"-0.30\",\"0.375\"],[\"2016-02\",\"-0.75\",\"-0.30\",\"0.375\"],[\"2016-03\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-04\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-05\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-06\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-07\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-08\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-09\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-10\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-11\",\"-0.75\",\"-0.40\",\"0.375\"],[\"2016-12\",\"-0.75\",\"-0.40\",\"0.625\"],[\"2017-01\",\"-0.75\",\"-0.40\",\"0.625\"],[\"2017-02\",\"-0.75\",\"-0.40\",\"0.625\"],[\"2017-03\",\"-0.75\",\"-0.40\",\"0.875\"],[\"2017-04\",\"-0.75\",\"-0.40\",\"0.875\"],[\"2017-05\",\"-0.75\",\"-0.40\",\"0.875\"],[\"2017-06\",\"-0.75\",\"-0.40\",\"1.125\"],[\"2017-07\",\"-0.75\",\"-0.40\",\"1.125\"],[\"2017-08\",\"-0.75\",\"-0.40\",\"1.125\"],[\"2017-09\",\"-0.75\",\"-0.40\",\"1.125\"],[\"2017-10\",\"-0.75\",\"-0.40\",\"1.125\"],[\"2017-11\",\"-0.75\",\"-0.40\",\"1.125\"],[\"2017-12\",\"-0.75\",\"-0.40\",\"1.375\"],[\"2018-01\",\"-0.75\",\"-0.40\",\"1.375\"],[\"2018-02\",\"-0.75\",\"-0.40\",\"1.375\"],[\"2018-03\",\"-0.75\",\"-0.40\",\"1.625\"],[\"2018-04\",\"-0.75\",\"-0.40\",\"1.625\"],[\"2018-05\",\"-0.75\",\"-0.40\",\"1.625\"],[\"2018-06\",\"-0.75\",\"-0.40\",\"1.875\"],[\"2018-07\",\"-0.75\",\"-0.40\",\"1.875\"],[\"2018-08\",\"-0.75\",\"-0.40\",\"1.875\"],[\"2018-09\",\"-0.75\",\"-0.40\",\"2.125\"],[\"2018-10\",\"-0.75\",\"-0.40\",\"2.125\"],[\"2018-11\",\"-0.75\",\"-0.40\",\"2.125\"],[\"2018-12\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-01\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-02\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-03\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-04\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-05\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-06\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-07\",\"-0.75\",\"-0.40\",\"2.375\"],[\"2019-08\",\"-0.75\",\"-0.40\",\"2.125\"],[\"2019-09\",\"-0.75\",\"-0.50\",\"1.875\"],[\"2019-10\",\"-0.75\",\"-0.50\",\"1.625\"],[\"2019-11\",\"-0.75\",\"-0.50\",\"1.625\"],[\"2019-12\",\"-0.75\",\"-0.50\",\"1.625\"],[\"2020-01\",\"-0.75\",\"-0.50\",\"1.625\"],[\"2020-02\",\"-0.75\",\"-0.50\",\"1.625\"],[\"2020-03\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-04\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-05\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-06\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-07\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-08\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-09\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-10\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-11\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2020-12\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-01\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-02\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-03\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-04\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-05\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-06\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-07\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-08\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-09\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-10\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-11\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2021-12\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2022-01\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2022-02\",\"-0.75\",\"-0.50\",\"0.125\"],[\"2022-03\",\"-0.75\",\"-0.50\",\"0.375\"],[\"2022-04\",\"-0.75\",\"-0.50\",\"0.375\"],[\"2022-05\",\"-0.75\",\"-0.50\",\"0.875\"],[\"2022-06\",\"-0.25\",\"-0.50\",\"1.625\"],[\"2022-07\",\"-0.25\",\"0.00\",\"1.625\"],[\"2022-08\",\"-0.25\",\"0.00\",\"2.375\"],[\"2022-09\",\"0.25\",\"0.75\",\"3.125\"],[\"2022-10\",\"0.5\",\"0.75\",\"3.125\"],[\"2022-11\",\"0.5\",\"1.50\",\"3.875\"],[\"2022-12\",\"1\",\"2.00\",\"4.375\"],[\"2023-01\",\"1\",\"2.00\",\"4.625\"],[\"2023-02\",\"1\",\"2.50\",\"4.625\"],[\"2023-03\",\"1.5\",\"3.00\",\"4.875\"],[\"2023-04\",\"1.5\",\"3.00\",\"4.875\"],[\"2023-05\",\"1.5\",\"3.25\",\"5.125\"],[\"2023-06\",\"1.75\",\"3.50\",\"5.125\"],[\"2023-07\",\"1.75\",\"3.75\",\"5.125\"],[\"2023-08\",\"1.75\",\"3.75\",\"5.375\"],[\"2023-09\",\"1.75\",\"4.00\",\"5.375\"],[\"2023-10\",\"1.75\",\"4.00\",\"5.375\"],[\"2023-11\",\"1.75\",\"4.00\",\"5.375\"],[\"2023-12\",\"1.75\",\"4.00\",\"5.375\"],[\"2024-01\",\"1.75\",\"4.00\",\"5.375\"],[\"2024-02\",\"1.75\",\"4.00\",\"5.375\"],[\"2024-03\",\"1.5\",\"4.00\",\"5.375\"],[\"2024-04\",\"1.5\",\"4.00\",\"5.375\"],[\"2024-05\",\"1.5\",\"4.00\",\"5.375\"],[\"2024-06\",\"1.25\",\"3.75\",\"5.375\"],[\"2024-07\",\"1.25\",\"3.75\",\"5.375\"],[\"2024-08\",\"1.25\",\"3.75\",\"5.375\"],[\"2024-09\",\"1.00\",\"3.50\",\"4.875\"],[\"2024-10\",\"1.00\",\"3.25\",\"4.875\"],[\"2024-11\",\"1.00\",\"3.25\",\"4.625\"],[\"2024-12\",\"0.50\",\"3.00\",\"4.375\"],[\"2025-01\",\"0.5\",\"2.75\",\"4.375\"],[\"2025-02\",\"0.5\",\"2.75\",\"4.375\"],[\"2025-03\",\"0.25\",\"2.50\",\"4.375\"],[\"2025-04\",\"0.25\",\"2.25\",\"4.375\"],[\"2025-05\",\"0.25\",\"2.25\",\"4.375\"],[\"2025-06\",\"0.0\",\"2.00\",\"4.375\"],[\"2025-07\",\"0.0\",\"2.00\",\"4.375\"],[\"2025-08\",\"0.0\",\"2.00\",\"4.375\"],[\"2025-09\",\"0.0\",\"2.00\",\"4.125\"],[\"2025-10\",\"0.0\",\"2.00\",\"3.875\"],[\"2025-11\",\"0.0\",\"2.00\",\"3.875\"],[\"2025-12\",\"0.0\",\"2.00\",\"3.625\"],[\"2026-01\",\"0.0\",\"2.00\",\"3.625\"],[\"2026-02\",\"0.0\",\"2.00\",\"3.625\"],[\"2026-03\",\"0.0\",\"2.00\",\"3.625\"],[\"2026-04\",\"0.0\",\"2.00\",\"3.625\"],[\"2026-05\",\"0.0\",\"2.00\",\"3.625\"],[\"2026-06\",\"0.0\",\"2.25\",\"3.625\"],[\"2026-07\",\"0.0\",\"2.25\",\"3.625\"]],\"sources\":[{\"text\":\"Central banks\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"updatedDate\":\"2026-07-29T14:45:37.154Z\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"date\",\"dateFormatGroup\":\"year_first\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"}]}};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_b8410dd5ca0403bd650b88c41c810bf2_q0b77edd44b7141dbbf006fd2568f4fea\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gvvbga0",
+   "content": {
+    "text": "The same applies to the U.S. central bank, the Fed, which will decide on interest rate levels in the middle of the month. Chairman Kevin Warsh named inflation as his biggest concern just a few days ago. Rising interest rates make existing bonds less attractive compared to new bonds, and inflation erodes coupons."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h02rv30",
+   "content": {
+    "title": "4. Iran war, expensive fuel",
+    "id": "subtitle-4-der-iran-krieg-flammt-auf-sprit-bleibt-teuer"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h02rv41",
+   "content": {
+    "text": "On Wednesday night, the U.S. military carried out new strikes against targets in Iran, while Iran shelled U.S. targets in Jordan and Iraq. The fighting escalated on Sunday, after a month of relative calm. The Tehran regime announced that it had prepared «unforgettable lessons» for America."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h02rv60",
+   "content": {
+    "text": "Subsequently, the price of oil has risen and now stands at around $94 a barrel for benchmark Brent crude. In early July, when peace between the U.S. and Iran seemed within reach, it traded at $70. Crude oil exports from the Gulf region remain restricted because no stable and secure regulation for the passage of tankers through the Strait of Hormuz has yet been found."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1h3a9er0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "c6aec0c9dea84bcdef43b980cd4a7e3f",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_c6aec0c9dea84bcdef43b980cd4a7e3f_q8faabee108df4edc824baa76b378ee50_container\"        data-q-item-id=\"c6aec0c9dea84bcdef43b980cd4a7e3f\"        data-q-request-id=\"89827a7e77b3a0e35bba6bc635f5a8b76ef4afe2\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"c6aec0c9dea84bcdef43b980cd4a7e3f\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"c6aec0c9dea84bcdef43b980cd4a7e3f\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"89827a7e77b3a0e35bba6bc635f5a8b76ef4afe2\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_c6aec0c9dea84bcdef43b980cd4a7e3f_q8faabee108df4edc824baa76b378ee50_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"c6aec0c9dea84bcdef43b980cd4a7e3f\",\"publication\":\"nzz\",\"acronym\":\"fsl.\",\"title\":\"Oil prices fluctuate wildly\",\"data\":[[\"Date\",\"Oil price\"],[\"2025-09-03 00:00:00\",\"67.5999984741211\"],[\"2025-09-04 00:00:00\",\"66.98999786376953\"],[\"2025-09-05 00:00:00\",\"65.5\"],[\"2025-09-08 00:00:00\",\"66.0199966430664\"],[\"2025-09-09 00:00:00\",\"66.38999938964844\"],[\"2025-09-10 00:00:00\",\"67.48999786376953\"],[\"2025-09-11 00:00:00\",\"66.37000274658203\"],[\"2025-09-12 00:00:00\",\"66.98999786376953\"],[\"2025-09-15 00:00:00\",\"67.44000244140625\"],[\"2025-09-16 00:00:00\",\"68.47000122070312\"],[\"2025-09-17 00:00:00\",\"67.94999694824219\"],[\"2025-09-18 00:00:00\",\"67.44000244140625\"],[\"2025-09-19 00:00:00\",\"66.68000030517578\"],[\"2025-09-22 00:00:00\",\"66.56999969482422\"],[\"2025-09-23 00:00:00\",\"67.62999725341797\"],[\"2025-09-24 00:00:00\",\"69.30999755859375\"],[\"2025-09-25 00:00:00\",\"69.41999816894531\"],[\"2025-09-26 00:00:00\",\"70.12999725341797\"],[\"2025-09-29 00:00:00\",\"67.97000122070312\"],[\"2025-09-30 00:00:00\",\"67.0199966430664\"],[\"2025-10-01 00:00:00\",\"65.3499984741211\"],[\"2025-10-02 00:00:00\",\"64.11000061035156\"],[\"2025-10-03 00:00:00\",\"64.52999877929688\"],[\"2025-10-06 00:00:00\",\"65.47000122070312\"],[\"2025-10-07 00:00:00\",\"65.44999694824219\"],[\"2025-10-08 00:00:00\",\"66.25\"],[\"2025-10-09 00:00:00\",\"65.22000122070312\"],[\"2025-10-10 00:00:00\",\"62.72999954223633\"],[\"2025-10-13 00:00:00\",\"63.31999969482422\"],[\"2025-10-14 00:00:00\",\"62.38999938964844\"],[\"2025-10-15 00:00:00\",\"61.90999984741211\"],[\"2025-10-16 00:00:00\",\"61.060001373291016\"],[\"2025-10-17 00:00:00\",\"61.290000915527344\"],[\"2025-10-20 00:00:00\",\"61.0099983215332\"],[\"2025-10-21 00:00:00\",\"61.31999969482422\"],[\"2025-10-22 00:00:00\",\"62.59000015258789\"],[\"2025-10-23 00:00:00\",\"65.98999786376953\"],[\"2025-10-24 00:00:00\",\"65.94000244140625\"],[\"2025-10-27 00:00:00\",\"65.62000274658203\"],[\"2025-10-28 00:00:00\",\"64.4000015258789\"],[\"2025-10-29 00:00:00\",\"64.91999816894531\"],[\"2025-10-30 00:00:00\",\"65.0\"],[\"2025-10-31 00:00:00\",\"65.06999969482422\"],[\"2025-11-03 00:00:00\",\"64.88999938964844\"],[\"2025-11-04 00:00:00\",\"64.44000244140625\"],[\"2025-11-05 00:00:00\",\"63.52000045776367\"],[\"2025-11-06 00:00:00\",\"63.380001068115234\"],[\"2025-11-07 00:00:00\",\"63.630001068115234\"],[\"2025-11-10 00:00:00\",\"64.05999755859375\"],[\"2025-11-11 00:00:00\",\"65.16000366210938\"],[\"2025-11-12 00:00:00\",\"62.709999084472656\"],[\"2025-11-13 00:00:00\",\"63.0099983215332\"],[\"2025-11-14 00:00:00\",\"64.38999938964844\"],[\"2025-11-17 00:00:00\",\"64.19999694824219\"],[\"2025-11-18 00:00:00\",\"64.88999938964844\"],[\"2025-11-19 00:00:00\",\"63.5099983215332\"],[\"2025-11-20 00:00:00\",\"63.380001068115234\"],[\"2025-11-21 00:00:00\",\"62.560001373291016\"],[\"2025-11-24 00:00:00\",\"63.369998931884766\"],[\"2025-11-25 00:00:00\",\"62.47999954223633\"],[\"2025-11-26 00:00:00\",\"63.130001068115234\"],[\"2025-11-28 00:00:00\",\"63.20000076293945\"],[\"2025-12-01 00:00:00\",\"63.16999816894531\"],[\"2025-12-02 00:00:00\",\"62.45000076293945\"],[\"2025-12-03 00:00:00\",\"62.66999816894531\"],[\"2025-12-04 00:00:00\",\"63.2599983215332\"],[\"2025-12-05 00:00:00\",\"63.75\"],[\"2025-12-08 00:00:00\",\"62.4900016784668\"],[\"2025-12-09 00:00:00\",\"61.939998626708984\"],[\"2025-12-10 00:00:00\",\"62.209999084472656\"],[\"2025-12-11 00:00:00\",\"61.279998779296875\"],[\"2025-12-12 00:00:00\",\"61.119998931884766\"],[\"2025-12-15 00:00:00\",\"60.560001373291016\"],[\"2025-12-16 00:00:00\",\"58.91999816894531\"],[\"2025-12-17 00:00:00\",\"59.68000030517578\"],[\"2025-12-18 00:00:00\",\"59.81999969482422\"],[\"2025-12-19 00:00:00\",\"60.470001220703125\"],[\"2025-12-22 00:00:00\",\"62.06999969482422\"],[\"2025-12-23 00:00:00\",\"62.380001068115234\"],[\"2025-12-24 00:00:00\",\"62.2400016784668\"],[\"2025-12-26 00:00:00\",\"60.63999938964844\"],[\"2025-12-29 00:00:00\",\"61.939998626708984\"],[\"2025-12-30 00:00:00\",\"61.91999816894531\"],[\"2025-12-31 00:00:00\",\"60.849998474121094\"],[\"2026-01-02 00:00:00\",\"60.75\"],[\"2026-01-05 00:00:00\",\"61.7599983215332\"],[\"2026-01-06 00:00:00\",\"60.70000076293945\"],[\"2026-01-07 00:00:00\",\"59.959999084472656\"],[\"2026-01-08 00:00:00\",\"61.9900016784668\"],[\"2026-01-09 00:00:00\",\"63.34000015258789\"],[\"2026-01-12 00:00:00\",\"63.869998931884766\"],[\"2026-01-13 00:00:00\",\"65.47000122070312\"],[\"2026-01-14 00:00:00\",\"66.5199966430664\"],[\"2026-01-15 00:00:00\",\"63.7599983215332\"],[\"2026-01-16 00:00:00\",\"64.12999725341797\"],[\"2026-01-20 00:00:00\",\"64.91999816894531\"],[\"2026-01-21 00:00:00\",\"65.23999786376953\"],[\"2026-01-22 00:00:00\",\"64.05999755859375\"],[\"2026-01-23 00:00:00\",\"65.87999725341797\"],[\"2026-01-26 00:00:00\",\"65.58999633789062\"],[\"2026-01-27 00:00:00\",\"67.56999969482422\"],[\"2026-01-28 00:00:00\",\"68.4000015258789\"],[\"2026-01-29 00:00:00\",\"70.70999908447266\"],[\"2026-01-30 00:00:00\",\"70.69000244140625\"],[\"2026-02-02 00:00:00\",\"66.30000305175781\"],[\"2026-02-03 00:00:00\",\"67.33000183105469\"],[\"2026-02-04 00:00:00\",\"69.45999908447266\"],[\"2026-02-05 00:00:00\",\"67.55000305175781\"],[\"2026-02-06 00:00:00\",\"68.05000305175781\"],[\"2026-02-09 00:00:00\",\"69.04000091552734\"],[\"2026-02-10 00:00:00\",\"68.80000305175781\"],[\"2026-02-11 00:00:00\",\"69.4000015258789\"],[\"2026-02-12 00:00:00\",\"67.5199966430664\"],[\"2026-02-13 00:00:00\",\"67.75\"],[\"2026-02-17 00:00:00\",\"67.41999816894531\"],[\"2026-02-18 00:00:00\",\"70.3499984741211\"],[\"2026-02-19 00:00:00\",\"71.66000366210938\"],[\"2026-02-20 00:00:00\",\"71.76000213623047\"],[\"2026-02-23 00:00:00\",\"71.48999786376953\"],[\"2026-02-24 00:00:00\",\"70.7699966430664\"],[\"2026-02-25 00:00:00\",\"70.8499984741211\"],[\"2026-02-26 00:00:00\",\"70.75\"],[\"2026-02-27 00:00:00\",\"72.4800033569336\"],[\"2026-03-02 00:00:00\",\"77.73999786376953\"],[\"2026-03-03 00:00:00\",\"81.4000015258789\"],[\"2026-03-04 00:00:00\",\"81.4000015258789\"],[\"2026-03-05 00:00:00\",\"85.41000366210938\"],[\"2026-03-06 00:00:00\",\"92.69000244140625\"],[\"2026-03-09 00:00:00\",\"98.95999908447266\"],[\"2026-03-10 00:00:00\",\"87.80000305175781\"],[\"2026-03-11 00:00:00\",\"91.9800033569336\"],[\"2026-03-12 00:00:00\",\"100.45999908447266\"],[\"2026-03-13 00:00:00\",\"103.13999938964844\"],[\"2026-03-16 00:00:00\",\"100.20999908447266\"],[\"2026-03-17 00:00:00\",\"103.41999816894531\"],[\"2026-03-18 00:00:00\",\"107.37999725341797\"],[\"2026-03-19 00:00:00\",\"108.6500015258789\"],[\"2026-03-20 00:00:00\",\"112.19000244140625\"],[\"2026-03-23 00:00:00\",\"99.94000244140625\"],[\"2026-03-24 00:00:00\",\"104.48999786376953\"],[\"2026-03-25 00:00:00\",\"102.22000122070312\"],[\"2026-03-26 00:00:00\",\"108.01000213623047\"],[\"2026-03-27 00:00:00\",\"112.56999969482422\"],[\"2026-03-30 00:00:00\",\"112.77999877929688\"],[\"2026-03-31 00:00:00\",\"118.3499984741211\"],[\"2026-04-01 00:00:00\",\"101.16000366210938\"],[\"2026-04-02 00:00:00\",\"109.02999877929688\"],[\"2026-04-06 00:00:00\",\"109.7699966430664\"],[\"2026-04-07 00:00:00\",\"109.2699966430664\"],[\"2026-04-08 00:00:00\",\"94.75\"],[\"2026-04-09 00:00:00\",\"95.91999816894531\"],[\"2026-04-10 00:00:00\",\"95.19999694824219\"],[\"2026-04-13 00:00:00\",\"99.36000061035156\"],[\"2026-04-14 00:00:00\",\"94.79000091552734\"],[\"2026-04-15 00:00:00\",\"94.93000030517578\"],[\"2026-04-16 00:00:00\",\"99.38999938964844\"],[\"2026-04-17 00:00:00\",\"90.37999725341797\"],[\"2026-04-20 00:00:00\",\"95.4800033569336\"],[\"2026-04-21 00:00:00\",\"98.4800033569336\"],[\"2026-04-22 00:00:00\",\"101.91000366210938\"],[\"2026-04-23 00:00:00\",\"105.06999969482422\"],[\"2026-04-24 00:00:00\",\"105.33000183105469\"],[\"2026-04-27 00:00:00\",\"108.2300033569336\"],[\"2026-04-28 00:00:00\",\"111.26000213623047\"],[\"2026-04-29 00:00:00\",\"118.02999877929688\"],[\"2026-04-30 00:00:00\",\"114.01000213623047\"],[\"2026-05-01 00:00:00\",\"108.16999816894531\"],[\"2026-05-04 00:00:00\",\"114.44000244140625\"],[\"2026-05-05 00:00:00\",\"109.87000274658203\"],[\"2026-05-06 00:00:00\",\"101.2699966430664\"],[\"2026-05-07 00:00:00\",\"100.05999755859375\"],[\"2026-05-08 00:00:00\",\"101.29000091552734\"],[\"2026-05-11 00:00:00\",\"104.20999908447266\"],[\"2026-05-12 00:00:00\",\"107.7699966430664\"],[\"2026-05-13 00:00:00\",\"105.62999725341797\"],[\"2026-05-14 00:00:00\",\"105.72000122070312\"],[\"2026-05-15 00:00:00\",\"109.26000213623047\"],[\"2026-05-18 00:00:00\",\"112.0999984741211\"],[\"2026-05-19 00:00:00\",\"111.27999877929688\"],[\"2026-05-20 00:00:00\",\"105.0199966430664\"],[\"2026-05-21 00:00:00\",\"102.58000183105469\"],[\"2026-05-22 00:00:00\",\"103.54000091552734\"],[\"2026-05-26 00:00:00\",\"99.58000183105469\"],[\"2026-05-27 00:00:00\",\"94.29000091552734\"],[\"2026-05-28 00:00:00\",\"93.70999908447266\"],[\"2026-05-29 00:00:00\",\"92.05000305175781\"],[\"2026-06-01 00:00:00\",\"94.9800033569336\"],[\"2026-06-02 00:00:00\",\"96.0\"],[\"2026-06-03 00:00:00\",\"97.80999755859375\"],[\"2026-06-04 00:00:00\",\"95.02999877929688\"],[\"2026-06-05 00:00:00\",\"93.08999633789062\"],[\"2026-06-08 00:00:00\",\"94.25\"],[\"2026-06-09 00:00:00\",\"91.44999694824219\"],[\"2026-06-10 00:00:00\",\"93.0999984741211\"],[\"2026-06-11 00:00:00\",\"90.37999725341797\"],[\"2026-06-12 00:00:00\",\"87.33000183105469\"],[\"2026-06-15 00:00:00\",\"83.16999816894531\"],[\"2026-06-16 00:00:00\",\"78.95999908447266\"],[\"2026-06-17 00:00:00\",\"79.55000305175781\"],[\"2026-06-18 00:00:00\",\"79.8499984741211\"],[\"2026-06-22 00:00:00\",\"77.9000015258789\"],[\"2026-06-23 00:00:00\",\"77.08000183105469\"],[\"2026-06-24 00:00:00\",\"73.73999786376953\"],[\"2026-06-25 00:00:00\",\"75.26000213623047\"],[\"2026-06-26 00:00:00\",\"71.98999786376953\"],[\"2026-06-29 00:00:00\",\"73.1500015258789\"],[\"2026-06-30 00:00:00\",\"72.91999816894531\"],[\"2026-07-01 00:00:00\",\"71.56999969482422\"],[\"2026-07-02 00:00:00\",\"71.80000305175781\"],[\"2026-07-06 00:00:00\",\"71.98999786376953\"],[\"2026-07-07 00:00:00\",\"74.16000366210938\"],[\"2026-07-08 00:00:00\",\"78.0199966430664\"],[\"2026-07-09 00:00:00\",\"76.30000305175781\"],[\"2026-07-10 00:00:00\",\"76.01000213623047\"],[\"2026-07-13 00:00:00\",\"83.30000305175781\"],[\"2026-07-14 00:00:00\",\"84.7300033569336\"],[\"2026-07-15 00:00:00\",\"84.94999694824219\"],[\"2026-07-16 00:00:00\",\"84.2300033569336\"],[\"2026-07-17 00:00:00\",\"88.0999984741211\"],[\"2026-07-20 00:00:00\",\"89.22000122070312\"],[\"2026-07-21 00:00:00\",\"91.01000213623047\"],[\"2026-07-22 00:00:00\",\"94.06999969482422\"],[\"2026-07-23 00:00:00\",\"100.69000244140625\"],[\"2026-07-24 00:00:00\",\"96.77999877929688\"],[\"2026-07-27 00:00:00\",\"88.36000061035156\"],[\"2026-07-28 00:00:00\",\"84.08999633789062\"],[\"2026-07-29 00:00:00\",\"90.73999786376953\"],[\"2026-07-30 00:00:00\",\"89.02999877929688\"],[\"2026-07-31 00:00:00\",\"90.12000274658203\"],[\"2026-08-03 00:00:00\",\"83.7699966430664\"],[\"2026-08-04 00:00:00\",\"79.36000061035156\"],[\"2026-08-05 00:00:00\",\"79.44999694824219\"],[\"2026-08-06 00:00:00\",\"82.48999786376953\"],[\"2026-08-07 00:00:00\",\"83.55000305175781\"],[\"2026-08-10 00:00:00\",\"87.72000122070312\"],[\"2026-08-11 00:00:00\",\"88.91000366210938\"],[\"2026-08-12 00:00:00\",\"88.9800033569336\"],[\"2026-08-13 00:00:00\",\"87.06999969482422\"],[\"2026-08-14 00:00:00\",\"88.5199966430664\"],[\"2026-08-17 00:00:00\",\"90.87000274658203\"],[\"2026-08-18 00:00:00\",\"91.0199966430664\"],[\"2026-08-19 00:00:00\",\"91.62000274658203\"],[\"2026-08-20 00:00:00\",\"93.77999877929688\"],[\"2026-08-21 00:00:00\",\"94.38999938964844\"],[\"2026-08-24 00:00:00\",\"92.16999816894531\"],[\"2026-08-25 00:00:00\",\"88.58000183105469\"],[\"2026-08-26 00:00:00\",\"87.83999633789062\"],[\"2026-08-27 00:00:00\",\"89.69999694824219\"],[\"2026-08-28 00:00:00\",\"89.30999755859375\"],[\"2026-08-31 00:00:00\",\"90.48999786376953\"],[\"2026-09-01 00:00:00\",\"94.6500015258789\"],[\"2026-09-02 00:00:00\",\"95.62999725341797\"],[\"2026-09-03 00:00:00\",\"97.19000244140625\"]],\"allowDownloadData\":false,\"events\":[{\"type\":\"point\",\"label\":\"February 28, 2026: Israel and the USA attack Iran.\",\"date\":\"2026-02-28\"}],\"sources\":[{\"link\":{\"url\":\"https://finance.yahoo.com/quote/BZ=F?p=BZ=F&.tsrc=fin-srch\",\"isValid\":true},\"text\":\"Yahoo Finance\"}],\"options\":{\"chartType\":\"Line\",\"hideAxisLabel\":true,\"highlightDataSeries\":[],\"highlightDataRows\":[],\"annotations\":{\"last\":false,\"min\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"dateSeriesOptions\":{\"interval\":\"month\",\"labels\":\"many\",\"prognosisStart\":null},\"lineChartOptions\":{\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false,\"yScaleType\":\"linear\",\"minValue\":60},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"dotplotOptions\":{},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"colorOverwritesSeries\":[{\"color\":\"#704600\",\"position\":1,\"colorLight\":\"#ff0000\"}],\"colorOverwritesRows\":[],\"largeNumbers\":{\"divideBy\":0}},\"subtitle\":\"Price for Brent crude, in dollars per barrel\",\"notes\":\"The current price for the current day is displayed (intraday).<br> As of September 3, 2026, 12:37 PM.\",\"thumbnail\":\"https://nzzqprod-4851.kxcdn.com/q-item-thumbnails/nzz/c6aec0c9dea84bcdef43b980cd4a7e3f-thumbnail.jpeg\",\"updatedDate\":\"2026-09-03T10:39:32.391Z\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"date\",\"dateFormatGroup\":\"year_first\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]}};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_c6aec0c9dea84bcdef43b980cd4a7e3f_q8faabee108df4edc824baa76b378ee50\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h02rv62",
+   "content": {
+    "text": "At the same time, refineries in the Persian Gulf, as well as in Russia, are not operating at full capacity. Russia was an important exporter of fuels, particularly diesel, but its production there is suffering from Ukrainian attacks. The investment bank Goldman Sachs maintains that the supply situation for refined fuels has developed worse than for crude oil. Analysts expect higher price premiums until 2027."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1h3bo4a0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "428949885bb39e2206fff5b75d6b2cfb",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-table-container\"        id=\"q_table_428949885bb39e2206fff5b75d6b2cfb_qa291c0a92beb405998ad85e809ae8c8d_container\"        data-q-item-id=\"428949885bb39e2206fff5b75d6b2cfb\"        data-q-request-id=\"f878798e73d9cd76d9296a9bf9a98ef6c9e0f401\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"428949885bb39e2206fff5b75d6b2cfb\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"table\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"428949885bb39e2206fff5b75d6b2cfb\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"table\"}},\"f878798e73d9cd76d9296a9bf9a98ef6c9e0f401\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_table_428949885bb39e2206fff5b75d6b2cfb_qa291c0a92beb405998ad85e809ae8c8d_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"428949885bb39e2206fff5b75d6b2cfb\",\"title\":\"This is how gasoline prices are developing in the USA\",\"subtitle\":\"Current price for one gallon (3.785 liters) of unleaded gasoline, in dollars, and the change from the previous week, in percent\",\"publication\":\"nzz\",\"acronym\":\"fsl.\",\"data\":{\"table\":[[\"member state\",\"Price\",\"\"],[\"USA (average)\",\"4.07\",\"-0.3\"],[\"California\",\"5.52\",\"1.3\"],[\"Colorado\",\"4.13\",\"-5.7\"],[\"Florida\",\"3.83\",\"1.0\"],[\"Massachusetts\",\"4.07\",\"1.3\"],[\"Minnesota\",\"3.96\",\"-2.8\"],[\"New York\",\"4.13\",\"1.0\"],[\"Ohio\",\"3.8\",\"-4.6\"],[\"Texas\",\"3.58\",\"-0.1\"],[\"Washington\",\"5.26\",\"0.9\"]],\"metaData\":{\"cells\":[]}},\"sources\":[{\"text\":\"US Energy Information Administration\",\"link\":{\"url\":\"https://www.eia.gov/petroleum/gasdiesel/\"}}],\"options\":{\"hideTableHeader\":false,\"showTableSearch\":false,\"cardLayout\":false,\"cardLayoutIfSmall\":false,\"hideLegend\":true,\"pageSize\":0,\"frozenRowKey\":0,\"sorting\":[{\"column\":1,\"sortingDirection\":\"asc\"}],\"formatting\":[{\"column\":1,\"formattingType\":\"0.00\"},{\"column\":2,\"formattingType\":\"arrow_sign_relative_int\"}],\"minibar\":{\"selectedColumn\":null,\"invertColors\":false,\"barColor\":{\"positive\":{\"className\":\"\",\"colorCode\":\"\"},\"negative\":{\"className\":\"\",\"colorCode\":\"\"}}},\"colorColumn\":{\"colorColumnType\":\"numerical\",\"selectedColumn\":2,\"numericalOptions\":{\"labelLegend\":\"noLabel\",\"bucketType\":\"custom\",\"numberBuckets\":5,\"scale\":\"sequential\",\"colorScheme\":\"one\",\"colorOverwrites\":[{\"color\":\"#ce4631\",\"textColor\":\"light\",\"position\":1},{\"color\":\"#374e8e\",\"textColor\":\"light\",\"position\":0}],\"customBuckets\":\"-100,0,100\"},\"categoricalOptions\":{\"colorOverwrites\":[],\"customCategoriesOrder\":[]}}},\"updatedDate\":\"2026-09-03T10:39:39.237Z\",\"notes\":\"\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_table_428949885bb39e2206fff5b75d6b2cfb_qa291c0a92beb405998ad85e809ae8c8d\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qTable) {              clearInterval(checkAndInitialize);              new window.qTable({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qTable after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h063ri0",
+   "content": {
+    "title": "5. Trade dispute spreading",
+    "id": "subtitle-5-der-handelsstreit-greift-um-sich"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h063rl0",
+   "content": {
+    "text": "As if fuel costs were not burdening the global economy enough, trade barriers also threaten to continue growing. A spotlight was cast on this by the meeting of the G-20 finance ministers, a forum of the largest economies. The gathering in the U.S. ended on Tuesday without a joint final declaration. U.S. Treasury Secretary Scott Bessent said only 19 of the 20 participants agreed on a communiqué. The communiqué criticizes countries with excessive trade surpluses that rely heavily on exports for their economic growth."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h063rn0",
+   "content": {
+    "text": "This wording was directed against China, which therefore did not agree to the declaration. Bessent called on other countries to protect themselves from Chinese goods that were seeking new buyers on world markets due to U.S. tariffs. This increases the risk that the trade war initiated by President Trump will find protectionist imitators. This could also increase import prices and thus inflation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h0ahfs0",
+   "content": {
+    "title": "<strong>6. AI investments competing with government bonds</strong>",
+    "id": "subtitle-6-ki-investitionen-machen-staatsanleihen-konkurrenz"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0ahft1",
+   "content": {
+    "text": "Price increases due to energy costs, as well as tariffs and trade barriers, also burden the outlook for companies and thus the stock markets. Many stock indices stopped their upward trend in August. Only one sector seemed immune to concerns for a long time: the U.S. tech sector, driven by billions in investments in AI and data centers."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k1h3f2ka0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "5caeb2cde3decbe8e2ab753b769a5fd7",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_5caeb2cde3decbe8e2ab753b769a5fd7_qea4eb910f88047f1968681188fdcaea0_container\"        data-q-item-id=\"5caeb2cde3decbe8e2ab753b769a5fd7\"        data-q-request-id=\"e20c3639bff994f54c89a4dc51d53af0ef84e24e\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"5caeb2cde3decbe8e2ab753b769a5fd7\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"5caeb2cde3decbe8e2ab753b769a5fd7\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"e20c3639bff994f54c89a4dc51d53af0ef84e24e\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_5caeb2cde3decbe8e2ab753b769a5fd7_qea4eb910f88047f1968681188fdcaea0_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"5caeb2cde3decbe8e2ab753b769a5fd7\",\"publication\":\"nzz\",\"acronym\":\"fsl.\",\"allowDownloadData\":false,\"title\":\"This is how the Nasdaq is developing\",\"subtitle\":\"Nasdaq-100 Index in points\",\"data\":[[\"Date\",\"^NDX\"],[\"2025-09-03 00:00:00\",\"23414.83984375\"],[\"2025-09-04 00:00:00\",\"23633.009765625\"],[\"2025-09-05 00:00:00\",\"23652.439453125\"],[\"2025-09-08 00:00:00\",\"23762.30078125\"],[\"2025-09-09 00:00:00\",\"23839.80078125\"],[\"2025-09-10 00:00:00\",\"23849.26953125\"],[\"2025-09-11 00:00:00\",\"23992.560546875\"],[\"2025-09-12 00:00:00\",\"24092.189453125\"],[\"2025-09-15 00:00:00\",\"24293.779296875\"],[\"2025-09-16 00:00:00\",\"24274.25\"],[\"2025-09-17 00:00:00\",\"24223.689453125\"],[\"2025-09-18 00:00:00\",\"24454.890625\"],[\"2025-09-19 00:00:00\",\"24626.25\"],[\"2025-09-22 00:00:00\",\"24761.0703125\"],[\"2025-09-23 00:00:00\",\"24580.169921875\"],[\"2025-09-24 00:00:00\",\"24503.5703125\"],[\"2025-09-25 00:00:00\",\"24397.310546875\"],[\"2025-09-26 00:00:00\",\"24503.849609375\"],[\"2025-09-29 00:00:00\",\"24611.349609375\"],[\"2025-09-30 00:00:00\",\"24679.990234375\"],[\"2025-10-01 00:00:00\",\"24800.859375\"],[\"2025-10-02 00:00:00\",\"24892.759765625\"],[\"2025-10-03 00:00:00\",\"24785.51953125\"],[\"2025-10-06 00:00:00\",\"24978.560546875\"],[\"2025-10-07 00:00:00\",\"24840.23046875\"],[\"2025-10-08 00:00:00\",\"25136.619140625\"],[\"2025-10-09 00:00:00\",\"25098.1796875\"],[\"2025-10-10 00:00:00\",\"24221.740234375\"],[\"2025-10-13 00:00:00\",\"24750.25\"],[\"2025-10-14 00:00:00\",\"24579.3203125\"],[\"2025-10-15 00:00:00\",\"24745.359375\"],[\"2025-10-16 00:00:00\",\"24657.240234375\"],[\"2025-10-17 00:00:00\",\"24817.94921875\"],[\"2025-10-20 00:00:00\",\"25141.01953125\"],[\"2025-10-21 00:00:00\",\"25127.130859375\"],[\"2025-10-22 00:00:00\",\"24879.009765625\"],[\"2025-10-23 00:00:00\",\"25097.41015625\"],[\"2025-10-24 00:00:00\",\"25358.16015625\"],[\"2025-10-27 00:00:00\",\"25821.55078125\"],[\"2025-10-28 00:00:00\",\"26012.150390625\"],[\"2025-10-29 00:00:00\",\"26119.849609375\"],[\"2025-10-30 00:00:00\",\"25734.810546875\"],[\"2025-10-31 00:00:00\",\"25858.130859375\"],[\"2025-11-03 00:00:00\",\"25972.939453125\"],[\"2025-11-04 00:00:00\",\"25435.69921875\"],[\"2025-11-05 00:00:00\",\"25620.029296875\"],[\"2025-11-06 00:00:00\",\"25130.0390625\"],[\"2025-11-07 00:00:00\",\"25059.810546875\"],[\"2025-11-10 00:00:00\",\"25611.740234375\"],[\"2025-11-11 00:00:00\",\"25533.490234375\"],[\"2025-11-12 00:00:00\",\"25517.330078125\"],[\"2025-11-13 00:00:00\",\"24993.4609375\"],[\"2025-11-14 00:00:00\",\"25008.240234375\"],[\"2025-11-17 00:00:00\",\"24799.919921875\"],[\"2025-11-18 00:00:00\",\"24503.099609375\"],[\"2025-11-19 00:00:00\",\"24640.51953125\"],[\"2025-11-20 00:00:00\",\"24054.380859375\"],[\"2025-11-21 00:00:00\",\"24239.5703125\"],[\"2025-11-24 00:00:00\",\"24873.849609375\"],[\"2025-11-25 00:00:00\",\"25018.359375\"],[\"2025-11-26 00:00:00\",\"25236.939453125\"],[\"2025-11-28 00:00:00\",\"25434.890625\"],[\"2025-12-01 00:00:00\",\"25342.849609375\"],[\"2025-12-02 00:00:00\",\"25555.859375\"],[\"2025-12-03 00:00:00\",\"25606.5390625\"],[\"2025-12-04 00:00:00\",\"25581.69921875\"],[\"2025-12-05 00:00:00\",\"25692.05078125\"],[\"2025-12-08 00:00:00\",\"25627.94921875\"],[\"2025-12-09 00:00:00\",\"25668.689453125\"],[\"2025-12-10 00:00:00\",\"25776.439453125\"],[\"2025-12-11 00:00:00\",\"25686.689453125\"],[\"2025-12-12 00:00:00\",\"25196.73046875\"],[\"2025-12-15 00:00:00\",\"25067.26953125\"],[\"2025-12-16 00:00:00\",\"25132.939453125\"],[\"2025-12-17 00:00:00\",\"24647.609375\"],[\"2025-12-18 00:00:00\",\"25019.369140625\"],[\"2025-12-19 00:00:00\",\"25346.1796875\"],[\"2025-12-22 00:00:00\",\"25461.69921875\"],[\"2025-12-23 00:00:00\",\"25587.830078125\"],[\"2025-12-24 00:00:00\",\"25656.150390625\"],[\"2025-12-26 00:00:00\",\"25644.390625\"],[\"2025-12-29 00:00:00\",\"25525.560546875\"],[\"2025-12-30 00:00:00\",\"25462.560546875\"],[\"2025-12-31 00:00:00\",\"25249.849609375\"],[\"2026-01-02 00:00:00\",\"25206.169921875\"],[\"2026-01-05 00:00:00\",\"25401.3203125\"],[\"2026-01-06 00:00:00\",\"25639.7109375\"],[\"2026-01-07 00:00:00\",\"25653.900390625\"],[\"2026-01-08 00:00:00\",\"25507.099609375\"],[\"2026-01-09 00:00:00\",\"25766.259765625\"],[\"2026-01-12 00:00:00\",\"25787.66015625\"],[\"2026-01-13 00:00:00\",\"25741.94921875\"],[\"2026-01-14 00:00:00\",\"25465.939453125\"],[\"2026-01-15 00:00:00\",\"25547.0703125\"],[\"2026-01-16 00:00:00\",\"25529.259765625\"],[\"2026-01-20 00:00:00\",\"24987.5703125\"],[\"2026-01-21 00:00:00\",\"25326.580078125\"],[\"2026-01-22 00:00:00\",\"25518.349609375\"],[\"2026-01-23 00:00:00\",\"25605.470703125\"],[\"2026-01-26 00:00:00\",\"25713.2109375\"],[\"2026-01-27 00:00:00\",\"25939.740234375\"],[\"2026-01-28 00:00:00\",\"26022.7890625\"],[\"2026-01-29 00:00:00\",\"25884.30078125\"],[\"2026-01-30 00:00:00\",\"25552.390625\"],[\"2026-02-02 00:00:00\",\"25738.609375\"],[\"2026-02-03 00:00:00\",\"25338.619140625\"],[\"2026-02-04 00:00:00\",\"24891.240234375\"],[\"2026-02-05 00:00:00\",\"24548.689453125\"],[\"2026-02-06 00:00:00\",\"25075.76953125\"],[\"2026-02-09 00:00:00\",\"25268.140625\"],[\"2026-02-10 00:00:00\",\"25127.640625\"],[\"2026-02-11 00:00:00\",\"25201.259765625\"],[\"2026-02-12 00:00:00\",\"24687.609375\"],[\"2026-02-13 00:00:00\",\"24732.73046875\"],[\"2026-02-17 00:00:00\",\"24701.599609375\"],[\"2026-02-18 00:00:00\",\"24898.869140625\"],[\"2026-02-19 00:00:00\",\"24797.33984375\"],[\"2026-02-20 00:00:00\",\"25012.619140625\"],[\"2026-02-23 00:00:00\",\"24708.939453125\"],[\"2026-02-24 00:00:00\",\"24977.0390625\"],[\"2026-02-25 00:00:00\",\"25329.0390625\"],[\"2026-02-26 00:00:00\",\"25034.369140625\"],[\"2026-02-27 00:00:00\",\"24960.0390625\"],[\"2026-03-02 00:00:00\",\"24992.599609375\"],[\"2026-03-03 00:00:00\",\"24720.080078125\"],[\"2026-03-04 00:00:00\",\"25093.6796875\"],[\"2026-03-05 00:00:00\",\"25020.41015625\"],[\"2026-03-06 00:00:00\",\"24643.01953125\"],[\"2026-03-09 00:00:00\",\"24967.25\"],[\"2026-03-10 00:00:00\",\"24956.470703125\"],[\"2026-03-11 00:00:00\",\"24965.009765625\"],[\"2026-03-12 00:00:00\",\"24533.580078125\"],[\"2026-03-13 00:00:00\",\"24380.73046875\"],[\"2026-03-16 00:00:00\",\"24655.33984375\"],[\"2026-03-17 00:00:00\",\"24780.419921875\"],[\"2026-03-18 00:00:00\",\"24425.08984375\"],[\"2026-03-19 00:00:00\",\"24355.279296875\"],[\"2026-03-20 00:00:00\",\"23898.150390625\"],[\"2026-03-23 00:00:00\",\"24188.58984375\"],[\"2026-03-24 00:00:00\",\"24002.44921875\"],[\"2026-03-25 00:00:00\",\"24162.98046875\"],[\"2026-03-26 00:00:00\",\"23586.990234375\"],[\"2026-03-27 00:00:00\",\"23132.76953125\"],[\"2026-03-30 00:00:00\",\"22953.380859375\"],[\"2026-03-31 00:00:00\",\"23740.189453125\"],[\"2026-04-01 00:00:00\",\"24019.990234375\"],[\"2026-04-02 00:00:00\",\"24045.529296875\"],[\"2026-04-06 00:00:00\",\"24192.169921875\"],[\"2026-04-07 00:00:00\",\"24202.369140625\"],[\"2026-04-08 00:00:00\",\"24903.169921875\"],[\"2026-04-09 00:00:00\",\"25082.08984375\"],[\"2026-04-10 00:00:00\",\"25116.33984375\"],[\"2026-04-13 00:00:00\",\"25383.720703125\"],[\"2026-04-14 00:00:00\",\"25842.0\"],[\"2026-04-15 00:00:00\",\"26204.580078125\"],[\"2026-04-16 00:00:00\",\"26333.0\"],[\"2026-04-17 00:00:00\",\"26672.4296875\"],[\"2026-04-20 00:00:00\",\"26590.33984375\"],[\"2026-04-21 00:00:00\",\"26479.470703125\"],[\"2026-04-22 00:00:00\",\"26937.279296875\"],[\"2026-04-23 00:00:00\",\"26782.630859375\"],[\"2026-04-24 00:00:00\",\"27303.669921875\"],[\"2026-04-27 00:00:00\",\"27305.6796875\"],[\"2026-04-28 00:00:00\",\"27029.009765625\"],[\"2026-04-29 00:00:00\",\"27186.98046875\"],[\"2026-04-30 00:00:00\",\"27452.119140625\"],[\"2026-05-01 00:00:00\",\"27710.359375\"],[\"2026-05-04 00:00:00\",\"27651.8203125\"],[\"2026-05-05 00:00:00\",\"28015.060546875\"],[\"2026-05-06 00:00:00\",\"28599.169921875\"],[\"2026-05-07 00:00:00\",\"28563.94921875\"],[\"2026-05-08 00:00:00\",\"29234.990234375\"],[\"2026-05-11 00:00:00\",\"29320.66015625\"],[\"2026-05-12 00:00:00\",\"29064.80078125\"],[\"2026-05-13 00:00:00\",\"29366.939453125\"],[\"2026-05-14 00:00:00\",\"29580.30078125\"],[\"2026-05-15 00:00:00\",\"29125.19921875\"],[\"2026-05-18 00:00:00\",\"28994.369140625\"],[\"2026-05-19 00:00:00\",\"28818.83984375\"],[\"2026-05-20 00:00:00\",\"29297.69921875\"],[\"2026-05-21 00:00:00\",\"29357.26953125\"],[\"2026-05-22 00:00:00\",\"29481.640625\"],[\"2026-05-26 00:00:00\",\"30001.3203125\"],[\"2026-05-27 00:00:00\",\"29973.5703125\"],[\"2026-05-28 00:00:00\",\"30223.890625\"],[\"2026-05-29 00:00:00\",\"30333.1796875\"],[\"2026-06-01 00:00:00\",\"30513.859375\"],[\"2026-06-02 00:00:00\",\"30660.599609375\"],[\"2026-06-03 00:00:00\",\"30571.240234375\"],[\"2026-06-04 00:00:00\",\"30407.810546875\"],[\"2026-06-05 00:00:00\",\"28957.599609375\"],[\"2026-06-08 00:00:00\",\"29414.259765625\"],[\"2026-06-09 00:00:00\",\"29084.5\"],[\"2026-06-10 00:00:00\",\"28508.029296875\"],[\"2026-06-11 00:00:00\",\"29446.1796875\"],[\"2026-06-12 00:00:00\",\"29635.94921875\"],[\"2026-06-15 00:00:00\",\"30543.919921875\"],[\"2026-06-16 00:00:00\",\"29968.130859375\"],[\"2026-06-17 00:00:00\",\"29670.94921875\"],[\"2026-06-18 00:00:00\",\"30406.189453125\"],[\"2026-06-22 00:00:00\",\"30347.080078125\"],[\"2026-06-23 00:00:00\",\"29347.26953125\"],[\"2026-06-24 00:00:00\",\"29220.060546875\"],[\"2026-06-25 00:00:00\",\"29440.3203125\"],[\"2026-06-26 00:00:00\",\"29118.240234375\"],[\"2026-06-29 00:00:00\",\"29774.75\"],[\"2026-06-30 00:00:00\",\"30276.349609375\"],[\"2026-07-01 00:00:00\",\"29809.130859375\"],[\"2026-07-02 00:00:00\",\"29329.2109375\"],[\"2026-07-06 00:00:00\",\"29697.869140625\"],[\"2026-07-07 00:00:00\",\"29173.01953125\"],[\"2026-07-08 00:00:00\",\"29252.560546875\"],[\"2026-07-09 00:00:00\",\"29727.099609375\"],[\"2026-07-10 00:00:00\",\"29825.109375\"],[\"2026-07-13 00:00:00\",\"29264.099609375\"],[\"2026-07-14 00:00:00\",\"29586.2890625\"],[\"2026-07-15 00:00:00\",\"29502.599609375\"],[\"2026-07-16 00:00:00\",\"29025.76953125\"],[\"2026-07-17 00:00:00\",\"28592.66015625\"],[\"2026-07-20 00:00:00\",\"28604.23046875\"],[\"2026-07-21 00:00:00\",\"29155.1796875\"],[\"2026-07-22 00:00:00\",\"28998.099609375\"],[\"2026-07-23 00:00:00\",\"28454.810546875\"],[\"2026-07-24 00:00:00\",\"28128.33984375\"],[\"2026-07-27 00:00:00\",\"28039.2109375\"],[\"2026-07-28 00:00:00\",\"27763.130859375\"],[\"2026-07-29 00:00:00\",\"27192.310546875\"],[\"2026-07-30 00:00:00\",\"28106.349609375\"],[\"2026-07-31 00:00:00\",\"28274.19921875\"],[\"2026-08-03 00:00:00\",\"28776.80078125\"],[\"2026-08-04 00:00:00\",\"29733.16015625\"],[\"2026-08-05 00:00:00\",\"29487.7890625\"],[\"2026-08-06 00:00:00\",\"29373.330078125\"],[\"2026-08-07 00:00:00\",\"29722.30078125\"],[\"2026-08-10 00:00:00\",\"29621.80078125\"],[\"2026-08-11 00:00:00\",\"29525.48046875\"],[\"2026-08-12 00:00:00\",\"29742.599609375\"],[\"2026-08-13 00:00:00\",\"30084.5\"],[\"2026-08-14 00:00:00\",\"30046.140625\"],[\"2026-08-17 00:00:00\",\"29995.380859375\"],[\"2026-08-18 00:00:00\",\"29490.9609375\"],[\"2026-08-19 00:00:00\",\"29426.01953125\"],[\"2026-08-20 00:00:00\",\"29213.16015625\"],[\"2026-08-21 00:00:00\",\"29308.859375\"],[\"2026-08-24 00:00:00\",\"29023.1796875\"],[\"2026-08-25 00:00:00\",\"29209.23046875\"],[\"2026-08-26 00:00:00\",\"29224.51953125\"],[\"2026-08-27 00:00:00\",\"29641.560546875\"],[\"2026-08-28 00:00:00\",\"29433.4296875\"],[\"2026-08-31 00:00:00\",\"29456.970703125\"],[\"2026-09-01 00:00:00\",\"29077.220703125\"],[\"2026-09-02 00:00:00\",\"29143.330078125\"]],\"sources\":[{\"text\":\"Yahoo Finance\",\"link\":{\"url\":\"https://finance.yahoo.com/quote/%5ENDX/history/\"}}],\"events\":[],\"options\":{\"annotations\":{},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":false,\"forceBarsOnSmall\":false},\"chartType\":\"Line\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false,\"minValue\":17000},\"largeNumbers\":{\"divideBy\":0}},\"notes\":\"The current price for the current day is displayed (intraday).<br> As of September 3, 2026, 12:37 PM.\",\"activateDate\":\"2024-08-05T13:47:18.992Z\",\"updatedDate\":\"2026-09-03T10:39:34.734Z\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"date\",\"dateFormatGroup\":\"year_first\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]}};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_5caeb2cde3decbe8e2ab753b769a5fd7_qea4eb910f88047f1968681188fdcaea0\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0ahfv0",
+   "content": {
+    "text": "Although some investors are becoming more skeptical here too, the tech companies' demand for capital remains unbroken. The latest news: American media report that AI developer Anthropic closed a $35 billion data center construction deal this week."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0ahfv2",
+   "content": {
+    "text": "Such investments bring a new problem for the bond market: tech companies are increasingly financing them via longer-term bonds. These bonds compete with government bonds for investor capital. UBS notes that if AI investments remain high, this could exert further pressure on government bond prices. The higher bond yields, UBS states, reflect not only fiscal concerns but also the private sector's financing needs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1h0ftoc0",
+   "content": {
+    "title": "7. Partners Group: Alternative investments not a sure thing",
+    "id": "subtitle-7-partners-group-zeigt-alternative-anlagen-sind-kein-selbstl-ufer"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0ftoe0",
+   "content": {
+    "text": "Providers of unlisted investments are also struggling with the tense market sentiment. The best example: Partners Group. The shares of the Zug-based private equity firm lost more than 7% in value on Tuesday after the company warned of lower earnings. The first-half figures disappointed expectations, especially the outlook for revenues from so-called performance fees."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h0ftoe2",
+   "content": {
+    "text": "These fees are due, among others, when the financial group sells holdings. However, some of these sales could be postponed until 2027. Although management still spoke of a reasonably intact sales environment – the doubts were enough to scare investors away."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1gh56p05",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1gh56p06",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gh56p08",
+      "content": {
+       "title": "Battle of Hormuz: After a month of peace, the US and Iran are firing at each other again",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/31/00d3a60d-13e6-4bcc-9fde-b39675c0fa74.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/31/00d3a60d-13e6-4bcc-9fde-b39675c0fa74.jpg?width=1024&quality=75&auto=webp",
+        "width": 4271,
+        "height": 2847,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4271,2402,x0,y445"
+         },
+         {
+          "name": "4:3",
+          "crop": "3796,2847,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2847,2847,x265,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2135,2847,x438,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4271,2847,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "U.S. forces attacked Revolutionary Guard positions on Larak Island. Tehran responded with missiles fired at Jordan and drones at the Emirates. Washington, however, had wanted to win the war with sanctions",
+        "teaserAuthor": "Stringer/Reuters"
+       },
+       "teaserAuthor": "Stringer/Reuters",
+       "tags": [
+        "Iran-Krieg",
+        "Krieg in Nahost",
+        "Nahost und Afrika"
+       ],
+       "nzzId": "ld.10021709",
+       "readingTime": 240,
+       "paywallQuestionOne": "Why is the conflict between the US and Iran escalating militarily again?",
+       "paywallQuestionTwo": "How will the new sanctions affect the Iranian economy and trading partners?",
+       "paywallQuestionThree": "What role does the Strait of Hormuz play in the current conflict?",
+       "characterCount": 5414,
+       "product": "NZZ.ch",
+       "documentId": 10021709,
+       "layout": "regular",
+       "publicationDate": "2026-08-31T13:36:11.629Z",
+       "publicationLastUpdated": "2026-08-31T19:42:29.658Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-09-01T01:36:11.629Z",
+       "teaserCaption": "U.S. forces attacked Revolutionary Guard positions on Larak Island. Tehran responded with missiles fired at Jordan and drones at the Emirates. Washington, however, had wanted to win the war with sanctions",
+       "authorLine": "Johannes C. Bockenheimer",
+       "authorImage": {
+        "originalUrl": "/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0",
+        "url": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+        "width": 1745,
+        "height": 1744,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1,
+         "y": 0,
+         "width": 1744,
+         "height": 1744
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/31/b7ef268e-db4c-400e-a3bd-5bffadfbbe89.jpg?crop=1744,1744,x1,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/gefecht-um-hormuz-nach-einem-monat-ruhe-schiessen-die-usa-und-iran-wieder-aufeinander-ld.10021709",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 826,
+       "leadText": "U.S. forces attacked Revolutionary Guard positions on Larak Island. Tehran responded with missiles fired at Jordan and drones at the Emirates. Washington, however, had wanted to win the war with sanctions",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gh56p07",
+      "content": {
+       "title": "The US debt burden is massive, and the Treasury Department is intervening in the government bond market. «There is a risk of a loss of confidence,» says an investment expert",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/23/ea009f74-8f5c-4c5c-90c3-9348314eea8a.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/23/ea009f74-8f5c-4c5c-90c3-9348314eea8a.jpg?width=1024&quality=75&auto=webp",
+        "width": 4942,
+        "height": 3295,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4942,2780,x0,y42"
+         },
+         {
+          "name": "4:3",
+          "crop": "4393,3295,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2723,2723,x462,y71"
+         },
+         {
+          "name": "3:4",
+          "crop": "2246,2995,x818,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4942,3295,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The US Treasury Department wants to curb the rise in yields on government bonds by increasing bond buybacks. However, this does nothing to address the core problems of the US – excessive spending and excessive debt.",
+        "teaserAuthor": "Kylie Cooper / Reuters"
+       },
+       "teaserAuthor": "Kylie Cooper / Reuters",
+       "nzzId": "ld.10020291",
+       "readingTime": 240,
+       "paywallQuestionOne": "How do the buybacks affect the yields of US Treasury bonds?",
+       "paywallQuestionTwo": "Why does the core problem of high spending remain unsolved?",
+       "paywallQuestionThree": "What risks does the intervention of the US Treasury Department entail?",
+       "characterCount": 5236,
+       "product": "NZZ.ch",
+       "documentId": 10020291,
+       "layout": "regular",
+       "publicationDate": "2026-08-20T16:00:00.000Z",
+       "publicationLastUpdated": "2026-08-23T12:53:05.169Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-21T04:00:00.000Z",
+       "teaserCaption": "The US Treasury Department wants to curb the rise in yields on government bonds by increasing bond buybacks. However, this does nothing to address the core problems of the US – excessive spending and excessive debt.",
+       "authorLine": "Michael Ferber",
+       "authorImage": {
+        "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4547,
+        "height": 3032,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2396,2396,x938,y397"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/finanzen/der-schuldenberg-der-usa-drueckt-massiv-das-finanzministerium-interveniert-am-markt-fuer-staatsanleihen-es-droht-ein-vertrauensverlust-sagt-ein-anlageexperte-ld.10020291",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 762,
+       "leadText": "The US Treasury Department wants to curb the rise in yields on government bonds by increasing bond buybacks. However, this does nothing to address the core problems of the US – excessive spending and excessive debt.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gh56p09",
+      "content": {
+       "title": "America has no desire to repay its debts – and will eventually make its creditors pay for it",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Opinion",
+       "nzzId": "ld.10012046",
+       "readingTime": 420,
+       "paywallQuestionOne": "How does political paralysis affect the US debt crisis?",
+       "paywallQuestionTwo": "What role does inflation play in managing US national debt?",
+       "paywallQuestionThree": "Why might investors avoid US Treasury bonds?",
+       "characterCount": 9187,
+       "teaserImage": {
+        "originalUrl": "/2026/06/29/86b69a45-6ece-4f3a-9bf3-7fcedf9674a7.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/29/86b69a45-6ece-4f3a-9bf3-7fcedf9674a7.jpg?width=1024&quality=75&auto=webp",
+        "width": 3437,
+        "height": 1934,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2840,1598,x284,y201"
+         },
+         {
+          "name": "4:3",
+          "crop": "2131,1598,x654,y184"
+         },
+         {
+          "name": "1:1",
+          "crop": "1934,1934,x760,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1451,1934,x1001,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "2901,1934,x242,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Politics in Washington is so divided that the enormous mountain of national debt can probably only be washed away by a strong wave of inflation. Investors should beware."
+       },
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10012046,
+       "layout": "opinion",
+       "publicationDate": "2026-06-30T03:35:00.000Z",
+       "publicationLastUpdated": "2026-06-30T04:22:44.964Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-30T15:35:00.000Z",
+       "teaserCaption": "Politics in Washington is so divided that the enormous mountain of national debt can probably only be washed away by a strong wave of inflation. Investors should beware.",
+       "authorLine": "André Müller, New York",
+       "authorImage": {
+        "originalUrl": "/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+        "width": 8106,
+        "height": 5404,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1351,
+         "y": 0,
+         "width": 5404,
+         "height": 5404
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+       "url": "/meinung/amerika-hat-keine-lust-seine-schulden-zurueckzuzahlen-und-wird-irgendwann-seine-glaeubiger-dafuer-buessen-lassen-ld.10012046",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 1306,
+       "premium": true,
+       "leadText": "Politics in Washington is so divided that the enormous mountain of national debt can probably only be washed away by a strong wave of inflation. Investors should beware.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1024&quality=75&auto=webp",
+   "width": 7898,
+   "height": 5268,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "7898,4443,x0,y187"
+    },
+    {
+     "name": "4:3",
+     "crop": "7024,5268,x143,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "5268,5268,x1162,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3951,5268,x1731,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "7898,5265,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+   "teaserAuthor": "Jacquelyn Martin / AP"
+  },
+  "teaserAuthor": "Jacquelyn Martin / AP",
+  "nzzId": "ld.10022036",
+  "readingTime": 360,
+  "characterCount": 7839,
+  "breadcrumbs": [
+   {
+    "name": "Finance",
+    "path": "/finanzen"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022036,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T14:02:39.657Z",
+  "publicationDate": "2026-09-02T14:02:39.657Z",
+  "publicationLastUpdated": "2026-09-02T14:45:50.108Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T02:02:39.657Z",
+  "teaserCaption": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+  "nzzAuthors": [
+   {
+    "id": 1371974,
+    "name": "Benjamin Triebe",
+    "shortName": "bet",
+    "pianoId": "467a4997-a430-4b90-a434-54d588efcb1c",
+    "external": false
+   }
+  ],
+  "authorLine": "Benjamin Triebe",
+  "authorImage": {
+   "originalUrl": "/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "711,711,x44,y44"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 154630,
+    "name": "Benjamin Triebe (bet.) – Business Editor",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/66e46add-875c-44d3-97bc-9ef706f6bc3d.jpeg?width=1024&quality=75&auto=webp",
+  "url": "/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+  "department": {
+   "name": "Finance",
+   "path": "/finanzen"
+  },
+  "estimationWordCount": 1151,
+  "leadText": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+  "nzzSummaryEN": "- Rising bond yields and price declines, especially in the US, Japan, and Europe, are driven by high debt levels, inflation, and geopolitical tensions.\n- The Iran conflict and production issues have pushed oil prices higher, driving up costs and fueling inflation.\n- Investments in AI and tech bonds compete with government bonds for capital, while alternative investments struggle with market uncertainties.",
+  "nzzSummaryDE": "- The rising yields on government bonds and the price collapse particularly affect the USA, Japan and Europe, triggered among other things by high debt burdens, inflation and geopolitical tensions.\n - The Iran conflict and production problems are increasing the price of oil, leading to cost increases and driving up inflation.\n Investments in AI and tech bonds compete with government bonds for capital, while alternative investments suffer from market uncertainties.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "September begins turbulently on the stock market",
+  "nzzPrintSubtitle": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+   "title": "Sell-off in government bonds: The reasons for the stock market turmoil are persistent",
+   "socialMediaTitle": "Sell-off in US Treasury bonds: This is why the markets are so worried right now",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7898,4443,x0,y187&wmark=nzz"
+  },
+  "ldPublicationId": 2487751,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Artificial Intelligence (AI)",
+    "slug": "/themen/kuenstliche-intelligenz-ki"
+   },
+   {
+    "name": "inflation",
+    "slug": "/themen/inflation"
+   },
+   {
+    "name": "Key interest rate",
+    "slug": "/themen/leitzins"
+   },
+   {
+    "name": "Iran",
+    "slug": "/themen/iran"
+   },
+   {
+    "name": "oil",
+    "slug": "/themen/erdoel"
+   },
+   {
+    "name": "Trade dispute",
+    "slug": "/themen/handelsstreit"
+   },
+   {
+    "name": "Partners Group",
+    "slug": "/themen/partners-group"
+   },
+   {
+    "name": "Fed",
+    "slug": "/themen/fed"
+   },
+   {
+    "name": "Japan",
+    "slug": "/themen/japan"
+   },
+   {
+    "name": "ECB",
+    "slug": "/themen/ezb"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10021709",
+    "ld.10020291",
+    "ld.10012046"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 484776,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "usa",
+   "name": "USA",
+   "tagName": "USA",
+   "qId": "Q30",
+   "seoTitle": "USA – All news and articles about the United States of America | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:37:30.759Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/usa",
+   "size": 8114,
+   "relatedTopics": [
+    {
+     "name": "Künstliche Intelligenz (KI)",
+     "slug": "/themen/kuenstliche-intelligenz-ki"
+    },
+    {
+     "name": "Inflation",
+     "slug": "/themen/inflation"
+    },
+    {
+     "name": "Leitzins",
+     "slug": "/themen/leitzins"
+    },
+    {
+     "name": "Iran",
+     "slug": "/themen/iran"
+    },
+    {
+     "name": "Erdöl",
+     "slug": "/themen/erdoel"
+    },
+    {
+     "name": "Handelsstreit",
+     "slug": "/themen/handelsstreit"
+    },
+    {
+     "name": "Partners Group",
+     "slug": "/themen/partners-group"
+    },
+    {
+     "name": "Fed",
+     "slug": "/themen/fed"
+    },
+    {
+     "name": "Japan",
+     "slug": "/themen/japan"
+    },
+    {
+     "name": "EZB",
+     "slug": "/themen/ezb"
+    },
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "Data analysis",
+    "title": "How Popular Is Donald Trump?",
+    "teaserImage": {
+     "originalUrl": "/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1024&quality=75&auto=webp",
+     "width": 1801,
+     "height": 1351,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1801,1013,x0,y169"
+      },
+      {
+       "name": "4:3",
+       "crop": "1801,1351,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1351,1351,x225,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1013,1351,x394,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1801,1201,x0,y75"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+     "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ"
+    },
+    "teaserAuthor": "Illustration by Jasmin Hegetschweiler / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1883243",
+    "readingTime": 120,
+    "authorLine": "Nikolai Thelitz",
+    "paywallQuestionOne": "Why has Trump's popularity declined?",
+    "paywallQuestionTwo": "What is Trump's stance on the economic situation?",
+    "paywallQuestionThree": "How do Americans view Trump's immigration policy?",
+    "characterCount": 2062,
+    "product": "NZZ.ch",
+    "documentId": "1883243",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T07:57:50.000Z",
+    "publicationLastUpdated": "2026-09-03T07:57:50.000Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T19:57:50.000Z",
+    "teaserCaption": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/06/08/e254b9af-5f2d-4473-af8c-a9de53509f60.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/trump-umfragewerte-aktuell-2026-so-beliebt-ist-er-in-den-usa-ld.1883243",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 317,
+    "leadText": "Daily updated poll numbers: American sentiment toward their president's administration. An overview in graphics.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "title": "10 dollars for a coffee, 600% inflation – and hope for new oil billions: Welcome to everyday life in Venezuela",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y776"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x255,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4298,4298,x1520,y635"
+      },
+      {
+       "name": "3:4",
+       "crop": "3223,4298,x2395,y902"
+      },
+      {
+       "name": "3:2",
+       "crop": "7091,4727,x300,y472"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "showComments": true,
+    "tags": [
+     "Fotografie"
+    ],
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/7b3cc737-abbf-4cb8-969f-49ba1900d8de.jpg?width=1024&quality=75&auto=webp",
+     "width": 7864,
+     "height": 5200,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7864,4423,x0,y388"
+      },
+      {
+       "name": "1:1",
+       "crop": "5200,5200,x1332,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6933,5200,x465,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3900,5200,x1982,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7800,5200,x32,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/63a7de33-abc5-42fc-b8dd-be1ea6c32358.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4659,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4659,4659,x340,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6212,4659,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3494,4659,x922,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6989,4659,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2669,
+      "y": 1695
+     },
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1f3f06d2-eb2c-4583-b4c6-97fda2f94e62.jpg?width=1024&quality=75&auto=webp",
+     "width": 7000,
+     "height": 4629,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7000,3937,x0,y646"
+      },
+      {
+       "name": "1:1",
+       "crop": "4629,4629,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6172,4629,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3472,4629,x331,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6944,4629,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2067,
+      "y": 2614
+     },
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10020261",
+    "readingTime": 600,
+    "paywallQuestionOne": "How will Trump's oil deal affect Venezuela's economic future?",
+    "paywallQuestionTwo": "What role do returning refugees and investors play in Venezuela's recovery?",
+    "paywallQuestionThree": "Why does the oil sector remain unsafe for investors despite reforms?",
+    "characterCount": 11936,
+    "product": "NZZ.ch",
+    "documentId": "10020261",
+    "layout": "longformvisual",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "authorLine": "Alexander Busch (text), Ana Gosen (images), Caracas",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/10-dollar-fuer-einen-kaffee-600-prozent-inflation-und-hoffnung-auf-neue-erdoelmilliarden-willkommen-im-alltag-in-venezuela-ld.10020261",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1908,
+    "premium": true,
+    "leadText": "Much of the former glory of Venezuela's oil wealth has faded. But things are changing: investors and returning residents are rediscovering Venezuela. And now Donald Trump has big plans, too.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 2,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Tanker for Tanker»: Trump escalates further in the Strait of Hormuz",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e7ac2042-b8b6-4979-b234-1c4b2e17dd24.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3666,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y306"
+      },
+      {
+       "name": "4:3",
+       "crop": "4444,3333,x427,y62"
+      },
+      {
+       "name": "1:1",
+       "crop": "3333,3333,x536,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2273,3030,x487,y185"
+      },
+      {
+       "name": "3:2",
+       "crop": "4999,3333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+     "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters"
+    },
+    "teaserAuthor": "Majid Asgaripour/Wana News Agency via Reuters",
+    "tags": [
+     "Krieg in Nahost",
+     "Iran-Krieg",
+     "Die USA unter Trump"
+    ],
+    "nzzId": "ld.10022048",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the escalation in Hormuz affect the global oil supply?",
+    "paywallQuestionTwo": "What goals is Trump pursuing with the blockade against Iran?",
+    "paywallQuestionThree": "How is Iran reacting to the US attacks?",
+    "characterCount": 5043,
+    "product": "NZZ.ch",
+    "documentId": "10022048",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:30:00.880Z",
+    "publicationLastUpdated": "2026-09-02T12:17:04.250Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:30:00.880Z",
+    "teaserCaption": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "authorLine": "Christian Weisflog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/29/610f656f-240a-49e1-b6b4-fec855be6253.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/tanker-fuer-tanker-trump-zuendet-in-der-strasse-von-hormuz-die-naechste-eskalationsstufe-ld.10022048",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 776,
+    "leadText": "The battle for the strait intensifies again. For the first time, the U.S. also attacks Iranian oil tankers. In retaliation, Tehran targets U.S. military bases in the Middle East. Trump once again calls on Iranians to revolt.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump's grab for Venezuela's oil reserves remains a paper tiger",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/4d9de37a-1c64-49c3-9ba2-8e692b924573.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3668,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4891,3668,x305,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3668,3668,x916,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2751,3668,x1375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+     "teaserAuthor": "Gaby Oraa / Reuters"
+    },
+    "teaserAuthor": "Gaby Oraa / Reuters",
+    "flag": "Opinion",
+    "showComments": true,
+    "nzzId": "ld.10021740",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why does Trump's deal with Venezuela remain meaningless for the world market?",
+    "paywallQuestionTwo": "How do mismanagement and sanctions affect Venezuela's oil production?",
+    "paywallQuestionThree": "What challenges exist for investments in Venezuela's oil sector?",
+    "characterCount": 4369,
+    "product": "NZZ.ch",
+    "documentId": "10021740",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T06:50:39.452Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "authorLine": "Catherine Bosley",
+    "authorImage": {
+     "originalUrl": "/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/12/31/f4854fdf-6fd5-4b83-9089-75e151c90563.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/trumps-griff-nach-venezuelas-erdoelschaetzen-bleibt-ein-papiertiger-ld.10021740",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 637,
+    "premium": true,
+    "leadText": "With his agreement, Donald Trump aims to increase the US's strategic oil reserves. However, Venezuela currently produces only one percent of global crude oil. This cannot be changed easily or quickly.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 8,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Trump is reaching for Venezuela's oil. But that's a risky game",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Explained",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/fcf941a7-8a33-4e8c-8592-b7aec3aaea67.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/fcf941a7-8a33-4e8c-8592-b7aec3aaea67.jpg?width=1024&quality=75&auto=webp",
+     "width": 5759,
+     "height": 3839,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5759,3239,x0,y502"
+      },
+      {
+       "name": "4:3",
+       "crop": "5119,3839,x640,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3839,3839,x1920,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2879,3839,x2717,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5759,3839,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "President Trump promises Americans lower gas prices. To achieve this, he relies on controversial figures: A criminal investigation is ongoing in Switzerland against a Venezuelan businessman involved in the deal. Key answers regarding the billion-dollar deal.",
+     "teaserAuthor": "Pedro Mattey / AP"
+    },
+    "teaserAuthor": "Pedro Mattey / AP",
+    "nzzId": "ld.10021711",
+    "readingTime": 360,
+    "paywallQuestionOne": "How does the deal affect the geopolitical position of the USA?",
+    "paywallQuestionTwo": "What risks does the oil deal pose for Venezuela and investors?",
+    "paywallQuestionThree": "How realistic are the economic promises of the agreement?",
+    "characterCount": 8347,
+    "product": "NZZ.ch",
+    "documentId": "10021711",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "President Trump promises Americans lower gas prices. To achieve this, he relies on controversial figures: A criminal investigation is ongoing in Switzerland against a Venezuelan businessman involved in the deal. Key answers regarding the billion-dollar deal.",
+    "authorLine": "Thomas Fuster, Jürg Meier",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/31/32dce22c-5801-4b24-8774-9bd41daa6d2b.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/trump-greift-nach-venezuelas-erdoel-die-wichtigsten-antworten-zum-deal-zwischen-den-usa-und-venezuela-ld.10021711",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1140,
+    "leadText": "President Trump promises Americans lower gas prices. To achieve this, he relies on controversial figures: A criminal investigation is ongoing in Switzerland against a Venezuelan businessman involved in the deal. Key answers regarding the billion-dollar deal.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022036",
+    "name": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Finanzen",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1371974,
+       "name": "Benjamin Triebe",
+       "shortName": "bet",
+       "pianoId": "467a4997-a430-4b90-a434-54d588efcb1c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T14:02:39.657Z",
+     "updateTimestamp": "2026-09-02T14:45:50.108Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022036",
+   "pageType": "regular",
+   "primaryCategory": "Finanzen",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Sell-off in government bonds: The reasons for the stock market turmoil are persistent",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7898,4443,x0,y187&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Benjamin Triebe",
+  "description": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+  "news_keywords": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous, Finance, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T18:45:50+02:00",
+  "date": "2026-09-02T18:02:39+02:00",
+  "canonical": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "September begins turbulently on the stock market: seven developments that are making the financial markets nervous",
+  "ogTitle": "Sell-off in US Treasury bonds: This is why the markets are so worried right now",
+  "ogUrl": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+  "mrf:cms_id": "nzz:ld.10022036",
+  "mrf:sections": "Finanzen;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022036",
+  "nzzAuthors": [
+   {
+    "id": 1371974,
+    "name": "Benjamin Triebe",
+    "shortName": "bet",
+    "pianoId": "467a4997-a430-4b90-a434-54d588efcb1c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:51 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/finanzen",
+      "name": "Finance"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Sell-off in government bonds: The reasons for the stock market turmoil are persistent"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036"
+   },
+   "headline": "Sell-off in government bonds: The reasons for the stock market turmoil are persistent",
+   "datePublished": "2026-09-02T18:02:39+02:00",
+   "dateModified": "2026-09-02T18:45:50+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Rising yields, expensive oil, and the insatiable demand for funding for AI – all problems for which no quick solution is in sight. An overview of what investors need to prepare for.",
+   "isAccessibleForFree": false,
+   "articleSection": "Finanzen",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/600ca9a6-b4aa-47c2-8d9d-f918ab920965.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=7898,4443,x0,y187&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Benjamin Triebe"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 484776,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/finanzen/ausverkauf-bei-staatsanleihen-die-gruende-fuer-die-boersen-unruhe-sind-hartnaeckig-ld.10022036",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022036",
+    "channel=Finanzen"
+   ],
+   "ContentCreated": "2026-09-02T14:02:39.657Z",
+   "ContentAuthor": "Benjamin Triebe",
+   "ContentSection": "Finanzen",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum erleben amerikanische Staatsanleihen einen historischen Ausverkauf?\nWie beeinflussen steigende Ölpreise und Zinsen die globalen Finanzmärkte?\nWelche Rolle spielen KI-Investitionen bei der Konkurrenz zu Staatsanleihen?",
+   "ldId": "ld.10022036",
+   "channel": "Finanzen",
+   "heading": "Der September an der Börse beginnt unruhig: sieben Entwicklungen, die die Finanzmärkte nervös machen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

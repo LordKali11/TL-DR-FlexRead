@@ -1,0 +1,1456 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0hsq6ih1",
+   "content": {
+    "title": "Trade unions demand a 13th pension fund annuity: That’s a crazy idea",
+    "lead": "The demand for a «13th» in occupational pensions seems absurd: Mathematically, this would only work if future retirees lived for a shorter period.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0hsq6ih2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Albert Steck",
+       "url": "/impressum/albert-steck-ld.1723376",
+       "teaserImage": {
+        "originalUrl": "/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+        "width": 572,
+        "height": 643,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "572,322,x0,y161"
+         },
+         {
+          "name": "1:1",
+          "crop": "572,572,x0,y36"
+         },
+         {
+          "name": "4:3",
+          "crop": "572,429,x0,y107"
+         },
+         {
+          "name": "3:4",
+          "crop": "482,643,x45,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0hsq6ii0",
+   "content": {
+    "image": {
+     "author": "Keystone",
+     "caption": "The Swiss Federation of Trade Unions discovers pension funds after the AHV: Its latest demand is the payment of a 13th pension fund annuity.",
+     "originalUrl": "/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?crop=6915,4609,x0,y0",
+     "width": 6915,
+     "height": 4609,
+     "altText": "«Yes» slogans from the union are displayed on a wall in Bern ahead of the vote on the 13th AHV pension initiative, on Sunday, March 3, 2024. (KEYSTONE/Peter Schneider).",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2176007513"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6915,
+      "height": 4609,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6915,
+       "height": 4609,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The Swiss Federation of Trade Unions discovers pension funds after the AHV: Its latest demand is the payment of a 13th pension fund annuity.",
+    "author": "Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjnt0",
+   "content": {
+    "text": "For the Swiss Federation of Trade Unions (SGB), 13 is a lucky number. With the 13th AHV annuity, it has achieved its biggest political triumph in years. The additional annuity will be paid out for the first time this December. The financing, however, remains unclear. In November, voters will decide on a higher value-added tax, which can only cover a portion of the costs."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-0a7cd82c",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjnv1",
+   "content": {
+    "text": "Nevertheless, the SGB has already launched its next initiative with the number 13: It is now also demanding a 13th pension fund annuity. With all due respect, this is a crazy idea. Above all, the request demonstrates little understanding of how our pension system functions."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo00",
+   "content": {
+    "text": "The AHV is based on the pay-as-you-go system. The vast majority of annuities are paid from the contributions of the active working population. Provided there is agreement on the financing key, a 14th or even a 15th AHV annuity could theoretically be granted."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0hsqjo01",
+   "content": {
+    "title": "Pension funds: Individual savings",
+    "id": "subtitle-bei-der-pk-spart-jeder-f-r-sich-selbst"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo02",
+   "content": {
+    "text": "It is entirely different with pension funds, which are based on the funded system: Here, in principle, everyone saves for themselves, although some redistribution does occur. Married individuals with a high life expectancy fare better than single people and those who die young."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo10",
+   "content": {
+    "text": "What happens now if pension funds pay out a 13th annuity? The answer is simple: The accumulated retirement assets will last for a shorter period. Thus, the calculation would only work if retirees lived for a shorter period. Otherwise, a financial gap would arise until the end of their lives."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo12",
+   "content": {
+    "text": "The SGB argued in its position paper, which the delegates adopted, that pension funds had «accumulated very high reserves.» The necessary money was therefore available, it maintained. But is it wise to plunder these reserves for a «13th»? On this point, the SGB also demonstrates little expertise."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo21",
+   "content": {
+    "text": "Thanks to positive stock market developments, pension schemes have built up financial cushions the largest they have been in many years. However, these have an important function: Only thanks to these reserves do the funds possess the necessary risk capacity to invest in equities and thus achieve higher returns. A pension fund without such a cushion, on the other hand, very easily falls into underfunding. To prevent this, it would be forced to hold exclusively secure government bonds, which, however, yield hardly any interest."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0hsqjo22",
+   "content": {
+    "title": "Pension funds denounced as «greedy»",
+    "id": "subtitle-pensionskassen-als-gierig-angeprangert"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo23",
+   "content": {
+    "text": "The dubious nature of the SGB's request is evident in another point: The SGB bases its demand on the finding that pension funds have earned a lot. With a 13th annuity, however, the pressure to achieve high returns would further increase – particularly for real estate portfolios. While unions usually denounce the «greed» of pension funds, which they say allegedly drive up rents, pension funds are now suddenly supposed to boost their returns."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo30",
+   "content": {
+    "text": "The fact that the concept of a 13th pension fund annuity is not well thought out is also evident in the question of capital withdrawal. Upon retirement, each insured person can choose whether they prefer an annuity or wish to withdraw at least a portion of their accumulated assets. The latter is particularly recommended for individuals with poor health. The payout ensures that the capital is not lost in the event of an early death and can thus be passed on to descendants. Consequently, if the capital withdrawal is not also increased by an additional twelfth, this solution would be disadvantaged."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hsqjo32",
+   "content": {
+    "text": "To this day, occupational pensions primarily follow arithmetic logic and less political wishful thinking. This structure has proven its worth and leads to a sensible complement to the AHV. It would therefore be wrong to leave pension schemes as a playground for trade unions. Especially since the AHV's finances are already severely strained due to expansion plans. One can therefore confidently assume that the demand for a 13th pension fund annuity will soon be shelved."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0hsq6ii2",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-0713155d",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 31,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "Andreae Lamprecht",
+      "text": "The unions are making a mockery of the right of initiative. Will we be voting on the weather next? Only someone who doesn't understand the system (accumulated individual contributions result in an individual outcome, which is converted into a pension and/or lump-sum payment upon retirement) could demand such nonsense. If one were to divide the individual savings result into 13 pension payments, the monthly pension payment would, purely mathematically, have to decrease. A «miraculous multiplication of money» cannot be achieved, even by a referendum. Proposal: Should this initiative be successful, it should be declared invalid. In effect, the unions want to nationalize the pension fund system. This amounts to the expropriation of all contributors. The constitution, however, guarantees property rights.",
+      "created_at": "2026-08-26T12:53:36.068Z",
+      "like_count": 4,
+      "isPro": true,
+      "isNzz": false
+     },
+     {
+      "author_name": "Martin Vetterli",
+      "text": "My commentary on this topic, which I've already condensed, is unfortunately about 450 characters too long at around 1200 characters. Anyone interested can read my contribution to the article «Trade Union Demands ‹Thirteenth› from Pension Fund» in the Cash section. It will probably only be published tomorrow, August 26, 2026.",
+      "created_at": "2026-08-25T18:26:17.131Z",
+      "like_count": 0,
+      "isPro": false,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0hsq6ii3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0hsq6ii4",
+      "content": {
+       "title": "Funding the 13th AHV Pension: Trade unions plan to campaign again",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y559"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x259,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1696,1696,x2103,y599"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1577,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "focalPoint": {
+         "x": 2959,
+         "y": 1262
+        },
+        "imageService": "fastly",
+        "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+        "teaserAuthor": "Andrea Zahler / CH Media"
+       },
+       "teaserAuthor": "Andrea Zahler / CH Media",
+       "nzzId": "ld.10020333",
+       "readingTime": 300,
+       "paywallQuestionOne": "How do the unions intend to justify the tax increase for the 13th AHV pension payment?",
+       "paywallQuestionTwo": "Why do some delegates prefer wage percentages to value added tax?",
+       "paywallQuestionThree": "What strategy are Maillard and Lampart pursuing for the upcoming vote?",
+       "characterCount": 6215,
+       "product": "NZZ.ch",
+       "documentId": 10020333,
+       "layout": "regular",
+       "publicationDate": "2026-08-20T15:17:08.075Z",
+       "publicationLastUpdated": "2026-08-20T15:39:04.818Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-21T03:17:08.075Z",
+       "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+       "authorLine": "Matthias Venetz, Bern",
+       "authorImage": {
+        "originalUrl": "/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/schweiz/finanzierung-der-13-ahv-rente-die-gewerkschaften-wollen-wieder-kampagne-machen-ld.10020333",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 914,
+       "leadText": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0hsq6ii5",
+      "content": {
+       "title": "The record-low birth rate is jeopardizing the pension system – but politicians bury their heads in the sand",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/11/1a3db87f-3a4f-47a4-b692-4bdaee4f2035.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/11/1a3db87f-3a4f-47a4-b692-4bdaee4f2035.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y115"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x652,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2258,2258,x2128,y32"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1726,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6000,4000,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Fewer and fewer young people are expected to finance pension promises for more and more retirees. Although the math no longer adds up, governments shy away from far-reaching reforms.",
+        "teaserAuthor": "Annick Ramp / NZZ"
+       },
+       "teaserAuthor": "Annick Ramp / NZZ",
+       "flag": "Opinion",
+       "characterCount": 3983,
+       "nzzId": "ld.10013411",
+       "readingTime": 180,
+       "paywallQuestionOne": "How will the declining birth rate have a lasting impact on retirement provisions?",
+       "paywallQuestionTwo": "Why do politicians shy away from reforms despite the financial imbalance of the pension systems?",
+       "paywallQuestionThree": "What role does the decoupling of costs and benefits play in the pension system?",
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10013411,
+       "layout": "opinion",
+       "publicationDate": "2026-08-12T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-12T04:14:49.401Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-12T15:30:00.000Z",
+       "teaserCaption": "Fewer and fewer young people are expected to finance pension promises for more and more retirees. Although the math no longer adds up, governments shy away from far-reaching reforms.",
+       "authorLine": "Albert Steck",
+       "authorImage": {
+        "originalUrl": "/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+        "width": 572,
+        "height": 643,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "572,572,x0,y36"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+       "url": "/meinung/die-rekordtiefe-geburtenrate-bringt-die-altersvorsorge-in-schieflage-doch-die-politik-steckt-den-kopf-in-den-sand-ld.10013411",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 616,
+       "leadText": "Fewer and fewer young people are expected to finance pension promises for more and more retirees. Although the math no longer adds up, governments shy away from far-reaching reforms.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0hsq6ii6",
+      "content": {
+       "owner": "NZZ",
+       "title": "13. Old-age and survivors' insurance (AHV) pension: The VAT must be sufficient",
+       "teaserImage": {
+        "originalUrl": "/2026/04/17/1df90484-44f3-41fc-88b3-3781ca85d317.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/04/17/1df90484-44f3-41fc-88b3-3781ca85d317.jpg?width=1024&quality=75&auto=webp",
+        "width": 5449,
+        "height": 3213,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5449,3065,x0,y148"
+         },
+         {
+          "name": "1:1",
+          "crop": "2539,2539,x1113,y674"
+         },
+         {
+          "name": "4:3",
+          "crop": "3808,2856,x580,y357"
+         },
+         {
+          "name": "3:4",
+          "crop": "2410,3213,x1145,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3808,2539,x668,y674"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The Social Affairs and Health Committee of the National Council wants to finance the additional pension solely through an increase in value-added tax. It rejects an increase in payroll contributions – thus opposing the committee of the Council of States.",
+        "teaserAuthor": "Nycshooter / E+ / Getty"
+       },
+       "teaserAuthor": "Nycshooter / E+ / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "authorLine": "Andri Rostetter",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1934242",
+       "readingTime": 120,
+       "characterCount": 3073,
+       "product": "NZZ.ch",
+       "documentId": 1934242,
+       "layout": "regular",
+       "publicationDate": "2026-04-17T16:00:00.100Z",
+       "publicationLastUpdated": "2026-04-17T16:16:13.627Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-04-18T04:00:00.100Z",
+       "teaserCaption": "The Social Affairs and Health Committee of the National Council wants to finance the additional pension solely through an increase in value-added tax. It rejects an increase in payroll contributions – thus opposing the committee of the Council of States.",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/cd6f5c95-b628-4964-9e19-f7a357efbe8c.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/cd6f5c95-b628-4964-9e19-f7a357efbe8c.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/cd6f5c95-b628-4964-9e19-f7a357efbe8c.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/13-ahv-rente-die-mehrwertsteuer-muss-reichen-ld.1934242",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 469,
+       "leadText": "The Social Affairs and Health Committee of the National Council wants to finance the additional pension solely through an increase in value-added tax. It rejects an increase in payroll contributions – thus opposing the committee of the Council of States.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "comments-preview",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Trade unions demand a 13th pension fund annuity: That’s a crazy idea",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1024&quality=75&auto=webp",
+   "width": 6915,
+   "height": 4609,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6915,3890,x0,y417"
+    },
+    {
+     "name": "4:3",
+     "crop": "6145,4609,x770,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4609,4609,x2217,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3457,4609,x3366,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6914,4609,x1,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+   "teaserAuthor": "Keystone"
+  },
+  "teaserAuthor": "Keystone",
+  "flag": "Opinion",
+  "nzzId": "ld.10020531",
+  "readingTime": 180,
+  "characterCount": 4125,
+  "showComments": true,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020531,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T03:54:22.264Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+  "nzzAuthors": [
+   {
+    "id": 1373625,
+    "name": "Albert Steck",
+    "shortName": "sal",
+    "pianoId": "a0da573e-b238-491b-9589-c45c1348278f",
+    "external": false
+   }
+  ],
+  "authorLine": "Albert Steck",
+  "authorImage": {
+   "originalUrl": "/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+   "width": 572,
+   "height": 643,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "572,572,x0,y36"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1723376,
+    "name": "Albert Steck (sal.) | NZZ Imprint",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/11/716756e2-6f22-4d78-aef2-faae8647d44f.png?width=1024&quality=75&auto=webp",
+  "url": "/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 616,
+  "leadText": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+  "nzzSummaryEN": "- The Swiss Federation of Trade Unions is calling for a 13th pension fund payment, a move criticized as unrealistic and out of sync with the capital-funded system of pension funds.\n- Critics argue that an additional payment would either reduce retirees' savings or jeopardize the financial reserves of pension funds, which are crucial for long-term stability and returns.\n- The demand could also increase pressure on pension funds to achieve higher investment returns, conflicting with the goal of maintaining stable asset management.",
+  "nzzSummaryDE": "- The Swiss Federation of Trade Unions is demanding a 13th pension payment, which is criticized as unrealistic and incompatible with the system, since pension funds operate on a capital funding basis.\n - It is argued that an additional pension either reduces the savings of pensioners or jeopardizes the financial reserves of pension funds, which are important for long-term stability and returns.\n - The demand could also increase the pressure on pension funds to achieve higher investment returns, which conflicts with the goal of stable asset management.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Absurd idea of ​​a 13th pension payment",
+  "nzzPrintSubtitle": "The trade union federation is demanding a 13th pension payment – ​​but the calculation doesn't add up",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+   "title": "Why a 13th pension payment is not a good idea",
+   "socialMediaTitle": "Why a 13th pension payment is not a good idea",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6915,3890,x0,y417&wmark=nzz"
+  },
+  "ldPublicationId": 2483179,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "retirement provision",
+    "slug": "/themen/altersvorsorge"
+   },
+   {
+    "name": "Pension fund",
+    "slug": "/themen/pensionskasse"
+   },
+   {
+    "name": "AHV",
+    "slug": "/themen/ahv"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 31,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "Andreae Lamprecht",
+     "text": "The unions are making a mockery of the right of initiative. Will we be voting on the weather next? Only someone who doesn't understand the system (accumulated individual contributions result in an individual outcome, which is converted into a pension and/or lump-sum payment upon retirement) could demand such nonsense. If one were to divide the individual savings result into 13 pension payments, the monthly pension payment would, purely mathematically, have to decrease. A «miraculous multiplication of money» cannot be achieved, even by a referendum. Proposal: Should this initiative be successful, it should be declared invalid. In effect, the unions want to nationalize the pension fund system. This amounts to the expropriation of all contributors. The constitution, however, guarantees property rights.",
+     "created_at": "2026-08-26T12:53:36.068Z",
+     "like_count": 4,
+     "isPro": true,
+     "isNzz": false
+    },
+    {
+     "author_name": "Martin Vetterli",
+     "text": "My commentary on this topic, which I've already condensed, is unfortunately about 450 characters too long at around 1200 characters. Anyone interested can read my contribution to the article «Trade Union Demands ‹Thirteenth› from Pension Fund» in the Cash section. It will probably only be published tomorrow, August 26, 2026.",
+     "created_at": "2026-08-25T18:26:17.131Z",
+     "like_count": 0,
+     "isPro": false,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10020333",
+    "ld.10013411",
+    "ld.1934242"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 269664,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "altersvorsorge",
+   "name": "retirement provision",
+   "tagName": "retirement provision",
+   "qId": "Q59284889",
+   "seoTitle": "Retirement planning – All news and articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 17:41:21.769Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/altersvorsorge",
+   "size": 2001,
+   "relatedTopics": [
+    {
+     "name": "Pensionskasse",
+     "slug": "/themen/pensionskasse"
+    },
+    {
+     "name": "AHV",
+     "slug": "/themen/ahv"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Pension or Capital: How to Avoid Risks and Misadvice in Retirement",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/f0813db4-91dd-495e-92b6-187f05d07cd7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5523,
+     "height": 3682,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5523,3107,x0,y450"
+      },
+      {
+       "name": "4:3",
+       "crop": "4909,3630,x97,y26"
+      },
+      {
+       "name": "1:1",
+       "crop": "2515,2515,x0,y753"
+      },
+      {
+       "name": "3:4",
+       "crop": "2283,3043,x2985,y639"
+      },
+      {
+       "name": "3:2",
+       "crop": "5523,3682,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+     "teaserAuthor": "Christof Schuerpf / Keystone"
+    },
+    "teaserAuthor": "Christof Schuerpf / Keystone",
+    "nzzId": "ld.10021795",
+    "readingTime": 360,
+    "paywallQuestionOne": "What risks are associated with withdrawing capital from the pension fund?",
+    "paywallQuestionTwo": "How do conflicts of interest affect retirement planning advice?",
+    "paywallQuestionThree": "What role does health play in the decision between pension and capital?",
+    "characterCount": 7507,
+    "product": "NZZ.ch",
+    "documentId": "10021795",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T08:54:38.928Z",
+    "publicationLastUpdated": "2026-09-02T16:01:39.649Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T20:54:38.928Z",
+    "teaserCaption": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+    "authorLine": "Michael Ferber",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/finanzen/rente-oder-kapital-so-vermeiden-sie-fehlentscheidungen-bei-der-pensionierung-ld.10021795",
+    "department": {
+     "name": "Finance",
+     "path": "/finanzen"
+    },
+    "estimationWordCount": 1115,
+    "leadText": "More and more retirees choose a capital payment instead of a pension when drawing their pension fund assets. This decision carries risks. The pension fund association reacts.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Employers accept VAT increase for 13th AHV pension",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/efee0c33-6678-46ea-9b1e-52a3b256e330.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/efee0c33-6678-46ea-9b1e-52a3b256e330.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2250,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y281"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2250,2250,x375,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1688,2250,x656,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y125"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Relieved that a mixed financing model involving wage percentages had been prevented, the employers' association decided to allow its members a free vote on financing the old-age and survivors' insurance (AHV) through a value-added tax increase. The unions had bet on this outcome.",
+     "teaserAuthor": "Illustration by Anja Lemcke / NZZ"
+    },
+    "teaserAuthor": "Illustration by Anja Lemcke / NZZ",
+    "nzzId": "ld.10020434",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why do employers prefer a VAT increase to wage percentages?",
+    "paywallQuestionTwo": "What political risks does the FDP's stance on tax increases entail?",
+    "paywallQuestionThree": "How do trade unions plan to abolish the pension cap for married couples?",
+    "characterCount": 4213,
+    "product": "NZZ.ch",
+    "documentId": "10020434",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T14:14:19.727Z",
+    "publicationLastUpdated": "2026-08-21T16:13:20.834Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T02:14:19.727Z",
+    "teaserCaption": "Relieved that a mixed financing model involving wage percentages had been prevented, the employers' association decided to allow its members a free vote on financing the old-age and survivors' insurance (AHV) through a value-added tax increase. The unions had bet on this outcome.",
+    "authorLine": "Christina Neuhaus",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/da505cf8-75b9-421a-b1c1-b04f1fde5265.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/arbeitgeber-nehmen-mehrwertsteuererhoehung-fuer-13-ahv-rente-in-kauf-ld.10020434",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 635,
+    "leadText": "Relieved that a mixed financing model involving wage percentages had been prevented, the employers' association decided to allow its members a free vote on financing the old-age and survivors' insurance (AHV) through a value-added tax increase. The unions had bet on this outcome.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Working until 66? Unlike Switzerland, Liechtenstein is addressing this discussion",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Günther Meier, Vaduz",
+    "teaserImage": {
+     "originalUrl": "/2026/08/18/9e2fad17-f16e-4250-a5b3-1663812d7ba0.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/18/9e2fad17-f16e-4250-a5b3-1663812d7ba0.jpg?width=1024&quality=75&auto=webp",
+     "width": 7813,
+     "height": 5209,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7813,4395,x0,y219"
+      },
+      {
+       "name": "4:3",
+       "crop": "6945,5209,x240,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5209,5209,x1471,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3907,5209,x1404,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7813,5209,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Four-part package of measures for long-term pension security",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10019748",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is raising the retirement age necessary in Liechtenstein?",
+    "paywallQuestionTwo": "How can the AHV reserves be secured in the long term?",
+    "paywallQuestionThree": "What role does value added tax play in the financing of the AHV (Swiss old-age and survivors' insurance)?",
+    "characterCount": 5843,
+    "product": "NZZ.ch",
+    "documentId": "10019748",
+    "layout": "regular",
+    "publicationDate": "2026-08-19T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-19T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-19T15:30:00.000Z",
+    "teaserCaption": "Four-part package of measures for long-term pension security",
+    "url": "https://www.nzz.ch/schweiz/arbeiten-bis-66-anders-als-die-schweiz-stellt-sich-liechtenstein-dieser-diskussion-ld.10019748",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 830,
+    "leadText": "Four-part package of measures for long-term pension security",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Of course I rejected the 13th AHV pension,» says the 72-year-old owner of the «Rheinfelder Bierhalle»: Why some people work longer than they have to",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y1378"
+      },
+      {
+       "name": "4:3",
+       "crop": "3005,2254,x644,y1350"
+      },
+      {
+       "name": "1:1",
+       "crop": "1696,1696,x1254,y1381"
+      },
+      {
+       "name": "3:4",
+       "crop": "3005,4007,x574,y1129"
+      },
+      {
+       "name": "3:2",
+       "crop": "3005,2004,x630,y1373"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A quarter of all employees remain in their jobs beyond retirement age. Three of them say what motivates them."
+    },
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/bfa68e53-8ed5-4e03-8547-c022e358c5a4.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3005,1691,x534,y1346"
+      },
+      {
+       "name": "1:1",
+       "crop": "958,958,x1695,y1289"
+      },
+      {
+       "name": "4:3",
+       "crop": "2484,1863,x858,y1190"
+      },
+      {
+       "name": "3:4",
+       "crop": "2732,3643,x736,y1275"
+      },
+      {
+       "name": "3:2",
+       "crop": "2732,1822,x809,y1233"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/12/d1b16076-e9ca-4c27-9e41-d486fbcecffc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/d1b16076-e9ca-4c27-9e41-d486fbcecffc.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y1628"
+      },
+      {
+       "name": "1:1",
+       "crop": "1053,1053,x1537,y1706"
+      },
+      {
+       "name": "4:3",
+       "crop": "3306,2479,x358,y1553"
+      },
+      {
+       "name": "3:4",
+       "crop": "3005,4007,x560,y1419"
+      },
+      {
+       "name": "3:2",
+       "crop": "3636,2425,x364,y1646"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10017734",
+    "readingTime": 600,
+    "paywallQuestionOne": "Why do many people voluntarily work beyond retirement age?",
+    "paywallQuestionTwo": "What factors influence the decision to continue working after retirement?",
+    "paywallQuestionThree": "How does the government intend to make working over 65 more attractive?",
+    "characterCount": 11487,
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/12/5e4f4eea-e6b0-4253-a9e4-1974045c0edd.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/12/5e4f4eea-e6b0-4253-a9e4-1974045c0edd.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y1611"
+      },
+      {
+       "name": "1:1",
+       "crop": "1402,1402,x1361,y1553"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x0,y1297"
+      },
+      {
+       "name": "3:4",
+       "crop": "3306,4407,x405,y1173"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y1667"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "product": "NZZ.ch",
+    "documentId": "10017734",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-13T03:00:00.000Z",
+    "publicationLastUpdated": "2026-08-13T09:22:26.224Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-13T15:00:00.000Z",
+    "teaserCaption": "A quarter of all employees remain in their jobs beyond retirement age. Three of them say what motivates them.",
+    "authorLine": "Isabel Heusser, Claudia Rey (text), Annick Ramp (images)",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/arbeiten-mit-ue65-in-zuerich-ein-beizer-eine-coach-und-ein-schauspieler-erzaehlen-ld.10017734",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1916,
+    "leadText": "A quarter of all employees remain in their jobs beyond retirement age. Three of them say what motivates them.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Stock saving with the president: Seven million children in America already have a «Trump Account»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2024/11/06/543352da-2ab9-4eba-8f09-657a8d674b61.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/11/06/543352da-2ab9-4eba-8f09-657a8d674b61.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5000,
+     "height": 3389,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5000,2812,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4519,3389,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3389,3389,x806,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2542,3389,x1229,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5000,3333,x0,y28"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The American government wants to introduce new segments of the population to the stock market and combat high levels of inequality. Billionaires think the project is excellent – in part because it could take the wind out of the sails of left-wing calls for wealth taxes.",
+     "teaserAuthor": "Brian Snyder / Reuters"
+    },
+    "teaserAuthor": "Brian Snyder / Reuters",
+    "nzzId": "ld.10018055",
+    "readingTime": 300,
+    "paywallQuestionOne": "How do the «Trump Accounts» promote financial participation in the USA?",
+    "paywallQuestionTwo": "What criticisms are there of the «Trump Accounts»?",
+    "paywallQuestionThree": "How could the «Trump Accounts» be preserved in the long term?",
+    "characterCount": 6314,
+    "product": "NZZ.ch",
+    "documentId": "10018055",
+    "layout": "regular",
+    "publicationDate": "2026-08-05T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-05T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-05T15:30:00.000Z",
+    "teaserCaption": "The American government wants to introduce new segments of the population to the stock market and combat high levels of inequality. Billionaires think the project is excellent – in part because it could take the wind out of the sails of left-wing calls for wealth taxes.",
+    "authorLine": "André Müller, New York",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/07/09/45899021-5ac5-4cf6-a73e-76ce20b38c9c.jpeg?crop=5404,5404,x1351,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/aktiensparen-mit-dem-praesidenten-schon-sieben-millionen-kinder-in-amerika-haben-einen-trump-account-ld.10018055",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 917,
+    "premium": true,
+    "leadText": "The American government wants to introduce new segments of the population to the stock market and combat high levels of inequality. Billionaires think the project is excellent – in part because it could take the wind out of the sails of left-wing calls for wealth taxes.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Lump-sum withdrawals at retirement and the risk of future increases in supplementary benefits",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Roman von Ah",
+    "flag": "Guest opinion",
+    "editor": "1373665",
+    "teaserImage": {
+     "originalUrl": "/2021/12/22/0920b0ed-a96d-49cb-996f-042f12508dd2.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/12/22/0920b0ed-a96d-49cb-996f-042f12508dd2.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5568,
+     "height": 3712,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5568,3132,x0,y580"
+      },
+      {
+       "name": "4:3",
+       "crop": "4949,3712,x619,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3712,3712,x1856,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2784,3712,x2018,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5568,3712,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Not every withdrawal of capital from a pension fund is wrong. However, those who consume their retirement savings or invest them unfavorably will later fall into the supplementary benefits system.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "characterCount": 3965,
+    "nzzId": "ld.10014326",
+    "readingTime": 180,
+    "paywallQuestionOne": "What risks are associated with withdrawing capital from the pension fund?",
+    "paywallQuestionTwo": "Why should the capital withdrawal be more strictly limited?",
+    "paywallQuestionThree": "How does a capital withdrawal affect social security?",
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10014326",
+    "layout": "opinion",
+    "publicationDate": "2026-08-05T03:23:00.000Z",
+    "publicationLastUpdated": "2026-08-05T03:55:31.152Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-05T15:23:00.000Z",
+    "teaserCaption": "Not every withdrawal of capital from a pension fund is wrong. However, those who consume their retirement savings or invest them unfavorably will later fall into the supplementary benefits system.",
+    "url": "https://www.nzz.ch/meinung/kapitalbezug-bei-pensionierung-und-das-risiko-zukuenftig-steigender-ergaenzungsleistungen-ld.10014326",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 532,
+    "leadText": "Not every withdrawal of capital from a pension fund is wrong. However, those who consume their retirement savings or invest them unfavorably will later fall into the supplementary benefits system.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020531",
+    "name": "Trade unions demand a 13th pension fund annuity: That’s a crazy idea",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Trade unions demand a 13th pension fund annuity: That’s a crazy idea",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373625,
+       "name": "Albert Steck",
+       "shortName": "sal",
+       "pianoId": "a0da573e-b238-491b-9589-c45c1348278f",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T03:54:22.264Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020531",
+   "pageType": "opinion",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Why a 13th pension payment is not a good idea",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6915,3890,x0,y417&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Albert Steck",
+  "description": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+  "news_keywords": "The unions are demanding a 13th pension payment: That's a hare-brained scheme, commentary, opinion, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T07:54:22+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "COMMENTARY - The unions are demanding a 13th pension payment: That's a hare-brained idea",
+  "ogTitle": "Why a 13th pension payment is not a good idea",
+  "ogUrl": "https://www.nzz.ch/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+  "mrf:cms_id": "nzz:ld.10020531",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020531",
+  "nzzAuthors": [
+   {
+    "id": 1373625,
+    "name": "Albert Steck",
+    "shortName": "sal",
+    "pianoId": "a0da573e-b238-491b-9589-c45c1348278f",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:27 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Why a 13th pension payment is not a good idea"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531"
+   },
+   "headline": "Why a 13th pension payment is not a good idea",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T07:54:22+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6915,3890,x0,y417&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Albert Steck"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 269664,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531",
+    "classification=default",
+    "relevance=germany",
+    "layout=opinion",
+    "kommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020531",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Albert Steck",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie beeinflusst die 13. PK-Rente die finanzielle Stabilität der Pensionskassen?\nIst es sinnvoll, die Reserven der Pensionskassen für eine 13. Rente zu nutzen?\nWelche Risiken birgt die Forderung für die langfristige Vorsorge in der Schweiz?",
+   "ldId": "ld.10020531",
+   "channel": "Meinung",
+   "heading": "Die Gewerkschaften verlangen eine 13. Pensionskassenrente: Das ist eine Schnapsidee",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

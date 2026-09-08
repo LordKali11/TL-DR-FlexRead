@@ -1,0 +1,1429 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jeoltl0i0",
+   "content": {
+    "title": "Nourished, but Not Without Wishes",
+    "lead": "«An Chay» near Bullingerplatz boasts of being Zurich’s first vegetarian Vietnamese restaurant. Is that enough to impress?",
+    "authorline": "Urs Bühler",
+    "author": "Urs Bühler"
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-xvkUfzX1S8",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Urs Bühler",
+       "url": "/impressum/urs-buehler-ld.1731042",
+       "teaserImage": {
+        "originalUrl": "/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+        "width": 480,
+        "height": 640,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "480,270,x0,y141"
+         },
+         {
+          "name": "1:1",
+          "crop": "480,480,x0,y80"
+         },
+         {
+          "name": "4:3",
+          "crop": "480,360,x0,y140"
+         },
+         {
+          "name": "3:4",
+          "crop": "480,640,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1i46lqusn0",
+   "content": {
+    "image": {
+     "author": "Illustration by Benedikt Rugar <strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong>",
+     "caption": "",
+     "originalUrl": "/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?crop=579,579,x0,y0",
+     "width": 579,
+     "height": 579,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 579,
+      "height": 579,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 579,
+       "height": 579,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Illustration by Benedikt Rugar <strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong>",
+    "caption": ""
+   },
+   "data": {
+    "_authorDirective": {},
+    "_sourceDirective": {
+     "highlightedTextRanges": {
+      "I8CxEtpISmh8": {
+       "start": 27,
+       "end": 27,
+       "text": "It preserves the herb and refines it at the same time."
+      },
+      "ktDR703ozegi": {
+       "start": 27,
+       "end": 27,
+       "text": "light"
+      },
+      "bUb-WJw6cdUh": {
+       "start": 27,
+       "end": 27,
+       "text": "b"
+      }
+     }
+    }
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgb0lc0",
+   "content": {
+    "text": "The area around Zurich’s Lochergut has transformed from a bleak and joyless patch into the city’s most vibrant culinary district. It seems almost everything launched there turns into a hype, from kebab shops to gelaterias and bars."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-685897ff",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ph8nut1",
+   "content": {
+    "text": "In the orbit of this success story, Bullingerplatz has also risen to become a popular meeting point. Against the backdrop of the peculiar church tower, which resembles a bookshelf, young people gather on mild evenings in the square’s center around the fountain, sitting on the asphalt among potted plants. Those who prefer to sit at a table seek their luck in front of the «Café du Bonheur» or, across the way, have been spoiled for eight years by the excellent «Barranco» with its Peruvian creations."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pi1nv10",
+   "content": {
+    "image": {
+     "author": "Urs Bühler",
+     "caption": "Bullingerplatz becomes a popular meeting point on mild evenings.",
+     "originalUrl": "/2026/08/24/8e33873e-6402-4f18-95fc-e0960cf11fb6.jpg?crop=5712,4284,x0,y0",
+     "width": 5712,
+     "height": 4284,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5712,
+      "height": 4284,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5712,
+       "height": 4284,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Bullingerplatz becomes a popular meeting point on mild evenings.",
+    "author": "Urs Bühler"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0phaa080",
+   "content": {
+    "text": "Half as old is «An Chay,» located just around the corner, facing away from the square. Its offerings, particularly the filled baguettes, had become popular with pop-ups during the Corona era before it settled in here and triggered collective ecstasy across various channels. Its concept reads like a checklist for trend followers: Vietnamese cuisine, natural wines including sparkling Pet Nat, and vegetarianism. Its name means «meatless eating,» which perfectly suits the diet of my goddaughter and her partner. So, off we go together!"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0phljhq0",
+   "content": {
+    "text": "However, the slogan «The first meatless Vietnamese cuisine in Zurich» seems a bit exaggerated, as the selection of vegetarian dishes in East Asian restaurants is traditionally large. Nevertheless, the option to replace the standard fish sauce with a soy-garlic sauce upon request can be considered innovative."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgb0li0",
+   "content": {
+    "text": "We take a seat on the small terrace, which, like the interior, is simply furnished with beer garden tables and a few plastic stools. To welcome us, a sip of the house’s cold tea is brought, a nice gesture, but the service unfortunately remains impersonal throughout the rest of the evening. They merely take the order instead of advising the guests. Unaware of the portion sizes, we promptly order too much from the menu, which is not handed out but must be accessed via a QR code on a mobile phone. It is consistently in English, which in this «very cosmopolitan city» will probably soon be considered normal."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgb0li1",
+   "content": {
+    "text": "The «Won Ton Garden» (16 Swiss francs) are an impeccable appetizer: dumplings with a hearty chili-peanut-sesame paste on a bed of still slightly crisp pak choi. «Com Bi Cha» (31 francs), on the other hand, a kind of best-of plate with the label «the no brainer,» proves to be a wild potpourri, from tofu sausage on skewers to panko-breaded mushrooms and a few cucumber slices. In the stew-like «Banh Canh Xao» (25 francs) with lotus roots, the overcooked udon noodles lack the captivating smoothness that ideally characterizes them. And the enjoyment of the mushroom dish «Nam Kho Tieu» (25 francs) is diminished by a significantly too salty soy sauce."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgb0lj1",
+   "content": {
+    "text": "Generally, we don’t miss meat here, but we do miss the refined interplay of sweetness, acidity, and textures that has impressed us in other Vietnamese restaurants in the city. We have also experienced more attention to detail in plating there. It may be that the kitchen and service were having an off day during our visit – it wasn’t excessively hot – but despite moderate prices, what was offered didn’t impress either of the two twentysomethings or the near-boomer. We cannot join in the hymns of praise that began after the opening four years ago."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pi221d0",
+   "content": {
+    "image": {
+     "author": "Urs Bühler",
+     "caption": "A bright spot: the «Coconut Island» dessert.",
+     "originalUrl": "/2026/08/24/39041670-7969-4e1d-8064-2d24bf840af7.jpg?crop=3024,3024,x0,y558",
+     "width": 3024,
+     "height": 4032,
+     "crop": {
+      "x": 0,
+      "y": 558,
+      "width": 3024,
+      "height": 3024,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 558,
+       "width": 3024,
+       "height": 3024,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A bright spot: the «Coconut Island» dessert.",
+    "author": "Urs Bühler"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0phivq10",
+   "content": {
+    "text": "The homemade iced teas and lemonades (from 7 francs) are refreshing, and among the desserts, the «Coconut Island» (14 francs) becomes a bright spot: finely diced mango, soy-caramel sauce, and delicate coconut ice cream, flanked by finger-long, crispy cassava cake sticks reminiscent of Kaiserschmarren or Fotzelschnitten."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pi261g0",
+   "content": {
+    "image": {
+     "author": "urs.",
+     "caption": "No, this affogato is no good.",
+     "originalUrl": "/2026/08/24/b3813260-4f05-4c68-bb3e-a24f9f4f2d7c.jpg?crop=3024,4032,x0,y0",
+     "width": 3024,
+     "height": 4032,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3024,
+      "height": 4032,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3024,
+       "height": 4032,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "No, this affogato is no good.",
+    "author": "urs."
+   },
+   "styles": {
+    "fullwidth-widget": "widget--right"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pkrvqk0",
+   "content": {
+    "text": "Finally, the coffee specialties bridge Asia and Europe: in addition to the Vietnamese-style filter coffee (6 francs), now also known in Zurich, which drips through a sieve into a glass with sweetened condensed milk at the bottom, there is the Saigonese Affogato variation (8.50 francs)."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uhats30",
+   "content": {
+    "text": "That this is prepared with Fior di Latte instead of vanilla ice cream, like almost all affogatos in the city, delights connoisseurs. However, this anticipation soon gives way to disillusionment: by the time the coffee has dripped through the sieve, the ice cream has completely melted – and into a gritty rather than creamy consistency. The vegan ice cream used seems unsuitable for this specialty. We prefer the less hip Italian place around the corner."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k0pgb0lk1",
+   "content": {
+    "text": "<a href=\"https://www.anchayzurich.com/\">An Chay</a><br>Zypressenstrasse 94, 8004 Zürich<br>Closed Sundays and Mondays<br>Telephone 044 621 08 40"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js9flll30",
+   "content": {
+    "text": "<em>For this column, tests are conducted unannounced and anonymously, and the bill is always paid at the end. The focus is on establishments in Zurich and the region, with occasional detours to other parts of the country.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jeoltl0j9",
+   "content": {
+    "text": "<a href=\"https://www.nzz.ch/gesellschaft/tisch-oder-theke\">You can find the collection of all NZZ restaurant reviews from the last five years here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jeoltl0k0",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jeoltl0k1",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jq8snh8h0",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Ice-cold secrets: How ice cream leads us to the trail of the lost summer",
+       "teaserImage": {
+        "originalUrl": "/2024/08/02/f854b006-ba0b-4b64-a7de-3395e9be0048.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/02/f854b006-ba0b-4b64-a7de-3395e9be0048.jpeg?width=1024&quality=75&auto=webp",
+        "width": 704,
+        "height": 704,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "704,396,x0,y65"
+         },
+         {
+          "name": "1:1",
+          "crop": "704,704,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "704,528,x0,y43"
+         },
+         {
+          "name": "3:4",
+          "crop": "528,704,x88,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "One might think that the main thing is that it's cold and sweet. But ice cream can be so much more – and is also a time machine. A journey to meet people who know a great deal about it, from Milan to Bern."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1842161",
+       "readingTime": 1020,
+       "authorLine": "Urs Bühler",
+       "characterCount": 23016,
+       "product": "NZZ.ch",
+       "documentId": 1842161,
+       "layout": "regular",
+       "publicationDate": "2024-08-10T19:45:00.000Z",
+       "publicationLastUpdated": "2024-08-10T19:45:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-08-11T07:45:00.000Z",
+       "teaserCaption": "One might think that the main thing is that it's cold and sweet. But ice cream can be so much more – and is also a time machine. A journey to meet people who know a great deal about it, from Milan to Bern.",
+       "url": "/gefrorene-erinnerungen-wie-glace-die-aromen-der-kindheit-einfaengt-ld.1842161",
+       "department": {
+        "name": "Home",
+        "path": "/startseite"
+       },
+       "estimationWordCount": 3400,
+       "leadText": "One might think that the main thing is that it's cold and sweet. But ice cream can be so much more – and is also a time machine. A journey to meet people who know a great deal about it, from Milan to Bern."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jeoltl0k3",
+      "content": {
+       "owner": "NZZ",
+       "title": "For 27 years, he enlivened Zurich's lakeside promenade with «Gelati am See» (Gelato by the Lake). But one day in July, Daniel Kissling knew: «This is my last day.»",
+       "teaserImage": {
+        "originalUrl": "/2022/07/21/5f9d7b4d-da7d-4979-bff1-6ea21574ac0c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/21/5f9d7b4d-da7d-4979-bff1-6ea21574ac0c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4622,
+        "height": 3081,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4108,2311,x279,y769"
+         },
+         {
+          "name": "1:1",
+          "crop": "949,949,x1482,y1496"
+         },
+         {
+          "name": "4:3",
+          "crop": "3652,2739,x591,y342"
+         },
+         {
+          "name": "3:4",
+          "crop": "1443,1923,x1369,y968"
+         },
+         {
+          "name": "3:2",
+          "crop": "3652,2434,x538,y646"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Summer after summer, long queues formed in front of the stand at the Riesbach harbor in Zurich. Now it is gone forever.",
+        "teaserAuthor": "Photos by Annick Ramp / NZZ"
+       },
+       "teaserAuthor": "Photos by Annick Ramp / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2022/07/21/5f9d7b4d-da7d-4979-bff1-6ea21574ac0c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/21/5f9d7b4d-da7d-4979-bff1-6ea21574ac0c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4622,
+        "height": 3081,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4108,2311,x364,y769"
+         },
+         {
+          "name": "1:1",
+          "crop": "1351,1351,x1397,y794"
+         },
+         {
+          "name": "4:3",
+          "crop": "3652,2739,x575,y342"
+         },
+         {
+          "name": "3:4",
+          "crop": "1623,2164,x1161,y897"
+         },
+         {
+          "name": "3:2",
+          "crop": "4108,2739,x372,y342"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2022/07/21/7050cf38-8c9d-4410-8694-83ce6cf5cba0.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/21/7050cf38-8c9d-4410-8694-83ce6cf5cba0.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4650,
+        "height": 3100,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4650,2616,x0,y252"
+         },
+         {
+          "name": "1:1",
+          "crop": "1935,1935,x1212,y271"
+         },
+         {
+          "name": "4:3",
+          "crop": "3674,2755,x831,y345"
+         },
+         {
+          "name": "3:4",
+          "crop": "1837,2449,x1263,y605"
+         },
+         {
+          "name": "3:2",
+          "crop": "4133,2755,x517,y345"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1899716",
+       "readingTime": 360,
+       "authorLine": "Urs Bühler",
+       "characterCount": 7967,
+       "product": "NZZ.ch",
+       "documentId": 1899716,
+       "layout": "longformstandard",
+       "publicationDate": "2025-09-02T03:05:00.000Z",
+       "publicationLastUpdated": "2025-09-02T03:05:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-09-02T15:05:00.000Z",
+       "teaserCaption": "Summer after summer, long queues formed in front of the stand at the Riesbach harbor in Zurich. Now it is gone forever.",
+       "authorImage": {
+        "originalUrl": "/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+        "width": 480,
+        "height": 640,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "480,480,x0,y80"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/abschied-gelati-am-see-dem-legendaeren-zuercher-glacestand-ld.1899716",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 1271,
+       "leadText": "Summer after summer, long queues formed in front of the stand at the Riesbach harbor in Zurich. Now it is gone forever.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jeoltl0k2",
+      "content": {
+       "owner": "NZZaS",
+       "title": "What makes the ice cream so colorful? Food colorings have a bad reputation – not always deservedly",
+       "teaserImage": {
+        "originalUrl": "/2025/06/30/bf25d576-93e1-45bc-b243-10aadf1d25f3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/06/30/bf25d576-93e1-45bc-b243-10aadf1d25f3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 3688,
+        "height": 2399,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "3688,2074,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2399,2399,x833,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3199,2399,x489,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1799,2399,x866,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3599,2399,x89,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "From bright green ice cream to vibrant orange aperitifs and salmon substitutes: many foods are visually enhanced with colorings. What are these colors? And how harmful are they to our health? A brief guide to food.",
+        "teaserAuthor": "Vadim Zaitsev / Getty"
+       },
+       "teaserAuthor": "Vadim Zaitsev / Getty",
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1890871",
+       "readingTime": 360,
+       "authorLine": "Georg Rüschemeyer",
+       "characterCount": 8702,
+       "product": "NZZ.ch",
+       "documentId": 1890871,
+       "layout": "longformstandard",
+       "publicationDate": "2025-07-06T03:30:00.000Z",
+       "publicationLastUpdated": "2025-07-06T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-07-06T15:30:00.000Z",
+       "teaserCaption": "From bright green ice cream to vibrant orange aperitifs and salmon substitutes: many foods are visually enhanced with colorings. What are these colors? And how harmful are they to our health? A brief guide to food.",
+       "url": "/wissenschaft/was-macht-die-glace-so-bunt-farbstoffe-im-essen-haben-ein-schlechtes-image-nicht-immer-zu-recht-ld.1890871",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 1235,
+       "leadText": "From bright green ice cream to vibrant orange aperitifs and salmon substitutes: many foods are visually enhanced with colorings. What are these colors? And how harmful are they to our health? A brief guide to food.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Meat-fed, but not without needs",
+  "teaserImage": {
+   "originalUrl": "/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=1024&quality=75&auto=webp",
+   "width": 579,
+   "height": 579,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "579,326,x0,y127"
+    },
+    {
+     "name": "4:3",
+     "crop": "579,434,x0,y72"
+    },
+    {
+     "name": "1:1",
+     "crop": "579,579,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "434,579,x72,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "579,386,x0,y97"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The «An Chay» restaurant near Bullingerplatz boasts being Zurich's first vegetarian Vietnamese restaurant. But is that enough to impress?",
+   "teaserAuthor": "Illustration by Benedikt Rugar"
+  },
+  "teaserAuthor": "Illustration by Benedikt Rugar",
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "tags": [
+   "Zürich Restaurantkritiken"
+  ],
+  "authorLine": "Urs Bühler",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 240,
+  "dependencies": {},
+  "nzzId": "ld.10020766",
+  "characterCount": 4885,
+  "breadcrumbs": [
+   {
+    "name": "Society",
+    "path": "/gesellschaft"
+   },
+   {
+    "name": "table or counter",
+    "path": "/gesellschaft/tisch-oder-theke"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020766,
+  "contentTypeGroup": "web",
+  "layout": "opinion",
+  "firstPublicationDate": "2026-08-27T10:54:51.839Z",
+  "publicationDate": "2026-08-27T10:54:51.839Z",
+  "publicationLastUpdated": "2026-08-28T05:28:42.649Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T22:54:51.839Z",
+  "teaserCaption": "The «An Chay» restaurant near Bullingerplatz boasts being Zurich's first vegetarian Vietnamese restaurant. But is that enough to impress?",
+  "nzzAuthors": [
+   {
+    "id": 1373965,
+    "name": "Urs Bühler",
+    "shortName": "urs",
+    "pianoId": "b6536f8d-9173-43a4-b808-069b66ec8fef",
+    "external": false
+   }
+  ],
+  "authorImage": {
+   "originalUrl": "/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+   "width": 480,
+   "height": 640,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "480,480,x0,y80"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1731042,
+    "name": "Imprint: Urs Bühler",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/03/17/2f1edc23-be4f-44bd-9e40-f967e1c2d731.webp?width=1024&quality=75&auto=webp",
+  "url": "/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766",
+  "department": {
+   "name": "table or counter",
+   "path": "/gesellschaft/tisch-oder-theke"
+  },
+  "estimationWordCount": 740,
+  "leadText": "The «An Chay» restaurant near Bullingerplatz boasts being Zurich's first vegetarian Vietnamese restaurant. But is that enough to impress?",
+  "nzzSummaryEN": "- The restaurant \"An Chay\" in Zurich offers Vietnamese vegetarian cuisine but fails to meet expected enthusiasm due to impersonal service and inconsistent dish quality.\n- The dessert \"Coconut Island\" was praised, while other dishes and the innovative claim fell short.",
+  "nzzSummaryDE": "- The restaurant «An Chay» in Zurich offers Vietnamese vegetarian cuisine, but does not elicit the expected enthusiasm due to impersonal service and inconsistent quality of the dishes.\n - The dessert «Coconut Island» was highlighted positively, while other dishes and the innovative claim failed to impress.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "A taste of native soil in a luxury hotel",
+  "nzzPrintSubtitle": "T",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766",
+   "title": "Vegetarian Vietnamese cuisine in Zurich – An Chay analyzes",
+   "socialMediaTitle": "Zurich's first vegetarian Vietnamese restaurant: Hype or disappointment?",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=579&height=326&fit=bounds&quality=75&auto=webp&crop=579,326,x0,y127"
+  },
+  "ldPublicationId": 2484986,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Vegetarian diet",
+    "slug": "/themen/vegetarische-ernahrung"
+   },
+   {
+    "name": "Vietnam",
+    "slug": "/themen/vietnam"
+   },
+   {
+    "name": "Nutrition",
+    "slug": "/themen/ernaehrung"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1842161",
+    "ld.1899716",
+    "ld.1890871"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 310176,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "vegetarische-ernahrung",
+   "name": "Vegetarian diet",
+   "tagName": "Vegetarian diet",
+   "qId": "Q107126067",
+   "seoTitle": "Vegetarian diet – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 19:04:30.227Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/vegetarische-ernahrung",
+   "size": 42,
+   "relatedTopics": [
+    {
+     "name": "Vietnam",
+     "slug": "/themen/vietnam"
+    },
+    {
+     "name": "Ernährung",
+     "slug": "/themen/ernaehrung"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "flag": "interview",
+    "title": "Peter Knogl is one of the best chefs in the world – also because he resists trends: \"We don't look for vegetarian guests.\"",
+    "teaserImage": {
+     "originalUrl": "/2025/12/17/73169608-f572-4923-a550-64d6cc5d3715.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/12/17/73169608-f572-4923-a550-64d6cc5d3715.jpg?width=1024&quality=75&auto=webp",
+     "width": 6720,
+     "height": 4480,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6720,3779,x0,y701"
+      },
+      {
+       "name": "1:1",
+       "crop": "1964,1964,x1485,y1353"
+      },
+      {
+       "name": "4:3",
+       "crop": "5309,3982,x0,y498"
+      },
+      {
+       "name": "3:4",
+       "crop": "2655,3539,x1134,y941"
+      },
+      {
+       "name": "3:2",
+       "crop": "6720,4480,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Why tradition stands the test of time, why foie gras shouldn't be banned, and why visitors are becoming increasingly impatient: the big conversation about top-class gastronomy with the chef of the three-star restaurant \"Cheval Blanc\" in Basel."
+    },
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1916559",
+    "readingTime": 1020,
+    "authorLine": "Sebastian Briellmann, Daniel Gerny (text), Kostas Maros (images)",
+    "characterCount": 20483,
+    "product": "NZZ.ch",
+    "documentId": "1916559",
+    "layout": "longformvisual",
+    "publicationDate": "2025-12-22T04:30:00.000Z",
+    "publicationLastUpdated": "2025-12-23T04:58:58.028Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-12-22T16:30:00.000Z",
+    "teaserCaption": "Why tradition stands the test of time, why foie gras shouldn't be banned, and why visitors are becoming increasingly impatient: the big conversation about top-class gastronomy with the chef of the three-star restaurant \"Cheval Blanc\" in Basel.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/peter-knogl-ist-einer-der-besten-koeche-der-welt-auch-weil-er-trends-widersteht-wir-suchen-den-vegetarischen-gast-nicht-ld.1916559",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 3374,
+    "leadText": "Why tradition stands the test of time, why foie gras shouldn't be banned, and why visitors are becoming increasingly impatient: the big conversation about top-class gastronomy with the chef of the three-star restaurant \"Cheval Blanc\" in Basel.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "Kafka's vegetarian cookbook also contained a recipe called «Tree Frog.» Whether he ever cooked it is not recorded",
+    "teaserImage": {
+     "originalUrl": "/2025/08/06/f81f76e3-82a0-45ab-9985-a6baff65323b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/08/06/f81f76e3-82a0-45ab-9985-a6baff65323b.jpg?width=1024&quality=75&auto=webp",
+     "width": 2400,
+     "height": 1730,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2400,1350,x0,y70"
+      },
+      {
+       "name": "1:1",
+       "crop": "1080,1080,x657,y76"
+      },
+      {
+       "name": "4:3",
+       "crop": "2051,1538,x192,y62"
+      },
+      {
+       "name": "3:4",
+       "crop": "1154,1538,x588,y192"
+      },
+      {
+       "name": "3:2",
+       "crop": "2133,1422,x152,y65"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Prague writer had a complicated relationship with food. He became a vegetarian at the age of twenty.",
+     "teaserAuthor": "Bridgeman/Imago"
+    },
+    "teaserAuthor": "Bridgeman/Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1896498",
+    "readingTime": 240,
+    "authorLine": "Paul Jandl",
+    "characterCount": 4836,
+    "product": "NZZ.ch",
+    "documentId": "1896498",
+    "layout": "regular",
+    "publicationDate": "2025-08-19T03:30:00.000Z",
+    "publicationLastUpdated": "2025-08-19T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-08-19T15:30:00.000Z",
+    "teaserCaption": "The Prague writer had a complicated relationship with food. He became a vegetarian at the age of twenty.",
+    "url": "https://www.nzz.ch/feuilleton/kafkas-kochbuch-der-dichter-war-vegetarier-und-hatte-eine-rezeptsammlung-ld.1896498",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 746,
+    "leadText": "The Prague writer had a complicated relationship with food. He became a vegetarian at the age of twenty.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Guest opinion",
+    "title": "Vegetarianism is a consequence of modern morality",
+    "teaserImage": {
+     "originalUrl": "/2025/03/18/854cccf3-d434-4ae3-b2ec-5b337c053654.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/03/18/854cccf3-d434-4ae3-b2ec-5b337c053654.jpeg?width=1024&quality=75&auto=webp",
+     "width": 7210,
+     "height": 4807,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7210,4056,x0,y376"
+      },
+      {
+       "name": "1:1",
+       "crop": "4807,4807,x1202,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "6409,4807,x400,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3605,4807,x1802,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "There is no longer any need, and therefore no justification, to violate the fundamental interests of animals.",
+     "teaserAuthor": "Michael Bihlmayer / Imago"
+    },
+    "teaserAuthor": "Michael Bihlmayer / Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1874706",
+    "readingTime": 180,
+    "showComments": true,
+    "authorLine": "Sigbert Gebert",
+    "characterCount": 3875,
+    "product": "NZZ.ch",
+    "documentId": "1874706",
+    "layout": "opinion",
+    "publicationDate": "2025-04-18T03:30:00.000Z",
+    "publicationLastUpdated": "2025-04-18T07:23:30.132Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-04-18T15:30:00.000Z",
+    "teaserCaption": "There is no longer any need, and therefore no justification, to violate the fundamental interests of animals.",
+    "url": "https://www.nzz.ch/meinung/vegetarismus-als-konsequenz-der-modernen-moral-ld.1874706",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 562,
+    "leadText": "There is no longer any need, and therefore no justification, to violate the fundamental interests of animals.",
+    "commentsCount": 43,
+    "openToComment": false
+   },
+   {
+    "owner": "NZZaS",
+    "title": "Top chef Pietro Leemann from Ticino explores the spiritual dimension of gourmet culture",
+    "teaserImage": {
+     "originalUrl": "/2024/12/31/bd7ed5a0-b4e0-49e3-aca0-befcab43928d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/12/31/bd7ed5a0-b4e0-49e3-aca0-befcab43928d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4305,
+     "height": 6316,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4305,2422,x0,y1249"
+      },
+      {
+       "name": "1:1",
+       "crop": "3401,3401,x567,y1015"
+      },
+      {
+       "name": "4:3",
+       "crop": "4305,3229,x0,y689"
+      },
+      {
+       "name": "3:4",
+       "crop": "4305,5740,x0,y576"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He was the first in the West to elevate vegetarian cuisine to a gourmet level. People flocked to Milan from all over to dine at his restaurant, Joia. Now Pietro Leemann is returning to Switzerland and seeking radical simplicity in the Centovalli region.",
+     "teaserAuthor": "Stefan Giftthaler"
+    },
+    "teaserAuthor": "Stefan Giftthaler",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1864484",
+    "readingTime": 660,
+    "authorLine": "Marc Zollinger (Text)<br> Stefan Giftthaler (pictures)",
+    "characterCount": 14022,
+    "product": "NZZ.ch",
+    "documentId": "1864484",
+    "layout": "longformstandard",
+    "publicationDate": "2025-01-04T20:45:00.000Z",
+    "publicationLastUpdated": "2025-01-06T18:07:05.489Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-01-05T08:45:00.000Z",
+    "teaserCaption": "He was the first in the West to elevate vegetarian cuisine to a gourmet level. People flocked to Milan from all over to dine at his restaurant, Joia. Now Pietro Leemann is returning to Switzerland and seeking radical simplicity in the Centovalli region.",
+    "url": "https://www.nzz.ch/nzz-am-sonntag-magazin/goettliche-speisen-der-tessiner-spitzenkoch-pietro-leemann-erforscht-die-spirituelle-dimension-der-gourmet-kultur-ld.1864484",
+    "department": {
+     "name": "NZZ am Sonntag Magazine",
+     "path": "/nzz-am-sonntag-magazin"
+    },
+    "estimationWordCount": 2214,
+    "leadText": "He was the first in the West to elevate vegetarian cuisine to a gourmet level. People flocked to Milan from all over to dine at his restaurant, Joia. Now Pietro Leemann is returning to Switzerland and seeking radical simplicity in the Centovalli region."
+   },
+   {
+    "owner": "NZZ",
+    "title": "More and more people want to live a vegetarian lifestyle, but many struggle to do so. Are our genes to blame for our craving for meat?",
+    "teaserImage": {
+     "originalUrl": "/2023/10/03/2e5fc748-253b-4317-926e-b7c5eac827e2.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/10/03/2e5fc748-253b-4317-926e-b7c5eac827e2.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5413,
+     "height": 3609,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5413,3045,x0,y329"
+      },
+      {
+       "name": "1:1",
+       "crop": "3609,3609,x818,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4812,3609,x231,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2707,3609,x1188,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A new study has detected gene variants in strict vegetarians, but not in other individuals. Do these gene variants influence eating habits? A contribution from the «Health is the most important thing» section.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1759086",
+    "readingTime": 180,
+    "authorLine": "Stephanie Lahrtz",
+    "characterCount": 3680,
+    "product": "NZZ.ch",
+    "documentId": "1759086",
+    "layout": "regular",
+    "publicationDate": "2023-10-09T03:30:00.000Z",
+    "publicationLastUpdated": "2023-10-09T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2023-10-09T15:30:00.000Z",
+    "teaserCaption": "A new study has detected gene variants in strict vegetarians, but not in other individuals. Do these gene variants influence eating habits? A contribution from the «Health is the most important thing» section.",
+    "url": "https://www.nzz.ch/wissenschaft/sind-unsere-gene-schuld-wenn-es-mit-dem-strikten-vegetarischen-essen-nicht-klappt-ld.1759086",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 542,
+    "leadText": "A new study has detected gene variants in strict vegetarians, but not in other individuals. Do these gene variants influence eating habits? A contribution from the «Health is the most important thing» section."
+   },
+   {
+    "owner": "NZZ",
+    "flag": "interview",
+    "title": "«There is nothing wrong with feeding children a vegetarian diet.»",
+    "teaserImage": {
+     "originalUrl": "/2023/10/06/c8928939-8720-4f09-b300-4af247f8287d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/10/06/c8928939-8720-4f09-b300-4af247f8287d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5315,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5315,2990,x0,y273"
+      },
+      {
+       "name": "1:1",
+       "crop": "2212,2212,x380,y903"
+      },
+      {
+       "name": "4:3",
+       "crop": "4199,3149,x220,y284"
+      },
+      {
+       "name": "3:4",
+       "crop": "2362,3149,x208,y278"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Children in the primary schools and kindergartens of the German city of Freiburg are now only receiving vegetarian food. This has caused quite a stir. Is it justified? Nutrition expert Esther Schnur offers reassurance.",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1755666",
+    "readingTime": 180,
+    "authorLine": "Fatina Keilani, Berlin",
+    "characterCount": 3720,
+    "product": "NZZ.ch",
+    "documentId": "1755666",
+    "layout": "regular",
+    "publicationDate": "2023-09-11T16:15:53.879Z",
+    "publicationLastUpdated": "2023-10-06T15:41:59.662Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2023-09-12T04:15:53.879Z",
+    "teaserCaption": "Children in the primary schools and kindergartens of the German city of Freiburg are now only receiving vegetarian food. This has caused quite a stir. Is it justified? Nutrition expert Esther Schnur offers reassurance.",
+    "url": "https://www.nzz.ch/international/freiburg-expertin-verteidigt-vegetarische-kost-an-kitas-und-grundschulen-ld.1755666",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 628,
+    "premium": false,
+    "leadText": "Children in the primary schools and kindergartens of the German city of Freiburg are now only receiving vegetarian food. This has caused quite a stir. Is it justified? Nutrition expert Esther Schnur offers reassurance."
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020766",
+    "name": "Meat-fed, but not without needs",
+    "type": "article",
+    "subType1": "opinion",
+    "subType2": "",
+    "primaryCategory": "Gesellschaft",
+    "subCategory1": "Tisch oder Theke",
+    "attributes": {
+     "headline": "Meat-fed, but not without needs",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373965,
+       "name": "Urs Bühler",
+       "shortName": "urs",
+       "pianoId": "b6536f8d-9173-43a4-b808-069b66ec8fef",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T10:54:51.839Z",
+     "updateTimestamp": "2026-08-28T05:28:42.649Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020766",
+   "pageType": "opinion",
+   "primaryCategory": "Gesellschaft",
+   "subCategory1": "Tisch oder Theke",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Vegetarian Vietnamese cuisine in Zurich – An Chay analyzes",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=579&height=326&fit=bounds&quality=75&auto=webp&crop=579,326,x0,y127",
+   "width": 579,
+   "height": 326
+  },
+  "author": "Urs Bühler",
+  "description": "The «An Chay» restaurant near Bullingerplatz boasts being Zurich's first vegetarian Vietnamese restaurant. But is that enough to impress?",
+  "news_keywords": "Meat-eating, but not without needs, table or counter, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-28T09:28:42+02:00",
+  "date": "2026-08-27T14:54:51+02:00",
+  "canonical": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Meat-fed, but not without needs",
+  "ogTitle": "Zurich's first vegetarian Vietnamese restaurant: Hype or disappointment?",
+  "ogUrl": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766",
+  "mrf:cms_id": "nzz:ld.10020766",
+  "mrf:sections": "Gesellschaft;Tisch oder Theke",
+  "mrf:tags": "Page Type:opinion;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020766",
+  "nzzAuthors": [
+   {
+    "id": 1373965,
+    "name": "Urs Bühler",
+    "shortName": "urs",
+    "pianoId": "b6536f8d-9173-43a4-b808-069b66ec8fef",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:42 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/gesellschaft",
+      "name": "Society"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/gesellschaft/tisch-oder-theke",
+      "name": "table or counter"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Vegetarian Vietnamese cuisine in Zurich – An Chay analyzes"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766"
+   },
+   "headline": "Vegetarian Vietnamese cuisine in Zurich – An Chay analyzes",
+   "datePublished": "2026-08-27T14:54:51+02:00",
+   "dateModified": "2026-08-28T09:28:42+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The «An Chay» restaurant near Bullingerplatz boasts being Zurich's first vegetarian Vietnamese restaurant. But is that enough to impress?",
+   "isAccessibleForFree": false,
+   "articleSection": "Tisch oder Theke",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2024/08/01/7b50daef-efd3-4453-a100-55c1f75310d2.gif?width=579&height=326&fit=bounds&quality=75&auto=webp&crop=579,326,x0,y127",
+    "width": 579,
+    "height": 326
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Urs Bühler"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 310176,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/gesellschaft/tisch-oder-theke/fleisch-aber-nicht-wunschlos-genaehrt-ld.10020766",
+    "classification=default",
+    "relevance=default",
+    "layout=opinion",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020766",
+    "channel=Gesellschaft"
+   ],
+   "ContentCreated": "2026-08-27T10:54:51.839Z",
+   "ContentAuthor": "Urs Bühler",
+   "ContentSection": "Gesellschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "opinion",
+   "nzzAbstract": "Wie überzeugend ist das Konzept des ersten vegetarischen Vietnamesen in Zürich?\nWelche Schwächen zeigt das «An Chay» in Küche und Service?\nWie hebt sich das Dessert «Coconut Island» positiv hervor?",
+   "ldId": "ld.10020766",
+   "channel": "Gesellschaft",
+   "subChannel": "Tisch oder Theke",
+   "heading": "Fleisch-, aber nicht wunschlos genährt",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

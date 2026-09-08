@@ -1,0 +1,2906 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1jp238fbg0",
+   "content": {
+    "title": "Psychiatric nursing: Where does responsibility for another person's life end?",
+    "lead": "Psychiatric nurses like Nadine Schuster support people daily through their existential crises. While professional distance is part of the job, compassion is even more important. It's about the willingness to help and share responsibility – and its limits.",
+    "image": {
+     "author": "Curtain. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+     "caption": "Curtain. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+     "originalUrl": "/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?crop=4024,6047,x0,y1",
+     "width": 4024,
+     "height": 6048,
+     "altText": "Curtain. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2153627945"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 1,
+      "width": 4024,
+      "height": 6047,
+      "name": "desktop"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 1,
+       "width": 4024,
+       "height": 6047,
+       "name": "desktop"
+      },
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4024,
+       "height": 5365,
+       "name": "tablet"
+      },
+      {
+       "x": 516,
+       "y": 1,
+       "width": 3402,
+       "height": 6047,
+       "name": "mobile"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "",
+    "caption": "",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jp238fbh1",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Manuel Stark (Text)",
+       "url": "/impressum/manuel-stark-ld.10005780",
+       "teaserImage": {}
+      }
+     },
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jp56o1i80",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Annick Ramp (pictures)",
+       "url": "",
+       "teaserImage": {}
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm2r0",
+   "content": {
+    "text": "We've probably all experienced that feeling when someone trusts that we'll be there when they need us. It can be a wonderful feeling. «You're reliable»—who doesn't like hearing that? But there's another aspect to it, too. Being reliable means being bound by that promise, which someone else can demand even when it's inconvenient for us—because we have appointments, our own worries are weighing on us, we're having a bad day, or we're tired. Are we still ready to be there then? Or do we let the phone ring or the message on our smartphone go unanswered and later apologize under some pretext?"
+   },
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-df7ac417",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm2v0",
+   "content": {
+    "text": "When someone relies on our support, we eventually have to confront the question: Where does our responsibility for this other person begin – and where does it end?"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm301",
+   "content": {
+    "text": "There are probably few people who have to grapple with this question as intensely as psychiatric nurses. Every day they hear life stories of addiction and relapse, of compulsion and the struggle against it, of the attempt to go on living, and of that whisper that promises peace if one only remains resolute long enough and says: No, I don't want to anymore."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm320",
+   "content": {
+    "text": "<em>He sits in front of me. His hands are clasped together, his knuckles white with pressure.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm321",
+   "content": {
+    "text": "<em>The silence is so loud that even the neon tube seems to be screaming.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm340",
+   "content": {
+    "text": "<em>I type: «Suicidal thoughts present.»</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm341",
+   "content": {
+    "text": "<em>Two words.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm350",
+   "content": {
+    "text": "<em>On the screen.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm351",
+   "content": {
+    "text": "<em>Huge in the room.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm370",
+   "content": {
+    "text": "<em>They lie over us, heavy, immobile, almost like a third body.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm371",
+   "content": {
+    "text": "<em>The computer wants more.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm380",
+   "content": {
+    "text": "<em>Fields. Boxes. Categories.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm381",
+   "content": {
+    "text": "<em>Order.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm391",
+   "content": {
+    "text": "<em>As he sits there, staring blankly ahead, everything about him says: I don't want to anymore.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "imagegrid"
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1jp23h7f60",
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1jp23h7f70",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1jp23h7f71",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/05/07/ae300d40-0703-46a1-9150-3f26fc68ebde.jpg?crop=4024,6048,x0,y0",
+           "width": 4024,
+           "height": 6048,
+           "altText": "Ashtray. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2153627983"
+            }
+           ],
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 4024,
+            "height": 6048,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 4024,
+             "height": 6048,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1jp23h7f72",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/05/20/c587d66d-f767-4bea-8d24-532e6abcf049.jpg?crop=3899,5849,x0,y0",
+           "width": 3899,
+           "height": 5849,
+           "altText": "Blume. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2153627966"
+            }
+           ],
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 3899,
+            "height": 5849,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 3899,
+             "height": 5849,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3a1",
+   "content": {
+    "text": "The woman who wrote these lines works as a psychiatric nurse, and has done so for almost twenty years, even though she's not yet 40. As a self-employed nurse, she's familiar with several hospitals and wards, their similarities and differences. She calls herself Nadine Schuster and regularly publishes texts under this name, in which she processes her experiences from her work. She doesn't want her real name published, she says, «to protect my patients.»"
+   },
+   "paidContent": true,
+   "prevElement": "imagegrid",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12bg0b0",
+   "content": {
+    "title": "She takes work home with her – «of course»",
+    "id": "subtitle-sie-nimmt-die-arbeit-mit-nach-hause-nat-rlich"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3c0",
+   "content": {
+    "text": "She didn't want to meet at home to talk about her work. A neutral location would be better. A café. Couldn't it be more personal? No, better not; the stories were personal enough already, «besides, it's about the patients, not me.» So, a café near Winterthur it was."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3d0",
+   "content": {
+    "text": "There are people who are loud, their gestures expansive, their facial expressions striking; when these people enter a room, they immediately command attention. Nadine Schuster is different. She is one of those people who don't need a commotion to be noticed, not intimidating, but rather present in a quiet way – a listener. She speaks the way other people walk barefoot, feeling her way forward word by word."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3e0",
+   "content": {
+    "text": "Nadine Schuster says she enjoys her job, honestly, it gives her pleasure. Even though some friends and acquaintances find this hard to believe and constantly ask her why she puts herself through it; being a psychiatric nurse, all that suffering every day and then all that responsibility on top of it, that must be awful."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3f0",
+   "content": {
+    "text": "And it's true: in most hospitals, the nurses' station is right on the corridor where the patients' rooms open; they work right in the middle of the patients' hospital life. A therapist can refer patients to appointments, to therapy slots per week. As long as nurses are present in the hospital, they are available – often they are therefore the first to learn of a crisis, a panic attack, a breakdown, or suicidal thoughts."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3g1",
+   "content": {
+    "text": "What Nadine Schuster does isn't a job that ends when the workday ends, where you can simply switch between the hospital corridor and your living room. «Of course I take things home with me,» says Schuster, adding that this is still the case after personally caring for well over a hundred patients. «I'd be completely cold if I didn't.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3h1",
+   "content": {
+    "text": "<em>My fingers hover over the keyboard.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3i0",
+   "content": {
+    "text": "<em>I could ask questions, offer words, or quote sentences from the guidelines.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3j0",
+   "content": {
+    "text": "<em>But every word would sound like breaking glass.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3k0",
+   "content": {
+    "text": "<em>So I stay.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3k1",
+   "content": {
+    "text": "<em>Still.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3l0",
+   "content": {
+    "text": "<em>Breath after breath.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3m1",
+   "content": {
+    "text": "<em>And within me: a heaviness that defies statistics.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3n0",
+   "content": {
+    "text": "<em>The question of how often one can endure this silence without becoming deaf oneself.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3o0",
+   "content": {
+    "text": "There are situations that Nadine Schuster doesn't just take home with her, but with her into the coming days, weeks, maybe even years. These include the high-profile cases, like that one time a few years ago."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsv2471",
+   "content": {
+    "text": "She had been closely monitoring and caring for a patient for weeks. But on that one day, he became agitated. Nadine Schuster tried to speak to him. He screamed. She tried to calm him down—he knew her, after all. He only screamed even louder. «This is getting out of hand,» Nadine Schuster thought at the time. And she pressed the alarm button. Two of her colleagues are always on call for such cases. They arrived. Together, they restrained the man."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3p1",
+   "content": {
+    "text": "When such a case is covered in the media, she always reads the same questions: Was that really the right thing to do? Weren't there other methods available? Nadine Schuster asks herself the same questions every time, even though the code of conduct clearly states: Safety first."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsvqh11",
+   "content": {
+    "text": "But guidelines are of little help if, after work, you're still asking yourself: Was what I did right? Did I live up to my responsibilities? Especially when, in the days that follow, you have to rebuild trust with that very man. Listen. On good days, maybe joke or chat together. Then restrain him, also for your own protection. And afterwards, listen again and empathize. Be there as if nothing had happened."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12dlaj0",
+   "content": {
+    "title": "The quiet cases are the most difficult",
+    "id": "subtitle-die-leisen-f-lle-sind-die-schwierigsten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3r0",
+   "content": {
+    "text": "When we talk about health and the people who are supposed to ensure it, words like «professionalism,» «training,» «guideline,» or «concept» often come up. All these important, rational terms. Sometimes, however, they obscure the fact that behind all these rules, procedures, and standards, there is always a person who has to make decisions on the spot, and so quickly that there's no time to look up rules, guidelines, or concepts."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3s0",
+   "content": {
+    "text": "And if such a moment is loud, because a patient starts screaming, stands in front of you and comes closer, then there is at least enough evidence to counter the question of responsibility with: «Yes, I had him restrained. That's terrible. But it had to be done. I trusted my experience.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3u0",
+   "content": {
+    "text": "The quiet cases, says Nadine Schuster, are the most difficult. When a patient becomes calm, serene, and friendly, even with extensive experience, it's hard to say: Is the person doing better? Or have they found peace because they've discovered a way to withdraw from everything? Psychiatry also means that for some people, simply being alive is an achievement."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "imagegrid"
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1jp23osrn0",
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1jp23osro0",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1jp23osro1",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/05/07/63b72578-48e0-431c-bd54-be671ca1c57c.jpg?crop=4024,6048,x0,y0",
+           "width": 4024,
+           "height": 6048,
+           "altText": "Food, menu, lunch. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2153627991"
+            }
+           ],
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 4024,
+            "height": 6048,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 4024,
+             "height": 6048,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1jp23osro2",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2024/04/03/56c6e072-18d8-462f-b4d4-6917297cef9f.jpeg?crop=3705,5568,x0,y0",
+           "width": 3705,
+           "height": 5568,
+           "altText": "Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2153628004"
+            }
+           ],
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 3705,
+            "height": 5568,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 3705,
+             "height": 5568,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm3v0",
+   "content": {
+    "text": "Nadine Schuster had a case like that before. The man seemed calm, he showed up for breakfast as usual and went to therapy. He greeted people in the hallway. Everything about him was so unremarkable. Or was it? And yet..."
+   },
+   "paidContent": true,
+   "prevElement": "imagegrid",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jp5c1qkl1",
+   "content": {
+    "text": "«Should I have noticed something?» Nadine Schuster says she asked herself this question repeatedly for months. Her team supported her, constantly telling her: It wasn't her responsibility."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm400",
+   "content": {
+    "text": "<em>His shoulders sink deeper.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm410",
+   "content": {
+    "text": "<em>The seconds stretch out until they are no longer measurable.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm411",
+   "content": {
+    "text": "<em>It smells of disinfectant and cold coffee.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm420",
+   "content": {
+    "text": "<em>And of something that no form recognizes.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm431",
+   "content": {
+    "text": "<em>I continue writing. Numbers, codes, statistics.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm440",
+   "content": {
+    "text": "<em>He breathes.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm450",
+   "content": {
+    "text": "<em>And somewhere between that breath and the blinking cursor, the whole question hangs:</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm460",
+   "content": {
+    "text": "<em>Will he stay?</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm461",
+   "content": {
+    "text": "<em>Will he go?</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm480",
+   "content": {
+    "text": "<em>Nursing is not just about touch, not just about help and comfort.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm481",
+   "content": {
+    "text": "<em>But spaces where despair is silent – and where someone is there to endure the silence.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4a1",
+   "content": {
+    "text": "<em>Sometimes that's enough.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4b0",
+   "content": {
+    "text": "<em>Sometimes not.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4c1",
+   "content": {
+    "text": "When asked if the responsibility sometimes becomes too much for her, Nadine Schuster begins to laugh softly. Of course, there are days when she's «just full,» she says, when she comes home and does not want to see anyone. And yes, on some of those days, the thought of changing professions has crossed her mind. But so far, it has only been a few days at a time. Exceptions. And having a little doubt now and then is only human, she adds. «I honestly enjoy the job,» she says. «Yes, it's demanding. But it's also exciting and meaningful.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4e0",
+   "content": {
+    "text": "She experiences development, both in her patients and in herself. «At the beginning, I thought I could save people simply by trying hard enough.» She pauses, waits, opens her mouth a few times and closes it again, as if she isn't yet satisfied enough with the words she finds to let them out into the room. «Over time,» she says then, «I've become more realistic.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4f0",
+   "content": {
+    "text": "Realism. That, too, is part of responsible action. Anyone who sets expectations that are difficult to fulfill will inevitably fail, not always because the goals are unattainable, but much more often because they are being pursued too quickly. But anyone who takes responsibility, says Nadine Schuster, needs patience with themselves and with others. «Progress takes time.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4g0",
+   "content": {
+    "text": "During this time, it's important to remain present for the patient. Not just physically, but «as a whole person.» She has also developed in this respect: at the beginning, she thought that as a psychiatric nurse, distance was paramount."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jott35741",
+   "content": {
+    "text": "And of course, a certain degree of professional distance is necessary. But patients are also people who rejoice in successes and struggle with failure, who feel hope as well as fear, who know everything that we ourselves carry within us; only the patients are in a crisis – «and something like that can happen to any of us,» says Nadine Schuster. In her work, she has encountered everyone, «from the manager of a large corporation to the temporary employee of a temp agency.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12etko0",
+   "content": {
+    "title": "The patient also bears responsibility",
+    "id": "subtitle-verantwortung-tr-gt-auch-der-patient"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4h1",
+   "content": {
+    "text": "Instead of being detached, Nadine Schuster wants to be authentic above all else these days. For her, that means admitting, for example, that she sometimes doesn't have the answers – such as when a mother asks why her child had to die in an accident. But it also means genuinely sharing in the joy when, after working with a patient for weeks on their obsessive-compulsive disorder, it suddenly happens one day: The patient manages her morning routine on her own and needs only half an hour instead of the usual two. Nadine Schuster almost jumped for joy then. «It's important to me to show the person I'm working with: I'm not a machine,» she says. «Just a human being, and no better than them.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4j0",
+   "content": {
+    "text": "<em>As I type, I feel the unease: these two words are too small for the weight they carry. They reduce a life full of ruptures, losses, perhaps also quiet victories, to a single entry on a form. «Suicidal thoughts present»—it sounds sober, objective, neatly documented. But in reality, these two words contain an entire biography that threatens to tip over at a single point.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4k0",
+   "content": {
+    "text": "<em>We love order. Boxes. Fields. Statistics. As if we could measure despair, as if it could be expressed in percentages, in risk levels, in clear instructions for action. But this man's despair doesn't fit into any grid. It's neither mild nor moderate nor severe. It's simply there—in his posture, in the way his gaze falls into the void, in the heaviness that leaves me breathless as well.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4l1",
+   "content": {
+    "text": "<em>The system demands clarity. But despair is rarely clear. It's a fog that settles over people, sometimes thin and translucent, sometimes impenetrable. And we, sitting by, are supposed to discern the clear path within it.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4n0",
+   "content": {
+    "text": "Perhaps the most important lesson she learned during her years as a psychiatric nurse: responsibility is not a one-way street. A patient may be in crisis, but they remain a human being and therefore responsible for their own life."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jott46151",
+   "content": {
+    "text": "Nadine Schuster can offer conversations and trust, but she depends on the other side also proving reliable, taking their share of the responsibility, keeping to agreements, and being open and honest in their communication with her."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4o1",
+   "content": {
+    "text": "In this respect, working in psychiatry is no different from any interpersonal relationship: Every healthy relationship depends on everyone accepting their own contribution and sincerely striving for success in the interaction. Rarely, almost never, does one bear responsibility alone."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4q0",
+   "content": {
+    "text": "However, in psychiatry, things are somewhat different: Half the responsibility is never borne by a single nurse, but by a team of doctors, psychologists, therapists, and other nursing professionals. Psychiatry is teamwork."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4r1",
+   "content": {
+    "text": "Teamwork always sounds so good at first. But being part of a team also means sometimes having to justify yourself and constantly explaining why you made a particular decision and when. «Sometimes I have to act first,» says Nadine Schuster. «And then justify my decision afterwards.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4t0",
+   "content": {
+    "text": "Having to explain oneself when things go wrong is something every profession is familiar with. But nursing professionals carry more responsibility than almost any other group – and yet they are more satisfied than nearly any other group; in scientific surveys, many say this is also due to flat hierarchies. «When you do the right thing, but that right thing goes beyond what is usual – then you put yourself out there. And a lot of that is based on trust,» says Michael Simon. He is a trained nurse and heads the Institute of Nursing Science at the University of Basel. «Nurses carry a high level of responsibility,» he says, «often without the support of clear systems.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm4u1",
+   "content": {
+    "text": "When exactly does restraint come into play? How do we handle it if a patient commits suicide? «While there is a legal framework, there is a lack of a structured, institution-wide response to exceptional situations,» Simon says. Whether there are clear and concrete procedures, and how these are implemented, depends greatly on the respective clinic, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm500",
+   "content": {
+    "text": "Where a system lacks clarity, it places even more responsibility on the individual. «Empathizing with patients to a certain extent is part of nursing,» says Michael Simon. «And that's not a side issue, but the core of the profession.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12hkt10",
+   "content": {
+    "title": "Nursing professionals advise against using their own clinic",
+    "id": "subtitle-pflegefachpersonen-raten-von-der-eigenen-klinik-ab"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm510",
+   "content": {
+    "text": "Where empathy is involved, frustration also arises when patients with addictions arrive, leave, relapse, and return. Or when patients are discharged even though it's clear they're not ready. Cost calculations only allow for a certain number of treatment weeks. Some patients also lack follow-up care after their hospital stay; they leave and relapse, sometimes relapsing just a few weeks later. «Nurses constantly see these points of failure,» says Simon, «they don't just intervene during crises, but provide ongoing support.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm530",
+   "content": {
+    "text": "This may be one of the reasons why, in the 2024 report on inpatient psychiatric care in German-speaking Switzerland, nearly one-third of nursing staff say: «I like my clinic, but I would recommend a different place to acquaintances for treatment.» Michael Simon co-authored the report. He says it is normal for the view of one's own ward to be less than gentle – «in the assessment of their own work, nurses are particularly strict.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm540",
+   "content": {
+    "text": "This also contains a truth that applies to more than just the daily work in psychiatry: the better we know something, the sharper our eye becomes for the rough edges and flaws, for all that doesn't work, but should."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm560",
+   "content": {
+    "text": "And who or what do we know better than ourselves and our mistakes?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm570",
+   "content": {
+    "text": "<em>It is not just his question: Do I stay, or do I go?</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm580",
+   "content": {
+    "text": "<em>It's my question too: How long can I endure the silence without breaking down myself?</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm591",
+   "content": {
+    "text": "<em>I think of the many similar encounters. People sitting silently because every word is too difficult. People whose entire life story threatens to disappear into a form. And I think of how often we as a society ignore this silence – because we prefer to look at statistics rather than faces.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5b0",
+   "content": {
+    "text": "Perhaps the greatest art, says Nadine Schuster, is admitting mistakes, learning from them, «but not getting lost in them.» In psychiatry, this is particularly difficult because victories are so elusive. Success is often demonstrated by the fact that nothing happens, that a patient leaves and doesn't return. That's also why she writes her texts – the stories remain."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5c1",
+   "content": {
+    "text": "And that's why a healthy team is so important: it needs this «we» that stands up for each other, helps each other, and celebrates successes together. Because how can you explain to people out there what a triumph it is when a patient with obsessive-compulsive disorder reduces her morning routine from two hours to half an hour? Who truly understands what an achievement it can be that someone is still alive, for another day, and then another, and another, that they simply sit at the breakfast table in front of a cheese sandwich as if it were perfectly normal?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "imagegrid"
+  },
+  {
+   "identifier": "imagegrid",
+   "id": "doc-1jp23s2ns0",
+   "styles": {
+    "imagegrid-width": "imagegrid--containerwidth"
+   },
+   "containers": {
+    "imageRows": [
+     {
+      "identifier": "imagegrid-row",
+      "id": "doc-1jp23s2ns1",
+      "containers": {
+       "imageRow": [
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1jp23s2ns2",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/05/07/9c734082-8b2a-4f3a-b901-5dc3d8152231.jpg?crop=3705,5568,x0,y0",
+           "width": 3705,
+           "height": 5568,
+           "altText": "Medication. Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2153627994"
+            }
+           ],
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 3705,
+            "height": 5568,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 3705,
+             "height": 5568,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        },
+        {
+         "identifier": "imagegrid-image",
+         "id": "doc-1jp23s2ns3",
+         "content": {
+          "image": {
+           "author": "",
+           "caption": "",
+           "originalUrl": "/2026/05/07/b3de24e8-396e-4562-8d9a-d95e00b41f04.jpg?crop=4024,6048,x0,y0",
+           "width": 4024,
+           "height": 6048,
+           "altText": "Report from the Bauma care center, which specializes in the long-term care of adults with chronic psychiatric illnesses.",
+           "origins": [
+            {
+             "name": "Hugo",
+             "identifier": "2153627955"
+            }
+           ],
+           "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 4024,
+            "height": 6048,
+            "name": "article-image"
+           },
+           "namedCrops": [
+            {
+             "x": 0,
+             "y": 0,
+             "width": 4024,
+             "height": 6048,
+             "name": "article-image"
+            }
+           ],
+           "imageService": "fastly"
+          },
+          "author": "",
+          "caption": ""
+         }
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5e0",
+   "content": {
+    "text": "Nadine Schuster hesitates briefly. She knows, she says then, that there are also hospitals or clinics where this sense of «we» is more difficult to cultivate. Ultimately, it is like in all professions; much depends on the individual supervisor. They are also responsible for how well daily life on the ward functions, for the patients as well as for the professional team. Good leadership is essential."
+   },
+   "paidContent": true,
+   "prevElement": "imagegrid",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12iv7m0",
+   "content": {
+    "title": "What good leadership means in psychiatry",
+    "id": "subtitle-was-gute-f-hrung-in-der-psychiatrie-bedeutet"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5g0",
+   "content": {
+    "text": "Leadership. There are many attempts to define this term: «A leader is someone who has followers!» said Peter Drucker, the founder of modern management theory. «Leadership is the purposeful influencing of the experiences and behavior of individuals and groups within organizations,» defines the German Society for Economic Psychology."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jott74s91",
+   "content": {
+    "text": "«For me, leadership in psychiatry means providing guidance without infringing on my team’s professional autonomy. It means creating a sense of security without controlling everything,» says Markus Loosli. He is a board member of Swiss Nurse Leaders, the Swiss association for nursing leaders. «And leadership must foster a culture where people can talk about stress and mistakes,» he says, «without feeling like a burden or a failure.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5h0",
+   "content": {
+    "text": "Leadership positions inherently entail responsibility – and in psychiatric nursing, where people support others through existential crises, this is even more true than elsewhere. Especially since the strain is often difficult to see: psychological exhaustion and emotional distress sometimes manifest as dark circles under the eyes, but not always. «A good leader must therefore always ask how people are doing,» says Loosli. «Take the initiative. Don't just wait for people to come to you. That's crucial.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5j0",
+   "content": {
+    "text": "It is also important to lead by example, he says: The shift ends when the working hours are over. And it is normal to actually go home at that exact time – precisely because you carry responsibility for other people. Anyone who wants to shoulder burdens needs strength and, at times, rest."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5k0",
+   "content": {
+    "text": "<em>We read statistics about suicide, depression, and mental illness. We debate gaps in care, prevention programs, and costs.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5m0",
+   "content": {
+    "text": "<em>But we rarely ask what it means to sit next to someone who doesn't know if they want to live tomorrow. How that feels, the powerlessness it entails.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5n1",
+   "content": {
+    "text": "<em>What responsibility!</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5q0",
+   "content": {
+    "text": "A nursing professional always finds themselves in a complex situation: They need compassion and shared responsibility, but also boundaries and professional distance. And as in any complex situation, mistakes happen. To learn from mistakes, spaces for exchange and reflection are essential."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5r0",
+   "content": {
+    "text": "Learning and reflection are the first things to fall by the wayside when the workday becomes stressful due to overtime or staff shortages; this is also stated in the overall report on psychiatry in German-speaking Switzerland. Loosli says: «We need more trained staff. Otherwise, we can talk all we want about work-life balance, and it will remain just theory.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12kf7k0",
+   "content": {
+    "title": "It's about building relationships, not about control",
+    "id": "subtitle-es-geht-um-beziehungsarbeit-nicht-um-kontrolle"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5t0",
+   "content": {
+    "text": "Markus Loosli doesn't have a completely clear answer as to where the boundaries of responsibility begin and end. But those who take on responsibility certainly benefit from having their efforts recognized. «Psychiatry is still stigmatized,» says Loosli, «the images in people's minds are still too often those of restraint and confinement.» But the work of nursing professionals is about careful, persistent, and intensive relationship building – not control."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm5v0",
+   "content": {
+    "text": "<em>Perhaps this is the part no one wants to see: that psychiatric care isn't just about administering medication, having conversations, or managing crises. Often it's simply about being there. Feeling someone's breath alongside your own. Enduring the fact that there are no quick fixes.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm600",
+   "content": {
+    "text": "<em>And then to leave, to turn off the computer, to submit the statistics – knowing that the real work remains invisible.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm620",
+   "content": {
+    "text": "In the café, Nadine Schuster was just talking about how much it annoys her that people with mental illnesses are often perceived as weak, that in addition to what they are already struggling with, there are also all the pitying looks when someone has to go to the clinic."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm630",
+   "content": {
+    "text": "Nadine Schuster sees it differently. She has spoken with so many patients, learned so much about their lives – she says there was certainly never anyone weak among them. «Admitting that something is wrong. Talking about it. Facing the situation. I find that very courageous.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm650",
+   "content": {
+    "text": "Admitting that you need help is the first and perhaps most important step in taking responsibility for your own healing. But it is also one of the hardest. Needing help always means a loss of control; you can no longer manage your life alone."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12m3od0",
+   "content": {
+    "title": "Mental illness often means discrimination",
+    "id": "subtitle-psychische-krankheiten-bedeuten-oft-diskriminierung"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotta7fa1",
+   "content": {
+    "text": "The World Health Organization uses the term «treatment gap» to describe the gap between the need for treatment and the actual availability of care. Several international studies suggest that up to 60 percent of people with mental illness do not receive professional help; a key reason for this is that they don't even ask for it."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm660",
+   "content": {
+    "text": "Nicolas Rüsch and Patrick Corrigan, two of the leading stigma researchers, describe a «negative spiral of withdrawal, demoralization, and increasing isolation» when people experience social stigma due to their mental illness. The fear of how others will react to their illness prevents many from seeking treatment."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jottagtr1",
+   "content": {
+    "text": "Depression can be hidden from the outside world for a long time; smiling and even laughing can be practiced, even without feeling anything. A longer hospital stay or regular therapy, however, is much harder to disguise."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm680",
+   "content": {
+    "text": "Everyone has their own issues. Some can't clearly name their problems; they only feel the consequences, the heaviness, or the anxiety that paralyzes or makes everyday life impossible. Others have clear terms for what torments them: obsessive-compulsive disorder, depression, loss. And loss doesn't always mean that someone has died; sometimes a loved one decides to end the relationship—just like that. That hurts, too. Sometimes so much that it can be enough to warrant a stay in a clinic. «What makes my patients special isn't always the extent of their problems,» says Nadine Schuster, «but that they look at them.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6a0",
+   "content": {
+    "text": "Responsibility also lies in examining one's own issues. But the outside world also plays a part; in order for observation to translate into action, for the desire for help to become a request for it, a societal standard is needed that assures: asking for help is okay."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6c0",
+   "content": {
+    "text": "<em>I don't know if he'll stay or leave. Nobody knows that at this moment. But I do know this: My presence, my silence, my willingness to sit beside him – that's more than any form could ever capture.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6e0",
+   "content": {
+    "text": "<em>Two words in the system.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6f0",
+   "content": {
+    "text": "<em>A whole life in the room.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6g1",
+   "content": {
+    "text": "Through all these weeks, during which these people came to her room wanting to talk, or not talk but remain silent, yet not wanting to be alone, a bond developed. And yet: When a patient leaves the clinic, Nadine Schuster wants to hope that she never sees them again. Even though she rarely learns how one of her patients experiences life after the clinic, not seeing someone again is the best sign to believe in a victory, in something good."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jottc0h31",
+   "content": {
+    "text": "It's less about responsibility, says Nadine Schuster. More about self-care – her share of responsibility ends where her patients leave the clinic."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jp12nfn60",
+   "content": {
+    "title": "«Should I have noticed something?»",
+    "id": "subtitle-h-tte-ich-etwas-bemerken-m-ssen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6i0",
+   "content": {
+    "text": "But what if things turn out differently? What if you do not see the patient again, but things do not go well? «It would be a lie if I said I could just shake it off or not let it get to me at all,» Nadine Schuster says. «Should I have noticed something?» Sometimes, though rarely, this question comes up again even years later. «But I know that is not my responsibility. The responsibility for a patient's life, that would be too much. I can only offer my help.» She says it is important to stay true to oneself and one's own capabilities."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6k0",
+   "content": {
+    "text": "Stay true to yourself. Ask yourself: What can I do, and what is the responsibility of others? Responsibility always arises between several people who share a burden. This distinguishes it from guilt – which can be incurred by a single individual, entirely alone."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jotsqm6n0",
+   "content": {
+    "text": "You are rarely alone in your own failures and successes in life, but you are always partly responsible. If you reject your own share of the responsibility, no one else can take it on. Helping, sharing responsibility—that's possible. Not taking it away. «For me,» says Nadine Schuster, «responsibility means being able to stand behind my actions. I can never know what the consequences of what I do will be. But looking back, I want to be certain: I tried my best.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jo0ri5s12",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jo0ri5s13",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jo0ri5s14",
+      "content": {
+       "owner": "NZZaS",
+       "title": "The urge to act is overrated: why constant action does more harm than good.",
+       "teaserImage": {
+        "originalUrl": "/2025/01/15/5320b0ca-90c0-461d-9098-4ff180da9f7d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/15/5320b0ca-90c0-461d-9098-4ff180da9f7d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4800,
+        "height": 3640,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4800,2700,x0,y153"
+         },
+         {
+          "name": "1:1",
+          "crop": "1596,1596,x2185,y435"
+         },
+         {
+          "name": "4:3",
+          "crop": "4800,3600,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2730,3640,x1292,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "People feel good when they take action. This tendency influences our behavior when faced with problems – often for the worse. Those who learn to sometimes meet challenges with inaction lead better lives.",
+        "teaserAuthor": "Illustration by Ida Götz / NZZ"
+       },
+       "teaserAuthor": "Illustration by Ida Götz / NZZ",
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1865963",
+       "readingTime": 420,
+       "authorLine": "Manuel Stark",
+       "characterCount": 9243,
+       "product": "NZZ.ch",
+       "documentId": 1865963,
+       "layout": "longformstandard",
+       "publicationDate": "2025-01-19T04:30:00.000Z",
+       "publicationLastUpdated": "2025-01-19T16:56:41.297Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-01-19T16:30:00.000Z",
+       "teaserCaption": "People feel good when they take action. This tendency influences our behavior when faced with problems – often for the worse. Those who learn to sometimes meet challenges with inaction lead better lives.",
+       "url": "/wissenschaft/action-bias-nichtstun-besitzt-zu-unrecht-einen-schlechten-ruf-ld.1865963",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 1453,
+       "leadText": "People feel good when they take action. This tendency influences our behavior when faced with problems – often for the worse. Those who learn to sometimes meet challenges with inaction lead better lives."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jo0ri5s15",
+      "content": {
+       "owner": "NZZ",
+       "title": "Viruses, terrorists, lunatics with atomic bombs: The world is terrifying. But fear is humankind's most powerful weapon.",
+       "teaserImage": {
+        "originalUrl": "/2023/05/19/01c04f3c-8f22-4c97-813c-fe3aa1b7b032.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/05/19/01c04f3c-8f22-4c97-813c-fe3aa1b7b032.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4621,
+        "height": 3081,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4621,2599,x0,y241"
+         },
+         {
+          "name": "1:1",
+          "crop": "3081,3081,x770,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4108,3081,x257,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2311,3081,x1155,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4621,3081,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "A look behind the mechanisms of our fear.",
+        "teaserAuthor": "Simon Tanner / NZZ"
+       },
+       "teaserAuthor": "Simon Tanner / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "teaserCarouselOne": {
+        "originalUrl": "/2023/05/19/01c04f3c-8f22-4c97-813c-fe3aa1b7b032.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/05/19/01c04f3c-8f22-4c97-813c-fe3aa1b7b032.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4621,
+        "height": 3081,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4621,2599,x0,y241"
+         },
+         {
+          "name": "1:1",
+          "crop": "3081,3081,x770,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4108,3081,x257,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2311,3081,x1155,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4621,3081,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2025/06/25/9aea2b1c-7d99-4399-af56-c281f344b3d3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/06/25/9aea2b1c-7d99-4399-af56-c281f344b3d3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4434,
+        "height": 2956,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4434,2494,x0,y231"
+         },
+         {
+          "name": "1:1",
+          "crop": "2956,2956,x739,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3941,2956,x246,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2217,2956,x1109,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4434,2956,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2021/8/27/612b6626-4beb-432a-9f83-2188679e2f44.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/8/27/612b6626-4beb-432a-9f83-2188679e2f44.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1964,
+        "height": 1309,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1964,1105,x0,y102"
+         },
+         {
+          "name": "1:1",
+          "crop": "1309,1309,x328,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1745,1309,x109,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "982,1309,x491,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1964,1309,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselFour": {
+        "originalUrl": "/2025/06/25/c0dc79b8-7a0c-48f4-96dc-a0c480ae46f6.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/06/25/c0dc79b8-7a0c-48f4-96dc-a0c480ae46f6.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4300,
+        "height": 2867,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4300,2419,x0,y224"
+         },
+         {
+          "name": "1:1",
+          "crop": "2867,2867,x717,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3823,2867,x239,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2150,2867,x1075,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4300,2867,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1890643",
+       "readingTime": 1980,
+       "authorLine": "Peter Ackermann",
+       "characterCount": 44499,
+       "product": "NZZ.ch",
+       "documentId": 1890643,
+       "layout": "longformvisual",
+       "publicationDate": "2025-06-28T03:30:00.000Z",
+       "publicationLastUpdated": "2025-06-28T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-06-28T15:30:00.000Z",
+       "teaserCaption": "A look behind the mechanisms of our fear.",
+       "url": "/gesellschaft/viren-terroristen-wahnsinnige-mit-atombomben-die-welt-ist-furchterregend-aber-angst-ist-die-staerkste-waffe-des-menschen-ld.1890643",
+       "department": {
+        "name": "Society",
+        "path": "/gesellschaft"
+       },
+       "estimationWordCount": 6557,
+       "leadText": "A look behind the mechanisms of our fear.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jo0ri5s16",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "\"It is primarily young left-wing women who come to therapy.\"",
+       "teaserImage": {
+        "originalUrl": "/2025/02/05/f196ab6c-ff1b-4960-84ad-afa66f1ccc6f.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/02/05/f196ab6c-ff1b-4960-84ad-afa66f1ccc6f.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4000,2250,x0,y126"
+         },
+         {
+          "name": "1:1",
+          "crop": "2667,2667,x883,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3556,2667,x401,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2000,2667,x1249,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Psychologist Holger Richter criticizes the pathologization of society. Certain diagnoses have increased by several thousand percent. A diagnosis often confers victim status on woke leftists, while conservatives tend to take control of their own lives.",
+        "teaserAuthor": "Roos Koole / Moment RF / Getty"
+       },
+       "teaserAuthor": "Roos Koole / Moment RF / Getty",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1869384",
+       "readingTime": 480,
+       "authorLine": "Birgit Schmid",
+       "characterCount": 11045,
+       "product": "NZZ.ch",
+       "documentId": 1869384,
+       "layout": "longformstandard",
+       "publicationDate": "2025-02-06T04:30:00.000Z",
+       "publicationLastUpdated": "2025-02-22T14:40:42.160Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-02-06T16:30:00.000Z",
+       "teaserCaption": "Psychologist Holger Richter criticizes the pathologization of society. Certain diagnoses have increased by several thousand percent. A diagnosis often confers victim status on woke leftists, while conservatives tend to take control of their own lives.",
+       "url": "/feuilleton/psychisch-krank-wokeness-und-der-anstieg-an-diagnosen-wie-adhs-ld.1869384",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1650,
+       "leadText": "Psychologist Holger Richter criticizes the pathologization of society. Certain diagnoses have increased by several thousand percent. A diagnosis often confers victim status on woke leftists, while conservatives tend to take control of their own lives."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Psychiatric nursing: Where does responsibility for another person's life end?",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4024,
+   "height": 6048,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4024,2263,x0,y1892"
+    },
+    {
+     "name": "4:3",
+     "crop": "4024,3018,x0,y1515"
+    },
+    {
+     "name": "1:1",
+     "crop": "4024,4024,x0,y1012"
+    },
+    {
+     "name": "3:4",
+     "crop": "4024,5365,x0,y341"
+    },
+    {
+     "name": "3:2",
+     "crop": "4024,2683,x0,y1683"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Psychiatric nurses like Nadine Schuster support people daily through their existential crises. While professional distance is part of the job, compassion is even more important. It's about the willingness to help and share responsibility – and its limits.",
+   "teaserAuthor": "Annick Ramp / NZZ Photographic Team"
+  },
+  "teaserAuthor": "Annick Ramp / NZZ Photographic Team",
+  "editor": "1858673",
+  "teaserCarouselOne": {
+   "originalUrl": "/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4024,
+   "height": 6048,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4024,2263,x0,y2130"
+    },
+    {
+     "name": "1:1",
+     "crop": "4024,4023,x0,y2025"
+    },
+    {
+     "name": "4:3",
+     "crop": "4024,3017,x0,y3031"
+    },
+    {
+     "name": "3:4",
+     "crop": "4024,5364,x0,y684"
+    },
+    {
+     "name": "3:2",
+     "crop": "4024,2682,x0,y3366"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselTwo": {
+   "originalUrl": "/2026/05/20/c587d66d-f767-4bea-8d24-532e6abcf049.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/05/20/c587d66d-f767-4bea-8d24-532e6abcf049.jpg?width=1024&quality=75&auto=webp",
+   "width": 3899,
+   "height": 5849,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3899,2193,x0,y1578"
+    },
+    {
+     "name": "1:1",
+     "crop": "3899,3899,x0,y1094"
+    },
+    {
+     "name": "4:3",
+     "crop": "3899,2924,x0,y1079"
+    },
+    {
+     "name": "3:4",
+     "crop": "3899,5199,x0,y650"
+    },
+    {
+     "name": "3:2",
+     "crop": "3899,2599,x0,y1411"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselThree": {
+   "originalUrl": "/2024/04/03/56c6e072-18d8-462f-b4d4-6917297cef9f.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/04/03/56c6e072-18d8-462f-b4d4-6917297cef9f.jpeg?width=1024&quality=75&auto=webp",
+   "width": 3705,
+   "height": 5568,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3705,2084,x0,y3326"
+    },
+    {
+     "name": "1:1",
+     "crop": "3705,3705,x0,y1377"
+    },
+    {
+     "name": "4:3",
+     "crop": "3705,2779,x0,y1585"
+    },
+    {
+     "name": "3:4",
+     "crop": "3705,4940,x0,y628"
+    },
+    {
+     "name": "3:2",
+     "crop": "3705,2470,x0,y1733"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "teaserCarouselFour": {
+   "originalUrl": "/2026/05/07/63b72578-48e0-431c-bd54-be671ca1c57c.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/05/07/63b72578-48e0-431c-bd54-be671ca1c57c.jpg?width=1024&quality=75&auto=webp",
+   "width": 4024,
+   "height": 6048,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4024,2263,x0,y1586"
+    },
+    {
+     "name": "1:1",
+     "crop": "4024,4024,x0,y1232"
+    },
+    {
+     "name": "4:3",
+     "crop": "3658,2744,x0,y2099"
+    },
+    {
+     "name": "3:4",
+     "crop": "4024,5365,x0,y667"
+    },
+    {
+     "name": "3:2",
+     "crop": "4024,2683,x0,y2042"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzId": "ld.10006177",
+  "readingTime": 1260,
+  "colorSchema": "color-schema--linden",
+  "characterCount": 26878,
+  "breadcrumbs": [
+   {
+    "name": "Society",
+    "path": "/gesellschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10006177,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-05-23T04:00:00.000Z",
+  "publicationDate": "2026-05-23T04:00:00.000Z",
+  "publicationLastUpdated": "2026-05-23T04:00:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-05-23T16:00:00.000Z",
+  "teaserCaption": "Psychiatric nurses like Nadine Schuster support people daily through their existential crises. While professional distance is part of the job, compassion is even more important. It's about the willingness to help and share responsibility – and its limits.",
+  "nzzAuthors": [
+   {
+    "id": 1858673,
+    "name": "Manuel Stark",
+    "shortName": "msk",
+    "external": false
+   },
+   {
+    "id": 10003466,
+    "name": "Fotografinnen und Fotografen",
+    "shortName": "FF",
+    "external": true
+   }
+  ],
+  "authorLine": "Manuel Stark (text), Annick Ramp (images)",
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 10005780,
+    "name": "Manuel Stark (Text)"
+   }
+  ],
+  "url": "/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177",
+  "department": {
+   "name": "Society",
+   "path": "/gesellschaft"
+  },
+  "estimationWordCount": 4195,
+  "leadText": "Psychiatric nurses like Nadine Schuster support people daily through their existential crises. While professional distance is part of the job, compassion is even more important. It's about the willingness to help and share responsibility – and its limits.",
+  "nzzSummaryEN": "- Psychiatric care professionals face daily challenges in balancing compassion with professional detachment, often bearing significant responsibility without clear guidelines.\n- Author Nadine Schuster vividly describes the mental strain on caregivers, emphasizing that mistakes and their reflection are part of the job, requiring strong teamwork and effective leadership.\n- Mental illnesses often carry stigma, but Nadine highlights the courage patients exhibit in seeking help. Responsibility for recovery is always shared between caregivers and patients.",
+  "nzzSummaryDE": "- In psychiatric nursing, professionals face the daily challenge of balancing compassion and professional distance. They bear a high degree of responsibility, often without clear guidelines.\n Author Nadine Schuster vividly describes the psychological strain on nursing staff. Mistakes and how to deal with them are an integral part of the profession, but require a strong team and good leadership.\n Mental illness is often stigmatized, but Nadine emphasizes the courage patients need to seek help. Responsibility for recovery always remains shared between caregivers and patients.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The burden of responsibility: Psychiatric nursing also means sharing in the daily crisis of others",
+  "nzzPrintSubtitle": "Most nursing professionals still say they enjoy their work. But how do they find the balance between shared responsibility and maintaining boundaries?",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177",
+   "title": "Experiences from psychiatric nursing: Where does responsibility end?",
+   "socialMediaTitle": "Psychiatric nursing: Where does responsibility for another person's life end?",
+   "description": "Insights into psychiatric nursing: What experiences do professionals have? A report on their willingness to help and their own limitations.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4024,2263,x0,y1892&wmark=nzz"
+  },
+  "ldPublicationId": 2432824,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Depression",
+    "slug": "/themen/depression"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1865963",
+    "ld.1890643",
+    "ld.1869384"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 1639488,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "depression",
+   "name": "Depression",
+   "tagName": "Depression",
+   "qId": "Q42844",
+   "seoTitle": "Depression – All news and articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 16:46:58.290Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/depression",
+   "size": 223,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "title": "Rapper Stress: «I measured my self-worth by how successful I am. Nothing good can come of that. Not even good music»",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1920,1440,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1440,1440,x373,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1080,1440,x553,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1920,1280,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1093,
+      "y": 307
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+     "teaserAuthor": "Sébastien Agnetti"
+    },
+    "teaserAuthor": "Sébastien Agnetti",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10018314",
+    "readingTime": 780,
+    "paywallQuestionOne": "How did Stress's success affect his mental health?",
+    "paywallQuestionTwo": "Why does Stress view his book more as a testimony than as a guide?",
+    "paywallQuestionThree": "What role does childhood play in Stress's personal development?",
+    "characterCount": 14907,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": "10018314",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-30T03:29:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:29:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:29:00.000Z",
+    "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "authorLine": "Frank Heer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/rapper-stress-ich-habe-meinen-selbstwert-daran-gemessen-wie-erfolgreich-ich-bin-daraus-kann-nichts-gutes-entstehen-auch-keine-gute-musik-ld.10018314",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 2521,
+    "leadText": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Outrunning depression: How exercise strengthens the psyche",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "editor": "1744559",
+    "teaserImage": {
+     "originalUrl": "/2022/12/07/995f9172-45ef-4189-a0cb-c312a8be1309.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/12/07/995f9172-45ef-4189-a0cb-c312a8be1309.jpeg?width=1024&quality=75&auto=webp",
+     "width": 6720,
+     "height": 4480,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6720,3779,x0,y701"
+      },
+      {
+       "name": "4:3",
+       "crop": "2786,2090,x0,y1967"
+      },
+      {
+       "name": "1:1",
+       "crop": "1900,1900,x363,y2000"
+      },
+      {
+       "name": "3:4",
+       "crop": "3360,4479,x0,y1"
+      },
+      {
+       "name": "3:2",
+       "crop": "6720,4479,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Two major studies this year show that exercise can combat depression. How this is possible and how to find the sport that suits one's own needs.",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "nzzId": "ld.10015430",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does sport help in the treatment of depression?",
+    "paywallQuestionTwo": "What neurobiological effects does exercise have on the psyche?",
+    "paywallQuestionThree": "Why is sport not a universal solution for depression?",
+    "characterCount": 9286,
+    "tags": [
+     "Wissenschaft aktuell",
+     "Wohl & Sein"
+    ],
+    "nzzasFootnote": true,
+    "product": "NZZ.ch",
+    "documentId": "10015430",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T06:06:00.000Z",
+    "publicationLastUpdated": "2026-08-18T11:38:43.466Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-13T18:06:47.330Z",
+    "teaserCaption": "Two major studies this year show that exercise can combat depression. How this is possible and how to find the sport that suits one's own needs.",
+    "authorLine": "Eva Mell",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/10/06/2f9d2d4b-b0fd-49f9-b21c-85a29577cb52.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wissenschaft/depressionen-lindern-wie-sport-helfen-kann-ld.10015430",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1401,
+    "leadText": "Two major studies this year show that exercise can combat depression. How this is possible and how to find the sport that suits one's own needs.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "When things look dark inside, even though everything shines on the outside",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Lisbeth Schröder",
+    "characterCount": 9211,
+    "teaserImage": {
+     "originalUrl": "/2026/07/29/c030d906-9a63-4545-b874-067702e43d0f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/29/c030d906-9a63-4545-b874-067702e43d0f.jpg?width=1024&quality=75&auto=webp",
+     "width": 5381,
+     "height": 7534,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5381,3027,x0,y2539"
+      },
+      {
+       "name": "4:3",
+       "crop": "5381,4036,x0,y2357"
+      },
+      {
+       "name": "1:1",
+       "crop": "5381,5381,x0,y773"
+      },
+      {
+       "name": "3:4",
+       "crop": "4892,6523,x232,y259"
+      },
+      {
+       "name": "3:2",
+       "crop": "5381,3587,x0,y2382"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After work, you just mindlessly scroll on your phone. You function, but feel empty inside: The «functional freeze,» also known as high-functioning depression, is currently a hot topic. Is this new diagnosis necessary? And what can help those affected?",
+     "teaserAuthor": "Eric O'Connell / Getty"
+    },
+    "teaserAuthor": "Eric O'Connell / Getty",
+    "tags": [
+     "Wissenschaft aktuell",
+     "Psyche und Hirnforschung",
+     "Medizin",
+     "Wohl & Sein"
+    ],
+    "editor": "1371759",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10003999",
+    "readingTime": 420,
+    "paywallQuestionOne": "What is the difference between high-functioning depression and classic depression?",
+    "paywallQuestionTwo": "Should high-functioning depression be recognized as a separate diagnosis?",
+    "paywallQuestionThree": "How can people suffering from high-functioning depression be better supported?",
+    "product": "NZZ.ch",
+    "documentId": "10003999",
+    "layout": "regular",
+    "publicationDate": "2026-08-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-07T12:21:15.010Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-02T15:30:00.000Z",
+    "teaserCaption": "After work, you just mindlessly scroll on your phone. You function, but feel empty inside: The «functional freeze,» also known as high-functioning depression, is currently a hot topic. Is this new diagnosis necessary? And what can help those affected?",
+    "url": "https://www.nzz.ch/wissenschaft/hochfunktionale-depression-zwischen-innerer-leere-und-aeusserem-erfolg-ld.10003999",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1406,
+    "leadText": "After work, you just mindlessly scroll on your phone. You function, but feel empty inside: The «functional freeze,» also known as high-functioning depression, is currently a hot topic. Is this new diagnosis necessary? And what can help those affected?",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 13165,
+    "title": "«When people hug on television, I get sad,» says the 85-year-old. Is it possible to overcome loneliness in old age?",
+    "teaserImage": {
+     "originalUrl": "/2026/07/27/2932d7c1-b1b4-4207-b518-51fe7c9bc8e6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/27/2932d7c1-b1b4-4207-b518-51fe7c9bc8e6.jpg?width=1024&quality=75&auto=webp",
+     "width": 4737,
+     "height": 7102,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4737,2665,x0,y2010"
+      },
+      {
+       "name": "4:3",
+       "crop": "4737,3553,x0,y1952"
+      },
+      {
+       "name": "1:1",
+       "crop": "1247,1247,x1679,y2057"
+      },
+      {
+       "name": "3:4",
+       "crop": "4737,6316,x0,y786"
+      },
+      {
+       "name": "3:2",
+       "crop": "4737,3158,x0,y1897"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "One in four people feels lonely in the final stage of life. Suicide rates also rise with age. Yet hardly anyone talks about the mental health of the growing elderly population. Four encounters."
+    },
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/07/27/7238e412-1af1-469f-b313-e0b02e5aa717.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/27/7238e412-1af1-469f-b313-e0b02e5aa717.jpg?width=1024&quality=75&auto=webp",
+     "width": 5928,
+     "height": 3954,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5928,3334,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3954,3954,x1627,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5272,3954,x341,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2966,3954,x2962,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5928,3952,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/07/27/b67cad5a-942d-49f3-a6c2-95b5848d5dec.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/27/b67cad5a-942d-49f3-a6c2-95b5848d5dec.jpg?width=1024&quality=75&auto=webp",
+     "width": 8192,
+     "height": 5464,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8192,4608,x0,y422"
+      },
+      {
+       "name": "1:1",
+       "crop": "1915,1915,x3130,y192"
+      },
+      {
+       "name": "4:3",
+       "crop": "7285,5464,x752,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3725,4967,x1138,y322"
+      },
+      {
+       "name": "3:2",
+       "crop": "8192,5461,x0,y3"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/07/27/2932d7c1-b1b4-4207-b518-51fe7c9bc8e6.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/27/2932d7c1-b1b4-4207-b518-51fe7c9bc8e6.jpg?width=1024&quality=75&auto=webp",
+     "width": 4737,
+     "height": 7102,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4737,2665,x0,y2020"
+      },
+      {
+       "name": "1:1",
+       "crop": "1134,1134,x1654,y1996"
+      },
+      {
+       "name": "4:3",
+       "crop": "4737,3553,x0,y1766"
+      },
+      {
+       "name": "3:4",
+       "crop": "4306,5742,x87,y1360"
+      },
+      {
+       "name": "3:2",
+       "crop": "4737,3158,x0,y1897"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzId": "ld.10009854",
+    "readingTime": 600,
+    "paywallQuestionOne": "How does loneliness affect the mental health of older people?",
+    "paywallQuestionTwo": "What measures exist to combat loneliness in old age, and are they sufficient?",
+    "paywallQuestionThree": "Why is the loneliness of older people often taboo and underestimated?",
+    "authorLine": "Jana Kehl (text), Silas Zindel (images)",
+    "product": "NZZ.ch",
+    "documentId": "10009854",
+    "layout": "longformvisual",
+    "publicationDate": "2026-07-29T03:36:04.030Z",
+    "publicationLastUpdated": "2026-08-13T07:59:03.222Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-29T15:36:04.030Z",
+    "teaserCaption": "One in four people feels lonely in the final stage of life. Suicide rates also rise with age. Yet hardly anyone talks about the mental health of the growing elderly population. Four encounters.",
+    "url": "https://www.nzz.ch/zuerich/einsamkeit-im-alter-vier-betroffene-erzaehlen-ld.10009854",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2009,
+    "leadText": "One in four people feels lonely in the final stage of life. Suicide rates also rise with age. Yet hardly anyone talks about the mental health of the growing elderly population. Four encounters.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "They don't help everyone, and how they work is a mystery: What you should know about antidepressants",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Felicitas Witte",
+    "flag": "Explained",
+    "editor": "1374051",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/07/02/0ac7a222-dbbf-47ff-9cff-7a6f0aa3d0d7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/02/0ac7a222-dbbf-47ff-9cff-7a6f0aa3d0d7.jpg?width=1024&quality=75&auto=webp",
+     "width": 7182,
+     "height": 6000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7182,4040,x0,y972"
+      },
+      {
+       "name": "4:3",
+       "crop": "6529,4897,x326,y245"
+      },
+      {
+       "name": "1:1",
+       "crop": "4508,4508,x1291,y547"
+      },
+      {
+       "name": "3:4",
+       "crop": "3719,4959,x1657,y293"
+      },
+      {
+       "name": "3:2",
+       "crop": "6529,4353,x326,y824"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Antidepressants are less effective than thought and can have unpleasant side effects. An overview of who can still benefit from taking them and what to consider when stopping.",
+     "teaserAuthor": "Illustration by Hans-Jörg Walter"
+    },
+    "teaserAuthor": "Illustration by Hans-Jörg Walter",
+    "nzzId": "ld.10005748",
+    "readingTime": 480,
+    "paywallQuestionOne": "How effective are antidepressants compared to placebos?",
+    "paywallQuestionTwo": "What are the common side effects of antidepressants?",
+    "paywallQuestionThree": "What alternatives are there to antidepressants for mild depression?",
+    "characterCount": 10739,
+    "tags": [
+     "Wissenschaft aktuell",
+     "Psyche und Hirnforschung",
+     "Medizin"
+    ],
+    "republicationDate": "2026-07-10T12:11:00.000Z",
+    "product": "NZZ.ch",
+    "documentId": "10005748",
+    "layout": "regular",
+    "publicationDate": "2026-07-10T12:11:00.000Z",
+    "publicationLastUpdated": "2026-07-10T12:11:01.061Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-02T21:38:18.905Z",
+    "teaserCaption": "Antidepressants are less effective than thought and can have unpleasant side effects. An overview of who can still benefit from taking them and what to consider when stopping.",
+    "url": "https://www.nzz.ch/wissenschaft/antidepressiva-und-ihre-wirkung-fuer-wen-sind-sie-sinnvoll-ld.10005748",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1506,
+    "leadText": "Antidepressants are less effective than thought and can have unpleasant side effects. An overview of who can still benefit from taking them and what to consider when stopping.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "We treat young people's problems as lightly as we once did climate change",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/06/27/0c4bc69d-db8a-413b-8aa3-5cac9c8ed14e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/27/0c4bc69d-db8a-413b-8aa3-5cac9c8ed14e.jpg?width=1024&quality=75&auto=webp",
+     "width": 7630,
+     "height": 5089,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7630,4292,x0,y100"
+      },
+      {
+       "name": "4:3",
+       "crop": "6785,5089,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "756,756,x4297,y1502"
+      },
+      {
+       "name": "3:4",
+       "crop": "3817,5089,x1955,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7630,5087,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Politics is stuck in defensive mode. It only reacts to directly experienced threats instead of anticipating dangers in a timely manner. That's why the country is struggling with a crisis in national defense, in pension financing – and soon also with a youth problem.",
+     "teaserAuthor": "Oleh Slobodeniuk / E+ / Getty"
+    },
+    "teaserAuthor": "Oleh Slobodeniuk / E+ / Getty",
+    "flag": "Opinion",
+    "tags": [
+     "NZZaS - Editorial"
+    ],
+    "showComments": true,
+    "nzzId": "ld.10012929",
+    "readingTime": 120,
+    "paywallQuestionOne": "Why does politics ignore the growing problems of young people?",
+    "paywallQuestionTwo": "What role does the aging population play in setting political priorities?",
+    "paywallQuestionThree": "How does AI affect the career prospects of young people in Switzerland?",
+    "characterCount": 2989,
+    "product": "NZZ.ch",
+    "documentId": "10012929",
+    "layout": "opinion",
+    "publicationDate": "2026-06-28T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-29T08:49:12.694Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-28T15:30:00.000Z",
+    "teaserCaption": "Politics is stuck in defensive mode. It only reacts to directly experienced threats instead of anticipating dangers in a timely manner. That's why the country is struggling with a crisis in national defense, in pension financing – and soon also with a youth problem.",
+    "authorLine": "Beat Balzli",
+    "authorImage": {
+     "originalUrl": "/2024/04/30/a9b1d954-e0e2-4a3f-81b3-4cf22cb8692e.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/04/30/a9b1d954-e0e2-4a3f-81b3-4cf22cb8692e.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/a9b1d954-e0e2-4a3f-81b3-4cf22cb8692e.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/wir-nehmen-die-probleme-der-jugend-so-wenig-ernst-wie-einst-den-klimawandel-ld.10012929",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 488,
+    "leadText": "Politics is stuck in defensive mode. It only reacts to directly experienced threats instead of anticipating dangers in a timely manner. That's why the country is struggling with a crisis in national defense, in pension financing – and soon also with a youth problem.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 28,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10006177",
+    "name": "Psychiatric nursing: Where does responsibility for another person's life end?",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Gesellschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Psychiatric nursing: Where does responsibility for another person's life end?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1858673,
+       "name": "Manuel Stark",
+       "shortName": "msk",
+       "external": false
+      },
+      {
+       "id": 10003466,
+       "name": "Fotografinnen und Fotografen",
+       "shortName": "FF",
+       "external": true
+      }
+     ],
+     "issueTimestamp": "2026-05-23T04:00:00.000Z",
+     "updateTimestamp": "2026-05-23T04:00:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10006177",
+   "pageType": "longformvisual",
+   "primaryCategory": "Gesellschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Experiences from psychiatric nursing: Where does responsibility end?",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4024,2263,x0,y1892&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Manuel Stark (text), Annick Ramp (images)",
+  "description": "Insights into psychiatric nursing: What experiences do professionals have? A report on their willingness to help and their own limitations.",
+  "news_keywords": "Psychiatric nursing: Where does responsibility for another person's life end?, Society, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-05-23T08:00:00+02:00",
+  "date": "2026-05-23T08:00:00+02:00",
+  "canonical": "https://www.nzz.ch/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Psychiatric nursing: Where does responsibility for another person's life end?",
+  "ogTitle": "Psychiatric nursing: Where does responsibility for another person's life end?",
+  "ogUrl": "https://www.nzz.ch/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177",
+  "mrf:cms_id": "nzz:ld.10006177",
+  "mrf:sections": "Gesellschaft",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10006177",
+  "nzzAuthors": [
+   {
+    "id": 1858673,
+    "name": "Manuel Stark",
+    "shortName": "msk",
+    "external": false
+   },
+   {
+    "id": 10003466,
+    "name": "Fotografinnen und Fotografen",
+    "shortName": "FF",
+    "external": true
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:16 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/gesellschaft",
+      "name": "Society"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Experiences from psychiatric nursing: Where does responsibility end?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177"
+   },
+   "headline": "Experiences from psychiatric nursing: Where does responsibility end?",
+   "datePublished": "2026-05-23T08:00:00+02:00",
+   "dateModified": "2026-05-23T08:00:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Insights into psychiatric nursing: What experiences do professionals have? A report on their willingness to help and their own limitations.",
+   "isAccessibleForFree": false,
+   "articleSection": "Gesellschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2024/04/03/18d3643f-95ad-4b6c-b901-a4dc14695b94.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4024,2263,x0,y1892&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Manuel Stark"
+    },
+    {
+     "@type": "Person",
+     "name": "Photographers"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 1639488,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/gesellschaft/erfahrungen-aus-der-psychiatrischen-pflege-wo-endet-verantwortung-ld.10006177",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformvisual",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10006177",
+    "channel=Gesellschaft"
+   ],
+   "ContentCreated": "2026-05-23T04:00:00.000Z",
+   "ContentAuthor": "Manuel Stark (Text), Annick Ramp (Bilder)",
+   "ContentSection": "Gesellschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "nzzAbstract": "Wie definieren psychiatrische Pflegefachpersonen ihre Verantwortung?\nWelche Rolle spielt Mitgefühl in der psychiatrischen Pflege?\nWie beeinflusst Teamarbeit die Verantwortung in der Psychiatrie?",
+   "ldId": "ld.10006177",
+   "channel": "Gesellschaft",
+   "heading": "Pflege in der Psychiatrie: Wo endet die Verantwortung für das Leben eines anderen?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,707 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1g41pj11",
+   "content": {
+    "title": "Wednesday Morning Briefing",
+    "lead": "<strong>The most important news to start your day:</strong> The impact of the Industrial Accelerator Act on Switzerland; new mutual attacks in the Iran war; many apprentices struggle with reading and writing",
+    "author": ""
+   },
+   "position": "fixed",
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqib7v0",
+   "content": {
+    "text": "<strong>Read this only in the NZZ:</strong> Johannes Teyssen presided over the Alpiq power company for five years and then chaired the supervisory board of Lufthansa. He said concerns about Swiss sometimes felt like phantom pains. He added that Swiss unilateral actions were an illusion — whether in energy supply or aviation. <a href=\"https://www.nzz.ch/ld.10020787\">Read the interview</a>"
+   },
+   "data": {},
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-c0e4c390",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqje3p0",
+   "content": {
+    "title": "The Most Important News This Morning",
+    "id": "subtitle-das-wichtigste-am-morgen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqjsuh0",
+   "content": {
+    "title": "Europe's new protectionism: a threat to Swiss automotive suppliers",
+    "id": "subtitle-europas-neuer-protektionismus-bedroht-schweizer-autozulieferer"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ju7oc13u0",
+   "content": {
+    "image": {
+     "author": "Reuters/Maxim Shemetov",
+     "caption": "",
+     "originalUrl": "/2026/09/02/25a40f33-ad59-4c90-b925-8368d93a95cb.webp?width=1024",
+     "width": 2048,
+     "height": 1347,
+     "altText": "A newly presented electric roadster Formula",
+     "imageService": "fastly"
+    },
+    "author": "Reuters/Maxim Shemetov",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk0lk0",
+   "content": {
+    "text": "<strong>What happened:</strong> The European Union no longer wanted to tolerate industrial competition distorted, in particular, by Chinese subsidies. In early March, the EU Commission presented the draft for the Industrial Accelerator Act. It subsequently appeared that Swiss automotive suppliers could become collateral damage. It remained unclear whether they would be recognized as European suppliers at the end of the political process. <a href=\"https://www.nzz.ch/ld.10021430\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk3tu0",
+   "content": {
+    "text": "<strong>Why it matters: </strong>The central question was how the EU would precisely define the rules of origin in the final legal text. Opinions on this apparently differed widely. Within the EU, a conflict between protectionists and proponents of open markets seemed to be underway. «We are very concerned about the EU’s Industrial Accelerator Act,» confirmed Stefan Brupbacher, the director of the industry association Swissmem."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqkj090",
+   "content": {
+    "title": "US and Iran: new mutual attacks",
+    "id": "subtitle-usa-und-iran-greifen-sich-wieder-gegenseitig-an"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqk71p0",
+   "content": {
+    "text": "<strong>What happened:</strong> The Iran war saw the heaviest fighting in weeks. The US initially targeted sites near the Strait of Hormuz yesterday. Iran's Revolutionary Guards announced the start of a retaliatory action against American bases shortly thereafter. Jordan and Kuwait then reported Iranian missile and drone attacks. <a href=\"https://www.nzz.ch/international/iran-krieg-irans-revolutionsgarden-wollen-volle-kontrolle-ueber-strasse-von-hormuz-haben-durch-die-strasse-von-hormuz-fahren-wieder-mehr-schiffe-ld.10021246\">Read the live ticker</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqktcc0",
+   "content": {
+    "text": "<strong>Background:</strong> Barron Trump, the 20-year-old son of the US President, had become a target of the Iranian regime. Under the title «Where Barron Trump Is to Be Killed,» state media published an AI-generated video that offered a bounty of millions. Vienna-based Iran expert Walter Posch interpreted the video as a sign of nervousness: «The Iranians wanted to make it clear once again: We were very strong, and we could do this.» <a href=\"https://www.nzz.ch/ld.10021887\">Read the background report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fkvhm00",
+   "content": {
+    "text": "<strong>Why it matters: </strong>There were also reportedly assassination plots in the US against a son of Israeli Prime Minister Benjamin Netanyahu. Iran was likely primarily concerned with creating uncertainty and psychological pressure. The message was that even the closest circles of the world's best-protected politicians were reachable. At the same time, the regime demonstrated its capacity to act to its own population – at a time when it was fighting for its own survival."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlql0jn0",
+   "content": {
+    "title": "What Else Happened",
+    "id": "subtitle-was-sonst-noch-passiert-ist"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1flr4gs0",
+   "content": {
+    "text": "<strong>One in five companies planned to hire fewer apprentices due to deficits in writing and arithmetic skills:</strong> The decline in youth competencies, observed for years, also affected apprenticeship offerings. Companies were tightening their selection criteria or leaving positions vacant if suitable applicants were missing. <a href=\"https://www.nzz.ch/ld.10021955\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fl3tb70",
+   "content": {
+    "text": "<strong>The City of Zurich got serious about business apartments:</strong> Effective Sept. 1, providers of short-term rental apartments had to submit a building application to request a change of use from residential to business apartment. To process these, the City was creating five full-time positions. <a href=\"https://www.nzz.ch/ld.10021912\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1flr4ra0",
+   "content": {
+    "text": "<strong>One of the investigating public prosecutors in the Crans-Montana case was leaving:</strong> Cindy Kämpf would leave the Valais prosecutor's office at the end of the year. The background was Kämpf's recusal in a pedophilia trial. The proceedings against her shed light on contentious issues that also played an important role in the investigation into the New Year's Eve fire disaster. <a href=\"https://www.nzz.ch/ld.10021943\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eueuk81",
+   "content": {
+    "text": "<strong>Top chef Didi Bruna was retiring:</strong> Bruna had been a fixture in Zurich's gastronomy scene for decades. His restaurant «Didi’s Frieden» was awarded 15 Gault &amp; Millau points. Bruna would retire in a few weeks, and he had decided to close his business. <a href=\"https://www.nzz.ch/ld.10021326\">Read the interview</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fl6bau0",
+   "content": {
+    "text": "<strong>Ragebait, Crashout, and Peak were the candidates for the German Youth Word of 2026:</strong> The selection made by Langenscheidt publishing house showed the increasing influence of English. Young people effortlessly merged German and English sentence fragments and words in their daily lives when they communicated with each other. <a href=\"https://www.nzz.ch/ld.10021870\">Read the report</a><a href=\"https://www.nzz.ch/ld.10021870\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1fm0o4f0",
+   "content": {
+    "text": "<strong>Artist summit</strong> <strong>at the Lucerne Festival:</strong> The Berlin Philharmonic, the Orchestra of the New York Met, and centenarian pianist Martha Argerich performed at the Lucerne Culture and Congress Centre – and the audience was on its feet. <a href=\"https://www.nzz.ch/ld.10021866\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqnjlm0",
+   "content": {
+    "title": "Our Recommendations Today",
+    "id": "subtitle-das-empfehlen-wir-heute"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jqlqo04q0",
+   "content": {
+    "image": {
+     "author": "Anne Morgenstern for NZZ",
+     "caption": "",
+     "originalUrl": "/2026/09/01/659c06b0-5e71-4e58-8a1e-25d8ee6d7983.webp?crop=2048,2901,x0,y0",
+     "width": 2048,
+     "height": 2901,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2048,
+      "height": 2901,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2048,
+       "height": 2901,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Anne Morgenstern for NZZ",
+    "caption": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--right"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo2lq0",
+   "content": {
+    "text": "<strong>Swiss sports history:</strong> Women were a minority in wrestling. For the first time in Switzerland, however, an international tournament exclusively for female wrestlers took place in Einsiedeln. The Ladies Wrestling Tournament was making Swiss sports history. But women who fought still caused irritation. <a href=\"https://www.nzz.ch/ld.10021118\">Read the background report</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqo6pr0",
+   "content": {
+    "text": "<strong>Pesticides in bread: </strong>Not only fruits and vegetables but also bread often contained pesticide residues. This was normal, but those who wanted to minimize their risk had to take action. Experts explained how concerning the toxins were for health and how one could protect oneself. <a href=\"https://www.nzz.ch/ld.10013927\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoabg0",
+   "content": {
+    "text": "<strong>Threatening Moscow:</strong> According to historian Matthias Uhl, Russia was militarily dangerous – but nowhere near as strong as it was often portrayed in the West. In an interview, he explained why Europe had to prepare for a new geopolitical era. Uhl added, «I believed that Putin was increasingly detached from reality.» <a href=\"https://www.nzz.ch/ld.10020200\">Read the «NZZ Pro» interview</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqodt40",
+   "content": {
+    "title": "Our Recommendation for «The Market» Subscribers",
+    "id": "subtitle-unsere-empfehlung-f-r-the-market-abonnenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqoibo0",
+   "content": {
+    "text": "<strong>China would soon dominate half of global production: </strong>The country was pumping state resources into production capacities to dominate more and more industries. The «China Shock 2.0» had long since arrived in Europe – and was increasingly meeting resistance from Paris to Berlin. <a href=\"https://themarket.ch/makro-maerkte/china-beherrscht-bald-die-haelfte-der-weltproduktion-ld.17585\">Read the report</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jqlqours0",
+   "content": {
+    "title": "Before You Go On",
+    "id": "subtitle-bevor-sie-weitergehen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpnda0",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Hundreds of thousands of veterans returned from the wars after Sept. 11, 2001. To this day, they struggled with the wounds they sustained in Afghanistan or Iraq. More than 40% of them suffered from depression, post-traumatic stress disorder, or addiction. US correspondent Andreas Scheiner spoke with veterans. In «NZZ Akzent,» he explained how they were trying to put their lives back together. <a href=\"https://www.nzz.ch/ld.10021892\">Listen to the podcast</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpro70",
+   "content": {
+    "text": "<strong>📖 Read:</strong> Around the year zero, the world was in turmoil. The Roman Empire was under pressure, a slave ruled among the Parthians, and a Messiah was born in Palestine. In his new book, Moritz Aisslinger sketched a panorama of a time when the foundations of Europe were laid. <a href=\"https://www.nzz.ch/ld.10021691\">Read the review</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqpvb00",
+   "content": {
+    "text": "Have a good day!"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jqlqq3pj0",
+   "content": {
+    "text": "Klaus Bardenhagen, Ulrike Putz, Marcel Urech and Kathrin Klette"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k1g41pj30",
+   "content": {
+    "text": "The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Morning briefing",
+  "dependencies": {},
+  "nzzId": "ld.10022015",
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/25a40f33-ad59-4c90-b925-8368d93a95cb.webp?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/25a40f33-ad59-4c90-b925-8368d93a95cb.webp?width=1024&quality=75&auto=webp",
+   "width": 2048,
+   "height": 1347,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2048,1152,x0,y98"
+    },
+    {
+     "name": "4:3",
+     "crop": "1796,1347,x126,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1347,1347,x351,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1010,1347,x519,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2021,1347,x14,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The most important news to start the day: The impact of the Industrial Accelerator Act on Switzerland ++ New mutual attacks in the Iran war ++ Many apprentices have poor reading and writing skills",
+   "teaserAuthor": "Reuters/Maxim Shemetov"
+  },
+  "teaserAuthor": "Reuters/Maxim Shemetov",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 300,
+  "characterCount": 6906,
+  "breadcrumbs": [
+   {
+    "name": "Briefing",
+    "path": "/briefing"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022015,
+  "contentTypeGroup": "web",
+  "layout": "briefing",
+  "firstPublicationDate": "2026-09-02T03:59:00.000Z",
+  "publicationDate": "2026-09-02T03:59:00.000Z",
+  "publicationLastUpdated": "2026-09-02T07:48:53.690Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:59:00.000Z",
+  "teaserCaption": "The most important news to start the day: The impact of the Industrial Accelerator Act on Switzerland ++ New mutual attacks in the Iran war ++ Many apprentices have poor reading and writing skills",
+  "nzzAuthors": [
+   {
+    "id": 1594437,
+    "name": "Klaus Bardenhagen",
+    "shortName": "kbh",
+    "external": false
+   }
+  ],
+  "authorLine": "",
+  "url": "/briefing/briefing-am-morgen-ld.10022015",
+  "department": {
+   "name": "Briefing",
+   "path": "/briefing"
+  },
+  "estimationWordCount": 1020,
+  "leadText": "The most important news to start the day: The impact of the Industrial Accelerator Act on Switzerland ++ New mutual attacks in the Iran war ++ Many apprentices have poor reading and writing skills",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/briefing/briefing-am-morgen-ld.10022015",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/briefing/briefing-am-morgen-ld.10022015",
+   "title": "Wednesday Morning Briefing",
+   "socialMediaTitle": "Wednesday Morning Briefing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/25a40f33-ad59-4c90-b925-8368d93a95cb.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y98&wmark=nzz"
+  },
+  "ldPublicationId": 2487447,
+  "isHighlightedHeader": true,
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 358176,
+  "colorSchema": "color-schema--briefing",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022015",
+    "name": "Morning briefing",
+    "type": "article",
+    "subType1": "briefing",
+    "subType2": "",
+    "primaryCategory": "Briefing",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Morning briefing",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1594437,
+       "name": "Klaus Bardenhagen",
+       "shortName": "kbh",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:59:00.000Z",
+     "updateTimestamp": "2026-09-02T07:48:53.690Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022015",
+   "pageType": "briefing",
+   "primaryCategory": "Briefing",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Wednesday Morning Briefing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/25a40f33-ad59-4c90-b925-8368d93a95cb.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y98&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "The most important news to start the day: The impact of the Industrial Accelerator Act on Switzerland ++ New mutual attacks in the Iran war ++ Many apprentices have poor reading and writing skills",
+  "news_keywords": "Morning briefing, briefing, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T11:48:53+02:00",
+  "date": "2026-09-02T07:59:00+02:00",
+  "canonical": "https://www.nzz.ch/briefing/briefing-am-morgen-ld.10022015",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Morning briefing",
+  "ogTitle": "Wednesday Morning Briefing",
+  "bookmarkTitle": "NZZ Briefing",
+  "ogUrl": "https://www.nzz.ch/briefing/briefing-am-morgen-ld.10022015",
+  "mrf:cms_id": "nzz:ld.10022015",
+  "mrf:sections": "Briefing",
+  "mrf:tags": "Page Type:briefing;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022015",
+  "nzzAuthors": [
+   {
+    "id": 1594437,
+    "name": "Klaus Bardenhagen",
+    "shortName": "kbh",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/briefing/briefing-am-morgen-ld.10022015"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:06 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Briefing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/briefing/briefing-am-morgen-ld.10022015"
+   },
+   "headline": "Wednesday Morning Briefing",
+   "datePublished": "2026-09-02T07:59:00+02:00",
+   "dateModified": "2026-09-02T11:48:53+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The most important news to start the day: The impact of the Industrial Accelerator Act on Switzerland ++ New mutual attacks in the Iran war ++ Many apprentices have poor reading and writing skills",
+   "isAccessibleForFree": false,
+   "articleSection": "Briefing",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/25a40f33-ad59-4c90-b925-8368d93a95cb.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y98&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Klaus Bardenhagen"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 358176,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/briefing/briefing-am-morgen-ld.10022015",
+    "classification=default",
+    "relevance=default",
+    "layout=briefing",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022015",
+    "channel=Briefing"
+   ],
+   "ContentCreated": "2026-09-02T03:59:00.000Z",
+   "ContentSection": "Briefing",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "briefing",
+   "ldId": "ld.10022015",
+   "channel": "Briefing",
+   "heading": "Briefing am Morgen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

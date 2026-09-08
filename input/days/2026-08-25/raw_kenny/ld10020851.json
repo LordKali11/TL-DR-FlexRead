@@ -1,0 +1,1239 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0q4p3vk1",
+   "content": {
+    "title": "First FMH data on tax point cap: only 7% of doctors affected",
+    "lead": "Discontent among doctors is high. From 2027, they will only be allowed to charge a maximum number of tax points for certain treatments. An analysis by the FMH association shows: A large proportion of doctors already remain below the planned limit.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0q4p3vk2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Isabelle Wachter",
+       "url": "/impressum/isabelle-wachter-ld.1760317",
+       "teaserImage": {
+        "originalUrl": "/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0q4p3vk3",
+   "content": {
+    "image": {
+     "author": "Gaëtan Bally/Keystone",
+     "caption": "A general practitioner treats a patient's wound. The planned tax point cap has unsettled doctors for weeks.",
+     "originalUrl": "/2026/08/24/d7a01994-ee11-4c54-bb0e-0859f69f7127.jpg?crop=6720,4480,x0,y0",
+     "width": 6720,
+     "height": 4480,
+     "altText": "A general practitioner at the Seebach Medical Center in Zurich, Switzerland, treats a patch on a patient's forearm, photographed on 19 August 2019. (KEYSTONE/Gaetan Bally)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2156784133"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6720,
+      "height": 4480,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6720,
+       "height": 4480,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A general practitioner treats a patient's wound. The planned tax point cap has unsettled doctors for weeks.",
+    "author": "Gaëtan Bally/Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q4p3vk4",
+   "content": {
+    "text": "The tax point cap for medical services caused a stir among doctors this summer. Some doctors worry they will have to close their practices earlier because they would already reach the planned maximum tax point limit by midday. This, they fear, endangers supply security."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-fc3bd255",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qf5h821",
+   "content": {
+    "text": "According to initial analyses by the Swiss Medical Association (FMH), the regulation showed that it would have no impact on the majority of doctors. Only about 7% of doctors are affected by the tax point cap, which is set to be introduced on Jan. 1, 2027, the FMH said."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0q5a10r0",
+   "content": {
+    "title": "Individual specializations and practice constellations affected",
+    "id": "subtitle-einzelne-fachrichtungen-und-praxis-konstellationen-betroffen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh98k30",
+   "content": {
+    "text": "The planned tax point cap dates back to cost-containment package 2 from 2025. At that time, Parliament decided to introduce it along with other measures. Parliamentarians had then presented invoices on which doctors listed unrealistically high working hours. They suspected abuse behind this, which they wanted to combat with the new law."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0qh9rrd0",
+   "content": {
+    "text": "At the beginning of July, the FMH, the health insurer association Prioswiss, and the hospital association H+ published a concept for the maximum tax point limit, which they had submitted to the Federal Council for review. It provides that doctors may charge a daily average of a maximum of 1577 tax points for medical services within one month, according to the FMH, Prioswiss, and H+. This corresponds to an average of 12 hours per day that doctors spend on patient consultations and examinations. Services billed through supplementary insurance, staff and infrastructure services, emergencies, outpatient flat rates, and report writing are not included."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q4qucm0",
+   "content": {
+    "text": "The 7% of affected doctors are specialists from individual fields and specific practice constellations. There are treatments, such as ultrasound examinations, that are frequently performed in certain specializations, for which the recorded times have not been updated for years. This is because the revision of outpatient tariffs was blocked for years as the associations of health insurers, doctors, and hospitals could not agree."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q57a3q0",
+   "content": {
+    "text": "Due to new technical possibilities, these treatments today, for example, take only 25 minutes, although they are still recorded as 50 minutes in the tariff system. In addition, some doctors are faster because they have more experience and routine than others. The recorded times – referred to in jargon as minute values – are average values and do not correspond to the actual time spent on every treatment. In such cases, it is possible that a doctor reaches the tax point limit of 1577 points even before the practice closes."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q59mvb1",
+   "content": {
+    "text": "Furthermore, practice constellations could be affected where, for example, 10 doctors are employed but all bill through one doctor, the FMH said. Here, overruns of the maximum limit are sometimes counted where none exist. The FMH has not yet been able to filter out all affected practices."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0q5jttg0",
+   "content": {
+    "title": "Council of States commission to revisit limit",
+    "id": "subtitle-st-nderatskommission-diskutiert-limite-erneut"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5lnch1",
+   "content": {
+    "text": "The FMH said it had always fought such a limit. However, since Parliament had decided on it, the association had been forced to submit a concept together with the health insurers and hospitals. If this had not happened, the Federal Council would have had to set the limit itself in an ordinance, it added. Because the new Tardoc tariff had only been introduced on Jan. 1, 2026, no data had been available for the development of the concept, the FMH stated. These had only been available for evaluation since mid-July, it noted."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q5n8a61",
+   "content": {
+    "text": "Doctors now have the opportunity to check the effects of the tax point cap on their practice in their software. The FMH has also sent questionnaires to the professional associations to determine the impact on individual specializations. They can submit these anonymously to the FMH by the end of September."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0q4rm4i0",
+   "content": {
+    "text": "Due to protests from the medical community, the Council of States commission is discussing the maximum limit again. «We have heard the cry for help from the medical community; this absolutely must be looked at again,» said Swiss People's Party (SVP) Council of States member Hannes Germann to SRF in mid-August. Social Democrats (SP) Council of States member Baptiste Hurni sees the problem as being with the excessively high tariffs, not with the cap, he told SRF. He would therefore advocate in the commission for the cap to be introduced as planned in January, Hurni added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0q4p3vk5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0q4p3vk6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0q4p3vk8",
+      "content": {
+       "title": "Angry doctors and feuding physiotherapists: The powerful lobbying machine of the healthcare system is sputtering",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "characterCount": 6558,
+       "teaserImage": {
+        "originalUrl": "/2026/07/10/2f6aade3-a740-4b38-80cf-42ceb8e84033.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/10/2f6aade3-a740-4b38-80cf-42ceb8e84033.jpg?width=1024&quality=75&auto=webp",
+        "width": 2850,
+        "height": 4275,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "2850,1603,x0,y1336"
+         },
+         {
+          "name": "4:3",
+          "crop": "2850,2138,x0,y1069"
+         },
+         {
+          "name": "1:1",
+          "crop": "2850,2850,x0,y713"
+         },
+         {
+          "name": "3:4",
+          "crop": "2850,3800,x0,y238"
+         },
+         {
+          "name": "3:2",
+          "crop": "2850,1900,x0,y1188"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Associations play a significant role in shaping health policy. However, internal conflicts like those at the FMH and Physioswiss weaken them. Meanwhile, the federal government exerts even more influence.",
+        "teaserAuthor": "Christoph Ruckstuhl / NZZ"
+       },
+       "teaserAuthor": "Christoph Ruckstuhl / NZZ",
+       "nzzId": "ld.10014944",
+       "readingTime": 300,
+       "paywallQuestionOne": "How does the internal conflict affect the power of health associations?",
+       "paywallQuestionTwo": "Why is politics intervening more strongly in wage setting?",
+       "paywallQuestionThree": "What are the consequences of the disagreement between the associations for the healthcare system?",
+       "product": "NZZ.ch",
+       "documentId": 10014944,
+       "layout": "regular",
+       "publicationDate": "2026-07-11T03:30:00.000Z",
+       "publicationLastUpdated": "2026-07-11T05:30:35.267Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-11T15:30:00.000Z",
+       "teaserCaption": "Associations play a significant role in shaping health policy. However, internal conflicts like those at the FMH and Physioswiss weaken them. Meanwhile, the federal government exerts even more influence.",
+       "authorLine": "Isabelle Wachter",
+       "authorImage": {
+        "originalUrl": "/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/wuetende-aerzte-und-zerstrittene-physios-die-maechtige-lobby-maschine-des-gesundheitswesens-stottert-ld.10014944",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 938,
+       "leadText": "Associations play a significant role in shaping health policy. However, internal conflicts like those at the FMH and Physioswiss weaken them. Meanwhile, the federal government exerts even more influence.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0q4p3vk7",
+      "content": {
+       "title": "Doctors instigate a shitstorm against their own association – because they want to bill for more than twelve hours per day",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2024/05/29/b6a6275b-d83c-47c5-a055-742524503df7.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/b6a6275b-d83c-47c5-a055-742524503df7.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6036,
+        "height": 4024,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6036,3395,x0,y342"
+         },
+         {
+          "name": "4:3",
+          "crop": "5365,4024,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4024,4024,x654,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3018,4024,x1157,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6036,4024,x0,y0"
+         }
+        ],
+        "focalPoint": {
+         "x": 2666,
+         "y": 2039
+        },
+        "imageService": "fastly",
+        "teaserCaption": "The federal government wants to cap doctors' compensation. Although the industry association FMH was able to secure numerous exceptions, it is now under fire: its own members show no understanding for the compromise.",
+        "teaserAuthor": "Annick Ramp / NZZ"
+       },
+       "teaserAuthor": "Annick Ramp / NZZ",
+       "nzzId": "ld.10014033",
+       "readingTime": 180,
+       "paywallQuestionOne": "Why is the planned cap on doctors' fees causing discontent?",
+       "paywallQuestionTwo": "How does the FMH react to the criticism from its members?",
+       "paywallQuestionThree": "What consequences could the 12-hour rule have for patient care?",
+       "characterCount": 4151,
+       "product": "NZZ.ch",
+       "documentId": 10014033,
+       "layout": "regular",
+       "publicationDate": "2026-07-04T03:30:00.000Z",
+       "publicationLastUpdated": "2026-07-04T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-04T15:30:00.000Z",
+       "teaserCaption": "The federal government wants to cap doctors' compensation. Although the industry association FMH was able to secure numerous exceptions, it is now under fire: its own members show no understanding for the compromise.",
+       "authorLine": "Isabelle Wachter",
+       "authorImage": {
+        "originalUrl": "/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/die-aerzte-zetteln-einen-shitstorm-gegen-ihren-eigenen-verband-an-weil-sie-mehr-als-12-stunden-pro-tag-verrechnen-wollen-ld.10014033",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 638,
+       "leadText": "The federal government wants to cap doctors' compensation. Although the industry association FMH was able to secure numerous exceptions, it is now under fire: its own members show no understanding for the compromise.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "First FMH data on tax point cap: only 7% of doctors affected",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/d7a01994-ee11-4c54-bb0e-0859f69f7127.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/d7a01994-ee11-4c54-bb0e-0859f69f7127.jpg?width=1024&quality=75&auto=webp",
+   "width": 6720,
+   "height": 4480,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6720,3780,x0,y700"
+    },
+    {
+     "name": "4:3",
+     "crop": "5973,4480,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4480,4480,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3360,4480,x293,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6720,4480,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 1973,
+    "y": 3550
+   },
+   "imageService": "fastly",
+   "teaserCaption": "There is widespread discontent among doctors. From 2027, they will only be allowed to charge a maximum number of tax points for certain treatments. An analysis by the FMH (Swiss Medical Association) shows that a large proportion of doctors are already operating below the proposed limit.",
+   "teaserAuthor": "Gaëtan Bally/Keystone"
+  },
+  "teaserAuthor": "Gaëtan Bally/Keystone",
+  "nzzId": "ld.10020851",
+  "readingTime": 180,
+  "characterCount": 4342,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020851,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T04:15:39.028Z",
+  "publicationDate": "2026-08-25T04:15:39.028Z",
+  "publicationLastUpdated": "2026-08-25T04:15:39.028Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T16:15:39.028Z",
+  "teaserCaption": "There is widespread discontent among doctors. From 2027, they will only be allowed to charge a maximum number of tax points for certain treatments. An analysis by the FMH (Swiss Medical Association) shows that a large proportion of doctors are already operating below the proposed limit.",
+  "nzzAuthors": [
+   {
+    "id": 1699175,
+    "name": "Isabelle Wachter",
+    "shortName": "wai",
+    "pianoId": "c9178452-a5d5-4ff6-9241-6187fa333334",
+    "external": false
+   }
+  ],
+  "authorLine": "Isabelle Wachter",
+  "authorImage": {
+   "originalUrl": "/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1760317,
+    "name": "Isabelle Wachter (wai.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/10/11/cf7a0765-64e8-431f-8ea3-8914315c85d9.png?width=1024&quality=75&auto=webp",
+  "url": "/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 649,
+  "leadText": "There is widespread discontent among doctors. From 2027, they will only be allowed to charge a maximum number of tax points for certain treatments. An analysis by the FMH (Swiss Medical Association) shows that a large proportion of doctors are already operating below the proposed limit.",
+  "nzzSummaryEN": "- Starting in 2027, a tax point cap for medical treatments will be introduced, impacting only 7% of doctors, according to an FMH analysis.\n- The cap, part of a cost-cutting package, aims to address potential misuse; specialists and certain practices might face challenges.\n- The Council of States commission is reconsidering the cap following protests from the medical community.",
+  "nzzSummaryDE": "- From 2027 onwards, a cap on tax points will be introduced for medical treatments, which, according to FMH analysis, will only affect 7 percent of doctors.\n - The cap is part of a cost-cutting package and is intended to curb alleged abuse; specialists and certain practices could face difficulties.\n - The Council of States committee is considering reviewing the cap again in light of the protests from the medical profession.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "x",
+  "nzzPrintSubtitle": "x",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851",
+   "title": "First FMH data on tax point cap: only 7% of doctors affected",
+   "socialMediaTitle": "First FMH data on tax point cap: only 7% of doctors affected",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/d7a01994-ee11-4c54-bb0e-0859f69f7127.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6720,3780,x0,y700&wmark=nzz"
+  },
+  "ldPublicationId": 2483200,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Council of States",
+    "slug": "/themen/staenderat"
+   },
+   {
+    "name": "Health insurance",
+    "slug": "/themen/krankenkasse"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10014944",
+    "ld.10014033"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 319560,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "staenderat",
+   "name": "Council of States",
+   "tagName": "Council of States",
+   "qId": "Q609037",
+   "seoTitle": "Council of States – All articles about the upper house of the Swiss Parliament | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 19:25:26.332Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/staenderat",
+   "size": 919,
+   "relatedTopics": [
+    {
+     "name": "Krankenkasse",
+     "slug": "/themen/krankenkasse"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "«Lex UBS»: Committee decision is a step in the right direction, but not yet a liberation",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "teaserImage": {
+     "originalUrl": "/2025/09/26/ea09f3a1-b219-49a7-901b-d7f8a4ea0ce2.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/09/26/ea09f3a1-b219-49a7-901b-d7f8a4ea0ce2.jpg?width=1024&quality=75&auto=webp",
+     "width": 5308,
+     "height": 3539,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5308,2986,x0,y52"
+      },
+      {
+       "name": "4:3",
+       "crop": "4719,3539,x295,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3539,3539,x885,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2654,3539,x1327,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5308,3539,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Council of States' Economic Affairs Committee rejects the Federal Council's proposal for the big bank's capitalization. However, its own response to the Federal Council's plans also shows shortcomings.",
+     "teaserAuthor": "Stefan Wermuth / Bloomberg"
+    },
+    "teaserAuthor": "Stefan Wermuth / Bloomberg",
+    "nzzId": "ld.10021864",
+    "readingTime": 180,
+    "paywallQuestionOne": "How do the new AT1 rules affect UBS's competitiveness?",
+    "paywallQuestionTwo": "What risks does the «Swiss Finish» pose for AT1 bonds?",
+    "paywallQuestionThree": "Why does the Council of States reject the Federal Council's proposal?",
+    "characterCount": 4603,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021864",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-02T04:05:00.192Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:30:00.000Z",
+    "teaserCaption": "The Council of States' Economic Affairs Committee rejects the Federal Council's proposal for the big bank's capitalization. However, its own response to the Federal Council's plans also shows shortcomings.",
+    "authorLine": "Beatrice Bösiger",
+    "authorImage": {
+     "originalUrl": "/2024/12/18/fe52bced-0cc0-4555-a3ba-c4b9ed4dd1da.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/12/18/fe52bced-0cc0-4555-a3ba-c4b9ed4dd1da.jpeg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4333,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "2705,2705,x1931,y485"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/18/fe52bced-0cc0-4555-a3ba-c4b9ed4dd1da.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/lex-ubs-der-kommissionsentscheid-ist-ein-schritt-in-die-richtige-richtung-aber-noch-kein-befreiungsschlag-ld.10021864",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 693,
+    "leadText": "The Council of States' Economic Affairs Committee rejects the Federal Council's proposal for the big bank's capitalization. However, its own response to the Federal Council's plans also shows shortcomings.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 9,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Council of States aims to conclude mammoth debate on new EU agreements in three days",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/03/27/b7bda767-c45f-4bd3-ba07-4c8a59fa3665.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/27/b7bda767-c45f-4bd3-ba07-4c8a59fa3665.jpg?width=1024&quality=75&auto=webp",
+     "width": 5104,
+     "height": 3403,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5104,2871,x0,y471"
+      },
+      {
+       "name": "4:3",
+       "crop": "4537,3403,x523,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2812,2812,x1315,y556"
+      },
+      {
+       "name": "3:4",
+       "crop": "2320,3094,x1569,y309"
+      },
+      {
+       "name": "3:2",
+       "crop": "5104,3403,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "nzzId": "ld.10021730",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the majority of the cantons influence the debate on the new EU agreements?",
+    "paywallQuestionTwo": "Which topics are particularly controversial during the detailed deliberations on the EU treaties?",
+    "paywallQuestionThree": "Why is the scope of action of the Council of States limited with regard to EU agreements?",
+    "characterCount": 5016,
+    "product": "NZZ.ch",
+    "documentId": "10021730",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T07:25:13.650Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+    "authorLine": "Tobias Gafafer",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/b9d67acb-4615-436a-91df-1c4f7b98437e.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/der-staenderat-will-die-mammutdebatte-ueber-die-neuen-eu-abkommen-in-drei-tagen-abschliessen-ld.10021730",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 726,
+    "leadText": "A night session and a question overshadowing everything: Large chamber decision on EU treaty package",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«It is no victory for UBS»: The Council of States’ Committee for Economic Affairs and Taxation stands against Finance Minister Keller-Sutter on equity",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2025/01/13/c9899018-7faf-40a3-a9e9-5ad96eb52be2.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/01/13/c9899018-7faf-40a3-a9e9-5ad96eb52be2.jpeg?width=1024&quality=75&auto=webp",
+     "width": 6851,
+     "height": 4570,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6851,3854,x0,y716"
+      },
+      {
+       "name": "4:3",
+       "crop": "6093,4570,x528,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4570,4570,x1451,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3428,4570,x1712,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6851,4567,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After tough negotiations, the preparatory committee speaks out in favor of a larger role for AT1 bonds in UBS's capitalization. These are the most important key takeaways.",
+     "teaserAuthor": "Michael Buholzer / Keystone"
+    },
+    "teaserAuthor": "Michael Buholzer / Keystone",
+    "nzzId": "ld.10021737",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is the Economic Commission advocating for AT1 bonds at UBS?",
+    "paywallQuestionTwo": "How should AT1 bonds be activated earlier in the future?",
+    "paywallQuestionThree": "What are the consequences of the equity capital regulation for UBS's competitiveness?",
+    "characterCount": 6131,
+    "product": "NZZ.ch",
+    "documentId": "10021737",
+    "layout": "regular",
+    "publicationDate": "2026-08-31T18:05:01.673Z",
+    "publicationLastUpdated": "2026-08-31T19:04:53.065Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T06:05:01.673Z",
+    "teaserCaption": "After tough negotiations, the preparatory committee speaks out in favor of a larger role for AT1 bonds in UBS's capitalization. These are the most important key takeaways.",
+    "authorLine": "Beatrice Bösiger, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/18/fe52bced-0cc0-4555-a3ba-c4b9ed4dd1da.jpeg?crop=2705,2705,x1931,y485&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/es-ist-kein-sieg-fuer-die-ubs-die-wirtschaftskommission-des-staenderates-stellt-sich-beim-eigenkapital-gegen-finanzministerin-keller-sutter-ld.10021737",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 890,
+    "leadText": "After tough negotiations, the preparatory committee speaks out in favor of a larger role for AT1 bonds in UBS's capitalization. These are the most important key takeaways.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Rescue plan for Mercosur agreement: Politicians seek to sweeten farmers’ approval with over 500 million francs",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/a14643b5-03f7-49f2-9806-ed271baeb625.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/a14643b5-03f7-49f2-9806-ed271baeb625.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2808,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y279"
+      },
+      {
+       "name": "4:3",
+       "crop": "3744,2808,x209,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2808,2808,x560,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2106,2808,x576,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "National Councillor Benedikt Würth has negotiated a package to bring the Mercosur free trade agreement to fruition. The expensive deal will be negotiated next week in Bern.",
+     "teaserAuthor": "Illustration by Hans-Jörg Walter / NZZaS"
+    },
+    "teaserAuthor": "Illustration by Hans-Jörg Walter / NZZaS",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10021276",
+    "readingTime": 300,
+    "paywallQuestionOne": "How is the expensive bailout package for Mercosur supposed to convince farmers?",
+    "paywallQuestionTwo": "What role does Benedikt Würth play in saving the Mercosur agreement?",
+    "paywallQuestionThree": "How do environmental and social demands influence the Mercosur agreement?",
+    "characterCount": 6836,
+    "product": "NZZ.ch",
+    "documentId": "10021276",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T12:22:16.022Z",
+    "publicationLastUpdated": "2026-08-29T19:46:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T00:22:16.022Z",
+    "teaserCaption": "National Councillor Benedikt Würth has negotiated a package to bring the Mercosur free trade agreement to fruition. The expensive deal will be negotiated next week in Bern.",
+    "authorLine": "Georg Humbel",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/e9156f27-544e-4aa6-bdd3-1485668c6c89.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/so-sieht-der-teure-rettungsplan-fuer-mercosur-ld.10021276",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1010,
+    "leadText": "National Councillor Benedikt Würth has negotiated a package to bring the Mercosur free trade agreement to fruition. The expensive deal will be negotiated next week in Bern.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Too many difficult questions remain unanswered: Council of States postpones debate on electricity agreement until winter",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/b7386279-b9e2-465f-a1d6-9e9bc12c5e41.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/b7386279-b9e2-465f-a1d6-9e9bc12c5e41.jpg?width=1024&quality=75&auto=webp",
+     "width": 8000,
+     "height": 5333,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8000,4500,x0,y417"
+      },
+      {
+       "name": "4:3",
+       "crop": "7111,5333,x445,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5333,5333,x1334,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4000,5333,x2000,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8000,5333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The smaller chamber was meant to discuss all new EU treaties during the autumn session, but energy politicians now plan further meetings on the controversial electricity agreement.",
+     "teaserAuthor": "Urs Flüeler / Keystone"
+    },
+    "teaserAuthor": "Urs Flüeler / Keystone",
+    "nzzId": "ld.10020504",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is the electricity agreement only being dealt with in the winter session?",
+    "paywallQuestionTwo": "What are the criticisms of the electricity agreement?",
+    "paywallQuestionThree": "How does the division of the EU treaties affect voting?",
+    "characterCount": 3658,
+    "product": "NZZ.ch",
+    "documentId": "10020504",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T15:47:15.000Z",
+    "publicationLastUpdated": "2026-08-21T16:32:11.875Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T03:47:15.000Z",
+    "teaserCaption": "The smaller chamber was meant to discuss all new EU treaties during the autumn session, but energy politicians now plan further meetings on the controversial electricity agreement.",
+    "authorLine": "Matthias Venetz",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/zu-viele-schwierige-fragen-offen-staenderaete-verschieben-die-debatte-zum-stromabkommen-auf-den-winter-ld.10020504",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 561,
+    "leadText": "The smaller chamber was meant to discuss all new EU treaties during the autumn session, but energy politicians now plan further meetings on the controversial electricity agreement.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Consultations on new EU treaties begin with saber-rattling",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "nzzId": "ld.10019662",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why does job security for trade unionists jeopardize EU treaties?",
+    "paywallQuestionTwo": "What role does the obligation for EU companies to provide security deposits play in the negotiations?",
+    "paywallQuestionThree": "How do internal conflicts influence the parties' position on the EU treaties?",
+    "characterCount": 3747,
+    "teaserImage": {
+     "originalUrl": "/2026/08/15/842d9ad6-fa7b-47e9-81bc-f46cc5ccd1c7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/15/842d9ad6-fa7b-47e9-81bc-f46cc5ccd1c7.jpg?width=1024&quality=75&auto=webp",
+     "width": 3543,
+     "height": 2362,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3543,1993,x0,y252"
+      },
+      {
+       "name": "4:3",
+       "crop": "2863,2147,x318,y162"
+      },
+      {
+       "name": "1:1",
+       "crop": "2362,2362,x600,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1611,2147,x948,y110"
+      },
+      {
+       "name": "3:2",
+       "crop": "3221,2147,x164,y133"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Conflicting signals are emerging from the Council of States. The dispute over stronger protection against dismissal for employee representatives and a rigid obligation for European companies to deposit collateral are intended to scuttle the agreements with Brussels.",
+     "teaserAuthor": "Illustration by Hans-Jörg Walter / NZZaS"
+    },
+    "teaserAuthor": "Illustration by Hans-Jörg Walter / NZZaS",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019662",
+    "layout": "regular",
+    "publicationDate": "2026-08-16T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-24T09:15:16.594Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-16T15:30:00.000Z",
+    "teaserCaption": "Conflicting signals are emerging from the Council of States. The dispute over stronger protection against dismissal for employee representatives and a rigid obligation for European companies to deposit collateral are intended to scuttle the agreements with Brussels.",
+    "authorLine": "Simon Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/570a3820-2261-433b-b382-d1b4e12bf7c4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/eu-vertraege-fuer-eine-handvoll-gewerkschafter-ld.10019662",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 593,
+    "leadText": "Conflicting signals are emerging from the Council of States. The dispute over stronger protection against dismissal for employee representatives and a rigid obligation for European companies to deposit collateral are intended to scuttle the agreements with Brussels.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020851",
+    "name": "First FMH data on tax point cap: only 7% of doctors affected",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "First FMH data on tax point cap: only 7% of doctors affected",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1699175,
+       "name": "Isabelle Wachter",
+       "shortName": "wai",
+       "pianoId": "c9178452-a5d5-4ff6-9241-6187fa333334",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-25T04:15:39.028Z",
+     "updateTimestamp": "2026-08-25T04:15:39.028Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020851",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "First FMH data on tax point cap: only 7% of doctors affected",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/d7a01994-ee11-4c54-bb0e-0859f69f7127.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6720,3780,x0,y700&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Isabelle Wachter",
+  "description": "There is widespread discontent among doctors. From 2027, they will only be allowed to charge a maximum number of tax points for certain treatments. An analysis by the FMH (Swiss Medical Association) shows that a large proportion of doctors are already operating below the proposed limit.",
+  "news_keywords": "First data from the FMH on the tax point cap: Only 7 percent of doctors are affected, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T08:15:39+02:00",
+  "date": "2026-08-25T08:15:39+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "First FMH data on tax point cap: only 7% of doctors affected",
+  "ogTitle": "First FMH data on tax point cap: only 7% of doctors affected",
+  "ogUrl": "https://www.nzz.ch/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851",
+  "mrf:cms_id": "nzz:ld.10020851",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020851",
+  "nzzAuthors": [
+   {
+    "id": 1699175,
+    "name": "Isabelle Wachter",
+    "shortName": "wai",
+    "pianoId": "c9178452-a5d5-4ff6-9241-6187fa333334",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:35 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "First FMH data on tax point cap: only 7% of doctors affected"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851"
+   },
+   "headline": "First FMH data on tax point cap: only 7% of doctors affected",
+   "datePublished": "2026-08-25T08:15:39+02:00",
+   "dateModified": "2026-08-25T08:15:39+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "There is widespread discontent among doctors. From 2027, they will only be allowed to charge a maximum number of tax points for certain treatments. An analysis by the FMH (Swiss Medical Association) shows that a large proportion of doctors are already operating below the proposed limit.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/d7a01994-ee11-4c54-bb0e-0859f69f7127.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6720,3780,x0,y700&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Isabelle Wachter"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 319560,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/erste-daten-der-fmh-zu-taxpunkt-deckel-nur-7-prozent-der-aerzte-sind-betroffen-ld.10020851",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020851",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-25T04:15:39.028Z",
+   "ContentAuthor": "Isabelle Wachter",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie viele Ärzte sind vom Taxpunkt-Deckel betroffen?\nWelche Fachrichtungen sind besonders betroffen?\nWarum wurde der Taxpunkt-Deckel eingeführt?",
+   "ldId": "ld.10020851",
+   "channel": "Schweiz",
+   "heading": "Erste Daten der FMH zu Taxpunkt-Deckel: Nur 7 Prozent der Ärzte sind betroffen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

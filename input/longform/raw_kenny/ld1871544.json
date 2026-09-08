@@ -1,0 +1,1695 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1ikb70iis0",
+   "content": {
+    "title": "A tax expert explains: The tax office takes a close look at tax returns regarding home renovations, side accounts, cryptocurrencies, and cigar collections.",
+    "lead": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes, correctly utilize deductions, and avoid mistakes.",
+    "authorline": "Michael Ferber",
+    "author": "Michael Ferber"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ikkhcdec1",
+   "content": {
+    "image": {
+     "author": "Imago",
+     "caption": "When declaring assets, one must also declare one's cigar collection – taxes are due on this as well.",
+     "originalUrl": "/2025/02/21/572f7007-ed0d-48f9-bb38-c07d60dce71c.jpeg?width=1024",
+     "width": 6720,
+     "height": 4480,
+     "altText": "Cigars, ashtray and whiskey with ice cubes on black wooden table",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2166415473"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "When declaring assets, one must also declare one's cigar collection – taxes are due on this as well.",
+    "author": "Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkchghj0",
+   "content": {
+    "text": "Mr. Hertel, what are the most common mistakes when filling out a tax return?"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-3bc6761c",
+   "identifier": "barrier",
+   "prevElement": "question",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkbt19n0",
+   "content": {
+    "text": "Taxpayers often make mistakes when reporting income and claiming tax deductions. For example, they might forget to include information about secondary employment, self-employment, or capital gains. Regarding tax deductions, we frequently see that taxpayers don't fully utilize them – for instance, for property maintenance costs or professional development expenses."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkbt19q0",
+   "content": {
+    "text": "What cases have you seen where mistakes were particularly costly?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkbt19r0",
+   "content": {
+    "text": "We once had a client who, between 2001 and 2003, renovated and remodeled three properties in his private portfolio for approximately 2 million Swiss francs. The case revolved around the difference between maintenance and value-enhancing expenditures. Maintenance expenditures can generally be deducted from taxable income at the time of renovation. Value-enhancing expenditures cannot be deducted, but they can be claimed later on the capital gains tax when the respective property is sold. Our client had originally planned to do just that; he had classified his self-initiated investments as value-enhancing expenditures and intended to claim them when he sold the properties. He did so in 2023."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkbt19s0",
+   "content": {
+    "text": "And what happened next?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkbt19t0",
+   "content": {
+    "text": "Then the Bern cantonal tax authorities informed him that they classified three-quarters of his expenses as maintenance. He should have claimed these as maintenance costs in his tax returns for the years 2001 to 2003. Now, this was no longer possible. The client was suddenly and unexpectedly faced with a bill for tens of thousands of francs in capital gains tax. In our view, he should have declared everything in his tax returns for the years 2001 to 2003 and let the authorities decide whether the expenses were maintenance or improvements. Such classification issues sometimes arise with real estate."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1iki82s271",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "Markus Hertel, lawyer and federally certified tax expert.",
+     "originalUrl": "/2025/02/20/6d341238-9071-4d68-8284-d91920a66f74.jpeg?width=1024",
+     "width": 293,
+     "height": 366,
+     "altText": "Markus Hertel, Attorney at Law and Federally Certified Tax Expert",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2166376895"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Markus Hertel, lawyer and federally certified tax expert.",
+    "author": "PD"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--left"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikdol2ki3",
+   "content": {
+    "text": "What was the outcome of the case?"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikdol2kj0",
+   "content": {
+    "text": "We filed an objection. We were able to recover some money, but he still lost tax revenue that he should have claimed between 2001 and 2003. He also incurred costs to defend his position."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkbusmn0",
+   "content": {
+    "text": "Do such errors happen frequently?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkbusmp0",
+   "content": {
+    "text": "During renovations, we often see that clients poorly document their work. This can backfire later. Many also make mistakes in the planning. We had a case where someone renovated a chalet over two consecutive years. Each renovation cost 400,000 Swiss francs, but his taxable income was only 200,000 francs per year. Consequently, he lost 200,000 francs in each of those years. If the client had planned and staggered the renovations better, he could have saved a considerable amount."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkbv5k30",
+   "content": {
+    "text": "So, should you order the tradespeople one after the other so that the invoices fall into different tax periods?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08r60",
+   "content": {
+    "text": "Yes, especially in cases where negative income is imminent – ​​that is, when expenses exceed taxable income. In such cases, from a tax perspective, it makes sense to plan renovations gradually and over a longer period."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08r70",
+   "content": {
+    "text": "How great is the risk of making mistakes when filling out your tax return yourself?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08r71",
+   "content": {
+    "text": "Our experience shows that people generally fill out their tax returns themselves. This often works out well. However, when it comes to more complex issues and life situations, professional support is advisable. This applies, for example, to major property renovations, opening a business, or retirement planning."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkdtq8d0",
+   "content": {
+    "text": "A lot of money is at stake..."
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkdscgt1",
+   "content": {
+    "text": "Two years ago, I had a client who was considering moving to a different canton in anticipation of retirement, primarily due to tax considerations. The differences in tax burden between cantons are significant, for example, when it comes to payouts of lump-sum benefits from the second pillar of the Swiss pension system. In this specific case, it turned out that Graubünden, for instance, had a low tax burden on lump-sum payouts, while other cantons had, in some cases, very high rates."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08r80",
+   "content": {
+    "text": "Do many people move when they retire?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08r90",
+   "content": {
+    "text": "That was rather an exception. Many people shy away from such a move simply to save on taxes. The authorities usually check very carefully whether a person truly has their center of life at the new location."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08r91",
+   "content": {
+    "text": "What are the most important deductions in the tax return?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08r92",
+   "content": {
+    "text": "It depends on your life situation. Having children certainly makes a difference compared to being single. In the latter case, you can, for example, claim childcare expenses. It's important to be aware that many deductions are capped – meaning there are maximum limits. It's crucial to claim all deductions on your tax return: professional expenses, retirement savings and insurance, costs related to assets (such as mortgage interest and debt), asset management fees, property maintenance costs, general deductions like donations, continuing education expenses, medical expenses (including dental care), family allowances, and social security deductions. There are several ways to optimize your tax return."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08ra0",
+   "content": {
+    "text": "Is there anything in particular to be aware of this year?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08ra1",
+   "content": {
+    "text": "There have been two important developments recently. Parliament reached an agreement at the end of 2024 regarding the abolition of the imputed rental value. Currently, however, there is no need for homeowners to take any action. It is still unclear whether the amendment will be put to a public vote. If the imputed rental value were abolished, however, homeowners would certainly need to keep this in mind. The second development concerns retroactive contributions to Pillar 3a. This is not yet possible this year, but will be from 2026 onwards."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08ra2",
+   "content": {
+    "text": "What exactly should one keep in mind regarding the imputed rental value, especially in connection with renovations?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rb0",
+   "content": {
+    "text": "The imputed rental value is a notional income that would no longer be taxed. If it were eliminated, there would also be no further deductions for maintenance of owner-occupied properties. So, for example, replacing windows or the kitchen would no longer be tax-deductible. This would still be possible for rented properties. There would also be restrictions on the deductibility of mortgage interest. This raises the question of whether it's worthwhile to pay off the mortgage if one has available liquid assets."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rb1",
+   "content": {
+    "text": "You mentioned earlier that some taxpayers don't declare secondary income on their tax returns. Is this common, and how great is the risk of it being discovered?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rb2",
+   "content": {
+    "text": "There are indeed people who have accumulated secondary income and deposited it into accounts they didn't declare on their tax returns. Income and profits from cryptocurrencies can also come into play here, as follows: In Switzerland, capital gains are generally tax-free. As long as you invest in cryptocurrencies as a hobby and make profits, no taxes are due. However, if you approach this more professionally and do it regularly, it can be classified as self-employment. I've seen cases where people did this for two or three years, thinking it was all tax-free. Then the tax authorities got involved, reclassified the situation, and inquired about previous years' activities. They recalculated the taxes, and this sometimes led to back taxes and even penalty proceedings."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rc0",
+   "content": {
+    "text": "What do you observe regarding accounts that were not declared in the tax return?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rc1",
+   "content": {
+    "text": "We regularly encounter cases where clients who have accumulated substantial capital in an undeclared account eventually need the money – for example, to purchase real estate or make another investment. However, you can't simply turn a «black» account into a «white» one. The tax authorities conduct an annual asset comparison. If the tax authorities uncover undeclared assets, it triggers back taxes and penalties, potentially going back ten years. This results in back taxes, late payment interest, and fines. Under certain conditions, a taxpayer can disclose their assets without penalty through a voluntary disclosure."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rc2",
+   "content": {
+    "text": "Is there a particular case that stands out in your memory?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rc3",
+   "content": {
+    "text": "I once had a client with a cigar collection whose collector's value was around 100,000 Swiss francs. He hadn't declared it as an asset and asked me what he should do. I advised him to declare the cigar collection through a voluntary disclosure, which would be penalty-free, if he intended to use the money from selling the collection later. I think he then decided to smoke the cigars himself instead."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rc4",
+   "content": {
+    "text": "Is it usually discovered if someone fills up secondary accounts and doesn't declare this in their tax return?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rd0",
+   "content": {
+    "text": "If you don't spend much money, it might go unnoticed. However, as soon as you want to use the money for larger expenses or investments, it becomes difficult. With assets abroad, international information exchange must be considered. If you, as a Swiss citizen, have an account with a foreign bank, the bank will automatically transmit data if a corresponding agreement stipulates this. The data then goes first to the Federal Tax Administration in Bern and then to the taxpayer's canton of residence."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rd1",
+   "content": {
+    "text": "Do assets held abroad also have to be declared in the Swiss tax return?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rd2",
+   "content": {
+    "text": "Yes, this applies to bank accounts and securities accounts as well as real estate. I once had a case where a taxpayer in Switzerland had a life insurance policy in Germany but hadn't declared it in Switzerland. This was relevant for tax purposes, as movable assets are taxed in Switzerland. If you don't declare it, the tax authorities may find out, and then you'll have to pay back taxes, interest, and even fines."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rd3",
+   "content": {
+    "text": "Do you have to pay taxes on real estate abroad in Switzerland?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08re0",
+   "content": {
+    "text": "Real estate abroad is considered immovable property and is generally taxed in the country where it is located. A tax return must usually be filed in the respective country. This depends on the tax laws of that country. A client of mine owns a house in Florida which he rents out. The rental income is taxable in the US, but he still has to declare the house and the rental income in his Swiss tax return because it is relevant for determining the applicable tax rate."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08re1",
+   "content": {
+    "text": "A key tax issue at present is the taxation of capital payouts from occupational pension schemes and Pillar 3a. The Federal Council wants to eliminate tax advantages in this area to relieve the burden on the federal budget. If this were to happen, would pension savings still be worthwhile?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08re2",
+   "content": {
+    "text": "The preferential taxation of retirement savings is a political issue. Until now, the aim has been to favor retirement savings. Telling people now, after several decades, that this is no longer possible is, in my view, extremely delicate and difficult. At what point should this change be implemented? If only capital payouts from the second pillar, and not from pillar 3a, were taxed more heavily, it wouldn't be entirely consistent. Many of our clients take advantage of the deductions offered by the second pillar. This is particularly common in high-tax cantons like Bern."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08re3",
+   "content": {
+    "text": "Should you pay your taxes early?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08re4",
+   "content": {
+    "text": "That depends on the taxpayer's liquidity situation. The advance payment interest rate for direct federal tax is currently 0.75 percent. If the taxpayer has money in a savings account that isn't generating any interest, that could be an alternative. However, if someone has invested the money, for example, in a profitable equity ETF, then it's less of an option."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rf0",
+   "content": {
+    "text": "Some older people are overwhelmed by administrative matters. Is it actually common for people not to file a tax return at all?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rf1",
+   "content": {
+    "text": "We encounter such cases repeatedly in practice. The increasing digitalization of the tax system naturally carries the risk of older people feeling overwhelmed. In the canton of Bern, for example, there's a new identification procedure that requires re-registration. I really wonder how older people are supposed to manage that without any assistance."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ikkc08rf2",
+   "content": {
+    "text": "What happens if someone doesn't file their tax return?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ikkc08rf3",
+   "content": {
+    "text": "If someone fails to file a tax return and ignores reminders, a discretionary assessment is carried out. The tax office then determines the estimated income itself. Often, this is higher than the actual income, which can result in significantly higher costs. The last resort is to file an objection upon receiving a discretionary assessment. You then have 30 days to submit your tax return."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "infobox-advanced"
+  },
+  {
+   "identifier": "infobox-advanced",
+   "id": "doc-1ikkh87n70",
+   "content": {
+    "title": "Markus Hertel"
+   },
+   "containers": {
+    "infobox": [
+     {
+      "identifier": "p-text",
+      "id": "doc-1ikkh87n72",
+      "content": {
+       "text": "Markus Hertel is a lawyer and federally certified tax expert at the consulting firm Omnitax in Biel. Previously, he worked for over twenty years in tax law consulting at major auditing and consulting firms. Hertel is also a board member and vice president of the Swiss Association of Certified Tax Experts (SVDS) and a member of the examination board for tax experts."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1ikb70iis2",
+   "paidContent": true,
+   "prevElement": "infobox-advanced",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1ikb70iis3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1ikb70iis4",
+      "content": {
+       "title": "«The most expensive mistake was made by a lottery winner» – an expert on the most common pitfalls in tax returns",
+       "teaserImage": {
+        "originalUrl": "/2023/01/06/a2bed274-dcde-4aa5-a05a-712173af6c51.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/01/06/a2bed274-dcde-4aa5-a05a-712173af6c51.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7360,
+        "height": 4912,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7360,4139,x0,y773"
+         },
+         {
+          "name": "1:1",
+          "crop": "4912,4911,x1408,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Olivier Weber is president of the examination board for federally certified tax experts. He explains how taxpayers can avoid mistakes and legally optimize their taxes – and what Switzerland can learn from Estonia.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1718551",
+       "readingTime": 360,
+       "authorLine": "Bernhard Bircher Suits",
+       "characterCount": 8700,
+       "product": "NZZ.ch",
+       "documentId": 1718551,
+       "layout": "regular",
+       "publicationDate": "2023-01-06T19:59:07.338Z",
+       "publicationLastUpdated": "2023-01-09T08:13:52.021Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2023-01-07T07:59:07.338Z",
+       "teaserCaption": "Olivier Weber is president of the examination board for federally certified tax experts. He explains how taxpayers can avoid mistakes and legally optimize their taxes – and what Switzerland can learn from Estonia.",
+       "url": "/finanzen/private-finanzen/steuererklaerung-wie-steuerpflichtige-fehler-vermeiden-ld.1718551",
+       "department": {
+        "name": "Personal Finances",
+        "path": "/finanzen/private-finanzen"
+       },
+       "estimationWordCount": 1232,
+       "leadText": "Olivier Weber is president of the examination board for federally certified tax experts. He explains how taxpayers can avoid mistakes and legally optimize their taxes – and what Switzerland can learn from Estonia."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ikb70iis5",
+      "content": {
+       "owner": "NZZ",
+       "title": "Higher taxes on pension withdrawals: sharp criticism of the Federal Council",
+       "teaserImage": {
+        "originalUrl": "/2024/10/21/e04bef3a-1f54-4692-81c3-d1f46ffc3008.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/10/21/e04bef3a-1f54-4692-81c3-d1f46ffc3008.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5000,
+        "height": 3333,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5000,2812,x0,y112"
+         },
+         {
+          "name": "1:1",
+          "crop": "2081,2081,x1596,y330"
+         },
+         {
+          "name": "4:3",
+          "crop": "4444,3333,x385,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2222,2963,x1876,y370"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The center-right parties reject the Federal Council's plans to tax capital from occupational and private pension schemes at a higher rate. Even the left criticizes this «attack» on the third pillar of the pension system.",
+        "teaserAuthor": "Anthony Anex / Keystone"
+       },
+       "teaserAuthor": "Anthony Anex / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1853785",
+       "readingTime": 240,
+       "authorLine": "Katharina Fontana, Michael Ferber",
+       "characterCount": 6046,
+       "product": "NZZ.ch",
+       "documentId": 1853785,
+       "layout": "regular",
+       "publicationDate": "2024-10-21T15:29:50.065Z",
+       "publicationLastUpdated": "2024-10-21T17:55:32.779Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-10-22T03:29:50.065Z",
+       "teaserCaption": "The center-right parties reject the Federal Council's plans to tax capital from occupational and private pension schemes at a higher rate. Even the left criticizes this «attack» on the third pillar of the pension system.",
+       "url": "/schweiz/hoehere-steuern-auf-gelder-aus-der-vorsorge-kritik-an-vorschlag-des-bundesrats-ld.1853785",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 895,
+       "leadText": "The center-right parties reject the Federal Council's plans to tax capital from occupational and private pension schemes at a higher rate. Even the left criticizes this «attack» on the third pillar of the pension system."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ikb70iit0",
+      "content": {
+       "owner": "NZZ",
+       "title": "How to save on taxes before the end of the year – these are the most important tips",
+       "teaserImage": {
+        "originalUrl": "/2022/03/15/6938e94f-d016-4b05-8cb6-45b7c8f97aeb.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/03/15/6938e94f-d016-4b05-8cb6-45b7c8f97aeb.jpeg?width=1024&quality=75&auto=webp",
+        "width": 8256,
+        "height": 5504,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7339,4128,x917,y759"
+         },
+         {
+          "name": "1:1",
+          "crop": "836,836,x4974,y1548"
+         },
+         {
+          "name": "4:3",
+          "crop": "7339,5504,x917,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "4128,5504,x3478,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Anyone who wants to reduce their taxable income with high deductions in their 2024 tax return should take action this year. Here are the best ways to lower your tax burden.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1858059",
+       "readingTime": 420,
+       "authorLine": "Michael Ferber",
+       "characterCount": 9283,
+       "product": "NZZ.ch",
+       "documentId": 1858059,
+       "layout": "regular",
+       "publicationDate": "2024-11-28T04:30:00.000Z",
+       "publicationLastUpdated": "2024-11-28T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-11-28T16:30:00.000Z",
+       "teaserCaption": "Anyone who wants to reduce their taxable income with high deductions in their 2024 tax return should take action this year. Here are the best ways to lower your tax burden.",
+       "url": "/finanzen/abzuege-steuererklaerung-2024-tipps-zum-steuern-sparen-vor-dem-jahresende-ld.1858059",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 1347,
+       "leadText": "Anyone who wants to reduce their taxable income with high deductions in their 2024 tax return should take action this year. Here are the best ways to lower your tax burden."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ikkcqmco0",
+      "content": {
+       "owner": "NZZ",
+       "title": "Pillar 3a or pension fund buy-ins – which is suitable for whom and how to best save taxes on retirement savings",
+       "teaserImage": {
+        "originalUrl": "/2022/01/13/41894bba-a1bb-4170-90e9-0fb3aeaf4796.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/01/13/41894bba-a1bb-4170-90e9-0fb3aeaf4796.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7081,
+        "height": 4726,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7081,3983,x0,y743"
+         },
+         {
+          "name": "1:1",
+          "crop": "4726,4726,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "6301,4726,x390,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3545,4726,x1316,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Building wealth while saving on taxes – this is possible with both Pillar 3a and pension fund buy-ins. Here's what you need to know about both options.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1759424",
+       "readingTime": 420,
+       "authorLine": "Michael Ferber",
+       "characterCount": 10094,
+       "product": "NZZ.ch",
+       "documentId": 1759424,
+       "layout": "regular",
+       "publicationDate": "2023-10-09T03:30:00.000Z",
+       "publicationLastUpdated": "2023-10-26T13:06:52.071Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2023-10-09T15:30:00.000Z",
+       "teaserCaption": "Building wealth while saving on taxes – this is possible with both Pillar 3a and pension fund buy-ins. Here's what you need to know about both options.",
+       "url": "/finanzen/altersvorsorge-steuern-sparen-mit-saeule-3a-und-dem-einkauf-in-die-pensionskasse-ld.1759424",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 1474,
+       "leadText": "Building wealth while saving on taxes – this is possible with both Pillar 3a and pension fund buy-ins. Here's what you need to know about both options."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ikkcqkj50",
+      "content": {
+       "owner": "NZZ",
+       "title": "Tax return 2023: These are the deductions homeowners can claim",
+       "teaserImage": {
+        "originalUrl": "/2021/9/1/0fb988d9-f505-4ab3-96c7-30d5cb0b1907.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/9/1/0fb988d9-f505-4ab3-96c7-30d5cb0b1907.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5568,3132,x0,y481"
+         },
+         {
+          "name": "1:1",
+          "crop": "1831,1831,x2204,y1546"
+         },
+         {
+          "name": "4:3",
+          "crop": "4399,3300,x593,y313"
+         },
+         {
+          "name": "3:4",
+          "crop": "1738,2317,x2437,y1395"
+         },
+         {
+          "name": "3:2",
+          "crop": "5568,3712,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Homeowners can deduct significantly more expenses from their income on their tax return than renters. Here's what you need to know.",
+        "teaserAuthor": "Karin Hofer / NZZ"
+       },
+       "teaserAuthor": "Karin Hofer / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1821603",
+       "readingTime": 420,
+       "authorLine": "Michael Ferber",
+       "characterCount": 9622,
+       "product": "NZZ.ch",
+       "documentId": 1821603,
+       "layout": "regular",
+       "publicationDate": "2024-03-15T15:42:24.104Z",
+       "publicationLastUpdated": "2025-12-15T12:56:54.101Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-03-16T03:42:24.104Z",
+       "teaserCaption": "Homeowners can deduct significantly more expenses from their income on their tax return than renters. Here's what you need to know.",
+       "authorImage": {
+        "originalUrl": "/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4547,
+        "height": 3032,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2396,2396,x938,y397"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/17/53fdb0be-71ee-49f7-9ca6-7ca3b9360e0d.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/finanzen/eigenmietwert-und-steuern-welche-abzuege-in-der-steuererklaerung-moeglich-sind-ld.1821603",
+       "department": {
+        "name": "Finance",
+        "path": "/finanzen"
+       },
+       "estimationWordCount": 1331,
+       "leadText": "Homeowners can deduct significantly more expenses from their income on their tax return than renters. Here's what you need to know."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "title": "A tax expert explains: The tax office takes a close look at tax returns regarding home renovations, side accounts, cryptocurrencies, and cigar collections.",
+  "teaserImage": {
+   "originalUrl": "/2025/02/21/572f7007-ed0d-48f9-bb38-c07d60dce71c.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/02/21/572f7007-ed0d-48f9-bb38-c07d60dce71c.jpeg?width=1024&quality=75&auto=webp",
+   "width": 6720,
+   "height": 4480,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6720,3779,x0,y701"
+    },
+    {
+     "name": "1:1",
+     "crop": "3540,3539,x1627,y941"
+    },
+    {
+     "name": "4:3",
+     "crop": "5973,4479,x296,y1"
+    },
+    {
+     "name": "3:4",
+     "crop": "2655,3539,x2049,y941"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes, correctly utilize deductions, and avoid mistakes.",
+   "teaserAuthor": "Imago"
+  },
+  "teaserAuthor": "Imago",
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1871544",
+  "readingTime": 600,
+  "authorLine": "Michael Ferber",
+  "characterCount": 13132,
+  "breadcrumbs": [
+   {
+    "name": "Finance",
+    "path": "/finanzen"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1871544,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2025-02-24T04:30:00.000Z",
+  "publicationDate": "2025-02-24T04:30:00.000Z",
+  "publicationLastUpdated": "2025-02-24T09:59:04.606Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2025-02-24T16:30:00.000Z",
+  "teaserCaption": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes, correctly utilize deductions, and avoid mistakes.",
+  "url": "/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544",
+  "department": {
+   "name": "Finance",
+   "path": "/finanzen"
+  },
+  "estimationWordCount": 1941,
+  "leadText": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes, correctly utilize deductions, and avoid mistakes.",
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Forgotten tax deductions and an «illegal» cigar collection",
+  "nzzPrintSubtitle": "The deadline for filing the 2024 tax return is the end of March – consultant Markus Hertel offers tips",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544",
+   "title": "Tax return 2024: Tax advisor gives tips on maximum deductions and mistakes",
+   "socialMediaTitle": "Tax return 2024: Tax advisor gives tips on maximum deductions and common mistakes",
+   "description": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes effectively.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2025/02/21/572f7007-ed0d-48f9-bb38-c07d60dce71c.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6720,3779,x0,y701&wmark=nzz"
+  },
+  "ldPublicationId": 1842836,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Taxes",
+    "slug": "/themen/steuern"
+   },
+   {
+    "name": "Cryptocurrencies",
+    "slug": "/themen/kryptowaehrungen"
+   },
+   {
+    "name": "retirement provision",
+    "slug": "/themen/altersvorsorge"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Imputed rental value",
+    "slug": "/themen/eigenmietwert"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1718551",
+    "ld.1853785",
+    "ld.1858059",
+    "ld.1759424",
+    "ld.1821603"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 960840,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "steuern",
+   "name": "Taxes",
+   "tagName": "Taxes",
+   "qId": "Q8161",
+   "seoTitle": "Taxes – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 17:43:08.936Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/steuern",
+   "size": 773,
+   "relatedTopics": [
+    {
+     "name": "Kryptowährungen",
+     "slug": "/themen/kryptowaehrungen"
+    },
+    {
+     "name": "Altersvorsorge",
+     "slug": "/themen/altersvorsorge"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    },
+    {
+     "name": "Eigenmietwert",
+     "slug": "/themen/eigenmietwert"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Federal revenues are booming. Yet VAT is set to rise for the army",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Michele Salvi",
+    "flag": "Guest opinion",
+    "editor": "1373665",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/831871f2-61f8-4dd6-b342-ca2a857ad413.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/831871f2-61f8-4dd6-b342-ca2a857ad413.jpg?width=1024&quality=75&auto=webp",
+     "width": 7833,
+     "height": 5222,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7833,4406,x0,y436"
+      },
+      {
+       "name": "4:3",
+       "crop": "6963,5222,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5222,5221,x1027,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "3917,5221,x975,y1"
+      },
+      {
+       "name": "3:2",
+       "crop": "7833,5222,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 3128,
+      "y": 2352
+     },
+     "imageService": "fastly",
+     "teaserCaption": "In the political discussions about army financing, the arguments lead astray – and say more about the state of the country than about the federal treasury.",
+     "teaserAuthor": "Anthony Anex / Keystone"
+    },
+    "teaserAuthor": "Anthony Anex / Keystone",
+    "nzzId": "ld.10020308",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why is a tax increase for the army being proposed despite full federal coffers?",
+    "paywallQuestionTwo": "How does the prioritization of social spending affect Switzerland's defense capabilities?",
+    "paywallQuestionThree": "Is a reallocation of funds within the federal budget politically feasible in order to strengthen the army?",
+    "characterCount": 8483,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10020308",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T03:58:21.872Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "In the political discussions about army financing, the arguments lead astray – and say more about the state of the country than about the federal treasury.",
+    "url": "https://www.nzz.ch/meinung/volle-bundeskassen-leere-munitionslager-ld.10020308",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1255,
+    "leadText": "In the political discussions about army financing, the arguments lead astray – and say more about the state of the country than about the federal treasury.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Vontobel's departure is a warning sign: Zurich's arrogance is jeopardizing its own location",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/daeca8cf-82be-4be4-8662-5974cb832a66.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/daeca8cf-82be-4be4-8662-5974cb832a66.jpg?width=1024&quality=75&auto=webp",
+     "width": 3547,
+     "height": 2365,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3547,1995,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3153,2365,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2365,2365,x528,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1774,2365,x387,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3547,2365,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The departure of the flagship bank should be a wake-up call for Zurich. Many companies are increasingly uneasy: without improved conditions, the economic attractiveness of the city and canton will continue to erode.",
+     "teaserAuthor": "Christoph Ruckstuhl / NZZ"
+    },
+    "teaserAuthor": "Christoph Ruckstuhl / NZZ",
+    "flag": "Opinion",
+    "nzzId": "ld.10021774",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Bank Vontobel leaving Zurich despite its historical ties?",
+    "paywallQuestionTwo": "What location factors make Zurich less attractive for companies?",
+    "paywallQuestionThree": "How does Zurich's arrogance threaten its economic standing?",
+    "characterCount": 4390,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021774",
+    "layout": "opinion",
+    "publicationDate": "2026-08-31T15:14:07.565Z",
+    "publicationLastUpdated": "2026-09-01T16:31:36.751Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T03:14:07.565Z",
+    "teaserCaption": "The departure of the flagship bank should be a wake-up call for Zurich. Many companies are increasingly uneasy: without improved conditions, the economic attractiveness of the city and canton will continue to erode.",
+    "authorLine": "Eflamm Mordrelle",
+    "authorImage": {
+     "originalUrl": "/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/vontobel-wegzug-ist-ein-warnsignal-die-zuercher-ueberheblichkeit-gefaehrdet-den-eigenen-standort-ld.10021774",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 665,
+    "leadText": "The departure of the flagship bank should be a wake-up call for Zurich. Many companies are increasingly uneasy: without improved conditions, the economic attractiveness of the city and canton will continue to erode.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 19,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "New proposal for the defense budget: Taxes should be increased less sharply, but for a longer period",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/e2ec1e92-eb7d-4cbc-965e-8d058bc2bd0d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/e2ec1e92-eb7d-4cbc-965e-8d058bc2bd0d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5783,
+     "height": 3856,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5783,3253,x0,y302"
+      },
+      {
+       "name": "4:3",
+       "crop": "5141,3856,x321,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3856,3856,x964,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2892,3856,x1446,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5783,3855,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "On Tuesday, Council of States finance politicians presented a new proposal for the army budget. If a tax increase fails, the problem would shift from the army to the federal budget.",
+     "teaserAuthor": "PETER KLAUNZER / KEYSTONE"
+    },
+    "teaserAuthor": "PETER KLAUNZER / KEYSTONE",
+    "nzzId": "ld.10021035",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the longer duration affect the tax increase for the army budget?",
+    "paywallQuestionTwo": "Why is the risk of the tax increase shifting from the fund to the federal budget?",
+    "paywallQuestionThree": "What are the consequences of earmarking budget shortfalls for debt reduction plans?",
+    "characterCount": 4307,
+    "tags": [
+     "Schweiz: Sicherheitspolitik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10021035",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T17:51:29.593Z",
+    "publicationLastUpdated": "2026-08-26T05:33:05.001Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-26T05:51:29.593Z",
+    "teaserCaption": "On Tuesday, Council of States finance politicians presented a new proposal for the army budget. If a tax increase fails, the problem would shift from the army to the federal budget.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/neuer-vorschlag-fuer-das-ruestungsbudget-die-steuern-sollen-weniger-stark-erhoeht-werden-dafuer-laenger-ld.10021035",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 666,
+    "leadText": "On Tuesday, Council of States finance politicians presented a new proposal for the army budget. If a tax increase fails, the problem would shift from the army to the federal budget.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Higher taxes for the army? Martin Pfister loses more allies",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/347b5c5c-04d2-4f30-b90e-849e536a653d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/347b5c5c-04d2-4f30-b90e-849e536a653d.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4959,2789,x475,y347"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x383,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x883,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2383,
+      "y": 1455
+     },
+     "imageService": "fastly",
+     "teaserCaption": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+     "teaserAuthor": "Raphael Rohner / CH Media"
+    },
+    "teaserAuthor": "Raphael Rohner / CH Media",
+    "nzzId": "ld.10020492",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Economiesuisse now rejecting a tax increase for the army?",
+    "paywallQuestionTwo": "Which financing proposals for the army are politically controversial?",
+    "paywallQuestionThree": "How could the army budget grow without raising taxes?",
+    "characterCount": 5966,
+    "tags": [
+     "Schweiz: Sicherheitspolitik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020492",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T16:07:50.319Z",
+    "publicationLastUpdated": "2026-08-26T07:49:37.546Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T04:07:50.319Z",
+    "teaserCaption": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/hoehere-steuern-fuer-die-armee-martin-pfister-verliert-weitere-verbuendete-ld.10020492",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 850,
+    "leadText": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Funding the 13th AHV Pension: Trade unions plan to campaign again",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y559"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x259,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1696,1696,x2103,y599"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1577,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2959,
+      "y": 1262
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+     "teaserAuthor": "Andrea Zahler / CH Media"
+    },
+    "teaserAuthor": "Andrea Zahler / CH Media",
+    "nzzId": "ld.10020333",
+    "readingTime": 300,
+    "paywallQuestionOne": "How do the unions intend to justify the tax increase for the 13th AHV pension payment?",
+    "paywallQuestionTwo": "Why do some delegates prefer wage percentages to value added tax?",
+    "paywallQuestionThree": "What strategy are Maillard and Lampart pursuing for the upcoming vote?",
+    "characterCount": 6215,
+    "product": "NZZ.ch",
+    "documentId": "10020333",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T15:17:08.075Z",
+    "publicationLastUpdated": "2026-08-20T15:39:04.818Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T03:17:08.075Z",
+    "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/finanzierung-der-13-ahv-rente-die-gewerkschaften-wollen-wieder-kampagne-machen-ld.10020333",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 914,
+    "leadText": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Suddenly two billion more: Corporations pay significantly more taxes to the federal government than expected",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/17/5061175e-b9b3-4737-a5d5-7f6872bb24d8.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/17/5061175e-b9b3-4737-a5d5-7f6872bb24d8.jpg?width=1024&quality=75&auto=webp",
+     "width": 5509,
+     "height": 3677,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5509,3099,x0,y578"
+      },
+      {
+       "name": "4:3",
+       "crop": "4903,3677,x606,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3343,3343,x1991,y334"
+      },
+      {
+       "name": "3:4",
+       "crop": "2507,3343,x2399,y334"
+      },
+      {
+       "name": "3:2",
+       "crop": "5509,3673,x0,y2"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Swiss business model is alive and well. Corporate tax revenues are reaching levels that are not easily explained. The Finance Department is finally deciding to adopt a more optimistic budget.",
+     "teaserAuthor": "Marco Ca / Getty"
+    },
+    "teaserAuthor": "Marco Ca / Getty",
+    "nzzId": "ld.10019061",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why did the federal government achieve unexpectedly high tax revenues?",
+    "paywallQuestionTwo": "What role does Geneva play in generating the additional revenue?",
+    "paywallQuestionThree": "How sustainable is the Swiss business model for tax revenue?",
+    "characterCount": 9800,
+    "product": "NZZ.ch",
+    "documentId": "10019061",
+    "layout": "regular",
+    "publicationDate": "2026-08-18T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-18T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-18T15:30:00.000Z",
+    "teaserCaption": "The Swiss business model is alive and well. Corporate tax revenues are reaching levels that are not easily explained. The Finance Department is finally deciding to adopt a more optimistic budget.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/ploetzlich-zwei-milliarden-mehr-konzerne-liefern-dem-bund-deutlich-mehr-steuern-ab-als-erwartet-ld.10019061",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1429,
+    "leadText": "The Swiss business model is alive and well. Corporate tax revenues are reaching levels that are not easily explained. The Finance Department is finally deciding to adopt a more optimistic budget.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1871544",
+    "name": "A tax expert explains: The tax office takes a close look at tax returns regarding home renovations, side accounts, cryptocurrencies, and cigar collections.",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Finanzen",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "A tax expert explains: The tax office takes a close look at tax returns regarding home renovations, side accounts, cryptocurrencies, and cigar collections.",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2025-02-24T04:30:00.000Z",
+     "updateTimestamp": "2025-02-24T09:59:04.606Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1871544",
+   "pageType": "regular",
+   "primaryCategory": "Finanzen",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Tax return 2024: Tax advisor gives tips on maximum deductions and mistakes",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2025/02/21/572f7007-ed0d-48f9-bb38-c07d60dce71c.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6720,3779,x0,y701&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Michael Ferber",
+  "description": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes effectively.",
+  "news_keywords": "A tax expert explains: The tax office scrutinizes tax returns closely, particularly regarding home renovations, side accounts, cryptocurrencies, and cigar collections. (Finance, News, NZZ)",
+  "type": "article",
+  "last-modified": "2025-02-24T12:59:04+02:00",
+  "date": "2025-02-24T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "A tax expert explains: The tax office takes a close look at tax returns regarding home renovations, side accounts, cryptocurrencies, and cigar collections.",
+  "ogTitle": "Tax return 2024: Tax advisor gives tips on maximum deductions and common mistakes",
+  "ogUrl": "https://www.nzz.ch/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544",
+  "mrf:cms_id": "nzz:ld.1871544",
+  "mrf:sections": "Finanzen;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.1871544",
+  "nzzAuthors": [
+   {
+    "name": "Michael Ferber"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:51:41 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/finanzen",
+      "name": "Finance"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Tax return 2024: Tax advisor gives tips on maximum deductions and mistakes"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544"
+   },
+   "headline": "Tax return 2024: Tax advisor gives tips on maximum deductions and mistakes",
+   "datePublished": "2025-02-24T07:30:00+02:00",
+   "dateModified": "2025-02-24T12:59:04+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The deadline for filing your 2024 tax return is the end of March. Consultant Markus Hertel offers tips on how to save on taxes effectively.",
+   "isAccessibleForFree": false,
+   "articleSection": "Finanzen",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2025/02/21/572f7007-ed0d-48f9-bb38-c07d60dce71c.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6720,3779,x0,y701&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Michael Ferber"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 960840,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/finanzen/steuererklaerung-2024-steuerberater-gibt-tipps-zu-maximalen-abzuegen-und-fehlern-ld.1871544",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1871544",
+    "channel=Finanzen"
+   ],
+   "ContentCreated": "2025-02-24T04:30:00.000Z",
+   "ContentAuthor": "Michael Ferber",
+   "ContentSection": "Finanzen",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "ldId": "ld.1871544",
+   "channel": "Finanzen",
+   "heading": "Ein Steuerexperte klärt auf: Bei Hausrenovationen, Nebenkonten, Kryptowährungen und Zigarrensammlungen schaut das Amt bei der Steuererklärung genau hin",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

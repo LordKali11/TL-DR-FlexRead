@@ -1,0 +1,612 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjh57ni70",
+   "content": {
+    "subject": "Nicht die Menschen sind schuld: Die Regierung stolpert in die Reformunfähigkeit",
+    "preheader": "Der Neuanfang scheitert, weil es an Fairness und Glaubwürdigkeit fehlt"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-df7c1a05",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mkd480",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/25d09f91-50af-4d29-b30d-468b5e99933c.png",
+     "mediaId": "kOToTKxwQ7jS",
+     "key": "2026/08/25/25d09f91-50af-4d29-b30d-468b5e99933c.png",
+     "width": 960,
+     "height": 960,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/25d09f91-50af-4d29-b30d-468b5e99933c.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjh57ni73",
+   "content": {
+    "text": "by Susann Kreutzmann"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjh57ni74",
+   "content": {
+    "text": "Editor at NZZ Germany"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh57ni82",
+   "content": {
+    "text": "Today's topic is the AfD's lead candidate for Saxony-Anhalt, Ulrich Siegmund, and the US trade dispute with Canada. But first, the commentary."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh5akdr0",
+   "content": {
+    "title": "Today's topic: The Germans' supposed weariness with reform is a narrative propagated by the federal government. There is a lack of trust in politics"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh5auo10",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/66613fed-f94b-41d1-a16b-0b713082d3fc.jpg",
+     "mediaId": "OIngAlHrSJ9R",
+     "key": "2026/08/25/66613fed-f94b-41d1-a16b-0b713082d3fc.jpg",
+     "width": 4724,
+     "height": 3142,
+     "mimeType": "image/jpeg",
+     "altText": "Lars Klingbeil and Friedrich Merz at the 89th session of the 21st German Bundestag in the Reichstag building. Berlin, July 9, 2026 *** Lars Klingbeil and Friedrich Merz at the 89th session of the 21st German Bundestag in the Reichstag building in Berlin, July 9, 2026 Photo: F. Kern/FutureImage bundestagssitzung89_6785",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179544847"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/66613fed-f94b-41d1-a16b-0b713082d3fc.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "German Federal Chancellor Friedrich Merz (right) and Vice Chancellor Lars Klingbeil do not convince people with their reform agenda.",
+    "source": "Frederic Kern / Imago"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh5b2gt0",
+   "content": {
+    "text": "Finance Minister Lars Klingbeil considers Germany a «blocked country.» Federal Chancellor Friedrich Merz complains about pessimism and fatalism dragging the country down. Without a doubt, the delayed social reforms are a reason for Germany's loss of prosperity. Yet it is not the people who are unwilling to reform, as is often portrayed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scd3tp0",
+   "content": {
+    "text": "Instead of constantly trying to persuade the population to accept new impositions, politicians must define a goal and the path to achieve it. Anyone who experiences change only as a threat to their own status quo inevitably reacts with resistance."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sc97710",
+   "content": {
+    "text": "The skepticism stems from a lack of trust in political actors. People have developed a very keen sense of whether burdens are shared by everyone or only by a select few. Ironically, the real problem is now becoming apparent, as the federal cabinet meets at Neuhardenberg Castle in Brandenburg: it's not that the people are resistant to reform, but rather that the federal government lacks a unifying narrative. Consequently, unbalanced reforms are perceived as overwhelming and therefore rejected."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sc97730",
+   "content": {
+    "text": "The Federal Government started about fifteen months ago with a vote of confidence because people were tired of political stagnation in the country. The coalition squandered this goodwill in record time, as surveys show. <a href=\"https://presseportal.zdf.de/pressemitteilung/zdf-politbarometer-mai-ii-2026\">According to the ZDF Politbarometer from late May,</a> a large majority of people consider reforms to be urgently necessary (89% of respondents). However, 75% also indicated little or no willingness among the population to bear the burdens. The reason: People do not see how the coalition can manage to implement any reforms at all."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0sce7o60",
+   "content": {
+    "title": "Fair and transparent reforms"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sc97740",
+   "content": {
+    "text": "Especially with the constantly rising expenditures for social benefits, the population's sense of justice is deeply disturbed. There are numerous examples of this."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sc97741",
+   "content": {
+    "text": "For example, people who are sought by arrest warrant and have gone into hiding can continue to receive basic income support. Christian Democrats such as Health Minister Carsten Linnemann and North Rhine-Westphalia's Interior Minister Herbert Reul criticize this practice. However, the necessary data reconciliation between the judiciary and job centers has not yet been completed. This raises a legitimate question: If it is not even possible to eliminate such supposedly minor grievances, how can major reforms succeed?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sc97742",
+   "content": {
+    "text": "The situation is similar for asylum seekers who are obliged to leave the country and have evaded deportation. While there is a possibility of benefit cuts, courts have set narrow limits on these. Here too, the state, and thus the taxpayer, continues to pay. The federal states do not even have an exact overview of how many people are involved. It is known that around 65% of deportations fail."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0sfikre0",
+   "content": {
+    "title": "The principle of solidarity has been undermined"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh5bncs0",
+   "content": {
+    "text": "Even more serious are the rising expenditures for recipients of basic income support, which now amount to more than 50 billion euros, nearly ten percent of the entire federal budget. While the federal government promised after the basic income support reform to severely punish benefit fraud and refusal to work, numerous exceptions and loopholes remain, making it all too easy to exploit the system. All these experiences undermine people's faith in the ability of politicians to reform. This trend is dangerous, because social cohesion is at stake."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scal3e0",
+   "content": {
+    "text": "It has also been known for years <a href=\"https://www.nzz.ch/deutschland/politik/der-bundestag-verabschiedet-bislang-groesstes-sparpaket-im-gesundheitswesen-zustimmung-der-bundeslaender-noch-unklar-ld.10014942?srsltid=AfmBOopR7OdxqjVd3EVd8nUdvwU9pQgk03AcPIUKCYLvvOTh8Ozeoq4X\">that recipients of state basic income support cost health insurance funds around 10 to 12 billion euros per year.</a> The Federal Government refuses to cover these expenses, shifting the financial burden onto the insured. At the same time, however, the coalition decided on tough savings with the healthcare reform to avoid contribution increases."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scal3f0",
+   "content": {
+    "text": "It is not surprising that working people can only feel scorn. Especially since such an irritating imbalance undermines the principle of solidarity in statutory health insurance. The Social Democrats, of all parties, refuse to make funds available from the federal budget for basic income support recipients."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0scfdh70",
+   "content": {
+    "title": "False promises, defensive stance"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scal3f1",
+   "content": {
+    "text": "Even SPD supporters no longer believe the narrative that social spending can continue as before simply redistributing wealth from top to bottom. Voters are punishing such false promises, <a href=\"https://www.nzz.ch/visuals/bundestagswahl-die-neuesten-umfragen-im-wahltrend-ld.1605950\">as the SPD, currently polling at around twelve percent nationwide, is experiencing firsthand.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scal3f2",
+   "content": {
+    "text": "Reforms intended to gain acceptance must not be presented as mere cost-cutting measures. Politicians must make the effort to develop a clear vision of how the reforms will make life more livable."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0scal3g0",
+   "content": {
+    "text": "People in Germany know that in the difficult economic situation, it is not about broad relief but about distributing burdens fairly. The experiences of past decades show that people are not fundamentally opposed to change. Politicians must explain themselves and alleviate their fears of financial ruin. The black-red coalition is failing to meet this task."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh5clmb0",
+   "content": {
+    "title": "My highlights from the «Neue Zürcher Zeitung»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh5d6k30",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/6ddb3ef8-3860-4875-92e9-2cddf5c1ac7b.webp",
+     "mediaId": "k6OVCPGIOBqE",
+     "key": "2026/08/25/6ddb3ef8-3860-4875-92e9-2cddf5c1ac7b.webp",
+     "width": 2048,
+     "height": 1365,
+     "mimeType": "image/webp",
+     "altText": "WEISSENFELS, GERMANY - JULY 26: Ulrich Siegmund, lead candidate of the far-right Alternative for Germany (AfD), speaks to supporters during an AfD-sponsored outing of Simson motorcycle enthusiasts ahead of upcoming state elections in Saxony-Anhalt on July 26, 2026 in Weissenfels, Germany. The AfD is currently leading in polls in state elections scheduled for September 6 by such a wide margin that it could possibly hold a majority in the state parliament. (Photo by Jens Schlueter/Getty Images)",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/6ddb3ef8-3860-4875-92e9-2cddf5c1ac7b.webp?width=1024&quality=75&auto=webp"
+    },
+    "caption": "His program is good cheer: Ulrich Siegmund wants to lead the AfD's first single-party government as state premier in Saxony-Anhalt.",
+    "source": "Jens Schlüter / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjh5da6l0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh5da6l1",
+      "content": {
+       "text": "<strong>Ulrich Siegmund is riding high on success:</strong> The AfD's lead candidate in the eastern German state of Saxony-Anhalt is virtually guaranteed victory. Even scandals haven't been able to derail him so far. <a href=\"https://www.nzz.ch/deutschland/frueher-verkaufte-er-duefte-heute-das-programm-der-afd-der-triumphzug-des-ulrich-siegmund-ld.10020717\">Read the report.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh5dgt90",
+      "content": {
+       "text": "<strong>Canada remains resilient:</strong> Following Trump's announcement of new tariffs against its neighbor, Prime Minister Carney is going on the offensive. He knows he has the support of the majority of the population. <a href=\"https://www.nzz.ch/international/mark-carney-trotzt-trump-kanadas-widerstand-im-handelsstreit-ld.10020798\">Read the full article.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh5dl8t0",
+      "content": {
+       "text": "<strong>The German government is meeting in cabinet retreat:</strong> After the summer break, the «autumn of reforms» is finally set to begin. Business representatives have presented a list of demands. <a href=\"https://www.nzz.ch/deutschland/politik/deutschlands-regierung-trifft-sich-zur-kabinettsklausur-und-die-wirtschaft-fordert-mut-zum-schroedern-ld.10020827\">[Link to article]</a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh5e5qk0",
+   "content": {
+    "title": "Do you enjoy «A Different Perspective in the Evening»? Then forward this newsletter to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh5eg0s0",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/der-andere-blick-am-abend/\">Sign up here for the daily newsletter «A Different Perspective in the Evening».</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh5ev980",
+   "content": {
+    "text": "I wish you a pleasant evening."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjh5f7an0",
+   "content": {
+    "text": "Susann Kreutzmann"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654586"
+   }
+  },
+  "issueDate": "2026-03-10T00:00:00.000Z",
+  "title": "Copy of copy of template DAB in the evening",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10020897",
+  "product": "NZZ.ch",
+  "documentId": 10020897,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T15:34:23.202Z",
+  "publicationDate": "2026-08-25T15:34:23.202Z",
+  "publicationLastUpdated": "2026-08-25T15:34:23.202Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-26T03:34:23.202Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10020897",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10020897",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483567,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020897",
+    "name": "Copy of copy of template DAB in the evening",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Copy of copy of template DAB in the evening",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T15:34:23.202Z",
+     "updateTimestamp": "2026-08-25T15:34:23.202Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020897",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Copy of copy of template DAB am Abend | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Copy of copy of template DAB am Abend, Nachrichten, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T19:34:23+02:00",
+  "date": "2026-08-25T19:34:23+02:00",
+  "canonical": "https://www.nzz.ch/ld.10020897",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Copy of copy of template DAB in the evening",
+  "ogTitle": "Copy of copy of template DAB am Abend | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10020897",
+  "mrf:cms_id": "nzz:ld.10020897",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020897",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10020897"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:29 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Copy of copy of template DAB in the evening"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10020897"
+   },
+   "headline": "Copy of copy of template DAB am Abend | NZZ",
+   "datePublished": "2026-08-25T19:34:23+02:00",
+   "dateModified": "2026-08-25T19:34:23+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10020897",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020897"
+   ],
+   "ContentCreated": "2026-08-25T15:34:23.202Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020897",
+   "heading": "Kopie von Kopie von Vorlage DAB am Abend",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

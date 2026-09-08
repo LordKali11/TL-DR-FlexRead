@@ -1,0 +1,2385 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1ih02vgod0",
+   "content": {
+    "title": "The Swiss healthcare system is ailing. How can it be restored to health?",
+    "lead": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas.",
+    "authorline": "Peter Ackermann (text), Olivia Meyer (illustrations)",
+    "author": "Peter Ackermann (text), Olivia Meyer (illustrations)"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ije6kfq30",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2025/02/06/d4dc1199-b114-4c0c-aca3-2c8e6772dffb.png?crop=2467,1850,x0,y72",
+     "width": 2467,
+     "height": 2467,
+     "crop": {
+      "x": 0,
+      "y": 72,
+      "width": 2467,
+      "height": 1850
+     },
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijka0",
+   "content": {
+    "text": "Ms. Krones, is the Swiss healthcare system sick?"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-673027d5",
+   "identifier": "barrier",
+   "prevElement": "question",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijka1",
+   "content": {
+    "text": "If one understands illness as a disruption of the fundamental functions of an organism, then yes. Our healthcare system is showing clear symptoms."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijka2",
+   "content": {
+    "text": "What are the ethical problems with the healthcare system?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkb0",
+   "content": {
+    "text": "A healthy system should provide for everyone fairly, effectively, and sustainably, but that's precisely where the problems lie. Rising health insurance premiums disproportionately affect people with low incomes—those who, due to their social circumstances, already depend on better care. They are more likely than others to live in areas with higher levels of noise pollution and particulate matter, increasing their risk of heart disease, dementia, and chronic lung diseases."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkc0",
+   "content": {
+    "text": "Health insurance premiums have doubled on average over the last twenty years. What are the consequences?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkc1",
+   "content": {
+    "text": "Until a few years ago, this was primarily a concern for people with lower incomes. Today, rising premiums are increasingly burdening the middle class as well. When premiums rise faster than wages, even those with good incomes wonder how much longer they can keep up. Many fear they will soon no longer be able to afford all medical services and will have to forgo basic healthcare."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkd0",
+   "content": {
+    "text": "At what point is the situation considered critical?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ijd3313o1",
+   "content": {
+    "image": {
+     "author": "USZ",
+     "caption": "Tanja Krones, 55, is a medical ethicist at the University of Zurich, heads the Clinical Ethics department at the University Hospital Zurich (USZ), and is the managing director of the Clinical Ethics Committee. She advises all members of treatment teams, patients, and their families on complex ethical issues. Since 2018, she has been a member of the National Ethics Committee for Human Medicine. Krones has three children and lives with her husband in Winterthur.",
+     "originalUrl": "/2025/02/06/511951a6-5177-444c-9bd9-bc343d041147.jpeg?width=1024",
+     "width": 422,
+     "height": 591,
+     "altText": "Medical ethicist Tanja Krones (USZ, Federal Ethics Commission)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2165863845"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Tanja Krones, 55, is a medical ethicist at the University of Zurich, heads the Clinical Ethics department at the University Hospital Zurich (USZ), and is the managing director of the Clinical Ethics Committee. She advises all members of treatment teams, patients, and their families on complex ethical issues. Since 2018, she has been a member of the National Ethics Committee for Human Medicine. Krones has three children and lives with her husband in Winterthur.",
+    "author": "USZ"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--right"
+   },
+   "data": {
+    "_captionDirective": {}
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkd1",
+   "content": {
+    "text": "The situation becomes precarious when even the middle class has to consider at their kitchen table whether they can still afford to pay the maximum amount into the third pillar. Rising health insurance premiums are forcing many to forgo, either entirely or partially, this voluntary but now essential supplement to their retirement savings."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkd2",
+   "content": {
+    "text": "Where do we stand in this development?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijke0",
+   "content": {
+    "text": "I see it as a warning sign that more and more middle-class households are slipping into the bracket that entitles them to premium reductions."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijke1",
+   "content": {
+    "text": "Why do the middle class still refrain from applying for premium reductions?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijke2",
+   "content": {
+    "text": "Her self-image plays a major role. She is used to managing her own life and taking her happiness into her own hands. She finds accepting help unpleasant or shameful. Furthermore, she fears for her social status and therefore forgoes support, even when she needs it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkf0",
+   "content": {
+    "text": "What does she do instead?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkf1",
+   "content": {
+    "text": "Middle-class people are increasingly adopting the behavioral patterns of those with very low incomes: they switch more frequently to cheaper health insurance plans and opt for a low monthly premium with a high deductible. They prioritize staying healthy and avoiding doctor visits to prevent higher monthly costs. Samia Hurst, a medical ethics expert from Geneva, surveys this behavior annually among medical students, who traditionally come from wealthier families. One-fifth of them postpone doctor's visits or don't buy medication. They prioritize their financial resources, spending their money on books and tuition fees rather than on their health."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkf2",
+   "content": {
+    "text": "Where is this development leading society?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkf3",
+   "content": {
+    "text": "Significant social disparities in life expectancy are a major contributing factor. Researchers demonstrated this in Great Britain as early as the 1980s, and it is also evident in Switzerland. People with low incomes are not only more frequently ill, but also die earlier than wealthier individuals, on average five to ten years earlier. This inequality undermines equal opportunities and weakens social cohesion."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkg0",
+   "content": {
+    "text": "Is the Swiss healthcare system ethically just?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkg1",
+   "content": {
+    "text": "On the one hand, Switzerland offers high-quality medical care with still relatively short waiting times. On the other hand, patients have to dig deep into their pockets compared to other countries. This isn't a problem for the wealthy, but others feel compelled to gamble. They are following the logic of economics."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkg2",
+   "content": {
+    "text": "What does that mean in concrete terms?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkg3",
+   "content": {
+    "text": "They're betting that they'll stay healthy and, thanks to the lower premiums paid, have a little more money available for other things. But woe betide them if something unexpected happens. The British general practitioner Julian Tudor-Hart described this phenomenon as the «inverse care law.» This means that in a profit-driven healthcare system, those who actually need it most receive the least. The otherwise appealing idea of ​​a liberal society, in which everyone can use their money as they see fit for premiums and deductibles, leads to healthcare injustice for people with limited incomes."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkh0",
+   "content": {
+    "text": "This hits people particularly hard who can no longer pay their health insurance premiums and end up on a blacklist in the cantons of Thurgau, Aargau, Ticino, and Zug. This means they are only entitled to emergency care – is this ethically justifiable?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkh1",
+   "content": {
+    "text": "At first glance, it might seem morally just to punish someone who doesn't pay their health insurance premiums. It's reminiscent of a penalty for drunk driving, where one has to pay for the damage. But ethically, this is problematic. Health is a fundamental right, not a reward for good behavior. Anyone who argues in terms of liability or guilt in such a case misses the point: it's about people in need who are being denied basic healthcare. Instead of punishing, we should try to understand the individual situation of the delinquent policyholders and support them in securing access to healthcare."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijki0",
+   "content": {
+    "text": "How should we deal with insured persons who fall behind on payments?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijki1",
+   "content": {
+    "text": "Many people who don't pay their premiums struggle with psychological and social problems. They are unable to manage their finances. It is unethical to deny these people access to healthcare. The situation becomes particularly tragic when chronically ill people, such as those with HIV, don't receive their medication. This not only endangers their health but also society as a whole."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijki2",
+   "content": {
+    "text": "Are the muleteers «social parasites»?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkj0",
+   "content": {
+    "text": "Not necessarily. Of course, there are people who exploit the system, both in the wealthy and poorer segments of the population. The National Ethics Commission points out that a distinction must be made between inability to pay and unwillingness to pay. However, since it largely affects people with very little money, this distinction is not easy to make. Medical associations and ethicists in Switzerland agree that blacklists are unacceptable."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkj1",
+   "content": {
+    "text": "Why did the wealthy canton of Zug continue to maintain these lists until last year?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkj2",
+   "content": {
+    "text": "This seems politically motivated to me: The administration and political decision-makers probably believed this would relieve the burden on health insurance companies. In reality, the lists lead to greater injustice and ultimately higher costs, as people then have to be treated at a more advanced stage of their illness, where treatment is mandatory."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkk1",
+   "content": {
+    "text": "How can we curb the ever-increasing healthcare costs? Should people whose behavior causes higher costs pay higher premiums? For example, smokers or people who are severely overweight?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkk2",
+   "content": {
+    "text": "Whether it's smoking or obesity: the blame principle falls short. Obesity is a complex disease that isn't solely attributable to individual behavior. Genetic, social, and environmental factors all play a role. People from poorer backgrounds are more frequently affected. It would be wrong to speak of self-inflicted harm. If we apply the blame principle to healthcare, we jeopardize the solidarity of the system. Logically, this would also mean that people who participate in extreme sports or work in professions with health risks would have to be held accountable. For example, a manager working 60-hour weeks who risks a heart attack, without this being considered self-inflicted harm. Considerations of a penalty system could dangerously shift our ethical values ​​and undermine the idea of ​​solidarity. It is crucial to avoid assigning blame and stigmatizing others. The blame principle has no place in a solidarity-based healthcare system."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkl1",
+   "content": {
+    "text": "Are they, like the systems theorist Paul Watzlawick, advocating for a right to be unhappy – even if this seems self-destructive?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkl2",
+   "content": {
+    "text": "Life cannot be lived solely according to rational calculation, as Watzlawick describes in his «Instructions for Being Unhappy.» Those who constantly avoid risks and prioritize security end up in an overprotected world. Such a world prevents individuals from growing and developing. Every person is obligated to make decisions that also involve risks. Sometimes this leads to broken legs, broken hearts, or other mishaps—whether because one absentmindedly missed a step or because one recklessly skied down a black run. It is important that the healthcare system supports us when we need help—even in cases of self-inflicted errors. Anyone can simply have bad luck while performing a completely normal everyday activity. And without insurance, the costs of treatment could quickly become unbearable. An operation in a hospital can easily cost several hundred thousand francs. Without insurance, even wealthy people might, in the worst-case scenario, have to sell their homes to cover the treatment costs. According to the World Health Organization (WHO), «catastrophic health expenditures» occur when people are forced to sell their possessions or go into debt to pay for medical treatment. This must be avoided. And it demonstrates the importance of a solidarity-based healthcare system that remains accessible to everyone – regardless of how risky our lives are or what fate throws our way."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkm0",
+   "content": {
+    "text": "Would a bonus system be fairer? Like the ones some health insurance companies use that reward 10,000 steps per day?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkm1",
+   "content": {
+    "text": "From an educational perspective, it makes sense to encourage and reinforce positive behavior rather than punish it. Ethically, however, the concept is not without its pitfalls. For example, the 10,000 steps a day are a symbolic number, invented by a Japanese company after the 1964 Tokyo Olympics to sell pedometers, and are not scientifically the best measure of preventative health behavior. And what about those who need it most but are unable to meet the prescribed goals for social or economic reasons? Someone who toils away in a call center all day might not have the energy for the gym and is more likely to reward themselves with a cigarette and a kebab. And who defines and monitors success in a liberal state? A bonus system may be well-intentioned, but it can also disadvantage those who are already disadvantaged."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkm2",
+   "content": {
+    "text": "Is influencing people through a bonus system compatible with the freedom of a liberal society?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkn0",
+   "content": {
+    "text": "«Nudging»—the gentle guidance of decisions—can be ethically justifiable if it serves the common good. Examples include the fluoridation of drinking water or the distribution of iodine tablets after a nuclear accident. Perhaps the measure that has saved the most lives in wealthier countries is mandatory seatbelt use. Crucially, such measures are based on scientific findings that, on average, improve the well-being of the population. However, as the pandemic demonstrated, the legitimate question quickly arises: Who is allowed to infringe upon personal freedom, and to what extent? Problems arise when influence or laws excessively restrict freedom of choice."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkn1",
+   "content": {
+    "text": "Healthcare costs are rising. Yet deductibles haven't been increased in twenty years. Is the minimum deductible of 300 francs too low?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkn2",
+   "content": {
+    "text": "The question of whether to raise deductibles is not easy to answer from an ethical perspective. The answer depends heavily on how the system functions overall. The question is whether the model in which people pay the same premiums regardless of their income is fair. Currently, all insured individuals theoretically pay the same amount for basic health insurance, which means that people with lower incomes have to spend a proportionally larger share of their money on health insurance. This leads to an unfair burden, especially for low-income individuals and families, because Switzerland does not have family insurance plans."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijko0",
+   "content": {
+    "text": "Which would be more just from an ethical point of view?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijko1",
+   "content": {
+    "text": "A fairer system would take into account that people's ability to pay varies. Other countries have models where health insurance premiums are calculated as a percentage of income or where costs are distributed more equitably through taxes. Such models could help reduce the social inequality in Switzerland caused by the existing system. When more and more insured individuals benefit from premium reductions, as is currently the case in Switzerland, the general public bears the costs."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijko2",
+   "content": {
+    "text": "Why do you consider it more ethically fair to have the rich pay for the majority?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkp0",
+   "content": {
+    "text": "When a few people support many, a form of imbalance naturally arises. Therefore, consider the bigger picture and remember that social balance and the prosperity of a society lie precisely in its peace. The wealthy do not live in isolation. They belong to a community in which those less fortunate also want to feel treated fairly. If social inequality grows too sharply, mistrust and unrest arise. In South Africa, for example, extreme inequality has forced the wealthy to isolate themselves with bodyguards and fences. This contradicts our ideals of freedom and equality in Switzerland, where everyone, including the wealthy, wants to live in an open and stable society."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkp1",
+   "content": {
+    "text": "In the future, fewer and fewer young people will have to support more and more elderly people. Is a senior citizen bonus necessary?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkq0",
+   "content": {
+    "text": "No, that would be ethically considered age discrimination. Not every older person uses healthcare services. However, they have all paid premiums throughout their lives and now benefit from the solidarity inherent in the system."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkq1",
+   "content": {
+    "text": "What would a fair healthcare system look like from an ethical point of view?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkr0",
+   "content": {
+    "text": "In my view, it's based on the idea that a just society arises when social and economic inequalities are structured in such a way as to benefit the least advantaged members. This isn't communism, but rather a central component of John Rawls's theory of justice. In his thought experiment, the liberal philosopher challenged us to imagine having to establish the principles of justice for a society without knowing our own position within that society. We don't know whether we are rich or poor, healthy or sick, a man or a woman. With this lack of knowledge, an objective and fair decision is to be made, since no one knows where they stand in society. Rawls argues that under the «veil of ignorance,» people choose principles that ensure the most vulnerable members of society are treated well. Because no one knows whether they themselves will belong to these disadvantaged groups, principles are chosen that minimize inequality and promote social justice."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkr1",
+   "content": {
+    "text": "What do we owe each other as a society?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkr2",
+   "content": {
+    "text": "As a society, we have agreed upon certain values ​​and rights that have proven their worth over the centuries and strengthened us collectively. Especially after the sectarian civil wars and the two world wars, we realized the necessity of enshrining human rights to create a peaceful and just society. The formulated human rights have since guaranteed a minimum level of security and prosperity for all. The right to health is a central human right, creating the prerequisite for exercising all other rights. If someone is ill, they cannot work or exercise other rights. This means that access to medical care is fundamental to leading a self-determined life. Without this foundation, all other rights, such as the right to education or freedom, become meaningless."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijku0",
+   "content": {
+    "text": "Despite the right to health: Are our demands on the healthcare system in Switzerland now too high?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijku1",
+   "content": {
+    "text": "Yes, in a way. Many people, faced with high health insurance premiums, expect medicine to be able to solve every problem, especially existential ones. This hope is further fueled by celebrated breakthroughs in research, such as in cancer medicine. We hope that «miracle cures» will grant us an almost infinitely long lifespan, if only we invest enough money in them."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijkv0",
+   "content": {
+    "text": "What is the way out?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijkv1",
+   "content": {
+    "text": "To enable patients to make informed decisions, we need to better educate them about the real effects of possible treatments, in line with the principles of «health literacy.» This is especially important at the end of life, to allow for a dignified death. And because the last weeks before death are the most expensive in terms of healthcare costs."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl00",
+   "content": {
+    "text": "What does that mean in concrete terms?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl01",
+   "content": {
+    "text": "Seriously ill people need to understand that new drug treatments can prolong their lives but reduce their quality of life. Or that attempts to resuscitate someone experiencing sudden cardiac arrest are unsuccessful in the vast majority of cases. Life-prolonging measures often mean that people cannot die at home with their loved ones, but rather in an intensive care unit. This is something very few people want."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl11",
+   "content": {
+    "text": "They are calling for investment in palliative care instead of expensive life extensions. Wouldn't this place an even greater burden on the healthcare system?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl20",
+   "content": {
+    "text": "Not necessarily. The Australians have developed an exemplary model for the care of seriously ill people at home. With the philosophy of «palliative care follows the patient,» they avoid unnecessary hospital stays, which improves quality of life and reduces costs at the end of life."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ije5tsqv0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2025/02/06/b6e643b3-d8bb-46dc-a6ab-a964db50ff15.png?width=1024",
+     "width": 1467,
+     "height": 1466,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl21",
+   "content": {
+    "text": "What are the advantages of palliative home care compared to intensive care in a hospital?"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl30",
+   "content": {
+    "text": "It has numerous advantages: It allows patients to remain in their familiar surroundings, which leads to a greater sense of security and comfort for many. Patients receive necessary medical support, such as infusions or pain management, more cost-effectively at home. The newest medications and new surgical procedures are not always the best, but usually the most expensive."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl31",
+   "content": {
+    "text": "Why are people not better informed about their options at the end of their lives?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl40",
+   "content": {
+    "text": "Qualified consultations are not adequately reimbursed. Let me be frank: Our healthcare system suffers from the fact that excellent «talking medicine»—that is, individual and in-depth communication between doctor and patient—often doesn't receive the recognition and financial support it deserves. In patient-centered medicine, doctors shouldn't constantly have to worry about not being able to bill for consultation time. Well-informed patients often opt for less expensive treatments, creating a win-win situation: It benefits patients and reduces treatment costs."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl41",
+   "content": {
+    "text": "Why is «talking medicine» not adequately funded?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl50",
+   "content": {
+    "text": "There are several reasons. First, communication is underestimated and often seen as something you simply know how to do, like sex, without needing to learn it specifically. Previously, medical studies placed little emphasis on communication skills, and even today it's difficult to quantify and compensate for the value of such conversations. The notion that a conversation is less valuable than a medical procedure is deeply ingrained. Second, clear quality standards are lacking. No doctor in Switzerland today can hang a certificate for their learned communication skills on their practice wall, but they can certainly say: «I can perform ultrasounds.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl51",
+   "content": {
+    "text": "Are there any countries from which we can learn something about spoken medicine?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl60",
+   "content": {
+    "text": "Yes, in Canada and Norway, doctors and specialized nurses receive training in communication skills, which can also be reimbursed. However, there's a third reason why interest in qualified counseling is low: the pharmaceutical industry lobby exerts a strong influence on what is and isn't covered by insurance. Expensive, even ineffective, medications and medical devices receive substantial subsidies. More cost-effective therapies, such as specialized physiotherapy and psychotherapy, are often neglected. For example, a person with seasonal affective disorder (SAD) could be sent to a five-star hotel in the Caribbean every year for a fraction of the cost of an expensive medication. The benefit would potentially be similar."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl61",
+   "content": {
+    "text": "Speaking of high drug prices: An expensive medication like the one-time gene therapy Zolgensma for babies with spinal muscular atrophy costs 2.1 million Swiss francs. Is such a high price justified for individuals in a social welfare system?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl62",
+   "content": {
+    "text": "The price of Zolgensma is justified by the promise of many years of life with a good quality of life and long-term savings in healthcare costs. The therapy can save the life of a child who would otherwise be severely disabled and require lifelong intensive medical care. The problem is that long-term data demonstrating the promised benefits is lacking for such medications. Without this evidence, the high price of Zolgensma remains controversial. This is the case with many so-called orphan drugs, medications for rare diseases. The price is too high – both in absolute terms and in relation to the scientifically proven benefit."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl70",
+   "content": {
+    "text": "How do you explain to parents that their child might not survive because «society» won't pay for a medication?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl71",
+   "content": {
+    "text": "This situation is truly tragic, in the truest sense of a Greek tragedy. Parents, doctors, care teams: understandably, we all want to do everything we can to save the child or give them a better life. This applies not only to children suffering from rare diseases, but also to children with health problems for which no medication is available. The pharmaceutical industry is therefore exploiting this argument dishonestly. From an ethical standpoint, effective measures that can improve quality of life and extend life expectancy should be available to everyone, and not just those involving medications or medical devices. For example, physiotherapy and respiratory therapy are extremely important for children with cystic fibrosis. However, ensuring adequate provision of these services, like anything labor-intensive in healthcare, is difficult."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl72",
+   "content": {
+    "text": "Novartis CEO Vas Narasimhan argues that gene therapies like Zolgensma represent a medical breakthrough because they offer hope for a cure with a single treatment. Should the government intervene and set a cap on therapy costs?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl80",
+   "content": {
+    "text": "The state already does this to some extent in negotiations with the pharmaceutical industry, which, however, are not transparent at the industry's request."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ije0j4a51",
+   "content": {
+    "text": "Novartis achieved a net profit of 8.6 billion Swiss francs in 2023 – are such high profits partly responsible for the high drug prices?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ije0ihmu1",
+   "content": {
+    "text": "Unfortunately, it must be said: far too many pharmaceutical companies, whose work is of vital importance to society, fail to live up to their responsibilities. Instead of optimizing profits, they maximize them, profits which they also derive from the social security system. They also frequently benefit from taxpayer-funded basic research in their drug development."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijl90",
+   "content": {
+    "text": "What is a human life worth in our healthcare system?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijl91",
+   "content": {
+    "text": "The price of a human life cannot be measured in numbers. And that is precisely why this question touches upon an ethical dilemma: No one wants to deny someone the chance of a cure, especially when their life is at stake. But on the other hand, the question arises as to how many resources we can spend on a single therapy without causing other patients to suffer. A treatment price must therefore be justifiable not only ethically for the individual, but also economically, in terms of ensuring the care of all. If long-term data and actual effectiveness are uncertain, the price may be too high in relation to the benefit, especially if the money cannot be distributed fairly among everyone."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijla2",
+   "content": {
+    "text": "Are ethics and economics mutually exclusive in the healthcare sector?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijla3",
+   "content": {
+    "text": "No, quite the opposite. It would be naive to ignore economic aspects. The crucial question is how a publicly and solidarity-based system ensures a fair distribution. It must be guaranteed that not just a few benefit from high-level services, but that the needs of as many people as possible are met."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ije647fq0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2025/02/06/c7375575-f9d8-4ef3-9415-2298283ed827.png?width=1024",
+     "width": 1467,
+     "height": 1466,
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlb0",
+   "content": {
+    "text": "Doctors prescribe therapies, but they also profit from them. Isn't there a risk that they might make financially selfish decisions?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlb1",
+   "content": {
+    "text": "Doctors are first and foremost caregivers who, based on their professional ethics, want to help their patients. But in reality, they have a dual role. They bear the responsibility of acting in the best interests of their patients while also considering the economic constraints of the healthcare system and their own practice. This can lead to conflicts. It is therefore all the more important to discuss these mechanisms honestly, to recognize that resources are finite even in Switzerland, and to reflect together on these difficult trade-offs."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlb2",
+   "content": {
+    "text": "Can we finance top-level medical care and comprehensive basic healthcare for everyone at the same time?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlb3",
+   "content": {
+    "text": "Yes, that's possible. Crucially, cutting-edge medicine encompasses not only expensive procedures and technical solutions, but also excellent interdisciplinary collaboration and sound decision-making. At the same time, primary care, particularly general practitioner and interprofessional care, must be strengthened to effectively and sustainably maintain the population's health."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlc0",
+   "content": {
+    "text": "Is the potential of interdisciplinary collaboration already being fully utilized in Switzerland?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlc1",
+   "content": {
+    "text": "Collaboration should be strengthened, especially since it leads to better treatment outcomes. When different medical specialties cooperate, they make the best decisions and better address individual patient needs. Many clinics in Denmark and Norway, the University Hospital Schleswig-Holstein in Germany, and the Mayo Clinic in the USA serve as role models. They demonstrate how close collaboration and joint decision-making—interprofessional shared decision-making—lead to patient-centered care that is more effective, safer, and more cost-efficient. In these settings, every patient has the opportunity for coaching before and throughout their treatment to facilitate evidence-based decisions. The strong involvement of patients is also perceived as more satisfying by physicians and treatment teams, making their work more fulfilling."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlc2",
+   "content": {
+    "text": "Where do you see oversupplies in Switzerland?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijld0",
+   "content": {
+    "text": "Over-treatment occurs with some preventive screening or imaging procedures, and also with the prescription of medications such as antibiotics, iron, or blood thinners. In Switzerland, unnecessary orthopedic surgeries are also performed too frequently."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijld1",
+   "content": {
+    "text": "What measures could reduce oversupply in Switzerland?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijld2",
+   "content": {
+    "text": "There are many. One of the most important is to make the service catalog clearer and more transparent."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijld3",
+   "content": {
+    "text": "Where does the healthcare system show a lack of resources?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijle0",
+   "content": {
+    "text": "This applies to people with chronic and complex illnesses, including those with severe mental illnesses and disabilities. Furthermore, preventative and reproductive health measures are inadequate. The birth control pill for women is expensive, and the male contraceptive pill is still not widely available. Another problem area is dentistry, which other countries handle better."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijle1",
+   "content": {
+    "text": "The state must, among other things, guarantee security, education, and retirement provisions. How much of that should be allocated to healthcare?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijle2",
+   "content": {
+    "text": "The share allocated to healthcare cannot grow indefinitely, as it competes with other important tasks. A continuous increase in healthcare spending can, in the long run, reduce funding for education and other societal needs. This, in turn, negatively impacts public health. We must therefore constantly address conflicting objectives and avoid expanding the healthcare sector recklessly without considering the consequences for other areas."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijle3",
+   "content": {
+    "text": "How can these conflicts between health, education, and security be better balanced?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlf0",
+   "content": {
+    "text": "Improved health education could reduce costs in the long term, as an informed population is less likely to get sick."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlf1",
+   "content": {
+    "text": "How can ethical principles be upheld when the healthcare budget has to be cut?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlf2",
+   "content": {
+    "text": "We can learn from countries like Costa Rica, which, despite limited resources, offer excellent healthcare and high life expectancy – with low, income-based premiums and 100% coverage. Costa Rica focuses, among other things, on fewer and essential medications and basic healthcare services that deliver high benefits. The WHO has compiled a list of such medications, considered indispensable for ensuring basic healthcare. This approach is efficient and cost-effective."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlf3",
+   "content": {
+    "text": "Where should priorities be set if today's budget is streamlined?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlg0",
+   "content": {
+    "text": "With a limited budget, we must set clear priorities to allocate resources where they will have the greatest impact. Like Costa Rica, Sweden, another wealthy European country, has developed a scientifically sound system for prioritizing healthcare services. Less effective or more expensive treatments that offer less benefit can be postponed during periods of financial constraint."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlg1",
+   "content": {
+    "text": "How can we create acceptance for changes in the healthcare system without losing trust?"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlg2",
+   "content": {
+    "text": "We create acceptance by questioning our understanding of humanity. We shouldn't assume that all people are selfish. Instead, we should ask: What do we want for ourselves, for our families, and for future generations? When we see ourselves as part of a larger community in which we take responsibility for one another, it becomes easier to accept reforms. As a society, we must remember that we exist not only for ourselves but also for others, paying closer attention to the actual needs of each individual and providing better care for the most vulnerable groups."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlh0",
+   "content": {
+    "text": "How can this understanding be anchored?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlh1",
+   "content": {
+    "text": "Acceptance arises through education, especially targeted health education. In countries like New Zealand, «life and death education» is taught in schools. Here, children learn not only mathematics but also an understanding of risks, health, and important life decisions. When someone understands what «absolute risk» or a «false positive» means, they can make better-informed decisions."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "question"
+  },
+  {
+   "identifier": "question",
+   "id": "doc-1ijdgijlh2",
+   "content": {
+    "text": "Will the Swiss healthcare system recover?"
+   },
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "answer"
+  },
+  {
+   "identifier": "answer",
+   "id": "doc-1ijdgijlh3",
+   "content": {
+    "text": "I am optimistic and believe that we as a society will recognize that we as a human species have only achieved so much happiness and quality of life thanks to our ability to cooperate."
+   },
+   "paidContent": true,
+   "prevElement": "question",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1ih02vgod2",
+   "paidContent": true,
+   "prevElement": "answer",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1ih02vgod3",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1ih02vgod4",
+      "content": {
+       "owner": "NZZ",
+       "title": "The deadly difference: Why being a man is a health risk",
+       "teaserImage": {
+        "originalUrl": "/2024/01/18/ad3440da-91a4-4485-bb13-f8ebe74baef7.gif?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/01/18/ad3440da-91a4-4485-bb13-f8ebe74baef7.gif?width=1024&quality=75&auto=webp",
+        "width": 1200,
+        "height": 675,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1067,600,x66,y1"
+         },
+         {
+          "name": "1:1",
+          "crop": "600,600,x292,y31"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x196,y24"
+         },
+         {
+          "name": "3:4",
+          "crop": "506,675,x347,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1013,675,x94,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Men live, on average, four years shorter lives than women. This is about more than just biological differences between the sexes."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1774460",
+       "readingTime": 1440,
+       "authorLine": "Peter Ackermann (text), Simon Tanner (illustrations)",
+       "characterCount": 34280,
+       "product": "NZZ.ch",
+       "documentId": 1774460,
+       "layout": "longformstandard",
+       "publicationDate": "2024-01-22T04:30:00.000Z",
+       "publicationLastUpdated": "2026-02-11T09:20:22.444Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-01-22T16:30:00.000Z",
+       "teaserCaption": "Men live, on average, four years shorter lives than women. This is about more than just biological differences between the sexes.",
+       "authorImage": {
+        "url": "https://img-msp-prod.nzz.ch/2024/04/30/a656ef88-c773-4198-93a0-5da102f033bb.png?width=1024&quality=75&auto=webp",
+        "originalUrl": "/2024/04/30/a656ef88-c773-4198-93a0-5da102f033bb.png?width=1024",
+        "imageService": "fastly",
+        "width": 800,
+        "height": 800,
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/a656ef88-c773-4198-93a0-5da102f033bb.png?width=1024&quality=75&auto=webp",
+       "url": "/gesellschaft/wochenende-warum-sterben-maenner-noch-immer-frueher-als-frauen-ld.1774460",
+       "department": {
+        "name": "Society",
+        "path": "/gesellschaft"
+       },
+       "estimationWordCount": 4789,
+       "leadText": "Men live, on average, four years shorter lives than women. This is about more than just biological differences between the sexes.",
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ije3eccr0",
+      "content": {
+       "title": "Are we allowed to intervene in evolution as we please?",
+       "teaserImage": {
+        "originalUrl": "/2022/08/12/025123c0-ea8e-45e3-8787-32e41fca5b89.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/08/12/025123c0-ea8e-45e3-8787-32e41fca5b89.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5000,
+        "height": 3333,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4444,2500,x556,y42"
+         },
+         {
+          "name": "1:1",
+          "crop": "3333,3333,x1667,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The development of the gene-editing tool CRISPR is progressing rapidly. The method could soon be used to alter the genome of humans and all their descendants, as Professor Andrea Büchler explains. This presents society as a whole with difficult decisions, says the president of the National Ethics Commission.",
+        "teaserAuthor": "Anthony Kwan / Bloomberg"
+       },
+       "teaserAuthor": "Anthony Kwan / Bloomberg",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1697602",
+       "readingTime": 840,
+       "authorLine": "Simon Hehli, Judith Blage (text), Anja Lemcke (infographic)",
+       "characterCount": 18914,
+       "product": "NZZ.ch",
+       "documentId": 1697602,
+       "layout": "longformvisual",
+       "publicationDate": "2022-08-11T16:54:21.604Z",
+       "publicationLastUpdated": "2022-08-15T07:32:38.109Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2022-08-12T04:54:21.604Z",
+       "teaserCaption": "The development of the gene-editing tool CRISPR is progressing rapidly. The method could soon be used to alter the genome of humans and all their descendants, as Professor Andrea Büchler explains. This presents society as a whole with difficult decisions, says the president of the National Ethics Commission.",
+       "url": "/schweiz/designer-babys-duerfen-wir-die-menschheit-fuer-immer-veraendernin-die-evolution-eingreifengott-spielen-ld.1697602",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 2851,
+       "leadText": "The development of the gene-editing tool CRISPR is progressing rapidly. The method could soon be used to alter the genome of humans and all their descendants, as Professor Andrea Büchler explains. This presents society as a whole with difficult decisions, says the president of the National Ethics Commission.",
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ih02vgoe0",
+      "content": {
+       "owner": "NZZ",
+       "title": "Suddenly 4000 instead of 750 francs: Operations could become up to five times more expensive next year",
+       "teaserImage": {
+        "originalUrl": "/2025/01/03/4270e5d8-8c36-405d-a005-9878a4e5612f.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/03/4270e5d8-8c36-405d-a005-9878a4e5612f.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7788,
+        "height": 5192,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7788,4381,x0,y482"
+         },
+         {
+          "name": "1:1",
+          "crop": "3241,3241,x2288,y489"
+         },
+         {
+          "name": "4:3",
+          "crop": "6923,5191,x0,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "3461,4615,x2052,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Surgeons say the flat-rate fees, which are scheduled to take effect in 2026, are poorly designed. They warn that surgeons could soon be tempted to conduct dangerous experiments with anesthesia and materials.",
+        "teaserAuthor": "Christian Beutler / Keystone"
+       },
+       "teaserAuthor": "Christian Beutler / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1867213",
+       "readingTime": 300,
+       "authorLine": "Simon Hehli",
+       "characterCount": 7176,
+       "product": "NZZ.ch",
+       "documentId": 1867213,
+       "layout": "regular",
+       "publicationDate": "2025-01-22T16:00:00.000Z",
+       "publicationLastUpdated": "2025-01-30T13:14:34.651Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-01-23T04:00:00.000Z",
+       "teaserCaption": "Surgeons say the flat-rate fees, which are scheduled to take effect in 2026, are poorly designed. They warn that surgeons could soon be tempted to conduct dangerous experiments with anesthesia and materials.",
+       "url": "/schweiz/ploetzlich-5500-statt-760-franken-operationen-koennten-naechstes-jahr-bis-zu-siebenmal-so-teuer-werden-ld.1867213",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 1091,
+       "leadText": "Surgeons say the flat-rate fees, which are scheduled to take effect in 2026, are poorly designed. They warn that surgeons could soon be tempted to conduct dangerous experiments with anesthesia and materials."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ih02vgoe1",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "«Our doctors have taken an oath. I don't assume they would subordinate everything to profit,» says the Bernese Director of Health",
+       "teaserImage": {
+        "originalUrl": "/2023/07/11/a817f745-74c8-4202-893d-4c41c7ecd54e.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/07/11/a817f745-74c8-4202-893d-4c41c7ecd54e.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4992,
+        "height": 3328,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4992,2808,x0,y377"
+         },
+         {
+          "name": "1:1",
+          "crop": "2630,2630,x491,y276"
+         },
+         {
+          "name": "4:3",
+          "crop": "4437,3328,x277,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2496,3328,x452,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Pierre-Alain Schnegg is Bern's Director of Health and president of the organization that sets the medical fee schedules. The fact that the new flat-rate payments are being met with resistance from doctors annoys the SVP politician.",
+        "teaserAuthor": "Gaetan Bally / Keystone"
+       },
+       "teaserAuthor": "Gaetan Bally / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1849407",
+       "readingTime": 360,
+       "authorLine": "Simon Hehli",
+       "characterCount": 7459,
+       "product": "NZZ.ch",
+       "documentId": 1849407,
+       "layout": "regular",
+       "publicationDate": "2024-09-26T03:30:00.000Z",
+       "publicationLastUpdated": "2024-09-26T04:07:48.186Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-09-26T15:30:00.000Z",
+       "teaserCaption": "Pierre-Alain Schnegg is Bern's Director of Health and president of the organization that sets the medical fee schedules. The fact that the new flat-rate payments are being met with resistance from doctors annoys the SVP politician.",
+       "url": "/schweiz/unsere-aerzte-haben-einen-eid-geleistet-ich-gehe-nicht-davon-aus-dass-sie-alles-dem-profit-unterordnen-ld.1849407",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 1169,
+       "leadText": "Pierre-Alain Schnegg is Bern's Director of Health and president of the organization that sets the medical fee schedules. The fact that the new flat-rate payments are being met with resistance from doctors annoys the SVP politician."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ijdkj6lm0",
+      "content": {
+       "owner": "NZZ",
+       "title": "Should doctors be allowed to kill dementia patients if they no longer recognize their loved ones? How Switzerland could learn from the Netherlands",
+       "teaserImage": {
+        "originalUrl": "/2024/12/11/7036dfe8-ad5d-4cc0-9e9a-4278698888e3.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/7036dfe8-ad5d-4cc0-9e9a-4278698888e3.jpeg?width=1024&quality=75&auto=webp",
+        "width": 700,
+        "height": 466,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "700,394,x0,y45"
+         },
+         {
+          "name": "1:1",
+          "crop": "368,368,x0,y24"
+         },
+         {
+          "name": "4:3",
+          "crop": "621,466,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "350,466,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Switzerland's most prominent euthanasia activist demands that euthanasia be legalized. Only one piece of the puzzle is missing for true self-determination at the end of life.",
+        "teaserAuthor": "Ilvy Njiokiktjien / NYT / Redux / Laif"
+       },
+       "teaserAuthor": "Ilvy Njiokiktjien / NYT / Redux / Laif",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1861557",
+       "readingTime": 480,
+       "authorLine": "Simon Hehli, Antonio Fumagalli, Brussels",
+       "characterCount": 10525,
+       "product": "NZZ.ch",
+       "documentId": 1861557,
+       "layout": "longformstandard",
+       "publicationDate": "2024-12-12T04:30:00.000Z",
+       "publicationLastUpdated": "2024-12-12T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-12-12T16:30:00.000Z",
+       "teaserCaption": "Switzerland's most prominent euthanasia activist demands that euthanasia be legalized. Only one piece of the puzzle is missing for true self-determination at the end of life.",
+       "url": "/schweiz/sollen-aerzte-demenzkranke-umbringen-duerfen-wenn-diese-ihre-liebsten-nicht-mehr-erkennen-wie-die-schweiz-von-den-niederlanden-lernen-koennte-ld.1861557",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 1592,
+       "leadText": "Switzerland's most prominent euthanasia activist demands that euthanasia be legalized. Only one piece of the puzzle is missing for true self-determination at the end of life."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1ijdkj8dk0",
+      "content": {
+       "owner": "NZZ",
+       "title": "When the practice belongs to the patients: Will this model save the rural doctor?",
+       "teaserImage": {
+        "originalUrl": "/2022/06/16/a38d7d73-2d87-43c4-90c4-fccade10851c.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/16/a38d7d73-2d87-43c4-90c4-fccade10851c.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4992,
+        "height": 3328,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4992,2808,x0,y192"
+         },
+         {
+          "name": "1:1",
+          "crop": "1847,1847,x2301,y519"
+         },
+         {
+          "name": "4:3",
+          "crop": "4437,3328,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2496,3328,x1435,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In some remote regions of Switzerland, medical care is in a dire state. A cooperative in Toggenburg has found a creative solution.",
+        "teaserAuthor": "Gaëtan Bally / Keystone"
+       },
+       "teaserAuthor": "Gaëtan Bally / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1865658",
+       "readingTime": 360,
+       "authorLine": "Simon Hehli, Ebnat-Kappel",
+       "characterCount": 7920,
+       "product": "NZZ.ch",
+       "documentId": 1865658,
+       "layout": "regular",
+       "publicationDate": "2025-01-13T04:30:00.000Z",
+       "publicationLastUpdated": "2025-01-13T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-01-13T16:30:00.000Z",
+       "teaserCaption": "In some remote regions of Switzerland, medical care is in a dire state. A cooperative in Toggenburg has found a creative solution.",
+       "url": "/schweiz/wenn-die-praxis-den-patienten-gehoert-rettet-dieses-modell-den-landarzt-ld.1865658",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 1190,
+       "leadText": "In some remote regions of Switzerland, medical care is in a dire state. A cooperative in Toggenburg has found a creative solution."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "The Swiss healthcare system is ailing. How can it be restored to health?",
+  "teaserImage": {
+   "originalUrl": "/2025/02/06/d4dc1199-b114-4c0c-aca3-2c8e6772dffb.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2025/02/06/d4dc1199-b114-4c0c-aca3-2c8e6772dffb.png?width=1024&quality=75&auto=webp",
+   "width": 2467,
+   "height": 2467,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2467,1388,x0,y319"
+    },
+    {
+     "name": "1:1",
+     "crop": "2193,2193,x110,y213"
+    },
+    {
+     "name": "4:3",
+     "crop": "2467,1850,x0,y106"
+    },
+    {
+     "name": "3:4",
+     "crop": "1850,2467,x47,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas.",
+   "teaserAuthor": "USZ"
+  },
+  "teaserAuthor": "USZ",
+  "nzzasFootnote": false,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1865069",
+  "readingTime": 1320,
+  "authorLine": "Peter Ackermann (text), Olivia Meyer (illustrations)",
+  "characterCount": 31946,
+  "breadcrumbs": [
+   {
+    "name": "Society",
+    "path": "/gesellschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1865069,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2025-02-08T04:30:00.000Z",
+  "publicationDate": "2025-02-08T04:30:00.000Z",
+  "publicationLastUpdated": "2025-02-08T09:04:52.556Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2025-02-08T16:30:00.000Z",
+  "teaserCaption": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas.",
+  "url": "/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069",
+  "department": {
+   "name": "Society",
+   "path": "/gesellschaft"
+  },
+  "estimationWordCount": 4426,
+  "leadText": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas.",
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "«If health insurance premiums rise faster than wages, even high earners wonder how long they can keep up.»",
+  "nzzPrintSubtitle": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas in a conversation with Peter Ackermann.",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069",
+   "title": "Equitable medicine: How can the healthcare system remain accessible to everyone?",
+   "socialMediaTitle": "Rising health insurance premiums: How can the healthcare system remain accessible to everyone?",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2025/02/06/d4dc1199-b114-4c0c-aca3-2c8e6772dffb.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2467,1388,x0,y319&wmark=nzz"
+  },
+  "ldPublicationId": 1844843,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   },
+   {
+    "name": "Health insurance",
+    "slug": "/themen/krankenkasse"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "Costa Rica",
+    "slug": "/themen/costa-rica"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1774460",
+    "ld.1697602",
+    "ld.1867213",
+    "ld.1849407",
+    "ld.1861557",
+    "ld.1865658"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 2223912,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "deutschland",
+   "name": "Germany",
+   "tagName": "Germany",
+   "qId": "Q183",
+   "seoTitle": "Germany – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:02:18.055Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/deutschland",
+   "size": 9442,
+   "relatedTopics": [
+    {
+     "name": "Krankenkasse",
+     "slug": "/themen/krankenkasse"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "Costa Rica",
+     "slug": "/themen/costa-rica"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Moscow closes Goethe-Institutes, hardens tone toward Berlin",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Armin Arbeiter, Berlin",
+    "teaserImage": {
+     "originalUrl": "/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/03/1d0c88bc-0381-4837-b510-c87d61af4624.jpg?width=1024&quality=75&auto=webp",
+     "width": 2823,
+     "height": 1825,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2823,1588,x0,y59"
+      },
+      {
+       "name": "4:3",
+       "crop": "2433,1825,x390,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1508,1508,x940,y49"
+      },
+      {
+       "name": "3:4",
+       "crop": "1369,1825,x953,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2738,1825,x85,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+     "teaserAuthor": "Ramil Sitdikov / Reuters"
+    },
+    "teaserAuthor": "Ramil Sitdikov / Reuters",
+    "nzzId": "ld.10022202",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Moscow closing the Goethe Institutes in response to German measures?",
+    "paywallQuestionTwo": "According to Russia, what evidence is missing in the case of the drone attack in Leipzig?",
+    "paywallQuestionThree": "How does the closure of the Goethe-Institut affect pro-European Russians?",
+    "characterCount": 4616,
+    "product": "NZZ.ch",
+    "documentId": "10022202",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T08:56:31.247Z",
+    "publicationLastUpdated": "2026-09-03T09:34:43.715Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T20:56:31.247Z",
+    "teaserCaption": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "url": "https://www.nzz.ch/deutschland/politik/moskau-schliesst-die-goethe-institute-und-verschaerft-den-ton-gegenueber-berlin-ld.10022202",
+    "department": {
+     "name": "Politics (Germany)",
+     "path": "/deutschland/politik"
+    },
+    "estimationWordCount": 666,
+    "leadText": "Russia is reacting to the German measures taken after the drone attack in Leipzig. Wild speculation is rife on Russian social media.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Lonely Men of the East",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/2da09beb-dbb0-4939-92b8-bb21c3739c6b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5152,
+     "height": 3440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5152,2898,x0,y423"
+      },
+      {
+       "name": "4:3",
+       "crop": "4587,3440,x283,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3440,3440,x259,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2580,3440,x467,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5152,3435,x0,y3"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+     "teaserAuthor": "Fabrizio Bensch / Reuters"
+    },
+    "teaserAuthor": "Fabrizio Bensch / Reuters",
+    "tags": [
+     "Pro: Fokus"
+    ],
+    "showComments": true,
+    "nzzId": "ld.10021328",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why are so many young women leaving East Germany?",
+    "paywallQuestionTwo": "How does the shortage of women affect society in East Germany?",
+    "paywallQuestionThree": "What role does the AfD play in the political mood in the East?",
+    "characterCount": 9768,
+    "product": "NZZ.ch",
+    "documentId": "10021328",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "authorLine": "Leon Hedgehog",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/12/eb10e36e-8f54-4722-adf7-421086aa6dd9.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/pro/in-ostdeutschland-fehlen-frauen-die-afd-profitiert-von-strukturellen-problemen-ld.10021328",
+    "department": {
+     "name": "Pro",
+     "path": "/pro"
+    },
+    "estimationWordCount": 1479,
+    "premium": true,
+    "leadText": "Nowhere in Germany do so few young women live as in the eastern federal states. This has fatal consequences for the regions. The AfD profits from this.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Podcast «NZZ Machtspiel»",
+    "title": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0d740e74-9b6e-435b-9486-fcc663cc8218.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y66"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course."
+    },
+    "showHeader": true,
+    "editor": "1867936",
+    "paywallQuestionOne": "How could the CDU become strategically capable of action by using red lines instead of firewalls?",
+    "paywallQuestionTwo": "Why does Andreas Rödder consider flexible majorities a viable government option for the future?",
+    "paywallQuestionThree": "How does Rödder assess the double standards in the debate about banning the AfD?",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 120,
+    "nzzId": "ld.10021940",
+    "characterCount": 2253,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021940",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:00:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:00:00.000Z",
+    "teaserCaption": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "authorLine": "Utz Dräger",
+    "url": "https://www.nzz.ch/podcast/machtspiel/wie-kommt-die-cdu-aus-der-sackgasse-andreas-roedder-ld.10021940",
+    "department": {
+     "name": "Power play",
+     "path": "/podcast/machtspiel"
+    },
+    "estimationWordCount": 356,
+    "leadText": "He is the bourgeois-conservative leading thinker of the CDU: Andreas Rödder, historian and head of the think tank Republik21, criticizes the Union's entrenched coalition logics in «NZZ Machtspiel» and recommends a fundamental change of course.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "How the CDU can escape the impasse: Andreas Rödder",
+    "teaserPodcastAuthor": "Florian Eder, Andreas Rödder",
+    "teaserPodcastDate": "03.09.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2585342-m-bb3033a2954d218684744abd1d123552.mp3",
+    "teaserPodcastDuration": "39",
+    "commentsCount": 4,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Following Germany's accusations against Moscow: The EU is preparing new sanctions – Switzerland was also at the table for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/2f87c52a-e1e8-4f99-a7f6-3a8662b16ba7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5642,
+     "height": 3761,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5642,3174,x0,y16"
+      },
+      {
+       "name": "4:3",
+       "crop": "5015,3761,x381,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3761,3761,x941,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2821,3761,x1411,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5642,3761,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+     "teaserAuthor": "Thomas Imo via Imago"
+    },
+    "nzzId": "ld.10022079",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role did Switzerland play at the EU meeting in Ireland?",
+    "paywallQuestionTwo": "How is the EU reacting to the accusation against Russia?",
+    "paywallQuestionThree": "What support is Ukraine requesting from the EU?",
+    "characterCount": 3814,
+    "tags": [
+     "Europa",
+     "Ukraine-Krieg"
+    ],
+    "teaserAuthor": "Thomas Imo via Imago",
+    "product": "NZZ.ch",
+    "documentId": "10022079",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T14:59:06.671Z",
+    "publicationLastUpdated": "2026-09-02T16:17:27.748Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T02:59:06.671Z",
+    "teaserCaption": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "authorLine": "Antonio Fumagalli, Brussels",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/14/6124518e-3d18-4aa2-826c-c005a3361e94.jpeg?crop=3956,3956,x0,y321&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 565,
+    "leadText": "Germany blames Russia for the drone incident in Leipzig and receives considerable support from EU member states. Ukraine wants more than just words.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Germany protests, and the Russian Finance Minister parleys in the U.S.: This is not how sanctions work",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Opinion",
+    "showComments": true,
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/0f7820ef-f01e-49e7-9e43-eec6448cefbb.jpg?width=1024&quality=75&auto=webp",
+     "width": 6500,
+     "height": 4335,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6500,3656,x0,y555"
+      },
+      {
+       "name": "4:3",
+       "crop": "5780,4335,x398,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2961,2961,x392,y484"
+      },
+      {
+       "name": "3:4",
+       "crop": "3251,4335,x550,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6500,4333,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+     "teaserAuthor": "Sam Wolfe / Reuters"
+    },
+    "teaserAuthor": "Sam Wolfe / Reuters",
+    "editor": "1373452",
+    "paywallQuestionOne": "Who is the Russian Finance Minister Anton Siluanov, and why was he sanctioned?",
+    "paywallQuestionTwo": "What are sanctions intended to achieve and how do they work?",
+    "paywallQuestionThree": "How are the signals from the USA affecting us, and what would need to change?",
+    "nzzId": "ld.10022026",
+    "readingTime": 240,
+    "characterCount": 5319,
+    "product": "NZZ.ch",
+    "documentId": "10022026",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T11:58:27.752Z",
+    "publicationLastUpdated": "2026-09-02T17:58:55.039Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:58:27.752Z",
+    "teaserCaption": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "authorLine": "Peter A. Fischer",
+    "authorImage": {
+     "originalUrl": "/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/d59a0238-12f1-43d7-8905-6e94594be820.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/deutschland-protestiert-und-der-russische-finanzminister-parliert-in-den-usa-so-funktionieren-sanktionen-nicht-ld.10022026",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 781,
+    "premium": true,
+    "leadText": "Germany wants to hold Russia more accountable – and Donald Trump's administration is in the US talking with the Russian finance minister about cooperation in the international financial system. If sanctions are to be effective, they must be used more effectively and consistently.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "German-Russian relations at an all-time low: Putin speaks of a «grave mistake» after German sanctions",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/8a3854ef-1dfe-4b69-a0ed-adc25cd3c44d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5128,
+     "height": 3419,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5128,2884,x0,y130"
+      },
+      {
+       "name": "4:3",
+       "crop": "4559,3419,x324,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3419,3419,x937,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2564,3419,x1364,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5128,3419,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+     "teaserAuthor": "Kristina Solovyova / Imago"
+    },
+    "teaserAuthor": "Kristina Solovyova / Imago",
+    "nzzId": "ld.10022027",
+    "readingTime": 240,
+    "paywallQuestionOne": "How do the sanctions affect German-Russian relations?",
+    "paywallQuestionTwo": "What specific countermeasures is Russia planning?",
+    "paywallQuestionThree": "How is the Kremlin reacting to the allegations regarding the drone incident?",
+    "characterCount": 5880,
+    "product": "NZZ.ch",
+    "documentId": "10022027",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T11:29:35.291Z",
+    "publicationLastUpdated": "2026-09-02T13:56:01.973Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T23:29:35.291Z",
+    "teaserCaption": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "authorLine": "Volker Pabst",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/9567e6f0-1e03-4fc3-8baa-346362e7a28d.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/deutsch-russische-beziehungen-am-tiefpunkt-putin-spricht-nach-deutschen-sanktionen-von-einem-schweren-fehler-ld.10022027",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 834,
+    "leadText": "Kremlin denies responsibility for Leipzig drone incident; German accusations called desperate; Moscow's countermeasures",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1865069",
+    "name": "The Swiss healthcare system is ailing. How can it be restored to health?",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Gesellschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The Swiss healthcare system is ailing. How can it be restored to health?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2025-02-08T04:30:00.000Z",
+     "updateTimestamp": "2025-02-08T09:04:52.556Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1865069",
+   "pageType": "longformstandard",
+   "primaryCategory": "Gesellschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Equitable medicine: How can the healthcare system remain accessible to everyone?",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2025/02/06/d4dc1199-b114-4c0c-aca3-2c8e6772dffb.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2467,1388,x0,y319&wmark=nzz",
+   "type": "image/png",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Peter Ackermann (text), Olivia Meyer (illustrations)",
+  "description": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas.",
+  "news_keywords": "The Swiss healthcare system is ailing. How can it be restored? (Society, News, NZZ)",
+  "type": "article",
+  "last-modified": "2025-02-08T12:04:52+02:00",
+  "date": "2025-02-08T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The Swiss healthcare system is ailing. How can it be restored to health?",
+  "ogTitle": "Rising health insurance premiums: How can the healthcare system remain accessible to everyone?",
+  "ogUrl": "https://www.nzz.ch/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069",
+  "mrf:cms_id": "nzz:ld.1865069",
+  "mrf:sections": "Gesellschaft",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.1865069",
+  "nzzAuthors": [
+   {
+    "name": "Peter Ackermann (Text), Olivia Meyer (Illustrationen)"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:14 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/gesellschaft",
+      "name": "Society"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Equitable medicine: How can the healthcare system remain accessible to everyone?"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069"
+   },
+   "headline": "Equitable medicine: How can the healthcare system remain accessible to everyone?",
+   "datePublished": "2025-02-08T07:30:00+02:00",
+   "dateModified": "2025-02-08T12:04:52+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Healthcare costs are rising, making the question of resource allocation all the more urgent. But what does a fair healthcare system look like? Medical ethicist Tanja Krones outlines some ideas.",
+   "isAccessibleForFree": false,
+   "articleSection": "Gesellschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2025/02/06/d4dc1199-b114-4c0c-aca3-2c8e6772dffb.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2467,1388,x0,y319&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Peter Ackermann (text), Olivia Meyer (illustrations)"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 2223912,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/gesellschaft/diagnose-teuer-und-ungerecht-das-rezept-fuer-ein-guenstigeres-und-fairerers-gesundheitssystempatientdie-krankenkassenpraemien-belasten-den-mittelstand-so-kann-das-gesundheitssystem-geheilt-werdnedas-schweizer-gesundheitssystem-ist-teuer-und-ungerecht-wie-saehe-ethisch-betrachtet-ein-gesundes-aus-ld.1865069",
+    "classification=default",
+    "relevance=default",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1865069",
+    "channel=Gesellschaft"
+   ],
+   "ContentCreated": "2025-02-08T04:30:00.000Z",
+   "ContentAuthor": "Peter Ackermann (Text), Olivia Meyer (Illustrationen)",
+   "ContentSection": "Gesellschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "ldId": "ld.1865069",
+   "channel": "Gesellschaft",
+   "heading": "Das Schweizer Gesundheitswesen krankt. Wie wird es wieder gesund?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

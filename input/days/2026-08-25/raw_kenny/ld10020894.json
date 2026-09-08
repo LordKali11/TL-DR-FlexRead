@@ -1,0 +1,1385 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0rsvcc71",
+   "content": {
+    "title": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+    "lead": "First break-offs Monday afternoon; extensive cordoning of affected area",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0rsvcc73",
+   "content": {
+    "image": {
+     "author": "Laurent Gillieron / Keystone",
+     "caption": "A rockfall occurred in the Valais village of Randa thirty years ago. The house-sized boulders can still be seen today in the gigantic debris cone.",
+     "originalUrl": "/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?crop=4048,2699,x0,y0",
+     "width": 4048,
+     "height": 2699,
+     "altText": "Les blocs de roche de l'eboulement d'il ya 30 ans, gauche, sont photographie proche du village et son eglise ce mardi 30 mars 2021 proche du village valaisan de Randa. The triple eboulement de Randa a eu lieu en 1991. Les blocs de roche large comme des maisons se voient aujourd'hui encore dans le gigantesque cone de debris. Entre-temps, les melezes, les arbres pionniers des Alpes, ont repris possession du territoire. (KEYSTONE/Laurent Gillieron)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180211781"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4048,
+      "height": 2699,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4048,
+       "height": 2699,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "A rockfall occurred in the Valais village of Randa thirty years ago. The house-sized boulders can still be seen today in the gigantic debris cone.",
+    "author": "Laurent Gillieron / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rsvcc74",
+   "content": {
+    "text": "<em>cov</em>./<em>cog.</em> The Valais municipality of Randa increased monitoring of the Weisshorn East hanging glacier above the village. Authorities reported that on Monday, it was determined the ice masses were moving faster and a break-off could occur. At least three break-offs from the unstable area occurred Monday afternoon, authorities added on Tuesday."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-901a8554",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0siooke1",
+   "content": {
+    "text": "The largest break-off occurred between 5 and 6 p.m. The debris remained on the glacier plateau below. Authorities could not yet assess how much material broke off due to poor weather conditions. It also remained unclear whether the increased danger would continue or ease."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0s9s6h30",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "38eb3c6b76ee3897ce09f60436db0a33",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-locator_map-container\"        id=\"q_locator_map_38eb3c6b76ee3897ce09f60436db0a33_q36984921d15a487e913eb2fcb5832fd2_container\"        data-q-item-id=\"38eb3c6b76ee3897ce09f60436db0a33\"        data-q-request-id=\"481046c7fb4a05e6f3a8b50bd2ba298f75476eeb\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"38eb3c6b76ee3897ce09f60436db0a33\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"locator_map\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"38eb3c6b76ee3897ce09f60436db0a33\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"locator_map\"}},\"481046c7fb4a05e6f3a8b50bd2ba298f75476eeb\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_locator_map_38eb3c6b76ee3897ce09f60436db0a33_q36984921d15a487e913eb2fcb5832fd2_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"38eb3c6b76ee3897ce09f60436db0a33\",\"title\":\"Randa\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"eik.\",\"sources\":[],\"geojsonList\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[7.782411687076092,46.100279319132106]},\"id\":\"custom-layer-_5IiVnz-wn9aP_N-0qQEg\",\"properties\":{\"label\":\"Randa\",\"type\":\"point\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[7.749253883957863,46.02120766315873]},\"id\":\"custom-layer-GcMx6mkbe3r6naejFajv-\",\"properties\":{\"label\":\"Zermatt\",\"type\":\"city\",\"labelPosition\":\"bottom\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[7.35887948423624,46.23117506092757]},\"id\":\"custom-layer-phsiNOrRdt1nzx-KKnayO\",\"properties\":{\"label\":\"Sion\",\"type\":\"city\",\"labelPosition\":\"left\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[7.305281085079457,46.08633773690619]},\"id\":\"custom-layer-193vmqt5zg18CADMPIEYq\",\"properties\":{\"label\":\"Valais\",\"type\":\"label\",\"labelPosition\":\"top\",\"index\":0}}],\"options\":{\"baseLayer\":{\"layers\":{\"label\":false},\"style\":\"basic\"},\"dimension\":{\"bbox\":[7.000216114771291,45.76562941734886,8.129195846528773,46.547642295143106],\"useDefaultAspectRatio\":true},\"highlightRegion\":[{\"id\":\"Q834\",\"label\":\"Valais\"}],\"initialZoomLevel\":-1,\"labelsBelowMap\":false,\"labelsBelowMapOneRow\":false,\"minimap\":{\"showMinimap\":true,\"options\":{\"type\":\"region\",\"position\":\"top-left\",\"region\":{\"id\":\"Q39\"}}},\"scale\":{\"options\":{\"position\":\"bottom-left\"}},\"showLegend\":false},\"updatedDate\":\"2026-08-25T11:16:35.919Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_locator_map_38eb3c6b76ee3897ce09f60436db0a33_q36984921d15a487e913eb2fcb5832fd2\",\"fontBaseUrl\":\"https://qv1-server.nzz.ch/files/locator_map/fonts/\",\"toolBaseUrl\":\"https://q-server.nzz.ch/locator_map\",\"apiKey\":\"UUOJDlqQTsVSgwOM1KVX\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qLocatorMap) {              clearInterval(checkAndInitialize);              new window.qLocatorMap({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qLocatorMap after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0rtclt90",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "619087606ea5c12bade65f99ddbde210",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": true,
+        "hideSubtitle": true,
+        "hideFooter": true,
+        "hideAcronym": true
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-locator_map-container\"        id=\"q_locator_map_619087606ea5c12bade65f99ddbde210_qdcb6720290c24eea95744a7d40e3861f_container\"        data-q-item-id=\"619087606ea5c12bade65f99ddbde210\"        data-q-request-id=\"1db774a2d218c66698487661efc85fbbef672abc\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"619087606ea5c12bade65f99ddbde210\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"locator_map\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"619087606ea5c12bade65f99ddbde210\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"locator_map\"}},\"1db774a2d218c66698487661efc85fbbef672abc\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/locatorMap/q-locatorMap-1.1.12.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_locator_map_619087606ea5c12bade65f99ddbde210_qdcb6720290c24eea95744a7d40e3861f_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"619087606ea5c12bade65f99ddbde210\",\"title\":\"A glacier collapse is threatening the Valais municipality of Randa\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"cog.\",\"sources\":[],\"geojsonList\":[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"LineString\",\"coordinates\":[[7.7393023,46.011166],[7.7393823,46.0113605],[7.7394646,46.0117365],[7.7394975,46.0118184],[7.7395389,46.0119211],[7.7396497,46.0120395],[7.740574,46.0127111],[7.740691,46.0128485],[7.7407561,46.0129801],[7.7409988,46.0134736],[7.7411468,46.0139245],[7.7411945,46.0141562],[7.7412092,46.0142278],[7.7412955,46.0143748],[7.7415927,46.014884],[7.7421261,46.0154353],[7.7425662,46.0158642],[7.7427161,46.0159629],[7.7431848,46.0161898],[7.7435388,46.0163181],[7.74373,46.0164103],[7.7439304,46.016526],[7.7441516,46.0167216],[7.7446119,46.0170658],[7.7448503,46.0172],[7.7451705,46.0173483],[7.7456906,46.0175361],[7.7461518,46.017755],[7.7472549,46.0183714],[7.7478178,46.0187715],[7.7481481,46.019007],[7.7483424,46.0191854],[7.7485231,46.0193887],[7.7486976,46.0196545],[7.7487202,46.0196972],[7.749073,46.0203681],[7.7492994,46.0208221],[7.7494704,46.0211139],[7.7496219,46.0212442],[7.749677,46.0212826],[7.7497954,46.0213464],[7.7499417,46.0214185],[7.7501602,46.0214849],[7.7511146,46.0217161],[7.7513045,46.0217697],[7.7514169,46.0218211],[7.7514889,46.0218856],[7.7515327,46.02194],[7.7515792,46.0220406],[7.7515632,46.0223778],[7.7515249,46.0226805],[7.7514609,46.0230608],[7.7514721,46.0233057],[7.7515156,46.0234855],[7.7515755,46.0236172],[7.7516691,46.0237617],[7.7519256,46.024094],[7.7523938,46.0246878],[7.7529589,46.0253397],[7.7531162,46.025581],[7.7532457,46.0258086],[7.7532765,46.0259389],[7.7532859,46.0260283],[7.7532792,46.0261289],[7.7531652,46.0266038],[7.7530679,46.0270349],[7.7530512,46.0271857],[7.753078,46.0273077],[7.7531317,46.0274381],[7.7531977,46.0275466],[7.7533194,46.0276979],[7.7537249,46.0280681],[7.7539672,46.0283208],[7.7540329,46.0284307],[7.7540812,46.0285396],[7.7542528,46.0289847],[7.7543052,46.029076],[7.7544044,46.0292053],[7.7562013,46.0306196],[7.7562794,46.0309149],[7.7564499,46.0315592],[7.7566487,46.0317351],[7.7568719,46.0318772],[7.757218,46.0320422],[7.7575261,46.0323101],[7.7579123,46.0328323],[7.7581963,46.0330763],[7.7583447,46.0331426],[7.7586245,46.0332551],[7.7590417,46.0338531],[7.7590158,46.034531],[7.7590907,46.0347921],[7.7591016,46.0349519],[7.759112,46.0351053],[7.7591323,46.035274],[7.759439,46.0354369],[7.759793,46.0358443],[7.760678,46.0363526],[7.76158,46.0368136],[7.7620221,46.0371741],[7.7625554,46.0378427],[7.7625755,46.0381095],[7.7623013,46.0386817],[7.7622378,46.0389623],[7.762252,46.0390761],[7.7623089,46.0391767],[7.7623833,46.0392698],[7.7624693,46.0393388],[7.7626224,46.0393911],[7.7630268,46.0394847],[7.7632814,46.0395459],[7.7634556,46.039645],[7.7637145,46.0398556],[7.7640276,46.0401852],[7.7641686,46.0404734],[7.7643234,46.0411459],[7.764374,46.0412287],[7.7644683,46.0413211],[7.7645559,46.0413874],[7.7651694,46.0417153],[7.7652871,46.0417926],[7.7653985,46.0419165],[7.7654728,46.0420205],[7.7656527,46.042349],[7.765776,46.0425155],[7.7659,46.0426478],[7.7660223,46.0427428],[7.7670198,46.0434513],[7.7671613,46.0435714],[7.767468,46.0438883],[7.7675517,46.0440174],[7.7679164,46.0446022],[7.7681389,46.0449052],[7.768316,46.0453427],[7.7683989,46.0454422],[7.7685093,46.0455341],[7.7688481,46.0457235],[7.7692816,46.0461003],[7.7694381,46.0462932],[7.7696661,46.046743],[7.7696963,46.0468052],[7.7697004,46.0468495],[7.7696528,46.0469094],[7.7695959,46.0469499],[7.7695765,46.0469808],[7.7695832,46.0470439],[7.7697793,46.0473041],[7.7697992,46.0473831],[7.7697897,46.0474436],[7.7697998,46.0477033],[7.7697877,46.0477692],[7.7696786,46.0479356],[7.7696043,46.0479998],[7.7694278,46.048085],[7.7692154,46.0481842],[7.7691194,46.0482655],[7.7690722,46.0483505],[7.7690773,46.0484166],[7.7691746,46.0485398],[7.7692654,46.0486644],[7.7693922,46.0489707],[7.7694131,46.0490142],[7.769515,46.0492271],[7.7696635,46.0496887],[7.7697797,46.0498608],[7.7701302,46.0501876],[7.7704413,46.0509769],[7.7705111,46.0519523],[7.7708544,46.0526522],[7.77086,46.0531844],[7.7707762,46.0535612],[7.7707522,46.0543463],[7.7712127,46.0551274],[7.77197,46.0560751],[7.7738798,46.0573036],[7.773962,46.0574355],[7.7740622,46.0575962],[7.7740343,46.0580637],[7.7738691,46.0585962],[7.7735311,46.0596861],[7.7734138,46.0601202],[7.773386,46.0607656],[7.7734906,46.0614021],[7.7736218,46.0617867],[7.7752025,46.0641605],[7.7753321,46.0643883],[7.7754091,46.0645596],[7.7754486,46.0647773],[7.7754593,46.0649612],[7.7754429,46.0651457],[7.7754012,46.0653601],[7.7753258,46.065593],[7.7752412,46.0657467],[7.7750779,46.0659429],[7.774823,46.0662834],[7.7745892,46.0665741],[7.7744405,46.0667888],[7.774368,46.0669666],[7.7743165,46.0671521],[7.7742788,46.0673816],[7.774279,46.0676259],[7.7742934,46.0678362],[7.7743003,46.0682004],[7.7743017,46.0688565],[7.7742573,46.0691457],[7.774015,46.0703024],[7.7737286,46.0712805],[7.7738054,46.0719553],[7.7738859,46.0725768],[7.7740055,46.0734001],[7.7743473,46.0741012],[7.774801,46.0749833],[7.7769131,46.0790053],[7.77713,46.0794183],[7.7777712,46.0807141],[7.7781782,46.0815361],[7.7784089,46.0822208],[7.7784586,46.0824791],[7.7784708,46.0826197],[7.7784894,46.0831138],[7.7783514,46.0856653],[7.7782962,46.0865139],[7.7782272,46.0875759],[7.7783955,46.0885069],[7.7784525,46.0888223],[7.7784439,46.0890513],[7.7783968,46.0892662],[7.7783943,46.0893461],[7.7784138,46.0894097],[7.7784847,46.0894994],[7.7786754,46.0896865],[7.7786939,46.0897264],[7.7786957,46.089753],[7.7786983,46.0903501],[7.77877,46.09071],[7.7787718,46.0907828],[7.77875,46.0908764],[7.7787229,46.0909422],[7.7784434,46.0912363],[7.7783569,46.0915269],[7.7783522,46.0917386],[7.7784144,46.0921117],[7.7784314,46.0923353],[7.7784173,46.0924869],[7.7783822,46.0926147],[7.7783612,46.0927428],[7.7784092,46.0928897],[7.7784869,46.0929855],[7.7786354,46.0931281],[7.7786985,46.0932231],[7.7787255,46.0933977],[7.7787063,46.0936098],[7.7786436,46.0938316],[7.7786365,46.093926],[7.7786632,46.0940722],[7.778808,46.0948662],[7.7788719,46.0951557],[7.7789625,46.0954405],[7.7796903,46.097424],[7.7800193,46.0983522],[7.7803597,46.0992618],[7.7803931,46.0993897],[7.7804206,46.0995468],[7.7804273,46.0997228],[7.7804013,46.0999098],[7.7803317,46.1001129],[7.7802615,46.1002785],[7.7801783,46.1003972],[7.7797122,46.1010844],[7.7796365,46.1011839],[7.7795708,46.1013303],[7.7795477,46.1014736],[7.7795423,46.1016293],[7.7795576,46.1018955],[7.7795642,46.1021648],[7.7795659,46.1022346],[7.7795351,46.1029744],[7.7796325,46.104705],[7.7803101,46.105926],[7.7808499,46.1065976],[7.7821057,46.1077182],[7.782504,46.1080733],[7.7836354,46.1090636],[7.7849213,46.110197],[7.785468,46.1107114],[7.7856125,46.1111625],[7.7859701,46.1118938],[7.7860283,46.1119378],[7.7863495,46.1121804],[7.7870171,46.1125433],[7.7872939,46.1130196],[7.7873395,46.1130981],[7.7872788,46.1134479],[7.7871498,46.1137371],[7.7872295,46.1142867],[7.7871262,46.1150602],[7.7868607,46.1153638],[7.7867693,46.1154684],[7.7861359,46.1158444],[7.7857923,46.1162549],[7.7854855,46.116513],[7.7852482,46.1167332],[7.7849586,46.1170895],[7.7847765,46.1173135],[7.7847433,46.1173544],[7.7846789,46.1177337],[7.7847838,46.118038],[7.7848827,46.118325],[7.7849785,46.1184098],[7.7850879,46.1186036],[7.7857528,46.1188528],[7.7861766,46.119444],[7.7862511,46.1195136],[7.786579,46.1198196],[7.786883,46.1200395],[7.7870725,46.1201766],[7.7871182,46.1202772],[7.7875392,46.1212028],[7.7875429,46.121223],[7.7876036,46.121556],[7.7871476,46.122203],[7.78711,46.1226492],[7.7873622,46.1231251],[7.7874444,46.1232168],[7.7878099,46.1236247],[7.7879254,46.1237535],[7.7880059,46.1243818],[7.7887086,46.1250288],[7.7892343,46.1260103],[7.7894248,46.1263582],[7.7895104,46.1265146],[7.789672,46.1267682],[7.7903211,46.1275341],[7.7905689,46.1279025],[7.7906046,46.1279556],[7.7907624,46.128288],[7.790791,46.1284324],[7.7907663,46.1286755],[7.7905893,46.1292517],[7.7908951,46.1296867],[7.7909102,46.1297045],[7.7915206,46.130425],[7.7916998,46.1309641],[7.7917084,46.1309901],[7.7915772,46.1313216],[7.7915707,46.1313299],[7.7914266,46.1315114],[7.7913394,46.1316213],[7.7911799,46.1317792],[7.7910835,46.1319307],[7.7908394,46.1324362],[7.7907182,46.1325744],[7.7902786,46.1330756],[7.7900838,46.1333806],[7.7899469,46.1336648],[7.7898689,46.1338576],[7.7898463,46.1340967],[7.7898515,46.1343124],[7.7898761,46.1345791],[7.7898146,46.1362899],[7.7898419,46.1364934],[7.7899128,46.1366829],[7.790004,46.1368391],[7.7901407,46.1370847],[7.7913879,46.1382984],[7.7915114,46.1384746],[7.7915624,46.138627],[7.7915861,46.1387369],[7.7915543,46.1388891],[7.7914301,46.1390549],[7.7909793,46.1395536],[7.7907858,46.1398425],[7.790716,46.1399573],[7.7906746,46.1400781],[7.7906643,46.1403034],[7.7906959,46.1406162],[7.7906985,46.1406424],[7.7908464,46.1411497],[7.7908632,46.1411752],[7.7910419,46.1414475],[7.7911277,46.1417264],[7.7911419,46.1418448],[7.7912055,46.1429436],[7.7919827,46.1435939],[7.7923089,46.1440459],[7.7924037,46.1444848],[7.7923482,46.1450395],[7.792343,46.1450919],[7.7921766,46.1458042],[7.7919908,46.1465092],[7.7916716,46.1469738],[7.7912961,46.1474291],[7.7910227,46.1477908],[7.7906633,46.1484672],[7.7903307,46.149047],[7.7899391,46.1493406],[7.7892912,46.1497686],[7.7892471,46.1497977],[7.7891827,46.150043],[7.789526,46.1504072],[7.7897763,46.1514565],[7.7897044,46.1518548],[7.7896797,46.1519916],[7.7895878,46.1529424],[7.7898041,46.1532892],[7.7900923,46.1537517],[7.7899672,46.1543823],[7.7900142,46.1544168],[7.7902137,46.1545636],[7.7902654,46.1545719],[7.7909382,46.1546792],[7.791401,46.1550182],[7.7921546,46.1557042],[7.7925946,46.1559275],[7.7926036,46.1559449],[7.7928658,46.1564539],[7.793018,46.1569307],[7.7930683,46.1573812],[7.793156,46.1577066],[7.7933187,46.1581751],[7.7936561,46.1586471],[7.7937918,46.1589516],[7.793795,46.1589587],[7.7939008,46.159701],[7.7940493,46.1599128],[7.7944566,46.160323],[7.7945376,46.1605489],[7.7945425,46.1605624],[7.7945409,46.1613135],[7.7945409,46.1613364],[7.7948671,46.1619023],[7.79557,46.1624918],[7.7956039,46.1625202],[7.7957569,46.1628855],[7.7957783,46.1629367],[7.7959342,46.1637607],[7.796071,46.1640166],[7.7961976,46.1642535],[7.7965341,46.1647483],[7.7967458,46.1650679],[7.7969874,46.1652576],[7.797347,46.1654784],[7.797647,46.1655828],[7.7987238,46.1657674],[7.7990742,46.1659063],[7.7993334,46.1662499],[7.7996135,46.1669436],[7.8001031,46.1681559],[7.8002033,46.1685444],[7.8000588,46.169124],[7.7997581,46.1695193],[7.7997773,46.1698293],[7.7998063,46.170243],[7.7999263,46.1705005],[7.7996715,46.1708958],[7.7996052,46.1712276],[7.7998396,46.1715523],[7.8002381,46.1721925],[7.8003776,46.1724166],[7.8008033,46.172921],[7.8009671,46.1733456],[7.8011227,46.1736608],[7.8017591,46.1745038],[7.8018154,46.17454],[7.8021227,46.1747376],[7.8033993,46.1755656],[7.8043254,46.1762442],[7.804903,46.1766674],[7.805147,46.1769618],[7.8054451,46.1773216],[7.8057804,46.1778125],[7.8059303,46.1780899],[7.8061072,46.1785053],[7.8061572,46.1787031],[7.8062004,46.178874],[7.8062281,46.1794111],[7.8061459,46.1799698],[7.8060355,46.1807381],[7.8059411,46.1813948],[7.8059371,46.1814226],[7.8058127,46.1818896],[7.8057343,46.182184],[7.8056387,46.1825426],[7.8056906,46.1829574],[7.8058803,46.1832843],[7.8060159,46.1835178],[7.8066416,46.1839003],[7.8075504,46.1845083],[7.8079417,46.1847051],[7.8084417,46.1850044],[7.8089071,46.1852961],[7.8090137,46.1853676],[7.8091135,46.1854516],[7.8091577,46.1855172],[7.8092753,46.1856319],[7.8093754,46.1859197],[7.8097888,46.1863346],[7.8099571,46.186614],[7.8099827,46.1866565],[7.8100506,46.1867693],[7.8105415,46.1875284],[7.8105915,46.187657],[7.8110072,46.1887265],[7.8111396,46.1889022],[7.8113317,46.1891572],[7.8115419,46.1893618],[7.8118735,46.1896846],[7.8125466,46.1902404],[7.8125699,46.1902761],[7.8131004,46.1910886],[7.813219,46.1912195],[7.8135187,46.1915504],[7.8135404,46.1915744],[7.8138475,46.1920224],[7.8138672,46.1922572],[7.8139026,46.1925395],[7.8139061,46.1925668],[7.8141416,46.1930976],[7.8141573,46.1931164],[7.8146685,46.193727],[7.8147454,46.1938188],[7.8150404,46.1942333],[7.8150861,46.1945032],[7.8150881,46.1945152],[7.8150218,46.1949029],[7.8155198,46.1955121],[7.8155287,46.195523],[7.8155783,46.1957027],[7.8155853,46.1957279],[7.8158804,46.1958876],[7.8159695,46.1960448],[7.8160226,46.1962327],[7.8160696,46.1963171],[7.8161747,46.1963763],[7.8165076,46.1964098],[7.8166095,46.1964357],[7.8166849,46.1965009],[7.8167219,46.1966824],[7.8166609,46.1970795],[7.8166482,46.1972332],[7.816685,46.197449],[7.8169057,46.1977773],[7.8171276,46.1980208],[7.8176964,46.1984017],[7.8177184,46.1984165],[7.8178255,46.1985807],[7.8178276,46.1985846],[7.8179115,46.198738],[7.817933,46.199018],[7.8180269,46.1991952],[7.818118,46.1993671],[7.8187336,46.1999861],[7.8190313,46.2005653],[7.8191053,46.2006035],[7.8211484,46.2015951],[7.8213797,46.2016979],[7.8214509,46.2017295],[7.8217374,46.2022541],[7.822236,46.2026782],[7.8225447,46.2028945],[7.8235106,46.2031806],[7.824087,46.2035981],[7.824889,46.2042905],[7.8250445,46.2047824],[7.8254335,46.2052725],[7.8254603,46.2053023],[7.8258863,46.2057742],[7.8259587,46.2058545],[7.8264565,46.2060963],[7.826568,46.2061505],[7.8266001,46.206175],[7.8270517,46.2065191],[7.8273076,46.2070717],[7.8275603,46.2072821],[7.8277806,46.2074655],[7.8278714,46.2074917],[7.827928,46.2075081],[7.8283427,46.2076279],[7.8286442,46.2078104],[7.8288577,46.2079397],[7.8293753,46.2083147],[7.829543,46.2084391],[7.8296731,46.2085356],[7.8299159,46.2087166],[7.8300344,46.2087586],[7.8303785,46.2090479],[7.8304515,46.209089],[7.8307969,46.2092836],[7.8315748,46.2100873],[7.831902,46.2102377],[7.8321171,46.2102793],[7.8322185,46.2102989],[7.8325913,46.2103472],[7.8327336,46.2104192],[7.8328227,46.2104644],[7.8330489,46.210572],[7.8334715,46.2107731],[7.8335805,46.2107878],[7.8343711,46.2108942],[7.8347163,46.2111934],[7.8347255,46.2112014],[7.835094,46.2113757],[7.835409,46.211635],[7.8355792,46.211775],[7.8357331,46.2119017],[7.8357737,46.2119351],[7.8361151,46.2122161],[7.8362374,46.2123168],[7.8365555,46.2125052],[7.8366669,46.2125712],[7.8368691,46.2129883],[7.8373564,46.2131811],[7.8380902,46.2132778],[7.8381171,46.2132813],[7.8388291,46.2135486],[7.8389167,46.2135815],[7.8389367,46.2136025],[7.8396606,46.2142974],[7.8400602,46.2146809],[7.8406285,46.2151187],[7.8408545,46.2155288],[7.8411824,46.2161238],[7.8417558,46.2164387],[7.8421198,46.2167773],[7.8429126,46.217515],[7.8442189,46.2180431],[7.8444022,46.2182341],[7.8444613,46.2182957],[7.8446073,46.2184798],[7.8448582,46.2187964],[7.845202,46.2190703],[7.8454747,46.2191592],[7.8454906,46.2191644],[7.8457604,46.2194566],[7.8463039,46.2197406],[7.8469436,46.2198762],[7.8472961,46.2200119],[7.8475244,46.2201547],[7.8475668,46.2201812],[7.8478644,46.2204339],[7.8480793,46.2205358],[7.8485226,46.2206228],[7.8491932,46.2210278],[7.8496847,46.2214113],[7.8503776,46.2217135],[7.8510626,46.2219649],[7.851664,46.2220861],[7.8526563,46.2222872],[7.8529299,46.2224074],[7.8533477,46.2228116],[7.8539948,46.2231442],[7.8542574,46.2234205],[7.8548379,46.2237863],[7.8555146,46.2240677],[7.8556958,46.2242084],[7.8558881,46.2245333],[7.8562246,46.2246919],[7.8565906,46.2248761],[7.856868,46.2250935],[7.8572118,46.2252956],[7.8573967,46.2255028],[7.8576186,46.225618],[7.8578848,46.2256845],[7.8581622,46.2258328],[7.8584949,46.2258891],[7.8591087,46.2257975],[7.8602455,46.2258636],[7.8605755,46.225966],[7.8607158,46.2261967],[7.8609459,46.226327],[7.8612314,46.2264029],[7.8629782,46.2264851],[7.863288,46.2265458],[7.863506,46.2267057],[7.8638203,46.2269443],[7.8640046,46.2272315],[7.8641696,46.2275466],[7.8641139,46.2278372],[7.8641813,46.2280421],[7.8645754,46.2287341],[7.8646356,46.2290099],[7.8648142,46.2291286],[7.8649263,46.2291741],[7.8650657,46.2291959],[7.8653598,46.2292052],[7.8658955,46.2291975],[7.8662607,46.2291683],[7.8673084,46.2289773],[7.8675427,46.2289741],[7.8677742,46.2289511],[7.8680641,46.228941],[7.8682433,46.22895],[7.8688703,46.2291221],[7.8691349,46.2291948],[7.8693492,46.229209],[7.8698161,46.2291831],[7.8704039,46.2291776],[7.8705465,46.2291958],[7.8706733,46.2292342],[7.8708521,46.2293021],[7.8709654,46.2293478],[7.8710724,46.2293967],[7.8711521,46.2294857],[7.8712739,46.229622],[7.8713224,46.2296889],[7.871845,46.2301878],[7.8719195,46.2303323],[7.872096,46.2306347],[7.8722452,46.2308626]]},\"properties\":{\"@id\":\"relation/2201746\",\"destination\":\"Vispa\",\"name\":\"Matter Vispa\",\"type\":\"waterway\",\"waterway\":\"river\",\"wikidata\":\"Q683651\",\"wikipedia\":\"de:Matter Vispa\",\"stroke\":\"#1b87aa\",\"stroke-width\":2,\"stroke-opacity\":0.7},\"id\":\"custom-layer-2OokEFrkH9Rg9Jchbswzr\"}]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[7.780646194025517,46.10191700159043],[7.78082714845328,46.102661806461825],[7.781851273512538,46.104311553467554],[7.782451888208942,46.104893491279796],[7.7826289925425,46.10506700365878],[7.782983201209611,46.10612141329547],[7.783491413645032,46.10710239655568],[7.782598191788837,46.107486777072744],[7.782336385382712,46.107913863392554],[7.781912875019862,46.10806334282271],[7.778932902103078,46.10683546406409],[7.775313813547815,46.10697426912103],[7.77408178340134,46.10621617570548],[7.773496569081766,46.10209986680081],[7.775105908460598,46.10195704511902],[7.776545843694287,46.10108141999185],[7.77716955895594,46.101252274767205],[7.77793187760907,46.101503216758594],[7.77891750172625,46.10175415760784],[7.780646194025517,46.10191700159043]]]},\"properties\":{\"label\":\"Current danger zone\",\"fill-opacity\":0.3},\"id\":\"custom-layer-qsjmE1-3iIEVvfB_oOiul\"}]},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[7.78400769466022,46.101003837522526]},\"id\":\"custom-layer-a8ZcUQaNLyxPTDlFX8j1p\",\"properties\":{\"label\":\"Randa\",\"type\":\"capital\",\"labelPosition\":\"top\",\"index\":0}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"Point\",\"coordinates\":[7.781080464371627,46.098737223933]},\"id\":\"custom-layer-2XVi_DU9ekJ6tm3d9yvHC\",\"properties\":{\"label\":\"Mattervispa\",\"type\":\"water\",\"labelPosition\":\"top\",\"index\":0}}],\"options\":{\"baseLayer\":{\"layers\":{\"label\":false},\"style\":\"basic\"},\"dimension\":{\"bbox\":[7.76881517785975,46.09664917335786,7.7877456311466915,46.109774819488024],\"useDefaultAspectRatio\":true},\"highlightRegion\":[],\"initialZoomLevel\":-1,\"labelsBelowMap\":false,\"labelsBelowMapOneRow\":false,\"minimap\":{\"showMinimap\":false,\"options\":{\"type\":\"region\",\"position\":\"bottom-left\",\"region\":{\"id\":\"Q39\"}}},\"scale\":{\"options\":{\"position\":\"bottom-left\"}},\"showLegend\":true},\"updatedDate\":\"2026-08-25T11:17:25.383Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":true,\"hideSubtitle\":true,\"hideFooter\":true,\"hideAcronym\":true},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_locator_map_619087606ea5c12bade65f99ddbde210_qdcb6720290c24eea95744a7d40e3861f\",\"fontBaseUrl\":\"https://qv1-server.nzz.ch/files/locator_map/fonts/\",\"toolBaseUrl\":\"https://q-server.nzz.ch/locator_map\",\"apiKey\":\"UUOJDlqQTsVSgwOM1KVX\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qLocatorMap) {              clearInterval(checkAndInitialize);              new window.qLocatorMap({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qLocatorMap after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rtpj020",
+   "content": {
+    "text": "The defined danger zone still must not be entered. Break-offs with a range extending into the marked danger zone are possible. According to the map, only individual buildings are located within it. The majority of the village is outside, but very close to the endangered area. The applicable cordons and instructions had to be strictly observed, authorities stated."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sijjuh0",
+   "content": {
+    "text": "The municipality wrote in a statement that movements on the Weisshorn East hanging glacier had been more closely monitored since the end of June. At that time, the hazard perimeter had also been defined. However, movements had significantly increased on Monday, and the situation was then being checked several times a day, it added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0ruqioc0",
+   "content": {
+    "title": "The 1991 rockfall",
+    "id": "subtitle-der-bergsturz-von-1991"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0runb0f0",
+   "content": {
+    "text": "More than thirty years ago, one of the largest rockfalls in Europe in the 20th century occurred near Randa in the Mattertal. According to the Research Center for Alpine Environments (Crealp), 30 million cubic meters of rock fell toward the valley in three phases in spring 1991. The village of Randa is located in the Mattertal, which connects Visp with Zermatt. The landslides dammed the Mattervispa River. Parts of Randa village were submerged, roads and railways were damaged, and a several-centimeter-thick layer of dust covered the valley."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rvu9jg1",
+   "content": {
+    "text": "The event led to the development of new technologies and measures for the early detection of rockfalls in Switzerland."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0s0ej7r1",
+   "content": {
+    "image": {
+     "author": "STR / Keystone",
+     "caption": "Excavators and trucks clear away rock in the landslide area near Randa in the Mattertal valley, photographed in August 1991.",
+     "originalUrl": "/2026/08/25/5625855c-a882-4a4f-81a9-15d8a6bf1839.jpg?crop=1300,867,x0,y0",
+     "width": 1300,
+     "height": 867,
+     "altText": "Excavators and trucks during clearing operations in the landslide area near Randa in the Mattertal valley, canton of Valais, where large quantities of rock broke loose in April and May, photographed in August 1991. (KEYSTONE/Str)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2143799762"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 1300,
+      "height": 867,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 1300,
+       "height": 867,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Excavators and trucks clear away rock in the landslide area near Randa in the Mattertal valley, photographed in August 1991.",
+    "author": "STR / Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0rsvcc75",
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0rsvcc76",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rsvcc77",
+      "content": {
+       "owner": "NZZ",
+       "flag": "interview",
+       "title": "A glaciologist after the Blatten landslide: «What would the Swiss mountains be if they were nothing but brown rubble landscapes?»",
+       "teaserImage": {
+        "originalUrl": "/2025/05/30/1d6117d3-5075-4520-bf08-db07b5a0dd40.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/30/1d6117d3-5075-4520-bf08-db07b5a0dd40.jpeg?width=1024&quality=75&auto=webp",
+        "width": 8256,
+        "height": 5504,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8256,4644,x0,y349"
+         },
+         {
+          "name": "1:1",
+          "crop": "5504,5504,x2752,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "7339,5503,x917,y1"
+         },
+         {
+          "name": "3:4",
+          "crop": "4128,5504,x3372,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Mylène Jacquemart researches glaciers and grew up in the Swiss mountains. She says it's still unclear what role climate change has played in Blatten. But with rising temperatures, the Alpine landscape will change dramatically in some areas.",
+        "teaserAuthor": "Jean-Christophe Bott / Keystone"
+       },
+       "teaserAuthor": "Jean-Christophe Bott / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1886888",
+       "readingTime": 480,
+       "authorLine": "Kalina Oroschakoff, Christian Speicher",
+       "characterCount": 10079,
+       "product": "NZZ.ch",
+       "documentId": 1886888,
+       "layout": "regular",
+       "publicationDate": "2025-05-31T03:30:00.000Z",
+       "publicationLastUpdated": "2025-05-31T13:34:02.302Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-05-31T15:30:00.000Z",
+       "teaserCaption": "Mylène Jacquemart researches glaciers and grew up in the Swiss mountains. She says it's still unclear what role climate change has played in Blatten. But with rising temperatures, the Alpine landscape will change dramatically in some areas.",
+       "url": "/wissenschaft/eine-glaziologin-sagt-nach-dem-bergsturz-von-blatten-was-waeren-die-schweizer-berge-wenn-sie-nur-noch-braune-schuttlandschaften-sind-ld.1886888",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 1612,
+       "leadText": "Mylène Jacquemart researches glaciers and grew up in the Swiss mountains. She says it's still unclear what role climate change has played in Blatten. But with rising temperatures, the Alpine landscape will change dramatically in some areas.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rsvcc78",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Video",
+       "title": "Reconstruction of the Blatten landslide: how an entire village was buried",
+       "teaserImage": {
+        "originalUrl": "/2025/06/07/e2a12391-04d6-42a5-972b-abf0c28ad699.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/06/07/e2a12391-04d6-42a5-972b-abf0c28ad699.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1920,
+        "height": 1080,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1920,1080,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1080,1080,x453,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "1440,1080,x328,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "810,1080,x165,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1620,1080,x300,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "An avalanche of ice and debris buried the village of Blatten in the Lötschental valley. We have analyzed data, images, and models, allowing us to reconstruct this devastating natural event."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1888086",
+       "embeds": {
+        "videos": [
+         {
+          "id": "4TKWtLrt",
+          "provider": "jw",
+          "teaser": true
+         }
+        ]
+       },
+       "readingTime": 180,
+       "freeToRead": true,
+       "authorLine": "Simon Knolmayer, Jonas Oesch, Sven Titz",
+       "characterCount": 3487,
+       "product": "NZZ.ch",
+       "documentId": 1888086,
+       "layout": "video",
+       "publicationDate": "2025-06-10T10:10:05.795Z",
+       "publicationLastUpdated": "2025-06-25T13:03:06.490Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-06-10T22:10:05.795Z",
+       "teaserCaption": "An avalanche of ice and debris buried the village of Blatten in the Lötschental valley. We have analyzed data, images, and models, allowing us to reconstruct this devastating natural event.",
+       "authorImage": {
+        "originalUrl": "/2025/07/22/97e56d3c-7e7b-44b8-adc9-ed44e2e51ee2.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/22/97e56d3c-7e7b-44b8-adc9-ed44e2e51ee2.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "3160,3160,x1308,y271"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/07/22/97e56d3c-7e7b-44b8-adc9-ed44e2e51ee2.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/video/rekonstruktion-des-bergsturzes-von-blatten-wie-ein-ganzes-dorf-begraben-wurde-ld.1888086",
+       "department": {
+        "name": "Video",
+        "path": "/video"
+       },
+       "estimationWordCount": 562,
+       "leadText": "An avalanche of ice and debris buried the village of Blatten in the Lötschental valley. We have analyzed data, images, and models, allowing us to reconstruct this devastating natural event.",
+       "nzzSummaryIsAuto": false
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0rsvcc79",
+      "content": {
+       "owner": "NZZ",
+       "title": "The problem is not nature. The problem is the presence of humans",
+       "teaserImage": {
+        "originalUrl": "/2025/05/31/56869e54-fad5-4e94-93a4-1afad4c47db6.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/05/31/56869e54-fad5-4e94-93a4-1afad4c47db6.jpeg?width=1024&quality=75&auto=webp",
+        "width": 8192,
+        "height": 5464,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8192,4608,x0,y652"
+         },
+         {
+          "name": "1:1",
+          "crop": "3032,3032,x2323,y1272"
+         },
+         {
+          "name": "4:3",
+          "crop": "7285,5464,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3643,4857,x2239,y607"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Author Werner Bellwald lost everything in the rockfall in the Lötschental valley. He writes about his 96-year-old mother, who now lives in a shared apartment. And about politicians who need the care team more than the locals.",
+        "teaserAuthor": "Dominic Steinmann for NZZ"
+       },
+       "teaserAuthor": "Dominic Steinmann for NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1886924",
+       "readingTime": 480,
+       "authorLine": "Werner Bellwald",
+       "characterCount": 9484,
+       "product": "NZZ.ch",
+       "documentId": 1886924,
+       "layout": "longformstandard",
+       "publicationDate": "2025-06-01T03:30:00.000Z",
+       "publicationLastUpdated": "2025-06-01T11:35:55.176Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-06-01T15:30:00.000Z",
+       "teaserCaption": "Author Werner Bellwald lost everything in the rockfall in the Lötschental valley. He writes about his 96-year-old mother, who now lives in a shared apartment. And about politicians who need the care team more than the locals.",
+       "url": "/feuilleton/28-mai-2025-nachmittags-1524-und-50-sekunden-ld.1886924",
+       "department": {
+        "name": "Arts & Culture",
+        "path": "/feuilleton"
+       },
+       "estimationWordCount": 1500,
+       "leadText": "Author Werner Bellwald lost everything in the rockfall in the Lötschental valley. He writes about his 96-year-old mother, who now lives in a shared apartment. And about politicians who need the care team more than the locals.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1024&quality=75&auto=webp",
+   "width": 4048,
+   "height": 2699,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4048,2277,x0,y422"
+    },
+    {
+     "name": "4:3",
+     "crop": "2974,2231,x978,y468"
+    },
+    {
+     "name": "1:1",
+     "crop": "1259,1259,x2311,y1290"
+    },
+    {
+     "name": "3:4",
+     "crop": "1521,2028,x2027,y671"
+    },
+    {
+     "name": "3:2",
+     "crop": "4048,2699,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "First break-offs Monday afternoon; extensive cordoning of affected area",
+   "teaserAuthor": "Laurent Gillieron / Keystone"
+  },
+  "teaserAuthor": "Laurent Gillieron / Keystone",
+  "nzzId": "ld.10020894",
+  "readingTime": 120,
+  "characterCount": 2126,
+  "editor": "1398648",
+  "breadcrumbs": [
+   {
+    "name": "Panorama",
+    "path": "/panorama"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020894,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T08:25:22.598Z",
+  "publicationDate": "2026-08-25T13:09:03.063Z",
+  "publicationLastUpdated": "2026-08-25T13:49:28.806Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-08-26T01:09:03.063Z",
+  "teaserCaption": "First break-offs Monday afternoon; extensive cordoning of affected area",
+  "url": "/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+  "department": {
+   "name": "Panorama",
+   "path": "/panorama"
+  },
+  "estimationWordCount": 366,
+  "leadText": "First break-offs Monday afternoon; extensive cordoning of affected area",
+  "nzzSummaryEN": "- In the Swiss municipality of Randa, a glacier collapse on Weisshorn-East threatens; the affected area has been closed off.\n- The glacier is now under closer monitoring as the ice masses are moving faster, potentially leading to a collapse.\n- Some buildings are within the danger zone, while most of the village is just outside; barriers and instructions must be followed.",
+  "nzzSummaryDE": "- In the Valais municipality of Randa, a glacier collapse is imminent on the Weisshorn East; the affected area has been closed off. - The glacier is now being monitored more closely, as the ice masses are moving faster and a collapse could be imminent. - Some buildings are located within the danger zone, while most of the village lies just outside; barriers and instructions must be observed.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Danger at Weisshorn: Impending glacier collapse near Randa",
+  "nzzPrintSubtitle": "According to the municipality, demolition could take place in the coming days. The affected area has been cordoned off",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+   "title": "Valais: Impending glacier collapse at Weisshorn near Randa",
+   "socialMediaTitle": "Valais: Municipality warns of imminent glacier collapse at the Weisshorn",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4048,2277,x0,y422&wmark=nzz"
+  },
+  "ldPublicationId": 2483474,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "glacier",
+    "slug": "/themen/gletscher"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1886888",
+    "ld.1888086",
+    "ld.1886924"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 143112,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "gletscher",
+   "name": "glacier",
+   "tagName": "glacier",
+   "qId": "Q35666",
+   "seoTitle": "Glaciers – All NZZ articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 19:28:31.596Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/gletscher",
+   "size": 319,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "This summer's heat shows: As glaciers disappear, more dams needed",
+    "flag": "Opinion",
+    "teaserImage": {
+     "originalUrl": "/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/01/109fccea-d0ba-49b4-bf85-828b5dd88545.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+     "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+    "nzzId": "ld.10020910",
+    "readingTime": 360,
+    "paywallQuestionOne": "How can dams replace the shrinking glaciers?",
+    "paywallQuestionTwo": "What role does water management play for mountain regions?",
+    "paywallQuestionThree": "How will climate change affect the Alps in the long term?",
+    "characterCount": 8329,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10020910",
+    "layout": "opinion",
+    "publicationDate": "2026-09-02T03:35:00.000Z",
+    "publicationLastUpdated": "2026-09-02T09:49:17.448Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T15:35:00.000Z",
+    "teaserCaption": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+    "authorLine": "Matthias Venetz, Bern",
+    "authorImage": {
+     "originalUrl": "/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0",
+     "width": 800,
+     "height": 800,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 800,
+      "name": "1:1"
+     },
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/dieser-hitzesommer-zeigt-weil-die-gletscher-verschwinden-muessen-wir-mehr-staudaemme-bauen-ld.10020910",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1209,
+    "leadText": "The Alps are considered a refuge for day-trippers and tourists. However, due to glacial melt and water shortages during heatwaves, they could gain far greater importance – provided their inhabitants take action.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 23,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Deadly flood in Nepal: How the mudslide raced through the valley",
+    "showHeader": false,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/061e08bc-9d3e-417a-bba2-2581419c6238.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/061e08bc-9d3e-417a-bba2-2581419c6238.png?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1080,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1745,982,x86,y98"
+      },
+      {
+       "name": "4:3",
+       "crop": "1309,982,x339,y98"
+      },
+      {
+       "name": "1:1",
+       "crop": "982,982,x531,y98"
+      },
+      {
+       "name": "3:4",
+       "crop": "810,1080,x583,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1473,982,x254,y98"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Nepal flood disaster: Emerging causes of glacier ice and debris plunge into valley, burying hundreds"
+    },
+    "tags": [
+     "Visuals"
+    ],
+    "nzzId": "ld.10021510",
+    "readingTime": 60,
+    "colorSchema": "color-schema--default",
+    "paywallQuestionOne": "What caused the glacier to collapse and the deadly mudslide?",
+    "paywallQuestionTwo": "What dangers are posed by the accumulated water masses in the mountains?",
+    "paywallQuestionThree": "How are the tsunami waves affecting rescue efforts in Nepal?",
+    "characterCount": 1410,
+    "product": "NZZ.ch",
+    "documentId": "10021510",
+    "layout": "headlesslongformvisual",
+    "publicationDate": "2026-08-28T17:01:01.358Z",
+    "publicationLastUpdated": "2026-08-28T17:14:09.281Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-29T05:01:01.358Z",
+    "teaserCaption": "Nepal flood disaster: Emerging causes of glacier ice and debris plunge into valley, burying hundreds",
+    "authorLine": "Jan Ludwig, Jasmine Jacot-Descombes, Jessica Eberhart, Cian Jochem",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/02/05/3b6e13f1-482a-4a6c-b4af-e5db7bba6699.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/visuals/toedliche-flut-in-nepal-so-raste-die-schlammlawine-durchs-tal-ld.10021510",
+    "department": {
+     "name": "Visual Stories",
+     "path": "/visuals"
+    },
+    "estimationWordCount": 224,
+    "leadText": "Nepal flood disaster: Emerging causes of glacier ice and debris plunge into valley, burying hundreds",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Switzerland: Laurent Favre joins SRG Board of Directors",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/e89501eb-56ea-4ac2-bb1d-bf1c2f7916e9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e89501eb-56ea-4ac2-bb1d-bf1c2f7916e9.jpg?width=1024&quality=75&auto=webp",
+     "width": 5265,
+     "height": 3510,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5265,2962,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4680,3510,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3510,3510,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2633,3510,x367,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5265,3510,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1683,
+      "y": 702
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Laurent Gillieron / KEYSTONE"
+    },
+    "teaserAuthor": "Laurent Gillieron / KEYSTONE",
+    "flag": "Short news items",
+    "nzzId": "ld.10020886",
+    "readingTime": 300,
+    "paywallQuestionOne": "What measures is Randa taking to combat the impending glacier collapse?",
+    "paywallQuestionTwo": "How endangered is the village of Randa by the Weisshorn East Glacier?",
+    "paywallQuestionThree": "Which areas in Randa are currently closed to the public?",
+    "characterCount": 6562,
+    "product": "NZZ.ch",
+    "documentId": "10020886",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T12:54:11.658Z",
+    "publicationLastUpdated": "2026-09-02T12:54:11.658Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-03T00:54:11.658Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/schweiz/schweiz-die-neusten-meldungen-ld.10020886",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 941,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Heat in Europe: Climate researcher warns of more extreme weather; hundreds flee wildfires in Spain",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Live ticker",
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/d2612d92-7a98-4fc1-a944-56823092d486.jpg?width=1024&quality=75&auto=webp",
+     "width": 5315,
+     "height": 3543,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "5315,3543,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5315,3543,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+     "teaserAuthor": "Federico Gambarini / Keystone"
+    },
+    "teaserAuthor": "Federico Gambarini / Keystone",
+    "authorLine": "NZZ Newsroom",
+    "nzzId": "ld.10008673",
+    "readingTime": 60,
+    "liveCenterId": "86247",
+    "embeds": {
+     "videos": [
+      {
+       "id": "TZNqnPW9",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 9,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/TZNqnPW9-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How do heat waves affect people, animals and the environment in Switzerland?",
+    "paywallQuestionTwo": "Which regions of Europe are affected by record temperatures?",
+    "paywallQuestionThree": "What measures does the federal government recommend to combat the heat?",
+    "characterCount": 19,
+    "videoTeaser": "TZNqnPW9",
+    "product": "NZZ.ch",
+    "documentId": "10008673",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T06:52:11.732Z",
+    "publicationLastUpdated": "2026-08-27T06:52:11.732Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-27T18:52:11.732Z",
+    "teaserCaption": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "url": "https://www.nzz.ch/panorama/hitze-in-europa-klimaforscher-warnt-vor-mehr-extremwetter-hunderte-menschen-in-spanien-wegen-waldbrand-evakuiert-ld.10008673",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 45,
+    "leadText": "Where is it particularly hot right now? And what are the effects on people and the environment? The latest news on the heatwave in Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Missing for 34 years: Summer heat releases bodies of two hikers on Trift Glacier",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/fb4c8eb3-deb8-4a66-b66c-1f738ccc7916.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/fb4c8eb3-deb8-4a66-b66c-1f738ccc7916.jpg?width=1024&quality=75&auto=webp",
+     "width": 4368,
+     "height": 2912,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4368,2457,x0,y455"
+      },
+      {
+       "name": "4:3",
+       "crop": "3883,2912,x243,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2912,2912,x728,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2184,2912,x1092,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4368,2912,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Once again, glacial melt has exposed human remains in Valais. According to authorities, these were two Belgians who had been missing since 1992.",
+     "teaserAuthor": "imago"
+    },
+    "teaserAuthor": "imago",
+    "nzzId": "ld.10020153",
+    "readingTime": 180,
+    "paywallQuestionOne": "What role does glacial melt play in uncovering missing persons?",
+    "paywallQuestionTwo": "Why are the Valais Alps particularly dangerous for mountaineers?",
+    "paywallQuestionThree": "How frequently are human remains found in Swiss glaciers?",
+    "characterCount": 3785,
+    "product": "NZZ.ch",
+    "documentId": "10020153",
+    "layout": "regular",
+    "publicationDate": "2026-08-19T14:35:06.041Z",
+    "publicationLastUpdated": "2026-08-20T06:25:33.962Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-20T02:35:06.041Z",
+    "teaserCaption": "Once again, glacial melt has exposed human remains in Valais. According to authorities, these were two Belgians who had been missing since 1992.",
+    "authorLine": "Leonie C. Wagner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/01/20/0be0ea33-c4db-46ef-81de-70d372135e9b.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/panorama/34-jahre-vermisst-die-sommerhitze-gibt-die-leichen-zweier-wanderer-auf-dem-triftgletscher-frei-ld.10020153",
+    "department": {
+     "name": "Panorama",
+     "path": "/panorama"
+    },
+    "estimationWordCount": 623,
+    "leadText": "Once again, glacial melt has exposed human remains in Valais. According to authorities, these were two Belgians who had been missing since 1992.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«The peak has been reached»: Switzerland is drying out – and now the glacial meltwater is also receding",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3988,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y307"
+      },
+      {
+       "name": "4:3",
+       "crop": "5317,3988,x341,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3988,3988,x1006,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2991,3988,x1505,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5982,3988,x9,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "So far this summer, the waterways have benefited from the increased runoff from the glaciers. But this source will soon dry up too. Experts are calling for Switzerland to build more reservoirs and dams, including new storage lakes.",
+     "teaserAuthor": "Michelangelo Oprandi / Imago"
+    },
+    "teaserAuthor": "Michelangelo Oprandi / Imago",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/35e8a61f-63e0-490e-a9e5-c6f6ee4cb234.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3988,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y207"
+      },
+      {
+       "name": "1:1",
+       "crop": "3988,3988,x1006,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "5317,3988,x683,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2991,3988,x1505,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5982,3988,x18,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/13/5f6f90ff-2bc0-442d-858e-9ba49ae4d159.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/13/5f6f90ff-2bc0-442d-858e-9ba49ae4d159.jpg?width=1024&quality=75&auto=webp",
+     "width": 7785,
+     "height": 5839,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7785,4379,x0,y621"
+      },
+      {
+       "name": "1:1",
+       "crop": "5839,5839,x973,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7785,5839,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4379,5839,x1703,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7785,5190,x0,y123"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzasFootnote": true,
+    "editor": "1373500",
+    "nzzId": "ld.10019358",
+    "readingTime": 660,
+    "paywallQuestionOne": "How can Switzerland compensate for the decline in glacial meltwater?",
+    "paywallQuestionTwo": "What role do reservoirs play in the future water strategy?",
+    "paywallQuestionThree": "What conflicts arise from multifunctional water use?",
+    "characterCount": 14153,
+    "product": "NZZ.ch",
+    "documentId": "10019358",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-15T19:46:46.841Z",
+    "publicationLastUpdated": "2026-08-17T07:22:08.140Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-16T07:46:46.841Z",
+    "teaserCaption": "So far this summer, the waterways have benefited from the increased runoff from the glaciers. But this source will soon dry up too. Experts are calling for Switzerland to build more reservoirs and dams, including new storage lakes.",
+    "authorLine": "René Donzé, Daniel Friedli",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/06/01/6c663d20-ff0c-4c7b-b1e4-38c868796d13.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/der-peak-ist-erreicht-die-schweiz-ist-am-austrocknen-und-nun-geht-auch-noch-das-gletscherwasser-zurueck-ld.10019358",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 2162,
+    "leadText": "So far this summer, the waterways have benefited from the increased runoff from the glaciers. But this source will soon dry up too. Experts are calling for Switzerland to build more reservoirs and dams, including new storage lakes.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020894",
+    "name": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Panorama",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T13:09:03.063Z",
+     "updateTimestamp": "2026-08-25T13:49:28.806Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020894",
+   "pageType": "regular",
+   "primaryCategory": "Panorama",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Valais: Impending glacier collapse at Weisshorn near Randa",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4048,2277,x0,y422&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "First break-offs Monday afternoon; extensive cordoning of affected area",
+  "news_keywords": "A glacier collapse is threatening the Weisshorn in the Valais municipality of Randa (Panorama, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T17:49:28+02:00",
+  "date": "2026-08-25T12:25:22+02:00",
+  "canonical": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Glacier break-off threatens Weisshorn in Valais municipality of Randa",
+  "ogTitle": "Valais: Municipality warns of imminent glacier collapse at the Weisshorn",
+  "ogUrl": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+  "mrf:cms_id": "nzz:ld.10020894",
+  "mrf:sections": "Panorama",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020894",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:41 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/panorama",
+      "name": "Panorama"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Valais: Impending glacier collapse at Weisshorn near Randa"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894"
+   },
+   "headline": "Valais: Impending glacier collapse at Weisshorn near Randa",
+   "datePublished": "2026-08-25T12:25:22+02:00",
+   "dateModified": "2026-08-25T17:49:28+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "First break-offs Monday afternoon; extensive cordoning of affected area",
+   "isAccessibleForFree": false,
+   "articleSection": "Panorama",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/25/2601bd19-4b17-4e67-be62-131ce0a11f1a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4048,2277,x0,y422&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 143112,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/panorama/in-der-walliser-gemeinde-randa-droht-ein-gletscherabbruch-am-weisshorn-ld.10020894",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020894",
+    "channel=Panorama"
+   ],
+   "ContentCreated": "2026-08-25T08:25:22.598Z",
+   "ContentSection": "Panorama",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Welche Massnahmen wurden in Randa wegen des drohenden Gletscherabbruchs ergriffen?\nWie gross ist die Gefahr für das Dorf Randa durch den Weisshorn-Gletscher?\nWelche Bereiche wurden in der Gemeinde als Gefahrenzonen definiert?",
+   "ldId": "ld.10020894",
+   "channel": "Panorama",
+   "heading": "In der Walliser Gemeinde Randa droht ein Gletscherabbruch am Weisshorn",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

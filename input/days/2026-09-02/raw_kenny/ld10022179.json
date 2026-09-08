@@ -1,0 +1,573 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1hidbsp1",
+   "content": {
+    "title": "Zurich news: City Council to introduce sunflower symbol for people with invisible disabilities",
+    "lead": "Latest news from the canton",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jtiprf1u0",
+   "content": {
+    "image": {
+     "author": "Illustration by Simon Tanner / NZZ",
+     "caption": "",
+     "originalUrl": "/2026/06/29/63db639c-97e3-4141-98e9-efb6516ec5df.jpg?crop=4500,3000,x0,y0",
+     "width": 4500,
+     "height": 3000,
+     "altText": "Zurich news brief",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179364140"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4500,
+      "height": 3000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4500,
+       "height": 3000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Illustration by Simon Tanner / NZZ",
+    "caption": ""
+   },
+   "prevElement": "header",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1imp2sh0",
+   "content": {
+    "title": "City of Zurich to introduce sunflower lanyard system for people with invisible disabilities",
+    "id": "subtitle-stadt-z-rich-soll-sunflower-lanyard-system-f-r-menschen-mit-unsichtbaren-beeintr-chtigungen-einf-hren"
+   },
+   "contentTable": false,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1imp0r10",
+   "content": {
+    "text": "<em>glu.</em> In the Zurich City Council on Wednesday (9/2), a postulate by Jehuda Spielman (FDP) and David Garcia Nuñez (AL) received a majority of 100 to 15 votes and was referred to the City Council, the Swiss news agency Keystone-SDA reported."
+   },
+   "data": {},
+   "prevElement": "subtitle",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-0373ee74",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1iuf12t0",
+   "content": {
+    "text": "The Sunflower Lanyard System aims to make invisible disabilities such as ADHD, autism, dementia, or epilepsy recognizable. The sunflower symbol can be worn around the neck on a lanyard. The company's website states this is intended to signal that the person might need additional support, time, or understanding."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1ivooqh0",
+   "content": {
+    "text": "The postulate from June 2025 states that the sunflower is an internationally established symbol. Companies such as SBB and Swiss International Air Lines already use the Sunflower Lanyard System. The postulate calls for an introduction to be examined in municipal operations such as administration, schools, and playgrounds. Furthermore, it should be determined how the public can be informed about this symbol and how city employees can be trained, the postulate added."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "divider"
+  },
+  {
+   "identifier": "divider",
+   "id": "doc-1k1imoot80",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1hifikq0",
+   "content": {
+    "title": "After headscarf ban in schools: Youth party mobilizes against two Green cantonal parliament members",
+    "id": "subtitle-nach-kopftuchverbot-an-schulen-jungpartei-macht-gegen-zwei-gr-ne-kantonsr-te-mobil"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "divider",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hifk680",
+   "content": {
+    "text": "<em>lip.</em> The headscarf ban in Zurich schools, <a href=\"https://www.nzz.ch/zuerich/kopftuchverbot-in-zuercher-schulen-entscheidung-des-kantonsrats-ld.10021563\">which the cantonal parliament adopted on Monday</a>, is causing political waves. On Wednesday (9/2), the Young Greens launched a petition to urge Gabi Petri and Daniel Heierli, two long-standing members of the Green parliamentary group, to resign."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hive0f0",
+   "content": {
+    "text": "Petri and Heierli were among the 87 council members who approved the SVP motion two days ago. The decision passed narrowly with 82 opposing votes and 6 abstentions. The motion aims to «fundamentally prohibit the wearing of clothing that covers the heads of women and girls for religious or ideological reasons in all public schools and kindergartens.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hjbt6j0",
+   "content": {
+    "text": "The Young Greens describe the motion as «clearly Islamophobic,» as they write on their website. They said it was particularly disappointing that Green cantonal parliament members Gabi Petri and Daniel Heierli also approved it and thus helped it pass. The Young Greens stated that one expects Green politicians to stand behind the principles of religious freedom, anti-racism, and self-determination. Since this was not guaranteed, the youth party is calling for Petri and Heierli to resign."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1hji8v60",
+   "content": {
+    "text": "While the Young Greens apparently tolerate no dissenting opinions on the headscarf issue, the cantonal government <a href=\"https://www.nzz.ch/zuerich/zuercher-regierungsrat-ist-fuer-kopftuchverbot-fuer-schuelerinnen-ld.1929452\">already expressed a positive view on the matter prior to the debate</a>. Education Director Silvia Steiner (Centre) said earlier this week that the cantonal government would now work out a proposal for the implementation of the matter within two years."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1hidbsq1",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1hidbsq2",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1hidbsq3",
+      "content": {
+       "title": "News from Zurich: The new sports center in Witikon also costs over 100 million Swiss francs",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "NZZ Editorial Team Zurich",
+       "flag": "Short news items",
+       "teaserImage": {
+        "originalUrl": "/2026/08/26/a8e34387-ede8-4617-8db9-25418fc29146.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/26/a8e34387-ede8-4617-8db9-25418fc29146.jpg?width=1024&quality=75&auto=webp",
+        "width": 1787,
+        "height": 1191,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1787,1005,x0,y186"
+         },
+         {
+          "name": "4:3",
+          "crop": "1588,1191,x101,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "1191,1191,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "893,1191,x0,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "1787,1191,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Latest news from the canton",
+        "teaserAuthor": "Visualization by Filippo Bolognese Images"
+       },
+       "teaserAuthor": "Visualization by Filippo Bolognese Images",
+       "nzzId": "ld.10012099",
+       "readingTime": 4080,
+       "paywallQuestionOne": "Why was the Töss relay race in Winterthur cancelled?",
+       "paywallQuestionTwo": "What role did the BAG's heat warning play in the cancellation?",
+       "paywallQuestionThree": "What measures is the organizing committee planning for future events?",
+       "characterCount": 94378,
+       "product": "NZZ.ch",
+       "documentId": 10012099,
+       "layout": "regular",
+       "publicationDate": "2026-08-24T14:59:12.846Z",
+       "publicationLastUpdated": "2026-09-03T08:21:56.463Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-08-25T02:59:12.846Z",
+       "teaserCaption": "Latest news from the canton",
+       "url": "/zuerich/news-aus-zuerich-hardturm-war-wohl-einst-teil-einer-burg-ld.10012099",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 13524,
+       "leadText": "Latest news from the canton",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Zurich news: City Council to introduce sunflower symbol for people with invisible disabilities",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "flag": "Short news items",
+  "teaserImage": {
+   "originalUrl": "/2026/06/29/63db639c-97e3-4141-98e9-efb6516ec5df.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/06/29/63db639c-97e3-4141-98e9-efb6516ec5df.jpg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4500,2531,x0,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "4000,3000,x129,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x629,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x1004,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4500,3000,x0,y0"
+    }
+   ],
+   "focalPoint": {
+    "x": 2129,
+    "y": 1134
+   },
+   "imageService": "fastly",
+   "teaserCaption": "Latest news from the canton",
+   "teaserAuthor": "Illustration by Simon Tanner / NZZ"
+  },
+  "teaserAuthor": "Illustration by Simon Tanner / NZZ",
+  "nzzId": "ld.10022179",
+  "readingTime": 120,
+  "characterCount": 2844,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022179,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T18:05:10.769Z",
+  "publicationDate": "2026-09-03T07:10:17.582Z",
+  "publicationLastUpdated": "2026-09-03T08:37:53.696Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-09-03T19:10:17.582Z",
+  "teaserCaption": "Latest news from the canton",
+  "url": "/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 406,
+  "leadText": "Latest news from the canton",
+  "nzzSummaryEN": "- The Young Greens demand the resignation of Gabi Petri and Daniel Heierli for voting in favor of a headscarf ban in Zurich schools.\n- The youth party labels the decision as Islamophobic, contradicting principles of religious freedom and anti-racism.\n- The government council supports the initiative and plans to develop the implementation of the ban within two years.",
+  "nzzSummaryDE": "- The Young Greens are demanding the resignation of Gabi Petri and Daniel Heierli because they voted for a headscarf ban in Zurich schools.\n - The youth party describes the decision as Islamophobic and sees it as contradicting the values ​​of religious freedom and anti-racism.\n - The government council supports the request and plans to work out the implementation of the headscarf ban within two years.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "News from Zurich",
+  "nzzPrintSubtitle": "News from Zurich",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179",
+   "title": "News from Zurich: City council wants to introduce sunflower symbol",
+   "socialMediaTitle": "News from Zurich: Young Greens demand resignation of Green cantonal councilors after headscarf debate",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/06/29/63db639c-97e3-4141-98e9-efb6516ec5df.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y0&wmark=nzz"
+  },
+  "ldPublicationId": 2488097,
+  "isHighlightedHeader": false,
+  "barrierIndex": 4,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10012099"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 184344,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022179",
+    "name": "Zurich news: City Council to introduce sunflower symbol for people with invisible disabilities",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Zurich news: City Council to introduce sunflower symbol for people with invisible disabilities",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-03T07:10:17.582Z",
+     "updateTimestamp": "2026-09-03T08:37:53.696Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Short news items",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022179",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "News from Zurich: City council wants to introduce sunflower symbol",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/06/29/63db639c-97e3-4141-98e9-efb6516ec5df.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y0&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "description": "Latest news from the canton",
+  "news_keywords": "News from Zurich: City council wants to introduce sunflower symbol for people with invisible disabilities, Short news, Zurich, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-03T12:37:53+02:00",
+  "date": "2026-09-02T22:05:10+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "BRIEF NEWS - News from Zurich: City council wants to introduce sunflower symbol for people with invisible disabilities",
+  "ogTitle": "News from Zurich: Young Greens demand resignation of Green cantonal councilors after headscarf debate",
+  "ogUrl": "https://www.nzz.ch/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179",
+  "mrf:cms_id": "nzz:ld.10022179",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022179",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:20 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "News from Zurich: City council wants to introduce sunflower symbol"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179"
+   },
+   "headline": "News from Zurich: City council wants to introduce sunflower symbol",
+   "datePublished": "2026-09-02T22:05:10+02:00",
+   "dateModified": "2026-09-03T12:37:53+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Latest news from the canton",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/06/29/63db639c-97e3-4141-98e9-efb6516ec5df.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y0&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 184344,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/news-aus-zuerich-gemeinderat-will-sonnenblumen-symbol-einfuehren-ld.10022179",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "kurzmeldungen",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022179",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-09-02T18:05:10.769Z",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum fordern die Jungen Grünen den Rücktritt von Petri und Heierli?\nWie begründen die Jungen Grünen ihre Kritik am Kopftuchverbot?\nWelche Rolle spielt der Regierungsrat bei der Umsetzung des Kopftuchverbots?",
+   "ldId": "ld.10022179",
+   "channel": "Zürich",
+   "heading": "News aus Zürich: Gemeinderat will Sonnenblumensymbol für Menschen mit unsichtbaren Beeinträchtigungen einführen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

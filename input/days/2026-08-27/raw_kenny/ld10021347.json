@@ -1,0 +1,444 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k11o7q001",
+   "content": {
+    "title": "Two dead after act of violence at Brandenburg school – suspect arrested",
+    "lead": "Suspect arrested after two deaths at Brandenburg school; victims reportedly ex-girlfriend and kindergarten teacher",
+    "author": ""
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11o7q003",
+   "content": {
+    "image": {
+     "author": "Volodymyr Sindieiev / Imago",
+     "caption": "Police and rescue services are currently deployed at a school in Brandenburg. (Symbolic image)",
+     "originalUrl": "/2026/08/27/2a4036dd-f451-463d-b07e-21cc7f65853a.jpg?crop=2539,1707,x2419,y711",
+     "width": 5988,
+     "height": 4024,
+     "altText": "WWII bomb discovered in Berlin BERLIN, GERMANY - AUGUST 26: Police officers are seen near the Neukoelln Ship Canal, where an unexploded World War II bomb was discovered during construction work in Berlin, Germany, on August 26, 2026. The bomb is due to be defused later in the day, and the exclusion zone may be extended, potentially affecting buildings residential, schools, daycare centers and a nursing home. Volodymyr Sindieiev / Anadolu Berlin Germany. Editorial use only. Please get in touch for any other usage. PUBLICATIONxNOTxINxTURxUSAxCANxUKxJPNxITAxFRAxAUSxESPxBELxKORxRSAxHKGxNZL Copyright: x2026xAnadoluxVolodymyrxSindiievx",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180230303"
+      }
+     ],
+     "crop": {
+      "x": 2419,
+      "y": 711,
+      "width": 2539,
+      "height": 1707,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 2419,
+       "y": 711,
+       "width": 2539,
+       "height": 1707,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Police and rescue services are currently deployed at a school in Brandenburg. (Symbolic image)",
+    "author": "Volodymyr Sindieiev / Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11p76pr0",
+   "content": {
+    "text": "<em>(dpa) </em>In an act of violence at a school near Berlin on Thursday <br>(Aug. 28), a woman and a man were killed, according to information from the German Press Agency. A suspect, a 19-year-old German man, was provisionally arrested. The victims died at a school in Gosen-Neu Zittau in eastern Brandenburg."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-902ed8f3",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k144lq0f0",
+   "content": {
+    "text": "Police have since provided further details about the two deceased, as German media reported. One of the victims was reportedly a 30-year-old kindergarten teacher. The kindergarten is located on the same premises as the primary and secondary school. Previously, it had been assumed that the deceased 30-year-old was the caretaker, which police did not confirm."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k144s5uk0",
+   "content": {
+    "text": "The second victim is a young woman. She is said to be the suspect's ex-girlfriend. Police confirmed the connection. It was initially unclear whether the 18-year-old was a student."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11polcf0",
+   "content": {
+    "text": "Investigators did not assume there was still a danger at the school, according to the information. On Platform X, the Brandenburg police had previously written about an operation together with rescue services. A male person had been provisionally arrested who, according to current findings, was connected to the crime, police said. «We are currently securing the crime scene,» police said."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11polcm0",
+   "content": {
+    "text": "The crime occurred on a school campus run by a private operator, surrounded by forests and lakes on the outskirts of Gosen-Neu Zittau, a town with around 3,500 inhabitants. A Gymnasium, secondary school, and technical secondary school are located there. This model is intended to promote commonalities, and permeability between the individual school types is emphasized."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k11o7q005",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Two dead after act of violence at Brandenburg school – suspect arrested",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/2a4036dd-f451-463d-b07e-21cc7f65853a.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/2a4036dd-f451-463d-b07e-21cc7f65853a.jpg?width=1024&quality=75&auto=webp",
+   "width": 5988,
+   "height": 4024,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2309,1299,x2505,y1559"
+    },
+    {
+     "name": "4:3",
+     "crop": "5365,4024,x311,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "4024,4024,x982,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3018,4024,x1485,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5988,3992,x0,y16"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Suspect arrested after two deaths at Brandenburg school; victims reportedly ex-girlfriend and kindergarten teacher",
+   "teaserAuthor": "Volodymyr Sindieiev / Imago"
+  },
+  "teaserAuthor": "Volodymyr Sindieiev / Imago",
+  "nzzId": "ld.10021347",
+  "readingTime": 60,
+  "characterCount": 1685,
+  "breadcrumbs": [
+   {
+    "name": "Homepage (Germany)",
+    "path": "/deutschland"
+   },
+   {
+    "name": "Panorama (Germany)",
+    "path": "/deutschland/panorama"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021347,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T14:09:19.483Z",
+  "publicationDate": "2026-08-28T12:33:29.296Z",
+  "publicationLastUpdated": "2026-08-28T12:33:29.296Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-08-29T00:33:29.296Z",
+  "teaserCaption": "Suspect arrested after two deaths at Brandenburg school; victims reportedly ex-girlfriend and kindergarten teacher",
+  "url": "/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347",
+  "department": {
+   "name": "Panorama (Germany)",
+   "path": "/deutschland/panorama"
+  },
+  "estimationWordCount": 297,
+  "leadText": "Suspect arrested after two deaths at Brandenburg school; victims reportedly ex-girlfriend and kindergarten teacher",
+  "nzzSummaryEN": "- At least two people were killed in a violent incident at a school in Gosen-Neu Zittau.\n- A woman and a man are the victims, and a suspect has been temporarily detained.\n- Police and rescue services are still on the scene.",
+  "nzzSummaryDE": "- At least two people were killed in an act of violence at a school in Gosen-Neu Zittau.\n - A woman and a man are the victims, and a suspect has been temporarily arrested.\n Police and rescue services are still on duty.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "-",
+  "nzzPrintSubtitle": "-",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347",
+   "title": "Two dead in violent attack at Brandenburg school: Suspect arrested",
+   "socialMediaTitle": "Violent attack at school near Berlin: At least two dead, suspect arrested",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/2a4036dd-f451-463d-b07e-21cc7f65853a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2309,1299,x2505,y1559&wmark=nzz"
+  },
+  "ldPublicationId": 2485275,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 122472,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021347",
+    "name": "Two dead after act of violence at Brandenburg school – suspect arrested",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Startseite (Deutschland)",
+    "subCategory1": "Panorama (Deutschland)",
+    "attributes": {
+     "headline": "Two dead after act of violence at Brandenburg school – suspect arrested",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-28T12:33:29.296Z",
+     "updateTimestamp": "2026-08-28T12:33:29.296Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021347",
+   "pageType": "regular",
+   "primaryCategory": "Startseite (Deutschland)",
+   "subCategory1": "Panorama (Deutschland)",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Two dead in violent attack at Brandenburg school: Suspect arrested",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/2a4036dd-f451-463d-b07e-21cc7f65853a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2309,1299,x2505,y1559&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "Suspect arrested after two deaths at Brandenburg school; victims reportedly ex-girlfriend and kindergarten teacher",
+  "news_keywords": "Two dead after violent attack at Brandenburg school – suspect arrested, Panorama (Germany), News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-28T16:33:29+02:00",
+  "date": "2026-08-27T18:09:19+02:00",
+  "canonical": "https://www.nzz.ch/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Two dead after act of violence at Brandenburg school – suspect arrested",
+  "ogTitle": "Violent attack at school near Berlin: At least two dead, suspect arrested",
+  "ogUrl": "https://www.nzz.ch/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347",
+  "mrf:cms_id": "nzz:ld.10021347",
+  "mrf:sections": "Startseite (Deutschland);Panorama (Deutschland)",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021347",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:59 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/deutschland",
+      "name": "Homepage (Germany)"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/deutschland/panorama",
+      "name": "Panorama (Germany)"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Two dead in violent attack at Brandenburg school: Suspect arrested"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347"
+   },
+   "headline": "Two dead in violent attack at Brandenburg school: Suspect arrested",
+   "datePublished": "2026-08-27T18:09:19+02:00",
+   "dateModified": "2026-08-28T16:33:29+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Suspect arrested after two deaths at Brandenburg school; victims reportedly ex-girlfriend and kindergarten teacher",
+   "isAccessibleForFree": false,
+   "articleSection": "Panorama (Deutschland)",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/2a4036dd-f451-463d-b07e-21cc7f65853a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2309,1299,x2505,y1559&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 122472,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/deutschland/panorama/mindestens-zwei-tote-nach-gewalttat-in-brandenburger-schule-grosser-polizeieinsatz-ld.10021347",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021347",
+    "channel=Startseite (Deutschland)"
+   ],
+   "ContentCreated": "2026-08-27T14:09:19.483Z",
+   "ContentSection": "Startseite (Deutschland)",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Was sind die Hintergründe der Gewalttat in Gosen-Neu Zittau?\nWelche Rolle spielt der festgenommene Verdächtige?\nWie reagiert die Polizei auf die Ereignisse?",
+   "ldId": "ld.10021347",
+   "channel": "Startseite (Deutschland)",
+   "subChannel": "Panorama (Deutschland)",
+   "heading": "Zwei Tote nach Gewalttat in Brandenburger Schule – Verdächtiger festgenommen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

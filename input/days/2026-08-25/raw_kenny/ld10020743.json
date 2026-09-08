@@ -1,0 +1,844 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0pbj8031",
+   "content": {
+    "title": "Hotly desired spaghetti or eagerly-awaited spaghetti: Thirty years ago, the great spelling reform was decided. Now it is being rolled back",
+    "lead": "The latest rules for German spelling show: Reformers and spelling councils are in disarray and retreating. They present a step backward as progress and do not apply their own rules correctly.",
+    "authorline": "Stefan Stirnemann",
+    "author": "Stefan Stirnemann"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pbj8033",
+   "content": {
+    "image": {
+     "author": "Goran Basic / NZZ",
+     "caption": "",
+     "originalUrl": "/2021/12/22/4e7b743d-15ef-4ece-8b20-c843d9a1b424.jpeg?crop=2423,1612,x0,y0",
+     "width": 2423,
+     "height": 1612,
+     "altText": "Letters, reading, I, will, future of reading, for feature articles. Macro, Macro. Liquid crystal display, LCD, computer screen, subpixel, RGB display, red, green, blue, colors, digital. (Image: Goran Basic / NZZ)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "1970853640"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2423,
+      "height": 1612,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2423,
+       "height": 1612,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "Goran Basic / NZZ",
+    "caption": ""
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbon0",
+   "content": {
+    "text": "Our alphabet is of manageable size, even considering that each letter exists twice, in uppercase and lowercase. Spelling becomes difficult when the inner eye suddenly flickers and the fingers no longer know which letters to combine to form words. Are there rules to remedy this uncertainty?"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-1396a22e",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pd0c4m1",
+   "content": {
+    "text": "The aphorist Lichtenberg wrote around 1780: «One should write Katarr if it is merely in the throat, and Katarrh if it is in the chest.» Frau Rat Goethe, the poet’s mother and a gifted letter writer, found the simple solution «Catar.» However, she had doubts about the word «hypochondrisch»: «The devil take that cursed word, I cannot even write it»; she had written «hypokontrisch.»"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjboo1",
+   "content": {
+    "text": "Thirty years ago, all such problematic words were to be defused. In a press communiqué titled «German Spelling Becomes Simpler,» the Federal Chancellery wrote: «Switzerland will also participate in the spelling reform that the German-speaking countries intend to introduce in 1998. The Federal Council therefore decided to sign a corresponding declaration of intent in Vienna on July 1, 1996.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbop1",
+   "content": {
+    "text": "The reform was intended to make spelling easier to teach and learn, particularly for schools. But instead of offering practical rules, the reformers banned everyday words like «jedesmal» (every time), «greulich» (horrible), «fleischfressend» (carnivorous), «achtgeben» (pay attention), «wohlbekannt» (well-known) and introduced novel spellings: «heute Früh» (this morning), «ich bin dir Spinnefeind» (I am your sworn enemy), «das tut mir Leid» (I am sorry), «ich laufe Eis» (I run on ice), «Fleisch fressend» (meat-eating)."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0pd0hhj0",
+   "content": {
+    "title": "Deep in the mire",
+    "id": "subtitle-tief-im-sumpf"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pcdjt71",
+   "content": {
+    "text": "Years of disputes and back-and-forth followed. Different dictionaries appeared and disappeared more frequently than British prime ministers. Finally, a Spelling Council was to restore «spelling peace»; twenty years ago, it published its first set of rules. The council struck down many errors but left more untouched, out of consideration for politics and dictionary publishers, often by placing the traditional spelling as an alternative alongside the reformed one. What is officially valid today is contained in the fourth set of rules, published two years ago."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjboq0",
+   "content": {
+    "text": "In 2024, the council withdrew further spellings from the reform, for example, «Spagetti.» Corruptions of non-German words have a long history; eighty years ago, the «Fussballträner» (football coach) was to be introduced. The spelling would have been appropriate if the team had lost. It was right to remove «Spagetti,» but why did the council wait so long?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbor0",
+   "content": {
+    "text": "The council is deeply mired in a core area of the reform. For phrases like «Alma mater,» the simple rule of thumb before the reform was to capitalize the first word and write the others in lowercase. The reformers considered it easier to determine the parts of speech of the foreign language and wrote «Alma Mater,» since the Latin «mater» is a noun: the university is the nurturing mother."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pcgn1u1",
+   "content": {
+    "text": "Now the council has «clarified» this rule with several applications. One concerns the Memento mori, the reminder that man is mortal. The second word is a Latin infinitive; the Spelling Council mistakenly considers it a noun and writes «Memento Mori.» The error stems from the fact that the Duden freely renders the phrase as «Gedenke des Todes!» (Remember death!). Thirty years ago, critics pointed out that their new rule required too much linguistic knowledge. Now the Spelling Council proves the criticism was justified. If the «authoritative body for spelling questions,» as the council calls itself, cannot apply this reform rule, then who can?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0pd0ops0",
+   "content": {
+    "title": "Uppercase or lowercase",
+    "id": "subtitle-gross-oder-klein"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbos0",
+   "content": {
+    "text": "In the chapter on punctuation, thirty years ago, reformers declared that the comma could be omitted in a widespread sentence type: «Sie ist bereit ihren Beitrag zu leisten.» (She is ready to make her contribution.) In 2006, the Spelling Council restricted the freedom of choice; in 2024, it abolished it. Instead of simply stating that it was withdrawing another reform rule, the Spelling Council writes in the best academic German: «The mandatory use of commas replaces optionality.» The Swiss Teachers’ Association already stated in its «Spelling Booklet» in 1882 that the comma is necessary in such «infinite subordinate clauses,» as the council now calls them; at the time, the term was «infinitive clauses.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbot0",
+   "content": {
+    "text": "Our punctuation, developed over centuries, serves better understanding. Why did the reformers declare one of these punctuation marks dispensable? In 1985, they wrote: «This means that the writer can practically make no mistakes in this problem zone.» We write to record thoughts as clearly as possible, but according to the reformers, to avoid making mistakes."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbot2",
+   "content": {
+    "text": "In the 1950s, «The Clever Book» emerged from the U.S., from which the cheerful nephews Huey, Dewey, and Louie instructed their Uncle Donald Duck. Erika Fuchs, a translator gifted with creative linguistic humor, was responsible for the German edition, and she needed no official permission for the uppercase letter of the adjective «schlaue» (clever). Erich Kästner published his notes from February to August 1945 in 1961 and wrote in the introduction: «Doch das Lesen in der grossen, in der Grossen Chronik darf nicht alles sein.» (But reading in the great, in the Great Chronicle must not be everything.) Such adjectives often do not say what something is, but what something is called. With the uppercase letter, the writer expresses a meaning, and the experienced reader understands."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbou1",
+   "content": {
+    "text": "In 1996, the reformers wanted to write many such naturalized adjectives in lowercase: «der goldene Schnitt» (the golden ratio), «das schwarze Brett» (the bulletin board). Anyone who has to list cases has not found a clear rule and is fumbling. The council continued on this misguided path and, after twenty years of attempts during which different candidates were allowed to stick their heads out or had to withdraw them again, the Spelling Council made the Solomon-like decision that both are possible («innere und Innere Medizin» – internal and Internal Medicine), but refers to the dictionary for cases where only the lowercase letter is correct. Dear reader, flip through! The council justifies the decision with a «writing development» which it claimed to have observed."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0pd0v7m0",
+   "content": {
+    "title": "Is «heissersehnt» also «heiss ersehnt»?",
+    "id": "subtitle-ist-heissersehnt-auch-heiss-ersehnt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbov0",
+   "content": {
+    "text": "A characteristic of the so-called new spelling is its countless apparent variants. «Delphin» and «Delfin» behave as orthographic variants, but compounds like «heissersehnt» (eagerly-awaited) by no means always mean the same as the word group «heiss ersehnt» (hotly desired). With a single sentence, Erich Kästner refutes the theory of synonymy that the reformers presented and the Spelling Council has not cleared up: «Die Wirtschafterin kämpfte in der Küche wie ein Löwe. Doch sie brachte die heissersehnten und heiss ersehnten Bratkartoffeln trotzdem nicht zustande.» (The housekeeper fought like a lion in the kitchen. But she still couldn’t manage the eagerly-awaited and hotly desired fried potatoes.)"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pcml0v1",
+   "content": {
+    "text": "When «Spiegel» journalists pointed out that the compositions concern «the subtleties of the German language,» Doris Ahnen, President of the German Conference of Ministers of Education and Cultural Affairs, said in 2004: «The words do not stand alone.» She added, «The differences are also recognizable here through context.» «And we expect that from the students.» She concluded, «We want to strengthen their ability to understand texts.» The captain declares she had capsized the steamer so that the passengers would learn to swim."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbp00",
+   "content": {
+    "text": "In 2006, the Swiss Teachers’ Association (LCH) «fully rejected» the council’s first set of rules, wrote of «botched work under time pressure,» and demanded «that the cultivation of spelling be fundamentally reorganized and this time professionally.» It also suggested to the EDK «to undertake a fundamental review of business relations with the Conference of Ministers of Education and Cultural Affairs (KMK).» The EDK, for its part, washed its hands of the matter, stating: «Decisions about the rules themselves (how does one write...?) are not political decisions, but expert decisions.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pbjbp10",
+   "content": {
+    "text": "Since then, the topic has quieted, and politicians trustfully approve whatever the experts decide. Anyone who needs to clarify spelling questions no longer consults rules and directories but asks AI. However, all these useful electronic aids can eliminate the personal connection to things. In language matters, personal connection means language intuition or language awareness. One acquires it through reading, provided there is uniform and linguistically correct spelling. An ordered spelling is also a prerequisite for electronic aids to be programmed correctly."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k0pcpgpi0",
+   "content": {
+    "text": "<strong>Stefan Stirnemann</strong> is a classical philologist and a founding member of the Swiss Orthographic Conference (SOK)."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "infobox-advanced"
+  },
+  {
+   "identifier": "infobox-advanced",
+   "id": "doc-1k0pit4ao0",
+   "containers": {
+    "infobox": [
+     {
+      "identifier": "subtitle",
+      "id": "doc-1k0pit4ap0",
+      "content": {
+       "title": "Spelling in the NZZ"
+      }
+     },
+     {
+      "identifier": "p-text",
+      "id": "doc-1k0ps0mvv1",
+      "content": {
+       "text": "The NZZ applies the rules of the new German spelling, but in a moderated form. Where the Duden allows several options, traditional spellings are preferred. Fashionable spelling variants that contradict the classic, clear typeface are avoided. For example, the NZZ writes «selbständig» instead of «selbstständig» and sticks to spellings like «Panther» or «aufwendig.» It follows the new rules in cases like «Känguru» (instead of «Känguruh,» by analogy with «Gnu» and «Kakadu») or «überschwänglich» (instead of «überschwenglich,» because of «Überschwang»). Where different spellings mark differences in meaning, the NZZ adheres to the old rules. This applies, for example, to compound and separate spellings like «sitzen bleiben» (not to stand up) or «sitzenbleiben» (to fail a grade at school or not to be able to sell something) or «offen bleiben» (not to be closed) and «offenbleiben» (not to be decided)."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0pbj8035",
+   "paidContent": true,
+   "prevElement": "infobox-advanced",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0pbj8036",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pbj8037",
+      "content": {
+       "title": "Manbrif in matters of sloppiness",
+       "teaserImage": {
+        "originalUrl": "/2021/5/4/8df97c7b-7142-4b52-b94c-b70ac718b6d1.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/5/4/8df97c7b-7142-4b52-b94c-b70ac718b6d1.jpeg?width=1024&quality=75&auto=webp",
+        "width": 480,
+        "height": 294,
+        "imageService": "fastly",
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "480,270,x0,y12"
+         },
+         {
+          "name": "1:1",
+          "crop": "294,294,x93,y0"
+         }
+        ],
+        "teaserCaption": "The 1996 reform of German spelling is nonsense. Apart from a few linguists and bureaucrats, nobody wanted it – for everyone who writes, it's a nuisance."
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1620925",
+       "readingTime": 240,
+       "authorLine": "Wolf Schneider",
+       "characterCount": 4565,
+       "product": "NZZ.ch",
+       "documentId": 1620925,
+       "layout": "longformstandard",
+       "publicationDate": "2021-05-04T09:50:22.964Z",
+       "publicationLastUpdated": "2021-05-04T09:50:22.964Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2021-05-04T21:50:22.964Z",
+       "teaserCaption": "The 1996 reform of German spelling is nonsense. Apart from a few linguists and bureaucrats, nobody wanted it – for everyone who writes, it's a nuisance.",
+       "url": "/folio/manbrif-in-sachen-murks-ld.1620925",
+       "department": {
+        "name": "Folio",
+        "path": "/folio"
+       },
+       "estimationWordCount": 722,
+       "premium": false,
+       "leadText": "The 1996 reform of German spelling is nonsense. Apart from a few linguists and bureaucrats, nobody wanted it – for everyone who writes, it's a nuisance."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pbj8038",
+      "content": {
+       "title": "It's difficult not to write satire here",
+       "teaserImage": {
+        "originalUrl": "/2016/11/17/e1a979a9-acc2-48a6-b8f6-f57474f1168f.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2016/11/17/e1a979a9-acc2-48a6-b8f6-f57474f1168f.jpeg?width=1024&quality=75&auto=webp",
+        "width": 1376,
+        "height": 830,
+        "imageService": "fastly",
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "1376,774,x0,y28"
+         },
+         {
+          "name": "1:1",
+          "crop": "531,531,x449,y173"
+         }
+        ],
+        "teaserCaption": "The twenty-year spelling reform tells a long story of failure. Once eagerly awaited, it is eagerly awaited again today. What do the reformers actually want?"
+       },
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.129110",
+       "readingTime": 360,
+       "authorLine": "Stefan Stirnemann",
+       "characterCount": 8500,
+       "product": "NZZ.ch",
+       "documentId": 129110,
+       "layout": "regular",
+       "publicationDate": "2016-11-17T16:57:55.911Z",
+       "publicationLastUpdated": "2017-01-18T09:50:25.977Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2016-11-18T04:57:55.911Z",
+       "teaserCaption": "The twenty-year spelling reform tells a long story of failure. Once eagerly awaited, it is eagerly awaited again today. What do the reformers actually want?",
+       "url": "/feuilleton/zeitgeschehen/zwanzig-jahre-rechtschreibreform-was-die-reformer-wollen-ld.129110",
+       "department": {
+        "name": "Current Affairs",
+        "path": "/feuilleton/zeitgeschehen"
+       },
+       "estimationWordCount": 1253,
+       "leadText": "The twenty-year spelling reform tells a long story of failure. Once eagerly awaited, it is eagerly awaited again today. What do the reformers actually want?"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pbj8039",
+      "content": {
+       "owner": "NZZ",
+       "title": "German is a difficult language. The students' setbacks are significant. But hardly anyone talks about why.",
+       "teaserImage": {
+        "originalUrl": "/2022/11/22/e2eb7cec-598d-4315-8918-34112391d77a.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/11/22/e2eb7cec-598d-4315-8918-34112391d77a.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5568,
+        "height": 3712,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5568,3132,x0,y290"
+         },
+         {
+          "name": "1:1",
+          "crop": "3712,3712,x928,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4949,3712,x309,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2784,3712,x1392,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5568,3712,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The fact that the loss of skills is likely also related to migration is something that is rarely discussed. Martina Bircher, the Aargau cantonal director of education, now wants more clarity.",
+        "teaserAuthor": "Karin Hofer / NZZ"
+       },
+       "teaserAuthor": "Karin Hofer / NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1898436",
+       "readingTime": 300,
+       "authorLine": "Sebastian Briellmann",
+       "characterCount": 6206,
+       "product": "NZZ.ch",
+       "documentId": 1898436,
+       "layout": "regular",
+       "publicationDate": "2025-08-20T03:30:00.000Z",
+       "publicationLastUpdated": "2025-08-20T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-08-20T15:30:00.000Z",
+       "teaserCaption": "The fact that the loss of skills is likely also related to migration is something that is rarely discussed. Martina Bircher, the Aargau cantonal director of education, now wants more clarity.",
+       "authorImage": {
+        "originalUrl": "/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/12/11/5d1f73b4-e670-4d1a-b15d-9a5c10b6a8db.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/deutsche-sprache-schwere-sprache-die-rueckschritte-der-schueler-sind-gravierend-nur-ueber-das-warum-spricht-kaum-jemand-ld.1898436",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 919,
+       "leadText": "The fact that the loss of skills is likely also related to migration is something that is rarely discussed. Martina Bircher, the Aargau cantonal director of education, now wants more clarity.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Is it «heissersehnte Spaghetti» or «heissersehnte Spagetti»? Thirty years ago, the major spelling reform was passed. Now, the spelling is being reversed",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "authorLine": "Stefan Stirnemann",
+  "editor": "1373539",
+  "teaserImage": {
+   "originalUrl": "/2021/12/22/4e7b743d-15ef-4ece-8b20-c843d9a1b424.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2021/12/22/4e7b743d-15ef-4ece-8b20-c843d9a1b424.jpeg?width=1024&quality=75&auto=webp",
+   "width": 2423,
+   "height": 1612,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2423,1363,x0,y125"
+    },
+    {
+     "name": "4:3",
+     "crop": "2149,1612,x137,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1612,1612,x406,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1209,1612,x607,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2418,1612,x3,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The latest rules for German spelling show: Reformers and spelling councils are in disarray and retreating. They present a step backward as progress and do not apply their own rules correctly.",
+   "teaserAuthor": "Goran Basic / NZZ"
+  },
+  "teaserAuthor": "Goran Basic / NZZ",
+  "nzzId": "ld.10020743",
+  "readingTime": 420,
+  "characterCount": 9628,
+  "breadcrumbs": [
+   {
+    "name": "Arts & Culture",
+    "path": "/feuilleton"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020743,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationDate": "2026-08-25T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-25T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+  "teaserCaption": "The latest rules for German spelling show: Reformers and spelling councils are in disarray and retreating. They present a step backward as progress and do not apply their own rules correctly.",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "url": "/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743",
+  "department": {
+   "name": "Arts & Culture",
+   "path": "/feuilleton"
+  },
+  "estimationWordCount": 1371,
+  "leadText": "The latest rules for German spelling show: Reformers and spelling councils are in disarray and retreating. They present a step backward as progress and do not apply their own rules correctly.",
+  "nzzSummaryEN": "- The 1996 German spelling reform caused confusion by replacing simple rules with complex variations.\n- The Spelling Council has since reversed some reforms, but many ambiguities persist.\n- Educators criticize that the reform undermined linguistic intuition and consistency.",
+  "nzzSummaryDE": "- The German spelling reform of 1996 caused chaos, as it replaced simple rules with complex variants.\n - The Spelling Council has since reversed some reforms, but many confusions remain.\n - Criticism comes from educators that the reform endangers language awareness and uniformity.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Eagerly awaited spaghetti or eagerly awaited spaghetti?",
+  "nzzPrintSubtitle": "Thirty years ago, German spelling was reformed. Now, they're backtracking. The spelling councils are mistaking backwards for forwards and aren't applying their own rules correctly",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743",
+   "title": "Spelling: The reform is being reversed",
+   "socialMediaTitle": "Spelling: The reform was decided upon thirty years ago. Now they are reversing it",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2021/12/22/4e7b743d-15ef-4ece-8b20-c843d9a1b424.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2423,1363,x0,y125&wmark=nzz"
+  },
+  "ldPublicationId": 2482882,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1620925",
+    "ld.129110",
+    "ld.1898436"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 611352,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020743",
+    "name": "Is it «heissersehnte Spaghetti» or «heissersehnte Spagetti»? Thirty years ago, the major spelling reform was passed. Now, the spelling is being reversed",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Feuilleton",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Is it «heissersehnte Spaghetti» or «heissersehnte Spagetti»? Thirty years ago, the major spelling reform was passed. Now, the spelling is being reversed",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1371759,
+       "name": "Auswärtige Autoren NZZ",
+       "shortName": "AA",
+       "external": true
+      }
+     ],
+     "issueTimestamp": "2026-08-25T03:30:00.000Z",
+     "updateTimestamp": "2026-08-25T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020743",
+   "pageType": "longformstandard",
+   "primaryCategory": "Feuilleton",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Spelling: The reform is being reversed",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2021/12/22/4e7b743d-15ef-4ece-8b20-c843d9a1b424.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2423,1363,x0,y125&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Stefan Stirnemann",
+  "description": "The latest rules for German spelling show: Reformers and spelling councils are in disarray and retreating. They present a step backward as progress and do not apply their own rules correctly.",
+  "news_keywords": "«Hotly longed-for spaghetti» or «hotly longed-for spaghetti»? Thirty years ago, the major spelling reform was passed. Now it's being spelled back. (Feuilleton, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-25T07:30:00+02:00",
+  "date": "2026-08-25T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Is it «heissersehnte Spaghetti» or «heissersehnte Spagetti»? Thirty years ago, the major spelling reform was passed. Now, the spelling is being reversed",
+  "ogTitle": "Spelling: The reform was decided upon thirty years ago. Now they are reversing it",
+  "ogUrl": "https://www.nzz.ch/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743",
+  "mrf:cms_id": "nzz:ld.10020743",
+  "mrf:sections": "Feuilleton",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020743",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:15 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/feuilleton",
+      "name": "Arts & Culture"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Spelling: The reform is being reversed"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743"
+   },
+   "headline": "Spelling: The reform is being reversed",
+   "datePublished": "2026-08-25T07:30:00+02:00",
+   "dateModified": "2026-08-25T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The latest rules for German spelling show: Reformers and spelling councils are in disarray and retreating. They present a step backward as progress and do not apply their own rules correctly.",
+   "isAccessibleForFree": false,
+   "articleSection": "Feuilleton",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2021/12/22/4e7b743d-15ef-4ece-8b20-c843d9a1b424.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2423,1363,x0,y125&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Foreign authors NZZ"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 611352,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/feuilleton/heiss-ersehnte-spaghetti-oder-heissersehnte-spagetti-vor-dreissig-jahren-wurde-die-grosse-rechtschreibreform-beschlossen-jetzt-wird-sie-zurueckbuchstabiert-ld.10020743",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020743",
+    "channel=Feuilleton"
+   ],
+   "ContentCreated": "2026-08-25T03:30:00.000Z",
+   "ContentAuthor": "Stefan Stirnemann",
+   "ContentSection": "Feuilleton",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie beeinflusst die Rücknahme von Reformen die deutsche Rechtschreibung?\nWarum scheiterten viele Reformregeln an ihrer praktischen Anwendung?\nWelche Rolle spielt Sprachgefühl in der modernen Rechtschreibung?",
+   "ldId": "ld.10020743",
+   "channel": "Feuilleton",
+   "heading": "Heiss ersehnte Spaghetti oder heissersehnte Spagetti? Vor dreissig Jahren wurde die grosse Rechtschreibreform beschlossen. Jetzt wird zurückbuchstabiert",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

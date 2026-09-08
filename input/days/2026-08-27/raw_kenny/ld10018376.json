@@ -1,0 +1,1558 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jv97ffdo1",
+   "content": {
+    "title": "Showdown at VW: How the power center of Europe’s largest industrial group works",
+    "lead": "CEO Oliver Blume's cost-cutting plan faces slim chances in politically charged supervisory board",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1jv97ffdo2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Jannik Belser, Berlin",
+       "url": "/impressum/jannik-belser-ld.1850189",
+       "teaserImage": {
+        "originalUrl": "/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0",
+        "url": "https://img-msp-prod.nzz.ch/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 688,
+         "y": 0,
+         "width": 2752,
+         "height": 2752
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0f5fcas1",
+   "content": {
+    "image": {
+     "author": "Illustration NZZ",
+     "caption": "Oliver Blume (top) will have to convince various supervisory board members. Among them (from left to right): Olaf Lies, Daniela Cavallo, Mohammed Saif al-Sowaidi, and Wolfgang Porsche.",
+     "originalUrl": "/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?crop=4500,3376,x0,y0",
+     "width": 4500,
+     "height": 3376,
+     "altText": "VW Committee Collage",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180130422"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 4500,
+      "height": 3376,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 4500,
+       "height": 3376,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Oliver Blume (top) will have to convince various supervisory board members. Among them (from left to right): Olaf Lies, Daniela Cavallo, Mohammed Saif al-Sowaidi, and Wolfgang Porsche.",
+    "author": "Illustration NZZ"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemj10",
+   "content": {
+    "text": "The fate of Europe’s largest industrial group could be decided at the beginning of September. Next week, VW CEO Oliver Blume will once again ask the supervisory board for approval of <a href=\"https://www.nzz.ch/wirtschaft/der-vw-chef-lanciert-seinen-grossen-plan-so-will-oliver-blume-den-auto-konzern-umbauen-ld.10014935\">his «Future Plan»</a>."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-e26f183a",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemj70",
+   "content": {
+    "text": "Blume already <a href=\"https://www.nzz.ch/wirtschaft/gewinn-halbiert-aussichten-unsicher-so-hart-ist-der-kampf-um-die-zukunft-des-vw-konzerns-ld.1928508\">promised investors at the beginning of the year</a> a radical restructuring of his group to make the company competitive again. However, concrete implementation remains open. Measures such as an additional 50,000 job cuts or closing four plants in Germany, which <a href=\"https://www.nzz.ch/wirtschaft/volkswagen-will-offenbar-bis-zu-100-000-stellen-abbauen-ld.10013092\">media reports say are being examined</a> by management, <a href=\"https://www.nzz.ch/wirtschaft/an-respektlosigkeit-nicht-zu-ueberbieten-der-vw-chef-steht-nach-der-ankuendigung-seines-zukunftsplans-in-der-kritik-ld.10014943\">are controversial</a>."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemj90",
+   "content": {
+    "text": "How the future of VW is being debated behind closed doors in the supervisory board is a closely guarded secret. The group does not even publicly announce when the decision-makers meet at the corporate headquarters in Wolfsburg. However, because many supervisory board members maintain ties to the media, the dates often leak to the public anyway."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemja1",
+   "content": {
+    "text": "One thing is certain: Blume faces an almost impossible task."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cjemjc0",
+   "content": {
+    "title": "Institutionalized state control",
+    "id": "subtitle-staatliche-kontrolle-institutionalisiert"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemjd0",
+   "content": {
+    "text": "Every German public limited company has a supervisory board. However, in hardly any company is this body more powerful than at VW. There are historical reasons for this."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemje0",
+   "content": {
+    "text": "Volkswagen was state-controlled for decades. The company’s origins date back to the 1930s, when Adolf Hitler commissioned engineer Ferdinand Porsche to develop an affordable car for families. After the Second World War, the company was continued by the British military administration in the occupation zone, which then placed it under the trusteeship of the state of Lower Saxony."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemjg0",
+   "content": {
+    "text": "State influence remained firmly entrenched even after privatization in 1960. The federal government and the state of Lower Saxony each acquired a 20% stake. They regulated their control rights with the «Law on the Transfer of Shares in Volkswagenwerk Gesellschaft mit beschränkter Haftung into Private Hands.» This «VW Law» still applies today in a weakened form, even though the federal government has sold all its shares. It also guarantees trade unions rights that go far beyond the usual co-determination in other German corporations, as they had only agreed to Volkswagen's privatization under certain conditions."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemji0",
+   "content": {
+    "text": "Today, VW is a global group. But unlike other public limited companies, in which purely economic interests often take precedence in the supervisory board, the body at the Lower Saxony-based automaker is strongly influenced by local political considerations. In addition, unusual alliances often arise: some supervisory board members, who actually represent the capital side, argue on key issues in the same way as the employee side."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cjemjk0",
+   "content": {
+    "title": "Key decision-makers for VW's future",
+    "id": "subtitle-diese-personen-entscheiden-ber-die-zukunft-von-vw"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemjk1",
+   "content": {
+    "text": "The supervisory board can be roughly divided into four camps:"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "enumeration-regular"
+  },
+  {
+   "identifier": "enumeration-regular",
+   "id": "doc-1k0cjga3f0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0cjga3f1",
+      "content": {
+       "text": "The <strong>employee representatives</strong> form the largest group on the board: ten seats are reserved for them, that is, half of all seats – the usual quota in Germany for public limited companies. The spokespersons are Daniela Cavallo, chairwoman of the VW works council, and Christiane Benner, chairwoman of the IG Metall industrial trade union. Employee representatives share Blume’s insight that VW needs change to ensure competitiveness. They are open to reducing internal bureaucracy, management-level restructuring, and adjusting the product portfolio. However, they vehemently oppose further job cuts and closing entire plants. The workforce had made major concessions with the last austerity program, in which the VW Group <a href=\"https://www.nzz.ch/wirtschaft/vw-und-ig-metall-einigen-sich-auf-milliardenschweres-sparpaket-werksschliessungen-abgewendet-ld.1863652\">announced job cuts at the end of 2024</a>, employee representatives say."
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "jj-POkJwpGwh": {
+          "start": 70,
+          "end": 227,
+          "text": "They are reserved for 10 seats. That's half – as is also the case in other corporations organized as public limited companies in Germany."
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0cjivpn0",
+      "content": {
+       "text": "The <strong>government of the state of Lower Saxony</strong> provides two members to the supervisory board: Minister President Olaf Lies and Deputy Minister President Julia Willie Hamburg. As a major shareholder, the state government has an interest in solid earnings and dividend payments at VW. At the same time, it would not be politically tenable for the SPD-led government to be seen as responsible for massive job cuts in the region. The state of Lower Saxony would not agree to any solution that relied on plant closures as a supposedly simple solution or curtailed the proven co-determination rights of employees, the two government representatives wrote in a joint statement."
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "WXro3D0yXhbS": {
+          "start": 601,
+          "end": 698,
+          "text": "The two government representatives wrote in a joint statement that it cuts back on workers."
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0cjk4b10",
+      "content": {
+       "text": "The <strong>Porsche and Piëch families</strong> remain the largest shareholders of the VW Group, together owning more than half of the voting shares. They are represented on the supervisory board by four representatives, including Wolfgang Porsche and Hans Michel Piëch. Supervisory board chairman Hans Dieter Pötsch, a former VW CFO and now head of the Porsche SE holding company, is also close to the families. The owners understand the group’s strong culture of co-determination, and they see good relations with employees as an important condition for long-term success. However, patience is running out, according to circles close to the families. They apparently demand far-reaching changes in the group structure to reduce costs. They believed plant closures were the right signal. Pötsch recently said: «Now it is important to focus exclusively on what is necessary from a business and economic perspective. Everything else must take a back seat.» However, the Porsches and Piëchs reportedly increasingly doubt whether CEO Oliver Blume is strong enough for such measures."
+      },
+      "data": {
+       "_textDirective": {
+        "highlightedTextRanges": {
+         "tOmLL-qQNfu6": {
+          "start": 96,
+          "end": 170,
+          "text": "Together they own more than half of the voting shares. "
+         }
+        }
+       }
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0cjmtgb0",
+      "content": {
+       "text": "<strong>Qatar</strong>, as the third-largest shareholder, sends two representatives to the supervisory board, including Mohammed Saif al-Sowaidi, CEO of the Qatar Investment Authority sovereign wealth fund. The desert state wants a profitable VW to diversify its own economy away from raw materials. The Qatari shareholders are critical of the co-determination tradition and the high site costs. They also recently blocked a repurposing of the VW plant in Osnabrück <a href=\"https://www.nzz.ch/deutschland/politik/israels-ruestungsindustrie-draengt-nach-europa-und-stoesst-in-deutschland-auf-widerstand-von-katar-ld.10015957?srsltid=AfmBOoraVbRtsXdhqXeoe_yD695GFn7CX65K8Vuo6sM--7PB5iEvlqrn\">by the Israeli defense company Rafael</a>."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemjr1",
+   "content": {
+    "text": "Traditionally, the supervisory board is completed by someone who operates somewhat outside the four interest groups. Most recently, Susanne Wiegand, the former head of the defense company Renk, served as an independent controller. However, Wiegand left the board in June at her own request after only one year in office. She was reportedly frustrated by how little she could achieve on the board."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "enumeration-regular",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0v14kp10",
+   "content": {
+    "text": "Officially, the seat is still vacant. However, the «Handelsblatt» reported on Wednesday, citing company circles, that Austrian manager Marianne Heiss could take over the position. Interestingly, Heiss had held this seat before; Wiegand succeeded her a year ago. Heiss is familiar with the VW environment. She currently serves as a supervisory board member at Audi and Porsche SE. The VW Group has not yet commented on the replacement."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemjt0",
+   "content": {
+    "text": "Instead of the usual twenty, the VW supervisory board currently has only nineteen members – which means that the employee representatives currently hold a majority of the votes. But even if Heiss were to fill the vacant seat at the beginning of September, employee representatives would remain influential."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cjemju0",
+   "content": {
+    "title": "Clear power dynamics within the supervisory board",
+    "id": "subtitle-klare-machtverh-ltnisse-im-aufsichtsrat"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemk00",
+   "content": {
+    "text": "The «VW Law» stipulates that decisions on the «establishment and relocation of production facilities» require a two-thirds majority in the supervisory board, that is, fourteen out of twenty votes. This gives the employees a de facto veto over plant closures, which they consider a «relocation to nowhere.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemk20",
+   "content": {
+    "text": "Since the two representatives of the state of Lower Saxony currently align with the trade unions, clear majorities of twelve to seven or twelve to eight emerge on many issues on the supervisory board when it is fully staffed."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemk50",
+   "content": {
+    "text": "This makes the starting position clear before the next meeting: Blume is unlikely to get significant measures such as site closures or further job cuts, which could reduce the group's production costs, through the supervisory board."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cjemk70",
+   "content": {
+    "title": "Controversial attempts at circumvention",
+    "id": "subtitle-umstrittene-umgehungsversuche"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemk71",
+   "content": {
+    "text": "Legally, there are two scenarios in which the group's executive board, led by Oliver Blume, could circumvent the decision-making process in the supervisory board and instead present the austerity plans to the shareholders at an extraordinary general meeting."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "enumeration-regular"
+  },
+  {
+   "identifier": "enumeration-regular",
+   "id": "doc-1k0cjt0eu0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0cjt0eu1",
+      "content": {
+       "text": "After the plans are rejected by the supervisory board, the executive board would argue that the group faces an «existential threat.»"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0cjtfkc0",
+      "content": {
+       "text": "Blume would propose to shareholders a spin-off of the core VW brand as an independent company, thereby placing it outside the «VW Law.» The decision regarding closing VW plants would then no longer rest with the supervisory board."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemke0",
+   "content": {
+    "text": "Both paths have a catch. Under stock corporation law, they are considered far-reaching resolutions, which means that usually 75% of shareholders would have to approve them. At VW, this figure is even higher, thanks to the «VW Law.» More than 80% would have to agree. This means that the state of Lower Saxony, which owns 20%, has a blocking minority."
+   },
+   "paidContent": true,
+   "prevElement": "enumeration-regular",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemki0",
+   "content": {
+    "text": "Minister President Lies and his deputy Hamburg have already indicated that they would not support such steps. They said: «Co-determination is not a competitive disadvantage, but an essential part of Volkswagen’s success story.» Anyone who wants to sustainably strengthen the group must not undermine employee rights, they added. The trade unions also announced protests should the VW executive board attempt to push through austerity packages without their consent."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0cjemkl0",
+   "content": {
+    "title": "A CEO change would achieve little",
+    "id": "subtitle-auch-ein-chefwechsel-br-chte-kaum-etwas"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemkm0",
+   "content": {
+    "text": "Christian Strenger is a professor at the Corporate Governance Institute of the Frankfurt School and a founding member of the German Corporate Governance Code Commission. He says: «The VW Group can hardly implement the urgent cuts anymore.»"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemkp0",
+   "content": {
+    "text": "Strenger considers circumventions of the «VW Law» that would enable simpler solutions for the group’s executive board unrealistic, arguing they would fail due to the resistance of the state of Lower Saxony. Institutionally, the starting position is clear, Strenger says: «Solutions can only exist if the representatives of the employees and Lower Saxony support them in the supervisory board.» Based on the public statements of those representatives, he does not expect the supervisory board to make groundbreaking decisions at the meeting on Sept. 4."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0cjemkr0",
+   "content": {
+    "text": "This would further increase the pressure on Oliver Blume. Would he perhaps soon have to <a href=\"https://www.nzz.ch/wirtschaft/sein-letztes-gefecht-volkswagen-konzernchef-oliver-blume-geht-aus-ganze-ld.10014952\">step down from his post</a>? Strenger would not expect much from that, saying: «Even a new group CEO would very quickly encounter the same resistance.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0hrtlpn0",
+   "content": {
+    "text": "At VW, there is only one way to the austerity plan: The group's executive board must seek compromises within the existing power structure – even if <a href=\"https://www.nzz.ch/wirtschaft/die-lage-ist-mehr-als-kritisch-der-vw-konzern-steht-vor-entscheidenden-wochen-ld.10020735\">time is running out</a>."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jv97ffdo5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jv97ffdo6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jv97ffdo7",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/07/7ea0efc8-cfb7-4f1c-8965-49fee4ba2382.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/07/7ea0efc8-cfb7-4f1c-8965-49fee4ba2382.jpg?width=1024&quality=75&auto=webp",
+        "width": 8192,
+        "height": 5464,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5595,3147,x1562,y1636"
+         },
+         {
+          "name": "4:3",
+          "crop": "5473,4105,x1617,y1279"
+         },
+         {
+          "name": "1:1",
+          "crop": "4516,4516,x2101,y750"
+         },
+         {
+          "name": "3:4",
+          "crop": "4098,5464,x2612,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6155,4103,x1630,y925"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Sales are shrinking, while Chinese competition is growing unabated. VW, BMW, and others are reacting with job cuts, fewer models, and a shift of production abroad. Is that enough?",
+        "teaserAuthor": "Sean Gallup / Getty"
+       },
+       "teaserAuthor": "Sean Gallup / Getty",
+       "title": "Auto expert Dudenhöffer: «The German manufacturers have a future. But it does not lie in Germany»",
+       "authorLine": "Cornelius Welp",
+       "nzzId": "ld.10018242",
+       "readingTime": 480,
+       "paywallQuestionOne": "How does Chinese competition threaten the German automotive industry?",
+       "paywallQuestionTwo": "What strategies are German car manufacturers pursuing to remain competitive?",
+       "paywallQuestionThree": "Why does expert Dudenhöffer see the future of the German automotive industry abroad?",
+       "characterCount": 11156,
+       "product": "NZZ.ch",
+       "documentId": 10018242,
+       "layout": "regular",
+       "publicationDate": "2026-08-07T16:07:17.775Z",
+       "publicationLastUpdated": "2026-08-11T12:09:22.104Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-08T04:07:17.775Z",
+       "teaserCaption": "Sales are shrinking, while Chinese competition is growing unabated. VW, BMW, and others are reacting with job cuts, fewer models, and a shift of production abroad. Is that enough?",
+       "url": "/wirtschaft/die-letzte-chance-so-kaempft-die-deutsche-autobranche-gegen-ihren-untergang-ld.10018242",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1540,
+       "leadText": "Sales are shrinking, while Chinese competition is growing unabated. VW, BMW, and others are reacting with job cuts, fewer models, and a shift of production abroad. Is that enough?",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jv97ffdo8",
+      "content": {
+       "title": "From world champion to turnaround case: A chronicle of the Volkswagen crisis",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Cornelius Welp",
+       "teaserImage": {
+        "originalUrl": "/2026/07/03/01b63ba9-2cae-4660-8038-5b5897a3c034.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/03/01b63ba9-2cae-4660-8038-5b5897a3c034.jpg?width=1024&quality=75&auto=webp",
+        "width": 4096,
+        "height": 2576,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4096,2304,x0,y272"
+         },
+         {
+          "name": "4:3",
+          "crop": "3123,2342,x448,y234"
+         },
+         {
+          "name": "1:1",
+          "crop": "1935,1935,x1287,y641"
+         },
+         {
+          "name": "3:4",
+          "crop": "1597,2129,x1293,y447"
+         },
+         {
+          "name": "3:2",
+          "crop": "3513,2342,x303,y234"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In 2016, the German carmaker was number one worldwide. Now the board could cut up to 100,000 jobs and close plants. How could this happen?",
+        "teaserAuthor": "Julian Stratenschulte / EPA"
+       },
+       "teaserAuthor": "Julian Stratenschulte / EPA",
+       "nzzId": "ld.10013554",
+       "readingTime": 480,
+       "paywallQuestionOne": "What factors led to the recent crisis at Volkswagen?",
+       "paywallQuestionTwo": "How does VW plan to maintain its competitiveness despite job cuts?",
+       "paywallQuestionThree": "What role does electromobility play in VW's future strategy?",
+       "characterCount": 10961,
+       "product": "NZZ.ch",
+       "documentId": 10013554,
+       "layout": "longformstandard",
+       "publicationDate": "2026-07-04T03:30:00.000Z",
+       "publicationLastUpdated": "2026-07-09T05:26:37.383Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-04T15:30:00.000Z",
+       "teaserCaption": "In 2016, the German carmaker was number one worldwide. Now the board could cut up to 100,000 jobs and close plants. How could this happen?",
+       "url": "/wirtschaft/vom-weltmeister-zum-sanierungsfall-das-protokoll-der-volkswagen-krise-ld.10013554",
+       "department": {
+        "name": "Economy",
+        "path": "/wirtschaft"
+       },
+       "estimationWordCount": 1616,
+       "leadText": "In 2016, the German carmaker was number one worldwide. Now the board could cut up to 100,000 jobs and close plants. How could this happen?",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jv97ffdo9",
+      "content": {
+       "title": "Hundreds of thousands of jobs are being cut: The crisis at VW is a warning sign for Germany as a business location",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Opinion",
+       "teaserImage": {
+        "originalUrl": "/2026/06/26/7c28a87d-5fb0-4494-b1d7-59c432a9ec1e.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/26/7c28a87d-5fb0-4494-b1d7-59c432a9ec1e.jpg?width=1024&quality=75&auto=webp",
+        "width": 6135,
+        "height": 4090,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4190,2357,x940,y595"
+         },
+         {
+          "name": "4:3",
+          "crop": "4097,3073,x1104,y447"
+         },
+         {
+          "name": "1:1",
+          "crop": "4090,4090,x940,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3068,4090,x1611,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4190,2794,x985,y482"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For years, the EU and the German government have pursued policies against the automotive industry. Now the sector is threatened with collapse – and Germany with a loss of prosperity. The country needs a complete reversal of its economic and energy policies.",
+        "teaserAuthor": "Darius Simka / Imago"
+       },
+       "teaserAuthor": "Darius Simka / Imago",
+       "showComments": true,
+       "nzzId": "ld.10013104",
+       "readingTime": 240,
+       "paywallQuestionOne": "How does the crisis at VW threaten prosperity in Germany?",
+       "paywallQuestionTwo": "What role does politics play in the crisis of the German automotive industry?",
+       "paywallQuestionThree": "What measures could stop the decline of the German automotive industry?",
+       "characterCount": 5742,
+       "product": "NZZ.ch",
+       "documentId": 10013104,
+       "layout": "opinion",
+       "publicationDate": "2026-06-26T17:00:34.062Z",
+       "publicationLastUpdated": "2026-06-26T17:00:34.062Z",
+       "significantUpdate": true,
+       "significantUpdateTill": "2026-06-27T05:00:34.062Z",
+       "teaserCaption": "For years, the EU and the German government have pursued policies against the automotive industry. Now the sector is threatened with collapse – and Germany with a loss of prosperity. The country needs a complete reversal of its economic and energy policies.",
+       "authorLine": "Malte Fischer, Düsseldorf",
+       "authorImage": {
+        "originalUrl": "/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?crop=4000,4000,x1000,y0",
+        "url": "https://img-msp-prod.nzz.ch/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?crop=4000,4000,x1000,y0&width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 1000,
+         "y": 0,
+         "width": 4000,
+         "height": 4000
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?crop=4000,4000,x1000,y0&width=1024&quality=75&auto=webp",
+       "url": "/meinung/die-krise-bei-vw-ist-ein-menetekel-fuer-den-standort-deutschland-ld.10013104",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 833,
+       "leadText": "For years, the EU and the German government have pursued policies against the automotive industry. Now the sector is threatened with collapse – and Germany with a loss of prosperity. The country needs a complete reversal of its economic and energy policies.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Showdown at VW: How the power center of Europe’s largest industrial group works",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3376,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4500,2531,x0,y422"
+    },
+    {
+     "name": "4:3",
+     "crop": "4500,3375,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3376,3376,x562,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2532,3376,x984,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4500,3000,x0,y188"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "CEO Oliver Blume's cost-cutting plan faces slim chances in politically charged supervisory board",
+   "teaserAuthor": "Illustration NZZ"
+  },
+  "teaserAuthor": "Illustration NZZ",
+  "nzzId": "ld.10018376",
+  "readingTime": 480,
+  "characterCount": 11039,
+  "breadcrumbs": [
+   {
+    "name": "Economy",
+    "path": "/wirtschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10018376,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-27T03:30:00.000Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+  "teaserCaption": "CEO Oliver Blume's cost-cutting plan faces slim chances in politically charged supervisory board",
+  "nzzAuthors": [
+   {
+    "id": 1837261,
+    "name": "Jannik Belser",
+    "shortName": "jab",
+    "pianoId": "53769fe4-7436-4cc9-a699-be5b4bfd8a4d",
+    "external": false
+   }
+  ],
+  "authorLine": "Jannik Belser, Berlin",
+  "authorImage": {
+   "originalUrl": "/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0",
+   "url": "https://img-msp-prod.nzz.ch/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp",
+   "width": 4128,
+   "height": 2752,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 688,
+    "y": 0,
+    "width": 2752,
+    "height": 2752
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1850189,
+    "name": "Jannik Belser, Berlin",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp",
+  "url": "/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376",
+  "department": {
+   "name": "Economy",
+   "path": "/wirtschaft"
+  },
+  "estimationWordCount": 1507,
+  "leadText": "CEO Oliver Blume's cost-cutting plan faces slim chances in politically charged supervisory board",
+  "nzzSummaryEN": "- VW CEO Oliver Blume plans dramatic cost-cutting measures, including job cuts and factory closures, but faces broad resistance from the politically influenced supervisory board.\n- The powerful board, where employee representatives and the state of Lower Saxony play central roles, blocks key initiatives due to the unique \"VW law.\"\n- Alternative bypass scenarios require approval from over 80% of shareholders, which is considered politically and legally unlikely.",
+  "nzzSummaryDE": "- VW CEO Oliver Blume is planning drastic cost-cutting measures, including job cuts and plant closures, but is encountering mostly resistance in the politically influenced supervisory board.\n - The influential supervisory board, in which employee representatives and the state of Lower Saxony play central roles, is blocking essential measures due to the special «VW law».\n Alternative workarounds require the approval of over 80% of shareholders, which is considered politically and legally almost impossible to achieve.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Showdown at VW",
+  "nzzPrintSubtitle": "On September 4th, the supervisory board will decide on the future of the company. Here's how this secretive body works",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376",
+   "title": "Crisis at VW: This is how the supervisory board will decide on Oliver Blume's savings plan",
+   "socialMediaTitle": "Showdown at VW: This is how the supervisory board works",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y422&wmark=nzz"
+  },
+  "ldPublicationId": 2484238,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "VW",
+    "slug": "/themen/vw-volkswagen"
+   },
+   {
+    "name": "Porsche",
+    "slug": "/themen/porsche"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10018242",
+    "ld.10013554",
+    "ld.10013104"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 668136,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "vw-volkswagen",
+   "name": "VW",
+   "tagName": "VW",
+   "qId": "Q246",
+   "seoTitle": "VW – All articles about the car manufacturer Volkswagen | NZZ",
+   "description": "Volkswagen is more than just «The Car.» Germany's largest vehicle manufacturer unites the brands Audi, Seat, Škoda, Bentley, Bugatti, Lamborghini, Porsche, Ducati, Volkswagen, Scania, and MAN under one roof. The Wolfsburg-based company is still suffering the lingering effects of the emissions scandal and is facing hefty fines, particularly in the US, for its diesel engine cheating. Here you can find all NZZ articles on the topic of Volkswagen.",
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 16:28:43.355Z",
+   "imageURL": "https://img.nzz.ch/2020/1/2/5bf10f90-d3a7-4abd-bd64-7797ad4d55d3.jpeg?width=1846&height=1249&fit=crop&quality=75&auto=webp",
+   "imageCroppedURL": null,
+   "imageWidth": 1846,
+   "imageHeight": 1249,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/vw-volkswagen",
+   "size": 1021,
+   "relatedTopics": [
+    {
+     "name": "Porsche",
+     "slug": "/themen/porsche"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "title": "Signs point to escalation: VW CEO Blume’s almost impossible mission",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/7e0798e7-35fa-4531-a9bc-1f0bdadded1a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/7e0798e7-35fa-4531-a9bc-1f0bdadded1a.jpg?width=1024&quality=75&auto=webp",
+     "width": 2400,
+     "height": 1576,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2182,1227,x0,y224"
+      },
+      {
+       "name": "4:3",
+       "crop": "1736,1302,x0,y274"
+      },
+      {
+       "name": "1:1",
+       "crop": "1184,1184,x165,y254"
+      },
+      {
+       "name": "3:4",
+       "crop": "977,1302,x200,y181"
+      },
+      {
+       "name": "3:2",
+       "crop": "1954,1302,x0,y218"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Oliver Blume was meant to unite the fractured group and lead it into a stable future. Now, the situation is more tense than ever. Can the CEO still find a way out?",
+     "teaserAuthor": "Sean Gallup / Getty"
+    },
+    "teaserAuthor": "Sean Gallup / Getty",
+    "authorLine": "Cornelius Welp, Frankfurt",
+    "nzzId": "ld.10021030",
+    "readingTime": 420,
+    "paywallQuestionOne": "What challenges shape Oliver Blume's restructuring plans for VW?",
+    "paywallQuestionTwo": "How is the works council reacting to the planned cost-cutting measures and restructuring?",
+    "paywallQuestionThree": "What role does the Chinese market play in VW's current crisis?",
+    "characterCount": 9659,
+    "product": "NZZ.ch",
+    "documentId": "10021030",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:31:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:31:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:31:00.000Z",
+    "teaserCaption": "Oliver Blume was meant to unite the fractured group and lead it into a stable future. Now, the situation is more tense than ever. Can the CEO still find a way out?",
+    "url": "https://www.nzz.ch/wirtschaft/die-zeichen-stehen-auf-eskalation-die-fast-unmoegliche-mission-von-vw-chef-blume-ld.10021030",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1412,
+    "leadText": "Oliver Blume was meant to unite the fractured group and lead it into a stable future. Now, the situation is more tense than ever. Can the CEO still find a way out?",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Upheaval at VW: Group Reportedly Plans Four German Site Closures",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "The latest developments",
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/89dbc4a4-5cee-49e1-a8b0-d42176778c31.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/89dbc4a4-5cee-49e1-a8b0-d42176778c31.jpg?width=1024&quality=75&auto=webp",
+     "width": 8047,
+     "height": 5365,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8047,4526,x0,y419"
+      },
+      {
+       "name": "4:3",
+       "crop": "7153,5365,x447,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5365,5365,x1341,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4024,5365,x2012,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8047,5365,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "VW CEO Oliver Blume wants to radically restructure the company to make it future-proof. Employees are voicing their criticism at the ongoing works council meetings. Initial decisions are expected in early September.",
+     "teaserAuthor": "Berit Kessler / Imago"
+    },
+    "teaserAuthor": "Berit Kessler / Imago",
+    "nzzId": "ld.10020783",
+    "readingTime": 300,
+    "paywallQuestionOne": "What cost-cutting measures is VW planning to implement to overcome the crisis?",
+    "paywallQuestionTwo": "How is the workforce reacting to the planned cutbacks?",
+    "paywallQuestionThree": "Which locations could be affected by closures?",
+    "characterCount": 7882,
+    "product": "NZZ.ch",
+    "documentId": "10020783",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T18:37:06.768Z",
+    "publicationLastUpdated": "2026-09-02T20:38:44.708Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-09-02T06:37:06.768Z",
+    "teaserCaption": "VW CEO Oliver Blume wants to radically restructure the company to make it future-proof. Employees are voicing their criticism at the ongoing works council meetings. Initial decisions are expected in early September.",
+    "authorLine": "Maurice Koepfli",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/08/10/7ce678c4-9623-4609-b8a3-69597ef844e7.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/umbruch-bei-vw-was-in-den-kommenden-tagen-zu-erwarten-ist-ld.10020783",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1095,
+    "leadText": "VW CEO Oliver Blume wants to radically restructure the company to make it future-proof. Employees are voicing their criticism at the ongoing works council meetings. Initial decisions are expected in early September.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/59b66844-2fe5-4d42-81b2-67367b96678e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/59b66844-2fe5-4d42-81b2-67367b96678e.jpg?width=1024&quality=75&auto=webp",
+     "width": 5566,
+     "height": 3710,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5566,3131,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4947,3710,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3710,3710,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2783,3710,x118,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5565,3710,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1509,
+      "y": 972
+     },
+     "imageService": "fastly",
+     "teaserCaption": "CEO Oliver Blume is urging employees to «join forces,» and they are settling scores with management in an internal survey. The dispute over the future of Europe's largest industrial group is escalating.",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "title": "«The situation is more than critical»: Decisive weeks for the VW Group",
+    "authorLine": "Cornelius Welp, Frankfurt",
+    "nzzId": "ld.10020735",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does VW plan to radically reduce costs by 2030?",
+    "paywallQuestionTwo": "Which factories could be closed?",
+    "paywallQuestionThree": "How is the workforce reacting to the planned restructuring?",
+    "characterCount": 3941,
+    "product": "NZZ.ch",
+    "documentId": "10020735",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T10:33:06.930Z",
+    "publicationLastUpdated": "2026-08-24T11:13:36.651Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-24T22:33:06.930Z",
+    "teaserCaption": "CEO Oliver Blume is urging employees to «join forces,» and they are settling scores with management in an internal survey. The dispute over the future of Europe's largest industrial group is escalating.",
+    "url": "https://www.nzz.ch/wirtschaft/die-lage-ist-mehr-als-kritisch-der-vw-konzern-steht-vor-entscheidenden-wochen-ld.10020735",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 586,
+    "leadText": "CEO Oliver Blume is urging employees to «join forces,» and they are settling scores with management in an internal survey. The dispute over the future of Europe's largest industrial group is escalating.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Profits plummet by a third: the crisis at VW is intensifying",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/24/7212f67a-6a1c-4d96-bbde-f49c0bda9e9d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/24/7212f67a-6a1c-4d96-bbde-f49c0bda9e9d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5297,
+     "height": 3053,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5297,2980,x0,y37"
+      },
+      {
+       "name": "4:3",
+       "crop": "4071,3053,x613,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3053,3053,x1122,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2290,3053,x1504,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4580,3053,x359,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The group CEO wants to interpret the latest business figures as a wake-up call, but the major restructuring still requires a great deal of persuasion. Now, the VW subsidiary Porsche is making the problem even more complicated.",
+     "teaserAuthor": "Matthias Rietschel / Reuters"
+    },
+    "teaserAuthor": "Matthias Rietschel / Reuters",
+    "nzzId": "ld.10016550",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why did VW's profit fall by a third in the second quarter?",
+    "paywallQuestionTwo": "What measures is VW planning in light of the profit slump?",
+    "paywallQuestionThree": "How does the profit slump affect VW's position in Europe?",
+    "characterCount": 5885,
+    "product": "NZZ.ch",
+    "documentId": "10016550",
+    "layout": "regular",
+    "publicationDate": "2026-07-24T09:54:00.541Z",
+    "publicationLastUpdated": "2026-07-24T10:25:22.649Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-07-24T21:54:00.541Z",
+    "teaserCaption": "The group CEO wants to interpret the latest business figures as a wake-up call, but the major restructuring still requires a great deal of persuasion. Now, the VW subsidiary Porsche is making the problem even more complicated.",
+    "authorLine": "Jannik Belser, Berlin",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/09/26/589f66d5-add1-41ab-8cb3-f8285d444b94.jpeg?crop=2752,2752,x688,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/vw-gewinn-im-zweiten-quartal-um-ein-drittel-eingebrochen-ld.10016550",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 893,
+    "leadText": "The group CEO wants to interpret the latest business figures as a wake-up call, but the major restructuring still requires a great deal of persuasion. Now, the VW subsidiary Porsche is making the problem even more complicated.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The state must withdraw from the Volkswagen Group. Otherwise, the company cannot be saved",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "The other view",
+    "teaserImage": {
+     "originalUrl": "/2026/07/22/869db674-1658-40eb-b6fb-967ab82f844f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/22/869db674-1658-40eb-b6fb-967ab82f844f.jpg?width=1024&quality=75&auto=webp",
+     "width": 4724,
+     "height": 3142,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4724,2657,x0,y242"
+      },
+      {
+       "name": "4:3",
+       "crop": "4189,3142,x267,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3142,3142,x791,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2357,3142,x1184,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4713,3142,x6,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Lower Saxony state government and the metalworkers' union are hindering the necessary restructuring of the Volkswagen Group. To reduce their influence, the VW Law should be abolished.",
+     "teaserAuthor": "Ulrich Stamm / Imago"
+    },
+    "teaserAuthor": "Ulrich Stamm / Imago",
+    "showComments": true,
+    "nzzId": "ld.10016600",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does the VW Law hinder the restructuring of the Volkswagen Group?",
+    "paywallQuestionTwo": "Why should Lower Saxony sell its VW shares?",
+    "paywallQuestionThree": "What role does Qatar play in the VW Group's crisis?",
+    "characterCount": 4983,
+    "product": "NZZ.ch",
+    "documentId": "10016600",
+    "layout": "opinion",
+    "publicationDate": "2026-07-22T17:19:57.882Z",
+    "publicationLastUpdated": "2026-07-22T17:19:57.882Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-23T05:19:57.882Z",
+    "teaserCaption": "The Lower Saxony state government and the metalworkers' union are hindering the necessary restructuring of the Volkswagen Group. To reduce their influence, the VW Law should be abolished.",
+    "authorLine": "Malte Fischer",
+    "authorImage": {
+     "originalUrl": "/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x1000,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/10/09/0c27c5b3-7356-4a0b-b1eb-9f8a508bae31.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/der-staat-muss-sich-aus-dem-volkswagen-konzern-zurueckziehen-andernfalls-ist-der-konzern-nicht-zu-retten-ld.10016600",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 746,
+    "leadText": "The Lower Saxony state government and the metalworkers' union are hindering the necessary restructuring of the Volkswagen Group. To reduce their influence, the VW Law should be abolished.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 38,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«We have subsidized VW's inefficiencies»: The crisis in the German automotive industry is also leading to factory closures in Switzerland",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/16/ea6ad813-64c8-4ddc-a5d0-f18e726fec2d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/16/ea6ad813-64c8-4ddc-a5d0-f18e726fec2d.jpg?width=1024&quality=75&auto=webp",
+     "width": 7972,
+     "height": 5182,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7972,4484,x0,y318"
+      },
+      {
+       "name": "4:3",
+       "crop": "6909,5181,x0,y1"
+      },
+      {
+       "name": "1:1",
+       "crop": "3218,3218,x1729,y321"
+      },
+      {
+       "name": "3:4",
+       "crop": "3887,5181,x1188,y1"
+      },
+      {
+       "name": "3:2",
+       "crop": "7773,5182,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Volkswagen is cutting up to 120,000 jobs. This restructuring could be an opportunity for automotive suppliers in Switzerland. For some, however, any help comes too late.",
+     "teaserAuthor": "Hans Hansen for Volkswagen via Stiftung Hamburger Kunstsammlungen; 2025 Pro Litteris, Zurich"
+    },
+    "teaserAuthor": "Hans Hansen for Volkswagen via Stiftung Hamburger Kunstsammlungen; 2025 Pro Litteris, Zurich",
+    "showComments": true,
+    "nzzasFootnote": true,
+    "nzzId": "ld.10015545",
+    "readingTime": 360,
+    "paywallQuestionOne": "How is the VW crisis affecting Swiss automotive suppliers?",
+    "paywallQuestionTwo": "What opportunities does the restructuring of VW offer for suppliers?",
+    "paywallQuestionThree": "How are Swiss companies reacting to the electric transformation in the automotive industry?",
+    "characterCount": 7582,
+    "product": "NZZ.ch",
+    "documentId": "10015545",
+    "layout": "regular",
+    "publicationDate": "2026-07-18T19:49:17.791Z",
+    "publicationLastUpdated": "2026-07-18T19:49:17.791Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-19T07:49:17.791Z",
+    "teaserCaption": "Volkswagen is cutting up to 120,000 jobs. This restructuring could be an opportunity for automotive suppliers in Switzerland. For some, however, any help comes too late.",
+    "authorLine": "Thomas Schlittler",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/05/22/57fbc417-3f95-4a1a-a501-51e4a25cb1ca.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/wir-haben-die-ineffizienzen-von-vw-mitfinanziert-die-krise-der-deutschen-automobilindustrie-fuehrt-auch-in-der-schweiz-zu-fabrikschliessungen-ld.10015545",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1121,
+    "premium": true,
+    "leadText": "Volkswagen is cutting up to 120,000 jobs. This restructuring could be an opportunity for automotive suppliers in Switzerland. For some, however, any help comes too late.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 3,
+    "openToComment": false,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10018376",
+    "name": "Showdown at VW: How the power center of Europe’s largest industrial group works",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Wirtschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Showdown at VW: How the power center of Europe’s largest industrial group works",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1837261,
+       "name": "Jannik Belser",
+       "shortName": "jab",
+       "pianoId": "53769fe4-7436-4cc9-a699-be5b4bfd8a4d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:30:00.000Z",
+     "updateTimestamp": "2026-08-27T03:30:00.000Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10018376",
+   "pageType": "longformstandard",
+   "primaryCategory": "Wirtschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Crisis at VW: This is how the supervisory board will decide on Oliver Blume's savings plan",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y422&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Jannik Belser, Berlin",
+  "description": "CEO Oliver Blume's cost-cutting plan faces slim chances in politically charged supervisory board",
+  "news_keywords": "Showdown at VW: This is how the power center of Europe's largest industrial group works, Business, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T07:30:00+02:00",
+  "date": "2026-08-27T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Showdown at VW: How the power center of Europe’s largest industrial group works",
+  "ogTitle": "Showdown at VW: This is how the supervisory board works",
+  "ogUrl": "https://www.nzz.ch/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376",
+  "mrf:cms_id": "nzz:ld.10018376",
+  "mrf:sections": "Wirtschaft;Wirtschaft & Finanzen",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10018376",
+  "nzzAuthors": [
+   {
+    "id": 1837261,
+    "name": "Jannik Belser",
+    "shortName": "jab",
+    "pianoId": "53769fe4-7436-4cc9-a699-be5b4bfd8a4d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:17 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wirtschaft",
+      "name": "Economy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Crisis at VW: This is how the supervisory board will decide on Oliver Blume's savings plan"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376"
+   },
+   "headline": "Crisis at VW: This is how the supervisory board will decide on Oliver Blume's savings plan",
+   "datePublished": "2026-08-27T07:30:00+02:00",
+   "dateModified": "2026-08-27T07:30:00+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "CEO Oliver Blume's cost-cutting plan faces slim chances in politically charged supervisory board",
+   "isAccessibleForFree": false,
+   "articleSection": "Wirtschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/20/c8659835-e08d-4f38-92e9-b6540b77e24b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4500,2531,x0,y422&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Jannik Belser"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 668136,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wirtschaft/showdown-bei-vw-so-funktioniert-die-machtzentrale-des-groessten-industriekonzerns-in-europa-ld.10018376",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10018376",
+    "channel=Wirtschaft"
+   ],
+   "ContentCreated": "2026-08-27T03:30:00.000Z",
+   "ContentAuthor": "Jannik Belser, Berlin",
+   "ContentSection": "Wirtschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie beeinflusst das VW-Gesetz die Entscheidungsfindung im Aufsichtsrat?\nWelche Rolle spielen die Gewerkschaften bei den Sparplänen von Oliver Blume?\nWarum sind tiefgreifende Reformen bei VW politisch und strukturell schwierig umzusetzen?",
+   "ldId": "ld.10018376",
+   "channel": "Wirtschaft",
+   "heading": "Showdown bei VW: So funktioniert die Machtzentrale des grössten Industriekonzerns in Europa",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

@@ -1,0 +1,1549 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1juk6h9o51",
+   "content": {
+    "title": "The Swiss «hidden tax»: how the state collects up to 23 billion Swiss francs that were never voted on",
+    "lead": "The federal government, cantons and municipalities collect substantial fees, charges and royalties. Financial statistics and surveys by the price regulator show significant discrepancies. The federal government itself does not know how much money is collected without parliament or the people having set the amount of the levies.",
+    "authorline": "Leander Isler",
+    "author": "Leander Isler"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jv3qrpib1",
+   "content": {
+    "image": {
+     "author": "Gaëtan Bally / Keystone",
+     "caption": "Not all government levies have impeccable democratic legitimacy.",
+     "originalUrl": "/2026/08/03/af645788-0505-4759-aa45-f6cb5570e0aa.jpg?crop=6000,4000,x0,y0",
+     "width": 6000,
+     "height": 4000,
+     "altText": "A person checks the amount of Swiss francs withdrawn from an ATM and puts the banknotes into their wallet, photographed on Monday, January 26, 2026 in Zurich. (KEYSTONE/Gaetan Bally)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179886871"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 6000,
+      "height": 4000,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 6000,
+       "height": 4000,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Not all government levies have impeccable democratic legitimacy.",
+    "author": "Gaëtan Bally / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6h9o54",
+   "content": {
+    "text": "On October 2, 2024, the Zurich City Council fundamentally revised the fee schedule for building permit procedures. It increased the rates by 6.8 percent, corresponding to the inflation that had accumulated since 2018. No public referendum was held; the procedure does not provide for one. The federal price regulator was also not consulted: A consultation was deemed unnecessary because building permit fees do not fall under Article 14 of the Price Control Act, the city's Building Permits Office stated in response to an inquiry. The price regulator, for his part, considers the legal question to be judicially unresolved."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-cf61b9a8",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jusbc9mg1",
+   "content": {
+    "text": "Even before the increase, Zurich, with a permit for a single-family home costing 7,500 Swiss francs, was the most expensive of the 27 largest cities – a statistic compiled by the price regulator itself. The country's most expensive municipal building permit thus eluded both the voters and the federal authority."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv3evrcb0",
+   "content": {
+    "text": "The Zurich case is not an outlier, but rather the rule governing how fees are levied in Switzerland. No fee can be introduced arbitrarily: every fee requires a legal basis, approved by parliament or the electorate. The «whether» of a fee is thus democratically controlled – the amount, however, is usually determined by executive branches and government agencies through regulations."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv3f0ns51",
+   "content": {
+    "text": "The size of this portion of government revenue can be quantified; the Federal Finance Administration provides a breakdown of the figures upon request: In 2023, the most recent consolidated year, the federal government, cantons, and municipalities took in a total of almost 198 billion francs. 166 billion of this came from taxes, meaning fiscal revenue whose basis and rates were determined politically, by parliament or even by the electorate."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jusbi17f0",
+   "content": {
+    "text": "22.7 of the remaining 32 billion francs come from fees and charges, as well as royalties and other revenues. The public rarely votes on the amount of these revenues. They are set by ordinances, by city councils, municipal executives, public works commissions and sometimes by a single official. In the English-speaking world, the term «hidden tax» has become established for such levies."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1juk6l1h30",
+   "content": {
+    "title": "Taxes without a ballot",
+    "id": "subtitle-steuern-ohne-stimmzettel"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6kqd11",
+   "content": {
+    "text": "Surprisingly, it is not possible to determine the proportion of these tariffs on which neither parliament nor the public has decided. The Federal Finance Administration confirms on request that the level of assessment – law or regulation – is not statistically recorded. Such a record would be «methodologically challenging.» Thus, even the guardians of Switzerland's state revenues do not themselves know what proportion has ever been put to a vote."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1juk9sk6u0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "9d636bf5dad8d37fb34f0ae0ca97b3ac",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_9d636bf5dad8d37fb34f0ae0ca97b3ac_q86268f4a6fa7434ca6b56b56368ca547_container\"        data-q-item-id=\"9d636bf5dad8d37fb34f0ae0ca97b3ac\"        data-q-request-id=\"3fa3ea3883575dadf7a7f07e2525e17ea4e18947\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"9d636bf5dad8d37fb34f0ae0ca97b3ac\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"9d636bf5dad8d37fb34f0ae0ca97b3ac\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"3fa3ea3883575dadf7a7f07e2525e17ea4e18947\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_9d636bf5dad8d37fb34f0ae0ca97b3ac_q86268f4a6fa7434ca6b56b56368ca547_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"9d636bf5dad8d37fb34f0ae0ca97b3ac\",\"allowDownloadData\":false,\"title\":\"Taxes paid to the state, totaling over 22.7 billion Swiss francs, are hardly ever put to a vote\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sla.\",\"data\":[[\"category\",\"billion CHF\"],[\"Taxes\",\"166.08\"],[\"Fees (including charges) and royalties\",\"22.70\"],[\"rest\",\"8.89\"]],\"sources\":[{\"text\":\"Federal Finance Administration\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{\"valuesOnBars\":true},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":true,\"forceBarsOnSmall\":false},\"chartType\":\"Bar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"}]},\"updatedDate\":\"2026-08-03T15:15:12.804Z\",\"notes\":\"Breakdown of government revenue in 2023 (consolidated)\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_9d636bf5dad8d37fb34f0ae0ca97b3ac_q86268f4a6fa7434ca6b56b56368ca547\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6mo2h0",
+   "content": {
+    "text": "22.7 billion francs is a considerable sum: almost the entire federal value-added tax, nearly double the annual federal contribution to the old-age and survivors' insurance (AHV), and more than three times the budget of the Federal Department of Defence, Civil Protection and Sport (VBS). And because the amount of these levies is stipulated in ordinances and not in laws, the optional referendum generally fails to reach them."
+   },
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jukcmvhl0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "d934e620c7e66fd40bde8424b834adbb",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_d934e620c7e66fd40bde8424b834adbb_q3d122bba5f2d42609f7c0f55f2e6e92e_container\"        data-q-item-id=\"d934e620c7e66fd40bde8424b834adbb\"        data-q-request-id=\"3c911798ea7ddf4bcdc855fb8ce1b2b1b4074d0b\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"d934e620c7e66fd40bde8424b834adbb\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"d934e620c7e66fd40bde8424b834adbb\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"3c911798ea7ddf4bcdc855fb8ce1b2b1b4074d0b\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_d934e620c7e66fd40bde8424b834adbb_q3d122bba5f2d42609f7c0f55f2e6e92e_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"d934e620c7e66fd40bde8424b834adbb\",\"allowDownloadData\":false,\"title\":\"Potential «hidden tax» in a comparison between federal government expenditures and revenues\",\"subtitle\":\"Revenues (federal, cantonal and municipal, consolidated) versus individual items in the federal budget, as of 2023, in billions of francs.\",\"publication\":\"nzz\",\"acronym\":\"sla.\",\"data\":[[null,\"expenditure\",\"revenue\"],[\"Social welfare\",\"27.71\",\"\"],[\"Federal contribution AHV\",\"11.00\",\"\"],[\"Traffic\",\"10.65\",\"\"],[\"Education and Research\",\"8.65\",\"\"],[\"VBS\",\"6.79\",\"\"],[\"Agriculture and food\",\"3.72\",\"\"],[null,null,\"\"],[\"Direct federal tax\",\"\",\"27.80\"],[\"VAT\",\"\",\"25.10\"],[\"Fees (including charges) and royalties\",\"\",\"22.70\"],[\"Mineral oil tax\",\"\",\"4.40\"],[\"Stamp duty\",\"\",\"2.20\"]],\"sources\":[{\"text\":\"EFV financial statistics\",\"link\":{\"url\":\"\"}},{\"text\":\"EStV Annual Report 2023\",\"link\":{\"url\":\"\"}},{\"text\":\"BSV\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{\"valuesOnBars\":true},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":true,\"forceBarsOnSmall\":false},\"chartType\":\"StackedBar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[9],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"}]},\"updatedDate\":\"2026-08-03T15:34:48.220Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_d934e620c7e66fd40bde8424b834adbb_q3d122bba5f2d42609f7c0f55f2e6e92e\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6ms1j0",
+   "content": {
+    "text": "The term «hidden tax» does not refer to every fee. After all, someone who pays for a building permit receives a specific service in return. What is meant is the portion of the levy that exceeds the cost of this service, and thus no longer corresponds to a service in return: Here, the state takes money from private individuals and uses it to finance general tasks. The only difference is that the tax appears on the ballot and the fee is in an ordinance."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jup9adtr1",
+   "content": {
+    "text": "A comparison shows how literally this is meant. In a 2022 federal referendum, the electorate voted on the partial abolition of the stamp duty, which brings the federal government a good two billion francs a year. By contrast, hardly any proposal has ever been put forward concerning the fees, charges and royalties, which together amount to many times that sum."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1juk6nch50",
+   "content": {
+    "title": "What a building permit for a private home costs",
+    "id": "subtitle-was-die-bewilligung-eines-eigenheims-kostet"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6ng090",
+   "content": {
+    "text": "Anyone who wants to know what this burden means in francs should start with building permits. In 2023, the price regulator surveyed the fees for a standardized single-family home in the 27 largest Swiss cities. A family getting a permit for its house in La Chaux-de-Fonds pays 788 francs. In Geneva, it is 1,000 francs, in Sion 1,400, in Bern 3,888 and in Zurich 7,500. That is almost ten times as much. The average is 3,497 francs, but this figure is misleading. The distribution is systematically skewed: Besides a base of low-fee cities in western Switzerland, there is a broad middle range and, at the top, five cities in the Zurich metropolitan area and central Switzerland."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1jukdd2eq0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "9d636bf5dad8d37fb34f0ae0caac8186",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_9d636bf5dad8d37fb34f0ae0caac8186_qe133ff01793e407aae4becdcf1c73d8d_container\"        data-q-item-id=\"9d636bf5dad8d37fb34f0ae0caac8186\"        data-q-request-id=\"b2f5fb76d31cf8a898a0f26fe38604e329504277\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master[general].css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"9d636bf5dad8d37fb34f0ae0caac8186\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"9d636bf5dad8d37fb34f0ae0caac8186\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"b2f5fb76d31cf8a898a0f26fe38604e329504277\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_9d636bf5dad8d37fb34f0ae0caac8186_qe133ff01793e407aae4becdcf1c73d8d_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"9d636bf5dad8d37fb34f0ae0caac8186\",\"allowDownloadData\":false,\"title\":\"Nearly ten times as much: Building permit fees in 27 Swiss cities\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"sla\",\"data\":[[\"City\",\"Fee for single-family homes (CHF)\"],[\"Zurich\",\"7’500\"],[\"Uster\",\"6’800\"],[\"Lucerne\",\"6’650\"],[\"Winterthur\",\"6’043\"],[\"Dübendorf\",\"6’000\"],[\"Biel/Bienne\",\"5’250\"],[\"St. Gallen\",\"4’500\"],[\"Lausanne\",\"4’491\"],[\"Emmen\",\"4’427\"],[\"Kriens\",\"4’300\"],[\"Bern\",\"3’888\"],[\"Thun\",\"3’850\"],[\"Frauenfeld\",\"3’750\"],[\"Basel\",\"3’587\"],[\"Rapperswil-Jona\",\"3’500\"],[\"Schaffhausen\",\"3’050\"],[\"Dietikon\",\"2’400\"],[\"Chur\",\"2’400\"],[\"Train\",\"2’150\"],[\"Yverdon-les-Bains\",\"1’550\"],[\"Köniz\",\"1’530\"],[\"Lugano\",\"1’500\"],[\"Customs\",\"1’400\"],[\"Neuenburg\",\"1’070\"],[\"Montreux\",\"1’050\"],[\"Geneva\",\"1’000\"],[\"La Chaux-de-Fonds\",\"788\"]],\"sources\":[{\"text\":\"Federal Price Supervisor, 2023\",\"link\":{\"url\":\"\"}}],\"events\":[],\"options\":{\"annotations\":{\"valuesOnBars\":true},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":true,\"forceBarsOnSmall\":false},\"chartType\":\"StackedBar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"}]},\"updatedDate\":\"2026-07-28T13:07:32.915Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_9d636bf5dad8d37fb34f0ae0caac8186_qe133ff01793e407aae4becdcf1c73d8d\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6no3n0",
+   "content": {
+    "text": "In Winterthur, the fee was indeed listed on the ballot in 2014. However, the standard procedure is the Zurich model: the fee is set by the government office. A public referendum is not part of the process."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6ntgt0",
+   "content": {
+    "text": "While it is legally unclear whether building permit fees fall under the price control law, this is undisputed for water, wastewater and waste disposal fees. There, Article 14 requires that the municipality consult the price regulator before making a decision. But even this clear obligation is ignored – in Arbedo-Castione, for example, the Ticino Council of State abolished the basic waste disposal fee precisely because this consultation had not occurred."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv3rfdot1",
+   "content": {
+    "text": "The impetus came from a private individual's complaint. This is not an isolated case: from the end of January to mid-March 2024 alone, the price regulator issued 36 formal recommendations. Extrapolated, this amounts to approximately 250 tariff cases per year in which a small federal agency attempts to encourage government agencies to exercise restraint. The mechanism exists, but the question is how often it is heeded."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1juk6o3lp0",
+   "content": {
+    "title": "What the heterogeneity doesn't explain",
+    "id": "subtitle-was-die-heterogenit-t-nicht-erkl-rt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6o78d0",
+   "content": {
+    "text": "A common objection is that this is a matter of federalism. According to this view, every municipality has the right to set its own rates; this right is said to be enshrined in the federal constitution and is a value in itself. However, federalism explains why there are differences. It does not explain why these differences reach a factor of ten."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6p4l70",
+   "content": {
+    "text": "According to a 2023 study by the price regulator, the city of Zurich is among the cheapest cities in Switzerland when it comes to water, wastewater and waste disposal fees. For wastewater and waste, it is even the cheapest. When it comes to building permits, however, it is the most expensive. The same municipal administration, the same political majorities and the same policies thus make it both a leader and a laggard."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jup9dhd70",
+   "content": {
+    "text": "This is not the orderly result of a well-thought-out tariff philosophy, but the disorderly result of many small regulatory decisions, which may individually seem plausible and in total form a pattern without logic."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1juk6pa430",
+   "content": {
+    "title": "The toothless barriers",
+    "id": "subtitle-die-zahnlosen-schranken"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6pdtu0",
+   "content": {
+    "text": "Swiss administrative law sets two limits on fees: they may not generate more revenue than the cost of the public service (cost recovery principle), and they must be proportionate to the service provided in each individual case (equivalence principle). The Federal Supreme Court has interpreted both liberally: broad overhead costs, flat-rate fees, and considerable discretion."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juscvv971",
+   "content": {
+    "text": "The tariffs charged often comply with case law, but not with the logic that should underpin the principle. The St. Gallen Administrative Court showed where the line is this year. On May 26, 2026, it criticized the gas fees of the municipal utilities: in 2022 and 2023, approximately 1.2 million Swiss francs from these fees flowed into the general city coffers – a transfer the court attested had a fiscal purpose and which, as a mixed tax, lacked a legal basis. The court ruled that the burden of proof lies with the municipality, based on its specific accounting records."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv3ggdnb1",
+   "content": {
+    "text": "The backstory is noteworthy: The price regulator had already recommended to the city in December 2023 that it waive the factored-in compensation for the use of public land. The city council rejected this recommendation and reaffirmed it a second time in December 2025. Only a complaint from a private individual brought about the correction. However, the decision is not yet legally binding, as the city is appealing to the Federal Supreme Court."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6pklj0",
+   "content": {
+    "text": "Felix Uhlmann, a professor of constitutional and administrative law at the University of Zurich, clarifies the legal mechanics on request. The weakness of the cost-recovery principle, he says, lies in one crucial adjustment: the «relevant administrative branch.» «If this is defined quite broadly,» he explains, «the administration never covers its costs.» The critical cases, Uhlmann argues, therefore mostly concern not the cost-recovery principle but the equivalence principle. With a building permit fee of 7,500 francs, he maintains, «the administration would have to be able to show how much effort it normally expends.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6pr5n0",
+   "content": {
+    "text": "The federal government has established a standard for its own fees: The General Fees Ordinance allows for a fee to be waived if there is an «overriding public interest» in the official act. Where the general public benefits, it should contribute through taxes, not just the fee payer. A building permit serves not only the building owner but also the character of the town, the safety of neighbors, and overarching regulations. Whether a municipality nevertheless passes the entire cost of the review on to the building owner is a political decision. Today, this is made as a routine administrative procedure."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1juk6qv9e0",
+   "content": {
+    "title": "The instruments exist",
+    "id": "subtitle-die-instrumente-existieren"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6r2sp0",
+   "content": {
+    "text": "Anyone wanting to bring the level of such charges closer to the voters would find the necessary levers in existing law. The first is transparency: a requirement to compare rates, according to which every tariff adjustment must disclose the median and range of comparable municipalities. The price regulator for water, wastewater, and waste already maintains this data in a public database."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jusd53p01",
+   "content": {
+    "text": "The second is enforcement: A tariff change enacted without the required hearing would only come into effect after the statement has been submitted; the regulation would be self-enforcing."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jv3qrqt60",
+   "content": {
+    "text": "The third is jurisdiction: Tariff changes above a certain threshold would have to go before the legislature, whose decisions are subject to an optional referendum. This would not mean every trash bag would be put to a vote, but a doubling of the fees could be challenged by one."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jusd69c81",
+   "content": {
+    "text": "Winterthur demonstrated in 2014 that this approach is viable. Legally, it would be possible anyway, says Uhlmann: «In principle, any municipal assembly, as a legislative body, is free to take up these issues and set the amounts more precisely. This would also have the advantage that costs would become more transparent in the discussion.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1juk6r83d0",
+   "content": {
+    "text": "Whether any of these levers will ever be pulled is a political question. The scale of the issue is clear: 22.7 billion francs, set primarily by decree, with ranges up to a factor of ten and without any statistics showing what proportion was ever subject to a referendum. Zurich's 2024 fee revision followed the prescribed procedure: an executive decision, publication in the official gazette and entry into force. The voice of the citizens had no part in it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1juk6h9o55",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1juk6h9o56",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1juk6h9o57",
+      "content": {
+       "owner": "NZZ",
+       "title": "Why Switzerland always loses time on the army",
+       "authorLine": "Leander Isler",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/26/d3f8301f-f65a-4670-8f06-a8cff60ec6d0.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/26/d3f8301f-f65a-4670-8f06-a8cff60ec6d0.jpg?width=1024&quality=75&auto=webp",
+        "width": 8256,
+        "height": 5504,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8256,4644,x0,y379"
+         },
+         {
+          "name": "4:3",
+          "crop": "7339,5504,x212,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "5004,5004,x2948,y363"
+         },
+         {
+          "name": "3:4",
+          "crop": "4128,5503,x4128,y1"
+         },
+         {
+          "name": "3:2",
+          "crop": "8256,5504,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In the debate about financing the army, one crucial point has so far received little attention: Switzerland secures its defense goals neither through legislation nor a multi-year plan. This has far-reaching consequences.",
+        "teaserAuthor": "Gian Ehrenzeller / Keystone"
+       },
+       "teaserAuthor": "Gian Ehrenzeller / Keystone",
+       "nzzId": "ld.10015807",
+       "readingTime": 360,
+       "paywallQuestionOne": "Why does Switzerland lack a legally enshrined defense plan?",
+       "paywallQuestionTwo": "How does the lack of commitment affect the procurement of the Swiss army?",
+       "paywallQuestionThree": "What are the consequences of political passivity for defense capability?",
+       "characterCount": 7495,
+       "product": "NZZ.ch",
+       "documentId": 10015807,
+       "layout": "regular",
+       "publicationDate": "2026-07-17T03:25:00.000Z",
+       "publicationLastUpdated": "2026-07-17T03:25:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-17T15:25:00.000Z",
+       "teaserCaption": "In the debate about financing the army, one crucial point has so far received little attention: Switzerland secures its defense goals neither through legislation nor a multi-year plan. This has far-reaching consequences.",
+       "url": "/schweiz/sicherheitspolitik/warum-die-schweiz-bei-der-armee-immer-zeit-verliert-ld.10015807",
+       "department": {
+        "name": "Security Policy",
+        "path": "/schweiz/sicherheitspolitik"
+       },
+       "estimationWordCount": 1159,
+       "leadText": "In the debate about financing the army, one crucial point has so far received little attention: Switzerland secures its defense goals neither through legislation nor a multi-year plan. This has far-reaching consequences.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1juk6h9o58",
+      "content": {
+       "owner": "NZZ",
+       "title": "Switzerland is saving its way into defenselessness – and the Federal Council is shirking the work that only it can do",
+       "teaserImage": {
+        "originalUrl": "/2025/11/20/64d72d63-b276-498a-b5e0-3f08ea7b151a.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/20/64d72d63-b276-498a-b5e0-3f08ea7b151a.jpg?width=1024&quality=75&auto=webp",
+        "width": 5500,
+        "height": 3667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5500,3094,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3667,3667,x566,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4889,3667,x425,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2750,3667,x1114,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5500,3667,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "No other department has been as systematically disadvantaged since 1990 as the Department of Defence, Civil Protection and Sport (VBS). The cumulative investment gap is 150 billion Swiss francs. Instead of shifting priorities within its own budget – which would be its primary task – the Federal Council is putting a value-added tax increase before the people.",
+        "teaserAuthor": "Michael Buholzer / Keystone"
+       },
+       "teaserAuthor": "Michael Buholzer / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "authorLine": "Leander Isler",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1929197",
+       "readingTime": 480,
+       "tags": [
+        "Schweiz: Sicherheitspolitik"
+       ],
+       "characterCount": 10969,
+       "product": "NZZ.ch",
+       "documentId": 1929197,
+       "layout": "regular",
+       "publicationDate": "2026-04-18T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-04T08:50:59.727Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-04-18T15:30:00.000Z",
+       "teaserCaption": "No other department has been as systematically disadvantaged since 1990 as the Department of Defence, Civil Protection and Sport (VBS). The cumulative investment gap is 150 billion Swiss francs. Instead of shifting priorities within its own budget – which would be its primary task – the Federal Council is putting a value-added tax increase before the people.",
+       "url": "/schweiz/sicherheitspolitik/die-schweiz-spart-sich-wehrlos-und-der-bundesrat-drueckt-sich-vor-der-arbeit-die-nur-er-leisten-kann-ld.1929197",
+       "department": {
+        "name": "Security Policy",
+        "path": "/schweiz/sicherheitspolitik"
+       },
+       "estimationWordCount": 1592,
+       "leadText": "No other department has been as systematically disadvantaged since 1990 as the Department of Defence, Civil Protection and Sport (VBS). The cumulative investment gap is 150 billion Swiss francs. Instead of shifting priorities within its own budget – which would be its primary task – the Federal Council is putting a value-added tax increase before the people.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "The Swiss «hidden tax»: how the state collects up to 23 billion Swiss francs that were never voted on",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "authorLine": "Leander Isler",
+  "teaserImage": {
+   "originalUrl": "/2026/08/03/af645788-0505-4759-aa45-f6cb5570e0aa.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/03/af645788-0505-4759-aa45-f6cb5570e0aa.jpg?width=1024&quality=75&auto=webp",
+   "width": 6000,
+   "height": 4000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6000,3375,x0,y625"
+    },
+    {
+     "name": "4:3",
+     "crop": "4407,3305,x1419,y695"
+    },
+    {
+     "name": "1:1",
+     "crop": "4000,4000,x2000,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3000,4000,x2591,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4959,3305,x847,y695"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The federal government, cantons, and municipalities collect substantial fees, charges, and royalties. Financial statistics and surveys conducted by the price regulator reveal significant discrepancies. Even the federal government itself does not know the exact amount of money collected, as the level of these levies has not been determined by parliament or the people.",
+   "teaserAuthor": "Gaëtan Bally / Keystone"
+  },
+  "teaserAuthor": "Gaëtan Bally / Keystone",
+  "nzzId": "ld.10017306",
+  "readingTime": 480,
+  "characterCount": 10854,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10017306,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-04T03:30:00.000Z",
+  "publicationDate": "2026-08-04T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-04T04:25:06.639Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-04T15:30:00.000Z",
+  "teaserCaption": "The federal government, cantons, and municipalities collect substantial fees, charges, and royalties. Financial statistics and surveys conducted by the price regulator reveal significant discrepancies. Even the federal government itself does not know the exact amount of money collected, as the level of these levies has not been determined by parliament or the people.",
+  "url": "/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306",
+  "department": {
+   "name": "Switzerland",
+   "path": "/schweiz"
+  },
+  "estimationWordCount": 1574,
+  "leadText": "The federal government, cantons, and municipalities collect substantial fees, charges, and royalties. Financial statistics and surveys conducted by the price regulator reveal significant discrepancies. Even the federal government itself does not know the exact amount of money collected, as the level of these levies has not been determined by parliament or the people.",
+  "nzzSummaryEN": "- Swiss public charges amounting to 22.7 billion francs are mostly determined by executives rather than by public votes.\n- This 'Hidden Tax' includes fees and royalties that are often set in an arbitrary and hard-to-trace manner.",
+  "nzzSummaryDE": "- Swiss public levies of 22.7 billion francs are mostly set by executive branches and not by popular vote. - This «hidden tax» includes fees and royalties whose amounts are often unsystematic and difficult to understand.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Hidden taxes amounting to billions",
+  "nzzPrintSubtitle": "The state levies taxes of 22.7 billion francs, the amount of which is largely not determined by parliament or the people",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306",
+   "title": "Hidden taxes in Switzerland: 23 billion without a referendum",
+   "socialMediaTitle": "How Switzerland raises 23 billion francs without a vote",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/03/af645788-0505-4759-aa45-f6cb5570e0aa.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz"
+  },
+  "ldPublicationId": 2473025,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Taxes",
+    "slug": "/themen/steuern"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10015807",
+    "ld.1929197"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 715272,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "steuern",
+   "name": "Taxes",
+   "tagName": "Taxes",
+   "qId": "Q8161",
+   "seoTitle": "Taxes – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 17:43:08.936Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/steuern",
+   "size": 773,
+   "relatedTopics": []
+  },
+  "data": [
+   {
+    "title": "Federal revenues are booming. Yet VAT is set to rise for the army",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Michele Salvi",
+    "flag": "Guest opinion",
+    "editor": "1373665",
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/831871f2-61f8-4dd6-b342-ca2a857ad413.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/831871f2-61f8-4dd6-b342-ca2a857ad413.jpg?width=1024&quality=75&auto=webp",
+     "width": 7833,
+     "height": 5222,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7833,4406,x0,y436"
+      },
+      {
+       "name": "4:3",
+       "crop": "6963,5222,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5222,5221,x1027,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "3917,5221,x975,y1"
+      },
+      {
+       "name": "3:2",
+       "crop": "7833,5222,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 3128,
+      "y": 2352
+     },
+     "imageService": "fastly",
+     "teaserCaption": "In the political discussions about army financing, the arguments lead astray – and say more about the state of the country than about the federal treasury.",
+     "teaserAuthor": "Anthony Anex / Keystone"
+    },
+    "teaserAuthor": "Anthony Anex / Keystone",
+    "nzzId": "ld.10020308",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why is a tax increase for the army being proposed despite full federal coffers?",
+    "paywallQuestionTwo": "How does the prioritization of social spending affect Switzerland's defense capabilities?",
+    "paywallQuestionThree": "Is a reallocation of funds within the federal budget politically feasible in order to strengthen the army?",
+    "characterCount": 8483,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10020308",
+    "layout": "opinion",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T03:58:21.872Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "In the political discussions about army financing, the arguments lead astray – and say more about the state of the country than about the federal treasury.",
+    "url": "https://www.nzz.ch/meinung/volle-bundeskassen-leere-munitionslager-ld.10020308",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 1255,
+    "leadText": "In the political discussions about army financing, the arguments lead astray – and say more about the state of the country than about the federal treasury.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 7,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Vontobel's departure is a warning sign: Zurich's arrogance is jeopardizing its own location",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/daeca8cf-82be-4be4-8662-5974cb832a66.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/daeca8cf-82be-4be4-8662-5974cb832a66.jpg?width=1024&quality=75&auto=webp",
+     "width": 3547,
+     "height": 2365,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3547,1995,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "3153,2365,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2365,2365,x528,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1774,2365,x387,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3547,2365,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The departure of the flagship bank should be a wake-up call for Zurich. Many companies are increasingly uneasy: without improved conditions, the economic attractiveness of the city and canton will continue to erode.",
+     "teaserAuthor": "Christoph Ruckstuhl / NZZ"
+    },
+    "teaserAuthor": "Christoph Ruckstuhl / NZZ",
+    "flag": "Opinion",
+    "nzzId": "ld.10021774",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Bank Vontobel leaving Zurich despite its historical ties?",
+    "paywallQuestionTwo": "What location factors make Zurich less attractive for companies?",
+    "paywallQuestionThree": "How does Zurich's arrogance threaten its economic standing?",
+    "characterCount": 4390,
+    "showComments": true,
+    "product": "NZZ.ch",
+    "documentId": "10021774",
+    "layout": "opinion",
+    "publicationDate": "2026-08-31T15:14:07.565Z",
+    "publicationLastUpdated": "2026-09-01T16:31:36.751Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T03:14:07.565Z",
+    "teaserCaption": "The departure of the flagship bank should be a wake-up call for Zurich. Many companies are increasingly uneasy: without improved conditions, the economic attractiveness of the city and canton will continue to erode.",
+    "authorLine": "Eflamm Mordrelle",
+    "authorImage": {
+     "originalUrl": "/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+     "width": 800,
+     "height": 800,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "800,800,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/05/10/29ec765a-01b5-494c-8bb3-af9b2945ad89.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/vontobel-wegzug-ist-ein-warnsignal-die-zuercher-ueberheblichkeit-gefaehrdet-den-eigenen-standort-ld.10021774",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 665,
+    "leadText": "The departure of the flagship bank should be a wake-up call for Zurich. Many companies are increasingly uneasy: without improved conditions, the economic attractiveness of the city and canton will continue to erode.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 19,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "New proposal for the defense budget: Taxes should be increased less sharply, but for a longer period",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/e2ec1e92-eb7d-4cbc-965e-8d058bc2bd0d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/e2ec1e92-eb7d-4cbc-965e-8d058bc2bd0d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5783,
+     "height": 3856,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5783,3253,x0,y302"
+      },
+      {
+       "name": "4:3",
+       "crop": "5141,3856,x321,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3856,3856,x964,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2892,3856,x1446,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5783,3855,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "On Tuesday, Council of States finance politicians presented a new proposal for the army budget. If a tax increase fails, the problem would shift from the army to the federal budget.",
+     "teaserAuthor": "PETER KLAUNZER / KEYSTONE"
+    },
+    "teaserAuthor": "PETER KLAUNZER / KEYSTONE",
+    "nzzId": "ld.10021035",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the longer duration affect the tax increase for the army budget?",
+    "paywallQuestionTwo": "Why is the risk of the tax increase shifting from the fund to the federal budget?",
+    "paywallQuestionThree": "What are the consequences of earmarking budget shortfalls for debt reduction plans?",
+    "characterCount": 4307,
+    "tags": [
+     "Schweiz: Sicherheitspolitik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10021035",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T17:51:29.593Z",
+    "publicationLastUpdated": "2026-08-26T05:33:05.001Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-26T05:51:29.593Z",
+    "teaserCaption": "On Tuesday, Council of States finance politicians presented a new proposal for the army budget. If a tax increase fails, the problem would shift from the army to the federal budget.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/neuer-vorschlag-fuer-das-ruestungsbudget-die-steuern-sollen-weniger-stark-erhoeht-werden-dafuer-laenger-ld.10021035",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 666,
+    "leadText": "On Tuesday, Council of States finance politicians presented a new proposal for the army budget. If a tax increase fails, the problem would shift from the army to the federal budget.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Higher taxes for the army? Martin Pfister loses more allies",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/347b5c5c-04d2-4f30-b90e-849e536a653d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/347b5c5c-04d2-4f30-b90e-849e536a653d.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4959,2789,x475,y347"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x383,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x883,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2383,
+      "y": 1455
+     },
+     "imageService": "fastly",
+     "teaserCaption": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+     "teaserAuthor": "Raphael Rohner / CH Media"
+    },
+    "teaserAuthor": "Raphael Rohner / CH Media",
+    "nzzId": "ld.10020492",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Economiesuisse now rejecting a tax increase for the army?",
+    "paywallQuestionTwo": "Which financing proposals for the army are politically controversial?",
+    "paywallQuestionThree": "How could the army budget grow without raising taxes?",
+    "characterCount": 5966,
+    "tags": [
+     "Schweiz: Sicherheitspolitik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020492",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T16:07:50.319Z",
+    "publicationLastUpdated": "2026-08-26T07:49:37.546Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T04:07:50.319Z",
+    "teaserCaption": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/hoehere-steuern-fuer-die-armee-martin-pfister-verliert-weitere-verbuendete-ld.10020492",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 850,
+    "leadText": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Funding the 13th AHV Pension: Trade unions plan to campaign again",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/6fd9a081-b5bc-4c73-8f1e-230c88c86289.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y559"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x259,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1696,1696,x2103,y599"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1577,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2959,
+      "y": 1262
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+     "teaserAuthor": "Andrea Zahler / CH Media"
+    },
+    "teaserAuthor": "Andrea Zahler / CH Media",
+    "nzzId": "ld.10020333",
+    "readingTime": 300,
+    "paywallQuestionOne": "How do the unions intend to justify the tax increase for the 13th AHV pension payment?",
+    "paywallQuestionTwo": "Why do some delegates prefer wage percentages to value added tax?",
+    "paywallQuestionThree": "What strategy are Maillard and Lampart pursuing for the upcoming vote?",
+    "characterCount": 6215,
+    "product": "NZZ.ch",
+    "documentId": "10020333",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T15:17:08.075Z",
+    "publicationLastUpdated": "2026-08-20T15:39:04.818Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-21T03:17:08.075Z",
+    "teaserCaption": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/finanzierung-der-13-ahv-rente-die-gewerkschaften-wollen-wieder-kampagne-machen-ld.10020333",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 914,
+    "leadText": "Trade unions' shift from wage contributions to tax increase for social welfare expansion funding",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Suddenly two billion more: Corporations pay significantly more taxes to the federal government than expected",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/17/5061175e-b9b3-4737-a5d5-7f6872bb24d8.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/17/5061175e-b9b3-4737-a5d5-7f6872bb24d8.jpg?width=1024&quality=75&auto=webp",
+     "width": 5509,
+     "height": 3677,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5509,3099,x0,y578"
+      },
+      {
+       "name": "4:3",
+       "crop": "4903,3677,x606,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3343,3343,x1991,y334"
+      },
+      {
+       "name": "3:4",
+       "crop": "2507,3343,x2399,y334"
+      },
+      {
+       "name": "3:2",
+       "crop": "5509,3673,x0,y2"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Swiss business model is alive and well. Corporate tax revenues are reaching levels that are not easily explained. The Finance Department is finally deciding to adopt a more optimistic budget.",
+     "teaserAuthor": "Marco Ca / Getty"
+    },
+    "teaserAuthor": "Marco Ca / Getty",
+    "nzzId": "ld.10019061",
+    "readingTime": 420,
+    "paywallQuestionOne": "Why did the federal government achieve unexpectedly high tax revenues?",
+    "paywallQuestionTwo": "What role does Geneva play in generating the additional revenue?",
+    "paywallQuestionThree": "How sustainable is the Swiss business model for tax revenue?",
+    "characterCount": 9800,
+    "product": "NZZ.ch",
+    "documentId": "10019061",
+    "layout": "regular",
+    "publicationDate": "2026-08-18T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-18T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-18T15:30:00.000Z",
+    "teaserCaption": "The Swiss business model is alive and well. Corporate tax revenues are reaching levels that are not easily explained. The Finance Department is finally deciding to adopt a more optimistic budget.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/ploetzlich-zwei-milliarden-mehr-konzerne-liefern-dem-bund-deutlich-mehr-steuern-ab-als-erwartet-ld.10019061",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1429,
+    "leadText": "The Swiss business model is alive and well. Corporate tax revenues are reaching levels that are not easily explained. The Finance Department is finally deciding to adopt a more optimistic budget.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10017306",
+    "name": "The Swiss «hidden tax»: how the state collects up to 23 billion Swiss francs that were never voted on",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "The Swiss «hidden tax»: how the state collects up to 23 billion Swiss francs that were never voted on",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-04T03:30:00.000Z",
+     "updateTimestamp": "2026-08-04T04:25:06.639Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10017306",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Hidden taxes in Switzerland: 23 billion without a referendum",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/03/af645788-0505-4759-aa45-f6cb5570e0aa.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Leander Isler",
+  "description": "The federal government, cantons, and municipalities collect substantial fees, charges, and royalties. Financial statistics and surveys conducted by the price regulator reveal significant discrepancies. Even the federal government itself does not know the exact amount of money collected, as the level of these levies has not been determined by parliament or the people.",
+  "news_keywords": "The Swiss «hidden tax»: how the state collects up to 23 billion francs that were never put to a vote, Switzerland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-04T08:25:06+02:00",
+  "date": "2026-08-04T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "The Swiss «hidden tax»: how the state collects up to 23 billion Swiss francs that were never voted on",
+  "ogTitle": "How Switzerland raises 23 billion francs without a vote",
+  "ogUrl": "https://www.nzz.ch/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306",
+  "mrf:cms_id": "nzz:ld.10017306",
+  "mrf:sections": "Schweiz",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10017306",
+  "nzzAuthors": [
+   {
+    "name": "Leander Isler"
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:51:51 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Hidden taxes in Switzerland: 23 billion without a referendum"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306"
+   },
+   "headline": "Hidden taxes in Switzerland: 23 billion without a referendum",
+   "datePublished": "2026-08-04T07:30:00+02:00",
+   "dateModified": "2026-08-04T08:25:06+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The federal government, cantons, and municipalities collect substantial fees, charges, and royalties. Financial statistics and surveys conducted by the price regulator reveal significant discrepancies. Even the federal government itself does not know the exact amount of money collected, as the level of these levies has not been determined by parliament or the people.",
+   "isAccessibleForFree": false,
+   "articleSection": "Schweiz",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/03/af645788-0505-4759-aa45-f6cb5570e0aa.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y625&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Leander Isler"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 715272,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/die-schweizer-hidden-tax-wie-der-staat-bis-zu-23-milliarden-einkassiert-ueber-die-nie-abgestimmt-wurde-ld.10017306",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10017306",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-04T03:30:00.000Z",
+   "ContentAuthor": "Leander Isler",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie viel Geld nimmt der Staat durch nicht abgestimmte Abgaben ein?\nWarum sind Gebühren oft nicht demokratisch legitimiert?\nWie könnte Transparenz bei Gebühren verbessert werden?",
+   "ldId": "ld.10017306",
+   "channel": "Schweiz",
+   "heading": "Die Schweizer «hidden tax»: wie der Staat bis zu 23 Milliarden Franken einkassiert, über die nie abgestimmt wurde",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

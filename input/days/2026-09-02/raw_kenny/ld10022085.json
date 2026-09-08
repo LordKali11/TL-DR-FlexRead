@@ -1,0 +1,1617 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1gpmupm1",
+   "content": {
+    "title": "Scandal engulfs Brazil's judicial elite shortly before presidential election",
+    "lead": "New investigative files implicating powerful judges and the Attorney General. Parts of the justice system trying to halt investigations into their own ranks.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k1gpmupm2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Alexander Busch",
+       "url": "/impressum/alexander-busch-ld.153756",
+       "teaserImage": {
+        "originalUrl": "/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h3irpn1",
+   "content": {
+    "image": {
+     "author": "Adriano Machado / Reuters",
+     "caption": "Justice Alexandre de Moraes, a member of Brazil's Supreme Court, is the focus of investigations.",
+     "originalUrl": "/2026/09/02/0c3761b8-75c8-404b-984c-010fff18945b.jpg?crop=2042,1361,x0,y0",
+     "width": 2042,
+     "height": 1361,
+     "altText": "Brazil's Supreme Court Justice Alexandre de Moraes attends a session during the trial of Brazilian former lawmaker Eduardo Bolsonaro, accused of coercion in the course of legal proceedings related to his international actions targeting the case that led to the conviction of his father, former Brazilian President Jair Bolsonaro, at the Supreme Court in Brasilia, Brazil, June 16, 2026. REUTERS/Adriano Machado",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2179149292"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 2042,
+      "height": 1361,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 2042,
+       "height": 1361,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Justice Alexandre de Moraes, a member of Brazil's Supreme Court, is the focus of investigations.",
+    "author": "Adriano Machado / Reuters"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gpmupm4",
+   "content": {
+    "text": "It has been known since late last year that Supreme Court justices are involved in the Banco Master scandal. This is the biggest corruption scandal in Brazil's banking sector in years. Numerous influential politicians, judges and bureaucrats are implicated. However, the Supreme Court repeatedly managed to let investigations against its own members come to nothing."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-51dd94f7",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl40",
+   "content": {
+    "text": "That could now be over: On Tuesday, Supreme Court Justice André Mendonça lifted the secrecy surrounding an extensive investigative report by the Federal Police. It contains detailed transcripts of messages that his fellow Justice Alexandre de Moraes and the accused banker Daniel Vorcaro had exchanged. Messages documenting Vorcaro's connections to Attorney General Paulo Gonet were also published."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gpprgq0",
+   "content": {
+    "title": "Arrest shortly before fleeing to Malta",
+    "id": "subtitle-festnahme-kurz-vor-der-flucht-nach-malta"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl60",
+   "content": {
+    "text": "It became clear that the banker had exchanged messages with Moraes several times a day in the days leading up to his arrest on Nov. 17, 2023. Vorcaro wanted to know if he should flee the country, if an arrest could still somehow be avoided, and if Moraes could prevent the liquidation of his bank at the central bank, he said. Vorcaro was eventually arrested as he attempted to fly to Malta on his private jet. Since then, he has been in pre-trial detention intermittently."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl70",
+   "content": {
+    "text": "Vorcaro had transformed an insignificant financial service provider from the provinces into a bank with assets equivalent to 16 billion dollars in 10 years. He paid exorbitant interest rates on issued bonds, invested the capital raised in risky financial instruments, and hoped until the very end that one of the state-owned banks would take over his ailing portfolio. But eventually, the business model collapsed – despite extensive bribe payments at all levels. In mid-November 2025, Banco Master was placed under state administration, and its owner was arrested shortly thereafter."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gptmll0",
+   "content": {
+    "title": "Published messages also politically sensitive",
+    "id": "subtitle-die-ver-ffentlichten-nachrichten-sind-auch-politisch-brisant"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl71",
+   "content": {
+    "text": "The top judiciary reacted as it had before when a scandal affected one of its members: Attorney General Gonet immediately tried to have the transcripts declared invalid. He argued that the Federal Police were not authorized to conduct investigations against members of the Supreme Court, and that only the plenary of the Supreme Court itself could decide on such matters. It also became known that Gonet had allowed himself and family members to be invited by Vorcaro on luxury trips abroad."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl81",
+   "content": {
+    "text": "The Supreme Court thus once again stands at the center of a credibility debate. «Brazil faces one of the most serious moments in its institutional history,» says Bruno Brandão of Transparency International in Brazil. «Never before has the Federal Supreme Court been confronted with so many indications of having acted corruptly, accepted conflicts of interest, and allowed itself to be co-opted by private interests,» Brandão adds."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl90",
+   "content": {
+    "text": "Justice Alexandre de Moraes, in particular, has caused enormous damage to the institution with his conduct. Renowned daily newspapers like «Folha de São Paulo» are demanding his immediate resignation. He is the same justice who led proceedings against former President Jair Bolsonaro last year, among other things, for an attempted coup."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponl91",
+   "content": {
+    "text": "However, while that proceeding was heavily criticized primarily by Bolsonaro's and Donald Trump's closest supporters, it is now his financial connections in the Banco Master scandal that are severely damaging Moraes's reputation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k1gq0j290",
+   "content": {
+    "title": "Moraes's wife and children also involved",
+    "id": "subtitle-auch-moraes-ehefrau-und-kinder-sind-involviert"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponla0",
+   "content": {
+    "text": "Already during investigations late last year, it came to light that the law firm where Moraes's wife and children work was supposed to legally represent Banco Master for the equivalent of 24 million dollars over three years, according to the investigation. Surveys of other law firms showed that the fee was far above the usual. It is now public that the banker Vorcaro had promised the firm an additional 10 million dollars for usage shares in helicopters and private jets."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponla1",
+   "content": {
+    "text": "Moraes has so far denied any personal connection to the business relationship between Banco Master and his wife's law firm. However, the latest revelations show that Moraes personally made changes to the contract. What he answered the banker's repeated inquiries is not yet known. It is proven, however, that the justice personally met with the accused six times and accompanied him on two of his luxury trips."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponla2",
+   "content": {
+    "text": "How the scandal will affect the presidential election taking place in one month remains open: President Luiz Inácio Lula da Silva leads Flávio Bolsonaro, the son of the incarcerated former president, in the polls."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponla3",
+   "content": {
+    "text": "While Lula has not yet been accused of any direct connections to Vorcaro, the situation is different for Flávio Bolsonaro. The banker reportedly gave him around 12 million dollars, allegedly to film a movie about his father. Flávio Bolsonaro had previously always denied even knowing the banker."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponlb0",
+   "content": {
+    "text": "Nevertheless, the now highly publicized scandal could also damage Lula's popularity. Since Bolsonaro's conviction, Justice Moraes has been considered by the right-wing opposition as one of their greatest adversaries and is politically attributed by them to Lula's camp. Furthermore, many voters continue to associate Lula with major corruption scandals in the past."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h3tdeb1",
+   "content": {
+    "image": {
+     "author": "Andre Borges / EPA",
+     "caption": "Lula's popularity could be damaged by the events surrounding Moraes.",
+     "originalUrl": "/2026/09/02/52553208-8db8-4dd5-a4d9-8c50a820fae9.jpg?crop=5961,3974,x0,y0",
+     "width": 5961,
+     "height": 3974,
+     "altText": "epa13205637 President of Brazil Luiz Inacio 'Lula' da Silva takes part in a meeting on digital betting, known as Bets, at the Planalto Palace in Brasilia, Brazil, 01 September 2026. EPA/Andre Borges",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180354229"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5961,
+      "height": 3974,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5961,
+       "height": 3974,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Lula's popularity could be damaged by the events surrounding Moraes.",
+    "author": "Andre Borges / EPA"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponlb1",
+   "content": {
+    "text": "This includes, above all, the corruption scandal surrounding the state oil company Petrobras, which heavily burdened the Workers' Party (PT) governments and also contributed to the political decline of Lula's successor, Dilma Rousseff. Lula and the PT have always rejected political responsibility for the corruption system that grew over the years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponlb2",
+   "content": {
+    "text": "For Lula, the scandal comes at a particularly bad time because he wanted to pass laws through Congress four weeks before the first round of elections that, he said, would allow him to run for a fourth term. Now, opposition lawmakers are blocking the legislature with their demands for the removal of Justice Moraes. 54 impeachment motions against the justice have now been filed."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gponlb3",
+   "content": {
+    "text": "The crucial factor now will be how the Supreme Court plenary deals with the Federal Police's new findings. Justice Mendonça has already requested that the plenary discuss the allegations. It remains to be seen whether the Senate President will give in to growing public pressure and initiate impeachment proceedings against Justice Moraes."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k1gpmupm5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k1gpmupm6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gpmupm7",
+      "content": {
+       "owner": "NZZ",
+       "title": "Luxury and cronyism: how Brazil's judicial elite abuses its power",
+       "teaserImage": {
+        "originalUrl": "/2025/01/07/839efb67-bc55-4036-b9f8-deab88110f7d.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/07/839efb67-bc55-4036-b9f8-deab88110f7d.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4200,
+        "height": 2794,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4200,2362,x0,y46"
+         },
+         {
+          "name": "1:1",
+          "crop": "2484,2484,x1578,y64"
+         },
+         {
+          "name": "4:3",
+          "crop": "3725,2794,x475,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2096,2794,x1758,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Brazil's judges and prosecutors enjoy considerable privileges and yet remain susceptible to corruption. This weakens the reputation of the judiciary and trust in democracy.",
+        "teaserAuthor": "Ton Molina / Imago"
+       },
+       "teaserAuthor": "Ton Molina / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1856678",
+       "readingTime": 420,
+       "authorLine": "Alexander Busch, São Paulo",
+       "characterCount": 9278,
+       "product": "NZZ.ch",
+       "documentId": 1856678,
+       "layout": "regular",
+       "publicationDate": "2025-01-15T04:30:00.000Z",
+       "publicationLastUpdated": "2025-01-15T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-01-15T16:30:00.000Z",
+       "teaserCaption": "Brazil's judges and prosecutors enjoy considerable privileges and yet remain susceptible to corruption. This weakens the reputation of the judiciary and trust in democracy.",
+       "url": "/international/luxus-und-korruption-brasiliens-justiz-missbraucht-ihre-macht-ld.1856678",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1319,
+       "leadText": "Brazil's judges and prosecutors enjoy considerable privileges and yet remain susceptible to corruption. This weakens the reputation of the judiciary and trust in democracy."
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gpmupm8",
+      "content": {
+       "owner": "NZZ",
+       "title": "How a Brazilian federal judge became a target of Donald Trump",
+       "teaserImage": {
+        "originalUrl": "/2025/07/31/535c4d8d-47e6-4619-8899-14dcaab473d6.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/07/31/535c4d8d-47e6-4619-8899-14dcaab473d6.jpg?width=1024&quality=75&auto=webp",
+        "width": 4200,
+        "height": 2794,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4200,2362,x0,y74"
+         },
+         {
+          "name": "1:1",
+          "crop": "2484,2484,x1125,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "3725,2794,x290,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2096,2794,x1046,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4191,2794,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Alexandre de Moraes is presiding over the legal proceedings against former President Bolsonaro and American tech companies. This has made him a hate figure for the Brazilian right wing. Now the US is imposing sanctions on the judge.",
+        "teaserAuthor": "Ton Molina / Imago"
+       },
+       "teaserAuthor": "Ton Molina / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1895921",
+       "readingTime": 300,
+       "authorLine": "Alexander Busch, Salvador",
+       "characterCount": 6798,
+       "product": "NZZ.ch",
+       "documentId": 1895921,
+       "layout": "regular",
+       "publicationDate": "2025-07-31T13:15:00.000Z",
+       "publicationLastUpdated": "2025-07-31T14:27:00.365Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-08-01T01:15:00.000Z",
+       "teaserCaption": "Alexandre de Moraes is presiding over the legal proceedings against former President Bolsonaro and American tech companies. This has made him a hate figure for the Brazilian right wing. Now the US is imposing sanctions on the judge.",
+       "url": "/international/richter-moraes-wie-ein-bundesrichter-aus-brasilien-ins-visier-von-trump-geriet-ld.1895921",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 1002,
+       "premium": true,
+       "leadText": "Alexandre de Moraes is presiding over the legal proceedings against former President Bolsonaro and American tech companies. This has made him a hate figure for the Brazilian right wing. Now the US is imposing sanctions on the judge.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k1gpmupm9",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Opinion",
+       "title": "Scandal at the Supreme Court: Brazil's judges need a code of conduct",
+       "teaserImage": {
+        "originalUrl": "/2025/12/23/f907b431-a2f6-4d3c-b378-398ed7d1596b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/12/23/f907b431-a2f6-4d3c-b378-398ed7d1596b.jpg?width=1024&quality=75&auto=webp",
+        "width": 5164,
+        "height": 3443,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5164,2905,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3443,3443,x861,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4591,3443,x287,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2582,3443,x1291,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5164,3443,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Two top judges in Brazil have been implicated in alleged bribery. The case calls for better oversight of judges.",
+        "teaserAuthor": "Mateus Bonomi / Reuters"
+       },
+       "teaserAuthor": "Mateus Bonomi / Reuters",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1917834",
+       "readingTime": 180,
+       "showComments": true,
+       "authorLine": "Werner J. Marti",
+       "characterCount": 4141,
+       "product": "NZZ.ch",
+       "documentId": 1917834,
+       "layout": "opinion",
+       "publicationDate": "2025-12-27T04:11:00.000Z",
+       "publicationLastUpdated": "2025-12-27T14:22:56.960Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-27T16:11:00.000Z",
+       "teaserCaption": "Two top judges in Brazil have been implicated in alleged bribery. The case calls for better oversight of judges.",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/68c7213d-4eb5-4071-82c0-669558e11237.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/68c7213d-4eb5-4071-82c0-669558e11237.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/68c7213d-4eb5-4071-82c0-669558e11237.png?width=1024&quality=75&auto=webp",
+       "url": "/meinung/skandal-am-obersten-gericht-in-brasilien-ein-verhaltenskodex-ist-noetig-ld.1917834",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 618,
+       "leadText": "Two top judges in Brazil have been implicated in alleged bribery. The case calls for better oversight of judges."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Scandal engulfs Brazil's judicial elite shortly before presidential election",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/0c3761b8-75c8-404b-984c-010fff18945b.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/0c3761b8-75c8-404b-984c-010fff18945b.jpg?width=1024&quality=75&auto=webp",
+   "width": 2042,
+   "height": 1361,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "2042,1149,x0,y28"
+    },
+    {
+     "name": "4:3",
+     "crop": "1815,1361,x144,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1361,1361,x278,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1021,1361,x329,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "2042,1361,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "New investigative files implicate powerful judges in the country and the Attorney General. Parts of the judiciary are now attempting to halt the investigations against their own ranks.",
+   "teaserAuthor": "Adriano Machado / Reuters"
+  },
+  "teaserAuthor": "Adriano Machado / Reuters",
+  "tags": [
+   "Amerika"
+  ],
+  "editor": "1532350",
+  "nzzId": "ld.10022085",
+  "readingTime": 300,
+  "characterCount": 6638,
+  "breadcrumbs": [
+   {
+    "name": "International",
+    "path": "/international"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022085,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T13:00:00.000Z",
+  "publicationDate": "2026-09-02T13:00:00.000Z",
+  "publicationLastUpdated": "2026-09-02T13:12:01.833Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T01:00:00.000Z",
+  "teaserCaption": "New investigative files implicate powerful judges in the country and the Attorney General. Parts of the judiciary are now attempting to halt the investigations against their own ranks.",
+  "nzzAuthors": [
+   {
+    "id": 1372061,
+    "name": "Alexander Busch",
+    "shortName": "bu",
+    "pianoId": "36211c26-7760-499a-b8ca-3c1b6364efb2",
+    "external": false
+   }
+  ],
+  "authorLine": "Alexander Busch",
+  "authorImage": {
+   "originalUrl": "/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 153756,
+    "name": "Alexander Busch (bu.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?width=1024&quality=75&auto=webp",
+  "url": "/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085",
+  "department": {
+   "name": "International",
+   "path": "/international"
+  },
+  "estimationWordCount": 975,
+  "leadText": "New investigative files implicate powerful judges in the country and the Attorney General. Parts of the judiciary are now attempting to halt the investigations against their own ranks.",
+  "nzzSummaryEN": "- Investigations revealed ties of Brazilian Supreme Court justices and other high-ranking officials to a major corruption scandal involving Banco Master.\n- Justice Moraes and Attorney General Gonet face heavy criticism for their alleged involvement in the scandal and ethically questionable relationships.\n- The political ramifications of the scandal could impact the upcoming presidential election and have already stalled legislative processes.",
+  "nzzSummaryDE": "Investigations have revealed links between judges of Brazil's Supreme Court and other high-ranking officials to a major corruption scandal at Banco Master. Judge Moraes and Attorney General Gonet are facing heavy criticism for their alleged involvement in the scandal and morally questionable relationships. The political impact of the scandal could affect the upcoming presidential elections and has already paralyzed the legislature.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Scandal engulfs Brazil's judicial elite shortly before presidential election",
+  "nzzPrintSubtitle": "New investigative files implicate powerful judges in the country and the Attorney General.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085",
+   "title": "Corruption scandal in Brazil: Judges and Attorney General under pressure",
+   "socialMediaTitle": "Banco Master scandal: New revelations shake Brazil's justice system",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/0c3761b8-75c8-404b-984c-010fff18945b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2042,1149,x0,y28&wmark=nzz"
+  },
+  "ldPublicationId": 2487677,
+  "playableVideoTeasers": [
+   {
+    "title": "NZZ Format | Coffee of the future – the search for the bean for a hotter world",
+    "description": "Starting the day without coffee? For millions, it's almost unimaginable. But climate change threatens this ritual: In the past three years, the price of coffee on the world market has more than doubled. «We may be the last generation to drink coffee,» fears Brazilian coffee farmer Felipe Croce. Does our morning ritual have a future? Researchers and farmers worldwide are searching for solutions – in archives, laboratories, on plantations, and in forests. Coffee farmer Felipe Croce is converting his farm into a climate-resilient agroforestry system so that his plants can withstand the coming El Niño. In the Royal Botanic Gardens in London, British researcher Dr. Aaron Davis is combing through archives for forgotten, more robust coffee varieties. And in Uganda, his colleague Dr. Catherine Kiwuka makes a surprising discovery that offers hope. The Swiss startup Food Brewer is taking an even more radical approach: It's growing coffee cell cultures in steel tanks. In collaboration with the Zurich University of Applied Sciences, it's trying to approximate the taste of the bean.",
+    "kind": "Single Item",
+    "siteid": "YuwAxPaT",
+    "playlist": [
+     {
+      "title": "NZZ Format | Coffee of the future – the search for the bean for a hotter world",
+      "mediaid": "cCCskTzZ",
+      "link": "https://cdn.jwplayer.com/previews/cCCskTzZ",
+      "image": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=720",
+      "images": [
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=320",
+        "width": 320,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=480",
+        "width": 480,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=640",
+        "width": 640,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=720",
+        "width": 720,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=1280",
+        "width": 1280,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.jpg?width=1920",
+        "width": 1920,
+        "type": "image/jpeg"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.mp4?width=320",
+        "width": 320,
+        "type": "video/mp4"
+       },
+       {
+        "src": "https://cdn.jwplayer.com/v2/media/cCCskTzZ/poster.mp4?width=640",
+        "width": 640,
+        "type": "video/mp4"
+       }
+      ],
+      "siteid": "YuwAxPaT",
+      "duration": 3003,
+      "content_source_type": "file",
+      "pubdate": 1784226453,
+      "updated": 1785841924,
+      "description": "Starting the day without coffee? For millions, it's almost unimaginable. But climate change threatens this ritual: In the past three years, the price of coffee on the world market has more than doubled. «We may be the last generation to drink coffee,» fears Brazilian coffee farmer Felipe Croce. Does our morning ritual have a future? Researchers and farmers worldwide are searching for solutions – in archives, laboratories, on plantations, and in forests. Coffee farmer Felipe Croce is converting his farm into a climate-resilient agroforestry system so that his plants can withstand the coming El Niño. In the Royal Botanic Gardens in London, British researcher Dr. Aaron Davis is combing through archives for forgotten, more robust coffee varieties. And in Uganda, his colleague Dr. Catherine Kiwuka makes a surprising discovery that offers hope. The Swiss startup Food Brewer is taking an even more radical approach: It's growing coffee cell cultures in steel tanks. In collaboration with the Zurich University of Applied Sciences, it's trying to approximate the taste of the bean.",
+      "tags": "nachhaltigkeit,nzz format,brasilien,klimawandel,uganda,Kaffee,Doku,2620,Kaffeeanbau,kaffeebohne",
+      "sources": [
+       {
+        "file": "https://cdn.jwplayer.com/manifests/cCCskTzZ.m3u8",
+        "type": "application/vnd.apple.mpegurl"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/cCCskTzZ-aSRX9V0s.mp4",
+        "type": "video/mp4",
+        "height": 1080,
+        "width": 1920,
+        "label": "1080p",
+        "bitrate": 2257160,
+        "filesize": 847281480,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/cCCskTzZ-EhTDc4s5.mp4",
+        "type": "video/mp4",
+        "height": 720,
+        "width": 1280,
+        "label": "720p",
+        "bitrate": 1248602,
+        "filesize": 468694121,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/cCCskTzZ-J4ijmxxU.mp4",
+        "type": "video/mp4",
+        "height": 406,
+        "width": 720,
+        "label": "406p",
+        "bitrate": 627435,
+        "filesize": 235523635,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/cCCskTzZ-kcn04Bnj.mp4",
+        "type": "video/mp4",
+        "height": 270,
+        "width": 480,
+        "label": "270p",
+        "bitrate": 406696,
+        "filesize": 152663527,
+        "framerate": 25
+       },
+       {
+        "file": "https://cdn.jwplayer.com/videos/cCCskTzZ-ZberQI1f.mp4",
+        "type": "video/mp4",
+        "height": 180,
+        "width": 320,
+        "label": "180p",
+        "bitrate": 279942,
+        "filesize": 105083263,
+        "framerate": 25
+       }
+      ],
+      "tracks": [
+       {
+        "file": "https://cdn.jwplayer.com/tracks/4fGz5qSK.srt",
+        "kind": "captions",
+        "label": "German"
+       },
+       {
+        "file": "https://cdn.jwplayer.com/strips/cCCskTzZ-120.vtt",
+        "kind": "thumbnails"
+       }
+      ],
+      "variations": {}
+     }
+    ],
+    "feed_instance_id": "1fa032d9-86cd-4b56-bfd8-7edb2b56c994",
+    "playerId": "ZMULDsT4",
+    "intl": {
+     "de": {
+      "advertising": {
+       "skiptext": "Skip"
+      }
+     }
+    }
+   }
+  ],
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Brazil",
+    "slug": "/themen/brasilien"
+   },
+   {
+    "name": "Lula da Silva",
+    "slug": "/themen/lula-da-silva"
+   },
+   {
+    "name": "Jair Bolsonaro",
+    "slug": "/themen/jair-bolsonaro"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1856678",
+    "ld.1895921",
+    "ld.1917834"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 407592,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "brasilien",
+   "name": "Brazil",
+   "tagName": "Brazil",
+   "qId": "Q155",
+   "seoTitle": "Brazil – All the news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 14:53:37.327Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/brasilien",
+   "size": 1620,
+   "relatedTopics": [
+    {
+     "name": "Lula da Silva",
+     "slug": "/themen/lula-da-silva"
+    },
+    {
+     "name": "Jair Bolsonaro",
+     "slug": "/themen/jair-bolsonaro"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Two world records at Weltklasse Zurich – and almost more: a magical night at Letzigrund",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/515a651e-90e6-4128-8f51-3e58953337a1.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/515a651e-90e6-4128-8f51-3e58953337a1.jpg?width=1024&quality=75&auto=webp",
+     "width": 5685,
+     "height": 3790,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5685,3198,x0,y89"
+      },
+      {
+       "name": "4:3",
+       "crop": "5053,3790,x208,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3790,3790,x1016,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2843,3790,x1673,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5685,3790,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Alison dos Santos improved her 400m hurdles time by almost half a second, running a fantastic 45.80 seconds. Following that, American Masai Russell set a new best time of 12.09 seconds in the 100m hurdles.",
+     "teaserAuthor": "Jean-Christophe Bott / Keystone"
+    },
+    "teaserAuthor": "Jean-Christophe Bott / Keystone",
+    "nzzId": "ld.10021395",
+    "readingTime": 300,
+    "paywallQuestionOne": "How did Alison Dos Santos break the world record in the 400-meter hurdles?",
+    "paywallQuestionTwo": "What time did Dos Santos achieve in the race at Zurich's Letzigrund stadium?",
+    "paywallQuestionThree": "How much did Dos Santos improve his personal best?",
+    "characterCount": 5426,
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/27/515a651e-90e6-4128-8f51-3e58953337a1.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/515a651e-90e6-4128-8f51-3e58953337a1.jpg?width=1024&quality=75&auto=webp",
+     "width": 5685,
+     "height": 3790,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4271,2403,x853,y53"
+      },
+      {
+       "name": "1:1",
+       "crop": "1945,1945,x2160,y57"
+      },
+      {
+       "name": "4:3",
+       "crop": "5053,3790,x327,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2843,3790,x1613,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5685,3790,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/27/1fe022dd-4ab0-469e-a033-dd84d911d8d0.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/1fe022dd-4ab0-469e-a033-dd84d911d8d0.jpg?width=1024&quality=75&auto=webp",
+     "width": 5564,
+     "height": 3709,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5564,3130,x0,y290"
+      },
+      {
+       "name": "1:1",
+       "crop": "2787,2787,x1940,y351"
+      },
+      {
+       "name": "4:3",
+       "crop": "4945,3709,x619,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2529,3372,x2109,y337"
+      },
+      {
+       "name": "3:2",
+       "crop": "5564,3709,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "tags": [
+     "Leichtathletik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10021395",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T18:52:50.785Z",
+    "publicationLastUpdated": "2026-08-27T20:37:02.202Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T06:52:50.785Z",
+    "teaserCaption": "Alison dos Santos improved her 400m hurdles time by almost half a second, running a fantastic 45.80 seconds. Following that, American Masai Russell set a new best time of 12.09 seconds in the 100m hurdles.",
+    "authorLine": "Remo Geisser, Eva Breitenstein",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/leichtathletik/weltrekord-fuer-dos-santos-in-zuerich-ld.10021395",
+    "department": {
+     "name": "Athletics",
+     "path": "/sport/leichtathletik"
+    },
+    "estimationWordCount": 928,
+    "leadText": "Alison dos Santos improved her 400m hurdles time by almost half a second, running a fantastic 45.80 seconds. Following that, American Masai Russell set a new best time of 12.09 seconds in the 100m hurdles.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A couple marries. Two and a half months later, the woman receives her residence permit – and seven days later she moves out",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/31/421771ae-1997-400e-abc6-86ec2531ded7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/31/421771ae-1997-400e-abc6-86ec2531ded7.jpg?width=1024&quality=75&auto=webp",
+     "width": 5415,
+     "height": 3610,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5415,3046,x0,y303"
+      },
+      {
+       "name": "4:3",
+       "crop": "4813,3610,x195,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3610,3610,x785,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2708,3610,x1240,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5415,3610,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2590,
+      "y": 1747
+     },
+     "imageService": "fastly",
+     "teaserCaption": "A Brazilian woman is fighting for her right to remain in Switzerland. She says her ex-husband abused her. But the authorities doubt her account.",
+     "teaserAuthor": "Getty"
+    },
+    "teaserAuthor": "Getty",
+    "nzzId": "ld.10017761",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why do the authorities doubt the Brazilian woman's allegations of violence?",
+    "paywallQuestionTwo": "What role does the woman's history play in the authorities' decision?",
+    "paywallQuestionThree": "How do hardship cases of sham marriages differ in Switzerland?",
+    "characterCount": 4754,
+    "product": "NZZ.ch",
+    "documentId": "10017761",
+    "layout": "regular",
+    "publicationDate": "2026-08-04T03:00:00.000Z",
+    "publicationLastUpdated": "2026-08-04T03:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-04T15:00:00.000Z",
+    "teaserCaption": "A Brazilian woman is fighting for her right to remain in Switzerland. She says her ex-husband abused her. But the authorities doubt her account.",
+    "authorLine": "Claudia Rey",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/0d61b69b-9bb7-4a5f-859f-912936dc1295.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/ein-paar-heiratet-zweieinhalb-monate-spaeter-erhaelt-die-frau-die-aufenthaltsbewilligung-sieben-tage-danach-zieht-sie-aus-ld.10017761",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 728,
+    "leadText": "A Brazilian woman is fighting for her right to remain in Switzerland. She says her ex-husband abused her. But the authorities doubt her account.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Flávio Bolsonaro is to succeed his father – but lacks his political talent",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/24/321f4c9f-8c59-4a1a-a0fb-68ec101c4739.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/24/321f4c9f-8c59-4a1a-a0fb-68ec101c4739.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y63"
+      },
+      {
+       "name": "4:3",
+       "crop": "3556,2667,x67,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "935,935,x1399,y751"
+      },
+      {
+       "name": "3:4",
+       "crop": "2000,2667,x746,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Jair Bolsonaro has sent his son into the presidential race. But the son remains lackluster. He is losing support among political parties, business leaders, evangelicals – and even within his own family.",
+     "teaserAuthor": "Buda Mendes / Getty"
+    },
+    "teaserAuthor": "Buda Mendes / Getty",
+    "showComments": true,
+    "tags": [
+     "Amerika"
+    ],
+    "nzzId": "ld.10016933",
+    "readingTime": 360,
+    "paywallQuestionOne": "Why does Flávio Bolsonaro lack his father's political talent?",
+    "paywallQuestionTwo": "What factors weaken Flávio Bolsonaro's presidential candidacy?",
+    "paywallQuestionThree": "How do internal conflicts affect the Bolsonaro family and its political future?",
+    "characterCount": 8455,
+    "product": "NZZ.ch",
+    "documentId": "10016933",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-29T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-29T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-29T15:30:00.000Z",
+    "teaserCaption": "Jair Bolsonaro has sent his son into the presidential race. But the son remains lackluster. He is losing support among political parties, business leaders, evangelicals – and even within his own family.",
+    "authorLine": "Alexander Busch, Salvador",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/02/21/c267e623-a396-4320-8b54-9d2b88c6b73a.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/flavio-bolsonaro-soll-seinen-vater-beerben-doch-dafuer-fehlt-ihm-dessen-politisches-talent-ld.10016933",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1292,
+    "premium": true,
+    "leadText": "Jair Bolsonaro has sent his son into the presidential race. But the son remains lackluster. He is losing support among political parties, business leaders, evangelicals – and even within his own family.",
+    "nzzSummaryIsAuto": true,
+    "commentsCount": 1,
+    "openToComment": false,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Milei berates Lula and triggers a diplomatic quake",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/27/e2488518-5486-4781-93d1-d057f2ed330d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/27/e2488518-5486-4781-93d1-d057f2ed330d.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 2000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y23"
+      },
+      {
+       "name": "4:3",
+       "crop": "2667,2000,x32,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1653,1653,x0,y17"
+      },
+      {
+       "name": "3:4",
+       "crop": "1500,2000,x129,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The Argentine head of state sees the neighboring country as the originator of a campaign that he says denigrates Argentines as a nation of racists. Now Milei hopes that the «right-wing wave» will also sweep over Brazil.",
+     "teaserAuthor": "Nurphoto/Getty"
+    },
+    "teaserAuthor": "Nurphoto/Getty",
+    "tags": [
+     "Amerika"
+    ],
+    "nzzId": "ld.10017173",
+    "readingTime": 240,
+    "paywallQuestionOne": "How did Milei's criticism of Lula escalate into a diplomatic crisis?",
+    "paywallQuestionTwo": "What accusations does Milei make against Brazil and Lula?",
+    "paywallQuestionThree": "How is Brazil reacting to Milei's provocative statements?",
+    "characterCount": 5774,
+    "product": "NZZ.ch",
+    "documentId": "10017173",
+    "layout": "regular",
+    "publicationDate": "2026-07-27T13:56:53.402Z",
+    "publicationLastUpdated": "2026-07-28T06:40:53.122Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-28T01:56:53.402Z",
+    "teaserCaption": "The Argentine head of state sees the neighboring country as the originator of a campaign that he says denigrates Argentines as a nation of racists. Now Milei hopes that the «right-wing wave» will also sweep over Brazil.",
+    "authorLine": "Simon Hehli",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/e093c794-c4d1-44f9-aa11-822688046fbf.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/milei-sorgt-mit-lula-beschimpfungen-fuer-diplomatische-krise-ld.10017173",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 888,
+    "leadText": "The Argentine head of state sees the neighboring country as the originator of a campaign that he says denigrates Argentines as a nation of racists. Now Milei hopes that the «right-wing wave» will also sweep over Brazil.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "title": "If prices continue to rise, we will soon be drinking our last cup of coffee: Climate change threatens coffee plantations worldwide",
+    "authorLine": "Daniel Etter",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Documentary film «NZZ Format»",
+    "freeToRead": true,
+    "nzzId": "ld.10014305",
+    "readingTime": 60,
+    "embeds": {
+     "videos": [
+      {
+       "id": "cCCskTzZ",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 3003,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/cCCskTzZ-J4ijmxxU.mp4",
+         "width": 720,
+         "height": 406
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How does climate change threaten global coffee production?",
+    "paywallQuestionTwo": "What solutions are researchers and farmers developing for climate-resilient coffee?",
+    "paywallQuestionThree": "How could coffee grown from cell cultures secure the future of the beverage?",
+    "characterCount": 1204,
+    "teaserImage": {
+     "originalUrl": "/2026/07/09/c7ed1f2a-d893-435f-83bf-3a9ff43ebab7.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/09/c7ed1f2a-d893-435f-83bf-3a9ff43ebab7.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1080,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1440,1080,x255,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1080,1080,x413,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "416,554,x302,y394"
+      },
+      {
+       "name": "3:2",
+       "crop": "1620,1080,x153,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "How can we save our beloved morning ritual? The search for the bean for a hotter world."
+    },
+    "product": "NZZ.ch",
+    "documentId": "10014305",
+    "layout": "video",
+    "publicationDate": "2026-07-24T04:30:00.000Z",
+    "publicationLastUpdated": "2026-07-25T10:17:21.605Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-24T16:30:00.000Z",
+    "teaserCaption": "How can we save our beloved morning ritual? The search for the bean for a hotter world.",
+    "url": "https://www.nzz.ch/video/format/kaffee-der-zukunft-die-suche-nach-der-bohne-fuer-eine-heissere-welt-ld.10014305",
+    "department": {
+     "name": "NZZ Format",
+     "path": "/video/format"
+    },
+    "estimationWordCount": 212,
+    "leadText": "How can we save our beloved morning ritual? The search for the bean for a hotter world.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "In the market for smaller airliners, it's a duel between Canada and Brazil",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Andreas Spaeth",
+    "teaserImage": {
+     "originalUrl": "/2026/07/08/0e4f14d3-8890-44e2-8f73-ce4d7cf5b429.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/08/0e4f14d3-8890-44e2-8f73-ce4d7cf5b429.jpg?width=1024&quality=75&auto=webp",
+     "width": 8065,
+     "height": 5377,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8065,4537,x0,y840"
+      },
+      {
+       "name": "4:3",
+       "crop": "7169,5377,x896,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5377,5377,x2688,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4033,5377,x3774,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8065,5377,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 7016,
+      "y": 3420
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The smallest Airbus A220 from Canada has established itself after ten years of scheduled service, while Embraer from Brazil is holding its own in the booming segment with its E2.",
+     "teaserAuthor": "Swiss International Air Lines"
+    },
+    "teaserAuthor": "Swiss International Air Lines",
+    "tags": [
+     "Mobilität aktuell",
+     "Luftfahrt"
+    ],
+    "nzzId": "ld.10014263",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do the Airbus A220 and Embraer E2 differ in efficiency and range?",
+    "paywallQuestionTwo": "What challenges exist with Pratt & Whitney engines?",
+    "paywallQuestionThree": "Why is Airbus hesitating to introduce the A220-500?",
+    "characterCount": 7780,
+    "product": "NZZ.ch",
+    "documentId": "10014263",
+    "layout": "longformstandard",
+    "publicationDate": "2026-07-11T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-11T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-11T15:30:00.000Z",
+    "teaserCaption": "The smallest Airbus A220 from Canada has established itself after ten years of scheduled service, while Embraer from Brazil is holding its own in the booming segment with its E2.",
+    "url": "https://www.nzz.ch/mobilitaet/bei-den-kleineren-linienjets-gibt-es-ein-duell-zwischen-kanada-und-brasilien-ld.10014263",
+    "department": {
+     "name": "Mobility",
+     "path": "/mobilitaet"
+    },
+    "estimationWordCount": 1183,
+    "leadText": "The smallest Airbus A220 from Canada has established itself after ten years of scheduled service, while Embraer from Brazil is holding its own in the booming segment with its E2.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022085",
+    "name": "Scandal engulfs Brazil's judicial elite shortly before presidential election",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "International",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Scandal engulfs Brazil's judicial elite shortly before presidential election",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372061,
+       "name": "Alexander Busch",
+       "shortName": "bu",
+       "pianoId": "36211c26-7760-499a-b8ca-3c1b6364efb2",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-09-02T13:00:00.000Z",
+     "updateTimestamp": "2026-09-02T13:12:01.833Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022085",
+   "pageType": "regular",
+   "primaryCategory": "International",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Corruption scandal in Brazil: Judges and Attorney General under pressure",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/0c3761b8-75c8-404b-984c-010fff18945b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2042,1149,x0,y28&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Alexander Busch",
+  "description": "New investigative files implicate powerful judges in the country and the Attorney General. Parts of the judiciary are now attempting to halt the investigations against their own ranks.",
+  "news_keywords": "Shortly before the presidential election, a scandal catches up with Brazil's judicial elite, International, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T17:12:01+02:00",
+  "date": "2026-09-02T17:00:00+02:00",
+  "canonical": "https://www.nzz.ch/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Scandal engulfs Brazil's judicial elite shortly before presidential election",
+  "ogTitle": "Banco Master scandal: New revelations shake Brazil's justice system",
+  "ogUrl": "https://www.nzz.ch/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085",
+  "mrf:cms_id": "nzz:ld.10022085",
+  "mrf:sections": "International",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022085",
+  "nzzAuthors": [
+   {
+    "id": 1372061,
+    "name": "Alexander Busch",
+    "shortName": "bu",
+    "pianoId": "36211c26-7760-499a-b8ca-3c1b6364efb2",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:04:38 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/international",
+      "name": "International"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Corruption scandal in Brazil: Judges and Attorney General under pressure"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085"
+   },
+   "headline": "Corruption scandal in Brazil: Judges and Attorney General under pressure",
+   "datePublished": "2026-09-02T17:00:00+02:00",
+   "dateModified": "2026-09-02T17:12:01+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "New investigative files implicate powerful judges in the country and the Attorney General. Parts of the judiciary are now attempting to halt the investigations against their own ranks.",
+   "isAccessibleForFree": false,
+   "articleSection": "International",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/0c3761b8-75c8-404b-984c-010fff18945b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2042,1149,x0,y28&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Alexander Busch"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 407592,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/international/kurz-vor-der-praesidentschaftswahl-holt-ein-skandal-brasiliens-justizelite-ein-ld.10022085",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022085",
+    "channel=International"
+   ],
+   "ContentCreated": "2026-09-02T13:00:00.000Z",
+   "ContentAuthor": "Alexander Busch",
+   "ContentSection": "International",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie beeinflusst der Skandal die Glaubwürdigkeit des obersten Gerichtshofs?\nWelche Rolle spielt Richter Moraes im Korruptionsskandal um den Banco Master?\nWie könnte der Skandal die Präsidentschaftswahl in Brasilien beeinflussen?",
+   "ldId": "ld.10022085",
+   "channel": "International",
+   "heading": "Kurz vor der Präsidentschaftswahl holt ein Skandal Brasiliens Justizelite ein",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

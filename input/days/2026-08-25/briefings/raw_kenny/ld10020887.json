@@ -1,0 +1,1525 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jk0n02i70",
+   "content": {
+    "subject": "Was die Schweiz von Polen lernen kann",
+    "preheader": "Wie Polen den Wehrwillen stärkt"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-7196a663",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0n02i81",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/04/07/6d96d826-cbde-4dcd-ae32-eb5d92052472.png",
+     "mediaId": "sUtD3vZFlRk6",
+     "key": "2026/04/07/6d96d826-cbde-4dcd-ae32-eb5d92052472.png",
+     "width": 800,
+     "height": 800,
+     "mimeType": "image/png",
+     "altText": "Georg Häsler",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/07/6d96d826-cbde-4dcd-ae32-eb5d92052472.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jk0n02i83",
+   "content": {
+    "text": "Georg Häsler"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jk0n02i84",
+   "content": {
+    "text": "<a data-li-document-ref=\"1562730\" href=\"https://www.nzz.ch/georg-haesler-geo-ld.1562730\">Editor for global security policy</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n2bpk0",
+   "content": {
+    "text": "Almost every evening, a discussion panel somewhere in the country is currently debating Swiss neutrality. The campaign for a referendum on an initiative that aims to elevate a foreign policy instrument to a fundamental value and define it precisely in the Federal Constitution has begun. The decision will be made on September 27th."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rqj8030",
+   "content": {
+    "text": "These panelists are mostly in agreement: depending on their political leanings, they are either strictly for or strictly against the proposal. Nuance is rare, as are any truly opposing debates. Opponents and proponents seem to avoid each other. When a debate does take place, it's on social media – and then in a correspondingly hostile tone."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rqq0tm0",
+   "content": {
+    "text": "The way a vocal minority currently insults each other in online comment sections is something these same people would hardly ever talk to in person. Perhaps this is also why organizers of political discussions find it so difficult to get both sides to the table: because then real people meet, not digitally self-promoting figures."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rs1kba0",
+   "content": {
+    "text": "This development gives me pause for thought."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rrv5pd0",
+   "content": {
+    "text": "The Swiss people's routine of debating substantive issues before referendums and then accepting the decision is actually part of our country's secret to success and contributes significantly to its resilience. Direct participation in public life is a safeguard against all forms of authoritarian tendencies – and a guarantee against the alienation of the population from state institutions, as can currently be observed in Western democracies."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rsdjbv0",
+   "content": {
+    "text": "The idea of ​​direct democracy also includes the militia system: the idea of ​​contributing to the protection of democracy. However, the will to serve has also suffered in Switzerland, even though 20,000 young Swiss men and women enter basic military training every year. My colleague Selina Berner reports on a study that analyzes the Polish approach to preparing the population for a potential war. You can find her article <a data-li-document-ref=\"10020371\" href=\"https://www.nzz.ch/ld.10020371\">online</a> or further down in this newsletter."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rsil6v0",
+   "content": {
+    "text": "Today I also recommend the following from the «NZZ Pro» selection for your reading:"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1k0rsjhnv0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0rsjho00",
+      "content": {
+       "text": "<a href=\"https://www.nzz.ch/wirtschaft/vorbild-trump-im-kampf-gegen-chinas-subventionsflut-wird-in-bruessel-der-ruf-nach-hoeheren-zoellen-lauter-ld.10020232\">Following Trump's example?</a> In the fight against China's flood of subsidies, calls for higher tariffs are growing louder in Brussels. An analysis by Daniel Imwinkelried and Matthias Kamp."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0rsn7440",
+      "content": {
+       "text": "<a href=\"https://www.nzz.ch/wie-der-schock-von-911-das-fliegen-sicherer-gemacht-hat-ld.10019389\">How the shock of 9/11 made flying safer.</a> Andreas Späth's contribution to <a href=\"https://www.nzz.ch/pro/25-jahre-9-11\">our series</a> on the consequences of the terrorist attacks 25 years ago."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k0rspi420",
+      "content": {
+       "text": "<a href=\"https://www.nzz.ch/pro/abfangraketen-fehlen-europas-gefaehrliche-verteidigungsluecke-ld.10018958\">Europe's dangerous missile gap.</a> The West lacks interceptor missiles and long-range weapons for the war in Ukraine. The war against Iran is exacerbating this deficit. An analysis by Marco Seliger."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n02i90",
+   "content": {
+    "text": "Even though the political noise sometimes causes headaches, civil debates still take place in our country. I experienced this firsthand as a panelist on Monday evening in Zurich. I discussed the issue with international law professor Urs Saxer and Stephan Rietiker, the president of Pro Switzerland – a staunch supporter of the neutrality initiative."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rtdf040",
+   "content": {
+    "text": "In fact, under Esther Girsberger's guidance, we had a civil discussion. Naturally, there were some rhetorical barbs, but they were based on a mutual interest in each other's arguments – and with respect for each other's experience and expertise. When the polemics subside, that's when things get really interesting. Then we actually have to engage with our political opponents."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rtlbh50",
+   "content": {
+    "text": "Of course, I remain convinced that we must reject this initiative. But after Monday evening's conversation, I understand much better why someone would want to vote for enshrining neutrality in the Federal Constitution. That's called political culture: because grappling with the big questions ultimately strengthens the democratic core of Switzerland – as long as everyone participates."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rtoog60",
+   "content": {
+    "text": "Something else has occurred to me: If we engage with each other in discourse, then we also find common ground, the points on which we agree. Stephan Rietiker and I are convinced that we must tackle the modernization of the army now, even if there is hardly any time left. Because it is about protecting the delicate fabric of our democracy with military force."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rutest1",
+   "content": {
+    "text": "This consensus also convinced the entire room."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0s08vu00",
+   "content": {
+    "text": "By the way: Our next <a target=\"_blank\" href=\"https://abo.nzz.ch/25093009000_nzzlive/\" rel=\"noopener noreferrer\">«NZZ Pro» talk</a> will take place this Friday, August 28, from 12 to 1 p.m. Peter A. Fischer, Baltic correspondent Linda Koponen, and I will be discussing the future of Swiss neutrality. You can register for the free online event <a target=\"_blank\" href=\"https://abo.nzz.ch/25093009000_nzzlive/\" rel=\"noopener noreferrer\">here</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0n2ti40",
+   "content": {
+    "text": "I wish you an insightful read."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0n32170",
+   "content": {
+    "text": "<em>Georg Häsler</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n36nj0",
+   "content": {
+    "text": "If you have any questions, suggestions or criticism, please feel free to write to me at georg.häsler@nzz.ch."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jk0n3ohn0",
+   "content": {
+    "title": "Strategy against Russia: How Poland is making its people more resilient – ​​and what Switzerland can learn from it"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jk0n47bi0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg",
+     "mediaId": "rQuE4u19Zox6",
+     "key": "2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg",
+     "width": 8256,
+     "height": 5504,
+     "mimeType": "image/jpeg",
+     "altText": "WARSAW, POLAND - JUNE 08: Civilians learn how to aim and shoot assault rifles during a one day military training with the 18th Capital Territorial Defense Brigade on June 08, 2024 in Warsaw, Poland. Since the Russian full scale invasion of Ukraine, Poland has introduced the program «Train with the army», a one day training for civilians with army/military professionals where is tough weapon handling, survival rules, close combat, medical assistance, behavior during an alarm and many others. (Photo by Omar Marques/Getty Images)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2156647313"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/20/c4a69e8b-f309-43e5-b588-ccff6b36a89c.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "«Train with the army»: The Polish military offers civilians one-day military training courses.",
+    "source": "Omar Marques / Getty"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jk0n4ij70",
+   "content": {
+    "title": "Geopolitical classification at a glance"
+   },
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n4ij80",
+      "content": {
+       "text": "<strong>In short:</strong> Not only the army, but the entire Polish society should be able to withstand the threat from Russia. Poland is systematically preparing its civilian population for a potential emergency. A new study recommends this model for emulation."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n52s40",
+      "content": {
+       "text": "<strong>Geopolitical assessment:</strong> Poland plays a leading role in protecting liberal democracies from Russian imperial attacks."
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n5ad50",
+      "content": {
+       "text": "<strong>Looking ahead:</strong> Switzerland, with its militia system, has favorable conditions to increase the will to defend itself again as soon as the risk of war increases."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n6hbv0",
+   "content": {
+    "text": "Poland is one of those countries that lie exposed on NATO's eastern flank. The war in the neighboring country is part of everyday life here: <a href=\"https://www.nzz.ch/international/russland-im-blick-in-malbork-schuetzen-polen-und-deutsche-gemeinsam-den-luftraum-vor-gefahren-aus-dem-osten-ld.1929673\">Russian drones and military aircraft</a> invade its airspace, <a href=\"https://www.nzz.ch/international/in-polen-haeufen-sich-gewaltsame-uebergriffe-gegen-ukrainer-ld.10018633\">targeted disinformation</a> fuels political tensions, and the Kremlin doesn't even shy away from <a href=\"https://www.nzz.ch/international/nach-anschlag-auf-schienennetz-polen-macht-russland-verantwortlich-ld.1912343\">acts of sabotage against the railway network</a> towards Ukraine."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd870",
+   "content": {
+    "text": "Warsaw's answer to Russian aggression is large-scale rearmament. Measured by economic output, no other European country spends as much on its army as Poland: over four percent of its gross domestic product – more than the USA."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k0rnj8hf0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/25/f5a87c66-e270-4104-a90b-b513c5131e6e.png",
+     "mediaId": "LHcp9glu9zzc",
+     "key": "2026/08/25/f5a87c66-e270-4104-a90b-b513c5131e6e.png",
+     "width": 1190,
+     "height": 1298,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/f5a87c66-e270-4104-a90b-b513c5131e6e.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8a0",
+   "content": {
+    "text": "However, the rearmament drive is not limited to billions in loans for the army, as an investigation by the geopolitical and security think tank Swiss Institute for Global Affairs shows."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0rnfd8a1",
+   "content": {
+    "title": "Basic military courses for young people"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8a2",
+   "content": {
+    "text": "Poland understands security as a responsibility of society as a whole. The state and private sector are working together to strengthen the population's crisis awareness and individual resilience. For example, by next year the government aims to train around 400,000 citizens in basic defense and crisis response skills. Soldiers teach emergency preparedness and air raid procedures in schools. Young people can spend their holidays in basic military courses; since last year, a shooting course has been mandatory for high school students."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8a3",
+   "content": {
+    "text": "Civil society is also participating: NGOs educate seniors about hybrid threats and attempted fraud. Scouts are legally considered civil protection partners in a crisis. And the influential Catholic Church is developing an action plan for wartime with the Ministry of Interior and the Ministry of Defense."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8b0",
+   "content": {
+    "text": "However, the study states that for about ten years, Poland has had a military auxiliary force of trained civilians — a light infantry, anchored in the regions. It acts as a link between the people and the army."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8b1",
+   "content": {
+    "text": "In Switzerland, such measures probably sound absurd to many today. Marcel Hirsiger, an Eastern Europe expert and lecturer at the University of Applied Sciences Northwestern Switzerland, knows this. He is a study co-author and senior fellow at the Swiss Institute for Global Affairs. In Poland, there is a consensus about the Russian threat, while in Switzerland, this awareness is lacking – even though the neutral country has also fallen victim to cyberattacks and disinformation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k0rng7ut0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/24/903d9dd0-f1d5-4588-b32b-dcc65a3c054c.jpg",
+     "mediaId": "dSwomXICUQ9I",
+     "key": "2026/08/24/903d9dd0-f1d5-4588-b32b-dcc65a3c054c.jpg",
+     "width": 1200,
+     "height": 800,
+     "mimeType": "image/jpeg",
+     "altText": "+++ IMAGE RELEASED FOR IMAGE BOX +++ Marcel Hirsiger Lecturer Contact Phone +41 62 957 20 97 Email marcel.hirsiger@fhnw.ch Address FHNW University of Applied Sciences and Arts Northwestern Switzerland School of Business Riggenbachstrasse 16 4600 Olten",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180203973"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/903d9dd0-f1d5-4588-b32b-dcc65a3c054c.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Marcel Hirsiger",
+    "source": "PD"
+   },
+   "styles": {
+    "image-style": "baukasten-image-portrait"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8b4",
+   "content": {
+    "text": "Switzerland has ideal conditions to make itself resilient as a whole society, Hirsiger says: «Bunkers and the militia principle are still firmly established in Switzerland today – Poland currently has to catch up on that.» Switzerland also has experience with civilian willingness to defend, he notes: During the Second World War, «spiritual national defense» shaped the neutral country. Today, most in politics, business, and society distance themselves from it; the concept is considered outdated. In any case, the small state considers itself a special case in relative security, the Eastern Europe expert observes. The study is intended to spark a discussion and show what a modern, comprehensive security architecture could look like, he adds."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8b5",
+   "content": {
+    "text": "In its first security policy strategy <a href=\"https://www.nzz.ch/pro/sicherheitspolitische-strategie-der-bundesrat-benennt-die-bedrohung-durch-russland-klammert-aber-das-gefaehrlichste-szenario-fuer-die-schweiz-weiter-aus-ld.1916210\">from the end of 2025,</a> the Federal Council also speaks of «comprehensive security» as a goal for Switzerland. One measure to be taken is to strengthen the resilience of citizens, for example through increased information on the situation and emergency planning. However, the lead responsibility always lies with the federal departments, usually the Department of Defence. This is precisely where Hirsiger's criticism comes in: if security remains solely the responsibility of the state and the traditional security institutions, it will not reach many segments of society. Numerous companies, lulled into a false sense of security by the still-strong economy, believe they and their employees are «enormously vulnerable»—without even realizing it."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8c0",
+   "content": {
+    "text": "Poland shows that resilience only emerges from the interaction of the state, business, science, and civil society, Hirsiger says. This insight has matured despite political polarization. Defense Minister Wladyslaw Kosiniak-Kamysz emphasized at the end of 2023 how central the civilian population would be in the event of war. As proof, he cited the example of Ukraine: Kyiv had not fallen in 2022 only because citizens offered determined resistance in the first weeks. According to Hirsiger, they maintained civilian logistics and ensured supplies."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0rnfd8c1",
+   "content": {
+    "title": "Hybrid warfare also making Switzerland vulnerable"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8c2",
+   "content": {
+    "text": "But is Poland, as a NATO country in the East, really the right country for comparison with Switzerland? Hirsiger affirms this. While Switzerland does not have to fear Russian tanks, it does have to fear the Kremlin's hybrid warfare, Hirsiger says: Drones and cyberattacks do not care about national borders and reach Bern as well as Warsaw. «We are just as threatened as everyone else,» he says."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0rnfd8c3",
+   "content": {
+    "text": "The new study proposes concrete steps: for example, an annual national «Resilience Day,» exercises in communities, crisis tests for business and authorities, and more cyber and media literacy in schools. The authors' conclusion: Poland serves as a source of inspiration, but the concept does not have to be copied one-to-one. Civil society, the militia system, and innovative strength were available in Switzerland and were also highly developed depending on the region, the authors conclude. They only needed to be strategically and proactively brought together."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jk0n71h90",
+   "content": {
+    "title": "More on this topic"
+   },
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jk0n71ha0",
+      "content": {
+       "text": "<strong></strong><a href=\"https://www.nzz.ch/pro/schweiz-und-der-globale-krieg-positionierung-trotz-neutralitaet-ld.1851549\">Learning from Poland:</a> How does Switzerland position itself in the global war of Eurasian autocracies against the West?"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-articlelist"
+  },
+  {
+   "identifier": "newsletter_baukasten-articlelist",
+   "id": "doc-1jk0n7v1u0",
+   "content": {
+    "title": "More articles – exclusively for subscribers of «NZZ Pro»"
+   },
+   "containers": {
+    "articlelist-area": [
+     {
+      "identifier": "newsletter_baukasten-article-embed",
+      "id": "doc-1jk0n7v1v0",
+      "content": {
+       "newsletter-article-embed": {
+        "service": "newsletter-article-embed",
+        "params": {
+         "article": {
+          "$ref": "document",
+          "reference": {
+           "id": "10016528"
+          }
+         },
+         "layout": [
+          "article",
+          "fullwidth",
+          "gallery",
+          "alias-teaser"
+         ]
+        },
+        "resolvedValue": {
+         "document": {
+          "metadata": {
+           "germanyRelevant": true,
+           "title": "An island of peace and prosperity – what has made Singapore possible?",
+           "showHeader": true,
+           "owner": "NZZ",
+           "teaserCarouselStyle": "",
+           "language": {
+            "locale": "de",
+            "groupId": "xbwgn0hXmuJBZ8oXZVchj"
+           },
+           "dependencies": {},
+           "authorLine": "Wolfgang Sachsenröder",
+           "editor": "1371769",
+           "seoTitle": "An island of peace and prosperity – what has made Singapore possible?",
+           "seoSocialMediaTitle": "An island of peace and prosperity – what has made Singapore possible?",
+           "teaserImage": {
+            "mediaId": "zNrHpDKlUrHX",
+            "key": "2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg",
+            "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?width=1024&quality=75&auto=webp",
+            "width": 3600,
+            "height": 2391,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": false,
+              "x": 0,
+              "y": 366,
+              "width": 3600,
+              "height": 2025,
+              "name": "16:9",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3600,2025,x0,y366&width=1024&quality=75&auto=webp",
+              "ratio": 1.77778,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3600,2025,x0,y366&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3600,2025,x0,y366&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3600,2025,x0,y366&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3600,2025,x0,y366&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 353,
+              "y": 0,
+              "width": 3188,
+              "height": 2391,
+              "name": "4:3",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3188,2391,x353,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.33333,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3188,2391,x353,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3188,2391,x353,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3188,2391,x353,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3188,2391,x353,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 793,
+              "y": 0,
+              "width": 2391,
+              "height": 2391,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=2391,2391,x793,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=2391,2391,x793,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=2391,2391,x793,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=2391,2391,x793,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=2391,2391,x793,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 1060,
+              "y": 0,
+              "width": 1793,
+              "height": 2391,
+              "name": "3:4",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=1793,2391,x1060,y0&width=1024&quality=75&auto=webp",
+              "ratio": 0.75,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=1793,2391,x1060,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=1793,2391,x1060,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=1793,2391,x1060,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=1793,2391,x1060,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": false,
+              "x": 13,
+              "y": 0,
+              "width": 3587,
+              "height": 2391,
+              "name": "3:2",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3587,2391,x13,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.5,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3587,2391,x13,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3587,2391,x13,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3587,2391,x13,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3587,2391,x13,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly",
+            "teaserCaption": "How can an island nation of just 736 square kilometers become a globally successful player whose gross domestic product dwarfs almost all of its Southeast Asian neighbors? There are lessons to be learned from Singapore's meteoric rise.",
+            "teaserAuthor": "Munshi Ahmed/Bloomberg/Getty"
+           },
+           "teaserAuthor": "Munshi Ahmed/Bloomberg/Getty",
+           "nzzId": "ld.10016528",
+           "readingTime": 420,
+           "slug": "eine-insel-von-frieden-und-wohlstand-was-hat-singapur-moeglich-gemacht",
+           "embeds": {
+            "images": [
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/21/4034879a-cb3f-44ca-ba27-a9bdaa69ef13.jpg?crop=3600,2391,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Pool with a view: Looking at booming Singapore from the roof of the Marina Bay Sands Hotel, 2012.",
+              "author": "Munshi Ahmed/Bloomberg/Getty"
+             }
+            ],
+            "videos": [],
+            "qEmbeds": []
+           },
+           "paywallQuestionOne": "How has Singapore politically integrated its ethnic diversity?",
+           "paywallQuestionTwo": "What economic strategies led to Singapore's success?",
+           "paywallQuestionThree": "What challenges threaten Singapore's future security?",
+           "componentStats": [
+            {
+             "identifier": "article-container",
+             "count": 1
+            },
+            {
+             "identifier": "head",
+             "count": 1
+            },
+            {
+             "identifier": "author-teaser",
+             "count": 1
+            },
+            {
+             "identifier": "image",
+             "count": 1
+            },
+            {
+             "identifier": "paragraph",
+             "count": 18
+            },
+            {
+             "identifier": "subtitle",
+             "count": 3
+            },
+            {
+             "identifier": "quote",
+             "count": 1
+            },
+            {
+             "identifier": "footnote",
+             "count": 1
+            },
+            {
+             "identifier": "sharebox",
+             "count": 1
+            },
+            {
+             "identifier": "related-articles-container",
+             "count": 1
+            },
+            {
+             "identifier": "teaser",
+             "count": 3
+            }
+           ],
+           "characterCount": 9600,
+           "showComments": true,
+           "flag": "Opinion",
+           "breadcrumbs": [
+            {
+             "name": "Opinion",
+             "path": "/meinung"
+            }
+           ],
+           "product": "NZZ.ch",
+           "documentId": 10016528,
+           "contentTypeGroup": "web",
+           "layout": "opinion",
+           "designName": "p:1:1",
+           "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+           "publicationDate": "2026-08-25T03:30:00.000Z",
+           "publicationLastUpdated": "2026-08-25T03:30:00.000Z",
+           "significantUpdate": false,
+           "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+           "nzzArticleSnippet": "Wie kann ein Inselstaat mit lediglich 736 Quadratkilometern zu einem global erfolgreich operierenden Player werden, der mit seinem Bruttoinlandprodukt fast alle südostasiatischen Nachbarn in den Schatten stellt? Von Singapurs steilem Aufstieg wäre zu lernen.",
+           "teaserCaption": "How can an island nation of just 736 square kilometers become a globally successful player whose gross domestic product dwarfs almost all of its Southeast Asian neighbors? There are lessons to be learned from Singapore's meteoric rise.",
+           "nzzAuthors": [
+            {
+             "id": 1371759,
+             "name": "Foreign authors NZZ",
+             "shortName": "AA",
+             "external": true
+            }
+           ],
+           "urlPath": "/meinung/eine-insel-von-frieden-und-wohlstand-was-hat-singapur-moeglich-gemacht-ld.10016528",
+           "url": "/meinung/eine-insel-von-frieden-und-wohlstand-was-hat-singapur-moeglich-gemacht-ld.10016528",
+           "department": {
+            "name": "Opinion",
+            "path": "/meinung",
+            "level": 1
+           },
+           "estimationWordCount": 1364,
+           "premium": true,
+           "leadText": "How can an island nation of just 736 square kilometers become a globally successful player whose gross domestic product dwarfs almost all of its Southeast Asian neighbors? There are lessons to be learned from Singapore's meteoric rise.",
+           "nzzSummaryEN": "- Singapore has evolved into an economic hub, surpassing neighboring countries through strategic choices like export-oriented industrialization, education policies, and corruption-free governance.\n- Social and political success relies on pragmatic policies, ethnic balance, and high levels of security and order, though modern challenges like geopolitical tensions pose new risks.\n- With a strong focus on finances, innovative infrastructure, and social support, Singapore exemplifies political and economic efficiency yet remains controversial for its authoritarian tendencies.",
+           "nzzSummaryDE": "- Thanks to strategic decisions such as export-oriented industrialization, education policy and a corruption-free administration, Singapore has developed into an economic center that leaves its neighboring countries far behind.\n - Social and political success is based on pragmatic policies, ethnic balance and a high level of security and order, although modern challenges such as geopolitical tensions pose new risks.\n With a strong focus on finance, innovative infrastructure and social support, Singapore offers a model of political and economic efficiency, but remains controversial for its authoritarian tendencies.",
+           "nzzSummaryIsAuto": true,
+           "nzzSummaryModel": "gpt-4o-2024-11-20",
+           "nzzPrintTitle": "An island of peace and prosperity",
+           "nzzPrintSubtitle": "The small city-state of Singapore is safe, clean, and prosperous – what has made its success story possible?"
+          },
+          "systemdata": {
+           "version": 455,
+           "projectId": 1,
+           "channelId": 1,
+           "documentId": 10016528,
+           "contentType": "article",
+           "documentType": "article",
+           "title": "An island of peace and prosperity – what has made Singapore possible?",
+           "publicationId": 2482907,
+           "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+           "lastPublicationDate": "2026-08-25T03:30:00.000Z",
+           "updatedAt": "2026-08-25T03:30:00.000Z",
+           "significantPublicationDate": "2026-08-25T03:30:00.000Z",
+           "visiblePublicationDate": "2026-08-25T03:30:00.000Z",
+           "design": {
+            "name": "p:1:1",
+            "version": "423.0.0"
+           }
+          }
+         },
+         "documentIds": [
+          10016528
+         ]
+        }
+       }
+      }
+     },
+     {
+      "identifier": "newsletter_baukasten-article-embed",
+      "id": "doc-1jk0n7v1v1",
+      "content": {
+       "newsletter-article-embed": {
+        "service": "newsletter-article-embed",
+        "params": {
+         "article": {
+          "$ref": "document",
+          "reference": {
+           "id": "10018914"
+          }
+         },
+         "layout": [
+          "article",
+          "fullwidth",
+          "gallery",
+          "alias-teaser"
+         ]
+        },
+        "resolvedValue": {
+         "document": {
+          "metadata": {
+           "germanyRelevant": true,
+           "title": "What happens when even selling books becomes a crime? Hong Kong is experiencing just that",
+           "showHeader": true,
+           "owner": "NZZ",
+           "teaserCarouselStyle": "",
+           "language": {
+            "locale": "de",
+            "groupId": "mGxsovzO29umoVnIw7nDD"
+           },
+           "dependencies": {},
+           "seoTitle": "What happens when selling books becomes a crime? Hong Kong is experiencing this",
+           "seoSocialMediaTitle": "Hong Kong is losing its identity: from crown colony to Chinese province",
+           "teaserImage": {
+            "mediaId": "9LwGJy8rJfdx",
+            "key": "2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg",
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg",
+            "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?width=1024&quality=75&auto=webp",
+            "width": 4500,
+            "height": 3000,
+            "mimeType": "image/jpeg",
+            "crops": [
+             {
+              "isAutomatic": true,
+              "x": 0,
+              "y": 234,
+              "width": 4500,
+              "height": 2531,
+              "name": "16:9",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,2531,x0,y234&width=1024&quality=75&auto=webp",
+              "ratio": 1.77778,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,2531,x0,y234&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,2531,x0,y234&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,2531,x0,y234&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,2531,x0,y234&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": true,
+              "x": 250,
+              "y": 0,
+              "width": 4000,
+              "height": 3000,
+              "name": "4:3",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4000,3000,x250,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.33333,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4000,3000,x250,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4000,3000,x250,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4000,3000,x250,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4000,3000,x250,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": true,
+              "x": 750,
+              "y": 0,
+              "width": 3000,
+              "height": 3000,
+              "name": "1:1",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=3000,3000,x750,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=3000,3000,x750,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=3000,3000,x750,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=3000,3000,x750,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=3000,3000,x750,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": true,
+              "x": 1125,
+              "y": 0,
+              "width": 2250,
+              "height": 3000,
+              "name": "3:4",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=2250,3000,x1125,y0&width=1024&quality=75&auto=webp",
+              "ratio": 0.75,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=2250,3000,x1125,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=2250,3000,x1125,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=2250,3000,x1125,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=2250,3000,x1125,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             },
+             {
+              "isAutomatic": true,
+              "x": 0,
+              "y": 0,
+              "width": 4500,
+              "height": 3000,
+              "name": "3:2",
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0&width=1024&quality=75&auto=webp",
+              "ratio": 1.5,
+              "srcSet": [
+               {
+                "width": 2048,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0&width=2048&quality=75&auto=webp"
+               },
+               {
+                "width": 1024,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0&width=1024&quality=75&auto=webp"
+               },
+               {
+                "width": 620,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0&width=620&quality=75&auto=webp"
+               },
+               {
+                "width": 320,
+                "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0&width=320&quality=75&auto=webp"
+               }
+              ]
+             }
+            ],
+            "imageService": "fastly",
+            "teaserCaption": "Psychogram of a city on the verge of losing its soul.",
+            "teaserAuthor": "Chan Long Hei / AP"
+           },
+           "teaserAuthor": "Chan Long Hei / AP",
+           "editor": "1533538",
+           "seoDescription": "Psychological portrait of a city on the verge of losing its soul",
+           "nzzId": "ld.10018914",
+           "readingTime": 540,
+           "slug": "was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das",
+           "embeds": {
+            "images": [
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/c676eaa0-f41d-4077-a541-bde3156b04a3.jpg?crop=4500,3000,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Under fire: Former local politician and bookseller Leticia Wong was in prison. Now she is free on bail.",
+              "author": "Chan Long Hei / AP"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/4bd2e1c0-68e6-4d0f-b9e0-2bf35556b9d7.jpg?crop=4157,2771,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "The shelves of Hunter Bookstore held works such as George Orwell's «Animal Farm» and biographies of Chinese party officials.",
+              "author": "Lam Yik / Reuters"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/4c7b0c91-bc22-4943-985a-924bd451011c.jpg?crop=4183,2789,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Hong Kong authorities accuse the owners of Hunter Bookstore of selling books that incite sedition. The National Security Law introduced by Beijing gives them free rein.",
+              "author": "Lam Yik / Reuters"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/10a26160-a8b5-41c4-b808-a6a86b6d4ae3.jpg?crop=5500,3668,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Former journalists had opened the Have A Nice Stay bookstore. Now the store is closed.",
+              "author": "Tyrone Siu / Reuters"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/fa0a1e34-0c0d-4a69-8254-5481a64b7bed.jpg?crop=4000,2675,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Dickson Chau (right) and two other leaders of the League of Social Democrats announced last June that they had to dissolve their party.",
+              "author": "Anthony Kwan / Getty"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/ca5859bb-2611-4e2e-b50c-4a21a91dafdd.jpg?crop=4651,3101,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "In the Central financial district, too, young people protested against their government in the summer of 2019.",
+              "author": "Sawayasu Tsuji/Getty"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/a96b1d0d-90bd-4a9a-ab66-9cab47a5f342.jpg?crop=5500,3668,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Tourists from mainland China are truly taking over Hong Kong. Not all Hong Kongers like it.",
+              "author": "Tyrone Siu / Reuters"
+             },
+             {
+              "url": "https://img-msp-prod.nzz.ch/2026/08/17/814b53a0-3bbb-4433-8cab-e77333af7745.jpg?crop=4000,2667,x0,y0&width=1024&quality=75&auto=webp",
+              "caption": "Journalist Ronson Chan, former chairman of the Hong Kong Journalists Association, reported live from the mass protests in 2019. Now he runs a YouTube channel and interviews prominent figures. But he has to think carefully about every word.",
+              "author": "Anthony Kwan / Getty"
+             }
+            ],
+            "videos": [],
+            "qEmbeds": []
+           },
+           "paywallQuestionOne": "How does the security law affect freedom of expression in Hong Kong?",
+           "paywallQuestionTwo": "Why are bookstores in Hong Kong being targeted by the authorities?",
+           "paywallQuestionThree": "What are the consequences of the political developments for Hong Kong's identity?",
+           "componentStats": [
+            {
+             "identifier": "article-container",
+             "count": 1
+            },
+            {
+             "identifier": "head",
+             "count": 1
+            },
+            {
+             "identifier": "author-teaser",
+             "count": 1
+            },
+            {
+             "identifier": "image",
+             "count": 8
+            },
+            {
+             "identifier": "paragraph",
+             "count": 33
+            },
+            {
+             "identifier": "subtitle",
+             "count": 7
+            },
+            {
+             "identifier": "sharebox",
+             "count": 1
+            },
+            {
+             "identifier": "related-articles-container",
+             "count": 1
+            },
+            {
+             "identifier": "teaser",
+             "count": 3
+            }
+           ],
+           "characterCount": 11584,
+           "showComments": true,
+           "breadcrumbs": [
+            {
+             "name": "International",
+             "path": "/international"
+            }
+           ],
+           "product": "NZZ.ch",
+           "documentId": 10018914,
+           "contentTypeGroup": "web",
+           "layout": "longformstandard",
+           "designName": "p:1:1",
+           "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+           "publicationDate": "2026-08-25T03:30:00.000Z",
+           "publicationLastUpdated": "2026-08-25T03:30:00.000Z",
+           "significantUpdate": false,
+           "significantUpdateTill": "2026-08-25T15:30:00.000Z",
+           "nzzArticleSnippet": "Psychogramm einer Stadt, die im Begriff ist, ihre Seele zu verlieren.",
+           "teaserCaption": "Psychogram of a city on the verge of losing its soul.",
+           "nzzAuthors": [
+            {
+             "id": 1373189,
+             "name": "Matthias Kamp",
+             "shortName": "mka",
+             "pianoId": "9e391cde-1179-42dd-ac32-121590fd59f7",
+             "external": false
+            }
+           ],
+           "authorLine": "Matthias Kamp, Hong Kong, Beijing",
+           "authorImage": {
+            "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png",
+            "url": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+            "width": 800,
+            "height": 800,
+            "mimeType": "image/png",
+            "imageService": "fastly",
+            "mediaId": "Ef-hAVkVVFMg",
+            "crop": {
+             "name": "1:1",
+             "x": 0,
+             "y": 0,
+             "width": 800,
+             "height": 800
+            },
+            "key": "2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png",
+            "crops": []
+           },
+           "nzzAuthorProfileDataCollection": [
+            {
+             "documentId": 1497895,
+             "name": "Matthias Kamp, Hong Kong, Beijing",
+             "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp"
+            }
+           ],
+           "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/09/14/238146b3-b9c6-4e92-94fc-466bddc340d8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+           "urlPath": "/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+           "url": "/international/was-passiert-wenn-selbst-buecher-verkaufen-zum-verbrechen-wird-hongkong-erlebt-genau-das-ld.10018914",
+           "department": {
+            "name": "International",
+            "path": "/international",
+            "level": 1
+           },
+           "estimationWordCount": 1831,
+           "premium": true,
+           "leadText": "Psychogram of a city on the verge of losing its soul.",
+           "nzzSummaryEN": "- Bookstores in Hong Kong are under scrutiny; several owners have been arrested for allegedly selling \"seditious works.\"\n- The national security law grants authorities extensive powers, silencing nearly all critical voices.\n- Since the 2019 protests, Hong Kong has undergone significant political shifts, with around 200,000 residents leaving the city.",
+           "nzzSummaryDE": "- Bookshops in Hong Kong are under attack; several owners have been arrested for allegedly selling «seditious works». - The national security law gives authorities sweeping powers, effectively silencing critical voices. - Since the 2019 protests, Hong Kong has undergone a dramatic political transformation, with around 200,000 residents leaving the city.",
+           "nzzSummaryIsAuto": true,
+           "nzzSummaryModel": "gpt-4o-2024-11-20",
+           "nzzPrintTitle": "When selling books becomes a crime",
+           "nzzPrintSubtitle": "Psychological portrait of a city on the verge of losing its soul"
+          },
+          "systemdata": {
+           "version": 2534,
+           "projectId": 1,
+           "channelId": 1,
+           "documentId": 10018914,
+           "contentType": "article",
+           "documentType": "article",
+           "title": "What happens when even selling books becomes a crime? Hong Kong experiences just that",
+           "publicationId": 2482929,
+           "firstPublicationDate": "2026-08-25T03:30:00.000Z",
+           "lastPublicationDate": "2026-08-25T03:30:00.000Z",
+           "updatedAt": "2026-08-25T03:30:00.000Z",
+           "significantPublicationDate": "2026-08-25T03:30:00.000Z",
+           "visiblePublicationDate": "2026-08-25T03:30:00.000Z",
+           "design": {
+            "name": "p:1:1",
+            "version": "423.0.0"
+           }
+          }
+         },
+         "documentIds": [
+          10018914
+         ]
+        }
+       }
+      },
+      "styles": {
+       "teaser-type": "teaser--small"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jk0n9sd40",
+   "content": {
+    "text": "All articles from «NZZ Pro» can be read at <a href=\"https://www.nzz.ch/pro\">www.nzz.ch/pro</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-articlelist",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jk0na1ef0",
+   "content": {
+    "text": "Do you have feedback on «NZZ Pro»? Write to us at <a href=\"mailto:proglobal@nzz.ch\">pro@nzz.ch.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654594"
+   }
+  },
+  "title": "What Switzerland can learn from Poland",
+  "owner": "NZZ",
+  "dependencies": {},
+  "issueDate": "2026-08-25T00:00:00.000Z",
+  "nzzId": "ld.10020887",
+  "product": "NZZ.ch",
+  "documentId": 10020887,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-25T08:54:06.102Z",
+  "publicationDate": "2026-08-25T08:54:06.102Z",
+  "publicationLastUpdated": "2026-08-25T08:54:06.102Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-25T20:54:06.102Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10020887",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10020887",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2483338,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020887",
+    "name": "What Switzerland can learn from Poland",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "What Switzerland can learn from Poland",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-25T08:54:06.102Z",
+     "updateTimestamp": "2026-08-25T08:54:06.102Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020887",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "What Switzerland can learn from Poland | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "What Switzerland can learn from Poland, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-25T12:54:06+02:00",
+  "date": "2026-08-25T12:54:06+02:00",
+  "canonical": "https://www.nzz.ch/ld.10020887",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "What Switzerland can learn from Poland",
+  "ogTitle": "What Switzerland can learn from Poland | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10020887",
+  "mrf:cms_id": "nzz:ld.10020887",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020887",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10020887"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:25 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "What Switzerland can learn from Poland"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10020887"
+   },
+   "headline": "What Switzerland can learn from Poland | NZZ",
+   "datePublished": "2026-08-25T12:54:06+02:00",
+   "dateModified": "2026-08-25T12:54:06+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10020887",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020887"
+   ],
+   "ContentCreated": "2026-08-25T08:54:06.102Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10020887",
+   "heading": "Was die Schweiz von Polen lernen kann",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

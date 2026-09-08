@@ -1,0 +1,1031 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1jvo1sqdv1",
+   "content": {
+    "title": "Solar power: Misunderstood and over-subsidized?",
+    "lead": "Photovoltaic systems are first subsidized, then declared mandatory under the Energy Act, and from 2027, owners will pay for the right to feed electricity into the grid. It is not surprising that doubts about the Energy Strategy are emerging.",
+    "authorline": "Christof Bucher",
+    "author": "Christof Bucher"
+   },
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1ee1lrh0",
+   "content": {
+    "image": {
+     "author": "Gaetan Bally / Keystone",
+     "caption": "The installed photovoltaic capacity is now about three times greater than that of all Swiss nuclear power plants combined. The image shows the solar facade of the Kenova waste incineration plant in Zuchwil.",
+     "originalUrl": "/2026/09/01/76d33ef6-6b84-4967-b6b7-073d9b29da58.jpg?crop=5907,3938,x0,y0",
+     "width": 5907,
+     "height": 3938,
+     "altText": "Exterior view of the Kenova waste incineration plant, featuring extensive concrete construction and a solar facade, photographed on Tuesday, June 2, 2026, in Zurchwil. The Kenova AG waste incineration plant processes approximately 605 tons of waste per day. The waste originates from the catchment area around Solothurn, encompassing a total of 178 municipalities. Kenova generates heat for approximately 12,000 households and electricity for 45,000 households through this incineration process (KEYSTONE/Gaetan Bally)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180345628"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5907,
+      "height": 3938,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5907,
+       "height": 3938,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The installed photovoltaic capacity is now about three times greater than that of all Swiss nuclear power plants combined. The image shows the solar facade of the Kenova waste incineration plant in Zuchwil.",
+    "author": "Gaetan Bally / Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8fp0",
+   "content": {
+    "text": "Photovoltaic systems are the fastest-growing source of electricity in Switzerland, not only throughout the year but also during the winter half. The systems newly installed on rooftops in 2024 alone produce approximately 400 GWh of winter electricity annually. This roughly corresponds to the amount of energy that Elcom has defined on average as a hydropower reserve for the winter."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-e3b4879c",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8fr0",
+   "content": {
+    "text": "Regardless of whether a winter is characterized by dark doldrums or prolonged periods of snowfall, these systems can contribute to supply security by ensuring that reservoirs have an additional energy reserve of approximately 400 GWh available in spring. The fact that this may differ in practice is due to energy trading. Nevertheless, the sun remains our most reliable energy source in the annual balance."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvo20q5q0",
+   "content": {
+    "title": "Flawed thinking on both sides",
+    "id": "subtitle-denkfehler-h-ben-und-dr-ben"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8ft0",
+   "content": {
+    "text": "Solar power thus has the potential to make a significant contribution to Switzerland's electricity supply even in winter. With a share of more than 15% of annual electricity demand, photovoltaics have advanced to third place among the most important electricity sources, after hydro and nuclear power, within just a few years. With more than 10 GW of installed capacity, Swiss photovoltaic systems already form the country's most powerful power plant, largely operated as a single unit by the sun."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8fv0",
+   "content": {
+    "text": "The installed photovoltaic capacity is now about three times greater than that of all Swiss nuclear power plants combined. Most of the approximately 400,000 systems feed their electricity into the grid without capacity control. For several hours, current solar power production already exceeds Switzerland's total electricity demand."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8g30",
+   "content": {
+    "text": "These are not good conditions for the quadrupling of photovoltaic capacity, as envisaged by the Energy Strategy. Solar power is no longer the untouchable beacon of hope it once was, which could enjoy priority feed-in and remain exempt from all grid and system stability requirements. Various larger distribution grid operators and the Association of Swiss Electricity Companies (VSE) report that rooftop photovoltaics are significantly driving grid expansion. They point to high investments that would be necessary to integrate the amount of solar power planned in the Energy Strategy into the grid."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8g60",
+   "content": {
+    "text": "In doing so, they make the same mistake as the uncompromising supporters of photovoltaics, who demand high feed-in tariffs and suspect an attack on renewable energies in every grid integration measure. Both sides overlook the fact that photovoltaics have now reached a level of maturity where a future without adapting the rules of the game would inevitably lead to system problems. Whether the distribution grids are expanded for this purpose or not plays only a minor role from the perspective of the overall system."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8g70",
+   "content": {
+    "text": "A look at the electrical capacities illustrates the dimension of the challenge: the currently installed 10 GW of photovoltaic capacity is expected to grow to more than 40 GW in the medium term. And this in an electricity system whose maximum demand barely exceeds 10 GW. With approximately 3.5 GW of pumping capacity, pumped-storage power plants change the picture only marginally. Exporting these surpluses abroad is also not a realistic solution, because the sun shines in our neighboring countries at the same time as it does here, and they too are increasingly relying on photovoltaics."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jvo1t8g90",
+   "content": {
+    "title": "Control at the feed-in point",
+    "id": "subtitle-steuerung-am-einspeisepunkt"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8ga0",
+   "content": {
+    "text": "The only sensible way to handle future solar power capacities is to control them at the feed-in point. It is not about dictating to owners how they should use their solar power, but about avoiding unnecessary infrastructure for rarely needed peak capacities. According to a study by the Bern University of Applied Sciences and Swissgrid, with 30 GW of photovoltaic capacity, a grid connection of 40% of the system's capacity already provides almost the entire economic benefit of feed-in."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8ga1",
+   "content": {
+    "text": "In certain circles, this finding triggers a different reaction: they say we already have enough photovoltaics and could simply solve the problem by stopping expansion. That is true insofar as the side effects of a medication also disappear when it is discontinued. But do we therefore forgo treatment?"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8gb1",
+   "content": {
+    "text": "Photovoltaics is and remains the best horse we have in the stable for the next decades of the energy transition. Solar power is manageable if it is correctly integrated into the system. This is also shown in Swissgrid's recently published White Paper. We therefore need both framework conditions that promote the further expansion of photovoltaic systems and measures that limit uncontrolled grid feed-in. Passing on market price signals to system operators, as planned from 2027, is an important step in this direction."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvo1t8gd0",
+   "content": {
+    "text": "This also resolves the contradiction mentioned at the outset: building more systems, but not being allowed to feed in at all times, is part of the reality of a functioning electricity system with a high proportion of solar power. It is the task of politicians, authorities, and associations to ensure that photovoltaic systems continue to be built in accordance with the popular mandate and that they simultaneously support rather than destabilize our electricity system."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1jvo1t8ge0",
+   "content": {
+    "text": "<strong>Christof Bucher</strong> is a professor of photovoltaic systems at the Bern University of Applied Sciences."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jvo1sqdv5",
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "comments-preview"
+  },
+  {
+   "identifier": "comments-preview",
+   "id": "doc-848a47e0",
+   "content": {
+    "showComments": true,
+    "visibleCommentCount": 12,
+    "openToComment": false,
+    "newestTopComments": [
+     {
+      "author_name": "",
+      "text": "",
+      "created_at": "2026-09-02T21:49:10.309Z",
+      "like_count": 0,
+      "isPro": false,
+      "isNzz": false
+     },
+     {
+      "author_name": "Verena Schorn",
+      "text": "The notion that nuclear power plants provide energy continuously, summer and winter, could prove to be a misconception. This summer, a nuclear power plant had to be shut down due to a lack of water. This could happen again in the future.",
+      "created_at": "2026-09-02T20:28:57.945Z",
+      "like_count": 0,
+      "isPro": true,
+      "isNzz": false
+     }
+    ],
+    "confirmed": true
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Solar power: Misunderstood and over-subsidized?",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "authorLine": "Christof Bucher",
+  "flag": "Guest opinion",
+  "editor": "1373665",
+  "teaserImage": {
+   "originalUrl": "/2026/09/01/76d33ef6-6b84-4967-b6b7-073d9b29da58.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/76d33ef6-6b84-4967-b6b7-073d9b29da58.jpg?width=1024&quality=75&auto=webp",
+   "width": 5907,
+   "height": 3938,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "5907,3323,x0,y615"
+    },
+    {
+     "name": "4:3",
+     "crop": "5251,3938,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "3938,3938,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2954,3938,x118,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5907,3938,x0,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Photovoltaic systems are first subsidized, then declared mandatory under the Energy Act, and from 2027, owners will pay for the right to feed electricity into the grid. It is not surprising that doubts about the Energy Strategy are emerging.",
+   "teaserAuthor": "Gaetan Bally / Keystone"
+  },
+  "teaserAuthor": "Gaetan Bally / Keystone",
+  "nzzId": "ld.10019058",
+  "readingTime": 240,
+  "characterCount": 5457,
+  "showComments": true,
+  "breadcrumbs": [
+   {
+    "name": "Opinion",
+    "path": "/meinung"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10019058,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-09-02T03:25:00.000Z",
+  "publicationDate": "2026-09-02T03:25:00.000Z",
+  "publicationLastUpdated": "2026-09-02T04:02:30.544Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-02T15:25:00.000Z",
+  "teaserCaption": "Photovoltaic systems are first subsidized, then declared mandatory under the Energy Act, and from 2027, owners will pay for the right to feed electricity into the grid. It is not surprising that doubts about the Energy Strategy are emerging.",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "url": "/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058",
+  "department": {
+   "name": "Opinion",
+   "path": "/meinung"
+  },
+  "estimationWordCount": 784,
+  "leadText": "Photovoltaic systems are first subsidized, then declared mandatory under the Energy Act, and from 2027, owners will pay for the right to feed electricity into the grid. It is not surprising that doubts about the Energy Strategy are emerging.",
+  "nzzSummaryEN": "- The installed photovoltaic capacity in Switzerland has surpassed 10 GW, triple the capacity of nuclear power plants, making it the third most important energy source.\n- Uncontrolled solar power feed-in causes system challenges; from 2027, market price signals will be introduced for system operators.\n- Clear regulations are needed to support both the expansion of photovoltaic systems and grid stability.",
+  "nzzSummaryDE": "- Installed photovoltaic capacity in Switzerland has increased to over 10 GW, exceeding the capacity of nuclear power plants threefold. It now represents the third most important source of electricity.\n - The uncontrolled feed-in of solar power into the grid leads to system problems, which is why market price signals are to be passed on to plant operators from 2027 onwards.\n - Clear framework conditions are needed that both promote the expansion of photovoltaic systems and ensure grid stability.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "print",
+  "nzzPrintSubtitle": "print",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058",
+   "title": "Photovoltaics 2027: new rules and their consequences for solar power",
+   "socialMediaTitle": "Misunderstood and over-subsidized? The debate surrounding solar energy",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/01/76d33ef6-6b84-4967-b6b7-073d9b29da58.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5907,3323,x0,y615&wmark=nzz"
+  },
+  "ldPublicationId": 2487362,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Energy Act",
+    "slug": "/themen/energiegesetz"
+   },
+   {
+    "name": "climate policy",
+    "slug": "/themen/klimapolitik"
+   }
+  ],
+  "comments": {
+   "showComments": true,
+   "visibleCommentCount": 12,
+   "openToComment": false,
+   "newestTopComments": [
+    {
+     "author_name": "",
+     "text": "",
+     "created_at": "2026-09-02T21:49:10.309Z",
+     "like_count": 0,
+     "isPro": false,
+     "isNzz": false
+    },
+    {
+     "author_name": "Verena Schorn",
+     "text": "The notion that nuclear power plants provide energy continuously, summer and winter, could prove to be a misconception. This summer, a nuclear power plant had to be shut down due to a lack of water. This could happen again in the future.",
+     "created_at": "2026-09-02T20:28:57.945Z",
+     "like_count": 0,
+     "isPro": true,
+     "isNzz": false
+    }
+   ],
+   "confirmed": true
+  },
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 352608,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "energiegesetz",
+   "name": "Energy Act",
+   "tagName": "Energy Act",
+   "qId": "Q15808099",
+   "seoTitle": "Energy Act – All articles and information about the vote in Zurich | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 15:03:29.813Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/energiegesetz",
+   "size": 74,
+   "relatedTopics": [
+    {
+     "name": "Klimapolitik",
+     "slug": "/themen/klimapolitik"
+    }
+   ]
+  },
+  "data": [
+   {
+    "flag": "Explained",
+    "title": "How quickly will oil and gas heating systems be phased out? The Zurich Energy Act at a glance",
+    "teaserImage": {
+     "originalUrl": "/2021/9/30/85e13d04-668c-4853-aeb1-29427db02d65.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/9/30/85e13d04-668c-4853-aeb1-29427db02d65.png?width=1024&quality=75&auto=webp",
+     "width": 3601,
+     "height": 2027,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3601,2026,x0,y1"
+      },
+      {
+       "name": "1:1",
+       "crop": "2027,2027,x787,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "On November 28th, voters in the canton will decide on new regulations for heat generation in buildings. What this means for replacing fossil fuel-based heating systems.",
+     "teaserAuthor": "Illustration: Joana Kelén / NZZ"
+    },
+    "teaserAuthor": "Illustration: Joana Kelén / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1647998",
+    "readingTime": 420,
+    "authorLine": "Stefan Hotz",
+    "characterCount": 9256,
+    "product": "NZZ.ch",
+    "documentId": "1647998",
+    "layout": "regular",
+    "publicationDate": "2021-09-30T14:53:58.800Z",
+    "publicationLastUpdated": "2021-11-22T16:16:28.687Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2021-10-01T02:53:58.800Z",
+    "teaserCaption": "On November 28th, voters in the canton will decide on new regulations for heat generation in buildings. What this means for replacing fossil fuel-based heating systems.",
+    "url": "https://www.nzz.ch/zuerich/abstimmung-28-november-in-zuerich-energiegesetz-auf-einen-blick-ld.1647998",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1307,
+    "leadText": "On November 28th, voters in the canton will decide on new regulations for heat generation in buildings. What this means for replacing fossil fuel-based heating systems.",
+    "hasQ": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "Mandatory solar panels for large roofs and higher electricity prices for end consumers – Zurich government brings alpine solar express to the lowlands",
+    "teaserImage": {
+     "originalUrl": "/2024/02/08/70e93cf4-e557-4c6c-a464-3327f4485d82.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/02/08/70e93cf4-e557-4c6c-a464-3327f4485d82.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4538,
+     "height": 3025,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4538,2553,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1492,1492,x2074,y453"
+      },
+      {
+       "name": "4:3",
+       "crop": "3585,2689,x415,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2269,3025,x661,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3586,2390,x750,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Citizens fear more bureaucracy and a higher financial burden for citizens and businesses.",
+     "teaserAuthor": "Salvatore Di Nolfi / Keystone"
+    },
+    "teaserAuthor": "Salvatore Di Nolfi / Keystone",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1918965",
+    "readingTime": 300,
+    "authorLine": "Tobias Marti",
+    "characterCount": 6618,
+    "product": "NZZ.ch",
+    "documentId": "1918965",
+    "layout": "regular",
+    "publicationDate": "2026-01-07T04:00:00.000Z",
+    "publicationLastUpdated": "2026-01-07T04:00:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-01-07T16:00:00.000Z",
+    "teaserCaption": "Citizens fear more bureaucracy and a higher financial burden for citizens and businesses.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/04/26/0d7a6216-461c-4946-ae1a-b253bb984261.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/solarpflicht-auf-grossen-daechern-und-hoehere-strompreise-fuer-endverbraucher-zuercher-regierung-bringt-alpinen-solarexpress-ins-flachland-ld.1918965",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 935,
+    "leadText": "Citizens fear more bureaucracy and a higher financial burden for citizens and businesses.",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "For Green Party government councilor Martin Neukom, the clear rejection by Zurich residents of «net zero» by 2040 does not mean a departure from climate protection",
+    "teaserImage": {
+     "originalUrl": "/2023/07/27/04cadfce-66ab-4965-8ebb-efc4742191a0.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/07/27/04cadfce-66ab-4965-8ebb-efc4742191a0.jpeg?width=1024&quality=75&auto=webp",
+     "width": 5568,
+     "height": 3712,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5568,3132,x0,y580"
+      },
+      {
+       "name": "1:1",
+       "crop": "2317,2317,x1167,y1395"
+      },
+      {
+       "name": "4:3",
+       "crop": "4949,3712,x619,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2475,3299,x2718,y413"
+      },
+      {
+       "name": "3:2",
+       "crop": "5568,3712,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The population rejects the energy law by a surprisingly clear margin of around 60 percent.",
+     "teaserAuthor": "Annick Ramp / NZZ"
+    },
+    "teaserAuthor": "Annick Ramp / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1904438",
+    "readingTime": 180,
+    "authorLine": "Zeno Geisseler, Jan Hudec",
+    "characterCount": 3333,
+    "product": "NZZ.ch",
+    "documentId": "1904438",
+    "layout": "regular",
+    "publicationDate": "2025-09-28T13:39:32.716Z",
+    "publicationLastUpdated": "2025-09-28T16:20:53.512Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2025-09-29T01:39:32.716Z",
+    "teaserCaption": "The population rejects the energy law by a surprisingly clear margin of around 60 percent.",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/2c002991-68b5-4889-ab98-797a16a4e487.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/netto-null-nicht-schon-2040-der-kanton-zuerich-lehnt-strengere-klimagesetze-ab-ld.1904438",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 529,
+    "leadText": "The population rejects the energy law by a surprisingly clear margin of around 60 percent.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Opinion",
+    "title": "A net-zero target by 2040 is not \"ambitious\" but utopian – and potentially dangerous.",
+    "teaserImage": {
+     "originalUrl": "/2025/09/19/ed2a3d7c-4c3b-44e7-86a6-81f29b899394.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/09/19/ed2a3d7c-4c3b-44e7-86a6-81f29b899394.jpg?width=1024&quality=75&auto=webp",
+     "width": 6982,
+     "height": 4655,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6982,3927,x0,y174"
+      },
+      {
+       "name": "1:1",
+       "crop": "2906,2906,x3518,y526"
+      },
+      {
+       "name": "4:3",
+       "crop": "6207,4655,x388,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3491,4655,x1745,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6982,4655,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The people of Zurich are voting on a stricter energy law. This special train is unnecessary.",
+     "teaserAuthor": "Jean-Christophe Bott / Keystone"
+    },
+    "teaserAuthor": "Jean-Christophe Bott / Keystone",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1903182",
+    "readingTime": 180,
+    "showComments": true,
+    "authorLine": "Daniel Fritzsche",
+    "characterCount": 3951,
+    "product": "NZZ.ch",
+    "documentId": "1903182",
+    "layout": "opinion",
+    "publicationDate": "2025-09-20T03:00:00.000Z",
+    "publicationLastUpdated": "2025-09-20T07:14:55.173Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-09-20T15:00:00.000Z",
+    "teaserCaption": "The people of Zurich are voting on a stricter energy law. This special train is unnecessary.",
+    "authorImage": {
+     "originalUrl": "/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+     "width": 320,
+     "height": 320,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "320,320,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/meinung/ein-netto-null-ziel-bis-zum-jahr-2040-ist-nicht-sportlich-sondern-utopisch-und-potenziell-gefaehrlich-ld.1903182",
+    "department": {
+     "name": "Opinion",
+     "path": "/meinung"
+    },
+    "estimationWordCount": 602,
+    "leadText": "The people of Zurich are voting on a stricter energy law. This special train is unnecessary.",
+    "commentsCount": 18,
+    "openToComment": false
+   },
+   {
+    "owner": "NZZ",
+    "title": "Martin Neukom, Zurich's climate minister, wanted «higher, faster, further». Then political reality set in",
+    "teaserImage": {
+     "originalUrl": "/2025/08/11/d7eddc59-5c70-4182-afd4-5a418256fe66.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/08/11/d7eddc59-5c70-4182-afd4-5a418256fe66.jpg?width=1024&quality=75&auto=webp",
+     "width": 3768,
+     "height": 5652,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2352,1323,x666,y1033"
+      },
+      {
+       "name": "1:1",
+       "crop": "1031,1031,x1364,y1059"
+      },
+      {
+       "name": "4:3",
+       "crop": "3768,2826,x0,y911"
+      },
+      {
+       "name": "3:4",
+       "crop": "3768,5023,x0,y629"
+      },
+      {
+       "name": "3:2",
+       "crop": "3768,2512,x0,y857"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The green wave swept Zurich's climate minister into office. What is he doing now that it has subsided?",
+     "teaserAuthor": "Andrea Zahler / CH Media"
+    },
+    "teaserAuthor": "Andrea Zahler / CH Media",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1897333",
+    "readingTime": 540,
+    "authorLine": "Jan Hudec",
+    "characterCount": 12487,
+    "product": "NZZ.ch",
+    "documentId": "1897333",
+    "layout": "longformstandard",
+    "publicationDate": "2025-08-28T14:58:00.000Z",
+    "publicationLastUpdated": "2025-08-28T17:28:01.858Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-08-29T02:58:00.000Z",
+    "teaserCaption": "The green wave swept Zurich's climate minister into office. What is he doing now that it has subsided?",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/cb7a3f14-3e30-40d9-9ada-b6b34dd449fd.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/kaempft-gegen-ende-der-klima-welle-martin-neukom-gruener-regierungsrat-in-zuerich-ld.1897333",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 1865,
+    "leadText": "The green wave swept Zurich's climate minister into office. What is he doing now that it has subsided?",
+    "nzzSummaryIsAuto": true
+   },
+   {
+    "owner": "NZZ",
+    "title": "The Zurich government council recommends rejecting the stricter energy law – a slap in the face for Martin Neukom",
+    "teaserImage": {
+     "originalUrl": "/2021/11/4/83277f85-e9dd-4c29-9321-004ff98137df.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2021/11/4/83277f85-e9dd-4c29-9321-004ff98137df.jpeg?width=1024&quality=75&auto=webp",
+     "width": 2975,
+     "height": 1983,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2644,1487,x146,y446"
+      },
+      {
+       "name": "1:1",
+       "crop": "429,429,x936,y533"
+      },
+      {
+       "name": "4:3",
+       "crop": "2089,1567,x332,y392"
+      },
+      {
+       "name": "3:4",
+       "crop": "1044,1393,x627,y544"
+      },
+      {
+       "name": "3:2",
+       "crop": "2351,1567,x0,y365"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The government unexpectedly published its slogan in the voting newspaper. This move has caused resentment.",
+     "teaserAuthor": "Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Simon Tanner / NZZ",
+    "nzzasFootnote": false,
+    "folioFootnote": false,
+    "language": {
+     "locale": "de-CH"
+    },
+    "nzzId": "ld.1894074",
+    "readingTime": 240,
+    "authorLine": "Zeno Geisseler",
+    "characterCount": 4869,
+    "product": "NZZ.ch",
+    "documentId": "1894074",
+    "layout": "regular",
+    "publicationDate": "2025-07-18T03:03:00.000Z",
+    "publicationLastUpdated": "2025-07-18T05:55:18.628Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-07-18T15:03:00.000Z",
+    "teaserCaption": "The government unexpectedly published its slogan in the voting newspaper. This move has caused resentment.",
+    "url": "https://www.nzz.ch/zuerich/energiegesetz-zuerich-regierungsrat-empfiehlt-ueberraschend-ablehnung-ld.1894074",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 719,
+    "leadText": "The government unexpectedly published its slogan in the voting newspaper. This move has caused resentment.",
+    "nzzSummaryIsAuto": true
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10019058",
+    "name": "Solar power: Misunderstood and over-subsidized?",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Meinung",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Solar power: Misunderstood and over-subsidized?",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1371759,
+       "name": "Auswärtige Autoren NZZ",
+       "shortName": "AA",
+       "external": true
+      }
+     ],
+     "issueTimestamp": "2026-09-02T03:25:00.000Z",
+     "updateTimestamp": "2026-09-02T04:02:30.544Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Guest opinion",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10019058",
+   "pageType": "regular",
+   "primaryCategory": "Meinung",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Photovoltaics 2027: new rules and their consequences for solar power",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/01/76d33ef6-6b84-4967-b6b7-073d9b29da58.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5907,3323,x0,y615&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "author": "Christof Bucher",
+  "description": "Photovoltaic systems are first subsidized, then declared mandatory under the Energy Act, and from 2027, owners will pay for the right to feed electricity into the grid. It is not surprising that doubts about the Energy Strategy are emerging.",
+  "news_keywords": "Solar power: misunderstood and over-subsidized?, Guest commentary, Opinion, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T08:02:30+02:00",
+  "date": "2026-09-02T07:25:00+02:00",
+  "canonical": "https://www.nzz.ch/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "GUEST COMMENTARY - Solar power: misunderstood and over-subsidized?",
+  "ogTitle": "Misunderstood and over-subsidized? The debate surrounding solar energy",
+  "ogUrl": "https://www.nzz.ch/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058",
+  "mrf:cms_id": "nzz:ld.10019058",
+  "mrf:sections": "Meinung",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10019058",
+  "nzzAuthors": [
+   {
+    "id": 1371759,
+    "name": "Auswärtige Autoren NZZ",
+    "shortName": "AA",
+    "external": true
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:03:44 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/meinung",
+      "name": "Opinion"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Photovoltaics 2027: new rules and their consequences for solar power"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058"
+   },
+   "headline": "Photovoltaics 2027: new rules and their consequences for solar power",
+   "datePublished": "2026-09-02T07:25:00+02:00",
+   "dateModified": "2026-09-02T08:02:30+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Photovoltaic systems are first subsidized, then declared mandatory under the Energy Act, and from 2027, owners will pay for the right to feed electricity into the grid. It is not surprising that doubts about the Energy Strategy are emerging.",
+   "isAccessibleForFree": false,
+   "articleSection": "Meinung",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/01/76d33ef6-6b84-4967-b6b7-073d9b29da58.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5907,3323,x0,y615&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Foreign authors NZZ"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 352608,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/meinung/solarstrom-missverstanden-und-kaputtgefoerdert-ld.10019058",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "gastkommentar",
+    "comments=true",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10019058",
+    "channel=Meinung"
+   ],
+   "ContentCreated": "2026-09-02T03:25:00.000Z",
+   "ContentAuthor": "Christof Bucher",
+   "ContentSection": "Meinung",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie beeinflusst die Photovoltaik die Netzstabilität in der Schweiz?\nWelche Herausforderungen bringt die geplante Vervierfachung der Solarstromleistung?\nWie soll die Steuerung von Solarstrom am Einspeisepunkt umgesetzt werden?",
+   "ldId": "ld.10019058",
+   "channel": "Meinung",
+   "heading": "Solarstrom: missverstanden und kaputtgefördert?",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

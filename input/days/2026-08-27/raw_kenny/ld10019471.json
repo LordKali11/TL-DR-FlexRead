@@ -1,0 +1,1200 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1e31qmmv90",
+   "content": {
+    "title": "Metal avalanche on the Brenner: Tyrolean resistance against traffic",
+    "lead": "Millions of vehicles roll over the Brenner Pass in Tyrol every year. The traffic is so burdensome for the narrow valley that resistance is forming. Our correspondent was on site.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-Oh7NWTjsHZ",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Simon Schaffer",
+       "url": "/impressum/simon-schaffer-ld.1764445",
+       "teaserImage": {
+        "originalUrl": "/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "audio-url",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "audio-url",
+   "id": "doc-1e6eonbvp0",
+   "content": {
+    "image": {
+     "author": "Simon Schaffer with Meret Baumann",
+     "caption": "",
+     "originalUrl": "/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1024",
+     "width": 3000,
+     "height": 3000,
+     "altText": "Brenner accent",
+     "imageService": "fastly"
+    },
+    "audioname": "Metal avalanche on the Brenner: Tyrolean resistance against traffic",
+    "author": "Simon Schaffer with Meret Baumann",
+    "audiosrc": {
+     "service": "podigee-audio-url",
+     "params": {
+      "src": "https://audio.podigee-cdn.net/2579724-m-bebdb412487ccefa540f289c6049cec4.mp3"
+     }
+    },
+    "duration": 1003.1281632653062,
+    "caption": ""
+   },
+   "data": {
+    "_audiosrcDirective": {},
+    "_audionameDirective": {
+     "highlightedTextRanges": {
+      "-BDBwfzsvJaD": {
+       "start": 0,
+       "end": 48,
+       "text": "Syria: Why people in Raqqa miss ISIS"
+      },
+      "Kxry9Asdnbo7": {
+       "start": 0,
+       "end": 73,
+       "text": "Attack in Berlin: How the rule of law makes life easy for terrorists"
+      },
+      "00ekiZvMeFic": {
+       "start": 74,
+       "end": 74,
+       "text": ""
+      }
+     }
+    },
+    "_dateDirective": {},
+    "_authorDirective": {}
+   },
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-2dbe4353",
+   "identifier": "barrier",
+   "prevElement": "audio-url",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1e6gu5akk0",
+   "content": {
+    "text": "<em>Listen and subscribe to the podcast «NZZ Akzent» on <a href=\"https://open.spotify.com/show/4uoTZbK8rBcVAzAk5f7tIr?si=Qog1qTM4ROaG-fzLBxIgNA\">Spotify,</a> <a href=\"https://podcasts.apple.com/ch/podcast/nzz-akzent/id1506761994\">Apple Podcasts,</a> or <a href=\"https://castbox.fm/channel/NZZ-Akzent-id2982237\">Castbox.</a></em><a href=\"https://podcasts.apple.com/ch/podcast/nzz-corona-podcast/id1506761994\"></a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1e31r87h90",
+   "content": {
+    "title": "In this podcast episode",
+    "id": "subtitle-in-dieser-podcast-episode"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvts5usr0",
+   "content": {
+    "text": "At the end of May, more than 4,000 people marched on the Brenner highway in Tyrol. They paralyzed traffic. The «traffic jam of the century» some feared for the Whitsun weekend was prevented, but the participants of the demonstration certainly captured the attention of many."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jvtsaa960",
+   "content": {
+    "text": "Especially in Germany, the Brenner is a synonym for holidays in Italy for many. It is the last stage that must be completed, preferably without traffic jams or slow-moving traffic. But that is becoming increasingly difficult. «The numbers continue to rise,» explains Austria correspondent Meret Baumann. She was in the Wipptal, through which the A 13 runs, and says that the protest drew attention to the situation of the residents, but the so-called «traffic jam refugees» still come. The diversion traffic from the congested highway brings noise, hardly any paying customers, and severely impedes the people in Matrei or Gries am Brenner. Even ambulances often do not reach their destination."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1icgi7ejd1",
+   "content": {
+    "text": "<em>All episodes of «NZZ Akzent» can be found in <a href=\"http://www.nzz.ch/podcast/akzent\">this overview</a>.</em>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1fab2afhl0",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1iclmqfrm0",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jqjb0hku0",
+      "content": {
+       "title": "European Traffic Jam through Tyrol: Sometimes the only way to escape the Brenner bottleneck is by air bridge",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "tags": [
+        "Europa"
+       ],
+       "teaserImage": {
+        "originalUrl": "/2026/08/03/49f0c729-d603-40a7-a5a3-4ebad396165b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/03/49f0c729-d603-40a7-a5a3-4ebad396165b.jpg?width=1024&quality=75&auto=webp",
+        "width": 8640,
+        "height": 5760,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "8640,4860,x0,y400"
+         },
+         {
+          "name": "4:3",
+          "crop": "7680,5760,x960,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "5760,5760,x707,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "4320,5760,x0,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "8640,5759,x0,y1"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Millions of vehicles cross the lowest pass in the Alps every year. Traffic shapes life along the Brenner motorway – but now resistance is forming.",
+        "teaserAuthor": "Jöran Steinsiek / Imago"
+       },
+       "teaserAuthor": "Jöran Steinsiek / Imago",
+       "nzzId": "ld.10015874",
+       "readingTime": 600,
+       "paywallQuestionOne": "How does transit traffic affect life in Tyrol?",
+       "paywallQuestionTwo": "What measures are the Tyroleans demanding to combat the traffic avalanche?",
+       "paywallQuestionThree": "Can the Brenner Base Tunnel solve the traffic problem?",
+       "characterCount": 12408,
+       "product": "NZZ.ch",
+       "documentId": 10015874,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-07T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-07T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-07T15:30:00.000Z",
+       "teaserCaption": "Millions of vehicles cross the lowest pass in the Alps every year. Traffic shapes life along the Brenner motorway – but now resistance is forming.",
+       "authorLine": "Meret Baumann, Matrei and Gries am Brenner",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/europaeische-blechlawine-durch-tirol-manchmal-entkommt-man-dem-stau-am-brenner-nur-per-luftbruecke-ld.10015874",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 2033,
+       "leadText": "Millions of vehicles cross the lowest pass in the Alps every year. Traffic shapes life along the Brenner motorway – but now resistance is forming.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1joldbsfg0",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Piombino is discussing this: How expensive can a beach lounger be?",
+       "teaserImage": {
+        "originalUrl": "/2025/08/15/611a1be7-9028-4000-acfc-0432d5fd42d6.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/08/15/611a1be7-9028-4000-acfc-0432d5fd42d6.jpg?width=1024&quality=75&auto=webp",
+        "width": 5340,
+        "height": 3560,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4747,2670,x593,y652"
+         },
+         {
+          "name": "1:1",
+          "crop": "1096,1096,x2107,y2464"
+         },
+         {
+          "name": "4:3",
+          "crop": "4220,3164,x1120,y327"
+         },
+         {
+          "name": "3:4",
+          "crop": "1667,2222,x1037,y1242"
+         },
+         {
+          "name": "3:2",
+          "crop": "4747,3164,x593,y396"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "8,000 euros for the concession, 260,000 euros in revenue from guests: A beach resort in Italy is a lucrative business. This is also fueling the dispute over the price of a sun lounger in the Tuscan seaside resort.",
+        "teaserAuthor": "Antonio Gravante / Imago"
+       },
+       "teaserAuthor": "Antonio Gravante / Imago",
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1897567",
+       "readingTime": 180,
+       "authorLine": "Almut Siefert",
+       "characterCount": 2856,
+       "product": "NZZ.ch",
+       "documentId": 1897567,
+       "layout": "regular",
+       "publicationDate": "2025-08-16T19:45:00.000Z",
+       "publicationLastUpdated": "2025-08-16T19:45:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-08-17T07:45:00.000Z",
+       "teaserCaption": "8,000 euros for the concession, 260,000 euros in revenue from guests: A beach resort in Italy is a lucrative business. This is also fueling the dispute over the price of a sun lounger in the Tuscan seaside resort.",
+       "url": "/international/darueber-spricht-piombino-wie-teuer-darf-die-strandliege-sein-ld.1897567",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 507,
+       "leadText": "8,000 euros for the concession, 260,000 euros in revenue from guests: A beach resort in Italy is a lucrative business. This is also fueling the dispute over the price of a sun lounger in the Tuscan seaside resort.",
+       "nzzSummaryIsAuto": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "germanyRelevant": true,
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "title": "Metal avalanche on the Brenner: Tyrolean resistance against traffic",
+  "teaserImage": {
+   "originalUrl": "/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1024&quality=75&auto=webp",
+   "width": 3000,
+   "height": 3000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3000,1687,x0,y1313"
+    },
+    {
+     "name": "4:3",
+     "crop": "3000,2250,x0,y540"
+    },
+    {
+     "name": "1:1",
+     "crop": "3000,3000,x0,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2250,3000,x375,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "3000,2000,x0,y993"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Millions of vehicles roll over the Brenner Pass in Tyrol every year. The traffic is so burdensome for the narrow valley that resistance is forming. Our correspondent was on site."
+  },
+  "flag": "Podcast «NZZ Akzent»",
+  "tags": [
+   "Strassenverkehr",
+   "Mobilität aktuell"
+  ],
+  "nzzId": "ld.10019471",
+  "readingTime": 60,
+  "characterCount": 1274,
+  "breadcrumbs": [
+   {
+    "name": "Podcast",
+    "path": "/podcast"
+   },
+   {
+    "name": "accent",
+    "path": "/podcast/akzent"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10019471,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-27T10:12:11.615Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+  "teaserCaption": "Millions of vehicles roll over the Brenner Pass in Tyrol every year. The traffic is so burdensome for the narrow valley that resistance is forming. Our correspondent was on site.",
+  "nzzAuthors": [
+   {
+    "id": 1727730,
+    "name": "Simon Schaffer",
+    "shortName": "ssi",
+    "pianoId": "5153d3de-b43b-43fd-8fd4-7f40bf9cdf20",
+    "external": false
+   }
+  ],
+  "authorLine": "Simon Schaffer",
+  "authorImage": {
+   "originalUrl": "/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1764445,
+    "name": "Simon Schaffer (ssi.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/11/07/365d2686-4ac2-4558-8616-7fb15fe2eeb6.png?width=1024&quality=75&auto=webp",
+  "url": "/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471",
+  "department": {
+   "name": "accent",
+   "path": "/podcast/akzent"
+  },
+  "estimationWordCount": 248,
+  "leadText": "Millions of vehicles roll over the Brenner Pass in Tyrol every year. The traffic is so burdensome for the narrow valley that resistance is forming. Our correspondent was on site.",
+  "nzzSummaryEN": "- Millions of vehicles cross the Brenner Pass annually, causing significant traffic issues and strain on the narrow Tyrolean valley.\n- At the end of May, over 4,000 people protested on the Brenner motorway to highlight the impact of diverted traffic and the difficult situation for residents in places like Matrei and Gries.",
+  "nzzSummaryDE": "- Millions of vehicles cross the Brenner Pass every year, leading to significant traffic problems and strain on the narrow valley in Tyrol.\n - At the end of May, over 4000 people protested on the Brenner motorway to draw attention to the effects of the diverted traffic and the difficult situation of local residents, for example in Matrei and Gries.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The traffic jam: Tyrol's fight against traffic collapse",
+  "nzzPrintSubtitle": "Tyroleans block Brenner motorway: Protest against traffic avalanche.",
+  "teaserPodcastTitle": "Traffic jam at the Brenner Pass: Tyrolean resistance to traffic ",
+  "teaserPodcastAuthor": "Simon Schaffer mit Meret Baumann",
+  "teaserPodcastDate": "21.08.2026",
+  "teaserPodcastUrl": "https://audio.podigee-cdn.net/2579724-m-bebdb412487ccefa540f289c6049cec4.mp3",
+  "teaserPodcastDuration": "17",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471",
+   "title": "Brenner Pass: Protest against traffic jams in Tyrol",
+   "socialMediaTitle": "Traffic jam at the Brenner Pass: Resistance to the traffic is growing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y1313&wmark=nzz"
+  },
+  "ldPublicationId": 2484505,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Austria",
+    "slug": "/themen/osterreich"
+   },
+   {
+    "name": "Italy",
+    "slug": "/themen/italien"
+   },
+   {
+    "name": "European Court of Justice (ECJ)",
+    "slug": "/themen/europaischer-gerichtshof"
+   },
+   {
+    "name": "Germany",
+    "slug": "/themen/deutschland"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10015874",
+    "ld.1897567"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": false,
+  "locale": "de-CH",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "osterreich",
+   "name": "Austria",
+   "tagName": "Austria",
+   "qId": "Q40",
+   "seoTitle": "Austria – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "LOC",
+   "createdDate": "2025-04-08 18:01:48.362Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/osterreich",
+   "size": 711,
+   "relatedTopics": [
+    {
+     "name": "Italien",
+     "slug": "/themen/italien"
+    },
+    {
+     "name": "Europäischer Gerichtshof (EuGH)",
+     "slug": "/themen/europaischer-gerichtshof"
+    },
+    {
+     "name": "Deutschland",
+     "slug": "/themen/deutschland"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "«Switzerland is also a strategic target for Russia»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserAuthor": "Diego Fedele / Getty",
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/1e828ab3-c33d-47a3-87af-992514986a7a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/1e828ab3-c33d-47a3-87af-992514986a7a.jpg?width=1024&quality=75&auto=webp",
+     "width": 4405,
+     "height": 2937,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4405,2478,x0,y459"
+      },
+      {
+       "name": "4:3",
+       "crop": "3916,2937,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2937,2937,x217,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2203,2937,x720,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4405,2937,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+     "teaserAuthor": "Diego Fedele / Getty"
+    },
+    "nzzId": "ld.10020535",
+    "readingTime": 540,
+    "paywallQuestionOne": "How vulnerable is Switzerland to Russian attack plans?",
+    "paywallQuestionTwo": "Why does neutrality offer no protection in the event of war?",
+    "paywallQuestionThree": "What measures does Switzerland need by 2029?",
+    "characterCount": 12716,
+    "product": "NZZ.ch",
+    "documentId": "10020535",
+    "layout": "regular",
+    "publicationDate": "2026-09-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-03T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T15:30:00.000Z",
+    "teaserCaption": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+    "authorLine": "Meret Baumann, Selina Berner",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/auch-die-schweiz-ist-fuer-russland-ein-strategisches-ziel-ld.10020535",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 1898,
+    "leadText": "Small states cannot defend themselves alone in the 21st century, says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in times of war and what makes Putin so dangerous for Europe.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Work with Islamist individuals deemed a threat in Austria under suspicion of extremism",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/f9195df4-2b8d-4165-a96a-c0f33b22aace.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/f9195df4-2b8d-4165-a96a-c0f33b22aace.jpg?width=1024&quality=75&auto=webp",
+     "width": 3216,
+     "height": 2225,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3216,1809,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2967,2225,x189,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2225,2225,x718,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1669,2225,x1037,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3216,2144,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The government is terminating the contract of an organization tasked with deradicalizing Islamists in prisons. Experts see this abrupt action as a security risk.",
+     "teaserAuthor": "Leonhard Foeger / Reuters"
+    },
+    "teaserAuthor": "Leonhard Foeger / Reuters",
+    "tags": [
+     "Europa"
+    ],
+    "editor": "1900563",
+    "nzzId": "ld.10021735",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why is Austria abruptly ending its cooperation with Derad?",
+    "paywallQuestionTwo": "What criticism do experts have of the government's approach?",
+    "paywallQuestionThree": "How will the care of radicalized individuals be ensured in the future?",
+    "characterCount": 4110,
+    "product": "NZZ.ch",
+    "documentId": "10021735",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T03:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T15:30:00.000Z",
+    "teaserCaption": "The government is terminating the contract of an organization tasked with deradicalizing Islamists in prisons. Experts see this abrupt action as a security risk.",
+    "authorLine": "Meret Baumann, Vienna",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/0ae19a9d-3bad-48bc-886b-1bfee061e0e8.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/international/oesterreichs-staatsschutz-ortet-einfluss-der-muslimbrueder-auf-deradikalisierung-ld.10021735",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 594,
+    "leadText": "The government is terminating the contract of an organization tasked with deradicalizing Islamists in prisons. Experts see this abrupt action as a security risk.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "«Why should we sacrifice the right to asylum if we can control irregular migration without breaking the law?» asks migration researcher Gerald Knaus",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "interview",
+    "teaserImage": {
+     "originalUrl": "/2026/08/31/5378d714-b68c-4171-ab4f-e0683e5fd48a.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/5378d714-b68c-4171-ab4f-e0683e5fd48a.jpg?width=1024&quality=75&auto=webp",
+     "width": 1600,
+     "height": 2240,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1600,900,x0,y133"
+      },
+      {
+       "name": "4:3",
+       "crop": "1600,1200,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1600,1600,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1600,2133,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1600,1067,x0,y3"
+      }
+     ],
+     "focalPoint": {
+      "x": 773,
+      "y": 536
+     },
+     "imageService": "fastly",
+     "teaserCaption": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+     "teaserAuthor": "Olesia Ponomarenko"
+    },
+    "teaserAuthor": "Olesia Ponomarenko",
+    "editor": "1629317",
+    "paywallQuestionOne": "How can Europe control irregular migration without sacrificing the right to asylum?",
+    "paywallQuestionTwo": "Are secure agreements with third countries a solution to the migration problem?",
+    "paywallQuestionThree": "Why is violence not a sustainable solution for border control in democracies?",
+    "nzzId": "ld.10021725",
+    "readingTime": 360,
+    "characterCount": 7987,
+    "product": "NZZ.ch",
+    "documentId": "10021725",
+    "layout": "longformstandard",
+    "publicationDate": "2026-09-01T02:30:00.000Z",
+    "publicationLastUpdated": "2026-09-01T04:08:48.552Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-01T14:30:00.000Z",
+    "teaserCaption": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+    "authorLine": "Beatrice Achterberg",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/02/02/bac65a52-2f61-46af-bf38-aba408bfa0a4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/deutschland/warum-sollten-wir-das-asylrecht-opfern-wenn-wir-irregulaere-migration-kontrollieren-koennen-ohne-recht-zu-brechen-fragt-migrationsforscher-gerald-knaus-ld.10021725",
+    "department": {
+     "name": "Homepage (Germany)",
+     "path": "/deutschland"
+    },
+    "estimationWordCount": 1182,
+    "leadText": "The migration expert explains why Europe needs control over irregular migration — and why a hardline approach is no more a solution than symbolic policies at the borders.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/255d5ecc-03ae-4621-80e7-63507018d49b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/255d5ecc-03ae-4621-80e7-63507018d49b.jpg?width=1024&quality=75&auto=webp",
+     "width": 8256,
+     "height": 5504,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8256,4644,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "7339,5503,x917,y1"
+      },
+      {
+       "name": "1:1",
+       "crop": "5504,5503,x2179,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "3101,4135,x3150,y41"
+      },
+      {
+       "name": "3:2",
+       "crop": "5639,3759,x2009,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Alexander Muhm, currently head of SBB Cargo, is considered by railway experts to be the most capable candidate to succeed CEO Vincent Ducrot. His drawback: He comes from Austria.",
+     "teaserAuthor": "Bruno Kissling / CH Media"
+    },
+    "teaserAuthor": "Bruno Kissling / CH Media",
+    "title": "A Viennese at the helm of the SBB? The national railway company could experience a first in its anniversary year",
+    "nzzId": "ld.10020109",
+    "readingTime": 300,
+    "paywallQuestionOne": "How will Alexander Muhm's background affect his chances of becoming CEO?",
+    "paywallQuestionTwo": "What role does industry expertise play in the selection of the new SBB CEO?",
+    "paywallQuestionThree": "Should the SBB (Swiss Federal Railways) be more actively involved in the planning of railway expansion projects?",
+    "characterCount": 6998,
+    "nzzasFootnote": true,
+    "product": "NZZ.ch",
+    "documentId": "10020109",
+    "layout": "regular",
+    "publicationDate": "2026-08-29T19:56:09.196Z",
+    "publicationLastUpdated": "2026-08-29T20:04:07.129Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T07:56:09.196Z",
+    "teaserCaption": "Alexander Muhm, currently head of SBB Cargo, is considered by railway experts to be the most capable candidate to succeed CEO Vincent Ducrot. His drawback: He comes from Austria.",
+    "authorLine": "Thomas Schlittler",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/05/22/57fbc417-3f95-4a1a-a501-51e4a25cb1ca.jpg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/ein-oesterreicher-an-der-sbb-spitze-die-bundesbahnen-koennten-im-jubilaeumsjahr-ein-novum-erleben-ld.10020109",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1064,
+    "leadText": "Alexander Muhm, currently head of SBB Cargo, is considered by railway experts to be the most capable candidate to succeed CEO Vincent Ducrot. His drawback: He comes from Austria.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "From mass immigration to «minus migration»: Austria reports more departures than asylum applications for the first time",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Georg Renner, Vienna",
+    "teaserImage": {
+     "originalUrl": "/2023/11/01/087572f5-49c3-4abb-8ec8-82d9d4c53c06.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2023/11/01/087572f5-49c3-4abb-8ec8-82d9d4c53c06.jpeg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y139"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x141,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x751,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1439,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Reduction also homegrown: returnees receive money; family reunification suspended. Vienna also benefits from pan-European trend: fewer asylum applications",
+     "teaserAuthor": "EPA"
+    },
+    "teaserAuthor": "EPA",
+    "editor": "1371759",
+    "nzzId": "ld.10021445",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the EU Asylum Pact influence Austria's migration policy?",
+    "paywallQuestionTwo": "What measures led to the «negative net migration» in Austria?",
+    "paywallQuestionThree": "What is the justification for the criticism of the official emigration figures?",
+    "characterCount": 4226,
+    "product": "NZZ.ch",
+    "documentId": "10021445",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T11:43:03.520Z",
+    "publicationLastUpdated": "2026-08-28T11:43:03.520Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T23:43:03.520Z",
+    "teaserCaption": "Reduction also homegrown: returnees receive money; family reunification suspended. Vienna also benefits from pan-European trend: fewer asylum applications",
+    "url": "https://www.nzz.ch/international/oesterreich-erreicht-2026-erstmals-negative-asyl-bilanz-ld.10021445",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 674,
+    "leadText": "Reduction also homegrown: returnees receive money; family reunification suspended. Vienna also benefits from pan-European trend: fewer asylum applications",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "How can irregular migration to Europe be stopped, Gerald Knaus?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Podcast «NZZ Machtspiel»",
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/6950034f-d34f-4a67-b016-353b7b348c1c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/6950034f-d34f-4a67-b016-353b7b348c1c.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y596"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y375"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x616,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y361"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "He is one of the most renowned migration researchers in the German-speaking world. Austrian Gerald Knaus wants to outsource asylum procedures to «safe third countries.» In «NZZ Machtspiel,» Knaus explains how this is supposed to work."
+    },
+    "editor": "10006019",
+    "nzzId": "ld.10020751",
+    "readingTime": 60,
+    "paywallQuestionOne": "How can safe third countries prevent irregular migration?",
+    "paywallQuestionTwo": "Why does Gerald Knaus describe border controls as «theatrical politics»?",
+    "paywallQuestionThree": "How does Knaus view the right to asylum as part of European identity?",
+    "characterCount": 1913,
+    "product": "NZZ.ch",
+    "documentId": "10020751",
+    "layout": "regular",
+    "publicationDate": "2026-08-27T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-27T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+    "teaserCaption": "He is one of the most renowned migration researchers in the German-speaking world. Austrian Gerald Knaus wants to outsource asylum procedures to «safe third countries.» In «NZZ Machtspiel,» Knaus explains how this is supposed to work.",
+    "authorLine": "",
+    "url": "https://www.nzz.ch/podcast/machtspiel/wie-kann-man-irregulaere-migration-nach-europa-beenden-gerald-knaus-ld.10020751",
+    "department": {
+     "name": "Power play",
+     "path": "/podcast/machtspiel"
+    },
+    "estimationWordCount": 297,
+    "leadText": "He is one of the most renowned migration researchers in the German-speaking world. Austrian Gerald Knaus wants to outsource asylum procedures to «safe third countries.» In «NZZ Machtspiel,» Knaus explains how this is supposed to work.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "How can irregular migration to Europe be stopped, Gerald Knaus?",
+    "teaserPodcastAuthor": "Beatrice Achterberg, Gerald Knaus",
+    "teaserPodcastDate": "27.08.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2580263-m-be0e60780fdf7c2424d5fd82a219f3cb.mp3",
+    "teaserPodcastDuration": "36",
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10019471",
+    "name": "Metal avalanche on the Brenner: Tyrolean resistance against traffic",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Podcast",
+    "subCategory1": "Akzent",
+    "attributes": {
+     "headline": "Metal avalanche on the Brenner: Tyrolean resistance against traffic",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1727730,
+       "name": "Simon Schaffer",
+       "shortName": "ssi",
+       "pianoId": "5153d3de-b43b-43fd-8fd4-7f40bf9cdf20",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:30:00.000Z",
+     "updateTimestamp": "2026-08-27T10:12:11.615Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Podcast «NZZ Akzent»",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10019471",
+   "pageType": "regular",
+   "primaryCategory": "Podcast",
+   "subCategory1": "Akzent",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Brenner Pass: Protest against traffic jams in Tyrol",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y1313&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Simon Schaffer",
+  "description": "Millions of vehicles roll over the Brenner Pass in Tyrol every year. The traffic is so burdensome for the narrow valley that resistance is forming. Our correspondent was on site.",
+  "news_keywords": "Traffic jam at the Brenner Pass: Tyrolean resistance against the traffic, podcast «NZZ Akzent», Akzent, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T14:12:11+02:00",
+  "date": "2026-08-27T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "PODCAST «NZZ AKZENT» - Traffic jam at the Brenner Pass: Tyrolean resistance against traffic",
+  "ogTitle": "Traffic jam at the Brenner Pass: Resistance to the traffic is growing",
+  "ogUrl": "https://www.nzz.ch/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471",
+  "mrf:cms_id": "nzz:ld.10019471",
+  "mrf:sections": "Podcast;Akzent",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10019471",
+  "nzzAuthors": [
+   {
+    "id": 1727730,
+    "name": "Simon Schaffer",
+    "shortName": "ssi",
+    "pianoId": "5153d3de-b43b-43fd-8fd4-7f40bf9cdf20",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:14 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/podcast",
+      "name": "Podcast"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/podcast/akzent",
+      "name": "accent"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Brenner Pass: Protest against traffic jams in Tyrol"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471"
+   },
+   "headline": "Brenner Pass: Protest against traffic jams in Tyrol",
+   "datePublished": "2026-08-27T07:30:00+02:00",
+   "dateModified": "2026-08-27T14:12:11+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Millions of vehicles roll over the Brenner Pass in Tyrol every year. The traffic is so burdensome for the narrow valley that resistance is forming. Our correspondent was on site.",
+   "isAccessibleForFree": false,
+   "articleSection": "Akzent",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y1313&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Simon Schaffer"
+    }
+   ],
+   "inLanguage": "de"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "AudioObject",
+   "@id": "https://www.nzz.ch/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471#id-doc-1e6eonbvp0",
+   "inLanguage": "de-CH",
+   "name": "Metal avalanche on the Brenner: Tyrolean resistance against traffic",
+   "author": "Simon Schaffer with Meret Baumann",
+   "contentUrl": {
+    "service": "podigee-audio-url",
+    "params": {
+     "src": "https://audio.podigee-cdn.net/2579724-m-bebdb412487ccefa540f289c6049cec4.mp3"
+    }
+   },
+   "thumbnailUrl": "https://img-msp-prod.nzz.ch/2026/08/13/1a8e4e79-26d4-41f2-ab3d-3abdafd36426.jpg?width=1024&quality=75&auto=webp?width=120&height=120&fit=bound&quality=75&auto=webp",
+   "timeRequired": "PT0H16M43S"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/podcast/akzent/blechlawine-am-brenner-der-tiroler-widerstand-gegen-den-verkehr-ld.10019471",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "podcast-«nzz-akzent»",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10019471",
+    "channel=Podcast"
+   ],
+   "ContentCreated": "2026-08-27T03:30:00.000Z",
+   "ContentAuthor": "Simon Schaffer",
+   "ContentSection": "Podcast",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie wirkt sich der Verkehr am Brenner auf die Anwohner aus?\nWelche Massnahmen werden gegen den Ausweichverkehr ergriffen?\nWie effektiv war der Protest auf der Brenner-Autobahn?",
+   "ldId": "ld.10019471",
+   "channel": "Podcast",
+   "subChannel": "Akzent",
+   "heading": "Blechlawine am Brenner: der Tiroler Widerstand gegen den Verkehr",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

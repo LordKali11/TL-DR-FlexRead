@@ -1,0 +1,672 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjhab5ln0",
+   "content": {
+    "subject": "Muni Max wird zum Problemfall",
+    "preheader": "Widerstand gegen Holzskulptur in Uri"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-a5958f3d",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-block-small"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-block-small",
+   "id": "doc-1jjhacc230",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/31/b9ed125b-1d61-448c-90e7-fad5e838e68b.png",
+     "mediaId": "qyXaCRIqq5oG",
+     "key": "2026/08/31/b9ed125b-1d61-448c-90e7-fad5e838e68b.png",
+     "width": 1467,
+     "height": 1467,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/31/b9ed125b-1d61-448c-90e7-fad5e838e68b.png?width=1024&quality=75&auto=webp"
+    },
+    "authorname": "by Erich Aschwanden",
+    "authorrole": "Chief Domestic Reporter"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhab5ln8",
+   "content": {
+    "text": "A year ago, the Swiss National Wrestling and Alpine Festival (ESAF) took place in Mollis (GL). Many Swiss people remember the event not primarily for the sporting competition, but for the bull Max."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-block-small",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0upoo970",
+   "content": {
+    "text": "Thousands of visitors wanted to see the 182-ton wooden sculpture outside the sawdust ring, a sculpture that even made headlines beyond the state's borders. But now there's controversy surrounding Max the Uristier, as the sculpture is now known."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhads170",
+   "content": {
+    "title": "Extended hibernation for the bull Max"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjhae2570",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/e4916692-6e65-46c4-9fc1-2c4743e122fe.jpg",
+     "mediaId": "4HgdUByBLWL2",
+     "key": "2026/09/02/e4916692-6e65-46c4-9fc1-2c4743e122fe.jpg",
+     "width": 6796,
+     "height": 4531,
+     "mimeType": "image/jpeg",
+     "altText": "KEYPIX - Muni Max and the prize tent of the 2025 Swiss Wrestling and Alpine Festival Glarnerland+, on Friday, August 15, 2025, in Mollis. (KEYSTONE/Gian Ehrenzeller)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2173200262"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/e4916692-6e65-46c4-9fc1-2c4743e122fe.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "The symbol of the Swiss Wrestling and Alpine Festival is not welcome by everyone in Andermatt.",
+    "source": "Gian Ehrenzeller / Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhae7fe0",
+   "content": {
+    "text": "The way the secret star of the Esaf found a new home already drew criticism in fall 2026. Glarus residents, for instance, had wanted to keep Max, and other cantons also showed great interest in the high-profile landmark. However, the bull eventually left Eastern Switzerland."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1bnt0ua1",
+   "content": {
+    "text": "The canton of Uri won the bid among numerous competitors. It was able to play two trump cards at once: first, its cantonal coat of arms features a bull's head; second, the Gotthard canton has an influential string-puller in investor Samih Sawiris. The entrepreneur, who built a tourism resort with multiple hotels, vacation homes, and apartments in Andermatt, was not the main financier but pulled many strings behind the scenes."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1bo1et50",
+   "content": {
+    "text": "Within just a few days, the association «Max the Ural Bull» was founded. The organization, comprised of well-known local politicians and businesspeople, provided 1.3 million Swiss francs for the purchase of the wooden colossus. Project managers estimate the total cost for reconstruction and operation at the new location at approximately 1.85 million Swiss francs."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1bnvg9e1",
+   "content": {
+    "text": "Max the Aurochs is to be permanently installed in the Nätschen area above Andermatt. There, he is intended to become a tourist attraction. The 21-meter-high and 36-meter-wide sculpture will house sparkling crystals and other exhibits on four levels. In addition, the top level will be transformed into a sun terrace with mountain views."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gu7clm0",
+   "content": {
+    "text": "But whether these plans will ever become reality is currently uncertain. While the transport, involving 32 trucks, went smoothly in September 2025, the project has stalled since then. The promoters' original intention to erect the wooden bull before the winter of 2026 proved far too optimistic."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1bog4741",
+   "content": {
+    "text": "The necessary building permit was not issued by the Andermatt authorities via a fast-track procedure, as the Max the Uri Bull association had envisioned. Max faces headwinds. Resistance comes primarily from various environmental organizations, which are demanding a legally correct and transparent procedure for the project."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1boj2lj0",
+   "content": {
+    "text": "Not all residents of Andermatt are happy about the idea of ​​placing a giant bull practically on their doorstep. The Ursern Valley (Bärental) actually features a bear in its coat of arms, while the bull is the heraldic animal of the canton of Uri (Unterland). There is a healthy rivalry between the two parts of the canton."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1boiub31",
+   "content": {
+    "text": "Besides these identity issues, the financial aspect is also causing a stir: In April of this year, the Uri cantonal government, together with the federal government, approved a total of 100,000 Swiss francs in funding for the planning concept as part of the New Regional Policy (NRP). The Social Democratic Party (SP) and the Green Party described the canton's financial contribution as «incomprehensible.» They criticize the fact that the Andermatt destination does not need to improve its marketing."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1bq5t0r1",
+   "content": {
+    "text": "All of this has consequences. It is now clear that Bull Max will have to remain stored in individual parts in Erstfeld for another winter. On Wednesday, the Max the Uri Bull association announced that the start of construction would be postponed until spring 2027. The reasons for this are the ongoing procedures for the building permit and clarification of the neighborhood development plan."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gnl61d0",
+   "content": {
+    "text": "These proceedings are being hampered by several objections. Among others, the Central Swiss Heritage Society is opposing the association's plans. Given these delays, the society writes that a subsequent construction phase before winter is no longer realistic. After all, the planned site is located at almost 2000 meters above sea level."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gstnb20",
+   "content": {
+    "text": "Given the broad and prominent resistance in Max the Uri Bull's new home, it seems doubtful whether the legal requirements can be met quickly enough for the bull to experience its second spring anytime soon."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k0uf47iv0",
+   "content": {
+    "title": "Head of the Day: Michael Leupold"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k0ujt7m00",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/15eac3c4-c535-481c-bf45-b92a0858663b.jpg",
+     "mediaId": "74vJQTi8JpoX",
+     "key": "2026/09/02/15eac3c4-c535-481c-bf45-b92a0858663b.jpg",
+     "width": 6854,
+     "height": 4569,
+     "mimeType": "image/jpeg",
+     "altText": "epa13200938 Colonel Michael Leupold, Police Commander, speaks a press conference following a shooting at a rave event at the Schachen horse racing track in Aarau, Switzerland, 30 August 2026. One person was killed and five others were injured in an overnight shooting during a rave event near the horse racing track in Aarau's Schachen district, according to the local police. EPA/KEYSTONE/PETER SCHNEIDER",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180315230"
+      }
+     ],
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/15eac3c4-c535-481c-bf45-b92a0858663b.jpg?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uf49u70",
+   "content": {
+    "text": "Michael Leupold was able to give the all-clear on Wednesday afternoon. At <a href=\"https://edit.prod.nzz.msp.livingdocs.io/p/nzz/document/10021922\">a highly anticipated press conference,</a> the commander of the Aargau cantonal police announced that the gunman from the Schachen area in Aarau had most likely been arrested. The 58-year-old briefly described how investigators had been hunting the gunman since early Sunday morning."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h2jqo11",
+   "content": {
+    "text": "Leupold is used to the limelight. He led investigations into other high-profile crimes, such as the quadruple murder in Rupperswil in 2015. His career path was unusual. From 2006 to 2013, he was Director of the Federal Office of Justice, working at the highest administrative level."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhafv390",
+   "content": {
+    "title": "The platform"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjhagfod0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/03/12/7cb29522-f9d7-46ef-8428-21ba4214a982.webp",
+     "mediaId": "SXl0hsx0l-Nd",
+     "key": "2026/03/12/7cb29522-f9d7-46ef-8428-21ba4214a982.webp",
+     "width": 2048,
+     "height": 553,
+     "mimeType": "image/webp",
+     "altText": "N/A",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/03/12/7cb29522-f9d7-46ef-8428-21ba4214a982.webp?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhah8aq0",
+   "content": {
+    "text": "What has annoyed or pleased you in recent days? What's on your mind, and what topics would you like to be better informed about? We appreciate your suggestions and tips for our research. Please send your ideas and suggestions to <a href=\"mailto:gutenmorgenschweiz@nzz.ch\">gutenmorgenschweiz@nzz.ch</a> . Thank you!<a href=\"mailto:gutenmorgenschweiz@nzz.ch\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhalegi0",
+   "content": {
+    "title": "My recommendations from the NZZ"
+   },
+   "styles": {
+    "baukasten-subtitle-type": "baukasten-subtitle-section"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k1h46upg0",
+   "content": {
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/01/c2f524f8-aab1-4562-8176-e24f8c7cf5a9.jpg?crop=8192,5464,x0,y0",
+     "width": 8192,
+     "height": 5464,
+     "altText": "KEYPIX - Parents of victims bring flowers as approximately a thousand people gathered to pay tribute to the victims of the tragedy in Crans-Montana and to call for \"justice and truth\", Saturday, January 31, 2026, in Lutry, Switzerland. 40 people mostly teenagers lost their lives and 116 were seriously injured in the fire at the bar \"Le Constellation\" on New Year's celebration in the Swiss Alps resort of Crans-Montana. (KEYSTONE/Valentin Flauraud)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2176954952"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 8192,
+      "height": 5464,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 8192,
+       "height": 5464,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhals5q0",
+   "content": {
+    "text": "<strong>Here's how the injured from Crans-Montana are doing:</strong> Eight months after the devastating fire at the «Le Constellation» bar, the authorities have released an interim report on the condition of the injured. <a href=\"https://edit.prod.nzz.msp.livingdocs.io/p/nzz/document/10022096\">Here is the report by my colleague Annegret Mathari.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjham5q80",
+   "content": {
+    "text": "<strong>Discussion on neutrality:</strong> «Switzerland is also a strategic target for Russia,» says Franz-Stefan Gady, one of Europe's leading military experts. He explains why neutrality offers no protection in the event of war and what makes Putin so dangerous for Europe. <a href=\"https://edit.prod.nzz.msp.livingdocs.io/p/nzz/document/10020535\">The interview with Gady was conducted by my colleagues Selina Berner and Meret Baumann.</a><a data-li-document-ref=\"10021093\" href=\"https://www.nzz.ch/ld.10021093\"></a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjhama8t0",
+   "content": {
+    "text": "<strong>More freedom for farmers:</strong> Federal President Guy Parmelin presented Switzerland's future agricultural policy in Bern. Farmers are to become independent entrepreneurs to a limited extent. <a href=\"https://edit.prod.nzz.msp.livingdocs.io/p/nzz/document/10022110\">You can find Matthias Venetz's analysis here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjhamsd20",
+   "content": {
+    "title": "Do you like the «Good Morning Switzerland» newsletter? Then forward it to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhamqt30",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/guten-morgen-schweiz/\">Sign up for «Good Morning Switzerland» here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjhanohs0",
+   "content": {
+    "text": "I wish you a pleasant late autumn day."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjhao2870",
+   "content": {
+    "text": "Erich Aschwanden"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654589"
+   }
+  },
+  "issueDate": "2026-08-27T00:00:00.000Z",
+  "title": "Good morning Switzerland 03.09.2026 Muni Mx",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10022034",
+  "product": "NZZ.ch",
+  "documentId": 10022034,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T15:31:12.570Z",
+  "publicationDate": "2026-09-02T15:31:12.570Z",
+  "publicationLastUpdated": "2026-09-02T15:31:12.570Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T03:31:12.570Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10022034",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10022034",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487799,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022034",
+    "name": "Good morning Switzerland 03.09.2026 Muni Mx",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Good morning Switzerland 03.09.2026 Muni Mx",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T15:31:12.570Z",
+     "updateTimestamp": "2026-09-02T15:31:12.570Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022034",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Good morning Switzerland, September 3, 2026, Muni Mx | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Good morning Switzerland, September 3, 2026. Muni Mx, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T19:31:12+02:00",
+  "date": "2026-09-02T19:31:12+02:00",
+  "canonical": "https://www.nzz.ch/ld.10022034",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Good morning Switzerland 03.09.2026 Muni Mx",
+  "ogTitle": "Good morning Switzerland, September 3, 2026, Muni Mx | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10022034",
+  "mrf:cms_id": "nzz:ld.10022034",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022034",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10022034"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:02 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Good morning Switzerland 03.09.2026 Muni Mx"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10022034"
+   },
+   "headline": "Good morning Switzerland, September 3, 2026, Muni Mx | NZZ",
+   "datePublished": "2026-09-02T19:31:12+02:00",
+   "dateModified": "2026-09-02T19:31:12+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10022034",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022034"
+   ],
+   "ContentCreated": "2026-09-02T15:31:12.570Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10022034",
+   "heading": "Guten Morgen Schweiz 03.09.2026 Muni Mx",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

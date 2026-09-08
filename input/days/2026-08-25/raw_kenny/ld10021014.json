@@ -1,0 +1,1041 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0snf8na1",
+   "content": {
+    "title": "Zurich maintains fire ban: Neighboring cantons bolder, despite less rain there",
+    "lead": "Zurich Department of Construction reassessment: Outdoor fires banned, unlike Zug or St. Gallen",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0snf8na2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Marius Huber",
+       "url": "/impressum/marius-huber-ld.1736128",
+       "teaserImage": {
+        "originalUrl": "/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0tal4sa1",
+   "content": {
+    "image": {
+     "author": "Imago",
+     "caption": "It is still forbidden to light fires throughout the canton of Zurich, even in garden fire bowls.",
+     "originalUrl": "/2023/02/14/6fc2c0d1-f333-4a1f-9993-8bf3f4443b97.jpeg?crop=3456,3456,x0,y1312",
+     "width": 3456,
+     "height": 5184,
+     "altText": "flame, fire, fire bowl *** flame, fire, fire bowl frc-j6v",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2118445622"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 1312,
+      "width": 3456,
+      "height": 3456,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 1312,
+       "width": 3456,
+       "height": 3456,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "It is still forbidden to light fires throughout the canton of Zurich, even in garden fire bowls.",
+    "author": "Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snf8na4",
+   "content": {
+    "text": "For barbecue enthusiasts and fire romantics in the canton of Zurich, impatience is slowly but surely growing. It rained for four days within a week recently, and more rain is expected toward the end of the week. Are these now those «heavy, widespread precipitation events» that were always cited as a condition for lifting the current fire ban?"
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-d5384459",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd480",
+   "content": {
+    "text": "This absolute ban, which even applies in private gardens, risks being overlooked as lawns turn green again. But it remains in effect in many Zurich municipalities. And for the time being, it will remain so – unlike in several neighboring cantons."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd481",
+   "content": {
+    "text": "The Zurich Department of Construction reassessed the situation. As the department announced Thursday morning, the fire ban in and near forests continued to apply. The department justified this by stating that the Zurich forest remained very dry. Although it had rained widely in recent days, the topsoil and deadwood had not yet been re-moistened, it added. Therefore, a high risk of forest fires remained, it said. It therefore remains forbidden to light fires in forests and within 50 meters of forest edges. This ban also applies to fixed official fire pits as well as charcoal fires and grills. Gas and electric grills are exempt from the fire ban."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k116h22f0",
+   "content": {
+    "text": "Further heavy precipitation was required to ease the situation and lift the ban, authorities said. If the Department of Construction’s forestry division concludes that the fire ban can be lifted, it will provide information."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sq68gb0",
+   "content": {
+    "text": "The canton initially issued a fire ban for forests and forest edges at the end of June. The municipalities then went further in July by introducing a general ban. Lifting this again is generally a municipal responsibility."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0sqc6mb0",
+   "content": {
+    "text": "But the municipal authorities did not want to make arbitrary decisions and thus prevent a patchwork of rules from arising between municipalities. Therefore, they also relied on assessments from expert groups that converged at the canton. Everything ultimately depended on its decision. And this decision upheld the fire ban."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0sp2o1b0",
+   "content": {
+    "title": "Fires in forests allowed again in Zug",
+    "id": "subtitle-zug-erlaubt-sogar-feuer-im-wald-wieder"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd4b0",
+   "content": {
+    "text": "At the canton borders, however, uniformity ended. This showed that risk analysis was not an exact science and there was room for discretion. In the neighboring cantons, bans had already been relaxed days ago, even though precipitation there was sometimes less than in neighboring Zurich municipalities."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd4d0",
+   "content": {
+    "text": "For example, in Wädenswil on Lake Zurich, about 120 millimeters of rain were measured in the past seven days, almost three-quarters of the long-term norm for August. In the Zug municipality of Cham, only just under 80 millimeters fell, and slightly over 100 millimeters in Rapperswil-Jona."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd4e0",
+   "content": {
+    "text": "Nevertheless, authorities in Rapperswil-Jona announced last weekend that fires outside forests could be lit again. They reasoned that precipitation in the past few days had reduced the risk of forest fires. The canton of St. Gallen had therefore partially lifted the ban, they added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd4f0",
+   "content": {
+    "text": "The canton of Zug went even further, where the forest fire risk had been lowered to the third of five levels. It was now considered only «considerable,» while in Schwyz and St. Gallen it was considered «high,» and on Zurich soil still «very high.» The consequence: In one place, fires in forests are still taboo, while in another, across the canton border, they have been possible again for a few days, at least in fixed fire pits."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0snfd4g0",
+   "content": {
+    "text": "That similar situations were assessed differently depending on the canton was already evident at the beginning of August. Around the Rapperswil-Jona Lake Festival, <a href=\"https://www.nzz.ch/zuerich/seenachtfest-in-rapperswil-feuerwerk-soll-trotz-waldbrandgefahr-stattfinden-ld.10017935\">a controversy arose</a> at that time because organizers were allowed to set off large fireworks from the water despite the fire ban. St. Gallen authorities considered this permissible due to the pyrotechnic system's large distance from the shore."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0snf8na5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0snf8na6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0snf8na9",
+      "content": {
+       "title": "Despite the high risk of forest fires, the Rapperswil-Jona Lake Night Festival intends to proceed with its fireworks display. This has drawn criticism",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/03/a886d07f-5076-41ae-acb9-b407566c7d1a.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/03/a886d07f-5076-41ae-acb9-b407566c7d1a.jpg?width=1024&quality=75&auto=webp",
+        "width": 5111,
+        "height": 3401,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5111,2875,x0,y400"
+         },
+         {
+          "name": "4:3",
+          "crop": "4535,3400,x371,y1"
+         },
+         {
+          "name": "1:1",
+          "crop": "3401,3401,x949,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2551,3401,x1287,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5102,3401,x9,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The organizers state they have tightened security measures. But the debate is about more than complying with regulations.",
+        "teaserAuthor": "Marius Eckert / CH Media"
+       },
+       "teaserAuthor": "Marius Eckert / CH Media",
+       "nzzId": "ld.10017935",
+       "readingTime": 180,
+       "paywallQuestionOne": "Why is the Lake Night Festival sticking to its fireworks despite the risk of forest fires?",
+       "paywallQuestionTwo": "How do the organizers justify the safety measures for the fireworks display?",
+       "paywallQuestionThree": "What kind of symbolic message does a public fireworks display send in times of bans on private displays?",
+       "characterCount": 4416,
+       "product": "NZZ.ch",
+       "documentId": 10017935,
+       "layout": "regular",
+       "publicationDate": "2026-08-03T13:01:20.218Z",
+       "publicationLastUpdated": "2026-08-03T13:01:20.218Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-04T01:01:20.218Z",
+       "teaserCaption": "The organizers state they have tightened security measures. But the debate is about more than complying with regulations.",
+       "authorLine": "Isabel Heusser",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/seenachtfest-in-rapperswil-feuerwerk-soll-trotz-waldbrandgefahr-stattfinden-ld.10017935",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 641,
+       "leadText": "The organizers state they have tightened security measures. But the debate is about more than complying with regulations.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0snf8na7",
+      "content": {
+       "title": "The canton of Zurich prohibits fires and fireworks in and near forests on August 1st – most municipalities are even stricter",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/07/27/610fea9d-bc8f-448f-9126-5b3dbf1deb7b.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/07/27/610fea9d-bc8f-448f-9126-5b3dbf1deb7b.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y179"
+         },
+         {
+          "name": "4:3",
+          "crop": "5333,4000,x326,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2258,2258,x1451,y1241"
+         },
+         {
+          "name": "3:4",
+          "crop": "3000,4000,x1529,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5455,3636,x246,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Due to the ongoing drought, in many places the ban even extends to the entire municipal area. Charcoal grills must also remain cold.",
+        "teaserAuthor": "Aygul Sarvarova / Getty"
+       },
+       "teaserAuthor": "Aygul Sarvarova / Getty",
+       "nzzId": "ld.10017133",
+       "readingTime": 120,
+       "paywallQuestionOne": "Why is there a ban on fires and fireworks in the canton of Zurich on August 1st?",
+       "paywallQuestionTwo": "What restrictions apply to barbecues and fire pits in Zurich municipalities?",
+       "paywallQuestionThree": "How does the drought affect events like the Rhine Falls fireworks?",
+       "characterCount": 2329,
+       "product": "NZZ.ch",
+       "documentId": 10017133,
+       "layout": "regular",
+       "publicationDate": "2026-07-27T09:36:28.958Z",
+       "publicationLastUpdated": "2026-07-27T13:06:07.451Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-07-27T21:36:28.958Z",
+       "teaserCaption": "Due to the ongoing drought, in many places the ban even extends to the entire municipal area. Charcoal grills must also remain cold.",
+       "authorLine": "Isabel Heusser",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/1b41bde7-91c0-4a7b-8ec3-d0e810f4dc1b.png?width=1024&quality=75&auto=webp",
+       "url": "/zuerich/zuerich-feuer-und-feuerwerkverbot-gilt-auch-am-1-august-ld.10017133",
+       "department": {
+        "name": "Zurich",
+        "path": "/zuerich"
+       },
+       "estimationWordCount": 375,
+       "leadText": "Due to the ongoing drought, in many places the ban even extends to the entire municipal area. Charcoal grills must also remain cold.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0snf8na8",
+      "content": {
+       "title": "Switzerland's heat report: A journey through a hot, dry country",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "editor": "1373640",
+       "teaserImage": {
+        "originalUrl": "/2026/08/14/7da513ea-7dd6-41f4-bd76-dc1942987e60.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/7da513ea-7dd6-41f4-bd76-dc1942987e60.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y310"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x337,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3994,3994,x1003,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3994,x1502,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Switzerland has just experienced another week of sweltering heat. How did people on construction sites, farms, in offices, and in mountain villages fare? What is the situation like for senior citizens and in classrooms? Snapshots from a sweltering country.",
+        "teaserAuthor": "Images: Dominic Nahr / NZZ"
+       },
+       "nzzId": "ld.10019184",
+       "readingTime": 1800,
+       "embeds": {
+        "videos": [
+         {
+          "id": "TsfORrg4",
+          "provider": "jw",
+          "teaser": false
+         },
+         {
+          "id": "8JEZODTf",
+          "provider": "jw",
+          "teaser": false
+         },
+         {
+          "id": "Wu00Dtxx",
+          "provider": "jw",
+          "teaser": false
+         },
+         {
+          "id": "AJKgIU4r",
+          "provider": "jw",
+          "teaser": false
+         }
+        ]
+       },
+       "paywallQuestionOne": "How does the heat affect agriculture in Switzerland?",
+       "paywallQuestionTwo": "What measures are being taken to combat the effects of the heat?",
+       "paywallQuestionThree": "How will climate change alter Swiss forests in the long term?",
+       "characterCount": 36866,
+       "teaserCarouselOne": {
+        "originalUrl": "/2026/08/14/af39cb82-b7ff-4f81-a9a7-cc7ff49e3d5f.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/af39cb82-b7ff-4f81-a9a7-cc7ff49e3d5f.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y310"
+         },
+         {
+          "name": "1:1",
+          "crop": "3994,3994,x1003,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x337,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3994,x1502,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselTwo": {
+        "originalUrl": "/2026/08/14/cc245168-0f53-41c8-8aa2-a8bb29a13c29.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/cc245168-0f53-41c8-8aa2-a8bb29a13c29.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3992,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y309"
+         },
+         {
+          "name": "1:1",
+          "crop": "3992,3992,x1004,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5323,3992,x339,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2994,3992,x1503,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5988,3992,x6,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselThree": {
+        "originalUrl": "/2026/08/14/a19f8f29-897d-46a7-8df4-4c8556378081.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/a19f8f29-897d-46a7-8df4-4c8556378081.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y310"
+         },
+         {
+          "name": "1:1",
+          "crop": "3994,3994,x1003,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x337,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3994,x1502,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselFour": {
+        "originalUrl": "/2026/08/14/9e453287-6431-4d85-973f-a0b2676972e8.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/9e453287-6431-4d85-973f-a0b2676972e8.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y310"
+         },
+         {
+          "name": "1:1",
+          "crop": "3994,3994,x1003,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x337,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3994,x1502,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserCarouselFive": {
+        "originalUrl": "/2026/08/14/f3ba4883-401c-4f92-b3f1-b6e00c15fee0.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/14/f3ba4883-401c-4f92-b3f1-b6e00c15fee0.jpg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 3994,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6000,3375,x0,y310"
+         },
+         {
+          "name": "1:1",
+          "crop": "3994,3994,x1003,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5325,3994,x337,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2996,3994,x1502,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5991,3994,x5,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "teaserAuthor": "Images: Dominic Nahr / NZZ",
+       "product": "NZZ.ch",
+       "documentId": 10019184,
+       "layout": "longformvisual",
+       "publicationDate": "2026-08-15T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-20T15:43:16.366Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-15T15:30:00.000Z",
+       "teaserCaption": "Switzerland has just experienced another week of sweltering heat. How did people on construction sites, farms, in offices, and in mountain villages fare? What is the situation like for senior citizens and in classrooms? Snapshots from a sweltering country.",
+       "authorLine": "Hannes Boos, Nadine A. Brügger, Jacqueline Lipp, Barbara Klingbacher, Zeno Geisseler, Maurice Koepfli, Sebastian Briellmann, Elena Oberholzer, Lucia Grassi, Dominic Nahr (photos and video)",
+       "authorImage": {
+        "originalUrl": "/2026/08/06/f0bd7429-010a-4bc4-9068-c3731e0296d9.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/06/f0bd7429-010a-4bc4-9068-c3731e0296d9.jpg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2026/08/06/f0bd7429-010a-4bc4-9068-c3731e0296d9.jpg?width=1024&quality=75&auto=webp",
+       "url": "/gesellschaft/hitze-report-der-schweiz-eine-reise-durch-ein-heisses-trockenes-land-ld.10019184",
+       "department": {
+        "name": "Society",
+        "path": "/gesellschaft"
+       },
+       "estimationWordCount": 6031,
+       "leadText": "Switzerland has just experienced another week of sweltering heat. How did people on construction sites, farms, in offices, and in mountain villages fare? What is the situation like for senior citizens and in classrooms? Snapshots from a sweltering country.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Zurich maintains fire ban: Neighboring cantons bolder, despite less rain there",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2023/02/14/6fc2c0d1-f333-4a1f-9993-8bf3f4443b97.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/02/14/6fc2c0d1-f333-4a1f-9993-8bf3f4443b97.jpeg?width=1024&quality=75&auto=webp",
+   "width": 3456,
+   "height": 5184,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3142,1767,x314,y2095"
+    },
+    {
+     "name": "4:3",
+     "crop": "3456,2592,x0,y1649"
+    },
+    {
+     "name": "1:1",
+     "crop": "3456,3456,x0,y1217"
+    },
+    {
+     "name": "3:4",
+     "crop": "3456,4608,x0,y576"
+    },
+    {
+     "name": "3:2",
+     "crop": "3456,2304,x0,y1793"
+    }
+   ],
+   "focalPoint": {
+    "x": 2428,
+    "y": 2945
+   },
+   "imageService": "fastly",
+   "teaserCaption": "The cantonal building authority has reassessed the situation. Anyone wanting to light a fire outdoors will have to be patient – ​​unlike in Zug or St. Gallen.",
+   "teaserAuthor": "Imago"
+  },
+  "teaserAuthor": "Imago",
+  "nzzId": "ld.10021014",
+  "readingTime": 180,
+  "characterCount": 3975,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021014,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-25T16:04:13.137Z",
+  "publicationDate": "2026-08-27T08:53:02.562Z",
+  "publicationLastUpdated": "2026-08-27T09:26:37.919Z",
+  "significantUpdate": true,
+  "significantUpdateTill": "2026-08-27T20:53:02.562Z",
+  "teaserCaption": "The cantonal building authority has reassessed the situation. Anyone wanting to light a fire outdoors will have to be patient – ​​unlike in Zug or St. Gallen.",
+  "nzzAuthors": [
+   {
+    "id": 1719533,
+    "name": "Marius Huber",
+    "shortName": "hub",
+    "pianoId": "76a9fd28-13ba-4678-a2cc-e872d776b83d",
+    "external": false
+   }
+  ],
+  "authorLine": "Marius Huber",
+  "authorImage": {
+   "originalUrl": "/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1736128,
+    "name": "Marius Huber (hub.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/06/14/4a550cb7-1c45-43df-82a0-01336bef1b83.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 627,
+  "leadText": "The cantonal building authority has reassessed the situation. Anyone wanting to light a fire outdoors will have to be patient – ​​unlike in Zug or St. Gallen.",
+  "nzzSummaryEN": "- In the Canton of Zurich, the fire ban remains in place despite rainfall, while neighboring cantons like Zug and St. Gallen have eased restrictions.\n- The cantonal building department announces a reassessment, with municipalities relying on their decision.\n- Differences in risk assessment among cantons result in varying regulations.",
+  "nzzSummaryDE": "- In the canton of Zurich, the fire ban remains in place despite rainfall, while neighboring cantons such as Zug and St. Gallen are allowing relaxations.\n - The cantonal building authority announces a reassessment of the situation, while the municipalities rely on their decision.\n Differences in risk assessment between the cantons lead to different regulations.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Neighboring cantons relax fire bans, Zurich waits",
+  "nzzPrintSubtitle": "In the canton of Zug, fires are even allowed in the forest again, although it hasn't rained on the other side of the border",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014",
+   "title": "Fire ban in Zurich remains in place for now – neighboring cantons are already easing restrictions",
+   "socialMediaTitle": "Fire ban in Zurich remains in place for now – neighboring cantons are already easing restrictions",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2023/02/14/6fc2c0d1-f333-4a1f-9993-8bf3f4443b97.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3142,1767,x314,y2095&wmark=nzz"
+  },
+  "ldPublicationId": 2484482,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10017935",
+    "ld.10017133",
+    "ld.10019184"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 260544,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021014",
+    "name": "Zurich maintains fire ban: Neighboring cantons bolder, despite less rain there",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Zurich maintains fire ban: Neighboring cantons bolder, despite less rain there",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1719533,
+       "name": "Marius Huber",
+       "shortName": "hub",
+       "pianoId": "76a9fd28-13ba-4678-a2cc-e872d776b83d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T08:53:02.562Z",
+     "updateTimestamp": "2026-08-27T09:26:37.919Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021014",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Fire ban in Zurich remains in place for now – neighboring cantons are already easing restrictions",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2023/02/14/6fc2c0d1-f333-4a1f-9993-8bf3f4443b97.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3142,1767,x314,y2095&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Marius Huber",
+  "description": "The cantonal building authority has reassessed the situation. Anyone wanting to light a fire outdoors will have to be patient – ​​unlike in Zug or St. Gallen.",
+  "news_keywords": "Zurich is sticking to its fire ban. Neighboring cantons are taking a more proactive approach, even though it hasn't rained there recently. (Zurich News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-08-27T13:26:37+02:00",
+  "date": "2026-08-25T20:04:13+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Zurich maintains fire ban: Neighboring cantons bolder, despite less rain there",
+  "ogTitle": "Fire ban in Zurich remains in place for now – neighboring cantons are already easing restrictions",
+  "ogUrl": "https://www.nzz.ch/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014",
+  "mrf:cms_id": "nzz:ld.10021014",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021014",
+  "nzzAuthors": [
+   {
+    "id": 1719533,
+    "name": "Marius Huber",
+    "shortName": "hub",
+    "pianoId": "76a9fd28-13ba-4678-a2cc-e872d776b83d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:51:57 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Fire ban in Zurich remains in place for now – neighboring cantons are already easing restrictions"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014"
+   },
+   "headline": "Fire ban in Zurich remains in place for now – neighboring cantons are already easing restrictions",
+   "datePublished": "2026-08-25T20:04:13+02:00",
+   "dateModified": "2026-08-27T13:26:37+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The cantonal building authority has reassessed the situation. Anyone wanting to light a fire outdoors will have to be patient – ​​unlike in Zug or St. Gallen.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2023/02/14/6fc2c0d1-f333-4a1f-9993-8bf3f4443b97.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3142,1767,x314,y2095&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Marius Huber"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 260544,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/zuerich-wartet-zu-mit-dem-ende-des-feuerverbots-die-nachbarkantone-sind-da-forscher-obwohl-es-dort-nicht-mehr-geregnet-hat-ld.10021014",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021014",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-08-25T16:04:13.137Z",
+   "ContentAuthor": "Marius Huber",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum bleibt das Feuerverbot in Zürich bestehen, trotz Regenfällen?\nWie rechtfertigen Nachbarkantone die Lockerung der Feuerverbote?\nWelche Rolle spielt die kantonale Kompetenz bei der Aufhebung des Verbots?",
+   "ldId": "ld.10021014",
+   "channel": "Zürich",
+   "heading": "Zürich hält am Feuerverbot fest. Die Nachbarkantone sind da forscher, obwohl es dort nicht mehr geregnet hat",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

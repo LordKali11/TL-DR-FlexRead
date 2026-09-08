@@ -1,0 +1,1417 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0fh0dqb1",
+   "content": {
+    "title": "Pfister Plans Drone and Robotics Center for Army and Civilian Emergency Services",
+    "lead": "Switzerland faces a proliferation of drone defense systems. Defense Minister Martin Pfister now aims to consolidate responsibilities and expertise. The project faces various hurdles: neither the location nor the budget or legal framework have been clarified.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0fh0dqb2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Selina Berner, Thun",
+       "url": "/impressum/selina-berner-ld.1868351",
+       "teaserImage": {
+        "originalUrl": "/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 2163,
+         "y": 572,
+         "width": 2405,
+         "height": 2405
+        }
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0fh0dqb3",
+   "content": {
+    "image": {
+     "author": "Pascal Gertschen / VBS / DDPS",
+     "caption": "The army plans to have its own drone battalion established by 2028.",
+     "originalUrl": "/2026/08/27/58fdc017-bba0-4266-ae75-a249c9976d56.jpg?crop=2727,1818,x0,y182",
+     "width": 3000,
+     "height": 2000,
+     "crop": {
+      "x": 0,
+      "y": 182,
+      "width": 2727,
+      "height": 1818,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 182,
+       "width": 2727,
+       "height": 1818,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The army plans to have its own drone battalion established by 2028.",
+    "author": "Pascal Gertschen / VBS / DDPS"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0fh0dqb4",
+   "content": {
+    "text": "«Eiger» is the project name for the Defense Department's (VBS) new competence center for unmanned systems — meaning drones and robots. The task for Defense Minister Martin Pfister is as challenging as its namesake: He explained to the media in Thun on Thursday that he wanted to consolidate civilian and military actors from the army, the armaments industry, science, and emergency services in one location and thus prepare the entire country for this threat."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-8cb2e503",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11q4ul20",
+   "content": {
+    "text": "The initiative is driven by Russia's covert warfare against Western countries. Another clear warning sign for Pfister was the failed attack at Leipzig/Halle Airport, where <a href=\"https://www.nzz.ch/deutschland/politik/drohne-mit-sprengstoff-am-flughafen-leipzig-die-wichtigsten-antworten-zum-mutmasslichen-anschlag-ld.10018624?srsltid=AfmBOorUEK_yNSGmmj-DxjSAti7jMBr5poz3mUVKLqQG-R0ANk-9UZFE\">earlier this month</a> a drone with explosives was found near a Ukrainian cargo plane. Moscow is suspected. Moreover, according to research by the British <a href=\"https://www.telegraph.co.uk/world-news/2026/08/16/russia-builds-secret-drone-bases-in-nato-striking-distance/\">«Telegraph»</a>, Russia is building new launch sites for attack drones near Belarus and Ukraine, whose range extends to NATO's eastern flank. Pfister warned that the security situation in Europe had reached a new level of danger. Switzerland needed to know what to do about it at all levels of government."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11nkfes0",
+   "content": {
+    "text": "Today, defense here lags behind. Neither police forces nor airports, infrastructure operators, or the army have comprehensive protection systems. Army Chief Benedikt Roos emphasizes that Switzerland is also at risk: «Switzerland is attacked every day.» The army located around 100 overflights per month above a single military training area. In one in five cases, the origin had remained unclear. During the G7 summit in Évian, the troops also registered around 250 drones in the area and intervened in almost half of them, for example, with jammers. In three cases, the pilots were identified and reported. For Roos, it is clear that drones are no longer a future scenario but have long been a «harsh reality.»"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11o73eg2",
+   "content": {
+    "image": {
+     "author": "VBS",
+     "caption": "Drone pilots control combat drones over the military training area in Thun.",
+     "originalUrl": "/2026/08/27/1b30fc2d-28b3-4a0a-95d6-e73370e58da2.jpg?crop=3000,2000,x0,y0",
+     "width": 3000,
+     "height": 2000,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3000,
+      "height": 2000,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3000,
+       "height": 2000,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Drone pilots control combat drones over the military training area in Thun.",
+    "author": "VBS"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11nr9os0",
+   "content": {
+    "title": "<strong>Numerous Legal Hurdles</strong>",
+    "id": "subtitle-zahlreiche-rechtliche-h-rden"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11nkfev0",
+   "content": {
+    "text": "However, part of the Swiss reality is also that the planned center currently exists only on paper. Neither the location nor the budget framework or opening date are set. Pfister aims for its establishment in the «coming months.» Funding is to come from the current budget — also by consolidating existing structures. The VBS alone has at least three departments for drones or robotics; some cantons operate additional drone centers. Where the new center is to be built is still being examined. Legal hurdles also weigh heavily in the search for a location, as a demonstration at the Thun military training area shows."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11nkfev1",
+   "content": {
+    "text": "There, trained drone soldiers waited for the media on Thursday to demonstrate their skills. They controlled reconnaissance and attack drones and combated approaching flying objects with special ammunition. When three approaches were successfully stopped in the last firing round, an abrupt end followed: the maximum shooting time before the lunch break had been reached, the exercise leader announced. In addition to strict noise regulations, further legal hurdles hinder the troops. While the army may locate foreign drones over its own area, only the cantonal police may shoot them down if necessary. The Defense Minister demanded that the legal basis needed to be regulated more clearly. For this, he said, they were in close contact with the cantons."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11nkfev2",
+   "content": {
+    "text": "The new center is to be organized in both civilian and military capacities and open to other departments, cantons, and emergency services. It is to house a military command and a tech hub. The command will train soldiers and test unmanned systems under conditions as realistic as possible. In the tech hub, the Federal Office for Armaments (Armasuisse), universities, startups, and industry will combine their knowledge to rapidly develop new solutions and transfer them to the troops."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11s1ang1",
+   "content": {
+    "text": "Head of Armaments Urs Loher emphasized that the goal was no longer to «preserve a technology unchanged for as long as possible.» Rather, he said, it needed to be clarified early on whether systems could be independently further developed. He added that the war in Ukraine showed this, where systems needed to be adapted every few weeks. Modern warfare necessitates a change in mentality. Loher intends to focus on modular, standardized products with open interfaces in the future, which are to be procured in small tranches."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k11q71kf0",
+   "content": {
+    "title": "Pfister's campaign for VAT increase",
+    "id": "subtitle-pfister-weibelt-f-r-mwst-erh-hung"
+   },
+   "data": {},
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11nkff00",
+   "content": {
+    "text": "What sounds like a revolution in the sluggish Swiss procurement system, the Head of Armaments considered feasible. Switzerland has top universities, innovative startups, and specialized companies for robotics, sensor technology, and artificial intelligence. Until now, however, this ecosystem has been lacking the structure to have an impact in the military. The new center is intended to change that."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k11o6mfs2",
+   "content": {
+    "image": {
+     "author": "VBS",
+     "caption": "The troops test reconnaissance drones that can stay in the air for up to four hours.",
+     "originalUrl": "/2026/08/27/96871e57-d7c3-4695-b1db-615b47bbac72.jpg?crop=3000,2000,x0,y0",
+     "width": 3000,
+     "height": 2000,
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 3000,
+      "height": 2000,
+      "name": "article-image",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 3000,
+       "height": 2000,
+       "name": "article-image",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The troops test reconnaissance drones that can stay in the air for up to four hours.",
+    "author": "VBS"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11nkff01",
+   "content": {
+    "text": "Pfister did not only invite the media to Thun to present a center that does not yet exist. Before the autumn session, the Defense Minister used the stage to once again advocate for the army's financing package. The development of drone and robotics capabilities is central but requires more funds."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11s2oe00",
+   "content": {
+    "text": "He stated that a total of 24 billion Swiss francs in armaments investments were necessary over the next twelve years for the <a href=\"https://www.nzz.ch/schweiz/sicherheitspolitik/bundesrat-baut-die-armee-um-sie-soll-sabotageakte-und-drohnenangriffe-abwehren-koennen-ld.10012089\">army's new orientation</a> towards the most probable threats — namely cyberattacks, disinformation, sabotage, and air attacks. The Federal Council proposes a temporary increase in value-added tax by 0.5 percentage points and a debt-eligible armaments fund for this purpose. However, the proposal <a href=\"https://www.nzz.ch/schweiz/neuer-vorschlag-fuer-das-ruestungsbudget-die-steuern-sollen-weniger-stark-erhoeht-werden-dafuer-laenger-ld.10021035\">faces difficulties</a> in parliament — only Pfister's own party, The Centre, supports it."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0fh0dqb5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0fh0dqb6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0fh0dqb7",
+      "content": {
+       "title": "The Federal Council is restructuring the army: it should be able to defend against acts of sabotage and drone attacks",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "nzzId": "ld.10012089",
+       "readingTime": 240,
+       "paywallQuestionOne": "How should the Swiss army be prepared for hybrid threats?",
+       "paywallQuestionTwo": "What role do drones and robotics play in the new army structure?",
+       "paywallQuestionThree": "Why is the number of top officers in the army being reduced?",
+       "characterCount": 6090,
+       "teaserImage": {
+        "originalUrl": "/2025/11/21/b86e39d4-c618-4dbd-9a5e-07d7f67f0c11.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/11/21/b86e39d4-c618-4dbd-9a5e-07d7f67f0c11.jpg?width=1024&quality=75&auto=webp",
+        "width": 5500,
+        "height": 3667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5500,3094,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "4889,3667,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "3667,3667,x677,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2750,3667,x1194,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5500,3667,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The Swiss army is to be transformed from a training force to a combat army. To this end, the government intends to streamline its structure, reduce the number of senior officers, and establish a drone battalion.",
+        "teaserAuthor": "Anthony Anex / Keystone"
+       },
+       "teaserAuthor": "Anthony Anex / Keystone",
+       "product": "NZZ.ch",
+       "documentId": 10012089,
+       "layout": "regular",
+       "publicationDate": "2026-06-19T12:00:00.000Z",
+       "publicationLastUpdated": "2026-06-19T16:27:55.259Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-20T00:00:00.000Z",
+       "teaserCaption": "The Swiss army is to be transformed from a training force to a combat army. To this end, the government intends to streamline its structure, reduce the number of senior officers, and establish a drone battalion.",
+       "authorLine": "Selina Berner, Bern",
+       "authorImage": {
+        "originalUrl": "/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+        "width": 6500,
+        "height": 4333,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 2163,
+         "y": 572,
+         "width": 2405,
+         "height": 2405
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+       "url": "/schweiz/sicherheitspolitik/bundesrat-baut-die-armee-um-sie-soll-sabotageakte-und-drohnenangriffe-abwehren-koennen-ld.10012089",
+       "department": {
+        "name": "Security Policy",
+        "path": "/schweiz/sicherheitspolitik"
+       },
+       "estimationWordCount": 889,
+       "leadText": "The Swiss army is to be transformed from a training force to a combat army. To this end, the government intends to streamline its structure, reduce the number of senior officers, and establish a drone battalion.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0fh0dqb8",
+      "content": {
+       "title": "No Test Sites, Sluggish Procurement: Swiss Drone Manufacturers Criticize the Federal Government",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/05/18/a90d38db-3dad-4f00-b69f-0f43426a47d6.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/05/18/a90d38db-3dad-4f00-b69f-0f43426a47d6.jpg?width=1024&quality=75&auto=webp",
+        "width": 8032,
+        "height": 5355,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5486,3086,x1189,y212"
+         },
+         {
+          "name": "4:3",
+          "crop": "7140,5355,x850,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "5355,5355,x1821,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "4016,5355,x2111,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "7302,4868,x303,y110"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Switzerland boasts a highly advanced drone industry. However, companies seeking to harness this knowledge for military purposes face significant obstacles. Internal documents reveal a looming threat of further job losses and expertise.",
+        "teaserAuthor": "Gian Ehrenzeller / Keystone"
+       },
+       "teaserAuthor": "Gian Ehrenzeller / Keystone",
+       "nzzasFootnote": true,
+       "nzzId": "ld.10019195",
+       "readingTime": 300,
+       "paywallQuestionOne": "What obstacles make it difficult for Swiss drone manufacturers to cooperate with the federal government?",
+       "paywallQuestionTwo": "How does the lack of test sites affect the development of the Swiss drone industry?",
+       "paywallQuestionThree": "What are the consequences of the federal government's slow procurement practices for the drone industry?",
+       "characterCount": 6960,
+       "tags": [
+        "Schweiz: Sicherheitspolitik"
+       ],
+       "product": "NZZ.ch",
+       "documentId": 10019195,
+       "layout": "regular",
+       "publicationDate": "2026-08-15T19:45:00.000Z",
+       "publicationLastUpdated": "2026-08-24T09:14:12.947Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-16T07:45:00.000Z",
+       "teaserCaption": "Switzerland boasts a highly advanced drone industry. However, companies seeking to harness this knowledge for military purposes face significant obstacles. Internal documents reveal a looming threat of further job losses and expertise.",
+       "authorLine": "Simon Marti",
+       "authorImage": {
+        "originalUrl": "/2024/04/30/570a3820-2261-433b-b382-d1b4e12bf7c4.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/04/30/570a3820-2261-433b-b382-d1b4e12bf7c4.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/570a3820-2261-433b-b382-d1b4e12bf7c4.png?width=1024&quality=75&auto=webp",
+       "url": "/schweiz/keine-testgelaende-zu-traege-beschaffungen-schweizer-drohnenhersteller-kritisieren-den-bund-ld.10019195",
+       "department": {
+        "name": "Switzerland",
+        "path": "/schweiz"
+       },
+       "estimationWordCount": 1003,
+       "leadText": "Switzerland boasts a highly advanced drone industry. However, companies seeking to harness this knowledge for military purposes face significant obstacles. Internal documents reveal a looming threat of further job losses and expertise.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0fh0dqb9",
+      "content": {
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "title": "No half measures when it comes to security: Switzerland must be seriously prepared to defend itself – and it must do so now",
+       "flag": "Opinion",
+       "teaserImage": {
+        "originalUrl": "/2026/08/20/25e6afed-ee85-44c1-82ce-ae356d4e5901.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/20/25e6afed-ee85-44c1-82ce-ae356d4e5901.jpg?width=1024&quality=75&auto=webp",
+        "width": 6048,
+        "height": 4032,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6048,3402,x0,y630"
+         },
+         {
+          "name": "4:3",
+          "crop": "5376,4032,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "4032,4032,x1008,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3024,4032,x1512,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "6048,4032,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The war in Iran has triggered an unexpected munitions crisis. It is time to provide extraordinary funding for air defense – and to use the remaining funds to strengthen the combat capabilities of ground troops.",
+        "teaserAuthor": "Danylo Antoniuk / Ukrinform / Avalon / Imago"
+       },
+       "teaserAuthor": "Danylo Antoniuk / Ukrinform / Avalon / Imago",
+       "nzzId": "ld.10019985",
+       "readingTime": 360,
+       "paywallQuestionOne": "How should Switzerland finance its air defense on an extraordinary scale?",
+       "paywallQuestionTwo": "Why isn't one billion francs enough for Switzerland's security?",
+       "paywallQuestionThree": "How can Switzerland strengthen its resilience against geopolitical threats?",
+       "characterCount": 8705,
+       "showComments": true,
+       "product": "NZZ.ch",
+       "documentId": 10019985,
+       "layout": "opinion",
+       "publicationDate": "2026-08-22T03:35:00.000Z",
+       "publicationLastUpdated": "2026-08-22T10:37:02.074Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-22T15:35:00.000Z",
+       "teaserCaption": "The war in Iran has triggered an unexpected munitions crisis. It is time to provide extraordinary funding for air defense – and to use the remaining funds to strengthen the combat capabilities of ground troops.",
+       "authorLine": "Georg Häsler, Bern",
+       "authorImage": {
+        "originalUrl": "/2022/06/22/3a7c138f-f552-4167-935f-50425072b553.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/06/22/3a7c138f-f552-4167-935f-50425072b553.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/3a7c138f-f552-4167-935f-50425072b553.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/meinung/keine-halben-sachen-mit-der-sicherheit-die-schweiz-muss-sich-ernsthaft-verteidigen-koennen-und-zwar-jetzt-ld.10019985",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 1274,
+       "leadText": "The war in Iran has triggered an unexpected munitions crisis. It is time to provide extraordinary funding for air defense – and to use the remaining funds to strengthen the combat capabilities of ground troops.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Pfister Plans Drone and Robotics Center for Army and Civilian Emergency Services",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/58fdc017-bba0-4266-ae75-a249c9976d56.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/58fdc017-bba0-4266-ae75-a249c9976d56.jpg?width=1024&quality=75&auto=webp",
+   "width": 3000,
+   "height": 2000,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "3000,1687,x0,y313"
+    },
+    {
+     "name": "4:3",
+     "crop": "2425,1818,x189,y182"
+    },
+    {
+     "name": "1:1",
+     "crop": "2000,2000,x347,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "1364,1818,x906,y182"
+    },
+    {
+     "name": "3:2",
+     "crop": "2727,1818,x157,y182"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Switzerland faces a proliferation of drone defense systems. Defense Minister Martin Pfister now aims to consolidate responsibilities and expertise. The project faces various hurdles: neither the location nor the budget or legal framework have been clarified.",
+   "teaserAuthor": "Pascal Gertschen / VBS / DDPS"
+  },
+  "teaserAuthor": "Pascal Gertschen / VBS / DDPS",
+  "nzzId": "ld.10020356",
+  "readingTime": 240,
+  "characterCount": 5516,
+  "breadcrumbs": [
+   {
+    "name": "Switzerland",
+    "path": "/schweiz"
+   },
+   {
+    "name": "Security Policy",
+    "path": "/schweiz/sicherheitspolitik"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020356,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T15:16:48.232Z",
+  "publicationDate": "2026-08-27T15:16:48.232Z",
+  "publicationLastUpdated": "2026-08-27T15:42:42.060Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T03:16:48.232Z",
+  "teaserCaption": "Switzerland faces a proliferation of drone defense systems. Defense Minister Martin Pfister now aims to consolidate responsibilities and expertise. The project faces various hurdles: neither the location nor the budget or legal framework have been clarified.",
+  "nzzAuthors": [
+   {
+    "id": 1839612,
+    "name": "Selina Berner",
+    "shortName": "sia",
+    "external": false
+   }
+  ],
+  "authorLine": "Selina Berner, Thun",
+  "authorImage": {
+   "originalUrl": "/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572",
+   "url": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+   "width": 6500,
+   "height": 4333,
+   "imageService": "fastly",
+   "crop": {
+    "name": "1:1",
+    "x": 2163,
+    "y": 572,
+    "width": 2405,
+    "height": 2405
+   },
+   "crops": []
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1868351,
+    "name": "Selina Berner, Thun",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+  "url": "/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356",
+  "department": {
+   "name": "Security Policy",
+   "path": "/schweiz/sicherheitspolitik"
+  },
+  "estimationWordCount": 831,
+  "leadText": "Switzerland faces a proliferation of drone defense systems. Defense Minister Martin Pfister now aims to consolidate responsibilities and expertise. The project faces various hurdles: neither the location nor the budget or legal framework have been clarified.",
+  "nzzSummaryEN": "- Defense Minister Pfister plans a drone and robotics center to prepare military and civilian organizations for drone threats.\n- The project's location, budget, and legal framework remain unclear, facing numerous hurdles and requiring increased funding.\n- The army already detects numerous unidentified drones and sees an urgent need to implement comprehensive protection systems.",
+  "nzzSummaryDE": "- Defense Minister Pfister is planning a drone and robotics center to prepare military and civilian organizations for drone threats. - The location, budget, and legal basis of the project are still unclear; the project faces numerous hurdles and requires increased funding. - The army is already detecting numerous unidentified drones and sees an urgent need to implement comprehensive protection systems.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Pfister plans new drone and robotics center",
+  "nzzPrintSubtitle": "Defense Minister Pfister wants to centralize drone defense in Switzerland",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356",
+   "title": "Pfister plans new drone and robotics center for Switzerland",
+   "socialMediaTitle": "Drone defense in Switzerland: Pfister plans new center",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/58fdc017-bba0-4266-ae75-a249c9976d56.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y313&wmark=nzz"
+  },
+  "ldPublicationId": 2484818,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Martin Pfister",
+    "slug": "/themen/martin-pfister"
+   },
+   {
+    "name": "VBS",
+    "slug": "/themen/vbs"
+   },
+   {
+    "name": "Federal Council (Switzerland)",
+    "slug": "/themen/bundesrat"
+   },
+   {
+    "name": "Russia",
+    "slug": "/themen/russland"
+   },
+   {
+    "name": "Ukraine",
+    "slug": "/themen/ukraine"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10012089",
+    "ld.10019195",
+    "ld.10019985"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 396648,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "martin-pfister",
+   "name": "Martin Pfister",
+   "tagName": "Martin Pfister",
+   "qId": "Q47551476",
+   "seoTitle": "Martin Pfister – All news and articles about the politician",
+   "description": null,
+   "firstName": "Martin",
+   "lastName": "Pfister",
+   "category": "PER",
+   "createdDate": "2025-04-08 17:00:05.807Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/martin-pfister",
+   "size": 92,
+   "relatedTopics": [
+    {
+     "name": "VBS",
+     "slug": "/themen/vbs"
+    },
+    {
+     "name": "Bundesrat (Schweiz)",
+     "slug": "/themen/bundesrat"
+    },
+    {
+     "name": "Russland",
+     "slug": "/themen/russland"
+    },
+    {
+     "name": "Ukraine",
+     "slug": "/themen/ukraine"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Internal Federal Council documents show: a second air defense system would be barely financeable even with a VAT increase",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/02/04/f590e33a-a9f1-4b54-97bd-5fe1023d8b1f.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/02/04/f590e33a-a9f1-4b54-97bd-5fe1023d8b1f.jpg?width=1024&quality=75&auto=webp",
+     "width": 6903,
+     "height": 4861,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6903,3883,x0,y316"
+      },
+      {
+       "name": "4:3",
+       "crop": "6481,4861,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4861,4861,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3646,4861,x430,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6903,4602,x0,y130"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Federal Councillor Martin Pfister wants to procure a second system in addition to the American Patriot system. Internal documents show: how it would be financed is unclear, the Federal Department of Finance warns",
+     "teaserAuthor": "Mike Mareen via Imago"
+    },
+    "teaserAuthor": "Mike Mareen via Imago",
+    "nzzId": "ld.10021930",
+    "readingTime": 180,
+    "paywallQuestionOne": "How does the Federal Council intend to secure the financing of the second air defense system?",
+    "paywallQuestionTwo": "Why is the planned VAT increase insufficient for financing?",
+    "paywallQuestionThree": "What alternatives to the VAT increase does the tax authorities propose?",
+    "characterCount": 4054,
+    "product": "NZZ.ch",
+    "documentId": "10021930",
+    "layout": "regular",
+    "publicationDate": "2026-09-01T15:23:27.236Z",
+    "publicationLastUpdated": "2026-09-01T18:14:15.974Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-02T03:23:27.236Z",
+    "teaserCaption": "Federal Councillor Martin Pfister wants to procure a second system in addition to the American Patriot system. Internal documents show: how it would be financed is unclear, the Federal Department of Finance warns",
+    "authorLine": "Selina Berner, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/zweites-luftabwehrsystem-auch-mit-mehrwertsteuererhoehung-kaum-finanzierbar-warnt-das-finanzdepartement-ld.10021930",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 592,
+    "leadText": "Federal Councillor Martin Pfister wants to procure a second system in addition to the American Patriot system. Internal documents show: how it would be financed is unclear, the Federal Department of Finance warns",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Higher taxes for the army? Martin Pfister loses more allies",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/347b5c5c-04d2-4f30-b90e-849e536a653d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/347b5c5c-04d2-4f30-b90e-849e536a653d.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4959,2789,x475,y347"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "4000,4000,x383,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x883,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 2383,
+      "y": 1455
+     },
+     "imageService": "fastly",
+     "teaserCaption": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+     "teaserAuthor": "Raphael Rohner / CH Media"
+    },
+    "teaserAuthor": "Raphael Rohner / CH Media",
+    "nzzId": "ld.10020492",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is Economiesuisse now rejecting a tax increase for the army?",
+    "paywallQuestionTwo": "Which financing proposals for the army are politically controversial?",
+    "paywallQuestionThree": "How could the army budget grow without raising taxes?",
+    "characterCount": 5966,
+    "tags": [
+     "Schweiz: Sicherheitspolitik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10020492",
+    "layout": "regular",
+    "publicationDate": "2026-08-21T16:07:50.319Z",
+    "publicationLastUpdated": "2026-08-26T07:49:37.546Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T04:07:50.319Z",
+    "teaserCaption": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+    "authorLine": "Fabian Schäfer, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/06/22/a840c1f4-4252-46f6-9884-257f707a5755.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/hoehere-steuern-fuer-die-armee-martin-pfister-verliert-weitere-verbuendete-ld.10020492",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 850,
+    "leadText": "First, the business association Economiesuisse overcame its reservations and supported a tax increase for the military. But now the mood is shifting. And time is running out in the Federal Parliament.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Drones are causing concern in Switzerland – Martin Pfister visits the Zurich arms manufacturer Rheinmetall",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/06/55796db9-7f49-4368-86b9-e326cadc39ec.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/06/55796db9-7f49-4368-86b9-e326cadc39ec.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 4000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5455,3068,x200,y414"
+      },
+      {
+       "name": "4:3",
+       "crop": "5333,4000,x232,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2732,2732,x1513,y260"
+      },
+      {
+       "name": "3:4",
+       "crop": "3000,4000,x1480,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "6000,4000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Austria will receive its first drone defense systems from Oerlikon later this year. Switzerland also plans to place an order soon to protect its critical infrastructure.",
+     "teaserAuthor": "Claudio Thoma / Keystone"
+    },
+    "teaserAuthor": "Claudio Thoma / Keystone",
+    "nzzId": "ld.10014248",
+    "readingTime": 240,
+    "paywallQuestionOne": "How does Switzerland plan to protect its critical infrastructure from drones?",
+    "paywallQuestionTwo": "Why does Pfister emphasize the importance of a domestic arms industry?",
+    "paywallQuestionThree": "What role does the European Sky Shield Initiative play for Switzerland?",
+    "characterCount": 5894,
+    "product": "NZZ.ch",
+    "documentId": "10014248",
+    "layout": "regular",
+    "publicationDate": "2026-07-06T17:21:36.496Z",
+    "publicationLastUpdated": "2026-07-06T17:41:19.138Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-07T05:21:36.496Z",
+    "teaserCaption": "Austria will receive its first drone defense systems from Oerlikon later this year. Switzerland also plans to place an order soon to protect its critical infrastructure.",
+    "authorLine": "Selina Berner, Zurich Oerlikon",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/drohnen-beunruhigen-die-schweiz-martin-pfister-besucht-die-zuercher-waffenschmiede-von-rheinmetall-ld.10014248",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 893,
+    "leadText": "Austria will receive its first drone defense systems from Oerlikon later this year. Switzerland also plans to place an order soon to protect its critical infrastructure.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "2038 Winter Olympics in Switzerland: Federal Council to contribute 200 million Swiss francs but promises there will be no deficit guarantee",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/18/1bd4a50f-b774-481b-8caf-55a12b5b1780.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/18/1bd4a50f-b774-481b-8caf-55a12b5b1780.jpg?width=1024&quality=75&auto=webp",
+     "width": 8086,
+     "height": 5391,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "8086,4548,x0,y843"
+      },
+      {
+       "name": "4:3",
+       "crop": "7188,5391,x303,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5391,5391,x1202,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4043,5391,x1876,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "8086,5391,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 3897,
+      "y": 4340
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Despite financial concerns, Sports Minister Martin Pfister announced that the Federal Council intends to provide financial support for the Olympic Games, adding that private entities would cover any deficit.",
+     "teaserAuthor": "Anthony Anex / Keystone"
+    },
+    "teaserAuthor": "Anthony Anex / Keystone",
+    "nzzId": "ld.10012346",
+    "readingTime": 180,
+    "paywallQuestionOne": "Why does the Federal Council want to allocate 200 million francs for the Winter Games?",
+    "paywallQuestionTwo": "How should the losses from the 2038 Olympic Games be financed?",
+    "paywallQuestionThree": "Why does the Federal Council not provide a deficit guarantee for the Winter Games?",
+    "characterCount": 4010,
+    "product": "NZZ.ch",
+    "documentId": "10012346",
+    "layout": "regular",
+    "publicationDate": "2026-06-22T12:47:31.227Z",
+    "publicationLastUpdated": "2026-06-22T18:55:37.672Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-06-23T00:47:31.227Z",
+    "teaserCaption": "Despite financial concerns, Sports Minister Martin Pfister announced that the Federal Council intends to provide financial support for the Olympic Games, adding that private entities would cover any deficit.",
+    "authorLine": "Matthias Venetz, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/04/00cb5937-e55d-4056-b9cf-1c4b7360fd42.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/olympische-winterspiele-2038-in-der-schweiz-bundesrat-will-200-millionen-franken-bezahlen-verspricht-aber-es-gebe-keine-defizitgarantie-ld.10012346",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 607,
+    "leadText": "Despite financial concerns, Sports Minister Martin Pfister announced that the Federal Council intends to provide financial support for the Olympic Games, adding that private entities would cover any deficit.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "How and against what should Switzerland defend itself? The Federal Council is divided, as internal documents show",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/05/15/7eb17cbb-4e41-46fc-8535-16db541cff4d.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/15/7eb17cbb-4e41-46fc-8535-16db541cff4d.jpg?width=1024&quality=75&auto=webp",
+     "width": 5317,
+     "height": 3544,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5317,2991,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4725,3544,x296,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3544,3544,x887,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2658,3544,x1330,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5316,3544,x1,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "In recent months, the state government has made groundbreaking decisions regarding security. Internal documents reveal the struggle over the security policy direction.",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10006888",
+    "readingTime": 480,
+    "paywallQuestionOne": "How divided is the Federal Council on the security policy direction?",
+    "paywallQuestionTwo": "Which threats does Switzerland consider particularly likely?",
+    "paywallQuestionThree": "Why is there no financing solution for the planned army of the future?",
+    "tags": [
+     "Schweiz: Sicherheitspolitik",
+     "Schweiz: Empfehlungen"
+    ],
+    "characterCount": 10978,
+    "product": "NZZ.ch",
+    "documentId": "10006888",
+    "layout": "longformstandard",
+    "publicationDate": "2026-05-18T03:31:00.000Z",
+    "publicationLastUpdated": "2026-05-18T16:37:49.245Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-05-18T15:31:00.000Z",
+    "teaserCaption": "In recent months, the state government has made groundbreaking decisions regarding security. Internal documents reveal the struggle over the security policy direction.",
+    "authorLine": "Selina Berner, Bern",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/01/28/1da6ee9d-d9be-4ff9-b316-06f811934cc7.jpeg?crop=2405,2405,x2163,y572&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/sicherheitspolitik/wogegen-und-womit-soll-sich-die-schweiz-verteidigen-der-bundesrat-ist-sich-uneins-wie-interne-dokumente-zeigen-ld.10006888",
+    "department": {
+     "name": "Security Policy",
+     "path": "/schweiz/sicherheitspolitik"
+    },
+    "estimationWordCount": 1537,
+    "leadText": "In recent months, the state government has made groundbreaking decisions regarding security. Internal documents reveal the struggle over the security policy direction.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Army finances: Pressure is mounting on Federal Councillor Martin Pfister",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/05/14/27145380-2f4f-4e40-b64c-403a4762e466.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/14/27145380-2f4f-4e40-b64c-403a4762e466.jpg?width=1024&quality=75&auto=webp",
+     "width": 3930,
+     "height": 5895,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2440,1373,x603,y884"
+      },
+      {
+       "name": "4:3",
+       "crop": "3930,2948,x0,y72"
+      },
+      {
+       "name": "1:1",
+       "crop": "643,643,x1565,y1124"
+      },
+      {
+       "name": "3:4",
+       "crop": "3930,5240,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3930,2620,x0,y828"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The negative news from the Department of Defence continues unabated. This makes it even more difficult for Federal Councillor Martin Pfister to accomplish his central task: finally securing the money the army so desperately needs. The risk of a collapse is enormous.",
+     "teaserAuthor": "Peter Klaunzer / Keystone"
+    },
+    "teaserAuthor": "Peter Klaunzer / Keystone",
+    "nzzId": "ld.10006961",
+    "readingTime": 360,
+    "paywallQuestionOne": "How does Martin Pfister intend to secure army funding despite resistance?",
+    "paywallQuestionTwo": "What alternatives are there to the controversial VAT increase?",
+    "paywallQuestionThree": "Why does the Federal Department of Defence (VBS) lack the trust of parliament and the public?",
+    "nzzasFootnote": true,
+    "tags": [
+     "Schweiz: Sicherheitspolitik"
+    ],
+    "characterCount": 7511,
+    "product": "NZZ.ch",
+    "documentId": "10006961",
+    "layout": "regular",
+    "publicationDate": "2026-05-17T03:30:00.000Z",
+    "publicationLastUpdated": "2026-05-17T17:43:26.081Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-05-17T15:30:00.000Z",
+    "teaserCaption": "The negative news from the Department of Defence continues unabated. This makes it even more difficult for Federal Councillor Martin Pfister to accomplish his central task: finally securing the money the army so desperately needs. The risk of a collapse is enormous.",
+    "authorLine": "Simon Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/570a3820-2261-433b-b382-d1b4e12bf7c4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/armee-finanzen-der-druck-auf-bundesrat-martin-pfister-steigt-ld.10006961",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1123,
+    "leadText": "The negative news from the Department of Defence continues unabated. This makes it even more difficult for Federal Councillor Martin Pfister to accomplish his central task: finally securing the money the army so desperately needs. The risk of a collapse is enormous.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020356",
+    "name": "Pfister Plans Drone and Robotics Center for Army and Civilian Emergency Services",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Schweiz",
+    "subCategory1": "Sicherheitspolitik",
+    "attributes": {
+     "headline": "Pfister Plans Drone and Robotics Center for Army and Civilian Emergency Services",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1839612,
+       "name": "Selina Berner",
+       "shortName": "sia",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T15:16:48.232Z",
+     "updateTimestamp": "2026-08-27T15:42:42.060Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020356",
+   "pageType": "regular",
+   "primaryCategory": "Schweiz",
+   "subCategory1": "Sicherheitspolitik",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Pfister plans new drone and robotics center for Switzerland",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/58fdc017-bba0-4266-ae75-a249c9976d56.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y313&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Selina Berner, Thun",
+  "description": "Switzerland faces a proliferation of drone defense systems. Defense Minister Martin Pfister now aims to consolidate responsibilities and expertise. The project faces various hurdles: neither the location nor the budget or legal framework have been clarified.",
+  "news_keywords": "Pfister plans a drone and robotics center for the army and civilian emergency services, security policy, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T19:42:42+02:00",
+  "date": "2026-08-27T19:16:48+02:00",
+  "canonical": "https://www.nzz.ch/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Pfister Plans Drone and Robotics Center for Army and Civilian Emergency Services",
+  "ogTitle": "Drone defense in Switzerland: Pfister plans new center",
+  "ogUrl": "https://www.nzz.ch/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356",
+  "mrf:cms_id": "nzz:ld.10020356",
+  "mrf:sections": "Schweiz;Sicherheitspolitik",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020356",
+  "nzzAuthors": [
+   {
+    "id": 1839612,
+    "name": "Selina Berner",
+    "shortName": "sia",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:02 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/schweiz",
+      "name": "Switzerland"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/schweiz/sicherheitspolitik",
+      "name": "Security Policy"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Pfister plans new drone and robotics center for Switzerland"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356"
+   },
+   "headline": "Pfister plans new drone and robotics center for Switzerland",
+   "datePublished": "2026-08-27T19:16:48+02:00",
+   "dateModified": "2026-08-27T19:42:42+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Switzerland faces a proliferation of drone defense systems. Defense Minister Martin Pfister now aims to consolidate responsibilities and expertise. The project faces various hurdles: neither the location nor the budget or legal framework have been clarified.",
+   "isAccessibleForFree": false,
+   "articleSection": "Sicherheitspolitik",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/58fdc017-bba0-4266-ae75-a249c9976d56.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y313&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Selina Berner"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 396648,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/schweiz/sicherheitspolitik/pfister-plant-ein-drohnen-und-robotikzentrum-fuer-die-armee-und-zivile-blaulichtorganisationen-ld.10020356",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020356",
+    "channel=Schweiz"
+   ],
+   "ContentCreated": "2026-08-27T15:16:48.232Z",
+   "ContentAuthor": "Selina Berner, Thun",
+   "ContentSection": "Schweiz",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie will Pfister zivile und militärische Akteure im Drohnenzentrum bündeln?\nWelche rechtlichen Hürden erschweren den Aufbau des Drohnenzentrums?\nWarum fordert Pfister mehr Mittel für Drohnen- und Robotikfähigkeiten?",
+   "ldId": "ld.10020356",
+   "channel": "Schweiz",
+   "subChannel": "Sicherheitspolitik",
+   "heading": "Pfister plant ein Drohnen- und Robotikzentrum für die Armee und zivile Blaulichtorganisationen",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

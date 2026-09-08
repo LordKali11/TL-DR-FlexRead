@@ -1,0 +1,704 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k1hcdfpv1",
+   "content": {
+    "title": "Wednesday Evening Briefing",
+    "lead": "<strong>This evening's most important news:</strong> Authorities assume Aarau incident was a rampage – Investigation success after attempted attack on Leipzig Airport – What the drama surrounding Harry and Meghan says about the British",
+    "author": ""
+   },
+   "position": "fixed",
+   "containers": {
+    "authors": []
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc290gv0",
+   "content": {
+    "text": "<strong>Read this only in the NZZ: </strong>The Alps are considered a refuge for day-trippers and tourists. But glacial melt and water scarcity are becoming a problem for the entire country. What could successful water management look like? <a href=\"https://www.nzz.ch/ld.10020910\">Read the commentary</a>"
+   },
+   "data": {},
+   "prevElement": "header",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-e61803ee",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2a8b40",
+   "content": {
+    "title": "This Evening's Most Important News",
+    "id": "subtitle-das-wichtigste-am-abend"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2ahhg0",
+   "content": {
+    "title": "Aarau rampage: Suspect's 40-shot spree, surrender",
+    "id": "subtitle-amok-tat-in-aarau-der-tatverd-chtige-schoss-ber-40-mal-in-die-menge-und-stellte-sich-selbst"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1ju7oe7vi0",
+   "content": {
+    "image": {
+     "author": "NZZ",
+     "caption": "",
+     "originalUrl": "/2026/09/02/be53841b-6d62-4db1-a873-ccc1646d208b.webp?width=1024",
+     "width": 1600,
+     "height": 1200,
+     "imageService": "fastly"
+    },
+    "author": "NZZ",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2ap7v0",
+   "content": {
+    "text": "<strong>What happened:</strong> The Aargau Cantonal Police provided an update on the investigation two and a half days after the arrest of the suspect in Aarau. The police spoke of a rampage that had cost one person their life and injured six others. Two of them were still hospitalized. The police received 80 emergency calls, and in the first twelve hours of the operation, they questioned over 130 people. <a href=\"https://www.nzz.ch/ld.10021643\">Read the live updates</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6kv6v0",
+   "content": {
+    "text": "<strong>What is known about the suspect:</strong> The 43-year-old Swiss national turned himself in to the police in Delémont in the canton of Jura. According to prosecutor Christoph Rüedi, he had been in poor health for some time and suffered from psychological problems. His motive remained unclear and was still the subject of investigations, he added. <a href=\"https://www.nzz.ch/ld.10021922\">Read the report</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h73ckp1",
+   "content": {
+    "text": "<strong>How the act unfolded:</strong> On Sunday morning, the suspect drove to the parking lot on Schachenstrasse, from there he continued towards the horse racing track. Then, at the rave, he fired over 40 shots indiscriminately into the crowd with an assault rifle and fled in a vehicle towards the city of Aarau."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2befn0",
+   "content": {
+    "title": "Attempted attack on Leipzig Airport: Two suspects with Russian connections identified",
+    "id": "subtitle-versuchter-anschlag-auf-den-leipziger-flughafen-medien-berichten-von-zwei-identifizierten-verd-chtigen-mit-verbindungen-zu-russland"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2bn060",
+   "content": {
+    "text": "<strong>What happened:</strong> In Germany, investigators from the Federal Criminal Police Office have apparently identified two suspects in the attempted attack on Leipzig Airport. NDR, WDR and «Süddeutsche Zeitung» reported that a Russian-born man with a Latvian passport had been the logistics coordinator and instructor for the attack. He had connections to the Russian secret service, they said. The second suspect was a Belarusian, the outlets added. He also possessed a Russian passport and had already attracted attention for criminal offenses in the Baltics, according to the reports. <a href=\"https://www.nzz.ch/ld.10018624\">Read the latest developments</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2braf0",
+   "content": {
+    "text": "<strong>How the EU is reacting:</strong> EU Commission President Ursula von der Leyen said that the incident in Leipzig represented a new escalation on European soil. It would further strengthen the EU's resolve to increase pressure on Russia, she added. <a href=\"https://www.nzz.ch/ld.10022079\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h7vp230",
+   "content": {
+    "text": "<strong>How Russia is reacting: </strong>The Kremlin categorically denies responsibility for the incident in Leipzig and portrays the German accusations as an act of desperation by a weak government. The sanctions that Germany had imposed were a «grave mistake,» said President Vladimir Putin. Moscow has already announced countermeasures. <a href=\"https://www.nzz.ch/ld.10022027\">Read the report</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h8fjs50",
+   "content": {
+    "text": "<strong>Background:</strong> On Aug. 4, security personnel at Leipzig Airport discovered a drone rigged with explosives and a detonator. More drones were found later. The Office of the Attorney General considers the incident a serious attack on Germany's transport and logistics infrastructure. The German government holds the Russian intelligence service responsible for it."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2ldtc0",
+   "content": {
+    "title": "What Else Happened",
+    "id": "subtitle-was-sonst-noch-passiert-ist"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "enumeration-regular"
+  },
+  {
+   "identifier": "enumeration-regular",
+   "id": "doc-1jjc2mckq0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mckq1",
+      "content": {
+       "text": "<strong>Trump increases pressure over the Strait of Hormuz:</strong> For the first time, the U.S. attacked Iranian oil tankers. Tehran, in turn, targeted American military bases in the Middle East. <a href=\"https://www.nzz.ch/ld.10022048\">Read the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mmda0",
+      "content": {
+       "text": "<strong>Nestlé sells vitamin brands at a loss of billions:</strong> The world's largest food company once pursued ambitious plans in the health business. Now, CEO Philipp Navratil is scaling them back. <a href=\"https://www.nzz.ch/ld.10022039\">Read the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjc2mn7o0",
+      "content": {
+       "text": "<strong>Federal Council elects Christoph Ammann as Chairman of the National Bank Council:</strong> He will succeed Barbara Janom Steiner on May 1, 2027. Her resignation is due to statutory term limits. <a href=\"https://www.nzz.ch/ld.10020450\">Read the report</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1h84rkl0",
+      "content": {
+       "text": "<strong>After the flash flood in Nepal, the death toll rises to over 1000:</strong> Police in Kathmandu now report 1127 deaths in Nepal. China had previously reported 16 victims on the Tibetan side. The death toll is likely to rise further. 4600 people are still missing. <a href=\"https://www.nzz.ch/ld.10021247\">Read the latest developments</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1k1gq0css0",
+      "content": {
+       "text": "<strong>Belinda Bencic eliminated from the U.S. Open:</strong> The Swiss tennis player hit a ball into the stands at the last Grand Slam tournament of the year and narrowly escaped disqualification. In the end, she lost the match against Kazakhstan's Yulia Putintseva in three sets. <a href=\"https://www.nzz.ch/ld.10022018\">Read the report</a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2nlqu0",
+   "content": {
+    "title": "Our recommendation for «NZZ Pro» subscribers",
+    "id": "subtitle-unsere-empfehlung-f-r-nzz-pro-abonnenten"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "enumeration-regular",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jjc2o9ei0",
+   "content": {
+    "image": {
+     "author": "Yoan Valat / Pool / Getty",
+     "caption": "",
+     "originalUrl": "/2026/09/02/7947d235-3ac4-4aad-a07e-6eabbdc3cbf7.webp?width=1024",
+     "width": 2048,
+     "height": 1365,
+     "altText": "US President Donald Trump and Italian Prime Minister Giorgia Meloni shake hands as they pose for a photo, at a world leaders' summit on ending the Gaza war, amid a US-brokered prisoner-hostage swap and ceasefire deal between Israel and Hamas, in Sharm el-Sheikh, Egypt, October 13, 2025. Yoan Valat/Pool via REUTERS",
+     "imageService": "fastly"
+    },
+    "author": "Yoan Valat / Pool / Getty",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2okv20",
+   "content": {
+    "text": "<strong>Transatlantic Alliance:</strong> The alliance between the Maga movement and European right-wing populists is in crisis. European nationalists have distanced themselves from American President Donald Trump, although their view of the continent aligns with his. Economic and geopolitical rifts have opened up that are insurmountable for the foreseeable future. <a href=\"https://www.nzz.ch/ld.10017749\">Read the background</a>"
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gnjlu60",
+   "content": {
+    "text": "<strong>Helvetic Economic Miracle:</strong> For decades, Switzerland has succeeded in attracting and retaining large corporations. However, a new study now suggests that the country is losing ground in key location factors. The dissatisfaction of multinational companies in Switzerland is growing. <a href=\"https://www.nzz.ch/ld.10021678\">Read the background</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1jjc2pk0h0",
+   "content": {
+    "text": "With the premium newsletter «NZZ Pro,» you get a look ahead at the global economy and geopolitics. Test it free for 30 days now. <a href=\"http://abo.nzz.ch/newsletter/pro\">Register here</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2qi8q0",
+   "content": {
+    "title": "Our Recommendations Today",
+    "id": "subtitle-das-empfehlen-wir-heute"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "footnote",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jjc2qrde0",
+   "content": {
+    "image": {
+     "author": "Christof Schürpf / Keystone",
+     "caption": "",
+     "originalUrl": "/2026/09/02/663205ac-a462-4333-b7a2-e736e706ef6b.webp?width=1024",
+     "width": 2048,
+     "height": 1365,
+     "altText": "Couple, 60 plus, in an installation by the artist Laure Prouvost, Kunstmuseum Luzern, Switzerland",
+     "imageService": "fastly"
+    },
+    "author": "Christof Schürpf / Keystone",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gnvcp40",
+   "content": {
+    "text": "<strong>Pension or capital:</strong> More and more retirees are opting for a lump-sum payment instead of a pension when withdrawing their pension fund assets. This decision entails risks. Conflicts of interest and faulty advice threaten from banks, insurance companies, and experts. <a href=\"https://www.nzz.ch/ld.10021795\">Read the report</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2r2a30",
+   "content": {
+    "text": "<strong>Harry and Meghan: </strong>King Charles's younger son and his wife have returned to England from the U.S. The tabloids are reacting hysterically. While the prince's behavior is often contradictory, that of the media and the public is equally so. <a href=\"https://www.nzz.ch/ld.10021792\">Read the background</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1gsiilf0",
+   "content": {
+    "text": "<strong>Trapped in dystopia:</strong> Just over a month after the migrant surge on the Spanish enclave of Ceuta, the situation on the ground has not yet calmed. Refugees are living in miserable conditions and wandering through the streets. Residents complain about the loss of normalcy. Some are violent towards migrants. Behind closed doors, even government circles now admit to having underestimated the scale of the crisis. <a href=\"https://www.nzz.ch/ld.10021760\">Read the background</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jjc2rng90",
+   "content": {
+    "title": "Before You Go On",
+    "id": "subtitle-bevor-sie-weitergehen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2s2t20",
+   "content": {
+    "text": "<strong>🎧 Listen:</strong> Beijing is trying everything to destabilize Taiwan without a single shot being fired. Sinologist and intelligence expert Jürgen Kremb explains in «NZZ Geopolitik» how China is infiltrating the island with cyberattacks, disinformation, and espionage. <a href=\"https://www.nzz.ch/ld.10021963\">Listen to the podcast</a>"
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2sab20",
+   "content": {
+    "text": "<strong>📱 Experience:</strong> Digital communication technologies have revolutionized the way we interact. What used to be formal and slow is now casual and fast. But who controls the networks and content? And what does it mean to put an iPad in the hands of toddlers? Join the discussion at the «NZZ Podium» tomorrow, Thursday – on site or online. <a href=\"https://live.nzz.ch/de/events/nzz-podium-schweiz/social-media\">Register here</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2skk80",
+   "content": {
+    "text": "I wish you a pleasant evening."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjc2sqf70",
+   "content": {
+    "text": "Marcel Urech"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "footnote"
+  },
+  {
+   "identifier": "footnote",
+   "id": "doc-1k1hcdfq20",
+   "content": {
+    "text": "The briefing is published on weekdays at 6 AM and 5 PM. On Saturdays, there is a weekend edition at 7 AM."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZ",
+  "title": "Evening briefing",
+  "dependencies": {},
+  "nzzId": "ld.10022159",
+  "teaserImage": {
+   "originalUrl": "/2026/09/02/be53841b-6d62-4db1-a873-ccc1646d208b.webp?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/be53841b-6d62-4db1-a873-ccc1646d208b.webp?width=1024&quality=75&auto=webp",
+   "width": 1600,
+   "height": 1200,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "1600,900,x0,y150"
+    },
+    {
+     "name": "4:3",
+     "crop": "1600,1200,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "1200,1200,x200,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "900,1200,x350,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "1600,1067,x0,y67"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The most important news of the evening: Authorities assume Aarau case was a rampage ++ Investigation breakthrough after attempted attack at Leipzig Airport ++ What the Harry and Meghan drama reveals about the British",
+   "teaserAuthor": "NZZ"
+  },
+  "teaserAuthor": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "readingTime": 300,
+  "characterCount": 7155,
+  "breadcrumbs": [
+   {
+    "name": "Briefing",
+    "path": "/briefing"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10022159,
+  "contentTypeGroup": "web",
+  "layout": "briefing",
+  "firstPublicationDate": "2026-09-02T15:43:07.079Z",
+  "publicationDate": "2026-09-02T15:43:07.079Z",
+  "publicationLastUpdated": "2026-09-02T15:43:07.079Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T03:43:07.079Z",
+  "teaserCaption": "The most important news of the evening: Authorities assume Aarau case was a rampage ++ Investigation breakthrough after attempted attack at Leipzig Airport ++ What the Harry and Meghan drama reveals about the British",
+  "url": "/briefing/briefing-am-abend-ld.10022159",
+  "department": {
+   "name": "Briefing",
+   "path": "/briefing"
+  },
+  "estimationWordCount": 1056,
+  "leadText": "The most important news of the evening: Authorities assume Aarau case was a rampage ++ Investigation breakthrough after attempted attack at Leipzig Airport ++ What the Harry and Meghan drama reveals about the British",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/briefing/briefing-am-abend-ld.10022159",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/briefing/briefing-am-abend-ld.10022159",
+   "title": "Wednesday Evening Briefing",
+   "socialMediaTitle": "Wednesday Evening Briefing",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/09/02/be53841b-6d62-4db1-a873-ccc1646d208b.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1600,900,x0,y150&wmark=nzz"
+  },
+  "ldPublicationId": 2487815,
+  "isHighlightedHeader": true,
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 309360,
+  "colorSchema": "color-schema--briefing",
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10022159",
+    "name": "Evening briefing",
+    "type": "article",
+    "subType1": "briefing",
+    "subType2": "",
+    "primaryCategory": "Briefing",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Evening briefing",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T15:43:07.079Z",
+     "updateTimestamp": "2026-09-02T15:43:07.079Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10022159",
+   "pageType": "briefing",
+   "primaryCategory": "Briefing",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Wednesday Evening Briefing",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/09/02/be53841b-6d62-4db1-a873-ccc1646d208b.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1600,900,x0,y150&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 675
+  },
+  "description": "The most important news of the evening: Authorities assume Aarau case was a rampage ++ Investigation breakthrough after attempted attack at Leipzig Airport ++ What the Harry and Meghan drama reveals about the British",
+  "news_keywords": "Evening briefing, briefing, news, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T19:43:07+02:00",
+  "date": "2026-09-02T19:43:07+02:00",
+  "canonical": "https://www.nzz.ch/briefing/briefing-am-abend-ld.10022159",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Evening briefing",
+  "ogTitle": "Wednesday Evening Briefing",
+  "bookmarkTitle": "NZZ Briefing",
+  "ogUrl": "https://www.nzz.ch/briefing/briefing-am-abend-ld.10022159",
+  "mrf:cms_id": "nzz:ld.10022159",
+  "mrf:sections": "Briefing",
+  "mrf:tags": "Page Type:briefing;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10022159",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/briefing/briefing-am-abend-ld.10022159"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:04 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Briefing"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/briefing/briefing-am-abend-ld.10022159"
+   },
+   "headline": "Wednesday Evening Briefing",
+   "datePublished": "2026-09-02T19:43:07+02:00",
+   "dateModified": "2026-09-02T19:43:07+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The most important news of the evening: Authorities assume Aarau case was a rampage ++ Investigation breakthrough after attempted attack at Leipzig Airport ++ What the Harry and Meghan drama reveals about the British",
+   "isAccessibleForFree": false,
+   "articleSection": "Briefing",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/09/02/be53841b-6d62-4db1-a873-ccc1646d208b.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1600,900,x0,y150&wmark=nzz",
+    "width": 1200,
+    "height": 675
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 309360,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/briefing/briefing-am-abend-ld.10022159",
+    "classification=default",
+    "relevance=default",
+    "layout=briefing",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10022159",
+    "channel=Briefing"
+   ],
+   "ContentCreated": "2026-09-02T15:43:07.079Z",
+   "ContentSection": "Briefing",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "briefing",
+   "ldId": "ld.10022159",
+   "channel": "Briefing",
+   "heading": "Briefing am Abend",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

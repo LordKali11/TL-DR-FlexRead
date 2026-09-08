@@ -1,0 +1,38 @@
+# Trade unions demand a 13th pension fund annuity: That’s a crazy idea
+
+*The demand for a «thirteenth» pension in occupational pension schemes seems absurd: mathematically, this would only work if future pensioners lived for a shorter time.*
+
+**Albert Steck** · Meinung · 2026-08-25 · 616 words · [ld.10020531](https://www.nzz.ch/meinung/die-gewerkschaften-verlangen-eine-13-pensionskassenrente-das-ist-eine-schnapsidee-ld.10020531)
+
+![The Swiss Federation of Trade Unions discovers pension funds after the AHV: Its latest demand is the payment of a 13th pension fund annuity.](https://img-msp-prod.nzz.ch/2025/12/27/698b2aee-3a57-4ddd-93cb-4d2c90cbe135.jpg?crop=6915,4609,x0,y0)
+*The Swiss Federation of Trade Unions discovers pension funds after the AHV: Its latest demand is the payment of a 13th pension fund annuity.* (Keystone)
+
+For the Swiss Federation of Trade Unions (SGB), 13 is a lucky number. With the 13th AHV annuity, it has achieved its biggest political triumph in years. The additional annuity will be paid out for the first time this December. The financing, however, remains unclear. In November, voters will decide on a higher value-added tax, which can only cover a portion of the costs.
+
+Nevertheless, the SGB has already launched its next initiative with the number 13: It is now also demanding a 13th pension fund annuity. With all due respect, this is a crazy idea. Above all, the request demonstrates little understanding of how our pension system functions.
+
+The AHV is based on the pay-as-you-go system. The vast majority of annuities are paid from the contributions of the active working population. Provided there is agreement on the financing key, a 14th or even a 15th AHV annuity could theoretically be granted.
+
+## Pension funds: Individual savings
+
+It is entirely different with pension funds, which are based on the funded system: Here, in principle, everyone saves for themselves, although some redistribution does occur. Married individuals with a high life expectancy fare better than single people and those who die young.
+
+What happens now if pension funds pay out a 13th annuity? The answer is simple: The accumulated retirement assets will last for a shorter period. Thus, the calculation would only work if retirees lived for a shorter period. Otherwise, a financial gap would arise until the end of their lives.
+
+The SGB argued in its position paper, which the delegates adopted, that pension funds had «accumulated very high reserves.» The necessary money was therefore available, it maintained. But is it wise to plunder these reserves for a «13th»? On this point, the SGB also demonstrates little expertise.
+
+Thanks to positive stock market developments, pension schemes have built up financial cushions the largest they have been in many years. However, these have an important function: Only thanks to these reserves do the funds possess the necessary risk capacity to invest in equities and thus achieve higher returns. A pension fund without such a cushion, on the other hand, very easily falls into underfunding. To prevent this, it would be forced to hold exclusively secure government bonds, which, however, yield hardly any interest.
+
+## Pension funds denounced as «greedy»
+
+The dubious nature of the SGB's request is evident in another point: The SGB bases its demand on the finding that pension funds have earned a lot. With a 13th annuity, however, the pressure to achieve high returns would further increase – particularly for real estate portfolios. While unions usually denounce the «greed» of pension funds, which they say allegedly drive up rents, pension funds are now suddenly supposed to boost their returns.
+
+The fact that the concept of a 13th pension fund annuity is not well thought out is also evident in the question of capital withdrawal. Upon retirement, each insured person can choose whether they prefer an annuity or wish to withdraw at least a portion of their accumulated assets. The latter is particularly recommended for individuals with poor health. The payout ensures that the capital is not lost in the event of an early death and can thus be passed on to descendants. Consequently, if the capital withdrawal is not also increased by an additional twelfth, this solution would be disadvantaged.
+
+To this day, occupational pensions primarily follow arithmetic logic and less political wishful thinking. This structure has proven its worth and leads to a sensible complement to the AHV. It would therefore be wrong to leave pension schemes as a playground for trade unions. Especially since the AHV's finances are already severely strained due to expansion plans. One can therefore confidently assume that the demand for a 13th pension fund annuity will soon be shelved.
+
+---
+**Auto summary (NZZ, GPT-generated):**
+- The Swiss Federation of Trade Unions is calling for a 13th pension fund payment, a move criticized as unrealistic and out of sync with the capital-funded system of pension funds.
+- Critics argue that an additional payment would either reduce retirees' savings or jeopardize the financial reserves of pension funds, which are crucial for long-term stability and returns.
+- The demand could also increase pressure on pension funds to achieve higher investment returns, conflicting with the goal of maintaining stable asset management.

@@ -1,0 +1,579 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjjiu12d0",
+   "content": {
+    "subject": "150 Weingüter aus der Schweiz",
+    "preheader": "Degustation"
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-20132c35",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mlk270",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/04/30/50af1110-5343-4f6a-860e-fbf71c38e5a0.png",
+     "mediaId": "DjukiLu1k38e",
+     "key": "2026/04/30/50af1110-5343-4f6a-860e-fbf71c38e5a0.png",
+     "width": 688,
+     "height": 685,
+     "mimeType": "image/png",
+     "altText": ".",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/30/50af1110-5343-4f6a-860e-fbf71c38e5a0.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjjiu12e2",
+   "content": {
+    "text": "by Peter Keller"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjjiu12e3",
+   "content": {
+    "text": "Wine editor"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj2jl30",
+   "content": {
+    "title": "Showcase of Swiss wines"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1175fbv0",
+   "content": {
+    "text": "It's slowly becoming common knowledge that Swiss wines can age very well – at least those from the local elite. The winegrowers' association Mémoire des Vins Suisses, in particular, has made it its commendable mission to showcase the potential of locally grown grape varieties such as Chasselas, Pinot Noir, and Merlot. But extended aging is equally worthwhile for numerous specialties like Completer, Petite Arvine, and Räuschling, offering unique sensory experiences."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1175fc10",
+   "content": {
+    "text": "The largest exhibition of top Swiss wines is the annual Swiss Wine Tasting in Zurich on August 30th and 31st. On Sunday, you can see just how much aging potential these wines truly possess. Around 70 examples from the 2016 vintage will be presented – a unique tasting experience and an opportunity to assess the current state of ten-year-old wines. Monday then features a showcase of the finest wines from over 150 renowned wineries. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/swiss-wine-tasting-weine-von-150-spitzenweinguetern-in-zuerich-probieren-ld.1935098\">I've already selected a hidden gem from each of the six wine-growing regions that you shouldn't miss.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1175fc20",
+   "content": {
+    "text": "Not from Switzerland, but from Spain, the football world champions, comes my latest wine from the NZZ Edition. I've found a successful, approachable, complex, and elegant Rioja from the Bideona winery. The winery emphasizes that their wines should be defined by their origin, not their production method. Give it a try! <a target=\"_blank\" href=\"https://shop.nzz.ch/Weinpaket-Rioja-Revillas-Bideona-NZZ-Edition-mit-Peter-Keller/SW13996\">You can order the wine here.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1175fc21",
+   "content": {
+    "text": "I wish you a successful tasting."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj1hv60",
+   "content": {
+    "text": "Peter Keller"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-footnote"
+  },
+  {
+   "identifier": "newsletter_baukasten-footnote",
+   "id": "doc-1jjjj1qd70",
+   "content": {
+    "text": "All articles at a glance: Click here to go to my <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/weinkeller-ld.1843436\">author page</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj31iv0",
+   "content": {
+    "title": "Why does the same wine taste different?"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-footnote",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj33jk0",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/warum-schmeckt-der-gleiche-wein-unterschiedlich-ld.1935087",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/27/5f9afbac-5fbb-4553-b413-bd5a4bbadd87.jpg",
+     "mediaId": "gVku7YD5Oxb2",
+     "key": "2026/08/27/5f9afbac-5fbb-4553-b413-bd5a4bbadd87.jpg",
+     "width": 915,
+     "height": 1373,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/5f9afbac-5fbb-4553-b413-bd5a4bbadd87.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Getty Images"
+   },
+   "styles": {
+    "image-style": "baukasten-image-portrait"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj359i0",
+   "content": {
+    "text": "Bruno P. from Z. was served an excellent wine in a restaurant. At home, the same wine didn't taste quite as good. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/warum-schmeckt-der-gleiche-wein-unterschiedlich-ld.1935087\">What could be the reason for this?</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj3sfg0",
+   "content": {
+    "title": "The grand showcase of Swiss wines – featuring 150 top Swiss wineries"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj3ubn0",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/swiss-wine-tasting-weine-von-150-spitzenweinguetern-in-zuerich-probieren-ld.1935098",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/27/0d38aa28-8fa0-4856-abd1-e079499ac303.jpg",
+     "mediaId": "PfuBhaUKMNG2",
+     "key": "2026/08/27/0d38aa28-8fa0-4856-abd1-e079499ac303.jpg",
+     "width": 6673,
+     "height": 4449,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/0d38aa28-8fa0-4856-abd1-e079499ac303.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "PD"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj419c0",
+   "content": {
+    "text": "A tasting of superlatives: At the Swiss Wine Tasting, around 150 top Swiss wineries pour their products. Guests are spoiled for choice. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/swiss-wine-tasting-weine-von-150-spitzenweinguetern-in-zuerich-probieren-ld.1935098\">I make a pre-selection and present one participating winery from each of the six wine-growing regions.</a>"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj46r60",
+   "content": {
+    "title": "Rosé wines for the last warm days: The tasting winner comes not from Provence, but from Austria"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj49420",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/rose-weine-im-test-der-ueberraschende-sieger-kommt-aus-oesterreich-ld.1934789",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/27/9339ce18-e203-4d61-ab17-4f0ec61b7294.jpg",
+     "mediaId": "S8VcNjOUSr4K",
+     "key": "2026/08/27/9339ce18-e203-4d61-ab17-4f0ec61b7294.jpg",
+     "width": 915,
+     "height": 1373,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/9339ce18-e203-4d61-ab17-4f0ec61b7294.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "Kelsey Curtis /&nbsp;Unsplash"
+   },
+   "styles": {
+    "image-style": "baukasten-image-portrait"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj4pqs0",
+   "content": {
+    "text": "Rosé wines are the stars of the moment. We tasted twelve wines that particularly impressed us. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/rose-weine-im-test-der-ueberraschende-sieger-kommt-aus-oesterreich-ld.1934789\">One trio stood out most – with a fresh, light-bodied winner from Austria.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjjj54ru0",
+   "content": {
+    "title": "Authentic terroir wines of the highest quality from Spain"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjjj57om0",
+   "content": {
+    "link": {
+     "href": "https://bellevue.nzz.ch/kochen-geniessen/wein/dona-blanca-unbekannte-traube-aus-bierzo-in-spanien-ld.1935072",
+     "target": "_blank"
+    },
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/27/45a5cab6-839e-44ad-b533-19ea2f0f1b55.jpg",
+     "mediaId": "0ImGl7p7R29j",
+     "key": "2026/08/27/45a5cab6-839e-44ad-b533-19ea2f0f1b55.jpg",
+     "width": 853,
+     "height": 569,
+     "mimeType": "image/jpeg",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/45a5cab6-839e-44ad-b533-19ea2f0f1b55.jpg?width=1024&quality=75&auto=webp"
+    },
+    "source": "PD"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjjj5a6v0",
+   "content": {
+    "text": "The Spanish winery Michelini i Mufatto produces Burgundian-style wines with depth and vibrancy in the Bierzo wine region. <a target=\"_blank\" href=\"https://bellevue.nzz.ch/kochen-geniessen/wein/dona-blanca-unbekannte-traube-aus-bierzo-in-spanien-ld.1935072\">Besides the local red wine variety Mencía, a white gem made from the little-known Doña Blanca grape stands out in particular.</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jmq4p5bm0",
+   "content": {
+    "text": "<strong>Do you like our «wine cellar»? Then forward this newsletter to your friends.</strong>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jmq4p97a0",
+   "content": {
+    "text": "Did you receive the newsletter from a friend? <a target=\"_blank\" href=\"https://abo.nzz.ch/newsletter/weinkeller/\">Sign up for the «Wine Cellar» here</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jmq4pcp70",
+   "content": {
+    "text": "Would you like to receive more content from the «Bellevue» editorial team in your daily life? <a target=\"_blank\" href=\"https://abo.nzz.ch/newsletter/\">You can find our other newsletters here</a> ."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654597"
+   }
+  },
+  "title": "Wine cellar 27.08.2026",
+  "owner": "Bellevue",
+  "dependencies": {},
+  "issueDate": "2026-08-27T00:00:00.000Z",
+  "nzzId": "ld.10021286",
+  "product": "NZZ.ch",
+  "documentId": 10021286,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-08-27T13:03:21.668Z",
+  "publicationDate": "2026-08-27T13:03:21.668Z",
+  "publicationLastUpdated": "2026-08-27T13:03:21.668Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T01:03:21.668Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021286",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021286",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2484623,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021286",
+    "name": "Wine cellar 27.08.2026",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Wine cellar 27.08.2026",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-08-27T13:03:21.668Z",
+     "updateTimestamp": "2026-08-27T13:03:21.668Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "Bellevue"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021286",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Wine cellar 27.08.2026 | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Wine cellar, August 27, 2026, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T17:03:21+02:00",
+  "date": "2026-08-27T17:03:21+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021286",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Wine cellar 27.08.2026",
+  "ogTitle": "Wine cellar 27.08.2026 | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021286",
+  "mrf:cms_id": "nzz:ld.10021286",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:Bellevue;Content Type:Standard Article;Article ID:ld.10021286",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021286"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:36 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Wine cellar 27.08.2026"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021286"
+   },
+   "headline": "Wine cellar 27.08.2026 | NZZ",
+   "datePublished": "2026-08-27T17:03:21+02:00",
+   "dateModified": "2026-08-27T17:03:21+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021286",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=bellevue",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021286"
+   ],
+   "ContentCreated": "2026-08-27T13:03:21.668Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021286",
+   "heading": "Weinkeller 27.08.2026",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

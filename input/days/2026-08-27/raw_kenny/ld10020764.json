@@ -1,0 +1,975 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k0pg9is70",
+   "content": {
+    "title": "No fear of engine damage: When plug-in hybrids pay off",
+    "lead": "Cold starts in plug-in hybrids are well protected thanks to modern lubrication and pump technology. But there are pitfalls when using the internal combustion engine in a hybrid drive.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k0pg9is71",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Herbie Schmidt",
+       "url": "/impressum/herbert-schmidt-ld.1287489",
+       "teaserImage": {
+        "originalUrl": "/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k0pg9is72",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "The Mercedes C-Class is available in various drive versions: The C 300 e in the picture is a plug-in hybrid, but it is also available as the C 300 d with a pure diesel drive.",
+     "originalUrl": "/2026/08/24/fdea9784-af52-40b6-9b9d-f2be7f3fd666.jpg?crop=6203,4135,x1728,y0",
+     "width": 8256,
+     "height": 5504,
+     "altText": "Mercedes-Benz C 300 e (combined fuel consumption, weighted (WLTP): 0.8-0.6 l/100 km; combined CO2 emissions, weighted (WLTP): 17-13 g/km; combined electric power consumption, weighted (WLTP): 23.3-20.8 kWh/100 km); designo selenite grey magno; sienna brown/black Nappa leather; AMG Line + Night Package; comfort suspension; DC charging; (Combined fuel consumption, weighted (WLTP): 0.8-0.6 l/100 km; Combined CO2 emissions, weighted (WLTP): 17-13 g/km; Combined energy consumption, weighted (WLTP): 23.3-20.8 kWh/100 km)* Mercedes-Benz C 300 e (combined fuel consumption weighted (WLTP): 0.8-0.6 l/100 km; combined CO2 emissions weighted (WLTP): 17-13 g/km; combined energy consumption weighted (WLTP): 23.3-20.8 kWh/100 km); designo selenite grey magno; Nappa leather sienna brown/black; AMG Line + Night Package; Comfort suspension; DC charging;(combined fuel consumption weighted (WLTP): 0.8-0.6 l/100 km; combined CO2 emissions weighted (WLTP): 17-13 g/km; combined energy consumption weighted (WLTP): 23.3-20.8 kWh/100 km)*",
+     "crop": {
+      "x": 1728,
+      "y": 0,
+      "width": 6203,
+      "height": 4135,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 1728,
+       "y": 0,
+       "width": 6203,
+       "height": 4135,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The Mercedes C-Class is available in various drive versions: The C 300 e in the picture is a plug-in hybrid, but it is also available as the C 300 d with a pure diesel drive.",
+    "author": "PD"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgsu540",
+   "content": {
+    "text": "<strong>Reader question: I have heard that there is a risk to the internal combustion engine in plug-in hybrid cars. It automatically switches on when high power is demanded and then has to immediately develop power. Should I now buy a car with a diesel engine without a hybrid to avoid engine damage?</strong>"
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-6f218c9a",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgsu5b0",
+   "content": {
+    "text": "The concern that internal combustion engines in plug-in hybrids (PHEVs) suffer damage from cold starts is technically largely unfounded. Today's manufacturers take precise precautions for this scenario: The internal combustion engine does not start without lubrication when there is a sudden demand for power. Electric oil pumps ensure the necessary oil pressure before or during its engagement with the drive."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgsu5d0",
+   "content": {
+    "text": "Plug-in hybrids also use particularly low-viscosity engine oils with special lubricant film additives that immediately adhere to friction surfaces and minimize internal combustion engine wear."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0pgsu5f0",
+   "content": {
+    "title": "Old fuel a source of risk",
+    "id": "subtitle-alter-sprit-ist-eine-risikoquelle"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgsu5g0",
+   "content": {
+    "text": "That is only half the truth, however. The fuel in the tank ages faster in plug-in hybrids than in pure internal combustion vehicles because it is consumed less frequently. While driving almost exclusively electrically is particularly environmentally friendly and economical, fuel that remains in the tank for a long time can gum up or accumulate moisture. «This worsens cold-start and driving behavior and increases deposit formation in the fuel system during the longer warm-up phase of hybrid vehicle engines,» explains David Kaiser, Head of Research at lubricant manufacturer Liqui Moly."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgsu5g1",
+   "content": {
+    "text": "In addition, very frequent and short uses of the internal combustion engine can prevent the engine oil from reaching its operating temperature. Unburnt fuel can thus get into the oil and impair its lubricating properties."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0pg9qk90",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "44e18ce60c71c65aba54e00ca9f63022",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-table-container\"        id=\"q_table_44e18ce60c71c65aba54e00ca9f63022_q6ddad2b1b87a41e29dcf7df92563e9b7_container\"        data-q-item-id=\"44e18ce60c71c65aba54e00ca9f63022\"        data-q-request-id=\"3677e3b4caddc3294214a7b0082e9bd9dd93abe2\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"44e18ce60c71c65aba54e00ca9f63022\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"table\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"44e18ce60c71c65aba54e00ca9f63022\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"table\"}},\"3677e3b4caddc3294214a7b0082e9bd9dd93abe2\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/table/q-table-7.10.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_table_44e18ce60c71c65aba54e00ca9f63022_q6ddad2b1b87a41e29dcf7df92563e9b7_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"44e18ce60c71c65aba54e00ca9f63022\",\"title\":\"Decision criteria for PHEV or diesel\",\"subtitle\":\"\",\"publication\":\"nzz\",\"acronym\":\"hdt.\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"number\",\"decimalSeparator\":\".\"}]},\"data\":{\"table\":[[\"criterion\",\"Plug-in hybrid (PHEV)\",\"Diesel\"],[\"Ideal profile\",\"Daily short commutes (electric), occasional long journeys\",\"Regular long-distance driving and frequent drivers (>20,000 km/year)\"],[\"Cold start problem\",\"Largely compensated for by software and low-viscosity oils\",\"Classic warm-up required\"],[\"Maintenance risk\",\"Higher speeds thanks to dual technology (electric and combustion engine)\",\"Moderate, but prone to problems with frequent short trips (particulate filter)\"]],\"metaData\":{\"cells\":[]}},\"sources\":[],\"options\":{\"hideTableHeader\":false,\"showTableSearch\":false,\"cardLayout\":false,\"cardLayoutIfSmall\":false,\"hideLegend\":false,\"frozenRowKey\":null,\"sorting\":[],\"formatting\":[],\"minibar\":{\"selectedColumn\":null,\"invertColors\":false,\"barColor\":{\"positive\":{\"className\":\"\",\"colorCode\":\"\"},\"negative\":{\"className\":\"\",\"colorCode\":\"\"}}},\"colorColumn\":{\"colorColumnType\":\"numerical\",\"selectedColumn\":[],\"numericalOptions\":{\"labelLegend\":\"noLabel\",\"bucketType\":\"ckmeans\",\"numberBuckets\":5,\"scale\":\"sequential\",\"colorScheme\":\"one\",\"invertColorScheme\":false,\"colorOverwrites\":[],\"customBuckets\":\"\"},\"categoricalOptions\":{\"colorOverwrites\":[],\"customCategoriesOrder\":[]}}},\"updatedDate\":\"2026-08-26T12:29:41.004Z\"};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_table_44e18ce60c71c65aba54e00ca9f63022_q6ddad2b1b87a41e29dcf7df92563e9b7\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qTable) {              clearInterval(checkAndInitialize);              new window.qTable({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qTable after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0pgsu5h0",
+   "content": {
+    "text": "Another problem arises because hybrid cars combine two types of drive. If one of the two systems, electric or internal combustion, fails, the entire vehicle can come to a complete halt."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k0ph52330",
+   "content": {
+    "title": "Everyday use matters",
+    "id": "subtitle-es-kommt-auf-den-allt-glichen-einsatz-an"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ph3rui0",
+   "content": {
+    "text": "Switching to a vehicle with a diesel engine without an electric drive is only worthwhile if the typical driving profile includes a high proportion of long-distance journeys. For short distances, a modern diesel suffers significantly more from particulate filter blockages than a plug-in hybrid."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0uimf5h0",
+   "content": {
+    "text": "Drivers who cover long distances with high power demands, for example, on highways, operate a plug-in hybrid car very inefficiently. In such cases, the internal combustion engine performs the primary propulsion work. However, it is sized smaller than in vehicles without electric assistance and reaches its performance limits faster. This results in high fuel consumption."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0ph3ruk0",
+   "content": {
+    "text": "If buyers use a home charging station, a plug-in hybrid remains a reliable choice. However, a purely battery-electric vehicle (BEV) offers maximum simplicity in everyday use and maintenance."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "q-embed"
+  },
+  {
+   "identifier": "q-embed",
+   "id": "doc-1k0ud4pdb0",
+   "content": {
+    "q-embed": {
+     "service": "q-tool",
+     "params": {
+      "id": "872fb1cdef85ea3a148e8045c0e8ffcc",
+      "conf": {},
+      "toolConfig": {},
+      "toolRuntimeConfig": {
+       "size": {
+        "width": [
+         {
+          "value": 100,
+          "comparison": ">"
+         }
+        ]
+       },
+       "displayOptions": {
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideFooter": false,
+        "hideAcronym": false,
+        "size": "basic"
+       },
+       "locale": "en_US"
+      },
+      "size": "content"
+     },
+     "resolvedValue": {}
+    },
+    "html": "      <div        class=\"q-chart-container\"        id=\"q_chart_872fb1cdef85ea3a148e8045c0e8ffcc_q6bbb75a8ea1d4c23948eb4c469767e10_container\"        data-q-item-id=\"872fb1cdef85ea3a148e8045c0e8ffcc\"        data-q-request-id=\"789183583b1b819e9f326265674ca7d322126115\"      ></div>",
+    "stylesheets": [
+     {
+      "type": "remote",
+      "content": "https://service.sophie.nzz.ch/bundle/sophie-color%23master,sophie-font%23master,sophie-input%23master[button+field],sophie-legend%23master[icon-label],sophie-q%23master,sophie-viz-color%23master.css"
+     },
+     {
+      "type": "inline",
+      "content": "  @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light.woff) format(\"woff\");  }    @font-face{    font-weight: 50 300;     font-family: \"NZZ Sans\";    font-display:swap;    src:      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff2) format(\"woff2\"),      url(https://nzz-q-prod2.static-nzz.ch/q-server/fonts/GT-America-Standard-Light-Subset.woff) format(\"woff\");    unicode-range: U+0020-00FF,U+2005,U+2082;  }      "
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/css-theme-layer/nzz-0.2.0.css"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.css"
+     }
+    ],
+    "scripts": [
+     {
+      "type": "inline",
+      "content": "function qTrackingBootstrap(t,e,n){if(window.digitalData&&window.digitalData.component&&window.digitalData.component.push){window.digitalData.component.push(t),window.digitalData.event&&window.digitalData.event.length||(window.digitalData.event=[]);var i=new Date,a=e;a.eventInfo.timeStamp=i.toISOString(),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\");var o=document.querySelectorAll(\"[data-q-request-id='\"+n+\"']\");[].forEach.call(o,function(t){t.addEventListener(\"q-tracking-event\",function(t){var e=new Date;(a=JSON.parse(JSON.stringify(a))).eventInfo.timeStamp=e.toISOString(),a.eventInfo=Object.assign(a.eventInfo,t.detail.eventInfo),a.category=Object.assign(a.category,t.detail.category),window.digitalData.event.push(a),void 0!==window.DANZZ&&\"function\"==typeof DANZZ.eventTrigger&&DANZZ.eventTrigger(\"q\")},!1)})}};qTrackingBootstrap({\"componentInfo\":{\"componentName\":\"Q\",\"componentID\":\"872fb1cdef85ea3a148e8045c0e8ffcc\"},\"category\":{\"componentType\":\"storytelling\",\"componentSubType1\":\"Q graphic\",\"componentSubType2\":\"chart\"}},{\"eventInfo\":{\"eventName\":\"Storytelling Interaction\",\"eventAction\":\"load\",\"type\":\"story\",\"componentName\":\"Q\",\"eventNonInteractive\":true,\"componentID\":\"872fb1cdef85ea3a148e8045c0e8ffcc\"},\"category\":{\"primaryCategory\":\"storytelling\",\"subCategory1\":\"Q graphic\",\"subCategory2\":\"chart\"}},\"789183583b1b819e9f326265674ca7d322126115\")"
+     },
+     {
+      "type": "remote",
+      "content": "https://nzz-q-prod2.static-nzz.ch/q-tools-bundles/chart/q-chart-1.2.6.js"
+     },
+     {
+      "type": "inline",
+      "content": "      (function () {        function initialize() {          const target = document.querySelector('#q_chart_872fb1cdef85ea3a148e8045c0e8ffcc_q6bbb75a8ea1d4c23948eb4c469767e10_container');          if (!target) return;          target.innerHTML = '';          const qdoc = {\"_id\":\"872fb1cdef85ea3a148e8045c0e8ffcc\",\"allowDownloadData\":false,\"title\":\"The 10 best electric ranges for plug-in hybrid cars\",\"subtitle\":\"Electric kilometers driven (WLTP test cycle)\",\"publication\":\"nzz\",\"acronym\":\"hdt.\",\"data\":[[null,null],[\"Lynk & Co 08 1.5TD PHEV\",\"200\"],[\"GWM WEY 05\",\"158\"],[\"BYD Seal U DM-i\",\"150\"],[\"VW Golf 1.5 E-Hybrid\",\"143\"],[\"Audi A3 Sportback\",\"141\"],[\"Skoda Superb iV\",\"137\"],[\"VW Passat Variant E-Hybrid\",\"135\"],[\"Mercedes-Benz GLC 300 E\",\"130\"],[\"BMW X5 xDrive50e\",\"110\"],[\"Mitsubishi Outlander PHEV\",\"100\"]],\"sources\":[],\"events\":[],\"options\":{\"annotations\":{\"valuesOnBars\":true},\"areaChartOptions\":{\"areaInterpolation\":\"linear\",\"stackType\":\"zero\"},\"arrowOptions\":{\"colorScheme\":0,\"invertColorScheme\":false},\"barOptions\":{\"isBarChart\":true,\"forceBarsOnSmall\":false},\"chartType\":\"Bar\",\"colorOverwritesRows\":[],\"colorOverwritesSeries\":[],\"dateSeriesOptions\":{\"interval\":\"auto\",\"labels\":\"many\",\"prognosisStart\":null},\"dotplotOptions\":{},\"hideAxisLabel\":true,\"highlightDataRows\":[],\"highlightDataSeries\":[],\"lineChartOptions\":{\"yScaleType\":\"linear\",\"reverseYScale\":false,\"lineInterpolation\":\"linear\",\"isStockChart\":false},\"largeNumbers\":{\"divideBy\":0}},\"updatedDate\":\"2026-08-26T12:30:42.488Z\",\"notes\":\"As of July 2026.\",\"datasheetParseInfo\":{\"columns\":[{\"type\":\"string\"},{\"type\":\"number\",\"decimalSeparator\":\".\"},{\"type\":\"string\"},{\"type\":\"string\"},{\"type\":\"string\"}]}};          const toolRuntimeConfig = {\"displayOptions\":{\"hideTitle\":false,\"hideSubtitle\":false,\"hideFooter\":false,\"hideAcronym\":false,\"size\":\"basic\"},\"size\":{\"width\":[{\"value\":100,\"comparison\":\">\"}]},\"locale\":\"en-US\"};          const toolSettings = {\"qItemInstanceId\":\"q_chart_872fb1cdef85ea3a148e8045c0e8ffcc_q6bbb75a8ea1d4c23948eb4c469767e10\"};          let attempts = 0;          const maxAttempts = 100;          const checkAndInitialize = setInterval(() => {            if (window.qChart) {              clearInterval(checkAndInitialize);              new window.qChart({ target: target, props: {                qdoc: qdoc,                toolSettings: toolSettings,                toolRuntimeConfig: toolRuntimeConfig              } });            } else {              attempts++;              if (attempts >= maxAttempts) {                clearInterval(checkAndInitialize);                console.error('Failed to initialize qChart after 30 seconds');              }            }          }, 300);        }        if (document.body.classList.contains('pagedone')) {          initialize();        } else {          window.addEventListener('pagedone', initialize);        }      })();    "
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k0pg9is74",
+   "paidContent": true,
+   "prevElement": "q-embed",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k0pg9is75",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pg9is76",
+      "content": {
+       "title": "Car Software: Guarantees, Limits and Hidden Costs",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "Explained",
+       "teaserImage": {
+        "originalUrl": "/2014/03/03/1.18254783.1393833256.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2014/03/03/1.18254783.1393833256.jpg?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 474,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "601,338,x131,y136"
+         },
+         {
+          "name": "4:3",
+          "crop": "632,474,x84,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "474,474,x292,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "356,474,x370,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "711,474,x45,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "While manufacturers usually maintain safety-critical programs for ten to fifteen years, infotainment and connected services are often free of charge for only a few years – after that, they become a paid service",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "tags": [
+        "Mobilität aktuell",
+        "Auto"
+       ],
+       "nzzId": "ld.10019666",
+       "readingTime": 120,
+       "paywallQuestionOne": "How long do manufacturers guarantee security updates for cars?",
+       "paywallQuestionTwo": "What costs are incurred for networked services after the free trial period expires?",
+       "paywallQuestionThree": "Why can't older vehicles use new software updates?",
+       "characterCount": 3252,
+       "product": "NZZ.ch",
+       "documentId": 10019666,
+       "layout": "regular",
+       "publicationDate": "2026-08-19T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-20T16:15:43.895Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-19T15:30:00.000Z",
+       "teaserCaption": "While manufacturers usually maintain safety-critical programs for ten to fifteen years, infotainment and connected services are often free of charge for only a few years – after that, they become a paid service",
+       "authorLine": "Herbie Schmidt",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024&quality=75&auto=webp",
+       "url": "/mobilitaet/software-im-auto-garantie-grenzen-und-versteckte-kosten-ld.10019666",
+       "department": {
+        "name": "Mobility",
+        "path": "/mobilitaet"
+       },
+       "estimationWordCount": 466,
+       "leadText": "While manufacturers usually maintain safety-critical programs for ten to fifteen years, infotainment and connected services are often free of charge for only a few years – after that, they become a paid service",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pg9is77",
+      "content": {
+       "title": "Car buyers caught between psychology and physics: The plug-in hybrid becomes the range king",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "authorLine": "Fabian Hoberg",
+       "teaserImage": {
+        "originalUrl": "/2026/06/15/5f451518-f847-4996-81b9-7aa331c1b2cc.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/06/15/5f451518-f847-4996-81b9-7aa331c1b2cc.jpg?width=1024&quality=75&auto=webp",
+        "width": 5000,
+        "height": 5000,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5000,2812,x0,y1094"
+         },
+         {
+          "name": "4:3",
+          "crop": "5000,3750,x0,y625"
+         },
+         {
+          "name": "1:1",
+          "crop": "5000,5000,x0,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3750,5000,x625,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "5000,3333,x0,y833"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The new generation of plug-in hybrids offers fast charging and long electric ranges. However, experts warn especially regarding company cars: without frequent recharging, PHEVs become an expensive climate problem in company parking lots.",
+        "teaserAuthor": "PD"
+       },
+       "teaserAuthor": "PD",
+       "tags": [
+        "Auto",
+        "Mobilität aktuell",
+        "E-Mobilität"
+       ],
+       "nzzId": "ld.10011357",
+       "readingTime": 360,
+       "paywallQuestionOne": "How will the new generation of PHEVs influence electromobility?",
+       "paywallQuestionTwo": "Why don't many PHEV owners charge their vehicles regularly?",
+       "paywallQuestionThree": "What role do Chinese manufacturers play in the development of modern PHEVs?",
+       "characterCount": 7745,
+       "product": "NZZ.ch",
+       "documentId": 10011357,
+       "layout": "regular",
+       "publicationDate": "2026-06-18T03:30:00.000Z",
+       "publicationLastUpdated": "2026-06-19T07:33:19.888Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-06-18T15:30:00.000Z",
+       "teaserCaption": "The new generation of plug-in hybrids offers fast charging and long electric ranges. However, experts warn especially regarding company cars: without frequent recharging, PHEVs become an expensive climate problem in company parking lots.",
+       "url": "/mobilitaet/autokaeufer-zwischen-psychologie-und-physik-der-plug-in-hybrid-wird-zum-reichweitenkoenig-ld.10011357",
+       "department": {
+        "name": "Mobility",
+        "path": "/mobilitaet"
+       },
+       "estimationWordCount": 1183,
+       "leadText": "The new generation of plug-in hybrids offers fast charging and long electric ranges. However, experts warn especially regarding company cars: without frequent recharging, PHEVs become an expensive climate problem in company parking lots.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k0pg9is78",
+      "content": {
+       "owner": "NZZ",
+       "flag": "The other view",
+       "title": "The much-maligned plug-in hybrid lives on – this is good for the transition to e-mobility and probably also for climate protection",
+       "teaserImage": {
+        "originalUrl": "/2021/9/22/8e37b212-dc8c-4660-9ce6-f91a717a8cd8.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2021/9/22/8e37b212-dc8c-4660-9ce6-f91a717a8cd8.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6240,
+        "height": 4160,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "6240,3510,x0,y239"
+         },
+         {
+          "name": "1:1",
+          "crop": "4160,4160,x900,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "5547,4160,x693,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "3120,4160,x1744,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "For car manufacturers, it's an important piece of the puzzle in their portfolio; for environmental activists, a major annoyance. The merits of plug-in hybrids have long been debated. As a transitional solution, however, it has its place – but only if driven responsibly.",
+        "teaserAuthor": "Michael Gstettenbauer / Imago"
+       },
+       "teaserAuthor": "Michael Gstettenbauer / Imago",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1841970",
+       "readingTime": 240,
+       "showComments": true,
+       "authorLine": "Michael Rasch, Frankfurt",
+       "characterCount": 4614,
+       "product": "NZZ.ch",
+       "documentId": 1841970,
+       "layout": "opinion",
+       "publicationDate": "2024-08-08T07:07:35.713Z",
+       "publicationLastUpdated": "2024-08-08T12:36:00.866Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2024-08-08T19:07:35.713Z",
+       "teaserCaption": "For car manufacturers, it's an important piece of the puzzle in their portfolio; for environmental activists, a major annoyance. The merits of plug-in hybrids have long been debated. As a transitional solution, however, it has its place – but only if driven responsibly.",
+       "url": "/meinung/der-verhasste-plug-in-hybrid-lebt-das-ist-gut-fuer-den-uebergang-zur-e-mobilitaet-und-wohl-meist-auch-fuer-den-klimaschutz-ld.1841970",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 732,
+       "leadText": "For car manufacturers, it's an important piece of the puzzle in their portfolio; for environmental activists, a major annoyance. The merits of plug-in hybrids have long been debated. As a transitional solution, however, it has its place – but only if driven responsibly."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "No fear of engine damage: When plug-in hybrids pay off",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "flag": "Explained",
+  "teaserImage": {
+   "originalUrl": "/2026/08/24/fdea9784-af52-40b6-9b9d-f2be7f3fd666.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/fdea9784-af52-40b6-9b9d-f2be7f3fd666.jpg?width=1024&quality=75&auto=webp",
+   "width": 8256,
+   "height": 5504,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6203,3489,x1352,y604"
+    },
+    {
+     "name": "4:3",
+     "crop": "5514,4136,x1932,y162"
+    },
+    {
+     "name": "1:1",
+     "crop": "5504,5504,x1962,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3753,5004,x1924,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "5639,3760,x1837,y395"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Cold starts in plug-in hybrids are well protected thanks to modern lubrication and pump technology. But there are pitfalls when using the internal combustion engine in a hybrid drive.",
+   "teaserAuthor": "PD"
+  },
+  "teaserAuthor": "PD",
+  "tags": [
+   "Auto",
+   "Mobilität aktuell",
+   "E-Mobilität"
+  ],
+  "nzzId": "ld.10020764",
+  "readingTime": 120,
+  "characterCount": 2871,
+  "breadcrumbs": [
+   {
+    "name": "Mobility",
+    "path": "/mobilitaet"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10020764,
+  "contentTypeGroup": "web",
+  "layout": "longformstandard",
+  "firstPublicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationDate": "2026-08-27T03:30:00.000Z",
+  "publicationLastUpdated": "2026-08-27T09:26:08.699Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+  "teaserCaption": "Cold starts in plug-in hybrids are well protected thanks to modern lubrication and pump technology. But there are pitfalls when using the internal combustion engine in a hybrid drive.",
+  "nzzAuthors": [
+   {
+    "id": 1372624,
+    "name": "Herbie Schmidt",
+    "shortName": "hdt",
+    "pianoId": "72f8b386-bcab-4180-8747-2b26f4621d1d",
+    "external": false
+   }
+  ],
+  "authorLine": "Herbie Schmidt",
+  "authorImage": {
+   "originalUrl": "/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1287489,
+    "name": "Herbert Schmidt (hdt.), Mobility Editor",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/59cf68a9-168e-484e-818a-fe286c486dc9.png?width=1024&quality=75&auto=webp",
+  "url": "/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764",
+  "department": {
+   "name": "Mobility",
+   "path": "/mobilitaet"
+  },
+  "estimationWordCount": 428,
+  "leadText": "Cold starts in plug-in hybrids are well protected thanks to modern lubrication and pump technology. But there are pitfalls when using the internal combustion engine in a hybrid drive.",
+  "nzzSummaryEN": "- Plug-in hybrids are well-protected from engine damage due to modern lubrication techniques, even with spontaneous combustion engine starts.\n- Issues may arise from aging fuel or frequent short-term use of the combustion engine, affecting lubrication efficiency.\n- Diesel or battery-electric vehicles are more efficient for long distances; short trips favor plug-in hybrids, especially with access to a home charging station.",
+  "nzzSummaryDE": "Plug-in hybrids are well protected against engine damage thanks to modern lubrication techniques, even during spontaneous starts of the combustion engine.\n - Problems can arise from aging fuel or frequent short uses of the combustion engine, which impairs lubrication.\n - For long distances, diesel or battery-electric vehicles are more efficient; for short distances, plug-in hybrids are preferable, especially if a charging station is available.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Plug-in hybrids: A symbiosis with potential and pitfalls",
+  "nzzPrintSubtitle": "Plug-in hybrids offer safety through technology, but fuel aging remains problematic",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764",
+   "title": "Engine damage in plug-in hybrids? Here's what you should know",
+   "socialMediaTitle": "Is a plug-in hybrid the better choice? An overview of the advantages and disadvantages",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/24/fdea9784-af52-40b6-9b9d-f2be7f3fd666.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6203,3489,x1352,y604&wmark=nzz"
+  },
+  "ldPublicationId": 2484481,
+  "isHighlightedHeader": false,
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019666",
+    "ld.10011357",
+    "ld.1841970"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "hasQ": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 190200,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10020764",
+    "name": "No fear of engine damage: When plug-in hybrids pay off",
+    "type": "article",
+    "subType1": "longformstandard",
+    "subType2": "",
+    "primaryCategory": "Mobilität",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "No fear of engine damage: When plug-in hybrids pay off",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372624,
+       "name": "Herbie Schmidt",
+       "shortName": "hdt",
+       "pianoId": "72f8b386-bcab-4180-8747-2b26f4621d1d",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T03:30:00.000Z",
+     "updateTimestamp": "2026-08-27T09:26:08.699Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "Explained",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10020764",
+   "pageType": "longformstandard",
+   "primaryCategory": "Mobilität",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Engine damage in plug-in hybrids? Here's what you should know",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/24/fdea9784-af52-40b6-9b9d-f2be7f3fd666.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6203,3489,x1352,y604&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Herbie Schmidt",
+  "description": "Cold starts in plug-in hybrids are well protected thanks to modern lubrication and pump technology. But there are pitfalls when using the internal combustion engine in a hybrid drive.",
+  "news_keywords": "No fear of engine damage: When a plug-in hybrid makes sense, explained, Mobility, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T13:26:08+02:00",
+  "date": "2026-08-27T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "EXPLAINED - No fear of engine damage: When a plug-in hybrid is worthwhile",
+  "ogTitle": "Is a plug-in hybrid the better choice? An overview of the advantages and disadvantages",
+  "ogUrl": "https://www.nzz.ch/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764",
+  "mrf:cms_id": "nzz:ld.10020764",
+  "mrf:sections": "Mobilität;WTM",
+  "mrf:tags": "Page Type:longformstandard;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10020764",
+  "nzzAuthors": [
+   {
+    "id": 1372624,
+    "name": "Herbie Schmidt",
+    "shortName": "hdt",
+    "pianoId": "72f8b386-bcab-4180-8747-2b26f4621d1d",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:18 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/mobilitaet",
+      "name": "Mobility"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Engine damage in plug-in hybrids? Here's what you should know"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764"
+   },
+   "headline": "Engine damage in plug-in hybrids? Here's what you should know",
+   "datePublished": "2026-08-27T07:30:00+02:00",
+   "dateModified": "2026-08-27T13:26:08+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Cold starts in plug-in hybrids are well protected thanks to modern lubrication and pump technology. But there are pitfalls when using the internal combustion engine in a hybrid drive.",
+   "isAccessibleForFree": false,
+   "articleSection": "Mobilität",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/24/fdea9784-af52-40b6-9b9d-f2be7f3fd666.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6203,3489,x1352,y604&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Herbie Schmidt"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 190200,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/mobilitaet/keine-angst-vor-motorschaeden-wann-sich-der-plug-in-hybrid-lohnt-ld.10020764",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformstandard",
+    "erklärt",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10020764",
+    "channel=Mobilität"
+   ],
+   "ContentCreated": "2026-08-27T03:30:00.000Z",
+   "ContentAuthor": "Herbie Schmidt",
+   "ContentSection": "Mobilität",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformstandard",
+   "nzzAbstract": "Wie wird das Risiko von Motorschäden bei Plug-in-Hybriden minimiert?\nWelche Probleme entstehen durch alternden Treibstoff in Plug-in-Hybriden?\nWann ist ein Dieselauto sinnvoller als ein Plug-in-Hybrid?",
+   "ldId": "ld.10020764",
+   "channel": "Mobilität",
+   "heading": "Keine Angst vor Motorschäden: Wann sich der Plug-in-Hybrid lohnt",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

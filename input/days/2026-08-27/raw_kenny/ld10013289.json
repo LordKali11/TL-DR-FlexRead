@@ -1,0 +1,1589 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1js7c49ob1",
+   "content": {
+    "title": "A Storming Run of the Highest Class: Audrey Werro Wins Like a Champion",
+    "lead": "The 22-year-old underscores at Weltklasse Zürich that she is the clear No. 1 in the 800 meters, missing the world record by just 0.42 seconds, clocking 1:53.70.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1js7c49ob2",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Remo Geisser",
+       "url": "/impressum/remo-geisser-ld.1723358",
+       "teaserImage": {
+        "originalUrl": "/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "800,450,x0,y175"
+         },
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "800,600,x0,y100"
+         },
+         {
+          "name": "3:4",
+          "crop": "600,800,x100,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k12cp1o70",
+   "content": {
+    "image": {
+     "author": "Kjetil Waber / Imago",
+     "caption": "The lioness pose has become her trademark: Audrey Werro after her victory in Zurich.",
+     "originalUrl": "/2026/08/27/74db0fd7-fa6d-4884-99d3-b5cef4357d05.jpg?crop=4197,2798,x2,y0",
+     "width": 4200,
+     "height": 2798,
+     "altText": "Zurich, Switzerland - August 27: Audrey Werro (SUI) competes in the 800m Women during the Wanda Diamond League Weltklasse Zürich at Stadion Letzigrund on August 27, 2026 in Zurich, Switzerland. Copyright: Kjetil Waber/SPP Sportspressphoto_SPR217301",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180253613"
+      }
+     ],
+     "crop": {
+      "x": 2,
+      "y": 0,
+      "width": 4197,
+      "height": 2798,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 2,
+       "y": 0,
+       "width": 4197,
+       "height": 2798,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "The lioness pose has become her trademark: Audrey Werro after her victory in Zurich.",
+    "author": "Kjetil Waber / Imago"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k12cgjfd0",
+   "content": {
+    "text": "What a feeling it must be to stand on the track below and feel it tremble underfoot when the announcer calls out your name: Audrey Werro. The 22-year-old is currently the greatest talent in Swiss athletics; she has just become European champion, and it seems as if there are no limits for her."
+   },
+   "data": {},
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-c1d95c1e",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k112s78b0",
+   "content": {
+    "text": "The 800-meter runner has retained some of the joyful urge to move that characterized her as a child. During a <a href=\"https://www.nzz.ch/gesellschaft/fuer-sie-hat-der-himmel-keine-grenzen-ld.1815333\">training visit in 2023</a>, she recounted how she indulged this urge when she went shopping with her mother: «I grabbed a bag, ran home, placed the Migros bag in front of the garage, ran back to meet my mother, grabbed another bag, and took off.»"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k12d9qas0",
+   "content": {
+    "title": "Talent, Pace, and Self-Confidence",
+    "id": "subtitle-talent-tempo-und-selbstvertrauen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1139hgs0",
+   "content": {
+    "text": "Since then, Werro has honed her talent through countless hours of training, but the carefree spirit of her childhood has remained. In her best races, she resolutely takes the initiative at some point and runs at the front, as if she had to get a Migros bag home as quickly as possible. This is how she also won the European Championship title: from the front and with the self-assurance of being able to accelerate at any time. And this, even though she had suffered a bad fall in the semifinal the day before."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k113retl0",
+   "content": {
+    "text": "Audrey Werro runs like great champions run. This outdoor season, with the exception of the ill-fated European Championship semifinal where she fell, she has won every single race. And she has literally swept the competition along, because it is an unwritten rule: When the Swiss athlete is at the start, it will be a fast race."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k12cq07u0",
+   "content": {
+    "image": {
+     "author": "Andreas Becker / Keystone",
+     "caption": "And goodbye: Audrey Werro pulls away from her opponents in the final bend.",
+     "originalUrl": "/2026/08/27/5ee063e5-0167-408b-91dc-0e4cb4b299b0.jpg?crop=5500,3667,x0,y0",
+     "width": 5500,
+     "height": 3667,
+     "altText": "Audrey Werro of Switzerland, left, competes to win the 800 meters women race ahead of second placed Femke Broeders-Bol of Netherlands, center, and third placed Georgia Hunter Bell of United Kingdom, right, during the World Athletics Diamond League Weltklasse Zurich athletics meeting at the Letzigrund stadium in Zurich, Switzerland, on Thursday, August 27, 2026. (KEYSTONE/Andreas Becker)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180253534"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5500,
+      "height": 3667,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5500,
+       "height": 3667,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "And goodbye: Audrey Werro pulls away from her opponents in the final bend.",
+    "author": "Andreas Becker / Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k12chkmu0",
+   "content": {
+    "text": "This was also the case at Weltklasse Zürich. Ever since Werro ran the fastest time in over forty years in Stockholm in June, she never stepped onto the track without someone talking about the world record. Jarmila Kratochvilova ran it in 1983 with 1:53.28. In Zurich, too, the pacemaker was tasked with setting a pace for the first 500 meters that could bring Werro close to the record."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k12cod1t0",
+   "content": {
+    "text": "However, the pacing was a touch too inconsistent, and Werro also had to contend with the Dutchwoman Femke Broeders-Bol at the start of the final bend. But then it was as if the Swiss athlete had an extra gear. She pulled away and stormed to a dominant victory in 1:53.70. Werro has now run a time under 1:54 for the third time this year. That is outstanding."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k12ddq260",
+   "content": {
+    "text": "Broeders-Bol was still world champion in the 400m hurdles a year ago. Now she is completing a training year over the two track laps, running faster in every race than before, and is likely to be Werro's fiercest rival in the future. Both have not yet reached their full potential."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11460i80",
+   "content": {
+    "text": "In the recent history of Swiss athletics, there was only one athlete who was as dominant as Werro. Around the turn of the millennium, André Bucher was also the boss on the track over 800 meters. He ran best from the front; in the summer of 2001, he won 11 out of 12 races over the two track laps and stormed to the World Championship title in Edmonton. The world record, however, remained out of reach for him."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k125vp4f0",
+   "content": {
+    "text": "The fact that Werro is now being discussed in connection with this ultimate benchmark is remarkable in itself. World records by Swiss athletes are almost as rare as pearls in oysters. In the history of Swiss athletics to date, five athletes have been included in the official lists: Isabell Pfenning (1941) in the high jump, Meta Antenen (1969) in the pentathlon, Werner Günthör (1987) in the shot put indoors, Julien Wanders in the 5K road race (2019), Simon Ehammer (2026) in the heptathlon indoors."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1k12di9e70",
+   "content": {
+    "title": "Behind the successes: a typically Swiss system",
+    "id": "subtitle-hinter-den-erfolgen-steht-ein-typisch-schweizerisches-system"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js7ck6p70",
+   "content": {
+    "text": "It is no coincidence that this year saw golden moments in Swiss sports, such as Ehammer's record or Werro's fast runs. Athletics has been in a permanent upswing since the home European Championships in 2014; medals at European and World Championships are accumulating, and new talents achieve top-3 rankings year after year at junior championships. Never before has there been such a density of international top athletes in this country."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js7cqfmn0",
+   "content": {
+    "text": "What is still missing from this success story, however, is a medal at the Olympic Games. The Swiss Athletics federation therefore launched a special project called «Next Level» last autumn. It aims to increase the chances of winning medals in Los Angeles in 2028. It is financed through the support of several foundations, outside the federation's budget. Philipp Bandi, Head of High-Performance Sports at Swiss Athletics, says: «It is important to us to invest in the very best without weakening the foundational work.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k12aj9bg1",
+   "content": {
+    "image": {
+     "author": "Claudio Thoma / Keystone",
+     "caption": "She has established herself as the clear leader of the 800-meter race: Audrey Werro.",
+     "originalUrl": "/2026/08/27/3de3d4d7-f18a-415a-a81f-95eb0ffe3ab9.jpg?crop=5445,3630,x0,y0",
+     "width": 5445,
+     "height": 3630,
+     "altText": "Audrey Werro of Switzerland poses for a portrait during a media meeting ahead of the Diamond League meeting Weltklasse Zurich in the stadium Letzigrund in Zurich, Switzerland on Wednesday, August 26, 2026. (KEYSTONE/Claudio Thoma)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2180230270"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 0,
+      "width": 5445,
+      "height": 3630,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 0,
+       "width": 5445,
+       "height": 3630,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "She has established herself as the clear leader of the 800-meter race: Audrey Werro.",
+    "author": "Claudio Thoma / Keystone"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js7d9af40",
+   "content": {
+    "text": "The project includes various measures, among them the targeted promotion of eight athletes who are attested to have the potential for an Olympic medal. Audrey Werro is one of them. She also benefits from her coach now being employed as a national coach by the federation. Christiane Berset Nuoffer had previously taken a break from her profession as a teacher; now she can continue to focus entirely on sports."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js7dkqns0",
+   "content": {
+    "text": "This is, as it were, the final step in a system that has always worked very well in Switzerland: club coaches grow with their athletes and do not have to hand them over to professionals in the federation at some point, but rather remain within the system. This was already the case with Andy Vögtli, who accompanied André Bucher all the way to the World Championship title. After Bucher's retirement, Vögtli returned to his club TV Beromünster."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js7dr4hm0",
+   "content": {
+    "text": "Christiane Berset Nuoffer began her continuous education early on, step by step, and recently passed the exams for the highest Swiss coaching diploma. She also continues to train at CA Belfaux, where three young men can be deployed as ideal sparring partners for Werro in tough sessions."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1js7e6sqp1",
+   "content": {
+    "text": "It is also interesting that at the end of 2024, long-time middle-distance coach Louis Heyer separated from Swiss Athletics because he said he believed he could not work professionally enough at the federation. Today, he leads a professional team financed by the outfitter On. For Werro, however, the conditions within the federation are now apparently professional enough."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1js7c49ob5",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1js7c49ob6",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1js7c49ob7",
+      "content": {
+       "title": "Pole vaulter Armand Duplantis says: «I absolutely want to break a world record in Zurich.»",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "flag": "interview",
+       "tags": [
+        "Leichtathletik",
+        "Sport: Empfehlungen"
+       ],
+       "nzzId": "ld.10020806",
+       "readingTime": 600,
+       "paywallQuestionOne": "What role does competition play in Duplantis' motivation?",
+       "paywallQuestionTwo": "How does Duplantis intend to make athletics more attractive to young people?",
+       "paywallQuestionThree": "What significance does Zurich have for Duplantis' world record ambitions?",
+       "characterCount": 12307,
+       "teaserImage": {
+        "originalUrl": "/2026/08/26/f5bad174-4ecc-4244-8bea-ab84ae5b84cb.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/26/f5bad174-4ecc-4244-8bea-ab84ae5b84cb.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4000,2250,x0,y209"
+         },
+         {
+          "name": "4:3",
+          "crop": "3556,2667,x222,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2667,2667,x667,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2000,2667,x1000,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4000,2667,x0,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The 26-year-old track and field athlete wants to put on a show at Weltklasse Zürich on Thursday. He explains why his wedding led to one of his rare defeats – and what the increased competition is triggering in him.",
+        "teaserAuthor": "Photo Olimpik / Imago"
+       },
+       "teaserAuthor": "Photo Olimpik / Imago",
+       "product": "NZZ.ch",
+       "documentId": 10020806,
+       "layout": "longformstandard",
+       "publicationDate": "2026-08-27T03:30:00.000Z",
+       "publicationLastUpdated": "2026-08-27T03:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-27T15:30:00.000Z",
+       "teaserCaption": "The 26-year-old track and field athlete wants to put on a show at Weltklasse Zürich on Thursday. He explains why his wedding led to one of his rare defeats – and what the increased competition is triggering in him.",
+       "authorLine": "Eva Breitenstein",
+       "authorImage": {
+        "originalUrl": "/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?width=1024&quality=75&auto=webp",
+        "width": 532,
+        "height": 533,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "532,532,x0,y1"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/sport/leichtathletik/weltklasse-zuerich-armand-duplantis-will-unbedingt-weltrekord-springen-ld.10020806",
+       "department": {
+        "name": "Athletics",
+        "path": "/sport/leichtathletik"
+       },
+       "estimationWordCount": 2010,
+       "leadText": "The 26-year-old track and field athlete wants to put on a show at Weltklasse Zürich on Thursday. He explains why his wedding led to one of his rare defeats – and what the increased competition is triggering in him.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1js7c49ob8",
+      "content": {
+       "title": "Cold showers make your legs faster. How Jason Joseph processed the 2025 World Cup drama",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "tags": [
+        "Leichtathletik",
+        "Sport: Empfehlungen"
+       ],
+       "teaserImage": {
+        "originalUrl": "/2026/08/26/d19d06ac-a403-4595-b393-5dce8560b0a2.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/26/d19d06ac-a403-4595-b393-5dce8560b0a2.jpg?width=1024&quality=75&auto=webp",
+        "width": 4000,
+        "height": 2667,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4000,2250,x0,y164"
+         },
+         {
+          "name": "4:3",
+          "crop": "3556,2667,x128,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "2204,2204,x515,y137"
+         },
+         {
+          "name": "3:4",
+          "crop": "2000,2667,x678,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "3306,2204,x195,y204"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Hurdler Jason Joseph competes at Weltklasse Zürich as European champion. On his way to his first major title, he also had to overcome internal hurdles.",
+        "teaserAuthor": "Tobias Lackner / Imago"
+       },
+       "teaserAuthor": "Tobias Lackner / Imago",
+       "nzzId": "ld.10020985",
+       "readingTime": 360,
+       "paywallQuestionOne": "How did Jason Joseph improve his mental strength after the World Cup blackout?",
+       "paywallQuestionTwo": "What role does Claudine Müller play in Joseph's athletic development?",
+       "paywallQuestionThree": "How does technology influence Jason Joseph's success in the hurdles?",
+       "characterCount": 6779,
+       "product": "NZZ.ch",
+       "documentId": 10020985,
+       "layout": "regular",
+       "publicationDate": "2026-08-26T14:00:00.000Z",
+       "publicationLastUpdated": "2026-08-26T14:16:49.929Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-27T02:00:00.000Z",
+       "teaserCaption": "Hurdler Jason Joseph competes at Weltklasse Zürich as European champion. On his way to his first major title, he also had to overcome internal hurdles.",
+       "authorLine": "Remo Geisser",
+       "authorImage": {
+        "originalUrl": "/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+       "url": "/sport/kalte-duschen-machen-schnelle-beine-wie-jason-joseph-das-wm-drama-von-2025-verarbeitet-hat-ld.10020985",
+       "department": {
+        "name": "Sport",
+        "path": "/sport"
+       },
+       "estimationWordCount": 1133,
+       "leadText": "Hurdler Jason Joseph competes at Weltklasse Zürich as European champion. On his way to his first major title, he also had to overcome internal hurdles.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1js7c49ob9",
+      "content": {
+       "title": "Duel, fall, jury decision, gold medal: Audrey Werro's dramatic European Championship week",
+       "showHeader": true,
+       "owner": "NZZaS",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/15/18a69433-8368-46a5-8f3b-89e10c697388.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/15/18a69433-8368-46a5-8f3b-89e10c697388.jpg?width=1024&quality=75&auto=webp",
+        "width": 4198,
+        "height": 2799,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4198,2361,x0,y202"
+         },
+         {
+          "name": "4:3",
+          "crop": "3393,2545,x271,y254"
+         },
+         {
+          "name": "1:1",
+          "crop": "2545,2545,x935,y251"
+         },
+         {
+          "name": "3:4",
+          "crop": "1577,2103,x1782,y251"
+         },
+         {
+          "name": "3:2",
+          "crop": "3469,2313,x347,y226"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "After an outstanding season, the Swiss 800-meter runner travels to the European Athletics Championships in Birmingham as a favorite. But the days in England demand a lot of resilience and mental toughness from the 22-year-old. She masters them brilliantly.",
+        "teaserAuthor": "Cyril Zingaro / Keystone"
+       },
+       "teaserAuthor": "Cyril Zingaro / Keystone",
+       "nzzasFootnote": true,
+       "nzzId": "ld.10019270",
+       "readingTime": 360,
+       "paywallQuestionOne": "How did Audrey Werro cope with the challenges of the European Championship week in Birmingham?",
+       "paywallQuestionTwo": "What role did the fall in the semi-final play in Werro's European Championship success?",
+       "paywallQuestionThree": "How did Werro's mental strength influence her victory in the 800m final?",
+       "characterCount": 7076,
+       "product": "NZZ.ch",
+       "documentId": 10019270,
+       "layout": "regular",
+       "publicationDate": "2026-08-15T16:09:18.750Z",
+       "publicationLastUpdated": "2026-08-15T16:09:18.750Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-16T04:09:18.750Z",
+       "teaserCaption": "After an outstanding season, the Swiss 800-meter runner travels to the European Athletics Championships in Birmingham as a favorite. But the days in England demand a lot of resilience and mental toughness from the 22-year-old. She masters them brilliantly.",
+       "authorLine": "Eva Breitenstein, Birmingham",
+       "authorImage": {
+        "originalUrl": "/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?crop=532,532,x0,y1",
+        "url": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?crop=532,532,x0,y1&width=1024&quality=75&auto=webp",
+        "width": 532,
+        "height": 533,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 1,
+         "width": 532,
+         "height": 532
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?crop=532,532,x0,y1&width=1024&quality=75&auto=webp",
+       "url": "/sport/leichtathletik/leichtathletik-em-audrey-werro-und-ihre-verrueckte-woche-bis-zum-em-gold-ld.10019270",
+       "department": {
+        "name": "Athletics",
+        "path": "/sport/leichtathletik"
+       },
+       "estimationWordCount": 1152,
+       "leadText": "After an outstanding season, the Swiss 800-meter runner travels to the European Athletics Championships in Birmingham as a favorite. But the days in England demand a lot of resilience and mental toughness from the 22-year-old. She masters them brilliantly.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "A first-class run: Audrey Werro wins in champion style",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "characterCount": 6176,
+  "teaserImage": {
+   "originalUrl": "/2026/08/27/74db0fd7-fa6d-4884-99d3-b5cef4357d05.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/74db0fd7-fa6d-4884-99d3-b5cef4357d05.jpg?width=1024&quality=75&auto=webp",
+   "width": 4200,
+   "height": 2798,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4200,2362,x0,y232"
+    },
+    {
+     "name": "4:3",
+     "crop": "3731,2798,x0,y0"
+    },
+    {
+     "name": "1:1",
+     "crop": "2798,2798,x678,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "2099,2798,x995,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "4197,2798,x2,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "The 22-year-old underscores at Weltklasse Zürich that she is the clear No. 1 in the 800 meters, missing the world record by just 0.42 seconds, clocking 1:53.70.",
+   "teaserAuthor": "Kjetil Waber / Imago"
+  },
+  "teaserAuthor": "Kjetil Waber / Imago",
+  "tags": [
+   "Leichtathletik"
+  ],
+  "nzzId": "ld.10013289",
+  "readingTime": 300,
+  "breadcrumbs": [
+   {
+    "name": "Sport",
+    "path": "/sport"
+   },
+   {
+    "name": "Athletics",
+    "path": "/sport/leichtathletik"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10013289,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T21:15:52.647Z",
+  "publicationDate": "2026-08-27T21:15:52.647Z",
+  "publicationLastUpdated": "2026-08-27T21:15:52.647Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T09:15:52.647Z",
+  "teaserCaption": "The 22-year-old underscores at Weltklasse Zürich that she is the clear No. 1 in the 800 meters, missing the world record by just 0.42 seconds, clocking 1:53.70.",
+  "nzzAuthors": [
+   {
+    "id": 1373507,
+    "name": "Remo Geisser",
+    "shortName": "reg",
+    "pianoId": "78162a5b-6ef7-4384-ba31-0388d7ddf624",
+    "external": false
+   }
+  ],
+  "authorLine": "Remo Geisser",
+  "authorImage": {
+   "originalUrl": "/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+   "width": 800,
+   "height": 800,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "800,800,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1723358,
+    "name": "Remo Geisser (reg.)",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+  "url": "/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289",
+  "department": {
+   "name": "Athletics",
+   "path": "/sport/leichtathletik"
+  },
+  "estimationWordCount": 997,
+  "leadText": "The 22-year-old underscores at Weltklasse Zürich that she is the clear No. 1 in the 800 meters, missing the world record by just 0.42 seconds, clocking 1:53.70.",
+  "nzzSummaryEN": "- Audrey Werro, 22, impressed at Weltklasse Zurich with a dominant victory in the 800-meter race, narrowly missing the world record.\n- She is considered Switzerland's greatest track and field talent, having won nearly every race this season; her coach is now the national coach.\n- Swiss Athletics is investing heavily in talents like Werro through the \"Next Level\" project, aiming for Olympic medal success in 2028.",
+  "nzzSummaryDE": "- Audrey Werro, 22, impressed at Weltklasse Zürich with a dominant victory in the 800-meter run and narrowly missed the world record.\n - She is considered the greatest talent in Swiss athletics and has won almost every race this season; her coach will now become the national coach.\n - The Swiss Athletics Association specifically promotes talents like Werro and aims for medal success at the 2028 Olympic Games with the «Next Level» project.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "A storming run of the highest order",
+  "nzzPrintSubtitle": "The 22-year-old underlined at Weltklasse Zürich that she is the clear number 1 in the 800m run. She missed the world record by only 42 hundredths of a second, finishing in 1:53.70.",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289",
+   "title": "Weltklasse Zürich: Audrey Werro shines in victory in the 800m race",
+   "socialMediaTitle": "Masterful and unbeatable: how Audrey Werro triumphs",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/08/27/74db0fd7-fa6d-4884-99d3-b5cef4357d05.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4200,2362,x0,y232&wmark=nzz"
+  },
+  "ldPublicationId": 2484923,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "Athletics",
+    "slug": "/themen/leichtathletik"
+   },
+   {
+    "name": "Weltklasse Zürich",
+    "slug": "/themen/weltklasse-zurich"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10020806",
+    "ld.10020985",
+    "ld.10019270"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 412440,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "leichtathletik",
+   "name": "Athletics",
+   "tagName": "Athletics",
+   "qId": "Q542",
+   "seoTitle": "Athletics – All articles on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 18:54:44.464Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/leichtathletik",
+   "size": 477,
+   "relatedTopics": [
+    {
+     "name": "Weltklasse Zürich",
+     "slug": "/themen/weltklasse-zurich"
+    }
+   ]
+  },
+  "data": [
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 8438,
+    "nzzasFootnote": true,
+    "tags": [
+     "Weitere Sportarten",
+     "Ski"
+    ],
+    "nzzId": "ld.10013593",
+    "readingTime": 420,
+    "paywallQuestionOne": "How does sport reflect the highs and lows of human experience?",
+    "paywallQuestionTwo": "What role do excellence and risk play in sport?",
+    "paywallQuestionThree": "How does sport shape the personality of athletes?",
+    "teaserImage": {
+     "originalUrl": "/2026/08/27/3b6fa713-0e69-4bb5-8ca8-b2e516decd72.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/3b6fa713-0e69-4bb5-8ca8-b2e516decd72.jpg?width=1024&quality=75&auto=webp",
+     "width": 2462,
+     "height": 1645,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2462,1385,x0,y260"
+      },
+      {
+       "name": "4:3",
+       "crop": "1994,1495,x248,y150"
+      },
+      {
+       "name": "1:1",
+       "crop": "1360,1359,x359,y286"
+      },
+      {
+       "name": "3:4",
+       "crop": "1020,1359,x458,y286"
+      },
+      {
+       "name": "3:2",
+       "crop": "2462,1641,x0,y4"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Why do they play, run, or race? When I became a sports journalist 35 years ago, sport was little more than a joyful pastime for me. Now, at the end of my professional life, I know: it's about much more than that.",
+     "teaserAuthor": "Imago"
+    },
+    "teaserAuthor": "Imago",
+    "teaserCarouselOne": {
+     "originalUrl": "/2026/08/27/6d32e490-10f6-414e-9152-0e924e317c34.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/6d32e490-10f6-414e-9152-0e924e317c34.jpg?width=1024&quality=75&auto=webp",
+     "width": 3975,
+     "height": 2645,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3975,2236,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "393,393,x1560,y1101"
+      },
+      {
+       "name": "4:3",
+       "crop": "3527,2645,x448,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1804,2405,x1491,y240"
+      },
+      {
+       "name": "3:2",
+       "crop": "3968,2645,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselTwo": {
+     "originalUrl": "/2026/08/27/3b6fa713-0e69-4bb5-8ca8-b2e516decd72.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/3b6fa713-0e69-4bb5-8ca8-b2e516decd72.jpg?width=1024&quality=75&auto=webp",
+     "width": 2462,
+     "height": 1645,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2462,1385,x0,y260"
+      },
+      {
+       "name": "1:1",
+       "crop": "433,433,x1014,y515"
+      },
+      {
+       "name": "4:3",
+       "crop": "1812,1360,x330,y278"
+      },
+      {
+       "name": "3:4",
+       "crop": "1020,1359,x440,y286"
+      },
+      {
+       "name": "3:2",
+       "crop": "2462,1641,x0,y4"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselThree": {
+     "originalUrl": "/2026/08/27/0e90f253-a74f-4e68-a2e8-dd32b038f8e3.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/0e90f253-a74f-4e68-a2e8-dd32b038f8e3.jpg?width=1024&quality=75&auto=webp",
+     "width": 5806,
+     "height": 3760,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5806,3266,x0,y154"
+      },
+      {
+       "name": "1:1",
+       "crop": "2335,2335,x429,y502"
+      },
+      {
+       "name": "4:3",
+       "crop": "5013,3759,x793,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "2820,3759,x513,y1"
+      },
+      {
+       "name": "3:2",
+       "crop": "5640,3759,x166,y1"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "teaserCarouselFour": {
+     "originalUrl": "/2026/08/27/995da737-ba4f-4108-8fa5-5ad1d983ba14.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/27/995da737-ba4f-4108-8fa5-5ad1d983ba14.jpg?width=1024&quality=75&auto=webp",
+     "width": 2048,
+     "height": 1401,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2048,1152,x0,y224"
+      },
+      {
+       "name": "1:1",
+       "crop": "594,594,x28,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1868,1401,x78,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1051,1401,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2048,1365,x0,y16"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "title": "Drama and excellence – sport shows us what it means to be human",
+    "product": "NZZ.ch",
+    "documentId": "10013593",
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Why do they play, run, or race? When I became a sports journalist 35 years ago, sport was little more than a joyful pastime for me. Now, at the end of my professional life, I know: it's about much more than that.",
+    "authorLine": "Remo Geisser",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/08/385ab707-f671-4465-bc6e-70ec1dccaae2.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/exzellenz-und-drama-was-uns-der-sportjournalismus-lehren-kann-ld.10013593",
+    "department": {
+     "name": "Sport",
+     "path": "/sport"
+    },
+    "estimationWordCount": 1427,
+    "leadText": "Why do they play, run, or race? When I became a sports journalist 35 years ago, sport was little more than a joyful pastime for me. Now, at the end of my professional life, I know: it's about much more than that.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Against the voyeuristic gaze: The fight for TV reporting that no longer sexualizes female track and field athletes",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "nzzasFootnote": true,
+    "tags": [
+     "Leichtathletik"
+    ],
+    "teaserImage": {
+     "originalUrl": "/2026/08/19/b7745136-d3b7-44a7-b73f-aa4198284d54.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/19/b7745136-d3b7-44a7-b73f-aa4198284d54.jpg?width=1024&quality=75&auto=webp",
+     "width": 6000,
+     "height": 3662,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6000,3375,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4883,3662,x1013,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2067,2067,x3744,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2497,3329,x3503,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5493,3662,x507,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "While the focus of TV images in sports broadcasts has changed in recent years, the European Broadcasting Union believes it hasn't changed enough. New standards are intended to better protect female athletes.",
+     "teaserAuthor": "Iris Van Den Broek / ANP / Imago"
+    },
+    "teaserAuthor": "Iris Van Den Broek / ANP / Imago",
+    "nzzId": "ld.10020124",
+    "readingTime": 300,
+    "paywallQuestionOne": "How should new standards protect female athletes from sexualized TV images?",
+    "paywallQuestionTwo": "What role do camera positions play in the portrayal of athletic performance?",
+    "paywallQuestionThree": "Why is it important to raise awareness among directors about respectful imagery?",
+    "characterCount": 6978,
+    "product": "NZZ.ch",
+    "documentId": "10020124",
+    "layout": "regular",
+    "publicationDate": "2026-08-23T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-23T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-23T15:30:00.000Z",
+    "teaserCaption": "While the focus of TV images in sports broadcasts has changed in recent years, the European Broadcasting Union believes it hasn't changed enough. New standards are intended to better protect female athletes.",
+    "authorLine": "Eva Breitenstein",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/gegen-voyeurismus-im-sport-wie-kameras-athletinnen-schuetzen-sollen-ld.10020124",
+    "department": {
+     "name": "Sport",
+     "path": "/sport"
+    },
+    "estimationWordCount": 1083,
+    "leadText": "While the focus of TV images in sports broadcasts has changed in recent years, the European Broadcasting Union believes it hasn't changed enough. New standards are intended to better protect female athletes.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Dominic Lobalu, women's 4x100m relay team take silver",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/2d02d3f5-886a-4564-8826-e27d60858bcc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/2d02d3f5-886a-4564-8826-e27d60858bcc.jpg?width=1024&quality=75&auto=webp",
+     "width": 4399,
+     "height": 2933,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3636,2045,x421,y164"
+      },
+      {
+       "name": "4:3",
+       "crop": "3911,2933,x159,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2666,2666,x890,y94"
+      },
+      {
+       "name": "3:4",
+       "crop": "2200,2933,x1168,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4399,2933,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "This is the relay team's first medal – they waited more than ten years for this moment. Switzerland now has seven medals.",
+     "teaserAuthor": "Andrew Boyers / Reuters"
+    },
+    "teaserAuthor": "Andrew Boyers / Reuters",
+    "nzzId": "ld.10019732",
+    "readingTime": 300,
+    "paywallQuestionOne": "How did Dominic Lobalu secure the silver medal in the 10,000m?",
+    "paywallQuestionTwo": "Which medals has Lobalu won at the European Championships so far?",
+    "paywallQuestionThree": "How big was the gap between Lobalu and the winner, Andreas Almgren?",
+    "characterCount": 6154,
+    "tags": [
+     "Leichtathletik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019732",
+    "layout": "regular",
+    "publicationDate": "2026-08-16T19:41:11.567Z",
+    "publicationLastUpdated": "2026-08-16T19:41:11.567Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-17T07:41:11.567Z",
+    "teaserCaption": "This is the relay team's first medal – they waited more than ten years for this moment. Switzerland now has seven medals.",
+    "authorLine": "Eva Breitenstein, Birmingham",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?crop=532,532,x0,y1&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/leichtathletik/dominic-lobalu-gewinnt-silber-ueber-10-000-m-ld.10019732",
+    "department": {
+     "name": "Athletics",
+     "path": "/sport/leichtathletik"
+    },
+    "estimationWordCount": 1021,
+    "leadText": "This is the relay team's first medal – they waited more than ten years for this moment. Switzerland now has seven medals.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The thought of his family gives him energy – Amanal Petros wins marathon gold at the European Athletics Championships",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/16/8bd0c03e-f722-400c-8023-b0b277dbdb58.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/16/8bd0c03e-f722-400c-8023-b0b277dbdb58.jpg?width=1024&quality=75&auto=webp",
+     "width": 4000,
+     "height": 2667,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4000,2250,x0,y22"
+      },
+      {
+       "name": "4:3",
+       "crop": "3556,2667,x196,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2004,2004,x938,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2000,2667,x923,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4000,2667,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "A year after his narrow World Championship defeat, the German won gold in Birmingham. In his moment of triumph, he thought, as always, of his family, still living in the conflict region of Tigray",
+     "teaserAuthor": "Tobias Lackner / Imago"
+    },
+    "teaserAuthor": "Tobias Lackner / Imago",
+    "paywallQuestionOne": "How did Amanal Petros win the marathon gold medal at the European Championships in Birmingham?",
+    "paywallQuestionTwo": "What personal story lies behind Amanal Petros' sporting success?",
+    "paywallQuestionThree": "What role does Hannover 96 play in Amanal Petros' career?",
+    "nzzId": "ld.10019745",
+    "readingTime": 240,
+    "characterCount": 5183,
+    "tags": [
+     "Leichtathletik"
+    ],
+    "editor": "1744553",
+    "product": "NZZ.ch",
+    "documentId": "10019745",
+    "layout": "regular",
+    "publicationDate": "2026-08-16T10:09:12.827Z",
+    "publicationLastUpdated": "2026-08-17T07:26:19.561Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-16T22:09:12.827Z",
+    "teaserCaption": "A year after his narrow World Championship defeat, the German won gold in Birmingham. In his moment of triumph, he thought, as always, of his family, still living in the conflict region of Tigray",
+    "authorLine": "Eva Breitenstein, Birmingham",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?crop=532,532,x0,y1&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/leichtathletik/deutscher-petros-gewinnt-marathon-gold-bei-leichtathletik-em-in-birmingham-ld.10019745",
+    "department": {
+     "name": "Athletics",
+     "path": "/sport/leichtathletik"
+    },
+    "estimationWordCount": 842,
+    "leadText": "A year after his narrow World Championship defeat, the German won gold in Birmingham. In his moment of triumph, he thought, as always, of his family, still living in the conflict region of Tigray",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "German sprinter Owen Ansah wins European title in the 200 meters – Swiss Timothé Mumenthaler takes bronze ",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/14/0e337574-bdc9-4e5d-a221-4f30c9311dd3.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/14/0e337574-bdc9-4e5d-a221-4f30c9311dd3.jpg?width=1024&quality=75&auto=webp",
+     "width": 5764,
+     "height": 3843,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5764,3242,x0,y300"
+      },
+      {
+       "name": "4:3",
+       "crop": "5124,3843,x320,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3843,3843,x961,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2882,3843,x1441,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5764,3843,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "After bronze in the 100 meters, Owen Ansah goes one better. He wins the 200-meter title, securing the first medal for a German man in that distance in 40 years. However, a ban looms.",
+     "teaserAuthor": "Petr David Josek / AP"
+    },
+    "teaserAuthor": "Petr David Josek / AP",
+    "editor": "1394236",
+    "nzzId": "ld.10019692",
+    "readingTime": 120,
+    "paywallQuestionOne": "What does the potential suspension mean for Owen Ansah's career?",
+    "paywallQuestionTwo": "How does a tailwind affect sprint records?",
+    "paywallQuestionThree": "What role does Timothé Mumenthaler play at the European Championships?",
+    "characterCount": 2758,
+    "product": "NZZ.ch",
+    "documentId": "10019692",
+    "layout": "regular",
+    "publicationDate": "2026-08-15T08:17:33.586Z",
+    "publicationLastUpdated": "2026-08-15T08:17:33.586Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-15T20:17:33.586Z",
+    "teaserCaption": "After bronze in the 100 meters, Owen Ansah goes one better. He wins the 200-meter title, securing the first medal for a German man in that distance in 40 years. However, a ban looms.",
+    "url": "https://www.nzz.ch/sport/weitere-sportarten/schweizer-timothe-mumenthaler-holt-bronze-ueber-200-meter-ld.10019692",
+    "department": {
+     "name": "Other Sports",
+     "path": "/sport/weitere-sportarten"
+    },
+    "estimationWordCount": 484,
+    "leadText": "After bronze in the 100 meters, Owen Ansah goes one better. He wins the 200-meter title, securing the first medal for a German man in that distance in 40 years. However, a ban looms.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Audrey Werro defies the emotional rollercoaster and confidently becomes European Champion in the 800m",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/14/08e69b25-4e27-42a1-8ade-4d38100dc1d9.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/14/08e69b25-4e27-42a1-8ade-4d38100dc1d9.jpg?width=1024&quality=75&auto=webp",
+     "width": 5014,
+     "height": 3418,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5014,2820,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4557,3418,x457,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3418,3418,x1596,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2564,3418,x2055,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5014,3343,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 3337,
+      "y": 521
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Twenty-two-year-old Swiss athlete leaves rival Keely Hodgkinson no chance at European Athletics Championships in Birmingham. Switzerland's fifth medal at the European Championships",
+     "teaserAuthor": "Andrew Boyers / Reuters"
+    },
+    "teaserAuthor": "Andrew Boyers / Reuters",
+    "nzzId": "ld.10019694",
+    "readingTime": 180,
+    "paywallQuestionOne": "How did Audrey Werro win the European Championship gold medal in the 800 meters?",
+    "paywallQuestionTwo": "What significance does Audrey Werro's victory have for Switzerland?",
+    "paywallQuestionThree": "What are the next steps for Audrey Werro after her European Championship success?",
+    "characterCount": 3647,
+    "tags": [
+     "Leichtathletik"
+    ],
+    "product": "NZZ.ch",
+    "documentId": "10019694",
+    "layout": "regular",
+    "publicationDate": "2026-08-15T08:17:01.239Z",
+    "publicationLastUpdated": "2026-08-15T08:17:01.239Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-15T20:17:01.239Z",
+    "teaserCaption": "Twenty-two-year-old Swiss athlete leaves rival Keely Hodgkinson no chance at European Athletics Championships in Birmingham. Switzerland's fifth medal at the European Championships",
+    "authorLine": "Eva Breitenstein, Birmingham",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/04/30/ff7a9df9-19e9-4caa-9c0d-49778a4fa087.jpeg?crop=532,532,x0,y1&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/sport/leichtathletik/leichtathletik-em-audrey-werro-gewinnt-em-goldmedaille-ueber-800m-ld.10019694",
+    "department": {
+     "name": "Athletics",
+     "path": "/sport/leichtathletik"
+    },
+    "estimationWordCount": 615,
+    "leadText": "Twenty-two-year-old Swiss athlete leaves rival Keely Hodgkinson no chance at European Athletics Championships in Birmingham. Switzerland's fifth medal at the European Championships",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10013289",
+    "name": "A first-class run: Audrey Werro wins in champion style",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Sport",
+    "subCategory1": "Leichtathletik",
+    "attributes": {
+     "headline": "A first-class run: Audrey Werro wins in champion style",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373507,
+       "name": "Remo Geisser",
+       "shortName": "reg",
+       "pianoId": "78162a5b-6ef7-4384-ba31-0388d7ddf624",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T21:15:52.647Z",
+     "updateTimestamp": "2026-08-27T21:15:52.647Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10013289",
+   "pageType": "regular",
+   "primaryCategory": "Sport",
+   "subCategory1": "Leichtathletik",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Weltklasse Zürich: Audrey Werro shines in victory in the 800m race",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/08/27/74db0fd7-fa6d-4884-99d3-b5cef4357d05.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4200,2362,x0,y232&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Remo Geisser",
+  "description": "The 22-year-old underscores at Weltklasse Zürich that she is the clear No. 1 in the 800 meters, missing the world record by just 0.42 seconds, clocking 1:53.70.",
+  "news_keywords": "A first-class run: Audrey Werro wins in champion style, Athletics, News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-28T01:15:52+02:00",
+  "date": "2026-08-28T01:15:52+02:00",
+  "canonical": "https://www.nzz.ch/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "A first-class run: Audrey Werro wins in champion style",
+  "ogTitle": "Masterful and unbeatable: how Audrey Werro triumphs",
+  "ogUrl": "https://www.nzz.ch/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289",
+  "mrf:cms_id": "nzz:ld.10013289",
+  "mrf:sections": "Sport;Leichtathletik",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10013289",
+  "nzzAuthors": [
+   {
+    "id": 1373507,
+    "name": "Remo Geisser",
+    "shortName": "reg",
+    "pianoId": "78162a5b-6ef7-4384-ba31-0388d7ddf624",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:53:10 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/sport",
+      "name": "Sport"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "item": {
+      "@id": "/sport/leichtathletik",
+      "name": "Athletics"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "name": "Weltklasse Zürich: Audrey Werro shines in victory in the 800m race"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289"
+   },
+   "headline": "Weltklasse Zürich: Audrey Werro shines in victory in the 800m race",
+   "datePublished": "2026-08-28T01:15:52+02:00",
+   "dateModified": "2026-08-28T01:15:52+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "The 22-year-old underscores at Weltklasse Zürich that she is the clear No. 1 in the 800 meters, missing the world record by just 0.42 seconds, clocking 1:53.70.",
+   "isAccessibleForFree": false,
+   "articleSection": "Leichtathletik",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/08/27/74db0fd7-fa6d-4884-99d3-b5cef4357d05.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4200,2362,x0,y232&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Remo Geisser"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 412440,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/sport/leichtathletik/ein-sturmlauf-der-extraklasse-audrey-werro-gewinnt-im-stil-einer-championne-ld.10013289",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10013289",
+    "channel=Sport"
+   ],
+   "ContentCreated": "2026-08-27T21:15:52.647Z",
+   "ContentAuthor": "Remo Geisser",
+   "ContentSection": "Sport",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Wie hat Audrey Werro ihre Dominanz im 800-m-Lauf etabliert?\nWelche Rolle spielt das Projekt «Next Level» für Schweizer Leichtathleten?\nWarum wird Audrey Werro als potenzielle Weltrekordhalterin gehandelt?",
+   "ldId": "ld.10013289",
+   "channel": "Sport",
+   "subChannel": "Leichtathletik",
+   "heading": "Ein Sturmlauf der Extraklasse: Audrey Werro gewinnt im Stil einer Championne",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

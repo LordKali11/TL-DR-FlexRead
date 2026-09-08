@@ -1,0 +1,1176 @@
+{
+ "content": [
+  {
+   "identifier": "header",
+   "id": "doc-1k113q8g41",
+   "content": {
+    "title": "Red-Green refuses to give up: Zurich City Parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court",
+    "lead": "Despite low chances of success, the City Council is appealing a ruling on basic economic assistance. The council president casts the deciding vote.",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-1k113q8g42",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Daniel Fritzsche",
+       "url": "/impressum/daniel-fritzsche-ld.1287938",
+       "teaserImage": {
+        "originalUrl": "/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+        "width": 320,
+        "height": 320,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "320,180,x0,y40"
+         },
+         {
+          "name": "1:1",
+          "crop": "320,320,x0,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "320,240,x0,y26"
+         },
+         {
+          "name": "3:4",
+          "crop": "240,320,x42,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "image",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1k113q8g43",
+   "content": {
+    "image": {
+     "author": "Keystone",
+     "caption": "This was not the first time payments to undocumented migrants were discussed in Zurich's council chamber.",
+     "originalUrl": "/2024/11/21/cba18bbd-3bfc-4c7d-bf03-9fc7301cf1d1.jpeg?crop=3719,2480,x165,y521",
+     "width": 4500,
+     "height": 3001,
+     "altText": "The bell of the President of the Cantonal Council, Esther Guyer, before the first meeting of the Zurich Cantonal Council in the temporary Hard Town Hall in the Bullinger Church, on Monday, February 20, 2023 in Zurich. (KEYSTONE/Michael Buholzer).",
+     "crop": {
+      "x": 165,
+      "y": 521,
+      "width": 3719,
+      "height": 2480,
+      "name": "article-image"
+     },
+     "namedCrops": [
+      {
+       "x": 165,
+       "y": 521,
+       "width": 3719,
+       "height": 2480,
+       "name": "article-image"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "This was not the first time payments to undocumented migrants were discussed in Zurich's council chamber.",
+    "author": "Keystone"
+   },
+   "prevElement": "header",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k113q8g44",
+   "content": {
+    "text": "Such close decisions are rare in the Zurich City Parliament. The vote on Wednesday evening in the council chamber was 60 to 60. The president of the City Council, a Social Democrat, ultimately cast the deciding vote to continue the long history of a controversial municipal social program."
+   },
+   "prevElement": "image",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-b225aba6",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11hqfpg0",
+   "content": {
+    "text": "The point of contention was what is known as basic economic assistance. Raphael Golta (SP), the former head of social services and current city president of Zurich, had launched this program during the coronavirus pandemic. Poor foreigners, including Sans-Papiers (undocumented migrants), were to benefit from cash payments, Golta intended."
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11id2oh0",
+   "content": {
+    "text": "But Golta operated without legal expertise. Several courts ruled that his approach was not compatible with higher-ranking law – most recently the Zurich Administrative Court."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11igrsn0",
+   "content": {
+    "text": "The Red-Green parties do not want to accept this. On Wednesday, they decided in parliament to appeal the ruling to the country's highest court, the Federal Supreme Court. The arguments of the previous courts were not convincing, Lisa Diggelmann (SP) found."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11iltuh0",
+   "content": {
+    "text": "Diggelmann argued that the Administrative Court – like the District Council and Zurich's cantonal government before it – misunderstood that municipalities have a core competence in social welfare. They had broad discretion in designing measures to combat poverty, she said. The basic economic assistance was also designed as a temporary pilot project, she maintained. «In our rich city, no one should have to live in undignified circumstances,» Diggelmann said. This also applied to undocumented migrants, she added."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11iua4p0",
+   "content": {
+    "text": "The center-right unsuccessfully resisted the appeal. «No private individual would pursue such a hopeless request,» said Benedikt Gerth (Mitte). The chances of success were so small, he said, that one might as well throw the money for the legal dispute out the window. Sven Sobernheim (GLP) also spoke of a «quibble» that, he said, would probably only end before the European Court of Human Rights."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11n7ub90",
+   "content": {
+    "text": "Emanuel Tschannen (FDP) declared: «Shoemaker, stick to your last.» He argued that the city was simply not responsible in this matter. Even if the City Council decided that a speed limit of 130 km/h should apply on highway sections within the city, responsibility for national roads still lay with the federal government, he said. He expected «less showmanship» and more acceptance of the legal framework and federal structures from the left."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k11ng60p0",
+   "content": {
+    "text": "Stephan Iten (SVP) took a fundamental stance. Undocumented migrants were in Switzerland illegally, he said. «Why should we financially support these people?» He contended that every undocumented person had the opportunity to apply for a residence permit through regular channels."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1k113q8g45",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1k113q8g50",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1k113q8g51",
+      "content": {
+       "title": "Misbehave, get out: Sweden tightens migration policy",
+       "showHeader": true,
+       "owner": "NZZ",
+       "language": {
+        "locale": "de"
+       },
+       "teaserImage": {
+        "originalUrl": "/2026/08/18/81c251b0-9906-4403-957e-abc84a060deb.jpg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/08/18/81c251b0-9906-4403-957e-abc84a060deb.jpg?width=1024&quality=75&auto=webp",
+        "width": 4500,
+        "height": 3382,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "4500,2531,x0,y674"
+         },
+         {
+          "name": "4:3",
+          "crop": "4500,3375,x0,y3"
+         },
+         {
+          "name": "1:1",
+          "crop": "3382,3382,x559,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "2537,3382,x64,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "4500,3000,x0,y191"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Sweden long considered itself a humanitarian superpower. But its open-door policy brought problems. The right-wing populist Sweden Democrats could benefit from this in the parliamentary elections in September.",
+        "teaserAuthor": "David Ramos / Getty"
+       },
+       "teaserAuthor": "David Ramos / Getty",
+       "tags": [
+        "Europa"
+       ],
+       "nzzId": "ld.10019944",
+       "readingTime": 180,
+       "paywallQuestionOne": "How has Sweden changed its naturalization practices?",
+       "paywallQuestionTwo": "What are the effects of the new code of conduct?",
+       "paywallQuestionThree": "How do the Sweden Democrats benefit from the Tidö agreement?",
+       "characterCount": 3893,
+       "product": "NZZ.ch",
+       "documentId": 10019944,
+       "layout": "regular",
+       "publicationDate": "2026-08-18T13:58:07.230Z",
+       "publicationLastUpdated": "2026-08-18T14:01:19.795Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-08-19T01:58:07.230Z",
+       "teaserCaption": "Sweden long considered itself a humanitarian superpower. But its open-door policy brought problems. The right-wing populist Sweden Democrats could benefit from this in the parliamentary elections in September.",
+       "authorLine": "Linda Koponen, Tallinn",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?crop=800,800,x0,y0",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "imageService": "fastly",
+        "crop": {
+         "name": "1:1",
+         "x": 0,
+         "y": 0,
+         "width": 800,
+         "height": 800
+        },
+        "crops": []
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/f6dd467b-3989-448a-ad16-b432175d187b.png?crop=800,800,x0,y0&width=1024&quality=75&auto=webp",
+       "url": "/international/schweden-verschaerft-migrationspolitik-neue-gesetze-im-ueberblick-ld.10019944",
+       "department": {
+        "name": "International",
+        "path": "/international"
+       },
+       "estimationWordCount": 560,
+       "leadText": "Sweden long considered itself a humanitarian superpower. But its open-door policy brought problems. The right-wing populist Sweden Democrats could benefit from this in the parliamentary elections in September.",
+       "nzzSummaryIsAuto": true,
+       "locale": "de-CH"
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1k113q8g52",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Opinion",
+       "title": "Zurich SP city councilor Raphael Golta is once again distributing other people's money and pushing through his own ideology",
+       "teaserImage": {
+        "originalUrl": "/2025/02/10/b13b8cff-e2c4-432e-811a-131fabaaaabf.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/02/10/b13b8cff-e2c4-432e-811a-131fabaaaabf.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4002,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5333,3000,x297,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "769,769,x1805,y224"
+         },
+         {
+          "name": "4:3",
+          "crop": "5336,4002,x349,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1874,2498,x1236,y201"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "The city of Zurich is creating yet another aid program where none is needed.",
+        "teaserAuthor": "Michael Buholzer / Keystone"
+       },
+       "teaserAuthor": "Michael Buholzer / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1870379",
+       "readingTime": 180,
+       "showComments": true,
+       "authorLine": "Zeno Geisseler",
+       "characterCount": 3613,
+       "product": "NZZ.ch",
+       "documentId": 1870379,
+       "layout": "opinion",
+       "publicationDate": "2025-02-11T04:00:00.000Z",
+       "publicationLastUpdated": "2025-02-11T05:13:22.381Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-02-11T16:00:00.000Z",
+       "teaserCaption": "The city of Zurich is creating yet another aid program where none is needed.",
+       "authorImage": {
+        "originalUrl": "/2022/07/27/2c002991-68b5-4889-ab98-797a16a4e487.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2022/07/27/2c002991-68b5-4889-ab98-797a16a4e487.png?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 800,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "800,800,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/2c002991-68b5-4889-ab98-797a16a4e487.png?width=1024&quality=75&auto=webp",
+       "url": "/meinung/der-zuercher-sp-stadtrat-raphael-golta-verteilt-wieder-einmal-fremdes-geld-und-setzt-seine-eigene-ideologie-durch-ld.1870379",
+       "department": {
+        "name": "Opinion",
+        "path": "/meinung"
+       },
+       "estimationWordCount": 554,
+       "leadText": "The city of Zurich is creating yet another aid program where none is needed."
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "germanyRelevant": true,
+  "title": "Red-Green refuses to give up: Zurich City Parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court",
+  "showHeader": true,
+  "owner": "NZZ",
+  "language": {
+   "locale": "en-US"
+  },
+  "dependencies": {},
+  "teaserImage": {
+   "originalUrl": "/2024/11/21/cba18bbd-3bfc-4c7d-bf03-9fc7301cf1d1.jpeg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/11/21/cba18bbd-3bfc-4c7d-bf03-9fc7301cf1d1.jpeg?width=1024&quality=75&auto=webp",
+   "width": 4500,
+   "height": 3001,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "4091,2300,x387,y701"
+    },
+    {
+     "name": "4:3",
+     "crop": "3307,2480,x412,y521"
+    },
+    {
+     "name": "1:1",
+     "crop": "2480,2480,x837,y521"
+    },
+    {
+     "name": "3:4",
+     "crop": "1860,2480,x1183,y521"
+    },
+    {
+     "name": "3:2",
+     "crop": "3719,2479,x300,y522"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Despite low chances of success, the City Council is appealing a ruling on basic economic assistance. The council president casts the deciding vote.",
+   "teaserAuthor": "Keystone"
+  },
+  "teaserAuthor": "Keystone",
+  "editor": "1371941",
+  "nzzId": "ld.10021265",
+  "readingTime": 120,
+  "characterCount": 2580,
+  "breadcrumbs": [
+   {
+    "name": "Zurich",
+    "path": "/zuerich"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 10021265,
+  "contentTypeGroup": "web",
+  "layout": "regular",
+  "firstPublicationDate": "2026-08-27T14:05:50.775Z",
+  "publicationDate": "2026-08-27T14:05:50.775Z",
+  "publicationLastUpdated": "2026-08-27T15:07:50.311Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-08-28T02:05:50.775Z",
+  "teaserCaption": "Despite low chances of success, the City Council is appealing a ruling on basic economic assistance. The council president casts the deciding vote.",
+  "nzzAuthors": [
+   {
+    "id": 1372257,
+    "name": "Daniel Fritzsche",
+    "shortName": "dfr",
+    "pianoId": "65a0422a-a255-4e85-b259-1aa39dfc435c",
+    "external": false
+   }
+  ],
+  "authorLine": "Daniel Fritzsche",
+  "authorImage": {
+   "originalUrl": "/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+   "width": 320,
+   "height": 320,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "320,320,x0,y0"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1287938,
+    "name": "Daniel Fritzsche (dfr.) - Head of Zurich Department, NZZ",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/f52d6780-3bd3-4a74-9cf2-e208c941992b.png?width=1024&quality=75&auto=webp",
+  "url": "/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265",
+  "department": {
+   "name": "Zurich",
+   "path": "/zuerich"
+  },
+  "estimationWordCount": 382,
+  "leadText": "Despite low chances of success, the City Council is appealing a ruling on basic economic assistance. The council president casts the deciding vote.",
+  "nzzSummaryEN": "- The Zurich City Parliament has decided to appeal a ruling on basic economic assistance for undocumented individuals to the Federal Court, despite slim chances of success.\n- The left-green parties argue that social assistance falls under municipal jurisdiction and that such basic aid is justified as a pilot project in a wealthy city like Zurich.\n- Center-right critics label the decision as impractical and costly, while the SVP opposes financial support for undocumented individuals altogether.",
+  "nzzSummaryDE": "- The Zurich city parliament has decided to appeal a ruling on basic economic assistance for undocumented migrants to the Federal Supreme Court, despite low chances of success.\n - The red-green parties argue that social assistance falls under the jurisdiction of the municipalities and that basic assistance is justified as a pilot project in a wealthy city like Zurich.\n - The center-right criticizes the decision as unrealistic and costly, while the SVP is generally against supporting undocumented migrants.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "The red-green coalition is not letting up",
+  "nzzPrintSubtitle": "The Zurich city parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court",
+  "allArticleLanguages": [
+   {
+    "locale": "de",
+    "urlPath": "/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265",
+   "title": "Cash for undocumented immigrants: Zurich dispute reaches next instance",
+   "socialMediaTitle": "The left-wing coalition is taking the dispute over cash for undocumented migrants all the way to the Federal Court",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2024/11/21/cba18bbd-3bfc-4c7d-bf03-9fc7301cf1d1.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4091,2300,x387,y701&wmark=nzz"
+  },
+  "ldPublicationId": 2484782,
+  "isHighlightedHeader": false,
+  "nzzTopics": [
+   {
+    "name": "SP",
+    "slug": "/themen/sp"
+   },
+   {
+    "name": "FDP Switzerland",
+    "slug": "/themen/fdp-schweiz"
+   },
+   {
+    "name": "GLP",
+    "slug": "/themen/glp"
+   },
+   {
+    "name": "SVP",
+    "slug": "/themen/svp"
+   }
+  ],
+  "barrierIndex": 3,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.10019944",
+    "ld.1870379"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "locale": "de-CH",
+  "mp3": true,
+  "mp3Duration": 186816,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "sp",
+   "name": "SP",
+   "tagName": "SP",
+   "qId": "Q303745",
+   "seoTitle": "SP – All news and articles about the Social Democratic Party",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "ORG",
+   "createdDate": "2025-04-08 15:32:32.281Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/sp",
+   "size": 780,
+   "relatedTopics": [
+    {
+     "name": "FDP Schweiz",
+     "slug": "/themen/fdp-schweiz"
+    },
+    {
+     "name": "GLP",
+     "slug": "/themen/glp"
+    },
+    {
+     "name": "SVP",
+     "slug": "/themen/svp"
+    }
+   ]
+  },
+  "data": [
+   {
+    "title": "Red-Green wants to force private property owners to build affordable housing: Social Democrats make strange retreat in city parliament",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/67dd41ea-0fd0-4b13-bae8-e953b19d6267.jpg?width=1024&quality=75&auto=webp",
+     "width": 7310,
+     "height": 5479,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "7310,4112,x0,y684"
+      },
+      {
+       "name": "4:3",
+       "crop": "7305,5479,x2,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "5479,5479,x916,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "4109,5479,x1600,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "7310,4873,x0,y303"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+     "teaserAuthor": "Christian Beutler / Keystone"
+    },
+    "teaserAuthor": "Christian Beutler / Keystone",
+    "nzzId": "ld.10021916",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why did the SP unexpectedly withdraw its motion on housing construction?",
+    "paywallQuestionTwo": "How do vacancies affect the balance of power in Zurich's city parliament?",
+    "paywallQuestionThree": "Will the SP resubmit the housing proposal in a modified form?",
+    "characterCount": 4706,
+    "product": "NZZ.ch",
+    "documentId": "10021916",
+    "layout": "regular",
+    "publicationDate": "2026-09-02T20:01:58.727Z",
+    "publicationLastUpdated": "2026-09-02T23:51:07.927Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-09-03T08:01:58.727Z",
+    "teaserCaption": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+    "authorLine": "Michael von Ledebur",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2022/07/27/269f466d-09e5-49c2-858e-2af49ece224a.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/guenstige-wohnungen-in-der-stadt-zuerich-rot-gruen-macht-seltsamen-rueckzieher-ld.10021916",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 749,
+    "leadText": "Because vacancies weaken the left-wing coalition, the largest party in the city of Zurich suffers a tactical defeat in the council.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "A city on a buying spree: Zurich has spent 1.3 billion francs on real estate within four years – the Social Democratic Party (SP) and the Free Democratic Party (FDP) are calling for a change of thinking",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/e7d9b982-b20e-4782-84b7-0c896d9fad93.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/e7d9b982-b20e-4782-84b7-0c896d9fad93.jpg?width=1024&quality=75&auto=webp",
+     "width": 5364,
+     "height": 3576,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5364,3017,x0,y559"
+      },
+      {
+       "name": "4:3",
+       "crop": "4768,3576,x596,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3251,3250,x819,y326"
+      },
+      {
+       "name": "3:4",
+       "crop": "2438,3250,x1298,y326"
+      },
+      {
+       "name": "3:2",
+       "crop": "5364,3576,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+     "teaserAuthor": "Claudio Thoma / Keystone"
+    },
+    "teaserAuthor": "Claudio Thoma / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10021257",
+    "readingTime": 660,
+    "paywallQuestionOne": "How does Zurich's real estate strategy affect the city's finances?",
+    "paywallQuestionTwo": "Why does the potential of acquired properties often remain unrealized?",
+    "paywallQuestionThree": "What challenges arise from the follow-up costs of real estate purchases?",
+    "characterCount": 14967,
+    "product": "NZZ.ch",
+    "documentId": "10021257",
+    "layout": "regular",
+    "publicationDate": "2026-08-28T08:30:25.167Z",
+    "publicationLastUpdated": "2026-08-31T08:14:02.744Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-28T20:30:25.167Z",
+    "teaserCaption": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+    "authorLine": "Francesca Prader",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/milliardenausgaben-fuer-immobilien-bericht-zeigt-den-zuercher-kaufrausch-ld.10021257",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 2138,
+    "leadText": "The city has for the first time evaluated the consequences of its real estate buying spree. It reveals surprising insights",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The Zurich FDP loses its last district school board presidency. Përparim Avdili says: «My incomprehension of the GLP could hardly be greater.»",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/24/913d70f5-fb23-4e20-9eb7-0d0a9d36d715.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/24/913d70f5-fb23-4e20-9eb7-0d0a9d36d715.jpg?width=1024&quality=75&auto=webp",
+     "width": 3888,
+     "height": 2592,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3888,2187,x0,y141"
+      },
+      {
+       "name": "4:3",
+       "crop": "3456,2592,x432,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2356,2356,x191,y51"
+      },
+      {
+       "name": "3:4",
+       "crop": "1944,2592,x1944,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3888,2592,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+     "teaserAuthor": "Karin Hofer / NZZ"
+    },
+    "teaserAuthor": "Karin Hofer / NZZ",
+    "editor": "1371941",
+    "nzzId": "ld.10020746",
+    "readingTime": 240,
+    "paywallQuestionOne": "Why is the FDP losing its last district school board presidency to the SP?",
+    "paywallQuestionTwo": "What role did the GLP play in the election of the district school president?",
+    "paywallQuestionThree": "How is the administration of Zurich's schools criticized and reformed?",
+    "characterCount": 5113,
+    "product": "NZZ.ch",
+    "documentId": "10020746",
+    "layout": "regular",
+    "publicationDate": "2026-08-25T03:06:00.000Z",
+    "publicationLastUpdated": "2026-08-25T03:06:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-25T15:06:00.000Z",
+    "teaserCaption": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+    "authorLine": "Andrea Marti",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/06/25/07d3001a-17b2-441a-bb90-96d4298caa52.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/fdp-zuerich-verliert-letztes-kreisschulpraesidium-an-sp-ld.10020746",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 774,
+    "leadText": "The FDP narrowly loses to the SP in the election for the presidency of the Glattal district school board. The SP now leads six of seven district school boards.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "News from Zurich: The new sports center in Witikon also costs over 100 million Swiss francs",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "NZZ Editorial Team Zurich",
+    "flag": "Short news items",
+    "teaserImage": {
+     "originalUrl": "/2026/08/26/a8e34387-ede8-4617-8db9-25418fc29146.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/26/a8e34387-ede8-4617-8db9-25418fc29146.jpg?width=1024&quality=75&auto=webp",
+     "width": 1787,
+     "height": 1191,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1787,1005,x0,y186"
+      },
+      {
+       "name": "4:3",
+       "crop": "1588,1191,x101,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1191,1191,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "893,1191,x0,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1787,1191,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Latest news from the canton",
+     "teaserAuthor": "Visualization by Filippo Bolognese Images"
+    },
+    "teaserAuthor": "Visualization by Filippo Bolognese Images",
+    "nzzId": "ld.10012099",
+    "readingTime": 4080,
+    "paywallQuestionOne": "Why was the Töss relay race in Winterthur cancelled?",
+    "paywallQuestionTwo": "What role did the BAG's heat warning play in the cancellation?",
+    "paywallQuestionThree": "What measures is the organizing committee planning for future events?",
+    "characterCount": 94378,
+    "product": "NZZ.ch",
+    "documentId": "10012099",
+    "layout": "regular",
+    "publicationDate": "2026-08-24T14:59:12.846Z",
+    "publicationLastUpdated": "2026-09-03T08:21:56.463Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-25T02:59:12.846Z",
+    "teaserCaption": "Latest news from the canton",
+    "url": "https://www.nzz.ch/zuerich/news-aus-zuerich-hardturm-war-wohl-einst-teil-einer-burg-ld.10012099",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 13524,
+    "leadText": "Latest news from the canton",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "The city of Zurich is to get a baby hatch – the FDP, SP and AL are joining forces for a controversial idea",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/21/afb46ec2-0316-44b8-8548-748b2ec8d4ae.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/21/afb46ec2-0316-44b8-8548-748b2ec8d4ae.jpg?width=1024&quality=75&auto=webp",
+     "width": 4368,
+     "height": 2912,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4368,2457,x0,y291"
+      },
+      {
+       "name": "4:3",
+       "crop": "3883,2912,x309,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "2912,2912,x714,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2184,2912,x1035,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3971,2647,x206,y132"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+     "teaserAuthor": "Peter Schneider / Keystone"
+    },
+    "teaserAuthor": "Peter Schneider / Keystone",
+    "editor": "1371941",
+    "nzzId": "ld.10020341",
+    "readingTime": 300,
+    "paywallQuestionOne": "Why should Zurich get a baby hatch?",
+    "paywallQuestionTwo": "How could baby hatches save lives?",
+    "paywallQuestionThree": "What political controversies surround baby hatches?",
+    "characterCount": 6180,
+    "product": "NZZ.ch",
+    "documentId": "10020341",
+    "layout": "regular",
+    "publicationDate": "2026-08-22T03:02:00.000Z",
+    "publicationLastUpdated": "2026-08-22T03:02:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-22T15:02:00.000Z",
+    "teaserCaption": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+    "authorLine": "Francesca Prader",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/07/26/1a77235b-7cd5-42c8-96bb-f5743124fde4.png?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/zuerich/ein-ungewoehnliches-trio-setzt-sich-fuer-eine-babyfenster-in-der-stadt-zuerich-ein-ld.10020341",
+    "department": {
+     "name": "Zurich",
+     "path": "/zuerich"
+    },
+    "estimationWordCount": 940,
+    "leadText": "Baby windows: strong left-wing opposition; Zurich's advocacy driven by key differences",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Switzerland: SVP Mobilizes Against EU Treaties",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "flag": "Short news items",
+    "teaserImage": {
+     "originalUrl": "/2026/06/29/6281bfce-732e-44f9-8698-4682111aa167.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/29/6281bfce-732e-44f9-8698-4682111aa167.jpg?width=1024&quality=75&auto=webp",
+     "width": 4500,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "4500,2531,x0,y234"
+      },
+      {
+       "name": "4:3",
+       "crop": "4000,3000,x250,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x750,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x1125,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4500,3000,x0,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The latest news.",
+     "teaserAuthor": "Simon Tanner / NZZ"
+    },
+    "teaserAuthor": "Simon Tanner / NZZ",
+    "nzzId": "ld.10010833",
+    "readingTime": 1560,
+    "paywallQuestionOne": "Why did the Council of States approve the financing model for the 13th AHV pension payment?",
+    "paywallQuestionTwo": "How should wage contributions and value added tax contribute to financing?",
+    "paywallQuestionThree": "What are the annual costs of the 13th AHV pension payment?",
+    "characterCount": 36269,
+    "product": "NZZ.ch",
+    "documentId": "10010833",
+    "layout": "regular",
+    "publicationDate": "2026-08-20T06:54:00.916Z",
+    "publicationLastUpdated": "2026-08-22T11:33:12.537Z",
+    "significantUpdate": true,
+    "significantUpdateTill": "2026-08-20T18:54:00.916Z",
+    "teaserCaption": "The latest news.",
+    "url": "https://www.nzz.ch/schweiz/schweiz-die-neuesten-meldungen-ld.10010833",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 5148,
+    "leadText": "The latest news.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021265",
+    "name": "Red-Green refuses to give up: Zurich City Parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court",
+    "type": "article",
+    "subType1": "regular",
+    "subType2": "",
+    "primaryCategory": "Zürich",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Red-Green refuses to give up: Zurich City Parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1372257,
+       "name": "Daniel Fritzsche",
+       "shortName": "dfr",
+       "pianoId": "65a0422a-a255-4e85-b259-1aa39dfc435c",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-08-27T14:05:50.775Z",
+     "updateTimestamp": "2026-08-27T15:07:50.311Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021265",
+   "pageType": "regular",
+   "primaryCategory": "Zürich",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Cash for undocumented immigrants: Zurich dispute reaches next instance",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2024/11/21/cba18bbd-3bfc-4c7d-bf03-9fc7301cf1d1.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4091,2300,x387,y701&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Daniel Fritzsche",
+  "description": "Despite low chances of success, the City Council is appealing a ruling on basic economic assistance. The council president casts the deciding vote.",
+  "news_keywords": "The left-wing coalition is not letting up: Zurich's city parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court, Zurich News, NZZ",
+  "type": "article",
+  "last-modified": "2026-08-27T19:07:50+02:00",
+  "date": "2026-08-27T18:05:50+02:00",
+  "canonical": "https://www.nzz.ch/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Red-Green refuses to give up: Zurich City Parliament wants to fight for cash payments for undocumented migrants before the Federal Supreme Court",
+  "ogTitle": "The left-wing coalition is taking the dispute over cash for undocumented migrants all the way to the Federal Court",
+  "ogUrl": "https://www.nzz.ch/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265",
+  "mrf:cms_id": "nzz:ld.10021265",
+  "mrf:sections": "Zürich",
+  "mrf:tags": "Page Type:regular;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021265",
+  "nzzAuthors": [
+   {
+    "id": 1372257,
+    "name": "Daniel Fritzsche",
+    "shortName": "dfr",
+    "pianoId": "65a0422a-a255-4e85-b259-1aa39dfc435c",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:52:59 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/zuerich",
+      "name": "Zurich"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Cash for undocumented immigrants: Zurich dispute reaches next instance"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265"
+   },
+   "headline": "Cash for undocumented immigrants: Zurich dispute reaches next instance",
+   "datePublished": "2026-08-27T18:05:50+02:00",
+   "dateModified": "2026-08-27T19:07:50+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Despite low chances of success, the City Council is appealing a ruling on basic economic assistance. The council president casts the deciding vote.",
+   "isAccessibleForFree": false,
+   "articleSection": "Zürich",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2024/11/21/cba18bbd-3bfc-4c7d-bf03-9fc7301cf1d1.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4091,2300,x387,y701&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Daniel Fritzsche"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 186816,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/zuerich/bargeld-fuer-sans-papiers-zuercher-streit-erreicht-naechste-instanz-ld.10021265",
+    "classification=default",
+    "relevance=germany",
+    "layout=regular",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021265",
+    "channel=Zürich"
+   ],
+   "ContentCreated": "2026-08-27T14:05:50.775Z",
+   "ContentAuthor": "Daniel Fritzsche",
+   "ContentSection": "Zürich",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "regular",
+   "nzzAbstract": "Warum will Rot-Grün das Urteil zur Basishilfe für Sans-Papiers weiterziehen?\nWie begründet die SP den Ermessensspielraum der Gemeinden in der Sozialhilfe?\nSind die Erfolgsaussichten des Weiterzugs vor Bundesgericht realistisch?",
+   "ldId": "ld.10021265",
+   "channel": "Zürich",
+   "heading": "Rot-Grün lässt nicht locker: Das Zürcher Stadtparlament will Bargeldzahlungen für Sans-Papiers vor Bundesgericht erstreiten",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}

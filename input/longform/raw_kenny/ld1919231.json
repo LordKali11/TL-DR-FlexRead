@@ -1,0 +1,2319 @@
+{
+ "content": [
+  {
+   "identifier": "header--hero",
+   "id": "doc-1jgko2t5k0",
+   "content": {
+    "title": "Startups push the boundaries of reproductive medicine. Their latest goal: genetically modified babies",
+    "lead": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/05/e6711a24-e438-4ba7-8b6a-4d114bb03589.jpg?crop=6271,3527,x0,y326",
+     "width": 6271,
+     "height": 4180,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177034755"
+      }
+     ],
+     "crop": {
+      "x": 0,
+      "y": 326,
+      "width": 6271,
+      "height": 3527,
+      "name": "desktop",
+      "isAutomatic": true
+     },
+     "namedCrops": [
+      {
+       "x": 0,
+       "y": 326,
+       "width": 6271,
+       "height": 3527,
+       "name": "desktop",
+       "isAutomatic": true
+      },
+      {
+       "x": 1568,
+       "y": 0,
+       "width": 3135,
+       "height": 4180,
+       "name": "tablet",
+       "isAutomatic": true
+      },
+      {
+       "x": 1960,
+       "y": 0,
+       "width": 2351,
+       "height": 4180,
+       "name": "mobile",
+       "isAutomatic": true
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "quelle": "",
+    "caption": "",
+    "author": ""
+   },
+   "containers": {
+    "authors": [
+     {
+      "identifier": "author-teaser",
+      "id": "doc-JqZIjYOqh6",
+      "content": {
+       "layout": "authorprofile",
+       "title": "Martin Amrein",
+       "url": "/impressum/martin-amrein-ld.1723396",
+       "teaserImage": {
+        "originalUrl": "/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024&quality=75&auto=webp",
+        "width": 480,
+        "height": 640,
+        "crops": [
+         {
+          "name": "web-teaser",
+          "crop": "480,270,x0,y173"
+         },
+         {
+          "name": "1:1",
+          "crop": "480,480,x0,y42"
+         },
+         {
+          "name": "4:3",
+          "crop": "480,360,x0,y79"
+         },
+         {
+          "name": "3:4",
+          "crop": "480,640,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       }
+      }
+     }
+    ]
+   },
+   "prevElement": "",
+   "nextElement": "p-text",
+   "firstContentElement": true
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3b1",
+   "content": {
+    "text": "She was considered a wunderkind of the American biotech scene. Cathy Tie dropped out of college at 18 to found a genetic testing company. A $100,000 grant from billionaire Peter Thiel made it possible. Several startups followed. The most recent was <a target=\"_blank\" href=\"https://www.wired.com/story/your-next-pet-could-be-a-glowing-rabbit-los-angeles-project-gene-editing-crispr/\">one that develops genetically modified pets</a> – including rabbits that glow in the dark."
+   },
+   "prevElement": "header--hero",
+   "nextElement": "barrier"
+  },
+  {
+   "id": "doc-d564efa5",
+   "identifier": "barrier",
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3b2",
+   "content": {
+    "text": "Today, ten years after founding her first company, Tie has much bigger plans: «I want to change the entire medical system. It's extremely outdated and doesn't serve patients,» she says. The Chinese-born Canadian explains her vision in a video call: «We should treat diseases before someone is born.»"
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "print-teaser"
+  },
+  {
+   "identifier": "print-teaser",
+   "id": "doc-1hu3hm2hf0",
+   "content": {
+    "title": "An article from the «NZZ am Sonntag»",
+    "image": {
+     "author": "",
+     "caption": "",
+     "originalUrl": "/2026/02/14/17437699-d469-44f8-81f0-b9bb6b3cfebf.png?width=1024",
+     "width": 1025,
+     "height": 774,
+     "imageService": "fastly"
+    },
+    "description": "The edition of February 15th",
+    "ctaLabel": "Order newspaper",
+    "cta-url": "https://abo.nzz.ch/m_23054114/?trco=24062915-05-24-0063-0007-027181-00000003&amp;tpcc=24062915-05-24-0063-0007-027181-00000003",
+    "author": "",
+    "caption": ""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3b3",
+   "content": {
+    "text": "With her latest venture, <a target=\"_blank\" href=\"https://manhattangenomics.com/\">Manhattan Genomics,</a> Tie aims to modify the genes of human embryos to protect them from disease. She plans to use the gene-editing tool CRISPR. Eight years ago, Chinese researcher He Jiankui used the same method to create <a href=\"https://www.nzz.ch/wissenschaft/was-genau-geschah-mit-den-ersten-designer-babys-jetzt-will-der-verantwortliche-forscher-endlich-seine-studien-veroeffentlichen-ld.1852317\">the first designer babies</a>. His experiments caused a global uproar: He exposed the children to significant risks and provided inadequate information to the parents. Since then, manipulating embryos with CRISPR has been taboo."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "print-teaser",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jgmv8t3c0",
+   "content": {
+    "image": {
+     "author": "Caitlyn Gaurano",
+     "caption": "In August 2025, Cathy Tie presented her latest startup, Manhattan Project. The company is now called Manhattan Genomics. And the name is set to change again soon.",
+     "originalUrl": "/2026/02/05/59fd12f3-4b75-47c2-8768-db26c03be2eb.jpg?width=1024",
+     "width": 1200,
+     "height": 800,
+     "altText": "Entrepreneur Cathy Tie. company Manhattan Genomics",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177049817"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "In August 2025, Cathy Tie presented her latest startup, Manhattan Project. The company is now called Manhattan Genomics. And the name is set to change again soon.",
+    "author": "Caitlyn Gaurano"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3c1",
+   "content": {
+    "text": "Tie believes it's time to revive such research. And she's not alone: at least two other American startups are pursuing very similar plans. They are backed by tech billionaires from Silicon Valley. Investors, proponents of progress, and pronatalists, who see the declining birth rate as a threat to humanity, are euphoric. Others, including scientists and ethicists, view the companies' intentions with concern."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3c2",
+   "content": {
+    "text": "Tie originally named her New York-based company the Manhattan Project – like the U.S. atomic bomb program in the 1940s. The startup's co-founder is geneticist Eriona Hysolli, who previously headed biological research at <a target=\"_blank\" href=\"https://colossal.com/\">Colossal Biosciences</a>. This is the company that aims to revive extinct animal species and recently made headlines with the <a href=\"https://www.nzz.ch/panorama/die-vermeintliche-rueckkehr-des-schattenwolfs-ld.1879198\">alleged resurrection of the direwolf</a>."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "alias-teaser-embed"
+  },
+  {
+   "identifier": "alias-teaser-embed",
+   "id": "doc-1jhr9kkq80",
+   "content": {
+    "title": "Newsletter «Quantensprung»",
+    "owner": "NZZ",
+    "teaserImage": {
+     "originalUrl": "/2025/09/24/6d6f028d-9ebc-437e-8da2-9a868eff9a8f.png?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/09/24/6d6f028d-9ebc-437e-8da2-9a868eff9a8f.png?width=1024&quality=75&auto=webp",
+     "width": 2100,
+     "height": 2100,
+     "crops": [
+      {
+       "name": "web-teaser",
+       "crop": "2100,1181,x0,y458"
+      },
+      {
+       "name": "1:1",
+       "crop": "2100,2100,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "2100,1575,x0,y262"
+      },
+      {
+       "name": "3:4",
+       "crop": "1575,2100,x263,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2100,1400,x0,y370"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "We examine ideas that could truly make a difference – and how they can become reality. Every Friday, our science editors discuss visionary research and its impact on the world – as a podcast and newsletter.",
+     "teaserAuthor": "Lena Waltle"
+    },
+    "teaserAuthor": "Lena Waltle",
+    "urlAliasTeaser": "https://abo.nzz.ch/benutzerkonto/newsletter/NQUA/",
+    "urlLabel": "Subscribe now for free",
+    "nzzId": "ld.1903943",
+    "product": "NZZ.ch",
+    "documentId": 1903943,
+    "layout": "alias-teaser",
+    "publicationDate": "2025-09-24T11:07:22.915Z",
+    "publicationLastUpdated": "2026-03-25T16:43:26.537Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2025-09-24T23:07:22.915Z",
+    "teaserCaption": "We examine ideas that could truly make a difference – and how they can become reality. Every Friday, our science editors discuss visionary research and its impact on the world – as a podcast and newsletter.",
+    "url": "https://abo.nzz.ch/benutzerkonto/newsletter/NQUA/",
+    "department": {},
+    "leadText": "We examine ideas that could truly make a difference – and how they can become reality. Every Friday, our science editors discuss visionary research and its impact on the world – as a podcast and newsletter."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d0",
+   "content": {
+    "text": "The two women appear to be ahead of their competitors: They have already hired their first employees. And they can draw on the expertise of experienced researchers. Their advisors include the renowned New York reproductive medicine specialist Norbert Gleicher, a data scientist and two primatologists from Oregon Health and Science University."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "alias-teaser-embed",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jgn6ngoc0",
+   "content": {
+    "title": "Wedding with the creator of designer babies",
+    "id": "subtitle-hochzeit-mit-dem-sch-pfer-der-designer-babys"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d1",
+   "content": {
+    "text": "<a target=\"_blank\" href=\"https://www.technologyreview.com/2025/05/23/1117373/cathy-tie-he-jiankui-china-crispr-x-twitter-feed/\">The love affair</a> that Cathy Tie made public last spring caused quite a stir: she married none other than He Jiankui, the creator of the Chinese designer babies. Previously, the biophysicist had served a three-year prison sentence in China for «illegal medical practices» because he had used CRISPR to modify the genes of embryos in order to make them immune to HIV. The current status of the three children conceived in this way is unclear. Since his release, He has been trying to re-establish himself as a researcher."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d2",
+   "content": {
+    "text": "However, the two are no longer together, and Tie asserts in interviews <a target=\"_blank\" href=\"https://www.wired.com/story/startup-edit-human-embryos-manhattan-genomics-cathy-tie/\">time</a> and <a target=\"_blank\" href=\"https://www.nature.com/articles/d41586-025-03554-y/\">again</a> that He also has nothing to do with Manhattan Genomics."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jgmv8t3d3",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "Cathy Tie and He Jiankui married in China in April 2025. However, they were no longer together by the end of July.",
+     "originalUrl": "/2026/02/05/bc1b607b-c31e-4a71-ada4-6e7937a76bef.jpg?width=1024",
+     "width": 720,
+     "height": 900,
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177034927"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Cathy Tie and He Jiankui married in China in April 2025. However, they were no longer together by the end of July.",
+    "author": "PD"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d4",
+   "content": {
+    "text": "What Tie also consistently emphasizes – and no one disputes – is that CRISPR has enormous potential. If the tool intervenes early in an embryo's DNA, as Manhattan Genomics plans, the changes will later be present in all cells of its body. This includes germline cells, sperm and egg cells. Removing a harmful mutation would protect not only the individual but also future generations from the disease."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d5",
+   "content": {
+    "text": "With her company, Tie initially wants to tackle serious diseases caused by a single gene. «There are many of these,» she says, citing examples such as cystic fibrosis, Huntington's disease, blood disorders like sickle cell anemia and hereditary cancers."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d6",
+   "content": {
+    "text": "But germline editing is currently banned almost everywhere. Not only in European countries, but also in the U.S. or in China. «Quite rightly so,» says CRISPR researcher Jacob Corn from ETH Zurich. «There is still no study that shows the method is safe.» Instead, experiments demonstrate that CRISPR treatment of embryos can lead to so-called off-target effects: unintended changes that affect not the target gene, but other sections of DNA."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d7",
+   "content": {
+    "text": "Such damage has also occurred in the Chinese designer babies. This was <a href=\"https://www.nzz.ch/wissenschaft/was-genau-geschah-mit-den-ersten-designer-babys-jetzt-will-der-verantwortliche-forscher-endlich-seine-studien-veroeffentlichen-ld.1852317\">discovered by the American CRISPR researcher Kiran Musunuru,</a> who had access to the experimental data of He Jiankui. According to Musunuru, these off-target effects likely increase the cancer risk of the gene-edited children."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jgn6v6860",
+   "content": {
+    "title": "First therapies based on CRISPR",
+    "id": "subtitle-erste-therapien-die-auf-crispr-beruhen"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3d8",
+   "content": {
+    "text": "Corn says that science is not yet ready for interventions in the germline. However, gene editing of specific body cells has already found its way into clinical practice."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgn70jbq1",
+   "content": {
+    "text": "Since 2023, a CRISPR-based <a target=\"_blank\" href=\"https://www.gov.uk/government/news/mhra-authorises-world-first-gene-therapy-that-aims-to-cure-sickle-cell-disease-and-transfusion-dependent-thalassemia\">therapy has been approved for adolescents and adults with sickle cell anemia</a>. And last year, an even newer method, base editing, was used on a baby with a metabolic disorder: the <a target=\"_blank\" href=\"https://www.nejm.org/doi/full/10.1056/NEJMoa2504747\">tailored treatment</a> corrected the DNA in the liver cells of little KJ Muldoon in the U.S. These gene changes are not passed on to the next generation."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jgmv8t3d9",
+   "content": {
+    "image": {
+     "author": "Chloe Dawson / Children's Hospital Of Philadelphia / AP",
+     "caption": "A team at the Children's Hospital of Philadelphia saved KJ Muldoon's life with the first custom-made gene editing.",
+     "originalUrl": "/2026/02/05/63cc2ac7-f43c-4bd0-a558-7264a0999cbd.jpg?crop=1350,900,x250,y0",
+     "width": 1600,
+     "height": 900,
+     "altText": "Baby KJ. Baby KJ in April, after the second gene therapy dose. Photo: Chloe Dawson / Children's Hospital of Philadelphia / AP",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177034920"
+      }
+     ],
+     "crop": {
+      "x": 250,
+      "y": 0,
+      "width": 1350,
+      "height": 900
+     },
+     "imageService": "fastly"
+    },
+    "caption": "A team at the Children's Hospital of Philadelphia saved KJ Muldoon's life with the first custom-made gene editing.",
+    "author": "Chloe Dawson / Children's Hospital Of Philadelphia / AP"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e0",
+   "content": {
+    "text": "Corn is convinced that such therapies, focused on somatic cells, could also be developed for many other diseases. \"Research should now concentrate on this, less on germline editing.\""
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e1",
+   "content": {
+    "text": "Furthermore, options already exist for parents who carry disease genes. If they use preimplantation genetic diagnosis during in-vitro fertilization, they can select from several embryos those that have an intact gene. Only in rare cases, such as when there are too few embryos, is this not possible."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e2",
+   "content": {
+    "text": "This is precisely where Cathy Tie wants to support parents. \"Couples attempting in-vitro fertilization are typically older,\" she says. \"Often they don't have many embryos to choose from.\""
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e3",
+   "content": {
+    "text": "Tie believes that germline editing research is too restricted. «We want to show that the method has become safer thanks to recent developments,» she says. To that end, her company is initially planning experiments with mice, primates and human cells. «Hopefully, we can persuade the regulatory authorities to allow more research in this area.» Given the Trump administration's deregulating stance, such a step is quite possible in the coming years."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e4",
+   "content": {
+    "text": "Manhattan Genomics plans to apply its method clinically in the long term, as confirmed by reproductive medicine specialist Norbert Gleicher, who sits on the company's scientific advisory board. All research is to be conducted in the U.S. and in a transparent manner. «I have been assured that no trials are planned abroad and that contact has already been established with the American authorities,» he says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jgn6r8qu0",
+   "content": {
+    "title": "Trials in countries with laxer regulations",
+    "id": "subtitle-versuche-in-l-ndern-mit-lascherer-regulation"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e5",
+   "content": {
+    "text": "The two other startups that want to tackle germline editing, however, may choose to conduct their experiments in countries with less stringent regulations. According to the <a target=\"_blank\" href=\"https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8?mod=author_content_page_1_pos_1\">Wall Street Journal,</a> <a target=\"_blank\" href=\"https://www.preventive.bio/\">Preventive</a> and <a target=\"_blank\" href=\"https://bootstrapbio.com/\">Bootstrap Bio</a> are planning trials in Honduras or the United Arab Emirates."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e6",
+   "content": {
+    "text": "Preventive's founder is molecular biologist Lucas Harrington. He earned his doctorate in the lab of Jennifer Doudna, who received the Nobel Prize in 2020 for her groundbreaking work on CRISPR. His startup is financially backed by Brian Armstrong, CEO of the cryptocurrency exchange Coinbase and by the husband of OpenAI CEO Sam Altman. Bootstrap Bio's founder and CEO is the young entrepreneur Chase Denecke. Little is known about his company, and he does not disclose its funding. Manhattan Genomics, incidentally, also does not."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jgmvp20k1",
+   "content": {
+    "image": {
+     "author": "PD",
+     "caption": "Lucas Harrington, together with Nobel laureate Jennifer Doudna, founded the company Mammoth Biosciences, which develops diagnostic tests based on Crispr.",
+     "originalUrl": "/2026/02/05/25d38a89-6e5c-4485-893b-1c9bfd1849cc.jpg?width=1024",
+     "width": 750,
+     "height": 750,
+     "altText": "Lucas Harrington. Preventive.",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2177051349"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Lucas Harrington, together with Nobel laureate Jennifer Doudna, founded the company Mammoth Biosciences, which develops diagnostic tests based on Crispr.",
+    "author": "PD"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e7",
+   "content": {
+    "text": "Some scientists are uneasy about private companies wanting to advance the sensitive research area of gene editing. For example, bioethicist Kelly Ormond from ETH Zurich is concerned that experiments conducted outside of academia are not adequately regulated. «Unlike universities in the U.S., which have their own ethics committees, these companies are free to rely on less stringent guidelines,» she explains."
+   },
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e8",
+   "content": {
+    "text": "Others, however, find it problematic that companies want to relocate abroad. This move, combined with American entrepreneurial culture, could dangerously accelerate the startups' approach."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e9",
+   "content": {
+    "text": "In the tech world, the motto is \"Move fast and break things\": innovations are released quickly, even if they are still buggy. \"That might work for developing a smartphone, but not for babies,\" says Jacob Corn."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e10",
+   "content": {
+    "text": "Bootstrap Bio has the most ambitious plans. While the other two companies aim solely to prevent diseases, the <a target=\"_blank\" href=\"https://bootstrapbio.com/\">Californian startup's website</a> states that its goal is \"to give as many people as possible the opportunity to choose their own genes (and those of their offspring).\" The company intends to offer genetic interventions in areas such as height and intelligence."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "image"
+  },
+  {
+   "identifier": "image",
+   "id": "doc-1jgmvd0m51",
+   "content": {
+    "image": {
+     "author": "Mark Schiefelbein / AP",
+     "caption": "Culture medium for embryos: Will genetically modified babies soon be created in the laboratories of American companies?",
+     "originalUrl": "/2026/02/05/7ae28758-261e-4682-955c-208723876827.jpg?width=1024",
+     "width": 5000,
+     "height": 3333,
+     "altText": "In this Oct. 9, 2018 photo, Zhou Xiaoqin warms a nutrient medium for embryos to an optimal temperature at a laboratory in Shenzhen in southern China's Guangdong province. (AP Photo/Mark Schiefelbein)",
+     "origins": [
+      {
+       "name": "Hugo",
+       "identifier": "2113043295"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "caption": "Culture medium for embryos: Will genetically modified babies soon be created in the laboratories of American companies?",
+    "author": "Mark Schiefelbein / AP"
+   },
+   "styles": {
+    "fullwidth-widget": "widget--containerwidth"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e11",
+   "content": {
+    "text": "This would mean that humanity would take its evolution into its own hands. The philosopher Jonathan Anomaly, a leading figure among pronatalists in Silicon Valley, <a target=\"_blank\" href=\"https://www.washingtonpost.com/technology/2025/07/16/orchid-polygenic-screening-embryos-fertility/\">initially called this</a> \"liberal eugenics,\" but now prefers the term \"genetic enhancement.\""
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e12",
+   "content": {
+    "text": "The emerging pronatalist movement in the U.S. is already using biotech tools to ensure that, from their perspective, the best possible babies are born. Companies like <a target=\"_blank\" href=\"https://mynucleus.com/\">Nucleus</a> and <a target=\"_blank\" href=\"https://heliospectgenomics.com/\">Heliospect Genomics</a> offer genetic screenings of embryos suitable for in-vitro fertilization."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e13",
+   "content": {
+    "text": "Parents can then, for example, choose a child with brown hair, blue eyes, above-average intelligence and a low risk of breast cancer. At least, that is the promise. How accurate the predictions are for these traits, which often depend on many genes, is a matter of debate. <a href=\"https://www.nzz.ch/wissenschaft/baby-selektion-in-den-usa-die-genanalyse-von-embryonen-ld.1915680\">Hundreds of children</a> are said to have been born this way, including one of Elon Musk's."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "subtitle"
+  },
+  {
+   "identifier": "subtitle",
+   "id": "doc-1jgn6q9cn0",
+   "content": {
+    "title": "Critics fear a new eugenics.",
+    "id": "subtitle-kritiker-f-rchten-eine-neue-eugenik"
+   },
+   "contentTable": false,
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e14",
+   "content": {
+    "text": "Direct intervention in the genome, as planned by Tie and her competitors, seems like the next logical step. Critics fear a new eugenics – a world in which the wealthy can buy higher intelligence and better health."
+   },
+   "paidContent": true,
+   "prevElement": "subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e15",
+   "content": {
+    "text": "Partly due to such fears, several scientific societies <a target=\"_blank\" href=\"https://alliancerm.org/wp-content/uploads/2025/05/ARM-PR-May-27-2025.pdf\">called for a ten-year moratorium on germline editing last year</a> . However, many researchers believe this goes too far. Jacob Corn agrees: «I'm not a fan of rigid moratoria that run for long periods. Such an approach makes no sense,» he says."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e16",
+   "content": {
+    "text": "Regulation must be based on facts, he said. While genome editing is not yet safe enough, it might be in a few years. «And then we as a society will have to decide whether and in which cases we want to use it.»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jgmv8t3e17",
+   "content": {
+    "text": "What Corn appreciates about the emergence of new startups, despite his concerns, is that they are already generating an important public debate."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "nzzas-footnote"
+  },
+  {
+   "identifier": "nzzas-footnote",
+   "id": "doc-8d90673a",
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "sharebox",
+   "lastContentElement": true
+  },
+  {
+   "identifier": "sharebox",
+   "id": "doc-1jgmv8t3e19",
+   "paidContent": true,
+   "prevElement": "nzzas-footnote",
+   "nextElement": "related-articles-container"
+  },
+  {
+   "identifier": "related-articles-container",
+   "id": "doc-1jgko2t5n0",
+   "content": {
+    "title": "Related articles"
+   },
+   "containers": {
+    "related-articles": [
+     {
+      "identifier": "teaser",
+      "id": "doc-1jgko2t5n1",
+      "content": {
+       "owner": "NZZ",
+       "flag": "Podcast «NZZ Quantum Leap»",
+       "title": "Designer babies from Silicon Valley: Startups want to eradicate hereditary diseases – and improve intelligence",
+       "teaserImage": {
+        "originalUrl": "/2026/02/19/a6849a30-6487-4e96-b8ea-dc5ec7005c25.gif?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2026/02/19/a6849a30-6487-4e96-b8ea-dc5ec7005c25.gif?width=1024&quality=75&auto=webp",
+        "width": 800,
+        "height": 450,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "800,450,x0,y0"
+         },
+         {
+          "name": "1:1",
+          "crop": "450,450,x175,y0"
+         },
+         {
+          "name": "4:3",
+          "crop": "600,450,x100,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "338,450,x231,y0"
+         },
+         {
+          "name": "3:2",
+          "crop": "675,450,x63,y0"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Genetic engineering has attracted the interest of tech billionaires. They are funding companies that are planning interventions in the DNA of embryos. This could change not just one life, but the future of many generations.",
+        "teaserAuthor": "NZZ"
+       },
+       "teaserAuthor": "NZZ",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1925189",
+       "readingTime": 180,
+       "showComments": true,
+       "authorLine": "Lena Waltle",
+       "tags": {
+        "$ref": "documents",
+        "references": [
+         {
+          "id": "10003706"
+         }
+        ],
+        "isPreloaded": true,
+        "values": []
+       },
+       "characterCount": 3997,
+       "product": "NZZ.ch",
+       "documentId": 1925189,
+       "layout": "regular",
+       "publicationDate": "2026-02-20T04:30:00.000Z",
+       "publicationLastUpdated": "2026-04-22T07:19:36.397Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-02-20T16:30:00.000Z",
+       "teaserCaption": "Genetic engineering has attracted the interest of tech billionaires. They are funding companies that are planning interventions in the DNA of embryos. This could change not just one life, but the future of many generations.",
+       "authorImage": {
+        "originalUrl": "/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024&quality=75&auto=webp",
+        "width": 6000,
+        "height": 4000,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2809,2809,x1693,y209"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/podcast/designer-babys-aus-dem-silicon-valley-startups-wollen-erbkrankheiten-ausmerzen-und-die-intelligenz-verbessern-ld.1925189",
+       "department": {
+        "name": "Podcast",
+        "path": "/podcast"
+       },
+       "estimationWordCount": 620,
+       "leadText": "Genetic engineering has attracted the interest of tech billionaires. They are funding companies that are planning interventions in the DNA of embryos. This could change not just one life, but the future of many generations.",
+       "nzzSummaryIsAuto": true,
+       "teaserPodcastTitle": "Designer babies from Silicon Valley: how startups want to make us smarter",
+       "teaserPodcastAuthor": "Lena Waltle und Martin Amrein",
+       "teaserPodcastDate": "20.02.20026",
+       "teaserPodcastUrl": "https://audio.podigee-cdn.net/2365237-m-e2660336f9c64466521eb47fc5d02eaf.mp3",
+       "teaserPodcastDuration": "22",
+       "hasQ": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jgko2t5n2",
+      "content": {
+       "owner": "NZZ",
+       "title": "Only the best baby, please! In the USA, parents can choose their future child based on looks, intelligence, and health.",
+       "teaserImage": {
+        "originalUrl": "/2025/01/24/c6f1fb10-0b65-4afb-8772-c20aa6dae5b8.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2025/01/24/c6f1fb10-0b65-4afb-8772-c20aa6dae5b8.jpeg?width=1024&quality=75&auto=webp",
+        "width": 5768,
+        "height": 3846,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "5768,3244,x0,y602"
+         },
+         {
+          "name": "1:1",
+          "crop": "1686,1686,x294,y1439"
+         },
+         {
+          "name": "4:3",
+          "crop": "5128,3846,x162,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1601,2134,x351,y1712"
+         },
+         {
+          "name": "3:2",
+          "crop": "5127,3418,x0,y428"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "In vitro fertilization (IVF) usually results in multiple embryos. Startups aim to predict their potential using genetic analysis. However, the method is subject to criticism.",
+        "teaserAuthor": "Gaëtan Bally / Keystone"
+       },
+       "teaserAuthor": "Gaëtan Bally / Keystone",
+       "nzzasFootnote": false,
+       "folioFootnote": false,
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1915680",
+       "readingTime": 360,
+       "authorLine": "Anna Weber",
+       "characterCount": 7939,
+       "product": "NZZ.ch",
+       "documentId": 1915680,
+       "layout": "regular",
+       "publicationDate": "2025-12-25T04:30:00.000Z",
+       "publicationLastUpdated": "2025-12-25T04:30:00.000Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2025-12-25T16:30:00.000Z",
+       "teaserCaption": "In vitro fertilization (IVF) usually results in multiple embryos. Startups aim to predict their potential using genetic analysis. However, the method is subject to criticism.",
+       "authorImage": {
+        "originalUrl": "/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+        "width": 4128,
+        "height": 2752,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "2752,2752,x688,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+       "url": "/wissenschaft/baby-selektion-in-den-usa-die-genanalyse-von-embryonen-ld.1915680",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 1183,
+       "leadText": "In vitro fertilization (IVF) usually results in multiple embryos. Startups aim to predict their potential using genetic analysis. However, the method is subject to criticism.",
+       "nzzSummaryIsAuto": true
+      }
+     },
+     {
+      "identifier": "teaser",
+      "id": "doc-1jgko2t5n3",
+      "content": {
+       "owner": "NZZaS",
+       "title": "Eggs and sperm from the laboratory make parenthood possible for everyone – and open the door to genetic manipulation.",
+       "teaserImage": {
+        "originalUrl": "/2024/05/15/6020b079-72ca-4fae-bccd-58f052903302.jpeg?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/15/6020b079-72ca-4fae-bccd-58f052903302.jpeg?width=1024&quality=75&auto=webp",
+        "width": 7813,
+        "height": 5209,
+        "crops": [
+         {
+          "name": "16:9",
+          "crop": "7813,4395,x0,y162"
+         },
+         {
+          "name": "1:1",
+          "crop": "2284,2284,x2956,y2263"
+         },
+         {
+          "name": "4:3",
+          "crop": "6945,5209,x657,y0"
+         },
+         {
+          "name": "3:4",
+          "crop": "1927,2569,x3335,y2640"
+         },
+         {
+          "name": "3:2",
+          "crop": "6945,4630,x868,y313"
+         }
+        ],
+        "imageService": "fastly",
+        "teaserCaption": "Brave new world: Age, infertility, and illness are no longer obstacles to having a biologically related child. Even a baby with two biological fathers would be conceivable. It already works in mice.",
+        "teaserAuthor": "Liliya Solopova / Imago"
+       },
+       "teaserAuthor": "Liliya Solopova / Imago",
+       "nzzasFootnote": true,
+       "folioFootnote": false,
+       "paywallQuestionOne": "How close is the research to genetically intact germ cells from the laboratory?",
+       "paywallQuestionTwo": "What ethical concerns arise from the production of germ cells in the laboratory?",
+       "paywallQuestionThree": "How does progress in Japan and the USA influence global reproductive technologies?",
+       "language": {
+        "locale": "de-CH"
+       },
+       "nzzId": "ld.1916709",
+       "readingTime": 240,
+       "authorLine": "Stephanie Lahrtz",
+       "characterCount": 6221,
+       "product": "NZZ.ch",
+       "documentId": 1916709,
+       "layout": "regular",
+       "publicationDate": "2026-01-20T04:30:00.000Z",
+       "publicationLastUpdated": "2026-01-20T14:28:00.312Z",
+       "significantUpdate": false,
+       "significantUpdateTill": "2026-01-20T16:30:00.000Z",
+       "teaserCaption": "Brave new world: Age, infertility, and illness are no longer obstacles to having a biologically related child. Even a baby with two biological fathers would be conceivable. It already works in mice.",
+       "authorImage": {
+        "originalUrl": "/2024/05/29/f432a7e2-db6e-42d1-895b-de2be4b87e20.png?width=1024",
+        "url": "https://img-msp-prod.nzz.ch/2024/05/29/f432a7e2-db6e-42d1-895b-de2be4b87e20.png?width=1024&quality=75&auto=webp",
+        "width": 320,
+        "height": 320,
+        "crops": [
+         {
+          "name": "1:1",
+          "crop": "320,320,x0,y0"
+         }
+        ],
+        "imageService": "fastly"
+       },
+       "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/f432a7e2-db6e-42d1-895b-de2be4b87e20.png?width=1024&quality=75&auto=webp",
+       "url": "/wissenschaft/kuenstliche-ei-und-samenzellen-im-labor-die-zukunft-der-reproduktionsmedizin-ld.1916709",
+       "department": {
+        "name": "Science",
+        "path": "/wissenschaft"
+       },
+       "estimationWordCount": 896,
+       "leadText": "Brave new world: Age, infertility, and illness are no longer obstacles to having a biologically related child. Even a baby with two biological fathers would be conceivable. It already works in mice.",
+       "nzzSummaryIsAuto": true,
+       "hasQ": true
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "sharebox",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "owner": "NZZaS",
+  "germanyRelevant": true,
+  "title": "Startups are pushing the boundaries of reproductive medicine. Their latest goal: genetically modified babies.",
+  "teaserImage": {
+   "originalUrl": "/2026/02/05/e6711a24-e438-4ba7-8b6a-4d114bb03589.jpg?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2026/02/05/e6711a24-e438-4ba7-8b6a-4d114bb03589.jpg?width=1024&quality=75&auto=webp",
+   "width": 6271,
+   "height": 4180,
+   "crops": [
+    {
+     "name": "16:9",
+     "crop": "6271,3527,x0,y653"
+    },
+    {
+     "name": "1:1",
+     "crop": "4180,4180,x1466,y0"
+    },
+    {
+     "name": "4:3",
+     "crop": "5573,4180,x69,y0"
+    },
+    {
+     "name": "3:4",
+     "crop": "3135,4180,x1386,y0"
+    },
+    {
+     "name": "3:2",
+     "crop": "6270,4180,x1,y0"
+    }
+   ],
+   "imageService": "fastly",
+   "teaserCaption": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+   "teaserAuthor": "Caitlyn Gaurano"
+  },
+  "teaserAuthor": "Caitlyn Gaurano",
+  "nzzasFootnote": true,
+  "folioFootnote": false,
+  "language": {
+   "locale": "en-US"
+  },
+  "nzzId": "ld.1919231",
+  "readingTime": 540,
+  "authorLine": "Martin Amrein",
+  "tags": [
+   "Wissenschaft Empfehlungen"
+  ],
+  "dependencies": {},
+  "characterCount": 11373,
+  "breadcrumbs": [
+   {
+    "name": "Science",
+    "path": "/wissenschaft"
+   }
+  ],
+  "product": "NZZ.ch",
+  "documentId": 1919231,
+  "contentTypeGroup": "web",
+  "layout": "longformvisual",
+  "firstPublicationDate": "2026-02-15T04:30:00.000Z",
+  "publicationDate": "2026-02-15T04:30:00.000Z",
+  "publicationLastUpdated": "2026-05-13T13:28:52.976Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-02-15T16:30:00.000Z",
+  "teaserCaption": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+  "nzzAuthors": [
+   {
+    "id": 1373209,
+    "name": "Martin Amrein",
+    "shortName": "mna",
+    "pianoId": "ce6ff5a3-1600-4d61-b9d8-668d98d9c057",
+    "external": false
+   }
+  ],
+  "authorImage": {
+   "originalUrl": "/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024",
+   "url": "https://img-msp-prod.nzz.ch/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024&quality=75&auto=webp",
+   "width": 480,
+   "height": 640,
+   "crops": [
+    {
+     "name": "1:1",
+     "crop": "480,480,x0,y42"
+    }
+   ],
+   "imageService": "fastly"
+  },
+  "nzzAuthorProfileDataCollection": [
+   {
+    "documentId": 1723396,
+    "name": "Martin Amrein (mna.) – Science Editor «NZZ»",
+    "teaserImageUrl": "https://img-msp-prod.nzz.ch/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024&quality=75&auto=webp"
+   }
+  ],
+  "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024&quality=75&auto=webp",
+  "url": "/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231",
+  "department": {
+   "name": "Science",
+   "path": "/wissenschaft"
+  },
+  "estimationWordCount": 1769,
+  "leadText": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+  "nzzSummaryEN": "- Cathy Tie and her startup Manhattan Genomics aim to genetically edit human embryos using Crispr technology to prevent diseases.\n- Germline editing research is globally controversial and largely prohibited, but startups and investors push for advancements.\n- Critics warn of risks, ethical concerns, and possible new eugenics, while others welcome the important public debate.",
+  "nzzSummaryDE": "Cathy Tie and her startup Manhattan Genomics plan to genetically edit human embryos using Crispr technology to prevent diseases.\n Germline editing research is controversial and mostly prohibited worldwide, but startups and investors are pushing for progress.\n Critics warn of risks, ethical problems and a possible new eugenics, while others welcome an important public debate.",
+  "nzzSummaryIsAuto": true,
+  "nzzSummaryModel": "gpt-4o-2024-11-20",
+  "nzzPrintTitle": "Custom-made babies",
+  "nzzPrintSubtitle": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+  "allArticleLanguages": [
+   {
+    "locale": "de-CH",
+    "urlPath": "/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231",
+    "seo": {}
+   }
+  ],
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231",
+   "title": "CRISPR: Startups want to alter babies' genes",
+   "socialMediaTitle": "The latest goal of biotech startups is genetically modified babies.",
+   "excludeFromSpiders": false,
+   "image": "https://img-msp-prod.nzz.ch/2026/02/05/e6711a24-e438-4ba7-8b6a-4d114bb03589.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6271,3527,x0,y653&wmark=nzz"
+  },
+  "ldPublicationId": 2428173,
+  "isHighlightedHeader": true,
+  "nzzTopics": [
+   {
+    "name": "Genetic engineering",
+    "slug": "/themen/gentechnik"
+   },
+   {
+    "name": "Biotech",
+    "slug": "/themen/biotech"
+   },
+   {
+    "name": "Silicon Valley",
+    "slug": "/themen/silicon-valley"
+   },
+   {
+    "name": "USA",
+    "slug": "/themen/usa"
+   },
+   {
+    "name": "China",
+    "slug": "/themen/china"
+   }
+  ],
+  "barrierIndex": 2,
+  "outlinks": {
+   "mehrZumThema": [
+    "ld.1925189",
+    "ld.1915680",
+    "ld.1916709"
+   ],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "mp3": true,
+  "mp3Duration": 708168,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": true
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "btaFeed": {
+  "meta": {
+   "id": "gentechnik",
+   "name": "Genetic engineering",
+   "tagName": "Genetic engineering",
+   "qId": "Q159236",
+   "seoTitle": "Genetic engineering – All news, articles and information on the topic | NZZ",
+   "description": null,
+   "firstName": null,
+   "lastName": null,
+   "category": "MISC",
+   "createdDate": "2025-04-08 16:19:41.096Z",
+   "imageURL": null,
+   "imageCroppedURL": null,
+   "imageWidth": null,
+   "imageHeight": null,
+   "imageCredits": null,
+   "url": "https://nzz.ch/themen/gentechnik",
+   "size": 243,
+   "relatedTopics": [
+    {
+     "name": "Biotech",
+     "slug": "/themen/biotech"
+    },
+    {
+     "name": "Silicon Valley",
+     "slug": "/themen/silicon-valley"
+    },
+    {
+     "name": "USA",
+     "slug": "/themen/usa"
+    },
+    {
+     "name": "China",
+     "slug": "/themen/china"
+    }
+   ]
+  },
+  "data": [
+   {
+    "owner": "NZZ",
+    "title": "De-extinction: How mammoths could return",
+    "teaserImage": {
+     "originalUrl": "/2026/07/09/62632f88-f9ab-4e2d-b4e8-e42777efbb20.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/09/62632f88-f9ab-4e2d-b4e8-e42777efbb20.jpg?width=1024&quality=75&auto=webp",
+     "width": 3000,
+     "height": 3000,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "3000,1687,x0,y656"
+      },
+      {
+       "name": "4:3",
+       "crop": "3000,2250,x0,y435"
+      },
+      {
+       "name": "1:1",
+       "crop": "3000,3000,x0,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2250,3000,x375,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "3000,2000,x0,y686"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "At the Colossal Biosciences laboratory, the aim is to bring extinct animals back to life using genetic engineering – thereby saving ecosystems and promoting biodiversity. Above all, this technology could save endangered species.",
+     "teaserAuthor": "NZZ"
+    },
+    "teaserAuthor": "NZZ",
+    "showHeader": true,
+    "tags": [
+     "Wissenschaft aktuell",
+     "Technologie aktuell",
+     "Wissenschaft Empfehlungen",
+     "Technologie: Empfehlungen",
+     "Biologie"
+    ],
+    "language": {
+     "locale": "de"
+    },
+    "videoTeaser": "NK7CsEfc",
+    "flag": "Podcast «NZZ Quantum Leap»",
+    "nzzId": "ld.10014346",
+    "readingTime": 240,
+    "embeds": {
+     "videos": [
+      {
+       "id": "NK7CsEfc",
+       "provider": "jw",
+       "teaser": true,
+       "duration": 8,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/NK7CsEfc-IBEUDFZ7.mp4",
+         "label": "180p"
+        }
+       ]
+      },
+      {
+       "id": "GuWJqDpx",
+       "provider": "jw",
+       "teaser": false,
+       "duration": 110,
+       "sources": [
+        {
+         "file": "https://cdn.jwplayer.com/videos/GuWJqDpx-2KuhEkuQ.mp4",
+         "label": "180p"
+        }
+       ]
+      }
+     ]
+    },
+    "paywallQuestionOne": "How realistic is the revival of extinct species like the mammoth?",
+    "paywallQuestionTwo": "What challenges exist in gene editing for de-extinction projects?",
+    "paywallQuestionThree": "Can proxy animals like mammoth-like elephants have a lasting impact on ecosystems?",
+    "characterCount": 4722,
+    "product": "NZZ.ch",
+    "documentId": "10014346",
+    "layout": "regular",
+    "publicationDate": "2026-07-10T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-10T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-10T15:30:00.000Z",
+    "teaserCaption": "At the Colossal Biosciences laboratory, the aim is to bring extinct animals back to life using genetic engineering – thereby saving ecosystems and promoting biodiversity. Above all, this technology could save endangered species.",
+    "authorLine": "Lena Waltle",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/quantensprung/mammut-wiederbeleben-wie-colossal-biosciences-es-klonen-will-ld.10014346",
+    "department": {
+     "name": "Quantum Leap (only for play feature in app)",
+     "path": "/podcast/quantensprung"
+    },
+    "estimationWordCount": 712,
+    "leadText": "At the Colossal Biosciences laboratory, the aim is to bring extinct animals back to life using genetic engineering – thereby saving ecosystems and promoting biodiversity. Above all, this technology could save endangered species.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "De-extinction: How mammoths could return",
+    "teaserPodcastAuthor": "Lena Waltle und Stephanie Lahrtz",
+    "teaserPodcastDate": "10.07.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2542214-m-d04d0511f2efe977a31bb0857238ba3d.mp3?source=feed",
+    "teaserPodcastDuration": "24",
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Designer babies are getting closer: Experiments by a Swiss researcher demonstrate the precision of a new technology. «Whether it should be used is a decision for others to make,» he says",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/07/01/6659f531-bde9-4a09-be6c-e734590637e5.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/07/01/6659f531-bde9-4a09-be6c-e734590637e5.jpg?width=1024&quality=75&auto=webp",
+     "width": 5200,
+     "height": 3380,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5200,2925,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4097,3073,x622,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3380,3380,x1072,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2535,3380,x1388,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "4609,3073,x532,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Cell biologist Dieter Egli has succeeded in selectively editing genes in embryos. His study could be a crucial step towards genetically modified babies.",
+     "teaserAuthor": "Piemags/Imago"
+    },
+    "teaserAuthor": "Piemags/Imago",
+    "flag": "interview",
+    "tags": [
+     "Wissenschaft aktuell",
+     "Biologie",
+     "Medizin"
+    ],
+    "nzzId": "ld.10013589",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does base editing differ from CRISPR?",
+    "paywallQuestionTwo": "What are the risks of gene editing in embryos?",
+    "paywallQuestionThree": "When could the first gene-edited baby be born?",
+    "characterCount": 11942,
+    "product": "NZZ.ch",
+    "documentId": "10013589",
+    "layout": "regular",
+    "publicationDate": "2026-07-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-07-06T08:11:40.938Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-07-03T15:30:00.000Z",
+    "teaserCaption": "Cell biologist Dieter Egli has succeeded in selectively editing genes in embryos. His study could be a crucial step towards genetically modified babies.",
+    "authorLine": "Martin Amrein",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2023/01/27/e6ff1928-9714-41ba-a75f-392f994b51ee.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wissenschaft/base-editing-statt-crispr-werden-genveraenderte-babys-moeglich-ld.10013589",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1745,
+    "leadText": "Cell biologist Dieter Egli has succeeded in selectively editing genes in embryos. His study could be a crucial step towards genetically modified babies.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "owner": "NZZ",
+    "flag": "Podcast «NZZ Quantum Leap»",
+    "title": "Genetic engineering against baldness: Gene scissors, bitter liqueur and special fragrances combat hair loss – and thus improve our health",
+    "teaserImage": {
+     "originalUrl": "/2026/06/24/eb67fe0a-1d32-448b-b1df-7fd421b13db3.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/24/eb67fe0a-1d32-448b-b1df-7fd421b13db3.jpg?width=1024&quality=75&auto=webp",
+     "width": 2222,
+     "height": 833,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1481,833,x371,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1111,833,x556,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "833,833,x695,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "625,833,x799,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1250,833,x486,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "It's a hairy issue and much more than a matter of style. Hair has enormous potential. What a shame that it falls out.",
+     "teaserAuthor": "nzz"
+    },
+    "teaserAuthor": "nzz",
+    "showHeader": true,
+    "tags": [
+     "Wissenschaft aktuell",
+     "Technologie aktuell",
+     "Technologie: Empfehlungen",
+     "Wissenschaft Empfehlungen"
+    ],
+    "showComments": true,
+    "paywallQuestionOne": "How could genetic approaches effectively prevent hair loss?",
+    "paywallQuestionTwo": "What role do bitter receptors in hair follicles play in hair growth?",
+    "paywallQuestionThree": "How could hair, as a toxin dumping ground, improve our health?",
+    "language": {
+     "locale": "de"
+    },
+    "readingTime": 180,
+    "nzzId": "ld.10007460",
+    "characterCount": 4120,
+    "product": "NZZ.ch",
+    "documentId": "10007460",
+    "layout": "regular",
+    "publicationDate": "2026-06-26T03:30:00.000Z",
+    "publicationLastUpdated": "2026-06-26T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-26T15:30:00.000Z",
+    "teaserCaption": "It's a hairy issue and much more than a matter of style. Hair has enormous potential. What a shame that it falls out.",
+    "authorLine": "Lena Waltle",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/03/27/ed08b0a6-0c70-4c5f-a469-ae83444def75.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/genmanipulation-gegen-glatzen-genschere-bitterlikoer-und-spezielle-duefte-bekaempfen-haarausfall-und-verbessern-auf-diese-art-unsere-gesundheit-ld.10007460",
+    "department": {
+     "name": "Podcast",
+     "path": "/podcast"
+    },
+    "estimationWordCount": 622,
+    "leadText": "It's a hairy issue and much more than a matter of style. Hair has enormous potential. What a shame that it falls out.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Genetic engineering to combat baldness: How our hair compensates for organ damage",
+    "teaserPodcastAuthor": "Lena Waltle und Manuel Stark",
+    "teaserPodcastDate": "26.06.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2529407-m-8f5f3a6b55039dff22614d6b9a7e7977.mp3",
+    "teaserPodcastDuration": "20",
+    "commentsCount": 1,
+    "openToComment": false,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "EU weakens rules on genetic engineering in food",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/06/17/d5d1d242-5446-41d2-b802-d48f270d4768.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/17/d5d1d242-5446-41d2-b802-d48f270d4768.jpg?width=1024&quality=75&auto=webp",
+     "width": 5120,
+     "height": 3414,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5120,2880,x0,y534"
+      },
+      {
+       "name": "4:3",
+       "crop": "4552,3414,x568,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3414,3414,x1345,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2561,3414,x1818,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5120,3413,x0,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The new EU rules are set to be applied in two years. Genetically modified foods will then be allowed on supermarket shelves without special labeling.",
+     "teaserAuthor": "IMAGO/Tom Chance / Imago"
+    },
+    "teaserAuthor": "IMAGO/Tom Chance / Imago",
+    "nzzId": "ld.10011736",
+    "readingTime": 120,
+    "paywallQuestionOne": "What changes is the EU planning to the labelling of genetically modified foods?",
+    "paywallQuestionTwo": "What advantages and risks do proponents and critics see in the new genetic engineering regulations?",
+    "paywallQuestionThree": "How do the new categories for genetically modified plants differ?",
+    "characterCount": 2875,
+    "product": "NZZ.ch",
+    "documentId": "10011736",
+    "layout": "regular",
+    "publicationDate": "2026-06-17T12:36:32.713Z",
+    "publicationLastUpdated": "2026-06-17T12:36:32.713Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-06-18T00:36:32.713Z",
+    "teaserCaption": "The new EU rules are set to be applied in two years. Genetically modified foods will then be allowed on supermarket shelves without special labeling.",
+    "url": "https://www.nzz.ch/international/eu-schwaecht-regeln-fuer-gentechnik-bei-lebensmitteln-ab-ld.10011736",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 420,
+    "leadText": "The new EU rules are set to be applied in two years. Genetically modified foods will then be allowed on supermarket shelves without special labeling.",
+    "nzzSummaryIsAuto": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "At first glance, eradicating mosquitoes has only upsides. Should we do it?",
+    "showHeader": true,
+    "owner": "NZZ",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/05/05/bd39173c-42b8-4abf-bbb8-75b80ba72205.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/05/05/bd39173c-42b8-4abf-bbb8-75b80ba72205.jpg?width=1024&quality=75&auto=webp",
+     "width": 2222,
+     "height": 833,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1481,833,x371,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1111,833,x556,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "833,833,x695,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "625,833,x799,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1250,833,x486,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "They are annoying, they bite, and they transmit dangerous diseases. Using genetic engineering, a single mosquito could wipe out its entire species. But there are unpleasant side effects to consider."
+    },
+    "tags": [
+     "Wissenschaft aktuell",
+     "Biologie"
+    ],
+    "flag": "Podcast «NZZ Quantum Leap»",
+    "showComments": true,
+    "nzzId": "ld.10005560",
+    "readingTime": 180,
+    "paywallQuestionOne": "What risks are associated with using gene drive to eradicate mosquitoes?",
+    "paywallQuestionTwo": "How important are mosquitoes for the ecosystem and the food chain?",
+    "paywallQuestionThree": "Could we fight diseases without eradicating mosquitoes?",
+    "characterCount": 3908,
+    "product": "NZZ.ch",
+    "documentId": "10005560",
+    "layout": "regular",
+    "publicationDate": "2026-05-08T03:30:00.000Z",
+    "publicationLastUpdated": "2026-05-13T12:43:15.047Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-05-08T15:30:00.000Z",
+    "teaserCaption": "They are annoying, they bite, and they transmit dangerous diseases. Using genetic engineering, a single mosquito could wipe out its entire species. But there are unpleasant side effects to consider.",
+    "authorLine": "Anna Weber",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/08/20/a89726dc-a8b2-4b56-9fea-500000425515.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/podcast/stechmuecken-auszurotten-hat-auf-den-ersten-blick-nur-vorteile-sollten-wir-es-tun-ld.10005560",
+    "department": {
+     "name": "Podcast",
+     "path": "/podcast"
+    },
+    "estimationWordCount": 621,
+    "leadText": "They are annoying, they bite, and they transmit dangerous diseases. Using genetic engineering, a single mosquito could wipe out its entire species. But there are unpleasant side effects to consider.",
+    "nzzSummaryIsAuto": true,
+    "teaserPodcastTitle": "Goodbye Mosquitoes: How genetic engineering frees us from mosquitoes",
+    "teaserPodcastAuthor": "Anna Weber und Esther Widmann",
+    "teaserPodcastDate": "08.05.2026",
+    "teaserPodcastUrl": "https://audio.podigee-cdn.net/2483558-m-4075e9bf9fcf066139b6e9c28dc9fa6c.mp3",
+    "teaserPodcastDuration": "25",
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Eradicating mosquitoes with the insecticide DDT hasn't worked. Now radical genetic engineering methods are being considered, raising the question: Should we do it?",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/04/25/1837e03d-d426-45ca-92a0-38689851ce2b.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/04/25/1837e03d-d426-45ca-92a0-38689851ce2b.jpg?width=1024&quality=75&auto=webp",
+     "width": 5999,
+     "height": 3762,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5999,3373,x0,y389"
+      },
+      {
+       "name": "4:3",
+       "crop": "4560,3419,x1364,y340"
+      },
+      {
+       "name": "1:1",
+       "crop": "3762,3761,x1656,y1"
+      },
+      {
+       "name": "3:4",
+       "crop": "1593,2123,x2775,y1639"
+      },
+      {
+       "name": "3:2",
+       "crop": "5643,3761,x356,y1"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Malaria, dengue fever, yellow fever: Every year, hundreds of thousands of people die from pathogens transmitted by mosquitoes. Some consider putting an end to this more important than the ecological consequences.",
+     "teaserAuthor": "Nariman Safarov / Getty"
+    },
+    "teaserAuthor": "Nariman Safarov / Getty",
+    "nzzId": "ld.10003462",
+    "readingTime": 600,
+    "paywallQuestionOne": "What risks does the eradication of mosquitoes pose to the ecosystem?",
+    "paywallQuestionTwo": "How effective are gene drives in combating malaria mosquitoes?",
+    "paywallQuestionThree": "Should humans deliberately eradicate an animal species to combat diseases?",
+    "nzzasFootnote": true,
+    "tags": [
+     "Wissenschaft aktuell",
+     "Klima, Umwelt, Erde"
+    ],
+    "characterCount": 13653,
+    "product": "NZZ.ch",
+    "documentId": "10003462",
+    "layout": "regular",
+    "publicationDate": "2026-05-03T03:30:00.000Z",
+    "publicationLastUpdated": "2026-05-11T06:45:32.864Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-05-03T15:30:00.000Z",
+    "teaserCaption": "Malaria, dengue fever, yellow fever: Every year, hundreds of thousands of people die from pathogens transmitted by mosquitoes. Some consider putting an end to this more important than the ecological consequences.",
+    "authorLine": "Esther Widmann",
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/29/40bac84b-7387-49fd-9611-564cc4693323.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wissenschaft/muecken-auszurotten-hat-mit-dem-insektengift-ddt-nicht-geklappt-jetzt-kommen-radikale-gentechnische-methoden-und-damit-die-frage-sollten-wir-es-tun-ld.10003462",
+    "department": {
+     "name": "Science",
+     "path": "/wissenschaft"
+    },
+    "estimationWordCount": 1976,
+    "leadText": "Malaria, dengue fever, yellow fever: Every year, hundreds of thousands of people die from pathogens transmitted by mosquitoes. Some consider putting an end to this more important than the ecological consequences.",
+    "nzzSummaryIsAuto": true,
+    "hasQ": true,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "btaNZZaSFeed": {
+  "meta": {
+   "name": "NZZ am Sonntag",
+   "path": "/nzz-am-sonntag"
+  },
+  "data": [
+   {
+    "title": "Hybrid Warfare and Playing with Fire on the Eastern Flank: How Far Will Putin Go? And are Europeans prepared?",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Andrea Jeska, David Axe, Alain Zucker",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10021091",
+    "readingTime": 420,
+    "paywallQuestionOne": "How is Europe responding to Russia's hybrid attacks?",
+    "paywallQuestionTwo": "What role does support for Ukraine play in the conflict?",
+    "paywallQuestionThree": "How could Russia escalate further?",
+    "characterCount": 10159,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/f81cc725-5d33-4092-b102-c0c15f310843.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/f81cc725-5d33-4092-b102-c0c15f310843.jpg?width=1024&quality=75&auto=webp",
+     "width": 2836,
+     "height": 1474,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "2620,1474,x111,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1965,1474,x417,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1474,1474,x671,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1106,1474,x825,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "2211,1474,x329,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+     "teaserAuthor": "Illustration by Elia Barbieri for NZZaS"
+    },
+    "teaserAuthor": "Illustration by Elia Barbieri for NZZaS",
+    "product": "NZZ.ch",
+    "documentId": 10021091,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+    "url": "https://www.nzz.ch/international/hybrider-krieg-und-das-zuendeln-an-der-ostflanke-wie-weit-wird-putin-gehen-und-sind-die-europaeer-vorbereitet-ld.10021091",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1481,
+    "leadText": "Russia warns Europeans about transferring missile technology to Ukraine. CIA chief John Ratcliffe flies to Moscow, while NATO holds an exercise on its eastern flank. Signs point to escalation.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 1,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/28/fbe92494-1ec9-4631-9df3-31b7a615550e.jpg?width=1024&quality=75&auto=webp",
+     "width": 5602,
+     "height": 3735,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5602,3151,x0,y439"
+      },
+      {
+       "name": "4:3",
+       "crop": "4116,3087,x1,y503"
+      },
+      {
+       "name": "1:1",
+       "crop": "2806,2806,x622,y594"
+      },
+      {
+       "name": "3:4",
+       "crop": "2315,3087,x842,y567"
+      },
+      {
+       "name": "3:2",
+       "crop": "4209,2806,x0,y492"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+     "teaserAuthor": "Andrea Zahle"
+    },
+    "teaserAuthor": "Andrea Zahle",
+    "title": "FDP co-president Susanne Vincenz-Stauffacher on the start of the European debate: «That was a false start»",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10020993",
+    "readingTime": 540,
+    "paywallQuestionOne": "How does the FDP assess the attempts to change the EU negotiation outcome?",
+    "paywallQuestionTwo": "Why is the FDP ignoring the vote of its delegates against the majority of cantons?",
+    "paywallQuestionThree": "How does the FDP intend to finance the army without raising taxes?",
+    "characterCount": 11294,
+    "flag": "interview",
+    "tags": [
+     "Schweiz und die EU"
+    ],
+    "product": "NZZ.ch",
+    "documentId": 10020993,
+    "layout": "regular",
+    "publicationDate": "2026-08-29T19:45:00.000Z",
+    "publicationLastUpdated": "2026-08-31T08:16:16.249Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T07:45:00.000Z",
+    "teaserCaption": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "authorLine": "Daniel Foppa, Simon Marti",
+    "authorImage": {
+     "originalUrl": "/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+     "width": 480,
+     "height": 480,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "480,480,x0,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/05/28/7536f440-0c11-4f0f-86f5-1139121b3bb6.webp?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/schweiz/fdp-co-praesidentin-vincenz-stauffacher-zum-auftakt-der-europadebatte-das-war-ein-fehlstart-ld.10020993",
+    "department": {
+     "name": "Switzerland",
+     "path": "/schweiz"
+    },
+    "estimationWordCount": 1703,
+    "leadText": "The FDP politician criticizes parliamentary attempts to alter the negotiated agreement with the EU. She also defends her party's parliamentarians for ignoring a vote by their own delegates on a key provision.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 2,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Deep relaxation in nature, young people with ideas, and the best butter tea in the world. A small ode to Nepal",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "authorLine": "Stephanie Geiger",
+    "nzzasFootnote": true,
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/d217a4cb-2734-400a-9291-ed353fc801cc.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/d217a4cb-2734-400a-9291-ed353fc801cc.jpg?width=1024&quality=75&auto=webp",
+     "width": 5500,
+     "height": 3712,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "5500,3094,x0,y309"
+      },
+      {
+       "name": "4:3",
+       "crop": "4949,3712,x275,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3712,3712,x894,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2784,3712,x1358,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5500,3667,x0,y23"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Despite the tragedy: A return to Nepal soon",
+     "teaserAuthor": "Francis Mascarenhas / Reuters"
+    },
+    "teaserAuthor": "Francis Mascarenhas / Reuters",
+    "nzzId": "ld.10021585",
+    "readingTime": 360,
+    "paywallQuestionOne": "How do natural disasters affect the lives of people in Nepal?",
+    "paywallQuestionTwo": "How is Nepal changing through electromobility and infrastructure projects?",
+    "paywallQuestionThree": "What role does the younger generation play in Nepal's development?",
+    "characterCount": 7555,
+    "product": "NZZ.ch",
+    "documentId": 10021585,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Despite the tragedy: A return to Nepal soon",
+    "url": "https://www.nzz.ch/international/tiefenentspannung-in-der-natur-junge-menschen-mit-ideen-und-der-beste-buttertee-der-welt-eine-kleine-ode-an-nepal-ld.10021585",
+    "department": {
+     "name": "International",
+     "path": "/international"
+    },
+    "estimationWordCount": 1239,
+    "leadText": "Despite the tragedy: A return to Nepal soon",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 3,
+    "hasQ": true,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Rapper Stress: «I measured my self-worth by how successful I am. Nothing good can come of that. Not even good music»",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "teaserImage": {
+     "originalUrl": "/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/25/684e0281-49d4-4913-a6e8-b81c12707b8c.jpg?width=1024&quality=75&auto=webp",
+     "width": 1920,
+     "height": 1440,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "1920,1080,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "1920,1440,x0,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "1440,1440,x373,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "1080,1440,x553,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "1920,1280,x0,y0"
+      }
+     ],
+     "focalPoint": {
+      "x": 1093,
+      "y": 307
+     },
+     "imageService": "fastly",
+     "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+     "teaserAuthor": "Sébastien Agnetti"
+    },
+    "teaserAuthor": "Sébastien Agnetti",
+    "nzzasFootnote": true,
+    "nzzId": "ld.10018314",
+    "readingTime": 780,
+    "paywallQuestionOne": "How did Stress's success affect his mental health?",
+    "paywallQuestionTwo": "Why does Stress view his book more as a testimony than as a guide?",
+    "paywallQuestionThree": "What role does childhood play in Stress's personal development?",
+    "characterCount": 14907,
+    "flag": "interview",
+    "product": "NZZ.ch",
+    "documentId": 10018314,
+    "layout": "longformstandard",
+    "publicationDate": "2026-08-30T03:29:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:29:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:29:00.000Z",
+    "teaserCaption": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "authorLine": "Frank Heer",
+    "authorImage": {
+     "originalUrl": "/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+     "width": 4128,
+     "height": 2752,
+     "crops": [
+      {
+       "name": "1:1",
+       "crop": "2752,2752,x688,y0"
+      }
+     ],
+     "imageService": "fastly"
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2025/02/19/4d0a1c14-762f-4a79-943b-8695aaa4d40d.jpeg?width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/feuilleton/rapper-stress-ich-habe-meinen-selbstwert-daran-gemessen-wie-erfolgreich-ich-bin-daraus-kann-nichts-gutes-entstehen-auch-keine-gute-musik-ld.10018314",
+    "department": {
+     "name": "Arts & Culture",
+     "path": "/feuilleton"
+    },
+    "estimationWordCount": 2521,
+    "leadText": "Stress is the most successful rapper in Switzerland. For years he has spoken openly about his depression. He wanted to write a self-help book about how he found his way back to life – until physical pain forced him to start all over again.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 4,
+    "locale": "de-CH"
+   },
+   {
+    "title": "Condominium nightmare: How owners become bitter enemies",
+    "showHeader": true,
+    "owner": "NZZaS",
+    "language": {
+     "locale": "de"
+    },
+    "characterCount": 13550,
+    "nzzasFootnote": true,
+    "nzzId": "ld.10014125",
+    "readingTime": 600,
+    "paywallQuestionOne": "What challenges does condominium ownership pose for the owners?",
+    "paywallQuestionTwo": "Why do renovations often fail due to financial and legal hurdles?",
+    "paywallQuestionThree": "How could the revision of condominium ownership law defuse conflicts?",
+    "teaserImage": {
+     "originalUrl": "/2026/08/29/75186538-5fe8-4736-8335-f7b57a064317.jpg?width=1024",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/29/75186538-5fe8-4736-8335-f7b57a064317.jpg?width=1024&quality=75&auto=webp",
+     "width": 6034,
+     "height": 3395,
+     "crops": [
+      {
+       "name": "16:9",
+       "crop": "6034,3394,x0,y0"
+      },
+      {
+       "name": "4:3",
+       "crop": "4527,3395,x754,y0"
+      },
+      {
+       "name": "1:1",
+       "crop": "3395,3395,x1320,y0"
+      },
+      {
+       "name": "3:4",
+       "crop": "2546,3395,x1744,y0"
+      },
+      {
+       "name": "3:2",
+       "crop": "5093,3395,x471,y0"
+      }
+     ],
+     "imageService": "fastly",
+     "teaserCaption": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+     "teaserAuthor": "Illustration by Elia Barbieri for NZZaS"
+    },
+    "teaserAuthor": "Illustration by Elia Barbieri for NZZaS",
+    "product": "NZZ.ch",
+    "documentId": 10014125,
+    "layout": "regular",
+    "publicationDate": "2026-08-30T03:30:00.000Z",
+    "publicationLastUpdated": "2026-08-30T03:30:00.000Z",
+    "significantUpdate": false,
+    "significantUpdateTill": "2026-08-30T15:30:00.000Z",
+    "teaserCaption": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+    "authorLine": "Jürg Zulliger",
+    "authorImage": {
+     "originalUrl": "/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438",
+     "url": "https://img-msp-prod.nzz.ch/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438&width=1024&quality=75&auto=webp",
+     "width": 2625,
+     "height": 3500,
+     "imageService": "fastly",
+     "crop": {
+      "name": "1:1",
+      "x": 0,
+      "y": 438,
+      "width": 2625,
+      "height": 2625
+     },
+     "crops": []
+    },
+    "nzzAuthorProfileImageUrl": "https://img-msp-prod.nzz.ch/2024/01/31/abcf5b13-0bb2-4dd2-91da-b56035766bfb.jpeg?crop=2625,2625,x0,y438&width=1024&quality=75&auto=webp",
+    "url": "https://www.nzz.ch/wirtschaft/albtraum-eigentumswohnung-wie-stockwerkeigentuemer-zu-erbitterten-feinden-werden-ld.10014125",
+    "department": {
+     "name": "Economy",
+     "path": "/wirtschaft"
+    },
+    "estimationWordCount": 1930,
+    "leadText": "Those who can't afford a house opt for condominium ownership. But in practice, this often turns into a nerve-wracking battle over garden benches, awning colors, and bicycle shelters. And that's nothing compared to the woes associated with renovations.",
+    "nzzSummaryIsAuto": true,
+    "containerId": "doc-1jje3h7kv0",
+    "containerPosition": 1,
+    "containerTitle": "NZZ am Sonntag",
+    "editorialScore": 0,
+    "positionInContainer": 5,
+    "locale": "de-CH"
+   }
+  ]
+ },
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.1919231",
+    "name": "Startups are pushing the boundaries of reproductive medicine. Their latest goal: genetically modified babies.",
+    "type": "article",
+    "subType1": "longformvisual",
+    "subType2": "",
+    "primaryCategory": "Wissenschaft",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Startups are pushing the boundaries of reproductive medicine. Their latest goal: genetically modified babies.",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [
+      {
+       "id": 1373209,
+       "name": "Martin Amrein",
+       "shortName": "mna",
+       "pianoId": "ce6ff5a3-1600-4d61-b9d8-668d98d9c057",
+       "external": false
+      }
+     ],
+     "issueTimestamp": "2026-02-15T04:30:00.000Z",
+     "updateTimestamp": "2026-05-13T13:28:52.976Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZaS"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.1919231",
+   "pageType": "longformvisual",
+   "primaryCategory": "Wissenschaft",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "CRISPR: Startups want to alter babies' genes",
+  "image": {
+   "url": "https://img-msp-prod.nzz.ch/2026/02/05/e6711a24-e438-4ba7-8b6a-4d114bb03589.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6271,3527,x0,y653&wmark=nzz",
+   "type": "image/jpeg",
+   "width": 1200,
+   "height": 674
+  },
+  "author": "Martin Amrein",
+  "description": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+  "news_keywords": "Startups are pushing the boundaries of reproductive medicine. Their latest goal: genetically modified babies. (Science, News, NZZ)",
+  "type": "article",
+  "last-modified": "2026-05-13T17:28:52+02:00",
+  "date": "2026-02-15T07:30:00+02:00",
+  "canonical": "https://www.nzz.ch/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Startups are pushing the boundaries of reproductive medicine. Their latest goal: genetically modified babies.",
+  "ogTitle": "The latest goal of biotech startups is genetically modified babies.",
+  "ogUrl": "https://www.nzz.ch/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231",
+  "mrf:cms_id": "nzz:ld.1919231",
+  "mrf:sections": "Wissenschaft;WTM",
+  "mrf:tags": "Page Type:longformvisual;Editorial Owner:NZZaS;Content Type:Standard Article;Article ID:ld.1919231",
+  "nzzAuthors": [
+   {
+    "id": 1373209,
+    "name": "Martin Amrein",
+    "shortName": "mna",
+    "pianoId": "ce6ff5a3-1600-4d61-b9d8-668d98d9c057",
+    "external": false
+   }
+  ],
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 10:52:10 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "item": {
+      "@id": "/wissenschaft",
+      "name": "Science"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "CRISPR: Startups want to alter babies' genes"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231"
+   },
+   "headline": "CRISPR: Startups want to alter babies' genes",
+   "datePublished": "2026-02-15T07:30:00+02:00",
+   "dateModified": "2026-05-13T17:28:52+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "Backed by billionaires from Silicon Valley, several US companies are planning to manipulate the DNA of human embryos. They want to eradicate diseases – and improve the intelligence of future generations.",
+   "isAccessibleForFree": false,
+   "articleSection": "Wissenschaft",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://img-msp-prod.nzz.ch/2026/02/05/e6711a24-e438-4ba7-8b6a-4d114bb03589.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=6271,3527,x0,y653&wmark=nzz",
+    "width": 1200,
+    "height": 674
+   },
+   "author": [
+    {
+     "@type": "Person",
+     "name": "Martin Amrein"
+    }
+   ],
+   "inLanguage": "de"
+  }
+ ],
+ "mp3": true,
+ "mp3Duration": 708168,
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/wissenschaft/crispr-startups-wollen-die-gene-von-babys-veraendern-ld.1919231",
+    "classification=default",
+    "relevance=germany",
+    "layout=longformvisual",
+    "owner=nzzas",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.1919231",
+    "channel=Wissenschaft"
+   ],
+   "ContentCreated": "2026-02-15T04:30:00.000Z",
+   "ContentAuthor": "Martin Amrein",
+   "ContentSection": "Wissenschaft",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "longformvisual",
+   "ldId": "ld.1919231",
+   "channel": "Wissenschaft",
+   "heading": "Startups verschieben die Grenzen der Fortpflanzungsmedizin. Ihr neuestes Ziel: genetisch veränderte Babys",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 3600
+}

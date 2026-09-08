@@ -1,0 +1,561 @@
+{
+ "content": [
+  {
+   "identifier": "newsletter_baukasten-header",
+   "id": "doc-1jjh57ni70",
+   "content": {
+    "subject": "Katherina&nbsp;Reiche überzieht und gefährdet ihr Amt",
+    "preheader": "Die Wirtschaftsministerin sollte aufpassen, denn sie ist&nbsp;zu wichtig"
+   },
+   "data": {
+    "_subjectDirective": {
+     "highlightedTextRanges": {
+      "W89vmTLw4mKH": {
+       "start": 0,
+       "end": 54,
+       "text": "Socialism: What the leftists in Berlin want to do"
+      },
+      "jilNCM7RZc4v": {
+       "start": 32,
+       "end": 53,
+       "text": "They only use themselves"
+      }
+     }
+    },
+    "_preheaderDirective": {
+     "highlightedTextRanges": {
+      "uKNU3xykQas7": {
+       "start": 0,
+       "end": 37,
+       "text": "Germany's capital could tip over"
+      }
+     }
+    }
+   },
+   "prevElement": "",
+   "nextElement": "barrier",
+   "firstContentElement": true
+  },
+  {
+   "id": "doc-7d37d69b",
+   "identifier": "barrier",
+   "prevElement": "newsletter_baukasten-header",
+   "nextElement": "newsletter_baukasten-author-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-author-image",
+   "id": "doc-1jk0mkd480",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/06/24/fb214a42-10e2-4556-bdae-94ec8f4843d4.png",
+     "mediaId": "eaEx6ZDQ-qp1",
+     "key": "2026/06/24/fb214a42-10e2-4556-bdae-94ec8f4843d4.png",
+     "width": 408,
+     "height": 408,
+     "mimeType": "image/png",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/06/24/fb214a42-10e2-4556-bdae-94ec8f4843d4.png?width=1024&quality=75&auto=webp"
+    }
+   },
+   "paidContent": true,
+   "prevElement": "barrier",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-name"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-name",
+   "id": "doc-1jjh57ni73",
+   "content": {
+    "text": "by Cornelius Welp"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-author-image",
+   "nextElement": "newsletter_baukasten-nl-author-meinung-role"
+  },
+  {
+   "identifier": "newsletter_baukasten-nl-author-meinung-role",
+   "id": "doc-1jjh57ni74",
+   "content": {
+    "text": "Business editor NZZ Germany"
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-name",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh57ni82",
+   "content": {
+    "text": "Today's topics include new sanctions against Moscow and a budding Formula 1 driver from Zurich. But first, the commentary."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-nl-author-meinung-role",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh5akdr0",
+   "content": {
+    "title": "Topic of the day: The dangerous provocations of the German Minister of Economic Affairs"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1k1ef2dok0",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/08/05/a18ce69d-85a2-40ab-a0a8-b7a2c047a913.jpg",
+     "mediaId": "HFZdWYviyW3u",
+     "key": "2026/08/05/a18ce69d-85a2-40ab-a0a8-b7a2c047a913.jpg",
+     "width": 5472,
+     "height": 3648,
+     "mimeType": "image/jpeg",
+     "altText": "Federal Minister Katherina Reiche at a press conference with representatives of the AI ​​and Competition Expert Commission at the Federal Ministry for Economic Affairs and Energy on April 28, 2016 in Berlin. Katherina Reiche at a press conference on AI in Berlin",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/08/05/a18ce69d-85a2-40ab-a0a8-b7a2c047a913.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Minister of Economic Affairs Katherina Reiche.",
+    "source": "Imago"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6jj8b0",
+   "content": {
+    "text": "As a counterpoint to the all-too-prevalent faith in the state, even within the governing coalition, a voice of economic reason is urgently needed. This voice has <a href=\"https://www.nzz.ch/wirtschaft/katherina-reiche-sagt-ueber-den-deutschen-atomausstieg-das-war-eine-schwere-fehlentscheidung-ld.10015256\">been repeatedly and clearly heard</a> from Economics Minister Katherina Reiche. Representatives of the business community therefore trust that the minister responsible for their affairs will take their concerns seriously, especially since this was less the case with Reiche's predecessor, Robert Habeck."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h6m79o1",
+   "content": {
+    "text": "The minister thus plays an enormously important role. However, she jeopardizes it by repeatedly overstepping her bounds. Politics is fundamentally about compromises, and once these are negotiated, they should stand. The wealthy woman apparently only accepts this to a limited extent. This may be necessary in some cases. But anyone who behaves this way consistently risks being ousted from politics eventually."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k1h818gr0",
+   "content": {
+    "title": "Right in substance, wrong in form"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h7486c1",
+   "content": {
+    "text": "A recent example of this is a letter sent by a state secretary from her ministry to a colleague in the Finance Ministry, headed by SPD leader Lars Klingbeil. In it, he criticizes above all the fact that the tax reform passed this Wednesday offers no relief. The main point of criticism is that the government is not reducing «bracket creep.» This phenomenon reduces the purchasing power of employees even when their wages rise in line with inflation."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k0st26dq0",
+   "content": {
+    "text": "In their coalition agreement, the Christian Democratic Union (CDU) and the Social Democratic Party (SPD) had agreed to relieve primarily small and medium incomes. There can be no talk of that now. That is why Reiche’s Ministry is right in substance."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1k1eo9orp0",
+   "content": {
+    "title": "Reiche portrays himself as the liberal conscience"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1eilb8j0",
+   "content": {
+    "text": "The government's failure to provide relief, particularly for middle-income earners, is a serious oversight. Its attempt to conceal this failure is worthy of full criticism. However, when this criticism comes from within the government itself just one day before the vote, it is not an expression of integrity. It is a disruptive maneuver that creates nothing but unrest and reinforces the already existing doubts about the coalition's ability to function. The form and timing of this action therefore do more harm than good to the cause."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h781lg1",
+   "content": {
+    "text": "Back in April, the Economics Minister had already attacked her cabinet colleague Klingbeil so vehemently <a href=\"https://www.nzz.ch/wirtschaft/bahnt-sich-in-deutschland-eine-regierungskrise-an-reiche-attackiert-klingbeil-und-bekommt-dafuer-eine-abmahnung-vom-kanzler-ld.1933174\">that Chancellor Merz reprimanded her.</a> The fact that she is now launching another attack at such an inopportune moment raises the question of whether she simply lacks tact or whether she might even be deliberately provoking her own dismissal. Is she ultimately seeking to control the narrative surrounding a potential premature end to her term? After all, Reiche was also considered a candidate for departure when Merz reshuffled the cabinet in the summer."
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1k1h8tcnj1",
+   "content": {
+    "text": "Merz would hardly appoint another manager from industry as his successor. After Reiche's experience, the choice would likely fall on a reliable figure with extensive political experience, someone who integrates seamlessly into the coalition's discipline. And who doesn't disrupt the harmony even when it would be appropriate, not only in terms of policy but also timing. The liberal voice would fall silent. Katherina Reiche would then be missed. She would have only herself to blame."
+   },
+   "data": {},
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh5clmb0",
+   "content": {
+    "title": "My highlights from the «Neue Zürcher Zeitung»"
+   },
+   "paidContent": true,
+   "prevElement": "p-text",
+   "nextElement": "newsletter_baukasten-image"
+  },
+  {
+   "identifier": "newsletter_baukasten-image",
+   "id": "doc-1jjh5d6k30",
+   "content": {
+    "image": {
+     "originalUrl": "https://nzzprod-endpoint-cue7enfnfqc8ekg7.a03.azurefd.net/images/2026/09/02/b3c41293-9274-4ef0-a47d-b11638e27e21.jpg",
+     "mediaId": "uKxeojhaCaiX",
+     "key": "2026/09/02/b3c41293-9274-4ef0-a47d-b11638e27e21.jpg",
+     "width": 5187,
+     "height": 7781,
+     "mimeType": "image/jpeg",
+     "altText": "Chiara Baettig poses for a portrait during the Red Bull Driver Search in Estoril, Portugal on August 5, 2025. Source: Red Bull Content Pool CP-P-1191903 (SI202508190540).",
+     "imageService": "fastly",
+     "url": "https://img-msp-prod.nzz.ch/2026/09/02/b3c41293-9274-4ef0-a47d-b11638e27e21.jpg?width=1024&quality=75&auto=webp"
+    },
+    "caption": "Chiara Baettig at the race track in Estoril, Portugal.",
+    "source": "www.redbullmediahouse.com"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-list-unordered"
+  },
+  {
+   "identifier": "newsletter_baukasten-list-unordered",
+   "id": "doc-1jjh5da6l0",
+   "containers": {
+    "enumeration": [
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh5da6l1",
+      "content": {
+       "text": "<strong>From Zurich to Formula 1:</strong> Just 16 years old, Chiara Baettig is one of the fastest young female drivers in the world. <a href=\"https://www.nzz.ch/sport/formel-1/formel-1-vielleicht-faehrt-bald-eine-zuercherin-in-der-koenigsklasse-ld.10021938\">Read her profile</a> "
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh5dgt90",
+      "content": {
+       "text": "<strong>New sanctions:</strong> Following the drone incident in Leipzig, the EU is planning new measures against Russia. <a href=\"https://www.nzz.ch/international/nach-deutschlands-vorwuerfen-an-moskau-die-eu-bereitet-neue-sanktionen-vor-zum-ersten-mal-sass-auch-die-schweiz-am-tisch-ld.10022079\">Read the report.</a>"
+      }
+     },
+     {
+      "identifier": "enumeration-item",
+      "id": "doc-1jjh5dl8t0",
+      "content": {
+       "text": "<strong>Vulnerable infrastructure:</strong> Several attacks demonstrate how difficult it is to protect not only the German power grid. <a href=\"https://www.nzz.ch/deutschland/politik/zwei-anschlaege-auf-umspannwerke-binnen-weniger-stunden-handgranate-am-bahnhof-deutschlands-kritische-infrastruktur-ist-verwundbar-ld.10022029\">Read the report.</a>"
+      }
+     }
+    ]
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-image",
+   "nextElement": "newsletter_baukasten-subtitle"
+  },
+  {
+   "identifier": "newsletter_baukasten-subtitle",
+   "id": "doc-1jjh5e5qk0",
+   "content": {
+    "title": "Do you enjoy «A Different Perspective in the Evening»? Then forward this newsletter to your friends."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-list-unordered",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh5eg0s0",
+   "content": {
+    "text": "Did you receive this newsletter from a friend? <a target=\"_blank\" rel=\"nofollow noopener\" href=\"https://abo.nzz.ch/newsletter/der-andere-blick-am-abend/\">Sign up here for the daily newsletter «A Different Perspective in the Evening».</a>"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-subtitle",
+   "nextElement": "newsletter_baukasten-text"
+  },
+  {
+   "identifier": "newsletter_baukasten-text",
+   "id": "doc-1jjh5ev980",
+   "content": {
+    "text": "I wish you a pleasant evening."
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "p-text"
+  },
+  {
+   "identifier": "p-text",
+   "id": "doc-1jjh5f7an0",
+   "content": {
+    "text": "Your Cornelius Welp"
+   },
+   "paidContent": true,
+   "prevElement": "newsletter_baukasten-text",
+   "nextElement": "",
+   "lastContentElement": true
+  }
+ ],
+ "metadata": {
+  "newsletterLayout": {
+   "$ref": "document",
+   "reference": {
+    "id": "1654586"
+   }
+  },
+  "issueDate": "2026-03-10T00:00:00.000Z",
+  "title": "Copy of copy of template DAB in the evening",
+  "owner": "NZZ",
+  "dependencies": {},
+  "nzzId": "ld.10021915",
+  "product": "NZZ.ch",
+  "documentId": 10021915,
+  "contentTypeGroup": "newsletter",
+  "layout": "newsletter",
+  "firstPublicationDate": "2026-09-02T15:49:48.852Z",
+  "publicationDate": "2026-09-02T15:49:48.852Z",
+  "publicationLastUpdated": "2026-09-02T16:06:24.344Z",
+  "significantUpdate": false,
+  "significantUpdateTill": "2026-09-03T03:49:48.852Z",
+  "teaserImage": {},
+  "breadcrumbs": [],
+  "url": "/ld.10021915",
+  "department": {},
+  "seo": {
+   "canonicalUrl": "https://www.nzz.ch/ld.10021915",
+   "excludeFromSpiders": false,
+   "image": "https://www.nzz.ch/nzz-fb.png"
+  },
+  "ldPublicationId": 2487839,
+  "barrierIndex": 1,
+  "outlinks": {
+   "mehrZumThema": [],
+   "artikelListe": [],
+   "aliasTeaserEmbedList": []
+  },
+  "tts": true,
+  "project": "nzz",
+  "machineTranslated": true,
+  "machineTranslationValidated": false,
+  "language": {
+   "locale": "en-US"
+  }
+ },
+ "isReduced": false,
+ "isPaid": false,
+ "isVamp": false,
+ "isWebview": false,
+ "digitalData": {
+  "component": [
+   {
+    "id": "ld.10021915",
+    "name": "Copy of copy of template DAB in the evening",
+    "type": "article",
+    "subType1": "newsletter",
+    "subType2": "",
+    "primaryCategory": "",
+    "subCategory1": "",
+    "attributes": {
+     "headline": "Copy of copy of template DAB in the evening",
+     "firstPublishTitle": "",
+     "catchline": "",
+     "authors": [],
+     "issueTimestamp": "2026-09-02T15:49:48.852Z",
+     "updateTimestamp": "2026-09-02T16:06:24.344Z",
+     "isSponsoredContent": false,
+     "isPro": false,
+     "isLiveticker": false,
+     "flag": "",
+     "owner": "NZZ"
+    }
+   }
+  ],
+  "page": {
+   "pageId": "ld.10021915",
+   "pageType": "newsletter",
+   "primaryCategory": "",
+   "subCategory1": "",
+   "subCategory2": "",
+   "language": "en-US"
+  },
+  "version": "2.0",
+  "user": {},
+  "event": []
+ },
+ "seoData": {
+  "title": "Copy of copy of template DAB am Abend | NZZ",
+  "image": {
+   "url": "https://www.nzz.ch/nzz-fb.png",
+   "type": "image/png",
+   "width": 900,
+   "height": 506
+  },
+  "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+  "news_keywords": "Copy of copy of template DAB am Abend, Nachrichten, NZZ",
+  "type": "article",
+  "last-modified": "2026-09-02T20:06:24+02:00",
+  "date": "2026-09-02T19:49:48+02:00",
+  "canonical": "https://www.nzz.ch/ld.10021915",
+  "fb:app_id": 138008459595436,
+  "fb:pages": 143694099006529,
+  "fb:admins": 1592685173,
+  "locale": "de-CH",
+  "email": "online.redaktion@nzz.ch",
+  "site_name": "Neue Zürcher Zeitung",
+  "copyright": "2026 Neue Zürcher Zeitung AG, Schweiz",
+  "robots": "noindex, nofollow, noarchive, noodp",
+  "hreflang": [],
+  "sharedTitle": "Copy of copy of template DAB in the evening",
+  "ogTitle": "Copy of copy of template DAB am Abend | NZZ",
+  "ogUrl": "https://www.nzz.ch/ld.10021915",
+  "mrf:cms_id": "nzz:ld.10021915",
+  "mrf:tags": "Page Type:newsletter;Editorial Owner:NZZ;Content Type:Standard Article;Article ID:ld.10021915",
+  "links": [
+   {
+    "rel": "canonical",
+    "href": "https://www.nzz.ch/ld.10021915"
+   },
+   {
+    "rel": "search",
+    "href": "/suche",
+    "title": "Suche Neue Zürcher Zeitung, Schweiz, https://www.nzz.ch/suche"
+   }
+  ],
+  "renderedAt": "Thu, 03 Sep 2026 11:05:07 GMT"
+ },
+ "structuredData": [
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "item": {
+      "@id": "/",
+      "name": "Home"
+     }
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Copy of copy of template DAB in the evening"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.nzz.ch/ld.10021915"
+   },
+   "headline": "Copy of copy of template DAB am Abend | NZZ",
+   "datePublished": "2026-09-02T19:49:48+02:00",
+   "dateModified": "2026-09-02T20:06:24+02:00",
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "Neue Zürcher Zeitung",
+    "url": "https://www.nzz.ch",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.nzz.ch/logo.png",
+     "width": 413,
+     "height": 60
+    },
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+41-44-2581000",
+      "contactType": "customer service"
+     }
+    ],
+    "sameAs": [
+     "https://www.facebook.com/nzz",
+     "https://www.twitter.com/nzz",
+     "https://www.youtube.com/channel/UCK1aTcR0AckQRLTlK0c4fuQ",
+     "https://www.linkedin.com/company/neue-zurcher-zeitung",
+     "https://www.instagram.com/nzz/",
+     "https://de.wikipedia.org/wiki/Neue_Z%C3%BCrcher_Zeitung",
+     "https://www.wikidata.org/wiki/Q658945",
+     "https://plus.google.com/+nzz/",
+     "http://www.freebase.com/m/041b43"
+    ],
+    "masthead": "https://www.nzz.ch/impressum/impressum-ld.148422",
+    "foundingDate": "1780"
+   },
+   "description": "NZZ News, background information, opinions from Switzerland, international news, sports, digital news, business, cars & more. In-depth reporting around the clock.",
+   "isAccessibleForFree": false,
+   "articleSection": "",
+   "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": false,
+    "cssSelector": ".nzzinteraction"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.nzz.ch/nzz-fb.png",
+    "width": 900,
+    "height": 506
+   },
+   "inLanguage": "de"
+  }
+ ],
+ "bT": {
+  "standard": {
+   "Tags": [
+    "/ld.10021915",
+    "classification=default",
+    "relevance=default",
+    "layout=newsletter",
+    "owner=nzz",
+    "product=nzz",
+    "doctype=article",
+    "pagetype=article",
+    "ldid=ld.10021915"
+   ],
+   "ContentCreated": "2026-09-02T15:49:48.852Z",
+   "ContentIsNative": true
+  },
+  "custom": {
+   "product": "nzz",
+   "docType": "article",
+   "pageType": "article",
+   "layout": "newsletter",
+   "ldId": "ld.10021915",
+   "heading": "Kopie von Kopie von Vorlage DAB am Abend",
+   "language": "en-US"
+  }
+ },
+ "webviewMetadata": {},
+ "cacheTime": 1200
+}
