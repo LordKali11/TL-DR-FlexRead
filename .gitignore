@@ -1,0 +1,25 @@
+# Antigravity temporary workspace files
+.antigravity/
+*.tmp
+
+# Python & Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/.venv/
+.venv/
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases & secrets
+backend/data/*.db
+.env
+.DS_Store
