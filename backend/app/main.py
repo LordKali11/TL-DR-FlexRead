@@ -14,10 +14,10 @@ logger = logging.getLogger("nzz-flexread")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Startup: Ingest articles from input directory
-    logger.info("Initializing NZZ FlexRead Backend...")
-    found, indexed, _ = article_ingestion_service.ingest_all()
-    logger.info(f"Startup complete: {indexed} articles indexed from input directories.")
+    # Startup: Ingest articles directly from remote MongoDB database
+    logger.info("Initializing NZZ FlexRead Backend with remote MongoDB persistence...")
+    found, indexed, errors = article_ingestion_service.ingest_from_mongodb()
+    logger.info(f"Startup complete: {indexed}/{found} articles loaded directly from remote MongoDB collection.")
     yield
     logger.info("Shutting down NZZ FlexRead Backend.")
 

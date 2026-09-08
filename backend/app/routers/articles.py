@@ -7,6 +7,7 @@ from ..services.preprocessor import preprocessor_service
 from ..services.gemini_client import gemini_client_service
 from ..services.cache_service import cache_service
 from ..services.user_service import user_service
+from ..services.preprocessing_service import preprocessing_service
 from ..config import settings
 
 router = APIRouter(prefix="/api/articles", tags=["Articles & FlexRead"])
@@ -160,3 +161,40 @@ def read_article_variant(
         cached=variant.cached,
         reading_speed_wpm=wpm
     )
+
+@router.post("/{article_id}/preprocess", summary="Preprocess article from MongoDB and populate Redis")
+def preprocess_article_from_mongo(
+    article_id: str,
+    warm_variants: bool = Query(True, description="Pre-generate and warm all FlexRead modes into Redis cache")
+):
+    """
+    Ingests an article document from MongoDB, applies the full editorial pre-processing logic
+    (main points, keywords, tone, length tier, reading time, word count),
+    updates the MongoDB document, and populates Redis as the ultra-fast cache layer.
+    """
+    try:
+        result = preprocessing_service.process_article_from_mongo(
+            article_id=article_id,
+            warm_variants=warm_variants
+        )
+        return result
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail=f"Preprocessing failed: {e}")
+
+@router.post("/preprocess/batch", summary="Batch preprocess unprocessed articles from MongoDB into Redis")
+def batch_preprocess_from_mongo(
+    limit: int = Query(50, ge=1, le=200, description="Max number of unprocessed articles to process"),
+    warm_variants: bool = Query(False, description="Pre-warm reading mode variants in Redis")
+):
+    """
+    Finds articles in MongoDB missing preprocessing metadata, applies preprocessing logic,
+    updates MongoDB documents, and populates Redis.
+    """
+    result = preprocessing_service.process_unprocessed_from_mongo(
+        limit=limit,
+        warm_variants=warm_variants
+    )
+    return result
+

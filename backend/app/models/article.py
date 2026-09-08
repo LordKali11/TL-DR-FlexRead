@@ -102,7 +102,7 @@ class ArticleSummary(BaseModel):
 class Article(BaseModel):
     """Complete Article model including source text, preprocessing, and cached variants."""
     id: str
-    source_path: str
+    source_path: str = ""
     headline: str
     lead: str
     section: Optional[str] = "Allgemein"
@@ -112,6 +112,28 @@ class Article(BaseModel):
     image_url: Optional[str] = None
     image_caption: Optional[str] = None
     raw_content: str
-    language: str = "de"
-    preprocessing: ArticlePreprocessing
+    language: str = "en"
+    preprocessing: ArticlePreprocessing = Field(default_factory=ArticlePreprocessing)
+    word_count: int = 0
+    reading_time_seconds: int = 0
+    reading_time_minutes: float = 0.0
+    article_length: LengthTier = LengthTier.MEDIUM
+    tone: ToneCategory = ToneCategory.ANALYTICAL
     variants: Dict[str, FlexReadVariant] = Field(default_factory=dict)
+
+    def to_summary(self) -> ArticleSummary:
+        return ArticleSummary(
+            id=self.id,
+            headline=self.headline,
+            lead=self.lead,
+            section=self.section,
+            date=self.date,
+            author=self.author,
+            url=self.url,
+            image_url=self.image_url,
+            word_count=self.word_count or (self.preprocessing.word_count if self.preprocessing else 0),
+            reading_time_seconds=self.reading_time_seconds or (self.preprocessing.reading_time if self.preprocessing else 0),
+            article_length=self.article_length or (self.preprocessing.article_length if self.preprocessing else LengthTier.MEDIUM),
+            tone=self.tone or (self.preprocessing.tone if self.preprocessing else ToneCategory.ANALYTICAL)
+        )
+

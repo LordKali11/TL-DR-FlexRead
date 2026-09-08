@@ -11,6 +11,10 @@ def test_health():
     assert data["status"] == "healthy"
     assert "service" in data
     assert "gemini_model" in data
+    assert data["primary_database"] == "mongodb"
+    assert data["cache_layer"] == "redis"
+    assert data["mongodb_status"]["connected"] is True
+    assert data["redis_status"]["connected"] is True
 
 def test_ingest_and_list_articles():
     # Ingest
@@ -103,3 +107,32 @@ def test_user_personalization_feed():
     assert "relevance_reason" in rec
     # Verify reason is in English
     assert any(word in rec["relevance_reason"] for word in ["Fits", "transit", "window", "Executive", "briefing", "Optimized", "preferences", "Sufficient", "reporting"])
+
+def test_preprocessing_endpoints():
+    # 1. First ensure we have at least one ingested article
+    list_res = client.get("/api/articles?limit=1")
+    assert list_res.status_code == 200
+    articles = list_res.json()["articles"]
+    assert len(articles) > 0
+    article_id = articles[0]["id"]
+
+    # 2. Trigger individual article preprocessing from MongoDB -> Redis
+    prep_res = client.post(f"/api/articles/{article_id}/preprocess?warm_variants=true")
+    assert prep_res.status_code == 200
+    prep_data = prep_res.json()
+    assert prep_data["article_id"] == article_id
+    assert prep_data["redis_cache_populated"] is True
+    assert "main_points" in prep_data["preprocessing"]
+    assert "keywords" in prep_data["preprocessing"]
+    assert "tone" in prep_data["preprocessing"]
+    assert "article_length" in prep_data["preprocessing"]
+    assert len(prep_data["warmed_modes"]) == 4
+
+    # 3. Trigger batch preprocessing
+    batch_res = client.post("/api/articles/preprocess/batch?limit=10&warm_variants=false")
+    assert batch_res.status_code == 200
+    batch_data = batch_res.json()
+    assert "total_unprocessed_found" in batch_data
+    assert "successfully_processed" in batch_data
+    assert batch_data["redis_cache_populated"] is True
+

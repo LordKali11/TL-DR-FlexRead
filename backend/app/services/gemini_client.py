@@ -222,4 +222,9 @@ class GeminiClientService:
             cached=False
         )
 
+    def transform_article(self, article: Article, mode: ReadingMode, wpm: int = 220) -> FlexReadVariant:
+        """Alias for generate_variant."""
+        return self.generate_variant(article, mode, wpm=wpm)
+
 gemini_client_service = GeminiClientService()
+gemini_client = gemini_client_service

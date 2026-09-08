@@ -2,263 +2,230 @@ import json
 import logging
 import re
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 from ..config import settings
+from ..db.mongodb import mongodb_service, MongoDBService
 from ..models.article import Article, ArticlePreprocessing, LengthTier, ToneCategory
+from .preprocessor import preprocessor_service
+from .cache_service import cache_service
 
 logger = logging.getLogger(__name__)
 
 class ArticleIngestionService:
     """
-    Ingests articles from input folders (e.g. input/days/ and input/longform/).
-    Parses both .json and .md files, extracting content, structure, and metadata.
+    Article Ingestion Service for NZZ FlexRead.
+    Sources raw articles directly from the remote MongoDB database collections ('articles')
+    as the primary single source of truth.
+    Local disk folder scanning has been disabled and deprecated.
     """
-    def __init__(self, input_dir: Optional[Path] = None):
+    def __init__(self, input_dir: Optional[Path] = None, db_service: Optional[MongoDBService] = None):
         self.input_dir = input_dir or settings.INPUT_DIR
+        self.db = db_service or mongodb_service
         self._articles_cache: Dict[str, Article] = {}
-
-    def get_input_directories(self) -> List[Path]:
-        """Returns list of article directories to scan."""
-        dirs = []
-        days_dir = self.input_dir / "days"
-        if days_dir.exists():
-            for day_folder in days_dir.iterdir():
-                if day_folder.is_dir():
-                    articles_sub = day_folder / "articles"
-                    if articles_sub.exists():
-                        dirs.append(articles_sub)
-                    else:
-                        dirs.append(day_folder)
-        
-        longform_dir = self.input_dir / "longform"
-        if longform_dir.exists():
-            articles_sub = longform_dir / "articles"
-            if articles_sub.exists():
-                dirs.append(articles_sub)
-            else:
-                dirs.append(longform_dir)
-        
-        return dirs
 
     @staticmethod
     def extract_id_from_path(file_path: Path) -> str:
-        """Extracts unique article ID from filename (e.g. ld10020939)."""
-        stem = file_path.stem
-        match = re.search(r"ld[0-9]+", stem, re.IGNORECASE)
+        """Extracts and normalizes article identifier from filename."""
+        match = re.search(r"ld\.?(\d+)", file_path.stem)
         if match:
-            return match.group(0).lower()
-        return stem
+            return f"ld{match.group(1)}"
+        return file_path.stem.replace(".", "").lower()
 
-    def parse_json_article(self, file_path: Path) -> Optional[Article]:
-        """Parses an NZZ JSON article file into an Article domain model."""
+    @staticmethod
+    def normalize_id(raw_id: Any) -> str:
+        """Standardizes article IDs into clean 'ld...' format."""
+        clean = str(raw_id).replace(".", "").lower()
+        if not clean.startswith("ld"):
+            clean = f"ld{clean}"
+        return clean
+
+    def doc_to_article(self, doc: Dict[str, Any]) -> Optional[Article]:
+        """
+        Converts a raw MongoDB article document into the standard Article domain model.
+        Extracts content from body_text, body elements, or raw_content,
+        and computes editorial preprocessing metrics if not already present.
+        """
         try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            
-            raw_id = str(data.get("nzz_id") or data.get("document_id") or self.extract_id_from_path(file_path))
-            clean_id = raw_id.replace(".", "").lower()
-            if not clean_id.startswith("ld"):
-                clean_id = f"ld{clean_id}"
-            
-            headline = data.get("headline") or data.get("seo_title") or "Ohne Titel"
-            lead = data.get("lead") or ""
-            section = data.get("section") or "Wirtschaft"
-            date = data.get("published_at")
-            
-            # Author
-            authors = data.get("authors", [])
-            author = ", ".join(authors) if authors else data.get("author_line")
-            
-            # Image
-            teaser_image = data.get("teaser_image", {})
-            image_url = teaser_image.get("url") if isinstance(teaser_image, dict) else None
-            image_caption = teaser_image.get("caption") if isinstance(teaser_image, dict) else None
-            
-            # Body reconstruction
-            body_elements = data.get("body", [])
-            body_parts = []
-            for item in body_elements:
-                if not isinstance(item, dict):
-                    continue
-                item_type = item.get("type")
-                if item_type == "paragraph":
+            raw_id = doc.get("id") or doc.get("nzz_id") or doc.get("document_id") or doc.get("_id") or "unknown"
+            clean_id = self.normalize_id(raw_id)
+
+            headline = doc.get("headline") or doc.get("seo_title") or doc.get("social_title") or doc.get("title") or "Untitled"
+            lead = doc.get("lead") or ""
+            section = doc.get("section") or "General"
+            date = doc.get("published_at") or doc.get("date")
+
+            # Authors
+            authors = doc.get("authors")
+            if isinstance(authors, list) and authors:
+                author = ", ".join(authors)
+            else:
+                author = doc.get("author_line") or doc.get("author")
+
+            # Teaser image
+            teaser_image = doc.get("teaser_image")
+            image_url = doc.get("image_url")
+            image_caption = doc.get("image_caption")
+            if isinstance(teaser_image, dict):
+                image_url = teaser_image.get("url") or image_url
+                image_caption = teaser_image.get("caption") or image_caption
+
+            # Extract raw content: prefer body_text, then raw_content, then reconstruct from body array
+            raw_content = doc.get("body_text") or doc.get("raw_content") or ""
+            if not raw_content and isinstance(doc.get("body"), list):
+                parts = []
+                for item in doc.get("body"):
+                    if not isinstance(item, dict):
+                        continue
+                    item_type = item.get("type")
                     text = item.get("text", "").strip()
-                    if text:
-                        body_parts.append(text)
-                elif item_type == "heading":
-                    text = item.get("text", "").strip()
-                    if text:
-                        body_parts.append(f"## {text}")
-                elif item_type == "quote":
-                    text = item.get("text", "").strip()
-                    if text:
-                        body_parts.append(f"> {text}")
-            
-            raw_content = "\n\n".join(body_parts)
-            
-            # If body was empty in JSON, try adjacent .md file
-            if not raw_content.strip():
-                md_path = file_path.with_suffix(".md")
-                if md_path.exists():
-                    raw_content = self.read_md_body(md_path)
-            
-            # Initial placeholder preprocessing (refined by preprocessor service)
-            word_count = data.get("word_count") or len(raw_content.split())
-            reading_time = data.get("reading_time_seconds") or max(30, int(word_count / (220 / 60)))
-            
-            preprocessing = ArticlePreprocessing(
-                main_points=data.get("summary_bullets_en") or [],
-                keywords=data.get("tags") or [],
-                tone=ToneCategory.ANALYTICAL,
-                article_length=LengthTier.MEDIUM,
-                reading_time=reading_time,
-                reading_time_minutes=round(reading_time / 60.0, 1),
-                word_count=word_count
-            )
-            
-            return Article(
+                    if not text:
+                        continue
+                    if item_type == "paragraph":
+                        parts.append(text)
+                    elif item_type == "heading":
+                        parts.append(f"## {text}")
+                    elif item_type == "quote":
+                        parts.append(f"> {text}")
+                raw_content = "\n\n".join(parts)
+
+            # Preprocessing metrics
+            existing_prep = doc.get("preprocessing")
+            if isinstance(existing_prep, dict) and existing_prep.get("main_points"):
+                preprocessing = ArticlePreprocessing(**existing_prep)
+            else:
+                # Seed with existing bullets/tags if available
+                initial_points = doc.get("summary_bullets_en") or []
+                initial_keywords = doc.get("tags") or []
+                temp_article = Article(
+                    id=clean_id,
+                    source_path=doc.get("source_path", ""),
+                    headline=headline,
+                    lead=lead,
+                    section=section,
+                    date=date,
+                    author=author,
+                    url=doc.get("url"),
+                    image_url=image_url,
+                    image_caption=image_caption,
+                    raw_content=raw_content,
+                    language=doc.get("language", "en"),
+                    preprocessing=ArticlePreprocessing(
+                        main_points=initial_points,
+                        keywords=initial_keywords
+                    )
+                )
+                preprocessing = preprocessor_service.process(temp_article)
+
+            article = Article(
                 id=clean_id,
-                source_path=str(file_path),
+                source_path=doc.get("source_path", ""),
                 headline=headline,
                 lead=lead,
                 section=section,
                 date=date,
                 author=author,
-                url=data.get("url"),
+                url=doc.get("url"),
                 image_url=image_url,
                 image_caption=image_caption,
                 raw_content=raw_content,
-                language=data.get("language", "de"),
+                language=doc.get("language", "en"),
+                word_count=preprocessing.word_count,
+                reading_time_seconds=preprocessing.reading_time,
+                reading_time_minutes=preprocessing.reading_time_minutes,
+                article_length=preprocessing.article_length,
+                tone=preprocessing.tone,
                 preprocessing=preprocessing
             )
+            return article
         except Exception as e:
-            logger.error(f"Error parsing JSON article {file_path}: {e}")
+            logger.error(f"Error parsing MongoDB document into Article model: {e}")
             return None
 
-    def read_md_body(self, md_path: Path) -> str:
-        """Reads plain content from markdown, skipping header blocks."""
-        try:
-            with open(md_path, "r", encoding="utf-8") as f:
-                content = f.read()
-            # Strip auto-summary footer if present
-            if "---" in content and "Auto summary" in content:
-                content = content.split("---")[0]
-            return content.strip()
-        except Exception:
-            return ""
+    def ingest_from_mongodb(self, limit: Optional[int] = None) -> Tuple[int, int, List[str]]:
+        """
+        Primary ingestion method:
+        Pulls raw articles directly from the remote MongoDB database collection ('articles').
+        Standardizes models, ensures preprocessing metrics, updates MongoDB if needed,
+        and populates the ultra-fast cache layer.
+        """
+        logger.info("Ingesting articles directly from remote MongoDB collection 'articles'...")
+        col = self.db.get_collection("articles")
+        
+        cursor = col.find()
+        if limit:
+            cursor = cursor.limit(limit)
 
-    def parse_md_article(self, file_path: Path) -> Optional[Article]:
-        """Parses a standalone markdown article file."""
-        try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                raw_text = f.read()
-            
-            clean_id = self.extract_id_from_path(file_path)
-            lines = raw_text.splitlines()
-            headline = "Ohne Titel"
-            lead = ""
-            body_lines = []
-            
-            is_headline_found = False
-            for line in lines:
-                stripped = line.strip()
-                if not is_headline_found and stripped.startswith("# "):
-                    headline = stripped[2:].strip()
-                    is_headline_found = True
-                elif stripped.startswith("*") and stripped.endswith("*") and not lead:
-                    lead = stripped.strip("*").strip()
-                elif stripped.startswith("---") and "Auto summary" in raw_text:
-                    break
-                else:
-                    body_lines.append(line)
-            
-            raw_content = "\n".join(body_lines).strip()
-            word_count = len(raw_content.split())
-            reading_time = max(30, int(word_count / (220 / 60)))
-            
-            preprocessing = ArticlePreprocessing(
-                main_points=[],
-                keywords=[],
-                tone=ToneCategory.ANALYTICAL,
-                article_length=LengthTier.MEDIUM,
-                reading_time=reading_time,
-                reading_time_minutes=round(reading_time / 60.0, 1),
-                word_count=word_count
-            )
-            
-            return Article(
-                id=clean_id,
-                source_path=str(file_path),
-                headline=headline,
-                lead=lead,
-                section="Allgemein",
-                date=None,
-                author=None,
-                url=None,
-                image_url=None,
-                image_caption=None,
-                raw_content=raw_content,
-                language="de",
-                preprocessing=preprocessing
-            )
-        except Exception as e:
-            logger.error(f"Error parsing MD article {file_path}: {e}")
-            return None
+        articles_found = 0
+        articles_indexed = 0
+        errors: List[str] = []
+
+        for doc in cursor:
+            articles_found += 1
+            article = self.doc_to_article(doc)
+            if not article:
+                errors.append(f"Failed to parse MongoDB doc with _id={doc.get('_id')}")
+                continue
+
+            # Store in local fast memory cache
+            self._articles_cache[article.id] = article
+
+            # Cache preprocessed metadata into cache service (Redis or memory)
+            try:
+                cache_service.cache_preprocessed_article(article.model_dump())
+            except Exception as e:
+                logger.debug(f"Cache population notice: {e}")
+
+            # If document did not have preprocessing persisted, update MongoDB
+            if not doc.get("preprocessing"):
+                try:
+                    self.db.update_article_preprocessing(
+                        article.id,
+                        article.preprocessing.model_dump()
+                    )
+                except Exception as e:
+                    logger.debug(f"Notice updating preprocessing in MongoDB for {article.id}: {e}")
+
+            articles_indexed += 1
+
+        logger.info(
+            f"Successfully synced {articles_indexed}/{articles_found} articles "
+            f"directly from MongoDB database '{self.db.db_name}'."
+        )
+        return articles_found, articles_indexed, errors
 
     def ingest_all(self, force_reload: bool = False) -> Tuple[int, int, List[str]]:
         """
-        Scans all input directories and loads articles into memory.
-        Returns: (articles_found, articles_indexed, errors)
+        Public ingestion interface called during startup and via /api/articles/ingest.
+        Directly queries the remote MongoDB database.
         """
         if self._articles_cache and not force_reload:
             return len(self._articles_cache), len(self._articles_cache), []
-        
-        target_dirs = self.get_input_directories()
-        articles_indexed = 0
-        articles_found = 0
-        errors: List[str] = []
-        
-        # Priority to JSON files, fallback to standalone MD files
-        for directory in target_dirs:
-            if not directory.exists():
-                continue
-            
-            json_files = list(directory.glob("*.json"))
-            articles_found += len(json_files)
-            
-            for jf in json_files:
-                article = self.parse_json_article(jf)
-                if article:
-                    self._articles_cache[article.id] = article
-                    articles_indexed += 1
-                else:
-                    errors.append(f"Failed to parse {jf.name}")
-            
-            # Check for any standalone markdown files without a JSON sibling
-            md_files = list(directory.glob("*.md"))
-            for mf in md_files:
-                article_id = self.extract_id_from_path(mf)
-                if article_id not in self._articles_cache:
-                    articles_found += 1
-                    article = self.parse_md_article(mf)
-                    if article:
-                        self._articles_cache[article.id] = article
-                        articles_indexed += 1
-        
-        logger.info(f"Ingested {articles_indexed} articles across {len(target_dirs)} directories.")
-        return articles_found, articles_indexed, errors
+        return self.ingest_from_mongodb()
 
     def get_article(self, article_id: str) -> Optional[Article]:
-        """Retrieves article by ID."""
-        clean_id = article_id.replace(".", "").lower()
-        if not clean_id.startswith("ld"):
-            clean_id = f"ld{clean_id}"
-        
-        if clean_id not in self._articles_cache:
-            # Try lazy ingestion
-            self.ingest_all()
-        
-        return self._articles_cache.get(clean_id)
+        """
+        Retrieves an article by ID:
+        1. Fast in-memory cache
+        2. Remote MongoDB primary database
+        """
+        clean_id = self.normalize_id(article_id)
+        if clean_id in self._articles_cache:
+            return self._articles_cache[clean_id]
+
+        # Query remote MongoDB directly
+        doc = self.db.get_article(clean_id)
+        if doc:
+            article = self.doc_to_article(doc)
+            if article:
+                self._articles_cache[clean_id] = article
+                return article
+
+        # If cache was never populated, perform initial sync from MongoDB
+        if not self._articles_cache:
+            self.ingest_from_mongodb()
+            return self._articles_cache.get(clean_id)
+
+        return None
 
     def list_articles(
         self,
@@ -267,31 +234,46 @@ class ArticleIngestionService:
         offset: int = 0,
         limit: int = 50
     ) -> Tuple[List[Article], int]:
-        """Lists articles with optional filtering and pagination."""
+        """
+        Lists articles with optional filtering and pagination.
+        Sourced from in-memory cache populated from MongoDB.
+        """
         if not self._articles_cache:
-            self.ingest_all()
-        
+            self.ingest_from_mongodb()
+
         articles = list(self._articles_cache.values())
-        
+
         if section:
-            section_lower = section.lower()
+            sec_lower = section.lower()
             articles = [
                 a for a in articles 
-                if a.section and section_lower in a.section.lower()
+                if a.section and sec_lower in a.section.lower()
             ]
-        
+
         if search_query:
             q = search_query.lower()
             articles = [
-                a for a in articles 
-                if q in a.headline.lower() 
+                a for a in articles
+                if q in a.headline.lower()
                 or (a.lead and q in a.lead.lower())
                 or q in a.raw_content.lower()
             ]
-        
+
         total = len(articles)
         paginated = articles[offset : offset + limit]
         return paginated, total
 
-# Singleton instance
+    # --------------------------------------------------------------------------
+    # Deprecated: Local Disk Path Scanning (Kept for historical reference only)
+    # --------------------------------------------------------------------------
+
+    def ingest_from_disk_deprecated(self) -> Tuple[int, int, List[str]]:
+        """
+        DEPRECATED: Scans local disk folders (/home/lord_kali/.../input).
+        This method is deprecated in favor of ingest_from_mongodb() and should not be used in production.
+        """
+        logger.warning("ingest_from_disk_deprecated() invoked. Please use ingest_from_mongodb().")
+        return 0, 0, ["Disk ingestion is deprecated. Use MongoDB source of truth."]
+
+# Global singleton instance
 article_ingestion_service = ArticleIngestionService()

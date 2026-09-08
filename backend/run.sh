@@ -12,5 +12,11 @@ if [ -d "backend/.venv" ]; then
 fi
 
 export PYTHONPATH="${PROJECT_ROOT}"
-echo "Starting NZZ FlexRead Backend on http://127.0.0.1:8000 ..."
-python3 -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --reload
+
+ENV_FILE="${SCRIPT_DIR}/.env"
+if [ ! -f "${ENV_FILE}" ] && [ -f "${PROJECT_ROOT}/.env" ]; then
+    ENV_FILE="${PROJECT_ROOT}/.env"
+fi
+
+echo "Starting NZZ FlexRead Backend on http://127.0.0.1:8000 (env: ${ENV_FILE}) ..."
+python3 -m uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --env-file "${ENV_FILE}" --reload
