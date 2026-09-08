@@ -3,7 +3,7 @@ import logging
 import re
 from typing import Any, Dict, Optional, Union
 from ..config import settings
-from ..models.article import Article, ReadingMode, FlexReadVariant, ArticlePreprocessing
+from ..models.article import Article, ReadingMode, FlexReadVariant, ArticlePreprocessing, ToneCategory, LengthTier
 from .prompt_engine import prompt_engine
 from .preprocessor import preprocessor_service
 
@@ -50,6 +50,262 @@ class GeminiClientService:
             logger.warning(f"Could not initialize google-genai client: {e}. Falling back to offline engine.")
             self._client = None
 
+    def extract_context(
+        self,
+        article: Union[Article, Dict[str, Any]],
+        wpm: int = 220
+    ) -> ArticlePreprocessing:
+        """
+        Executes Step 1 of the two-step preprocessing pipeline.
+        Calls Gemini with the full article JSON context to extract and populate
+        ArticlePreprocessing (main_points, keywords, tone, article_length, reading_time, word_count).
+        Falls back to preprocessor_service if offline or on error.
+        """
+        if isinstance(article, Article):
+            article_dict = article.to_nzz_json() if hasattr(article, "to_nzz_json") else article.model_dump()
+            raw_content = article.raw_content
+            article_obj = article
+        elif isinstance(article, dict):
+            article_dict = article
+            raw_content = article.get("raw_content") or article.get("body_text") or ""
+            if not raw_content and isinstance(article.get("body"), list):
+                parts = [p.get("text", "") for p in article.get("body", []) if isinstance(p, dict) and p.get("text")]
+                raw_content = "\n\n".join(parts)
+            article_obj = Article(
+                id=str(article.get("id") or article.get("nzz_id") or "raw_doc"),
+                headline=article.get("headline") or "Untitled",
+                lead=article.get("lead") or "",
+                section=article.get("section") or "General",
+                raw_content=raw_content
+            )
+        else:
+            raise TypeError(f"Expected Article or dict, got {type(article)}")
+
+        # Attempt Call 1 with Gemini if client available
+        if self._client:
+            try:
+                system_instruction = prompt_engine.get_system_instruction()
+                step1_prompt = prompt_engine.create_preprocessing_prompt(article_dict)
+                from google.genai import types
+                response = self._client.models.generate_content(
+                    model=self.model_name,
+                    contents=step1_prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=system_instruction,
+                        temperature=0.1,
+                        response_mime_type="application/json"
+                    )
+                )
+                if response and response.text:
+                    cleaned_text = response.text.strip()
+                    if cleaned_text.startswith("```"):
+                        cleaned_text = re.sub(r"^```(?:json)?\n", "", cleaned_text)
+                        cleaned_text = re.sub(r"\n```$", "", cleaned_text)
+                    data = json.loads(cleaned_text)
+
+                    # Extract & validate fields
+                    main_points = data.get("main_points") or []
+                    if isinstance(main_points, str):
+                        main_points = [main_points]
+                    keywords = data.get("keywords") or []
+                    if isinstance(keywords, str):
+                        keywords = [k.strip() for k in keywords.split(",")]
+
+                    tone_val = str(data.get("tone", "analytical")).lower().strip()
+                    try:
+                        tone = ToneCategory(tone_val)
+                    except ValueError:
+                        tone = ToneCategory.ANALYTICAL
+
+                    length_val = str(data.get("article_length", "medium")).lower().strip()
+                    try:
+                        length_tier = LengthTier(length_val)
+                    except ValueError:
+                        length_tier = LengthTier.MEDIUM
+
+                    wc = data.get("word_count") or preprocessor_service.calculate_word_count(raw_content)
+                    rt = data.get("reading_time") or preprocessor_service.calculate_reading_time(wc, wpm)
+                    rt_min = data.get("reading_time_minutes") or round(rt / 60.0, 1)
+
+                    return ArticlePreprocessing(
+                        main_points=main_points,
+                        keywords=keywords,
+                        tone=tone,
+                        article_length=length_tier,
+                        reading_time=rt,
+                        reading_time_minutes=rt_min,
+                        word_count=wc
+                    )
+            except Exception as e:
+                logger.error(f"Gemini Call 1 (extract_context) failed: {e}. Falling back to preprocessor_service.")
+
+        # Local deterministic fallback
+        return preprocessor_service.process(article_obj, wpm=wpm)
+
+    def generate_summary_with_context(
+        self,
+        article: Union[Article, Dict[str, Any]],
+        context: Union[ArticlePreprocessing, Dict[str, Any]],
+        mode: Union[ReadingMode, str],
+        wpm: int = 220
+    ) -> FlexReadVariant:
+        """
+        Executes Step 2 of the two-step synthesis pipeline.
+        Feeds both the raw article JSON and the populated contextual JSON to Gemini,
+        synthesizing the summary matching the requested reading mode variant (article.py:6-56).
+        Returns a FlexReadVariant (article.py:110-130).
+        """
+        # Resolve mode
+        if isinstance(mode, str):
+            try:
+                resolved_mode = ReadingMode(mode)
+            except ValueError:
+                resolved_mode = ReadingMode.SIXTY_SECONDS
+        else:
+            resolved_mode = mode
+
+        # Prepare article dict and object
+        if isinstance(article, Article):
+            article_dict = article.to_nzz_json() if hasattr(article, "to_nzz_json") else article.model_dump()
+            raw_content = article.raw_content
+            article_obj = article
+        elif isinstance(article, dict):
+            article_dict = article
+            raw_content = article.get("raw_content") or article.get("body_text") or ""
+            if not raw_content and isinstance(article.get("body"), list):
+                parts = [p.get("text", "") for p in article.get("body", []) if isinstance(p, dict) and p.get("text")]
+                raw_content = "\n\n".join(parts)
+            article_obj = Article(
+                id=str(article.get("id") or article.get("nzz_id") or "raw_doc"),
+                headline=article.get("headline") or "Untitled",
+                lead=article.get("lead") or "",
+                section=article.get("section") or "General",
+                raw_content=raw_content
+            )
+        else:
+            raise TypeError(f"Expected Article or dict, got {type(article)}")
+
+        # Prepare context dict and object
+        if isinstance(context, ArticlePreprocessing):
+            context_dict = context.model_dump()
+            context_obj = context
+        elif isinstance(context, dict):
+            context_dict = context
+            context_obj = ArticlePreprocessing(**context)
+        else:
+            raise TypeError(f"Expected ArticlePreprocessing or dict, got {type(context)}")
+
+        article_obj.preprocessing = context_obj
+
+        # Full mode returns verbatim raw_content with zero structural edits
+        if resolved_mode == ReadingMode.FULL:
+            word_count = len(raw_content.split())
+            reading_time = preprocessor_service.calculate_reading_time(word_count, wpm)
+            est_minutes = max(1, round(word_count / 200))
+            return FlexReadVariant(
+                mode=ReadingMode.FULL,
+                title=article_dict.get("headline", article_obj.headline),
+                summary=article_dict.get("lead", article_obj.lead),
+                actual_content=raw_content,
+                word_count=word_count,
+                reading_time_seconds=reading_time,
+                estimated_reading_time_minutes=est_minutes,
+                cached=False
+            )
+
+        # Attempt Call 2 with Gemini if client available
+        if self._client:
+            try:
+                system_instruction = prompt_engine.get_system_instruction()
+                step2_prompt = prompt_engine.create_two_step_synthesis_prompt(
+                    article_dict=article_dict,
+                    context_dict=context_dict,
+                    mode=resolved_mode
+                )
+                from google.genai import types
+                response = self._client.models.generate_content(
+                    model=self.model_name,
+                    contents=step2_prompt,
+                    config=types.GenerateContentConfig(
+                        system_instruction=system_instruction,
+                        temperature=0.2,
+                        response_mime_type="application/json"
+                    )
+                )
+                if response and response.text:
+                    cleaned_text = response.text.strip()
+                    if cleaned_text.startswith("```"):
+                        cleaned_text = re.sub(r"^```(?:json)?\n", "", cleaned_text)
+                        cleaned_text = re.sub(r"\n```$", "", cleaned_text)
+                    data = json.loads(cleaned_text)
+
+                    title = data.get("title", article_obj.headline)
+                    summary = data.get("summary", article_obj.lead)
+                    actual_content = data.get("actual_content", "")
+
+                    computed_wc = preprocessor_service.calculate_word_count(f"{title} {summary} {actual_content}")
+                    word_count = data.get("word_count") or computed_wc
+                    reading_time = preprocessor_service.calculate_reading_time(word_count, wpm)
+
+                    est_mins = data.get("estimated_reading_time_minutes")
+                    if not est_mins:
+                        if resolved_mode == ReadingMode.FIVE_MINUTES:
+                            est_mins = 5
+                        elif resolved_mode == ReadingMode.TEN_MINUTES:
+                            est_mins = 10
+                        elif resolved_mode == ReadingMode.FIFTEEN_MINUTES:
+                            est_mins = 15
+                        elif resolved_mode == ReadingMode.SIXTY_SECONDS:
+                            est_mins = 1
+                        else:
+                            est_mins = max(1, round(reading_time / 60))
+
+                    return FlexReadVariant(
+                        mode=resolved_mode,
+                        title=title,
+                        summary=summary,
+                        actual_content=actual_content,
+                        estimated_reading_time_minutes=int(est_mins),
+                        word_count=int(word_count),
+                        reading_time_seconds=int(reading_time),
+                        cached=False
+                    )
+            except Exception as e:
+                logger.error(f"Gemini Call 2 (generate_summary_with_context) failed: {e}. Falling back to heuristic.")
+
+        # Fallback to deterministic editorial heuristic
+        return self._generate_heuristic_variant(article_obj, resolved_mode, wpm)
+
+    def generate_two_step_variant(
+        self,
+        article: Article,
+        mode: Union[ReadingMode, str],
+        wpm: int = 220
+    ) -> FlexReadVariant:
+        """
+        Coordinates the full two-step pipeline sequentially:
+        1. Executes Call 1 (extract_context) to extract contextual JSON.
+        2. Updates the article's preprocessing metadata.
+        3. Executes Call 2 (generate_summary_with_context) with both raw article and populated context.
+        """
+        # Step 1: Extract contextual JSON
+        context = self.extract_context(article, wpm=wpm)
+
+        # Update article preprocessing metadata
+        article.preprocessing = context
+        article.word_count = context.word_count
+        article.reading_time_seconds = context.reading_time
+        article.reading_time_minutes = context.reading_time_minutes
+        article.tone = context.tone
+        article.article_length = context.article_length
+        if context.main_points:
+            article.summary_bullets_en = list(context.main_points)
+        if context.keywords and not article.tags:
+            article.tags = list(context.keywords)
+
+        # Step 2: Synthesize summary with context
+        return self.generate_summary_with_context(article, context, mode, wpm=wpm)
+
     def generate_variant(
         self,
         article: Article,
@@ -57,40 +313,10 @@ class GeminiClientService:
         wpm: int = 220
     ) -> FlexReadVariant:
         """
-        Generates an English FlexRead variant (60s, bullet_points, inline_simplified, full).
-        Calls Gemini / Vertex AI if configured, otherwise uses deterministic editorial heuristic.
+        Generates an English FlexRead variant (60s, bullet_points, inline_simplified, 5min, 10min, 15min, full).
+        Coordinates the full two-step pipeline sequentially.
         """
-        # Ensure preprocessing is fresh
-        if not article.preprocessing or not article.preprocessing.main_points:
-            article.preprocessing = preprocessor_service.process(article, wpm=wpm)
-
-        # Full mode returns the original text formatted
-        if mode == ReadingMode.FULL:
-            word_count = len(article.raw_content.split())
-            reading_time = preprocessor_service.calculate_reading_time(word_count, wpm)
-            est_minutes = max(1, round(word_count / 200))
-            return FlexReadVariant(
-                mode=ReadingMode.FULL,
-                title=article.headline,
-                summary=article.lead,
-                actual_content=article.raw_content,
-                word_count=word_count,
-                reading_time_seconds=reading_time,
-                estimated_reading_time_minutes=est_minutes,
-                cached=False
-            )
-
-        # Attempt Gemini / Vertex AI Generation if client is available
-        if self._client:
-            try:
-                variant = self._generate_with_gemini(article, mode, wpm)
-                if variant:
-                    return variant
-            except Exception as e:
-                logger.error(f"Gemini API call failed: {e}. Using English editorial fallback generator.")
-
-        # Editorial Heuristic Fallback (English)
-        return self._generate_heuristic_variant(article, mode, wpm)
+        return self.generate_two_step_variant(article, mode, wpm=wpm)
 
     def _generate_with_gemini(
         self,

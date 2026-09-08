@@ -228,6 +228,127 @@ Return valid JSON strictly adhering to the output format.
 """
 
     @classmethod
+    def create_preprocessing_prompt(cls, article_dict: Dict[str, Any]) -> str:
+        """
+        Creates the Step 1 prompt embedding the ArticlePreprocessing JSON template
+        (main_points, keywords, tone, article_length, reading_time, word_count)
+        and instructs Gemini to populate it based on the full article JSON context.
+        """
+        article_json_str = json.dumps(article_dict, indent=2, ensure_ascii=False, default=str)
+
+        return f"""You are the NZZ Editorial Preprocessing Engine.
+STEP 1: ARTICLE ANALYSIS & CONTEXT EXTRACTION
+
+Analyze the following full article JSON context:
+```json
+{article_json_str}
+```
+
+TASK:
+Extract the editorial and semantic metadata according to the strict ArticlePreprocessing specification:
+1. main_points: A list of 3-6 bullet-proof, analytical takeaways highlighting the core development, underlying tensions, and key implications.
+2. keywords: A list of 5-10 topical, semantic, and named entity keywords.
+3. tone: Exactly one of: "analytical", "investigative", "opinion_commentary", "reportage", "sober_briefing".
+4. article_length: Exactly one of: "short" (<500 words), "medium" (500-1000 words), "long" (1000-2500 words), "longform" (>2500 words).
+5. word_count: Total word count of original article text.
+6. reading_time: Reading time in seconds calculated at 220 words per minute (word_count / 220 * 60).
+7. reading_time_minutes: Reading time in minutes rounded to 1 decimal place.
+
+OUTPUT FORMAT REQUIREMENTS:
+Return strictly valid JSON matching this template:
+{{
+  "main_points": [
+    "Core takeaway 1",
+    "Core takeaway 2",
+    "Core takeaway 3"
+  ],
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "tone": "analytical",
+  "article_length": "medium",
+  "reading_time": 180,
+  "reading_time_minutes": 3.0,
+  "word_count": 650
+}}
+
+Do not output markdown code fences (```json ... ```) or any conversational text. Return ONLY the JSON object.
+"""
+
+    @classmethod
+    def create_two_step_synthesis_prompt(
+        cls,
+        article_dict: Dict[str, Any],
+        context_dict: Dict[str, Any],
+        mode: Union[ReadingMode, str]
+    ) -> str:
+        """
+        Creates the Step 2 prompt feeding both the raw article JSON and the populated
+        contextual JSON, instructing Gemini to synthesize the summary matching the requested reading mode.
+        """
+        mode_val = mode.value if isinstance(mode, ReadingMode) else str(mode)
+        article_json_str = json.dumps(article_dict, indent=2, ensure_ascii=False, default=str)
+        context_json_str = json.dumps(context_dict, indent=2, ensure_ascii=False, default=str)
+
+        mode_instructions = {
+            "60s": "Target length: 100-140 words (~60s). Structure: Crisp title, single powerful summary sentence, and exactly 3 bullets: **The Essentials:**, **The Crux:**, and **What Matters Now:**.",
+            "bullet_points": "Target length: 200-300 words (~90-120s). Structure: Analytical title, 2-sentence summary, 4-6 thematic bullets with bold categorical tags (e.g. **Core Development:**, **Context & Background:**, **Economic Dimension:**, **Critical Assessment:**, **Outlook & Implications:**).",
+            "inline_simplified": "Target length: 350-500 words (~2-2.5m). Structure: Engaging headline, 2-sentence lead, flowing narrative under 2-3 subheadings (###) breaking down dense academic/technical syntax.",
+            "5min": "Target length: ~1,000 to 1,250 words (5 minutes). Structure: Executive summary section, 3-5 structured bullets highlighting key developments, and a brief concluding overview. Tone: Direct, sober, concise.",
+            "10min": "Target length: ~2,000 to 2,500 words (10 minutes). Structure: Short lead-in, thematic section headers (###), simplified inline explanations, and data bullets. Tone: Analytical, clear, easy to skim.",
+            "15min": "Target length: ~3,000 to 3,750 words (15 minutes). Structure: Full long-form deep-dive with structured sections, complete background context, stakeholder viewpoints, and expert quotes. Tone: Deeply analytical and authoritative.",
+            "full": "Full Mode: Output complete raw text in actual_content with ZERO structural edits. Compute estimated reading time at 200 words per minute."
+        }
+        instruction_for_mode = mode_instructions.get(mode_val, f"Synthesize variant for mode: {mode_val}.")
+
+        target_mins = 5
+        if mode_val in ("60s", "1"):
+            target_mins = 1
+        elif mode_val in ("5min", "5", "5 minutes"):
+            target_mins = 5
+        elif mode_val in ("10min", "10", "10 minutes"):
+            target_mins = 10
+        elif mode_val in ("15min", "15", "15 minutes"):
+            target_mins = 15
+
+        return f"""You are the NZZ Editorial Synthesis Engine.
+STEP 2: TWO-STEP SYNTHESIS WITH CONTEXTUAL INSIGHTS
+
+You are provided with:
+1. RAW ARTICLE JSON:
+```json
+{article_json_str}
+```
+
+2. POPULATED CONTEXTUAL JSON (METADATA & EDITORIAL INSIGHTS):
+```json
+{context_json_str}
+```
+
+TARGET READING MODE: "{mode_val}"
+MODE GUIDELINES:
+{instruction_for_mode}
+
+TASK:
+Using BOTH the raw article context and the extracted contextual insights (main points, keywords, tone, length tier), synthesize the reading variant for mode "{mode_val}".
+Language: Sophisticated, authoritative English only.
+
+OUTPUT FORMAT REQUIREMENTS:
+Return strict JSON matching this structure:
+{{
+  "title": "Adapted headline fitting the selected mode",
+  "summary": "1-2 sentence executive briefing",
+  "actual_content": "Markdown-formatted text body tailored to the target mode",
+  "estimated_reading_time_minutes": {target_mins},
+  "word_count": <computed_word_count>
+}}
+
+Do not output markdown code fences (```json ... ```) or any conversational text. Return ONLY the JSON object.
+"""
+
+    @classmethod
     def get_system_instruction(cls) -> str:
         """Returns English system prompt for Gemini / Vertex AI."""
         return cls.SYSTEM_PROMPT.strip()
