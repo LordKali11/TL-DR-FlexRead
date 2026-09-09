@@ -25,15 +25,7 @@
     gap: 0.65rem;
   }
 
-  .dashboard-metrics-bar {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
 
-  .metric-sep {
-    display: none;
-  }
 
   .tier-selector-group {
     grid-template-columns: 1fr;
@@ -67,8 +59,10 @@
     display: none;
   }
 
-  .nzz-brand-svg {
-    max-width: 140px;
+  .nzz-brand-svg,
+  .nzz-brand-logo {
+    height: 28px;
+    max-width: 100px;
   }
 
   .header-edition-info {

@@ -48,7 +48,7 @@
   display: block;
   height: 32px;
   width: auto;
-  max-width: 200px;
+  max-width: 120px;
   object-fit: contain;
 }
 
@@ -233,8 +233,8 @@
 
 .dashboard-hero-section {
   border-bottom: 2px solid var(--nzz-black);
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
+  padding-bottom: 1.75rem;
+  margin-bottom: 1.75rem;
 }
 
 .hero-editorial-badge {
@@ -255,7 +255,7 @@
 
 .hero-headline-row {
   max-width: 960px;
-  margin-bottom: 1.75rem;
+  margin-bottom: 0;
 }
 
 .hero-title {

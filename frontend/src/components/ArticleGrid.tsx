@@ -4,7 +4,7 @@ import { ArticleCard } from './ArticleCard';
 
 interface ArticleGridProps {
   articles: Article[];
-  user: UserProfile;
+  user?: UserProfile;
   onOpenReader: (article: Article, initialTier?: ReadingTier) => void;
   onLoadMore?: () => void;
   hasMore?: boolean;
@@ -14,12 +14,7 @@ interface ArticleGridProps {
 
 export const ArticleGrid: React.FC<ArticleGridProps> = ({
   articles,
-  user,
-  onOpenReader,
-  onLoadMore,
-  hasMore = false,
-  isLoadingMore = false,
-  totalArticles
+  onOpenReader
 }) => {
   const [selectedTopic, setSelectedTopic] = useState<string>('All');
 

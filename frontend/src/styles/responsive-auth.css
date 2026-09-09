@@ -167,8 +167,9 @@
   }
 
   .nzz-logo {
-    height: 32px;
-    width: 170px;
+    height: 38px;
+    width: auto;
+    max-width: 140px;
   }
 
   .brand-subline {

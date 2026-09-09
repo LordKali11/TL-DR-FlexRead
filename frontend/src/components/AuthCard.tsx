@@ -40,7 +40,7 @@ onFillDemo
         {/* Brand Logo Header */}
         <div className="brand-header">
           <a href="https://www.nzz.ch/" title="Neue Zürcher Zeitung" className="logo-link">
-            <img src="/assets/nzz-logo.svg" alt="Neue Zürcher Zeitung Logo" className="nzz-logo" />
+            <img src="assets/nzz-logo.svg" alt="Neue Zürcher Zeitung Logo" className="nzz-logo" />
           </a>
           <p className="brand-subline">My NZZ Account</p>
         </div>

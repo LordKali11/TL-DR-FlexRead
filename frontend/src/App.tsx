@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 import { DashboardTopBar } from './components/DashboardTopBar';
 import { ArticleGrid } from './components/ArticleGrid';
 import { FlexReaderView } from './components/FlexReaderView';
+import { ProfileModal } from './components/ProfileModal';
 import {
   AuthTab,
   RegistrationData,
@@ -65,6 +66,7 @@ export default function App(): React.ReactElement {
   const [toasts, setToasts] = useState<ToastItem[]>([]);
   const [isForgotModalOpen, setIsForgotModalOpen] = useState<boolean>(false);
   const [forgotInitialEmail, setForgotInitialEmail] = useState<string>('');
+  const [isProfileOpen, setIsProfileOpen] = useState<boolean>(false);
 
   const [loginIdentifier, setLoginIdentifier] = useState<string>('');
   const [loginPassword, setLoginPassword] = useState<string>('');
@@ -316,7 +318,7 @@ export default function App(): React.ReactElement {
           <>
             <DashboardTopBar
               user={activeUser}
-              onSwitchToAuth={() => setCurrentView('auth')}
+              onOpenProfile={() => setIsProfileOpen(true)}
               onSignOut={handleSignOut}
             />
             <ArticleGrid
@@ -329,6 +331,12 @@ export default function App(): React.ReactElement {
               totalArticles={totalArticles}
             />
             <Footer />
+            <ProfileModal
+              isOpen={isProfileOpen}
+              user={activeUser}
+              onClose={() => setIsProfileOpen(false)}
+              onSignOut={handleSignOut}
+            />
           </>
         )
       ) : (

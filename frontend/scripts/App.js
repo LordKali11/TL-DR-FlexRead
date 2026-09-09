@@ -57,6 +57,7 @@ const { useState, useMemo, useCallback, useEffect } = React;
       const [toasts, setToasts] = useState([]);
       const [isForgotModalOpen, setIsForgotModalOpen] = useState(false);
       const [forgotInitialEmail, setForgotInitialEmail] = useState('');
+      const [isProfileOpen, setIsProfileOpen] = useState(false);
 
       const [loginIdentifier, setLoginIdentifier] = useState('');
       const [loginPassword, setLoginPassword] = useState('');
@@ -325,7 +326,7 @@ const { useState, useMemo, useCallback, useEffect } = React;
               <React.Fragment>
                 <DashboardTopBar
                   user={activeUser}
-                  onSwitchToAuth={() => setCurrentView('auth')}
+                  onOpenProfile={() => setIsProfileOpen(true)}
                   onSignOut={handleSignOut}
                 />
                 <ArticleGrid
@@ -338,6 +339,12 @@ const { useState, useMemo, useCallback, useEffect } = React;
                   totalArticles={totalArticles}
                 />
                 <Footer />
+                <ProfileModal
+                  isOpen={isProfileOpen}
+                  user={activeUser}
+                  onClose={() => setIsProfileOpen(false)}
+                  onSignOut={handleSignOut}
+                />
               </React.Fragment>
             )
           ) : (
