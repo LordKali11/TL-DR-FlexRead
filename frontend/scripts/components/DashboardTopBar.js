@@ -1,7 +1,7 @@
 const { useMemo } = React;
 
     /* DashboardTopBar */
-    function DashboardTopBar({ user, onSwitchToAuth, onSignOut }) {
+    function DashboardTopBar({ user, onOpenProfile, onSignOut }) {
       const formattedDate = useMemo(() => {
         try {
           return new Intl.DateTimeFormat('en-US', {
@@ -33,19 +33,14 @@ const { useMemo } = React;
             </div>
 
             <div className="header-right">
-              <div className="stats-pill" title="Time saved through semantic argument distillation">
-                <span className="stats-text">
-                  <strong>{user.minutesSavedToday}m</strong>
-                  <span style={{ marginLeft: '5px' }}>saved today</span>
-                </span>
-              </div>
-
-              <div className="sync-pill" title={user.syncDevice}>
-                <span className="sync-dot"></span>
-                <span className="sync-label">{user.syncDevice || 'Device Synced'}</span>
-              </div>
-
-              <div className="user-profile-badge">
+              <div
+                className="user-profile-badge"
+                onClick={onOpenProfile}
+                role="button"
+                tabIndex={0}
+                title="Click to view your subscriber profile"
+                style={{ cursor: 'pointer' }}
+              >
                 <div className="user-avatar" aria-hidden="true">{user.avatarInitials}</div>
                 <div className="user-info">
                   <span className="user-name">{user.name}</span>
@@ -55,11 +50,11 @@ const { useMemo } = React;
 
               <div className="header-actions">
                 <button
-                  onClick={onSwitchToAuth}
+                  onClick={onOpenProfile}
                   className="btn-header-secondary"
-                  title="Go to Sign In / Create Profile Screen"
+                  title="View and manage your subscriber profile"
                 >
-                  Sign In / Profile
+                  Profile
                 </button>
                 <button
                   onClick={onSignOut}

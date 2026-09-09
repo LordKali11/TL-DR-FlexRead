@@ -73,14 +73,6 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({ article, onOpenReader 
           </button>
         </div>
 
-        {/* Semantic Layers Available (Clean Swiss monochrome labels) */}
-        <div className="argument-layers-preview">
-          <span className="layer-dot dot-thesis" title="Core Thesis included">Thesis</span>
-          <span className="layer-dot dot-evidence" title="Causal Evidence included">Evidence</span>
-          <span className="layer-dot dot-counterpoint" title="Counter-arguments included">Balance</span>
-          <span className="layer-dot dot-data" title="Quantitative Data included">Metrics</span>
-        </div>
-
         {/* Author Byline & Action */}
         <div className="card-footer">
           <div className="author-meta">

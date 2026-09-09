@@ -3,13 +3,13 @@ import { UserProfile } from '../types';
 
 interface DashboardTopBarProps {
   user: UserProfile;
-  onSwitchToAuth: () => void;
+  onOpenProfile: () => void;
   onSignOut: () => void;
 }
 
 export const DashboardTopBar: React.FC<DashboardTopBarProps> = ({
   user,
-  onSwitchToAuth,
+  onOpenProfile,
   onSignOut
 }) => {
   const formattedDate = useMemo<string>(() => {
@@ -28,7 +28,7 @@ export const DashboardTopBar: React.FC<DashboardTopBarProps> = ({
   return (
     <header className="dashboard-header" role="banner">
       <div className="dashboard-header-inner">
-        {/* Brand & Dynamic Date Context (No Flex Read badge on taskbar) */}
+        {/* Brand & Dynamic Date Context */}
         <div className="header-left">
           <div className="nzz-logo-wrap" title="Neue Zürcher Zeitung">
             <img
@@ -45,22 +45,15 @@ export const DashboardTopBar: React.FC<DashboardTopBarProps> = ({
 
         {/* User Account & Actions (Dynamically generated from actual sign in) */}
         <div className="header-right">
-          {/* Reading Stats Badge (Clean Swiss typography) */}
-          <div className="stats-pill" title="Time saved through semantic argument distillation">
-            <span className="stats-text">
-              <strong>{user.minutesSavedToday}m</strong>
-              <span style={{ marginLeft: '5px' }}>saved today</span>
-            </span>
-          </div>
-
-          {/* Sync Status Badge (Dynamically detected device) */}
-          <div className="sync-pill" title={user.syncDevice}>
-            <span className="sync-dot"></span>
-            <span className="sync-label">{user.syncDevice || 'Device Synced'}</span>
-          </div>
-
-          {/* User Profile Card (Dynamic Name and Monogram) */}
-          <div className="user-profile-badge">
+          {/* User Profile Card (Clickable to view Profile) */}
+          <div
+            className="user-profile-badge"
+            onClick={onOpenProfile}
+            role="button"
+            tabIndex={0}
+            title="Click to view your subscriber profile"
+            style={{ cursor: 'pointer' }}
+          >
             <div className="user-avatar" aria-hidden="true">{user.avatarInitials}</div>
             <div className="user-info">
               <span className="user-name">{user.name}</span>
@@ -71,11 +64,11 @@ export const DashboardTopBar: React.FC<DashboardTopBarProps> = ({
           {/* Navigation Action Buttons */}
           <div className="header-actions">
             <button
-              onClick={onSwitchToAuth}
+              onClick={onOpenProfile}
               className="btn-header-secondary"
-              title="Manage account credentials and profile settings"
+              title="View and manage your subscriber profile"
             >
-              Sign In / Profile
+              Profile
             </button>
             <button
               onClick={onSignOut}

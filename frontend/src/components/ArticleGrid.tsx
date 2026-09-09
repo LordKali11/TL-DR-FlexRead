@@ -4,13 +4,12 @@ import { ArticleCard } from './ArticleCard';
 
 interface ArticleGridProps {
   articles: Article[];
-  user: UserProfile;
+  user?: UserProfile;
   onOpenReader: (article: Article, initialTier?: ReadingTier) => void;
 }
 
 export const ArticleGrid: React.FC<ArticleGridProps> = ({
   articles,
-  user,
   onOpenReader
 }) => {
   const [selectedTopic, setSelectedTopic] = useState<string>('All');
@@ -45,37 +44,6 @@ export const ArticleGrid: React.FC<ArticleGridProps> = ({
             core thesis, causal evidence, historical context, counter-arguments, and quantitative data.
             Select your reading budget on demand without compromising editorial nuance or authoritative voice.
           </p>
-        </div>
-
-        {/* Live Metrics Row (Austere Swiss typography, generous spacing) */}
-        <div className="dashboard-metrics-bar">
-          <div className="metric-cell">
-            <span className="metric-num">
-              <span className="num-accent">{articles.length}</span>
-            </span>
-            <span className="metric-desc">Curated Articles</span>
-          </div>
-          <div className="metric-cell">
-            <span className="metric-num">
-              <span className="num-accent">{user.minutesSavedToday}</span>
-              <span className="num-unit">m</span>
-            </span>
-            <span className="metric-desc">Time Saved Today</span>
-          </div>
-          <div className="metric-cell">
-            <span className="metric-num">
-              <span className="num-accent">100</span>
-              <span className="num-unit">%</span>
-            </span>
-            <span className="metric-desc">Voice & Cadence Preserved</span>
-          </div>
-          <div className="metric-cell">
-            <span className="metric-num">
-              <span style={{ display: 'inline-block', width: '9px', height: '9px', backgroundColor: '#22c55e', borderRadius: '50%', marginRight: '6px', transform: 'translateY(-2px)', boxShadow: '0 0 0 3px rgba(34, 197, 94, 0.25)' }}></span>
-              Live
-            </span>
-            <span className="metric-desc">Cross-Device Synchronized</span>
-          </div>
         </div>
       </section>
 
