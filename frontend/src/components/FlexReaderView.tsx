@@ -14,6 +14,7 @@ interface FlexReaderViewProps {
   onBack: () => void;
   onUpdateStats: (mins: number) => void;
   onSelectArticle: (article: Article, budgetTier?: ReadingTier | string) => void;
+  onOpenProfile?: () => void;
 }
 
 export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
@@ -23,7 +24,8 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   initialTier = 'briefing',
   onBack,
   onUpdateStats,
-  onSelectArticle
+  onSelectArticle,
+  onOpenProfile
 }) => {
   const rec = getRecommendedReadingTier(article, user);
   const effectiveInitialTier: ReadingTier = initialTier === 'recommended' ? rec.tier : initialTier;
@@ -185,7 +187,19 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
             </span>
           </div>
 
-          <div className="reader-bar-right" aria-hidden="true"></div>
+          <div className="reader-bar-right">
+            {onOpenProfile && (
+              <button
+                type="button"
+                className="btn-reader-profile"
+                onClick={onOpenProfile}
+                title="Subscriber Profile"
+              >
+                <span className="reader-avatar-badge">{user ? user.avatarInitials || 'NZ' : 'NZ'}</span>
+                <span className="reader-profile-label">Profile</span>
+              </button>
+            )}
+          </div>
         </div>
       </header>
 
@@ -374,9 +388,8 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
                 </p>
               </div>
 
-              {/* Section 1: Core Editorial Takeaways */}
+              {/* Pure Bullet Mode: Executive Bullet Points Only */}
               <div className="bullet-mode-section">
-                <h3 className="bullet-section-title">Key Executive Points</h3>
                 <ul className="bullet-mode-list">
                   {(article.takeaways || article.summaryBullets || []).map((point, idx) => (
                     <li key={idx} className="bullet-mode-item">
@@ -387,70 +400,6 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
                     </li>
                   ))}
                 </ul>
-              </div>
-
-              {/* Section 2: Core Argument Pillars */}
-              {article.argumentFocusTopics && article.argumentFocusTopics.length > 0 && (
-                <div className="bullet-mode-section">
-                  <h3 className="bullet-section-title">Argument Structure & Core Pillars</h3>
-                  <div className="bullet-pillars-grid">
-                    {article.argumentFocusTopics.map((topic) => (
-                      <div key={topic.id} className="bullet-pillar-card">
-                        <div className="bullet-pillar-header">
-                          <span className="pillar-tag">{topic.tag}</span>
-                          <span className="pillar-title">{topic.label}</span>
-                        </div>
-                        <p className="pillar-summary">{topic.summary}</p>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {/* Section 3: Empirical Evidence & Key Quotes in Bullet Form */}
-              {visibleParagraphs.some(p => p.statsMetric || (p as any).quote) && (
-                <div className="bullet-mode-section">
-                  <h3 className="bullet-section-title">Empirical Evidence & Key Quotes</h3>
-                  <ul className="bullet-mode-list">
-                    {visibleParagraphs
-                      .filter(p => p.statsMetric || (p as any).quote)
-                      .map((p, idx) => (
-                        <li key={p.id || idx} className="bullet-mode-item bullet-item-evidence">
-                          <span className="bullet-mode-marker" aria-hidden="true">◆</span>
-                          <div className="bullet-mode-text">
-                            {p.statsMetric && (
-                              <strong className="bullet-metric-highlight">[{p.statsMetric.value}] {p.statsMetric.label}: </strong>
-                            )}
-                            {(p as any).quote && (
-                              <em className="bullet-quote-highlight">"{ (p as any).quote }" &mdash; </em>
-                            )}
-                            <EditorialMarkdown text={p.keyTakeaway || p.text.split('.')[0] + '.'} />
-                          </div>
-                        </li>
-                      ))}
-                  </ul>
-                </div>
-              )}
-
-              {/* Bottom Quick-Switch */}
-              <div className="bullet-mode-footer-switch">
-                <span className="footer-switch-label">Ready to explore full investigative prose?</span>
-                <div className="footer-switch-buttons">
-                  <button
-                    type="button"
-                    className="btn-switch-tier"
-                    onClick={() => changeReadingTier('analytical')}
-                  >
-                    Switch to Analytical Depth ({article.readingTimes.analytical}m)
-                  </button>
-                  <button
-                    type="button"
-                    className="btn-switch-tier"
-                    onClick={() => changeReadingTier('full')}
-                  >
-                    Read Full Broadsheet ({article.readingTimes.full}m)
-                  </button>
-                </div>
               </div>
             </div>
           ) : (
@@ -512,6 +461,7 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
 
           {/* Progressive Disclosure Expanders */}
           {(() => {
+            if (tier === 'bullets') return null;
             const dossiers: ProgressiveExpander[] = ((article.progressiveExpanders || article.expanders || []) as ProgressiveExpander[]);
             if (dossiers.length === 0) return null;
 

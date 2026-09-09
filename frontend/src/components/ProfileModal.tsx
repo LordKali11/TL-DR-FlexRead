@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { UserProfile } from '../types';
 
 interface ProfileModalProps {
@@ -6,21 +6,37 @@ interface ProfileModalProps {
   user: UserProfile;
   onClose: () => void;
   onSignOut: () => void;
+  returnLabel?: string;
+  returnContext?: string;
 }
 
 export const ProfileModal: React.FC<ProfileModalProps> = ({
   isOpen,
   user,
   onClose,
-  onSignOut
+  onSignOut,
+  returnLabel,
+  returnContext
 }) => {
   if (!isOpen) return null;
+
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        onClose();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [onClose]);
 
   const handleBackdropClick = (e: React.MouseEvent<HTMLDivElement>) => {
     if (e.target === e.currentTarget) {
       onClose();
     }
   };
+
+  const backButtonText = returnLabel || (returnContext === 'reader' ? '← Back to Article' : '← Back to Articles');
 
   return (
     <div
@@ -108,40 +124,6 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({
           </div>
         </div>
 
-        {/* Reading History & Personalization Ledger */}
-        <div className="profile-history-section">
-          <div className="history-section-header">
-            <span className="history-title">Reading History & Recommendation Basis</span>
-            <span className="history-badge">Calibrating 4th Button (★ Rec)</span>
-          </div>
-
-          <div className="history-list">
-            {(user.readingHistory && user.readingHistory.length > 0) ? (
-              user.readingHistory.slice(0, 4).map((entry, idx) => (
-                <div key={idx} className="history-item-row">
-                  <div className="history-item-left">
-                    <span className={`history-tier-pill tier-${entry.tierChosen}`}>
-                      {entry.tierChosen === 'briefing' ? 'Briefing (3m)' :
-                       entry.tierChosen === 'analytical' ? 'Analytical (7m)' :
-                       entry.tierChosen === 'full' ? 'Full Narrative (16m)' :
-                       entry.tierChosen === 'bullets' ? 'Bullet Mode' : 'Recommended'}
-                    </span>
-                    <span className="history-item-title" title={entry.articleTitle}>{entry.articleTitle}</span>
-                  </div>
-                  <div className="history-item-meta">
-                    <span className="history-item-mins">{entry.minutesRead} min read</span>
-                    <span className="history-item-date">{entry.readAt}</span>
-                  </div>
-                </div>
-              ))
-            ) : (
-              <div className="history-empty-state">
-                No past reading sessions logged today. Select an article to begin building your personalized profile.
-              </div>
-            )}
-          </div>
-        </div>
-
         {/* Profile Details List */}
         <div className="profile-details-grid">
           <div className="profile-detail-item">
@@ -176,10 +158,10 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({
         <div className="modal-actions profile-modal-actions">
           <button
             type="button"
-            className="btn-secondary"
+            className="btn-secondary btn-modal-escape"
             onClick={onClose}
           >
-            Back to Dashboard
+            {backButtonText}
           </button>
           <button
             type="button"

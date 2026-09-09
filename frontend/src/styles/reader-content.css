@@ -1159,16 +1159,16 @@
 }
 
 .bullet-mode-item.bullet-item-evidence {
-  border-left-color: #1a4a6b;
+  border-left-color: #111111;
 }
 
 .bullet-mode-item.bullet-item-evidence .bullet-mode-marker {
-  color: #1a4a6b;
+  color: var(--nzz-red);
 }
 
 .bullet-metric-highlight {
   font-family: var(--font-sans);
-  color: #1a4a6b;
+  color: #111111;
   font-weight: 700;
   font-size: 0.95rem;
 }

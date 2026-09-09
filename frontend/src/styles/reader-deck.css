@@ -81,6 +81,46 @@
   gap: 0.75rem;
 }
 
+.btn-reader-profile {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: 1px solid var(--nzz-border-color);
+  padding: 0.25rem 0.65rem 0.25rem 0.35rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--nzz-black);
+  transition: all 0.15s ease;
+}
+
+.btn-reader-profile:hover {
+  background: #f4f4f0;
+  border-color: #111111;
+}
+
+.reader-avatar-badge {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--nzz-black);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.625rem;
+  font-weight: 700;
+}
+
+.reader-profile-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--nzz-black);
+}
+
 .btn-audio-toggle {
   background: #f7f7f5;
   border: 1px solid var(--nzz-border-color);
@@ -372,45 +412,55 @@
 }
 
 .depth-pill-btn.depth-pill-rec {
-  border-color: #d9aa43;
-  background: #fffdf5;
+  border-color: #111111;
+  background: #f8f8f5;
 }
 
 .depth-pill-btn.depth-pill-rec .depth-pill-time {
-  color: #7d5607;
-  background: #fbf1d6;
+  color: #111111;
+  background: #e8e8e3;
+}
+
+.depth-pill-btn.depth-pill-rec:hover {
+  background: #f0f0eb;
+  border-color: #111111;
 }
 
 .depth-pill-btn.depth-pill-rec.active {
-  background: #7d5607;
-  border-color: #7d5607;
+  background: #111111;
+  border-color: #111111;
   color: #ffffff;
 }
 
 .depth-pill-btn.depth-pill-rec.active .depth-pill-time {
-  background: #ffffff;
-  color: #7d5607;
+  background: #a01a1e;
+  color: #ffffff;
 }
 
 .depth-pill-btn.depth-pill-bullets {
-  border-color: #9cb5c5;
-  background: #f6f9fb;
+  border-color: #888884;
+  background: #ffffff;
 }
 
 .depth-pill-btn.depth-pill-bullets .depth-pill-time {
-  color: #1a4a6b;
-  background: #e5eff5;
+  color: #111111;
+  background: #f0f0eb;
+}
+
+.depth-pill-btn.depth-pill-bullets:hover {
+  background: #f7f6f2;
+  border-color: #111111;
 }
 
 .depth-pill-btn.depth-pill-bullets.active {
-  background: #1a4a6b;
-  border-color: #1a4a6b;
+  background: #111111;
+  border-color: #111111;
   color: #ffffff;
 }
 
 .depth-pill-btn.depth-pill-bullets.active .depth-pill-time {
-  background: #ffffff;
-  color: #1a4a6b;
+  background: #a01a1e;
+  color: #ffffff;
 }
 
 .depth-bar-right {

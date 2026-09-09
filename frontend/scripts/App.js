@@ -397,6 +397,15 @@ const { useState, useMemo, useCallback, useEffect } = React;
               onBack={handleCloseReader}
               onUpdateStats={handleUpdateStats}
               onSelectArticle={handleOpenReader}
+              onOpenProfile={() => setIsProfileOpen(true)}
+            />
+            <ProfileModal
+              isOpen={isProfileOpen}
+              user={activeUser}
+              onClose={() => setIsProfileOpen(false)}
+              onSignOut={handleSignOut}
+              returnLabel="← Back to Article"
+              returnContext="reader"
             />
             <ToastContainer toasts={toasts} onDismiss={dismissToast} />
           </React.Fragment>
@@ -422,6 +431,8 @@ const { useState, useMemo, useCallback, useEffect } = React;
             user={activeUser}
             onClose={() => setIsProfileOpen(false)}
             onSignOut={handleSignOut}
+            returnLabel="← Back to Articles"
+            returnContext="dashboard"
           />
           <ToastContainer toasts={toasts} onDismiss={dismissToast} />
         </React.Fragment>

@@ -314,29 +314,29 @@
 }
 
 .budget-chip.chip-recommended {
-  background: #fffdf2;
-  border-color: #d9aa43;
-  color: #7d5607;
+  background: #f4f4f0;
+  border-color: #111111;
+  color: #111111;
   font-weight: 700;
 }
 
 .budget-chip.chip-recommended:hover {
-  background: #fbf1d6;
-  border-color: #b07d19;
-  color: #593902;
+  background: #111111;
+  border-color: #111111;
+  color: #ffffff;
 }
 
 .budget-chip.chip-bullets {
-  background: #f4f8fa;
-  border-color: #9cb5c5;
-  color: #1a4a6b;
-  font-weight: 700;
+  background: #ffffff;
+  border-color: #888884;
+  color: #1a1a18;
+  font-weight: 600;
 }
 
 .budget-chip.chip-bullets:hover {
-  background: #e5eff5;
-  border-color: #1a4a6b;
-  color: #0d2c42;
+  border-color: var(--nzz-red);
+  color: var(--nzz-red);
+  background: #fff8f8;
 }
 
 @media (max-width: 640px) {

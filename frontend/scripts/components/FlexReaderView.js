@@ -3,7 +3,7 @@ const ReadMoreDecisionHub = window.ReadMoreDecisionHub;
 const FloatingDepthBubble = window.FloatingDepthBubble;
 const NzzTransitionOverlay = window.NzzTransitionOverlay;
 
-function FlexReaderView({ article, articles, user, initialTier = 'briefing', onBack, onUpdateStats, onSelectArticle }) {
+function FlexReaderView({ article, articles, user, initialTier = 'briefing', onBack, onUpdateStats, onSelectArticle, onOpenProfile }) {
   const rec = (window.getRecommendedReadingTier && window.getRecommendedReadingTier(article, user)) || {
     tier: 'analytical',
     minutes: (article.readingTimes && article.readingTimes.analytical) || 7,
@@ -171,7 +171,19 @@ function FlexReaderView({ article, articles, user, initialTier = 'briefing', onB
             </span>
           </div>
 
-          <div className="reader-bar-right" aria-hidden="true"></div>
+          <div className="reader-bar-right">
+            {onOpenProfile && (
+              <button
+                type="button"
+                className="btn-reader-profile"
+                onClick={onOpenProfile}
+                title="Subscriber Profile"
+              >
+                <span className="reader-avatar-badge">{user ? user.avatarInitials || 'NZ' : 'NZ'}</span>
+                <span className="reader-profile-label">Profile</span>
+              </button>
+            )}
+          </div>
         </div>
       </header>
 
@@ -360,9 +372,8 @@ function FlexReaderView({ article, articles, user, initialTier = 'briefing', onB
                 </p>
               </div>
 
-              {/* Section 1: Core Editorial Takeaways */}
+              {/* Pure Bullet Mode: Executive Bullet Points Only */}
               <div className="bullet-mode-section">
-                <h3 className="bullet-section-title">Key Executive Points</h3>
                 <ul className="bullet-mode-list">
                   {(article.takeaways || article.summaryBullets || []).map((point, idx) => (
                     <li key={idx} className="bullet-mode-item">
@@ -377,76 +388,6 @@ function FlexReaderView({ article, articles, user, initialTier = 'briefing', onB
                     </li>
                   ))}
                 </ul>
-              </div>
-
-              {/* Section 2: Core Argument Pillars */}
-              {article.argumentFocusTopics && article.argumentFocusTopics.length > 0 && (
-                <div className="bullet-mode-section">
-                  <h3 className="bullet-section-title">Argument Structure & Core Pillars</h3>
-                  <div className="bullet-pillars-grid">
-                    {article.argumentFocusTopics.map((topic) => (
-                      <div key={topic.id} className="bullet-pillar-card">
-                        <div className="bullet-pillar-header">
-                          <span className="pillar-tag">{topic.tag}</span>
-                          <span className="pillar-title">{topic.label}</span>
-                        </div>
-                        <p className="pillar-summary">{topic.summary}</p>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {/* Section 3: Empirical Evidence & Key Quotes in Bullet Form */}
-              {visibleParagraphs.some(p => p.statsMetric || p.quote) && (
-                <div className="bullet-mode-section">
-                  <h3 className="bullet-section-title">Empirical Evidence & Key Quotes</h3>
-                  <ul className="bullet-mode-list">
-                    {visibleParagraphs
-                      .filter(p => p.statsMetric || p.quote)
-                      .map((p, idx) => (
-                        <li key={p.id || idx} className="bullet-mode-item bullet-item-evidence">
-                          <span className="bullet-mode-marker" aria-hidden="true">◆</span>
-                          <div className="bullet-mode-text">
-                            {p.statsMetric && (
-                              <strong className="bullet-metric-highlight">[{p.statsMetric.value}] {p.statsMetric.label}: </strong>
-                            )}
-                            {p.quote && (
-                              <em className="bullet-quote-highlight">"{ p.quote }" &mdash; </em>
-                            )}
-                            {(window.EditorialMarkdown || (typeof EditorialMarkdown !== 'undefined' ? EditorialMarkdown : null)) ? (
-                              React.createElement(window.EditorialMarkdown || EditorialMarkdown, {
-                                text: p.keyTakeaway || p.text.split('.')[0] + '.'
-                              })
-                            ) : (
-                              <span>{p.keyTakeaway || p.text.split('.')[0] + '.'}</span>
-                            )}
-                          </div>
-                        </li>
-                      ))}
-                  </ul>
-                </div>
-              )}
-
-              {/* Bottom Quick-Switch */}
-              <div className="bullet-mode-footer-switch">
-                <span className="footer-switch-label">Ready to explore full investigative prose?</span>
-                <div className="footer-switch-buttons">
-                  <button
-                    type="button"
-                    className="btn-switch-tier"
-                    onClick={() => changeReadingTier('analytical')}
-                  >
-                    Switch to Analytical Depth ({article.readingTimes.analytical}m)
-                  </button>
-                  <button
-                    type="button"
-                    className="btn-switch-tier"
-                    onClick={() => changeReadingTier('full')}
-                  >
-                    Read Full Broadsheet ({article.readingTimes.full}m)
-                  </button>
-                </div>
               </div>
             </div>
           ) : (
@@ -515,6 +456,7 @@ function FlexReaderView({ article, articles, user, initialTier = 'briefing', onB
 
           {/* Progressive Disclosure Expanders */}
           {(() => {
+            if (tier === 'bullets') return null;
             const dossiers = (article.progressiveExpanders || article.expanders || []);
             if (!dossiers || dossiers.length === 0) return null;
 
