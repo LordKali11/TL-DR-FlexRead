@@ -1,4 +1,4 @@
-import { Article, ArticleSummary, UserProfile } from '../types';
+import { Article, ArticleSummary, UserProfile, SemanticParagraph, ArgumentLayer, ReadingTier, ArgumentFocusTopic } from '../types';
 
 export const CURRENT_USER: UserProfile = {
   name: 'Dr. Felix Meier',
@@ -508,42 +508,289 @@ let memorySummariesCache: ArticleSummary[] | null = null;
 // Populate initial cache
 MOCK_ARTICLES.forEach(a => memoryArticleCache.set(a.id, a));
 
+export interface DynamicReadVariant {
+  article_id: string;
+  original_headline?: string;
+  original_lead?: string;
+  original_reading_time_seconds?: number;
+  mode?: string;
+  title: string;
+  summary: string;
+  actual_content: string;
+  estimated_reading_time_minutes: number;
+  variant_word_count?: number;
+  variant_reading_time_seconds?: number;
+  time_saved_seconds?: number;
+  cached?: boolean;
+  reading_speed_wpm?: number;
+}
+
 /**
- * Fetch article summaries from REST API (/api/articles) with query filtering and fallback
+ * Parses raw text or markdown content into structured SemanticParagraph blocks
+ * with Swiss broadsheet editorial argumentation tags (thesis, evidence, counterpoint, data, context).
  */
-export async function fetchArticles(params?: { topic?: string; q?: string }): Promise<ArticleSummary[]> {
+export function parseRawContentToSemanticParagraphs(
+  rawText: string,
+  readingTimes?: { briefing: number; analytical: number; full: number }
+): SemanticParagraph[] {
+  if (!rawText) return [];
+
+  const rawChunks = rawText.split(/\n\s*\n/).map(c => c.trim()).filter(Boolean);
+  const total = rawChunks.length;
+
+  return rawChunks.map((chunk, idx) => {
+    const id = `p-${idx + 1}`;
+    let layer: ArgumentLayer = 'context';
+    let minTier: ReadingTier = 'full';
+    let text = chunk;
+    let statsMetric: { value: string; label: string } | undefined = undefined;
+
+    // Distribute reading tiers across paragraph flow
+    if (idx === 0 || (total > 4 && idx < 2) || (total <= 4 && idx === 0)) {
+      minTier = 'briefing';
+    } else if (idx < Math.max(3, Math.ceil(total * 0.55))) {
+      minTier = 'analytical';
+    } else {
+      minTier = 'full';
+    }
+
+    if (chunk.startsWith('### ') || chunk.startsWith('## ')) {
+      layer = 'thesis';
+      text = chunk.replace(/^#+\s*/, '');
+    } else if (chunk.startsWith('- **') || chunk.startsWith('* **')) {
+      const match = chunk.match(/^[-*]\s*\*\*([^*]+)\*\*:\s*(.*)$/s);
+      if (match) {
+        const tag = match[1].toLowerCase();
+        text = `**${match[1]}:** ${match[2]}`;
+        if (tag.includes('metric') || tag.includes('data') || tag.includes('figure') || tag.includes('rate') || /\d+%|\$[\d.]+|€[\d.]+|\d+\s*billion|\d+\s*million/.test(match[2])) {
+          layer = 'data';
+          const statMatch = match[2].match(/(\d+(?:\.\d+)?%|\$\d+(?:\.\d+)?(?:\s*[mb]illion)?|€\d+(?:\.\d+)?(?:\s*[mb]illion)?)/i);
+          if (statMatch) {
+            statsMetric = { value: statMatch[1], label: match[1] };
+          }
+        } else if (tag.includes('tension') || tag.includes('conflict') || tag.includes('counter') || tag.includes('critic') || tag.includes('dilemma')) {
+          layer = 'counterpoint';
+        } else if (tag.includes('evidence') || tag.includes('pillar') || tag.includes('development') || tag.includes('shift')) {
+          layer = 'evidence';
+        } else if (tag.includes('essential') || tag.includes('briefing') || tag.includes('crux') || tag.includes('takeaway')) {
+          layer = 'thesis';
+        } else {
+          layer = 'context';
+        }
+      } else {
+        layer = 'evidence';
+      }
+    } else if (/\d+%|\$[\d.]+|€[\d.]+|\b\d+\s*billion\b|\b\d+\s*million\b/.test(chunk) && chunk.length < 250) {
+      layer = 'data';
+      const statMatch = chunk.match(/(\d+(?:\.\d+)?%|\$\d+(?:\.\d+)?(?:\s*[mb]illion)?|€\d+(?:\.\d+)?(?:\s*[mb]illion)?)/i);
+      if (statMatch) {
+        statsMetric = {
+          value: statMatch[1],
+          label: 'Empirical Indicator'
+        };
+      }
+    } else if (idx === 0) {
+      layer = 'thesis';
+    } else if (idx === 1) {
+      layer = 'evidence';
+    } else if (chunk.toLowerCase().includes('however') || chunk.toLowerCase().includes('on the other hand') || chunk.toLowerCase().includes('critics argue')) {
+      layer = 'counterpoint';
+    }
+
+    return {
+      id,
+      layer,
+      minTier,
+      text,
+      statsMetric
+    };
+  });
+}
+
+/**
+ * Adapts any backend NZZ canonical article or summary object to the frontend Article interface.
+ */
+export function adaptBackendArticle(doc: any): Article {
+  const id = String(doc.id || doc.nzz_id || doc.document_id || 'unknown');
+  const slug = doc.slug || id;
+  const title = doc.title || doc.headline || 'Untitled NZZ Article';
+  const subtitle = doc.subtitle || doc.lead || '';
+  const kicker = (doc.kicker || doc.ressort_path || (doc.original_de && doc.original_de.kicker) || doc.section || 'NZZ EDITORIAL').toUpperCase();
+  const topic = doc.topic || doc.section || doc.genre_flag || 'General';
+
+  let author = 'NZZ Editorial Board';
+  if (doc.author) {
+    author = doc.author;
+  } else if (doc.author_line) {
+    author = doc.author_line;
+  } else if (Array.isArray(doc.authors) && doc.authors.length > 0) {
+    author = typeof doc.authors[0] === 'string' ? doc.authors[0] : (doc.authors[0].name || 'NZZ Redaktion');
+  }
+
+  const authorRole = doc.authorRole || doc.author_role || 'Senior Geopolitical & Economics Editor, Zurich';
+  const date = doc.date || doc.published_at || 'August 2026';
+  const publishedAt = doc.publishedAt || doc.published_at || doc.date || 'August 2026';
+
+  let heroImage = 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80';
+  if (doc.heroImage) {
+    heroImage = doc.heroImage;
+  } else if (doc.teaser_image && doc.teaser_image.url) {
+    heroImage = doc.teaser_image.url;
+  } else if (doc.image_url) {
+    heroImage = doc.image_url;
+  }
+
+  const rtSeconds = doc.reading_time_seconds || (doc.preprocessing && doc.preprocessing.reading_time) || 960;
+  const fullMins = Math.max(15, Math.ceil(rtSeconds / 60));
+  const readingTimes = doc.readingTimes || {
+    briefing: 5,
+    analytical: 10,
+    full: fullMins
+  };
+
+  const summaryBullets: string[] = (doc.summaryBullets && doc.summaryBullets.length > 0)
+    ? doc.summaryBullets
+    : (doc.summary_bullets_en && doc.summary_bullets_en.length > 0)
+      ? doc.summary_bullets_en
+      : (doc.takeaways && doc.takeaways.length > 0)
+        ? doc.takeaways
+        : [subtitle].filter(Boolean);
+
+  const takeaways: string[] = (doc.takeaways && doc.takeaways.length > 0)
+    ? doc.takeaways
+    : summaryBullets;
+
+  let paragraphs = doc.paragraphs;
+  if (!paragraphs || paragraphs.length === 0) {
+    const rawText = doc.raw_content || doc.body_text || (Array.isArray(doc.body) ? doc.body.map((b: any) => b.text).join('\n\n') : '') || subtitle;
+    paragraphs = parseRawContentToSemanticParagraphs(rawText, readingTimes);
+  }
+
+  let argumentFocusTopics = doc.argumentFocusTopics;
+  if (!argumentFocusTopics || argumentFocusTopics.length === 0) {
+    const pIds = paragraphs.map((p: any) => p.id);
+    argumentFocusTopics = [
+      {
+        id: 'core-thesis',
+        label: '1. Strategic Pillar & Core Developments',
+        tag: 'STRATEGY',
+        summary: summaryBullets[0] || 'Core strategic implications and immediate geopolitical ramifications.',
+        paragraphIds: pIds.slice(0, Math.min(3, pIds.length))
+      },
+      {
+        id: 'economic-impact',
+        label: '2. Economic Analysis & Empirical Evidence',
+        tag: 'IMPACT',
+        summary: summaryBullets[1] || 'Macroeconomic variables, market pressures, and stakeholder responses.',
+        paragraphIds: pIds.slice(Math.min(3, pIds.length), Math.min(7, pIds.length))
+      }
+    ];
+  }
+
+  return {
+    id,
+    slug,
+    kicker,
+    title,
+    subtitle,
+    author,
+    authorRole,
+    date,
+    publishedAt,
+    topic,
+    heroImage,
+    readingTimes,
+    summaryBullets,
+    takeaways,
+    argumentFocusTopics,
+    paragraphs,
+    expanders: doc.expanders || doc.progressiveExpanders || [],
+    progressiveExpanders: doc.progressiveExpanders || doc.expanders || []
+  };
+}
+
+export interface ArticleListResponse {
+  articles: ArticleSummary[];
+  total: number;
+  offset: number;
+  limit: number;
+}
+
+/**
+ * Fetch article summaries from REST API (/api/articles) with query filtering, pagination, and fallback
+ */
+export async function fetchArticles(params?: {
+  topic?: string;
+  q?: string;
+  offset?: number;
+  limit?: number;
+}): Promise<ArticleListResponse> {
   const queryParts: string[] = [];
   if (params?.topic && params.topic.toLowerCase() !== 'all') {
-    queryParts.push(`topic=${encodeURIComponent(params.topic)}`);
+    queryParts.push(`section=${encodeURIComponent(params.topic)}`);
   }
   if (params?.q) {
+    queryParts.push(`search=${encodeURIComponent(params.q)}`);
     queryParts.push(`q=${encodeURIComponent(params.q)}`);
   }
-  const queryString = queryParts.length > 0 ? `?${queryParts.join('&')}` : '';
-  const url = `/api/articles${queryString}`;
+  const offset = params?.offset ?? 0;
+  const limit = params?.limit ?? 24;
+  queryParts.push(`offset=${offset}`);
+  queryParts.push(`limit=${limit}`);
+  const queryString = `?${queryParts.join('&')}`;
 
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 2500);
-    const res = await fetch(url, {
-      headers: { 'Accept': 'application/json' },
-      signal: controller.signal
-    });
-    clearTimeout(timeoutId);
+  const endpoints = [
+    `/api/articles${queryString}`,
+    `http://127.0.0.1:8000/api/articles${queryString}`
+  ];
 
-    if (res.ok) {
-      const data: ArticleSummary[] = await res.json();
-      if (Array.isArray(data) && data.length > 0) {
-        if (!queryString) memorySummariesCache = data;
-        return data;
+  for (const url of endpoints) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 4000);
+      const res = await fetch(url, {
+        headers: { 'Accept': 'application/json' },
+        signal: controller.signal
+      });
+      clearTimeout(timeoutId);
+
+      if (res.ok) {
+        const raw = await res.json();
+        let list: any[] = [];
+        let total = 0;
+        let respOffset = offset;
+        let respLimit = limit;
+
+        if (Array.isArray(raw)) {
+          list = raw;
+          total = raw.length;
+        } else if (raw && Array.isArray(raw.articles)) {
+          list = raw.articles;
+          total = typeof raw.total === 'number' ? raw.total : list.length;
+          respOffset = typeof raw.offset === 'number' ? raw.offset : offset;
+          respLimit = typeof raw.limit === 'number' ? raw.limit : limit;
+        }
+
+        if (list.length > 0) {
+          const adapted = list.map(item => adaptBackendArticle(item));
+          if (!params?.topic && !params?.q && offset === 0) {
+            memorySummariesCache = adapted;
+          }
+          return {
+            articles: adapted,
+            total,
+            offset: respOffset,
+            limit: respLimit
+          };
+        }
       }
+    } catch (err) {
+      // Continue to next endpoint or fallback
     }
-  } catch (err) {
-    console.warn('[NZZ API] Fallback to embedded canonical articles:', err);
   }
 
   // Fallback to local memory/embedded articles
-  let localResults = [...MOCK_ARTICLES];
+  let localResults = MOCK_ARTICLES.map(a => adaptBackendArticle(a));
   if (params?.topic && params.topic.toLowerCase() !== 'all') {
     localResults = localResults.filter(a => a.topic.toLowerCase() === params.topic!.toLowerCase());
   }
@@ -555,7 +802,14 @@ export async function fetchArticles(params?: { topic?: string; q?: string }): Pr
       a.author.toLowerCase().includes(q)
     );
   }
-  return localResults;
+  const total = localResults.length;
+  const paginated = localResults.slice(offset, offset + limit);
+  return {
+    articles: paginated,
+    total,
+    offset,
+    limit
+  };
 }
 
 /**
@@ -566,29 +820,86 @@ export async function fetchArticleById(id: string): Promise<Article | null> {
     return memoryArticleCache.get(id)!;
   }
 
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 2500);
-    const res = await fetch(`/api/articles/${encodeURIComponent(id)}`, {
-      headers: { 'Accept': 'application/json' },
-      signal: controller.signal
-    });
-    clearTimeout(timeoutId);
+  const endpoints = [
+    `/api/articles/${encodeURIComponent(id)}`,
+    `http://127.0.0.1:8000/api/articles/${encodeURIComponent(id)}`
+  ];
 
-    if (res.ok) {
-      const article: Article = await res.json();
-      if (article && article.id) {
-        memoryArticleCache.set(article.id, article);
-        return article;
+  for (const url of endpoints) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 4000);
+      const res = await fetch(url, {
+        headers: { 'Accept': 'application/json' },
+        signal: controller.signal
+      });
+      clearTimeout(timeoutId);
+
+      if (res.ok) {
+        const raw = await res.json();
+        if (raw && (raw.id || raw.nzz_id || raw.headline || raw.title)) {
+          const adapted = adaptBackendArticle(raw);
+          memoryArticleCache.set(adapted.id, adapted);
+          return adapted;
+        }
       }
+    } catch (err) {
+      // Continue to next endpoint or fallback
     }
-  } catch (err) {
-    console.warn(`[NZZ API] Fallback for article ${id}:`, err);
   }
 
   const local = MOCK_ARTICLES.find(a => a.id === id || a.slug === id) || null;
-  if (local) memoryArticleCache.set(local.id, local);
-  return local;
+  if (local) {
+    const adapted = adaptBackendArticle(local);
+    memoryArticleCache.set(adapted.id, adapted);
+    return adapted;
+  }
+  return null;
+}
+
+/**
+ * Fetch dynamic reading variant (5min, 10min, 15min / full) tailored by AI / backend engine
+ */
+export async function fetchReadingVariant(
+  articleId: string,
+  targetTierOrMinutes: ReadingTier | number | string,
+  wpm: number = 220
+): Promise<DynamicReadVariant | null> {
+  let targetMins = 5;
+  if (typeof targetTierOrMinutes === 'number') {
+    targetMins = targetTierOrMinutes;
+  } else if (targetTierOrMinutes === 'briefing' || targetTierOrMinutes === '5' || targetTierOrMinutes === '5min') {
+    targetMins = 5;
+  } else if (targetTierOrMinutes === 'analytical' || targetTierOrMinutes === '10' || targetTierOrMinutes === '10min') {
+    targetMins = 10;
+  } else if (targetTierOrMinutes === 'full' || targetTierOrMinutes === '15' || targetTierOrMinutes === '15min') {
+    targetMins = 15;
+  }
+
+  const endpoints = [
+    `/api/articles/${encodeURIComponent(articleId)}/read?target_time_minutes=${targetMins}&wpm=${wpm}`,
+    `http://127.0.0.1:8000/api/articles/${encodeURIComponent(articleId)}/read?target_time_minutes=${targetMins}&wpm=${wpm}`
+  ];
+
+  for (const url of endpoints) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 12000);
+      const res = await fetch(url, {
+        headers: { 'Accept': 'application/json' },
+        signal: controller.signal
+      });
+      clearTimeout(timeoutId);
+
+      if (res.ok) {
+        const data: DynamicReadVariant = await res.json();
+        return data;
+      }
+    } catch (err) {
+      // Try next endpoint
+    }
+  }
+  return null;
 }
 
 /**
@@ -632,8 +943,8 @@ export async function recordReadingTime(minutesSaved: number, minutesRead: numbe
  */
 export class ArticleApiService {
   static async getArticles(): Promise<Article[]> {
-    const summaries = await fetchArticles();
-    return summaries as Article[];
+    const res = await fetchArticles();
+    return res.articles as unknown as Article[];
   }
 
   static async getArticleById(id: string): Promise<Article | null> {

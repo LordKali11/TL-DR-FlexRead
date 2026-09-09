@@ -1,13 +1,99 @@
 import json
 import logging
 import re
-from typing import Any, Dict, Optional, Union
+from typing import Any, Dict, List, Optional, Union
+from pydantic import BaseModel, Field
 from ..config import settings
 from ..models.article import Article, ReadingMode, FlexReadVariant, ArticlePreprocessing, ToneCategory, LengthTier
 from .prompt_engine import prompt_engine
 from .preprocessor import preprocessor_service
 
 logger = logging.getLogger(__name__)
+
+class Step1ContextSchema(BaseModel):
+    """Strict schema for Step 1 article context extraction."""
+    main_points: List[str] = Field(description="5 core factual arguments and takeaways")
+    keywords: List[str] = Field(description="5 to 8 domain tags and entities")
+    tone: str = Field(description="Editorial tone: analytical, neutral, investigative, urgent, or reflective")
+    article_length: str = Field(description="Length tier: short, medium, long, or extended")
+    reading_time: int = Field(description="Estimated reading time in seconds")
+    word_count: int = Field(description="Article word count")
+
+class Step2VariantSchema(BaseModel):
+    """Strict schema for Step 2 reading mode variants and transformations."""
+    title: str = Field(description="Mode-adapted article title")
+    summary: str = Field(description="Executive summary lead paragraph")
+    actual_content: str = Field(description="The complete transformed article content in Markdown with headings and structured paragraphs")
+    estimated_reading_time_minutes: int = Field(description="Target reading time budget in minutes (e.g. 5, 10, or 15)")
+    word_count: int = Field(description="Total word count of actual_content")
+
+def robust_json_parse(text: str) -> Dict[str, Any]:
+    """
+    Resilient JSON parsing with multi-layered sanitization:
+    1. Strips markdown code fences.
+    2. Isolates the outermost JSON object braces.
+    3. Parses using json.loads(..., strict=False) to allow raw unescaped control characters.
+    4. Sanitizes non-printable ASCII control characters if needed.
+    5. Regex-based field extraction fallback if JSON structure is damaged.
+    """
+    if not text:
+        return {}
+    cleaned = text.strip()
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
+        cleaned = re.sub(r"\s*```$", "", cleaned)
+    cleaned = cleaned.strip()
+
+    # Find the outermost { ... }
+    start = cleaned.find("{")
+    end = cleaned.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        cleaned = cleaned[start:end+1]
+
+    # Attempt 1: json.loads with strict=False (handles unescaped newlines/tabs inside string literals)
+    try:
+        return json.loads(cleaned, strict=False)
+    except Exception:
+        pass
+
+    # Attempt 2: Sanitize control characters (ASCII 0x00 - 0x1F except \n and \t)
+    sanitized = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", " ", cleaned)
+    try:
+        return json.loads(sanitized, strict=False)
+    except Exception:
+        pass
+
+    # Attempt 3: Regex field extraction as a safety net
+    data: Dict[str, Any] = {}
+    title_m = re.search(r'"title"\s*:\s*"(.*?)"(?:,|\s*\n)', cleaned, re.DOTALL)
+    if title_m:
+        data["title"] = title_m.group(1).replace('\"', '"').strip()
+    summary_m = re.search(r'"summary"\s*:\s*"(.*?)"(?:,|\s*\n)', cleaned, re.DOTALL)
+    if summary_m:
+        data["summary"] = summary_m.group(1).replace('\"', '"').strip()
+    content_m = re.search(r'"actual_content"\s*:\s*"(.*?)"(?:,\s*"[a-zA-Z_]+"|\s*\})', cleaned, re.DOTALL)
+    if content_m:
+        data["actual_content"] = content_m.group(1).replace('\"', '"').replace('\\n', '\n').strip()
+    mins_m = re.search(r'"estimated_reading_time_minutes"\s*:\s*(\d+)', cleaned)
+    if mins_m:
+        data["estimated_reading_time_minutes"] = int(mins_m.group(1))
+    wc_m = re.search(r'"word_count"\s*:\s*(\d+)', cleaned)
+    if wc_m:
+        data["word_count"] = int(wc_m.group(1))
+
+    # Also check context schema fields if present
+    mp_m = re.search(r'"main_points"\s*:\s*\[(.*?)\]', cleaned, re.DOTALL)
+    if mp_m:
+        pts = re.findall(r'"(.*?)"', mp_m.group(1))
+        if pts:
+            data["main_points"] = pts
+    kw_m = re.search(r'"keywords"\s*:\s*\[(.*?)\]', cleaned, re.DOTALL)
+    if kw_m:
+        kws = re.findall(r'"(.*?)"', kw_m.group(1))
+        if kws:
+            data["keywords"] = kws
+
+    return data
 
 class GeminiClientService:
     """
@@ -50,6 +136,66 @@ class GeminiClientService:
             logger.warning(f"Could not initialize google-genai client: {e}. Falling back to offline engine.")
             self._client = None
 
+    def _generate_content_with_retry(
+        self,
+        contents: Any,
+        system_instruction: Optional[str] = None,
+        temperature: float = 0.2,
+        response_schema: Optional[Any] = None
+    ) -> Optional[Any]:
+        """
+        Executes models.generate_content with:
+        1. automatic_function_calling disabled (prevents SDK warnings and unnecessary AFC overhead).
+        2. Structured JSON output via response_schema and response_mime_type="application/json".
+        3. Automatic model fallback chain: tries configured model, then gemini-3.6-flash, gemini-3.7-flash, gemini-flash-latest.
+        """
+        if not self._client:
+            return None
+
+        from google.genai import types
+
+        config_kwargs: Dict[str, Any] = {
+            "system_instruction": system_instruction,
+            "temperature": temperature,
+            "response_mime_type": "application/json",
+            "automatic_function_calling": types.AutomaticFunctionCallingConfig(disable=True)
+        }
+        if response_schema:
+            config_kwargs["response_schema"] = response_schema
+
+        config = types.GenerateContentConfig(**config_kwargs)
+
+        models_to_try = []
+        for m in [self.model_name, "gemini-3.6-flash", "gemini-3.7-flash", "gemini-flash-latest"]:
+            if m and m not in models_to_try:
+                models_to_try.append(m)
+
+        last_error = None
+        for candidate_model in models_to_try:
+            try:
+                response = self._client.models.generate_content(
+                    model=candidate_model,
+                    contents=contents,
+                    config=config
+                )
+                if response and response.text:
+                    if candidate_model != self.model_name:
+                        logger.info(f"Gemini responded using fallback model: {candidate_model}")
+                    return response
+            except Exception as e:
+                err_str = str(e)
+                last_error = e
+                if "404" in err_str or "NOT_FOUND" in err_str or "no longer available" in err_str:
+                    logger.warning(f"Model '{candidate_model}' unavailable (404/NOT_FOUND). Attempting fallback...")
+                    continue
+                else:
+                    logger.warning(f"Gemini call with '{candidate_model}' failed: {e}. Trying fallback...")
+                    continue
+
+        if last_error:
+            logger.error(f"All Gemini candidate models failed: {last_error}")
+        return None
+
     def extract_context(
         self,
         article: Union[Article, Dict[str, Any]],
@@ -86,22 +232,14 @@ class GeminiClientService:
             try:
                 system_instruction = prompt_engine.get_system_instruction()
                 step1_prompt = prompt_engine.create_preprocessing_prompt(article_dict)
-                from google.genai import types
-                response = self._client.models.generate_content(
-                    model=self.model_name,
+                response = self._generate_content_with_retry(
                     contents=step1_prompt,
-                    config=types.GenerateContentConfig(
-                        system_instruction=system_instruction,
-                        temperature=0.1,
-                        response_mime_type="application/json"
-                    )
+                    system_instruction=system_instruction,
+                    temperature=0.1,
+                    response_schema=Step1ContextSchema
                 )
                 if response and response.text:
-                    cleaned_text = response.text.strip()
-                    if cleaned_text.startswith("```"):
-                        cleaned_text = re.sub(r"^```(?:json)?\n", "", cleaned_text)
-                        cleaned_text = re.sub(r"\n```$", "", cleaned_text)
-                    data = json.loads(cleaned_text)
+                    data = robust_json_parse(response.text)
 
                     # Extract & validate fields
                     main_points = data.get("main_points") or []
@@ -222,22 +360,14 @@ class GeminiClientService:
                     context_dict=context_dict,
                     mode=resolved_mode
                 )
-                from google.genai import types
-                response = self._client.models.generate_content(
-                    model=self.model_name,
+                response = self._generate_content_with_retry(
                     contents=step2_prompt,
-                    config=types.GenerateContentConfig(
-                        system_instruction=system_instruction,
-                        temperature=0.2,
-                        response_mime_type="application/json"
-                    )
+                    system_instruction=system_instruction,
+                    temperature=0.2,
+                    response_schema=Step2VariantSchema
                 )
                 if response and response.text:
-                    cleaned_text = response.text.strip()
-                    if cleaned_text.startswith("```"):
-                        cleaned_text = re.sub(r"^```(?:json)?\n", "", cleaned_text)
-                        cleaned_text = re.sub(r"\n```$", "", cleaned_text)
-                    data = json.loads(cleaned_text)
+                    data = robust_json_parse(response.text)
 
                     title = data.get("title", article_obj.headline)
                     summary = data.get("summary", article_obj.lead)
@@ -328,26 +458,17 @@ class GeminiClientService:
         user_prompt = prompt_engine.create_generation_prompt(article, mode)
         system_instruction = prompt_engine.get_system_instruction()
 
-        response = self._client.models.generate_content(
-            model=self.model_name,
+        response = self._generate_content_with_retry(
             contents=user_prompt,
-            config={
-                "system_instruction": system_instruction,
-                "response_mime_type": "application/json",
-                "temperature": 0.2,
-            }
+            system_instruction=system_instruction,
+            temperature=0.2,
+            response_schema=Step2VariantSchema
         )
 
         if not response or not response.text:
             return None
 
-        raw_text = response.text.strip()
-        # Clean any accidental markdown fences
-        if raw_text.startswith("```"):
-            raw_text = re.sub(r"^```(?:json)?\n", "", raw_text)
-            raw_text = re.sub(r"\n```$", "", raw_text)
-
-        data = json.loads(raw_text)
+        data = robust_json_parse(response.text)
         title = data.get("title", article.headline)
         summary = data.get("summary", article.lead)
         actual_content = data.get("actual_content", "")
@@ -723,22 +844,14 @@ class GeminiClientService:
             try:
                 system_instruction = prompt_engine.get_system_instruction()
                 user_prompt = prompt_engine.create_raw_text_prompt(raw_text, target_mins or mode.value)
-                from google.genai import types
-                response = self._client.models.generate_content(
-                    model=self.model_name,
+                response = self._generate_content_with_retry(
                     contents=user_prompt,
-                    config=types.GenerateContentConfig(
-                        system_instruction=system_instruction,
-                        temperature=0.2,
-                        response_mime_type="application/json"
-                    )
+                    system_instruction=system_instruction,
+                    temperature=0.2,
+                    response_schema=Step2VariantSchema
                 )
                 if response and response.text:
-                    cleaned_json = response.text.strip()
-                    if cleaned_json.startswith("```"):
-                        cleaned_json = re.sub(r"^```(?:json)?\n", "", cleaned_json)
-                        cleaned_json = re.sub(r"\n```$", "", cleaned_json)
-                    data = json.loads(cleaned_json)
+                    data = robust_json_parse(response.text)
                     if "title" in data and "actual_content" in data:
                         content = data["actual_content"]
                         wc = data.get("word_count") or len(content.split())

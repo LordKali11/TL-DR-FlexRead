@@ -30,8 +30,8 @@ def trigger_ingestion(force_reload: bool = False):
 def list_articles(
     section: Optional[str] = Query(None, description="Filter by section (e.g. Wirtschaft, Schweiz)"),
     search: Optional[str] = Query(None, description="Search term in headline or lead"),
-    offset: int = Query(0, ge=0),
-    limit: int = Query(20, ge=1, le=100)
+    offset: int = Query(0, ge=0, description="Offset for pagination"),
+    limit: int = Query(24, ge=1, le=200, description="Number of articles to return (max 200)")
 ):
     """Returns paginated articles list with preprocessing summary."""
     articles, total = article_ingestion_service.list_articles(

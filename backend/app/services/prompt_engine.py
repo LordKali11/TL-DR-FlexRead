@@ -68,7 +68,8 @@ READING MODES SPECIFICATION:
   * Compute estimated_reading_time_minutes based on total word count at 200 words per minute.
 
 OUTPUT FORMAT REQUIREMENTS:
-Return strict JSON matching this structure:
+Return strict RFC 8259 JSON matching this structure:
+CRITICAL: Escape all double quotes and internal newlines within JSON string values (e.g. use \n for line breaks, \" for nested quotes) so that the JSON string literals parse cleanly.
 {
   "title": "Adapted headline fitting the selected mode",
   "summary": "1-2 sentence executive briefing",
@@ -153,6 +154,8 @@ Compute the exact output target length assuming an average reading speed of 200-
 - 15 minutes: ~3,000 to 3,750 words
 
 Produce the final content adhering strictly to the JSON contract without changing the core factual accuracy or editorial integrity of the input text:
+CRITICAL JSON FORMATTING REQUIREMENT:
+Escape all quotes and newlines inside the JSON string values (e.g. use \n for line breaks, \" for inner quotes) so that the entire output is strictly valid RFC 8259 JSON.
 {{
   "title": "Adapted, clear headline fitting the duration",
   "summary": "1-2 sentence executive briefing",
@@ -224,7 +227,7 @@ If a numerical time (5, 10, or 15) is requested: Transform raw_text into the tar
 
 Calculate and populate accurate word_count and estimated_reading_time_minutes values.
 
-Return valid JSON strictly adhering to the output format.
+Return valid RFC 8259 JSON strictly adhering to the output format. Ensure all internal newlines and quotes inside strings are escaped properly (e.g. use \n and \").
 """
 
     @classmethod

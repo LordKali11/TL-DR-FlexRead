@@ -6,12 +6,20 @@ interface ArticleGridProps {
   articles: Article[];
   user: UserProfile;
   onOpenReader: (article: Article, initialTier?: ReadingTier) => void;
+  onLoadMore?: () => void;
+  hasMore?: boolean;
+  isLoadingMore?: boolean;
+  totalArticles?: number;
 }
 
 export const ArticleGrid: React.FC<ArticleGridProps> = ({
   articles,
   user,
-  onOpenReader
+  onOpenReader,
+  onLoadMore,
+  hasMore = false,
+  isLoadingMore = false,
+  totalArticles
 }) => {
   const [selectedTopic, setSelectedTopic] = useState<string>('All');
 
@@ -51,7 +59,7 @@ export const ArticleGrid: React.FC<ArticleGridProps> = ({
         <div className="dashboard-metrics-bar">
           <div className="metric-cell">
             <span className="metric-num">
-              <span className="num-accent">{articles.length}</span>
+              <span className="num-accent">{totalArticles && totalArticles > 0 ? totalArticles : articles.length}</span>
             </span>
             <span className="metric-desc">Curated Articles</span>
           </div>
@@ -105,6 +113,45 @@ export const ArticleGrid: React.FC<ArticleGridProps> = ({
             />
           ))}
         </div>
+
+        {hasMore && onLoadMore && (
+          <div className="load-more-container" style={{ textAlign: 'center', marginTop: '3rem', marginBottom: '2.5rem' }}>
+            <button
+              onClick={onLoadMore}
+              disabled={isLoadingMore}
+              className="btn-load-more"
+              style={{
+                fontFamily: 'var(--font-sans, "Inter", -apple-system, sans-serif)',
+                fontSize: '0.85rem',
+                fontWeight: 600,
+                letterSpacing: '0.08em',
+                textTransform: 'uppercase',
+                padding: '0.9rem 2.5rem',
+                border: '1.5px solid #111',
+                backgroundColor: isLoadingMore ? '#f3f4f6' : '#fff',
+                color: '#111',
+                cursor: isLoadingMore ? 'wait' : 'pointer',
+                transition: 'all 0.2s cubic-bezier(0.16, 1, 0.3, 1)',
+                borderRadius: '2px',
+                boxShadow: '0 2px 4px rgba(0,0,0,0.04)'
+              }}
+              onMouseEnter={(e) => {
+                if (!isLoadingMore) {
+                  e.currentTarget.style.backgroundColor = '#111';
+                  e.currentTarget.style.color = '#fff';
+                }
+              }}
+              onMouseLeave={(e) => {
+                if (!isLoadingMore) {
+                  e.currentTarget.style.backgroundColor = '#fff';
+                  e.currentTarget.style.color = '#111';
+                }
+              }}
+            >
+              {isLoadingMore ? 'Loading Articles…' : `Load More Curated Articles (${articles.length} of ${totalArticles || '167'})`}
+            </button>
+          </div>
+        )}
       </section>
     </main>
   );

@@ -58,7 +58,7 @@ class Settings(BaseSettings):
     GOOGLE_CLOUD_LOCATION: str = "europe-west1"
     USE_VERTEX_AI: bool = False
     GEMINI_API_KEY: Optional[str] = None
-    GEMINI_MODEL: str = "gemini-2.5-flash"
+    GEMINI_MODEL: str = "gemini-3.6-flash"
     
     # Language focus
     DEFAULT_LANGUAGE: str = "en"

@@ -1,8 +1,9 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Article, ReadingTier, ArgumentFocusTopic, SemanticParagraph, ProgressiveExpander } from '../types';
 import { ReadMoreDecisionHub } from './ReadMoreDecisionHub';
 import { FloatingDepthBubble } from './FloatingDepthBubble';
 import { NzzTransitionOverlay, TransitionMeta } from './NzzTransitionOverlay';
+import { fetchReadingVariant, parseRawContentToSemanticParagraphs, DynamicReadVariant } from '../services/articleApi';
 
 interface FlexReaderViewProps {
   article: Article;
@@ -35,6 +36,10 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   const [audioPlaying, setAudioPlaying] = useState(false);
   const [readCompleted, setReadCompleted] = useState(false);
 
+  // Dynamic AI Reading Variant State
+  const [variantData, setVariantData] = useState<DynamicReadVariant | null>(null);
+  const [loadingVariant, setLoadingVariant] = useState<boolean>(false);
+
   // NZZ Broadsheet Transition Animation State
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [transitionMeta, setTransitionMeta] = useState<TransitionMeta | null>(null);
@@ -56,8 +61,31 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
     setExpandedIds({});
     setIsTransitioning(false);
     setTransitionMeta(null);
+    setVariantData(null);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [article.id, initialTier]);
+
+  // Dynamically load tailored reading variant from backend (5m, 10m, 15m)
+  useEffect(() => {
+    let isCurrent = true;
+    const targetMins = tier === 'briefing' ? 5 : (tier === 'analytical' ? 10 : 15);
+    setLoadingVariant(true);
+
+    fetchReadingVariant(article.id, targetMins)
+      .then(data => {
+        if (isCurrent && data) {
+          setVariantData(data);
+        }
+      })
+      .catch(err => {
+        console.warn('[FlexReaderView] Dynamic reading variant fetch failed:', err);
+      })
+      .finally(() => {
+        if (isCurrent) setLoadingVariant(false);
+      });
+
+    return () => { isCurrent = false; };
+  }, [article.id, tier]);
 
   const changeReadingTier = (targetTier: 'briefing' | 'analytical' | 'full') => {
     if (targetTier === tier) return;
@@ -125,7 +153,12 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   };
 
   const handleMarkComplete = () => {
-    const saved = article.readingTimes.full - article.readingTimes[tier];
+    let saved = 0;
+    if (variantData && variantData.time_saved_seconds) {
+      saved = Math.round(variantData.time_saved_seconds / 60);
+    } else {
+      saved = article.readingTimes.full - article.readingTimes[tier];
+    }
     onUpdateStats(Math.max(2, saved));
     setReadCompleted(true);
   };
@@ -133,9 +166,21 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   const tierRanking = { briefing: 1, analytical: 2, full: 3 };
   const currentTierRank = tierRanking[tier];
 
-  const visibleParagraphs = article.paragraphs.filter(p => {
-    const pRank = tierRanking[p.minTier];
-    if (pRank > currentTierRank) return false;
+  // Derive semantic paragraphs from backend dynamic variant if available
+  const dynamicParagraphs = useMemo(() => {
+    if (variantData && variantData.actual_content) {
+      return parseRawContentToSemanticParagraphs(variantData.actual_content);
+    }
+    return null;
+  }, [variantData]);
+
+  const paragraphsSource = dynamicParagraphs || article.paragraphs;
+
+  const visibleParagraphs = paragraphsSource.filter(p => {
+    if (!dynamicParagraphs) {
+      const pRank = tierRanking[p.minTier];
+      if (pRank > currentTierRank) return false;
+    }
     return activeLayers[p.layer];
   });
 
@@ -146,6 +191,10 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   const estimatedSeconds = Math.round((wordsCount / 220) * 60);
   const estMins = Math.floor(estimatedSeconds / 60);
   const estSecs = estimatedSeconds % 60;
+
+  const displayedTitle = (variantData && variantData.title) ? variantData.title : article.title;
+  const displayedSubtitle = (variantData && variantData.summary) ? variantData.summary : article.subtitle;
+  const readoutTierTime = (variantData && variantData.estimated_reading_time_minutes) ? variantData.estimated_reading_time_minutes : article.readingTimes[tier];
 
   return (
     <div className="flex-reader-page">
@@ -166,8 +215,8 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
             <span className="reader-article-kicker">{article.kicker}</span>
             <span className="reader-dot">·</span>
             <span className="reader-time-readout">
-              {tier === 'briefing' ? `${article.readingTimes.briefing}m Briefing` : tier === 'analytical' ? `${article.readingTimes.analytical}m Analytical` : `${article.readingTimes.full}m Full`}
-              {' '}(~{estMins > 0 ? `${estMins}m ` : ''}{estSecs}s at 220 wpm)
+              {tier === 'briefing' ? `${readoutTierTime}m Briefing` : tier === 'analytical' ? `${readoutTierTime}m Analytical` : `${readoutTierTime}m Full`}
+              {' '}(~{estMins > 0 ? `${estMins}m ` : ''}{estSecs}s at 220 wpm{loadingVariant ? ' · Updating…' : ''})
             </span>
           </div>
 
@@ -194,8 +243,8 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
           {/* Authentic Broadsheet Header: Headline, Kicker, Subtitle, Byline */}
           <header className="article-headline-block">
             <div className="article-kicker-tag">{article.kicker}</div>
-            <h1 className="article-title">{article.title}</h1>
-            <p className="article-subtitle">{article.subtitle}</p>
+            <h1 className="article-title">{displayedTitle}</h1>
+            <p className="article-subtitle">{displayedSubtitle}</p>
 
             <div className="article-byline-bar">
               <div className="byline-meta">
