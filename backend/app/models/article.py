@@ -42,13 +42,18 @@ class ReadingMode(str, Enum):
                 "5 minutes": cls.FIVE_MINUTES,
                 "5-minutes": cls.FIVE_MINUTES,
                 "5_minutes": cls.FIVE_MINUTES,
+                "briefing": cls.FIVE_MINUTES,
+                "executive briefing": cls.FIVE_MINUTES,
                 "10 minutes": cls.TEN_MINUTES,
                 "10-minutes": cls.TEN_MINUTES,
                 "10_minutes": cls.TEN_MINUTES,
+                "analytical": cls.TEN_MINUTES,
+                "analytical depth": cls.TEN_MINUTES,
                 "full": cls.FULL,
                 "full article": cls.FULL,
                 "full-article": cls.FULL,
                 "full_article": cls.FULL,
+                "full narrative": cls.FULL,
                 "original": cls.FULL,
             }
             if val_clean in aliases:
@@ -181,6 +186,40 @@ class ArticleSummary(BaseModel):
         ReadingMode.TEN_MINUTES,
         ReadingMode.FIFTEEN_MINUTES
     ]
+    # Frontend Compatibility Fields
+    title: Optional[str] = None
+    subtitle: Optional[str] = None
+    topic: Optional[str] = None
+    heroImage: Optional[str] = None
+    kicker: Optional[str] = None
+    readingTimes: Optional[Dict[str, int]] = None
+    summaryBullets: Optional[List[str]] = None
+    takeaways: Optional[List[str]] = None
+
+    @model_validator(mode="after")
+    def sync_frontend_fields(self) -> "ArticleSummary":
+        if not self.title:
+            self.title = self.headline
+        if not self.subtitle:
+            self.subtitle = self.lead
+        if not self.topic:
+            self.topic = self.section or "General"
+        if not self.heroImage:
+            self.heroImage = (self.teaser_image.get("url") if self.teaser_image else None) or self.image_url or ""
+        if not self.kicker:
+            self.kicker = self.section.upper() if self.section else "NZZ EDITORIAL"
+        if not self.summaryBullets:
+            self.summaryBullets = list(self.summary_bullets_en)
+        if not self.takeaways:
+            self.takeaways = list(self.summary_bullets_en)
+        if not self.readingTimes:
+            full_mins = max(15, round(self.reading_time_seconds / 60)) if self.reading_time_seconds else 15
+            self.readingTimes = {
+                "briefing": 5,
+                "analytical": 10,
+                "full": full_mins
+            }
+        return self
 
 class Article(BaseModel):
     """
@@ -235,6 +274,15 @@ class Article(BaseModel):
     article_length: LengthTier = LengthTier.MEDIUM
     tone: ToneCategory = ToneCategory.ANALYTICAL
     variants: Dict[str, FlexReadVariant] = Field(default_factory=dict)
+    # Frontend Compatibility Fields
+    title: Optional[str] = None
+    subtitle: Optional[str] = None
+    topic: Optional[str] = None
+    heroImage: Optional[str] = None
+    kicker: Optional[str] = None
+    readingTimes: Optional[Dict[str, int]] = None
+    summaryBullets: Optional[List[str]] = None
+    takeaways: Optional[List[str]] = None
 
     @model_validator(mode="after")
     def sync_fields(self) -> "Article":
@@ -306,6 +354,29 @@ class Article(BaseModel):
 
         if not self.character_count:
             self.character_count = len(self.body_text or self.raw_content or "")
+
+        # Synchronize frontend compatibility fields
+        if not self.title:
+            self.title = self.headline
+        if not self.subtitle:
+            self.subtitle = self.lead
+        if not self.topic:
+            self.topic = self.section or "General"
+        if not self.heroImage:
+            self.heroImage = (self.teaser_image.get("url") if self.teaser_image else None) or self.image_url or ""
+        if not self.kicker:
+            self.kicker = (self.ressort_path.upper() if self.ressort_path else (self.section.upper() if self.section else "NZZ EDITORIAL"))
+        if not self.summaryBullets:
+            self.summaryBullets = list(self.summary_bullets_en)
+        if not self.takeaways:
+            self.takeaways = list(self.summary_bullets_en)
+        if not self.readingTimes:
+            full_mins = max(15, round(self.reading_time_seconds / 60)) if self.reading_time_seconds else 15
+            self.readingTimes = {
+                "briefing": 5,
+                "analytical": 10,
+                "full": full_mins
+            }
 
         return self
 

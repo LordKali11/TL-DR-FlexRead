@@ -504,52 +504,307 @@ window.CURRENT_USER = {
 window.NzzApiClient = {
   cache: new Map(),
 
-  async fetchArticles(topic, query) {
-    const params = [];
-    if (topic && topic !== 'All') params.push('topic=' + encodeURIComponent(topic));
-    if (query) params.push('q=' + encodeURIComponent(query));
-    const qs = params.length > 0 ? '?' + params.join('&') : '';
+  parseRawContentToSemanticParagraphs(rawText, readingTimes) {
+    if (!rawText) return [];
+    const rawChunks = rawText.split(/\n\s*\n/).map(c => c.trim()).filter(Boolean);
+    const total = rawChunks.length;
 
-    try {
-      const res = await fetch('/api/articles' + qs);
-      if (res.ok) {
-        const data = await res.json();
-        if (Array.isArray(data) && data.length > 0) return data;
+    return rawChunks.map((chunk, idx) => {
+      const id = 'p-' + (idx + 1);
+      let layer = 'context';
+      let minTier = 'full';
+      let text = chunk;
+      let statsMetric = undefined;
+
+      if (idx === 0 || (total > 4 && idx < 2) || (total <= 4 && idx === 0)) {
+        minTier = 'briefing';
+      } else if (idx < Math.max(3, Math.ceil(total * 0.55))) {
+        minTier = 'analytical';
+      } else {
+        minTier = 'full';
       }
-    } catch (e) {
-      console.warn('[NZZ Client] Falling back to bundled articles:', e);
+
+      if (chunk.startsWith('### ') || chunk.startsWith('## ')) {
+        layer = 'thesis';
+        text = chunk.replace(/^#+\s*/, '');
+      } else if (chunk.startsWith('- **') || chunk.startsWith('* **')) {
+        const match = chunk.match(/^[-*]\s*\*\*([^*]+)\*\*:\s*(.*)$/s);
+        if (match) {
+          const tag = match[1].toLowerCase();
+          text = '**' + match[1] + ':** ' + match[2];
+          if (tag.includes('metric') || tag.includes('data') || tag.includes('figure') || tag.includes('rate') || /\d+%|\$[\d.]+|€[\d.]+|\d+\s*billion|\d+\s*million/.test(match[2])) {
+            layer = 'data';
+            const statMatch = match[2].match(/(\d+(?:\.\d+)?%|\$\d+(?:\.\d+)?(?:\s*[mb]illion)?|€\d+(?:\.\d+)?(?:\s*[mb]illion)?)/i);
+            if (statMatch) {
+              statsMetric = { value: statMatch[1], label: match[1] };
+            }
+          } else if (tag.includes('tension') || tag.includes('conflict') || tag.includes('counter') || tag.includes('critic') || tag.includes('dilemma')) {
+            layer = 'counterpoint';
+          } else if (tag.includes('evidence') || tag.includes('pillar') || tag.includes('development') || tag.includes('shift')) {
+            layer = 'evidence';
+          } else if (tag.includes('essential') || tag.includes('briefing') || tag.includes('crux') || tag.includes('takeaway')) {
+            layer = 'thesis';
+          } else {
+            layer = 'context';
+          }
+        } else {
+          layer = 'evidence';
+        }
+      } else if (/\d+%|\$[\d.]+|€[\d.]+|\b\d+\s*billion\b|\b\d+\s*million\b/.test(chunk) && chunk.length < 250) {
+        layer = 'data';
+        const statMatch = chunk.match(/(\d+(?:\.\d+)?%|\$\d+(?:\.\d+)?(?:\s*[mb]illion)?|€\d+(?:\.\d+)?(?:\s*[mb]illion)?)/i);
+        if (statMatch) {
+          statsMetric = { value: statMatch[1], label: 'Empirical Indicator' };
+        }
+      } else if (idx === 0) {
+        layer = 'thesis';
+      } else if (idx === 1) {
+        layer = 'evidence';
+      } else if (chunk.toLowerCase().includes('however') || chunk.toLowerCase().includes('on the other hand') || chunk.toLowerCase().includes('critics argue')) {
+        layer = 'counterpoint';
+      }
+
+      return { id, layer, minTier, text, statsMetric };
+    });
+  },
+
+  adaptBackendArticle(doc) {
+    const id = String(doc.id || doc.nzz_id || doc.document_id || 'unknown');
+    const slug = doc.slug || id;
+    const title = doc.title || doc.headline || 'Untitled NZZ Article';
+    const subtitle = doc.subtitle || doc.lead || '';
+    const kicker = (doc.kicker || doc.ressort_path || (doc.original_de && doc.original_de.kicker) || doc.section || 'NZZ EDITORIAL').toUpperCase();
+    const topic = doc.topic || doc.section || doc.genre_flag || 'General';
+
+    let author = 'NZZ Editorial Board';
+    if (doc.author) {
+      author = doc.author;
+    } else if (doc.author_line) {
+      author = doc.author_line;
+    } else if (Array.isArray(doc.authors) && doc.authors.length > 0) {
+      author = typeof doc.authors[0] === 'string' ? doc.authors[0] : (doc.authors[0].name || 'NZZ Redaktion');
     }
 
-    let list = window.MOCK_ARTICLES;
+    const authorRole = doc.authorRole || doc.author_role || 'Senior Geopolitical & Economics Editor, Zurich';
+    const date = doc.date || doc.published_at || 'August 2026';
+    const publishedAt = doc.publishedAt || doc.published_at || doc.date || 'August 2026';
+
+    let heroImage = 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80';
+    if (doc.heroImage) {
+      heroImage = doc.heroImage;
+    } else if (doc.teaser_image && doc.teaser_image.url) {
+      heroImage = doc.teaser_image.url;
+    } else if (doc.image_url) {
+      heroImage = doc.image_url;
+    }
+
+    const rtSeconds = doc.reading_time_seconds || (doc.preprocessing && doc.preprocessing.reading_time) || 960;
+    const fullMins = Math.max(15, Math.ceil(rtSeconds / 60));
+    const readingTimes = doc.readingTimes || {
+      briefing: 5,
+      analytical: 10,
+      full: fullMins
+    };
+
+    const summaryBullets = (doc.summaryBullets && doc.summaryBullets.length > 0)
+      ? doc.summaryBullets
+      : (doc.summary_bullets_en && doc.summary_bullets_en.length > 0)
+        ? doc.summary_bullets_en
+        : (doc.takeaways && doc.takeaways.length > 0)
+          ? doc.takeaways
+          : [subtitle].filter(Boolean);
+
+    const takeaways = (doc.takeaways && doc.takeaways.length > 0)
+      ? doc.takeaways
+      : summaryBullets;
+
+    let paragraphs = doc.paragraphs;
+    if (!paragraphs || paragraphs.length === 0) {
+      const rawText = doc.raw_content || doc.body_text || (Array.isArray(doc.body) ? doc.body.map(b => b.text).join('\n\n') : '') || subtitle;
+      paragraphs = this.parseRawContentToSemanticParagraphs(rawText, readingTimes);
+    }
+
+    let argumentFocusTopics = doc.argumentFocusTopics;
+    if (!argumentFocusTopics || argumentFocusTopics.length === 0) {
+      const pIds = paragraphs.map(p => p.id);
+      argumentFocusTopics = [
+        {
+          id: 'core-thesis',
+          label: '1. Strategic Pillar & Core Developments',
+          tag: 'STRATEGY',
+          summary: summaryBullets[0] || 'Core strategic implications and immediate geopolitical ramifications.',
+          paragraphIds: pIds.slice(0, Math.min(3, pIds.length))
+        },
+        {
+          id: 'economic-impact',
+          label: '2. Economic Analysis & Empirical Evidence',
+          tag: 'IMPACT',
+          summary: summaryBullets[1] || 'Macroeconomic variables, market pressures, and stakeholder responses.',
+          paragraphIds: pIds.slice(Math.min(3, pIds.length), Math.min(7, pIds.length))
+        }
+      ];
+    }
+
+    return {
+      id,
+      slug,
+      kicker,
+      title,
+      subtitle,
+      author,
+      authorRole,
+      date,
+      publishedAt,
+      topic,
+      heroImage,
+      readingTimes,
+      summaryBullets,
+      takeaways,
+      argumentFocusTopics,
+      paragraphs,
+      expanders: doc.expanders || doc.progressiveExpanders || [],
+      progressiveExpanders: doc.progressiveExpanders || doc.expanders || []
+    };
+  },
+
+  async fetchArticles(topicOrOptions, query, optOffset, optLimit) {
+    let topic, q, offset, limit;
+    if (topicOrOptions && typeof topicOrOptions === 'object') {
+      topic = topicOrOptions.topic;
+      q = topicOrOptions.q;
+      offset = topicOrOptions.offset ?? 0;
+      limit = topicOrOptions.limit ?? 24;
+    } else {
+      topic = topicOrOptions;
+      q = query;
+      offset = optOffset ?? 0;
+      limit = optLimit ?? 24;
+    }
+
+    const params = [];
+    if (topic && topic !== 'All') params.push('section=' + encodeURIComponent(topic));
+    if (q) {
+      params.push('search=' + encodeURIComponent(q));
+      params.push('q=' + encodeURIComponent(q));
+    }
+    params.push('offset=' + offset);
+    params.push('limit=' + limit);
+    const qs = '?' + params.join('&');
+
+    const endpoints = [
+      '/api/articles' + qs,
+      'http://127.0.0.1:8000/api/articles' + qs
+    ];
+
+    for (const url of endpoints) {
+      try {
+        const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+        if (res.ok) {
+          const raw = await res.json();
+          let list = [];
+          let total = 0;
+          let respOffset = offset;
+          let respLimit = limit;
+
+          if (Array.isArray(raw)) {
+            list = raw;
+            total = raw.length;
+          } else if (raw && Array.isArray(raw.articles)) {
+            list = raw.articles;
+            total = typeof raw.total === 'number' ? raw.total : list.length;
+            respOffset = typeof raw.offset === 'number' ? raw.offset : offset;
+            respLimit = typeof raw.limit === 'number' ? raw.limit : limit;
+          }
+          if (list.length > 0) {
+            const adapted = list.map(item => this.adaptBackendArticle(item));
+            return {
+              articles: adapted,
+              total,
+              offset: respOffset,
+              limit: respLimit
+            };
+          }
+        }
+      } catch (e) {
+        // try next endpoint
+      }
+    }
+
+    let list = (window.MOCK_ARTICLES || []).map(a => this.adaptBackendArticle(a));
     if (topic && topic !== 'All') {
       list = list.filter(a => a.topic.toLowerCase() === topic.toLowerCase());
     }
-    if (query) {
-      const q = query.toLowerCase();
-      list = list.filter(a => a.title.toLowerCase().includes(q) || a.subtitle.toLowerCase().includes(q));
+    if (q) {
+      const queryLower = q.toLowerCase();
+      list = list.filter(a => a.title.toLowerCase().includes(queryLower) || a.subtitle.toLowerCase().includes(queryLower));
     }
-    return list;
+    const total = list.length;
+    const paginated = list.slice(offset, offset + limit);
+    return {
+      articles: paginated,
+      total,
+      offset,
+      limit
+    };
   },
 
   async fetchArticleById(id) {
     if (this.cache.has(id)) return this.cache.get(id);
 
-    try {
-      const res = await fetch('/api/articles/' + encodeURIComponent(id));
-      if (res.ok) {
-        const article = await res.json();
-        if (article && article.id) {
-          this.cache.set(article.id, article);
-          return article;
+    const endpoints = [
+      '/api/articles/' + encodeURIComponent(id),
+      'http://127.0.0.1:8000/api/articles/' + encodeURIComponent(id)
+    ];
+
+    for (const url of endpoints) {
+      try {
+        const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+        if (res.ok) {
+          const raw = await res.json();
+          if (raw && (raw.id || raw.nzz_id || raw.headline || raw.title)) {
+            const adapted = this.adaptBackendArticle(raw);
+            this.cache.set(adapted.id, adapted);
+            return adapted;
+          }
         }
-      }
-    } catch (e) {
-      console.warn('[NZZ Client] Error fetching article detail:', e);
+      } catch (e) {}
     }
 
-    const found = window.MOCK_ARTICLES.find(a => a.id === id || a.slug === id) || null;
-    if (found) this.cache.set(found.id, found);
-    return found;
+    const found = (window.MOCK_ARTICLES || []).find(a => a.id === id || a.slug === id) || null;
+    if (found) {
+      const adapted = this.adaptBackendArticle(found);
+      this.cache.set(adapted.id, adapted);
+      return adapted;
+    }
+    return null;
+  },
+
+  async fetchReadingVariant(articleId, targetTierOrMinutes, wpm = 220) {
+    let targetMins = 5;
+    if (typeof targetTierOrMinutes === 'number') {
+      targetMins = targetTierOrMinutes;
+    } else if (targetTierOrMinutes === 'briefing' || targetTierOrMinutes === '5') {
+      targetMins = 5;
+    } else if (targetTierOrMinutes === 'analytical' || targetTierOrMinutes === '10') {
+      targetMins = 10;
+    } else if (targetTierOrMinutes === 'full' || targetTierOrMinutes === '15') {
+      targetMins = 15;
+    }
+
+    const endpoints = [
+      `/api/articles/${encodeURIComponent(articleId)}/read?target_time_minutes=${targetMins}&wpm=${wpm}`,
+      `http://127.0.0.1:8000/api/articles/${encodeURIComponent(articleId)}/read?target_time_minutes=${targetMins}&wpm=${wpm}`
+    ];
+
+    for (const url of endpoints) {
+      try {
+        const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+        if (res.ok) {
+          return await res.json();
+        }
+      } catch (e) {}
+    }
+    return null;
   },
 
   async recordReadingTime(minutesSaved, minutesRead) {
@@ -561,8 +816,11 @@ window.NzzApiClient = {
       });
       if (res.ok) return await res.json();
     } catch (e) {}
-    window.CURRENT_USER.minutesSavedToday += (minutesSaved || 0);
-    window.CURRENT_USER.minutesReadToday += (minutesRead || 0);
-    return window.CURRENT_USER;
+    if (window.CURRENT_USER) {
+      window.CURRENT_USER.minutesSavedToday += (minutesSaved || 0);
+      window.CURRENT_USER.minutesReadToday += (minutesRead || 0);
+      return window.CURRENT_USER;
+    }
+    return null;
   }
 };

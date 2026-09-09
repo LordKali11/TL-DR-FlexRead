@@ -82,14 +82,46 @@ export default function App(): React.ReactElement {
     newsletter: true
   });
 
-  // Load articles from service / API dynamically
+  const [totalArticles, setTotalArticles] = useState<number>(0);
+  const [offset, setOffset] = useState<number>(0);
+  const [hasMore, setHasMore] = useState<boolean>(true);
+  const [isLoadingMore, setIsLoadingMore] = useState<boolean>(false);
+
+  // Load articles from service / API dynamically with pagination
   useEffect(() => {
-    fetchArticles().then((data) => {
-      if (data && data.length > 0) {
-        setArticles(data);
+    fetchArticles({ offset: 0, limit: 24 }).then((res) => {
+      if (res && res.articles && res.articles.length > 0) {
+        setArticles(res.articles);
+        setTotalArticles(res.total);
+        const newOffset = res.articles.length;
+        setOffset(newOffset);
+        setHasMore(newOffset < res.total);
       }
     });
   }, []);
+
+  const handleLoadMore = useCallback(() => {
+    if (isLoadingMore || !hasMore) return;
+    setIsLoadingMore(true);
+    fetchArticles({ offset, limit: 24 })
+      .then((res) => {
+        if (res && res.articles && res.articles.length > 0) {
+          setArticles((prev) => [...prev, ...res.articles]);
+          setTotalArticles(res.total);
+          const newOffset = offset + res.articles.length;
+          setOffset(newOffset);
+          setHasMore(newOffset < res.total);
+        } else {
+          setHasMore(false);
+        }
+      })
+      .catch((err) => {
+        console.warn('Failed to load more articles:', err);
+      })
+      .finally(() => {
+        setIsLoadingMore(false);
+      });
+  }, [offset, hasMore, isLoadingMore]);
 
   const showToast = useCallback((title: string, message: string, type: ToastType = 'info') => {
     const id = Date.now().toString() + Math.random().toString(36).substring(2, 6);
@@ -293,6 +325,10 @@ export default function App(): React.ReactElement {
               articles={articles}
               user={activeUser}
               onOpenReader={handleOpenReader}
+              onLoadMore={handleLoadMore}
+              hasMore={hasMore}
+              isLoadingMore={isLoadingMore}
+              totalArticles={totalArticles}
             />
             <Footer />
             <ProfileModal

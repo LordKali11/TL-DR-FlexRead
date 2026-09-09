@@ -74,18 +74,53 @@ const { useState, useMemo, useCallback, useEffect } = React;
         newsletter: true
       });
 
-      // Dynamic Article API loading with asynchronous REST client and local fallback
+      const [totalArticles, setTotalArticles] = useState(0);
+      const [offset, setOffset] = useState(0);
+      const [hasMore, setHasMore] = useState(true);
+      const [isLoadingMore, setIsLoadingMore] = useState(false);
+
+      // Dynamic Article API loading with asynchronous REST client, pagination, and local fallback
       useEffect(() => {
         if (window.NzzApiClient) {
-          window.NzzApiClient.fetchArticles()
-            .then(data => {
-              if (Array.isArray(data) && data.length > 0) {
-                setArticles(data);
+          window.NzzApiClient.fetchArticles({ offset: 0, limit: 24 })
+            .then(res => {
+              if (res && res.articles && res.articles.length > 0) {
+                setArticles(res.articles);
+                setTotalArticles(res.total || res.articles.length);
+                const newOffset = res.articles.length;
+                setOffset(newOffset);
+                setHasMore(newOffset < res.total);
+              } else if (Array.isArray(res) && res.length > 0) {
+                setArticles(res);
+                setTotalArticles(res.length);
+                setOffset(res.length);
+                setHasMore(false);
               }
             })
             .catch(err => console.warn('Article API fetch failed:', err));
         }
       }, []);
+
+      const handleLoadMore = useCallback(() => {
+        if (isLoadingMore || !hasMore || !window.NzzApiClient) return;
+        setIsLoadingMore(true);
+        window.NzzApiClient.fetchArticles({ offset, limit: 24 })
+          .then(res => {
+            const newItems = res && res.articles ? res.articles : (Array.isArray(res) ? res : []);
+            if (newItems.length > 0) {
+              setArticles(prev => [...prev, ...newItems]);
+              const tot = (res && typeof res.total === 'number') ? res.total : totalArticles;
+              setTotalArticles(tot);
+              const newOffset = offset + newItems.length;
+              setOffset(newOffset);
+              setHasMore(newOffset < tot);
+            } else {
+              setHasMore(false);
+            }
+          })
+          .catch(err => console.warn('Load more fetch failed:', err))
+          .finally(() => setIsLoadingMore(false));
+      }, [offset, hasMore, isLoadingMore, totalArticles]);
 
       const showToast = useCallback((title, message, type = 'info') => {
         const id = Date.now().toString() + Math.random().toString(36).substring(2, 6);
@@ -298,6 +333,10 @@ const { useState, useMemo, useCallback, useEffect } = React;
                   articles={articles}
                   user={activeUser}
                   onOpenReader={handleOpenReader}
+                  onLoadMore={handleLoadMore}
+                  hasMore={hasMore}
+                  isLoadingMore={isLoadingMore}
+                  totalArticles={totalArticles}
                 />
                 <Footer />
                 <ProfileModal
