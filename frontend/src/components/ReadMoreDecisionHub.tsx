@@ -7,8 +7,8 @@ export interface ReadMoreDecisionHubProps {
   currentTier?: 'briefing' | 'analytical' | 'full';
   otherArticles?: Article[];
   nextArticles?: Article[];
-  onSelectArticle?: (article: Article, tier: string) => void;
-  onSelectNextStory?: (article: Article, tier: string) => void;
+  onSelectArticle?: (article: Article, tier?: 'briefing' | 'analytical' | 'full' | string) => void;
+  onSelectNextStory?: (article: Article, tier?: 'briefing' | 'analytical' | 'full' | string) => void;
   onBack?: () => void;
   onBackToDashboard?: () => void;
   handleMarkComplete?: () => void;
@@ -54,34 +54,29 @@ export const ReadMoreDecisionHub: React.FC<ReadMoreDecisionHubProps> = (props) =
   return (
     <section className="read-more-options-section" id="read-more-options-hub" aria-label="Recommended Articles">
       <div className="read-more-header">
-        <span className="read-more-kicker">NZZ REDAKTION · RECOMMENDATIONS</span>
+        <span className="read-more-kicker">NZZ REDAKTION · WEITERE ARTIKEL</span>
         <h3 className="read-more-title">
           Recommended Articles to Read
         </h3>
         <p className="read-more-subtitle">
-          Completed reading in <strong>{currentTierName} ({currentTierTime} min)</strong>. Continue your session with curated Swiss journalism matched to your available time.
+          Completed in <strong>{currentTierName} ({currentTierTime} min)</strong>. Continue with curated Swiss journalism matched to your available time:
         </p>
       </div>
 
-      {/* Recommended Articles Grid */}
+      {/* Compact Recommended Articles Grid */}
       {stories.length > 0 && (
-        <div className="read-more-block">
-          <div className="read-more-block-title">
-            <span>Next Stories Curated for You</span>
-            <span className="read-more-block-hint">Select a story and launch directly in your chosen reading window</span>
-          </div>
-
+        <div className="read-more-block compact-block">
           <div className="next-articles-grid">
             {stories.map((other) => (
-              <div key={other.id} className="next-article-card">
+              <div key={other.id} className="next-article-card compact-card">
                 <div className="next-article-info">
-                  <span className="next-article-kicker">{other.kicker}</span>
+                  <span className="next-article-kicker">{other.kicker} · {other.topic}</span>
                   <h4 className="next-article-title">{other.title}</h4>
-                  <p className="next-article-author">{other.author} · {other.topic}</p>
+                  <p className="next-article-author">{other.author}</p>
                 </div>
 
                 <div className="next-article-time-buttons">
-                  <span className="next-time-prompt">Read more in:</span>
+                  <span className="next-time-prompt">Read in:</span>
                   <button
                     type="button"
                     className="btn-next-tier btn-tier-briefing"

@@ -50,7 +50,7 @@ export interface PasswordStrengthEvaluation {
 // NZZ Flex Read Dynamic Reading System Types
 // ==========================================
 
-export type ReadingTier = 'briefing' | 'analytical' | 'full';
+export type ReadingTier = 'briefing' | 'analytical' | 'full' | 'recommended' | 'bullets';
 
 export type ArgumentLayer = 'thesis' | 'evidence' | 'counterpoint' | 'context' | 'data';
 
@@ -123,6 +123,14 @@ export interface Article extends ArticleSummary {
   progressiveExpanders?: ProgressiveExpander[];
 }
 
+export interface UserReadingHistoryEntry {
+  articleId: string;
+  articleTitle: string;
+  tierChosen: ReadingTier;
+  minutesRead: number;
+  readAt: string;
+}
+
 export interface UserProfile {
   name: string;
   email: string;
@@ -132,5 +140,11 @@ export interface UserProfile {
   minutesSavedToday: number;
   syncDevice: string;
   avatarInitials: string;
+  age: number;
+  dailyAverageReadingMinutes: number;
+  monthlyAverageReadingMinutes: number;
+  modalReadingTierMinutes: number;
+  modalReadingTierName: string;
+  readingHistory: UserReadingHistoryEntry[];
 }
 

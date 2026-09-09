@@ -371,6 +371,48 @@
   color: #ffffff;
 }
 
+.depth-pill-btn.depth-pill-rec {
+  border-color: #d9aa43;
+  background: #fffdf5;
+}
+
+.depth-pill-btn.depth-pill-rec .depth-pill-time {
+  color: #7d5607;
+  background: #fbf1d6;
+}
+
+.depth-pill-btn.depth-pill-rec.active {
+  background: #7d5607;
+  border-color: #7d5607;
+  color: #ffffff;
+}
+
+.depth-pill-btn.depth-pill-rec.active .depth-pill-time {
+  background: #ffffff;
+  color: #7d5607;
+}
+
+.depth-pill-btn.depth-pill-bullets {
+  border-color: #9cb5c5;
+  background: #f6f9fb;
+}
+
+.depth-pill-btn.depth-pill-bullets .depth-pill-time {
+  color: #1a4a6b;
+  background: #e5eff5;
+}
+
+.depth-pill-btn.depth-pill-bullets.active {
+  background: #1a4a6b;
+  border-color: #1a4a6b;
+  color: #ffffff;
+}
+
+.depth-pill-btn.depth-pill-bullets.active .depth-pill-time {
+  background: #ffffff;
+  color: #1a4a6b;
+}
+
 .depth-bar-right {
   display: flex;
   align-items: center;

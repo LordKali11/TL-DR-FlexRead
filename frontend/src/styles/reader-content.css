@@ -200,6 +200,257 @@
   letter-spacing: -0.003em;
 }
 
+/* ==========================================================================
+   Editorial Markdown Engine & Broadsheet Typography System
+   ========================================================================== */
+.editorial-markdown-stream {
+  width: 100%;
+}
+
+.editorial-prose-line {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  line-height: 1.82;
+  color: #1a1a19;
+  letter-spacing: -0.003em;
+  margin: 0 0 1rem 0;
+}
+
+.editorial-prose-line:last-child {
+  margin-bottom: 0;
+}
+
+/* Headings with Swiss Broadsheet Distinction */
+.editorial-heading {
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+  color: var(--nzz-black, #111110);
+  line-height: 1.28;
+  letter-spacing: -0.015em;
+  margin-top: 2rem;
+  margin-bottom: 0.85rem;
+}
+
+.editorial-h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  border-bottom: 2px solid var(--nzz-black, #111110);
+  padding-bottom: 0.45rem;
+  margin-top: 2.5rem;
+}
+
+.editorial-h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  border-left: 3px solid var(--nzz-red, #c51a1a);
+  padding-left: 0.75rem;
+  margin-top: 2rem;
+  color: #111111;
+}
+
+.editorial-h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1f1f1e;
+  margin-top: 1.5rem;
+  letter-spacing: -0.008em;
+}
+
+.editorial-h5 {
+  font-family: var(--font-sans, 'Inter', -apple-system, sans-serif);
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--nzz-red, #c51a1a);
+  margin-top: 1.35rem;
+  margin-bottom: 0.5rem;
+}
+
+/* High-Contrast Bold Text Distinction */
+.editorial-bold {
+  font-weight: 700;
+  color: #0b0b0a;
+  letter-spacing: -0.006em;
+}
+
+/* Refined Editorial Italic */
+.editorial-italic {
+  font-style: italic;
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+  color: inherit;
+}
+
+/* Inline Quote and Guillemet Styling */
+.editorial-inline-quote,
+.editorial-guillemet-quote {
+  font-style: italic;
+  color: #161615;
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+}
+
+.editorial-guillemet-quote {
+  font-weight: 500;
+  letter-spacing: -0.005em;
+}
+
+/* Markdown Blockquote */
+.editorial-pullquote {
+  margin: 1.5rem 0;
+  padding: 1.15rem 1.5rem;
+  background: #fbfaf7;
+  border-left: 4px solid var(--nzz-red, #c51a1a);
+  border-radius: 1px;
+  position: relative;
+}
+
+.editorial-pullquote p {
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+  font-size: 1.15rem;
+  line-height: 1.65;
+  font-style: italic;
+  color: #1d1d1b;
+  margin: 0;
+}
+
+/* NZZ Authentic Pull Quote Callout Figure (for p.quote) */
+.editorial-pull-quote-figure {
+  margin: 1.85rem 0 1.65rem 0;
+  padding: 1.35rem 1.65rem 1.25rem 1.65rem;
+  background: #fbfaf7;
+  border-left: 4px solid var(--nzz-red, #c51a1a);
+  border-top: 1px solid #ebe8de;
+  border-right: 1px solid #ebe8de;
+  border-bottom: 1px solid #ebe8de;
+  border-radius: 1px;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+.editorial-pull-quote-figure .editorial-pull-quote {
+  margin: 0 0 0.85rem 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  position: relative;
+}
+
+.editorial-pull-quote-figure .quote-mark-icon {
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+  font-size: 2.75rem;
+  line-height: 1;
+  color: var(--nzz-red, #c51a1a);
+  opacity: 0.3;
+  position: absolute;
+  top: -0.65rem;
+  left: -0.2rem;
+  user-select: none;
+  pointer-events: none;
+}
+
+.editorial-pull-quote-figure .quote-body-text {
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+  font-size: 1.2rem;
+  line-height: 1.62;
+  font-style: italic;
+  font-weight: 500;
+  color: #111111;
+  margin: 0;
+  padding-left: 1.4rem;
+}
+
+.editorial-pull-quote-figure .quote-attribution {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e8e5d8;
+  font-family: var(--font-sans, 'Inter', -apple-system, sans-serif);
+  font-size: 0.71875rem;
+  gap: 1rem;
+}
+
+.editorial-pull-quote-figure .quote-tag {
+  color: var(--nzz-red, #c51a1a);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.editorial-pull-quote-figure .quote-author-name {
+  color: #666664;
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* Lists with Swiss Precision */
+.editorial-list,
+.editorial-num-list {
+  margin: 1.25rem 0 1.25rem 1.6rem;
+  padding: 0;
+  font-family: var(--font-serif, 'Newsreader', Georgia, serif);
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #1a1a19;
+}
+
+.editorial-list-item {
+  margin-bottom: 0.5rem;
+  padding-left: 0.25rem;
+}
+
+.editorial-list {
+  list-style-type: square;
+}
+
+.editorial-list::marker {
+  color: var(--nzz-red, #c51a1a);
+}
+
+/* Horizontal Rule Divider */
+.editorial-divider {
+  border: none;
+  border-top: 1px solid #dddad2;
+  margin: 2.25rem auto;
+  width: 65%;
+  position: relative;
+}
+
+.editorial-divider::after {
+  content: "♦";
+  position: absolute;
+  top: -9px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #fbfaf7;
+  padding: 0 8px;
+  color: #999995;
+  font-size: 0.75rem;
+}
+
+/* Code & Links */
+.editorial-code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.875em;
+  background: #eeece6;
+  color: #2b2b29;
+  padding: 2px 6px;
+  border-radius: 2px;
+  border: 1px solid #e0ddd5;
+}
+
+.editorial-link {
+  color: var(--nzz-red, #c51a1a);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 600;
+  transition: color 0.15s ease;
+}
+
+.editorial-link:hover {
+  color: #8f0f0f;
+}
+
 .takeaway-callout {
   margin-top: 0.85rem;
   background: #f8f8f6;
@@ -803,6 +1054,222 @@
 @keyframes bannerSlideIn {
   from { opacity: 0; transform: translateY(-6px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+/* ==========================================================================
+   Swiss Broadsheet Bullet Mode Layout & Distilled Synthesis
+   ========================================================================== */
+.bullet-mode-container {
+  max-width: 780px;
+  margin: 1.5rem auto 3rem auto;
+  animation: bannerSlideIn 0.25s ease-out;
+}
+
+.bullet-mode-intro-banner {
+  background: #fafaf7;
+  border-top: 3px solid #111111;
+  border-bottom: 1px solid #e2e2dc;
+  padding: 1.75rem 2rem 1.5rem 2rem;
+  margin-bottom: 2.25rem;
+}
+
+.bullet-mode-kicker {
+  font-family: var(--font-sans);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--nzz-red);
+  margin-bottom: 0.5rem;
+}
+
+.bullet-mode-headline {
+  font-family: var(--font-serif);
+  font-size: 1.65rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--nzz-black);
+  margin-bottom: 0.6rem;
+}
+
+.bullet-mode-description {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #4a4a46;
+  margin: 0;
+}
+
+.bullet-mode-section {
+  margin-bottom: 2.5rem;
+}
+
+.bullet-section-title {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--nzz-black);
+  border-bottom: 1px solid #e8e8e3;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.bullet-mode-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.bullet-mode-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  background: #ffffff;
+  border: 1px solid #ebebe6;
+  border-left: 3px solid #111111;
+  padding: 1rem 1.25rem;
+  border-radius: 0 var(--radius-xs) var(--radius-xs) 0;
+  transition: all 0.15s ease;
+}
+
+.bullet-mode-item:hover {
+  background: #fdfdfb;
+  border-color: #d6d6ce;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.bullet-mode-marker {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--nzz-red);
+  flex-shrink: 0;
+}
+
+.bullet-mode-text {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: #1a1a19;
+  flex: 1;
+}
+
+.bullet-mode-item.bullet-item-evidence {
+  border-left-color: #1a4a6b;
+}
+
+.bullet-mode-item.bullet-item-evidence .bullet-mode-marker {
+  color: #1a4a6b;
+}
+
+.bullet-metric-highlight {
+  font-family: var(--font-sans);
+  color: #1a4a6b;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.bullet-quote-highlight {
+  color: #333330;
+  font-weight: 600;
+}
+
+/* Argument Pillars Grid in Bullet Mode */
+.bullet-pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.bullet-pillar-card {
+  background: #fbfbf9;
+  border: 1px solid #e6e6e0;
+  border-top: 2px solid var(--nzz-black);
+  padding: 1.15rem 1.25rem;
+  border-radius: 2px;
+}
+
+.bullet-pillar-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.bullet-pillar-card .pillar-tag {
+  font-family: var(--font-sans);
+  font-size: 0.65625rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--nzz-red);
+  background: rgba(197, 26, 26, 0.08);
+  padding: 2px 6px;
+  border-radius: 2px;
+}
+
+.bullet-pillar-card .pillar-title {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--nzz-black);
+}
+
+.bullet-pillar-card .pillar-summary {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #555550;
+  margin: 0;
+}
+
+/* Bullet Mode Footer Switcher */
+.bullet-mode-footer-switch {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background: #f6f6f2;
+  border: 1px solid #e2e2dc;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+}
+
+.footer-switch-label {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-style: italic;
+  color: #444440;
+}
+
+.footer-switch-buttons {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn-switch-tier {
+  background: #ffffff;
+  border: 1px solid var(--nzz-black);
+  color: var(--nzz-black);
+  padding: 0.55rem 1.15rem;
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-switch-tier:hover {
+  background: var(--nzz-black);
+  color: #ffffff;
 }
 
 

@@ -69,7 +69,7 @@ window.MOCK_ARTICLES = [
       {
         "id": "p1",
         "tier": "briefing",
-        "text": "President Donald Trump's bilateral trade accord with the European Union is a textbook study in asymmetrical leverage. Under the agreement, European exporters will face an effective 15% tariff ceiling on industrial machinery, precision tools, and automotive components entering the American market. In exchange, the European Union agreed to eliminate tariffs on U.S. agricultural exports and sign multi-year off-take agreements for liquefied natural gas.",
+        "text": "### The Asymmetrical Leverage Equation\n\nPresident Donald Trump's bilateral trade accord with the European Union is a **textbook study in asymmetrical leverage**. Under the agreement, European exporters will face an **effective 15% tariff ceiling** on industrial machinery, precision tools, and automotive components entering the American market. In exchange, the European Union agreed to eliminate tariffs on U.S. agricultural exports and sign multi-year off-take agreements for liquefied natural gas.",
         "argumentId": "economic-rationality",
         "statValue": "15%",
         "statLabel": "Effective U.S. tariff ceiling accepted by the European Union"
@@ -77,51 +77,51 @@ window.MOCK_ARTICLES = [
       {
         "id": "p2",
         "tier": "briefing",
-        "text": "For European policymakers in Brussels and Berlin, the deal was accepted with a sense of collective resignation. European Commission President Ursula von der Leyen framed the compromise as an act of pragmatic conflict containment, emphasizing that a predictable 15% duty is far preferable to the 25% across-the-board tariffs previously threatened by Washington.",
+        "text": "For European policymakers in Brussels and Berlin, the deal was accepted with a sense of collective resignation. European Commission President Ursula von der Leyen framed the compromise as an **act of pragmatic conflict containment**, emphasizing that a predictable 15% duty is far preferable to the **25% across-the-board tariffs** previously threatened by Washington.",
         "argumentId": "geopolitical-leverage"
       },
       {
         "id": "p3",
         "tier": "analytical",
-        "text": "From an economic perspective, however, the arrangement deals a devastating blow to the concept of reciprocal, rules-based free trade. The World Trade Organization (WTO) was completely bypassed during the negotiations in Turnberry. By agreeing to an asymmetric tariff structure without dispute resolution mechanisms, the EU has formally conceded that economic relations with the United States are now governed by political power rather than multilateral treaties.",
+        "text": "From an economic perspective, however, the arrangement deals a devastating blow to the concept of **reciprocal, rules-based free trade**. The World Trade Organization (WTO) was completely bypassed during the negotiations in Turnberry. By agreeing to an asymmetric tariff structure without dispute resolution mechanisms, the EU has formally conceded that economic relations with the United States are now **governed by political power rather than multilateral treaties**.",
         "argumentId": "economic-rationality",
         "quote": "The EU has formally conceded that economic relations with Washington are now governed by political power rather than multilateral treaties."
       },
       {
         "id": "p4",
         "tier": "analytical",
-        "text": "The geopolitical dimension reveals an even deeper vulnerability: Europe's fragmented internal market. When the White House first threatened blanket duties, European capitals split into competing camps. Germany, desperate to shield its export-dependent automotive conglomerate Volkswagen and BMW, lobbied aggressively for an immediate settlement. France, conversely, pushed for retaliatory tariffs against American technology giants under the EU's Anti-Coercion Instrument.",
+        "text": "### Fragmented Internal Market & Berlin's Predicament\n\nThe geopolitical dimension reveals an even deeper vulnerability: **Europe's fragmented internal market**. When the White House first threatened blanket duties, European capitals split into competing camps. Germany, desperate to shield its export-dependent automotive conglomerate Volkswagen and BMW, lobbied aggressively for an immediate settlement. France, conversely, pushed for retaliatory tariffs against American technology giants under the EU's **Anti-Coercion Instrument**.",
         "argumentId": "geopolitical-leverage"
       },
       {
         "id": "p5",
         "tier": "analytical",
-        "text": "This internal fissure paralyzed Brussels. In the absence of a unified strategic core, Berlin's industrial anxieties dictated Europe's negotiating posture. The resulting settlement disproportionately penalizes high-margin manufacturing while providing minimal protections for Europe's nascent green technology sector, which now faces subsidized American competition under the Inflation Reduction Act.",
+        "text": "This internal fissure paralyzed Brussels. In the absence of a unified strategic core, **Berlin's industrial anxieties dictated Europe's negotiating posture**. The resulting settlement disproportionately penalizes high-margin manufacturing while providing minimal protections for Europe's nascent green technology sector, which now faces subsidized American competition under the **Inflation Reduction Act**.",
         "argumentId": "economic-rationality"
       },
       {
         "id": "p6",
         "tier": "full",
-        "text": "Ultimately, the decisive factor behind Europe's acquiescence was neither automotive margins nor agricultural quotas—it was security. With an aggressive Russia waging protracted war on the European continent's eastern frontier and Ukrainian air defenses perpetually strained, European leaders concluded they could not risk alienating the Pentagon.",
+        "text": "### Transatlantic Defense Dependency & The Security Lever\n\nUltimately, the decisive factor behind Europe's acquiescence was neither automotive margins nor agricultural quotas—**it was security**. With an aggressive Russia waging protracted war on the European continent's eastern frontier and Ukrainian air defenses perpetually strained, European leaders concluded they **could not risk alienating the Pentagon**.",
         "argumentId": "defense-dependency",
         "quote": "With war on Europe's eastern frontier, EU leaders concluded they could not risk alienating the Pentagon."
       },
       {
         "id": "p7",
         "tier": "full",
-        "text": "The transatlantic defense guarantee remains fundamentally one-sided. Despite lofty declarations regarding 'European Strategic Autonomy,' the continent remains incapable of providing integrated air defense, strategic reconnaissance, or heavy airlift without American support. Trump's negotiating team exploited this structural dependency with surgical precision, linking commercial concessions directly to NATO burden-sharing commitments.",
+        "text": "The transatlantic defense guarantee remains fundamentally one-sided. Despite lofty declarations regarding **«European Strategic Autonomy»**, the continent remains incapable of providing integrated air defense, strategic reconnaissance, or heavy airlift without American support. Trump's negotiating team exploited this structural dependency with surgical precision, linking commercial concessions directly to NATO burden-sharing commitments.",
         "argumentId": "defense-dependency"
       },
       {
         "id": "p8",
         "tier": "full",
-        "text": "In Switzerland, foreign economic observers are watching the EU's predicament with acute interest. Bern, which abolished all industrial tariffs unilaterally in 2024, operates without the collective bargaining weight of a 450-million-person single market. Yet Switzerland's high direct investment footprint in the United States—over $350 billion—provides an alternative economic counterweight that European negotiators failed to mobilize.",
+        "text": "In Switzerland, foreign economic observers are watching the EU's predicament with acute interest. Bern, which abolished all industrial tariffs unilaterally in 2024, operates without the collective bargaining weight of a 450-million-person single market. Yet Switzerland's high direct investment footprint in the United States—**over $350 billion**—provides an alternative economic counterweight that European negotiators failed to mobilize.",
         "argumentId": "geopolitical-leverage"
       },
       {
         "id": "p9",
         "tier": "full",
-        "text": "The Turnberry agreement demonstrates that in the emerging tripolar world order dominated by the United States, China, and regional energy powers, regulatory soft power is no substitute for strategic hard power. The European Union avoided an immediate trade war, but at the cost of exposing its profound geopolitical subservience.",
+        "text": "The Turnberry agreement demonstrates that in the emerging tripolar world order dominated by the United States, China, and regional energy powers, **regulatory soft power is no substitute for strategic hard power**. The European Union avoided an immediate trade war, but at the cost of exposing its profound geopolitical subservience.",
         "argumentId": "defense-dependency"
       }
     ],
@@ -238,7 +238,7 @@ window.MOCK_ARTICLES = [
       {
         "id": "ch-p1",
         "tier": "briefing",
-        "text": "When the Trump administration assesses transatlantic commercial ties, it fixates on a single metric: the bilateral trade deficit in merchandise. According to U.S. Census Bureau figures, the United States runs an annual trade deficit in physical goods with Switzerland of approximately $28 billion, driven predominantly by high-value pharmaceutical active ingredients, luxury mechanical watches, and specialized medical apparatus.",
+        "text": "### The Merchandise Trade Distortion\n\nWhen the Trump administration assesses transatlantic commercial ties, it fixates on a single metric: the **bilateral trade deficit in merchandise**. According to U.S. Census Bureau figures, the United States runs an annual trade deficit in physical goods with Switzerland of approximately **$28 billion**, driven predominantly by high-value pharmaceutical active ingredients, luxury mechanical watches, and specialized medical apparatus.",
         "argumentId": "trade-ledger",
         "statValue": "$350B",
         "statLabel": "Swiss direct investment stock in the United States economy"
@@ -246,39 +246,39 @@ window.MOCK_ARTICLES = [
       {
         "id": "ch-p2",
         "tier": "briefing",
-        "text": "Yet this merchandise-only calculation represents an economic distortion. What Washington systematically ignores is the staggering depth of Swiss foreign direct investment (FDI) inside American borders. With over $350 billion invested in manufacturing plants, research campuses, and logistics hubs, Switzerland ranks as the sixth-largest foreign investor in the United States, directly sustaining over 400,000 high-paying American jobs in Indiana, Massachusetts, and North Carolina.",
+        "text": "Yet this merchandise-only calculation represents an economic distortion. What Washington systematically ignores is the **staggering depth of Swiss foreign direct investment (FDI)** inside American borders. With **over $350 billion** invested in manufacturing plants, research campuses, and logistics hubs, Switzerland ranks as the **sixth-largest foreign investor in the United States**, directly sustaining over **400,000 high-paying American jobs** in Indiana, Massachusetts, and North Carolina.",
         "argumentId": "direct-investment",
         "quote": "Switzerland ranks as the sixth-largest foreign investor in the U.S., sustaining over 400,000 high-paying American jobs."
       },
       {
         "id": "ch-p3",
         "tier": "analytical",
-        "text": "Furthermore, when services, intellectual property licenses, and cloud computing royalties are factored into the comprehensive current account balance, the supposed trade deficit largely evaporates. American tech giants—including Google, Microsoft, and Apple—earn tens of billions of dollars annually from their Swiss corporate and consumer operations. The Swiss National Bank calculates that the U.S. enjoys an annual surplus of over $18 billion in bilateral services trade.",
+        "text": "Furthermore, when services, intellectual property licenses, and cloud computing royalties are factored into the comprehensive current account balance, the supposed trade deficit largely evaporates. American tech giants—including Google, Microsoft, and Apple—earn tens of billions of dollars annually from their Swiss corporate and consumer operations. The Swiss National Bank calculates that the U.S. enjoys an **annual surplus of over $18 billion** in bilateral services trade.",
         "argumentId": "trade-ledger"
       },
       {
         "id": "ch-p4",
         "tier": "analytical",
-        "text": "Swiss diplomacy faces a unique structural challenge: Bern possesses no traditional tariff leverage. On January 1, 2024, Switzerland unilaterally abolished all import duties on industrial manufactured products, cementing its role as an open champion of free trade. As Federal Councillor Guy Parmelin pointed out, Switzerland cannot re-impose tariffs on American machinery or cars without inflicting self-harm on Swiss domestic consumers and violating federal statutes.",
+        "text": "### The Unilateral Zero-Tariff Reform\n\nSwiss diplomacy faces a unique structural challenge: **Bern possesses no traditional tariff leverage**. On January 1, 2024, Switzerland unilaterally abolished all import duties on industrial manufactured products, cementing its role as an open champion of free trade. As Federal Councillor Guy Parmelin pointed out, Switzerland cannot re-impose tariffs on American machinery or cars without inflicting self-harm on Swiss domestic consumers and violating federal statutes.",
         "argumentId": "zero-tariffs",
         "quote": "Switzerland cannot re-impose tariffs on American machinery without inflicting self-harm on Swiss consumers."
       },
       {
         "id": "ch-p5",
         "tier": "analytical",
-        "text": "Swiss corporate giants like Roche, Novartis, Nestlé, and ABB are not distant foreign merchants; they are domestic American industrial pillars. Roche's subsidiary Genentech operates the largest biotechnology production facility in California, while ABB manufactures electrical transformers essential for America's stressed electrical grid in rural Virginia.",
+        "text": "Swiss corporate giants like Roche, Novartis, Nestlé, and ABB are not distant foreign merchants; they are **domestic American industrial pillars**. Roche's subsidiary Genentech operates the largest biotechnology production facility in California, while ABB manufactures electrical transformers essential for America's stressed electrical grid in rural Virginia.",
         "argumentId": "direct-investment"
       },
       {
         "id": "ch-p6",
         "tier": "full",
-        "text": "Penalizing Swiss precision exports with blanket 10% or 15% tariffs would immediately disrupt critical American medical supply chains. For instance, Swiss contract development and manufacturing organizations (CDMOs) like Lonza produce advanced cancer therapeutics and mRNA inputs that cannot be readily substituted by domestic U.S. plants without years of FDA re-certification.",
+        "text": "### Supply Chain Realities in Critical Healthcare\n\nPenalizing Swiss precision exports with blanket 10% or 15% tariffs would **immediately disrupt critical American medical supply chains**. For instance, Swiss contract development and manufacturing organizations (CDMOs) like Lonza produce advanced cancer therapeutics and mRNA inputs that cannot be readily substituted by domestic U.S. plants without years of FDA re-certification.",
         "argumentId": "direct-investment"
       },
       {
         "id": "ch-p7",
         "tier": "full",
-        "text": "The strategic imperative for the Federal Council in Bern is clear: shift the diplomatic narrative from commercial trade deficits to strategic capital investment. By coordinating with governors across industrial swing states where Swiss enterprises provide vital payrolls, Bern can build a resilient coalition of American stakeholders capable of neutralizing punitive tariff decrees from the Oval Office.",
+        "text": "The strategic imperative for the Federal Council in Bern is clear: shift the diplomatic narrative from **commercial trade deficits to strategic capital investment**. By coordinating with governors across industrial swing states where Swiss enterprises provide vital payrolls, Bern can build a resilient coalition of American stakeholders capable of neutralizing punitive tariff decrees from the Oval Office.",
         "argumentId": "zero-tariffs"
       }
     ],
@@ -395,7 +395,7 @@ window.MOCK_ARTICLES = [
       {
         "id": "ai-p1",
         "tier": "briefing",
-        "text": "The semiconductor Cold War between the United States and China has entered a bizarre new transactional phase. In a quiet revision of export licensing guidelines, the U.S. Department of Commerce has permitted Silicon Valley chip designers—most notably Nvidia and Advanced Micro Devices—to resume shipments of specialized artificial intelligence accelerators to Chinese commercial customers, on the condition that 15% of all gross revenues are remitted directly to the U.S. Treasury as a 'National Defense Silicon Surcharge.'",
+        "text": "### The 15% National Defense Silicon Surcharge\n\nThe semiconductor Cold War between the United States and China has entered a bizarre new transactional phase. In a quiet revision of export licensing guidelines, the U.S. Department of Commerce has permitted Silicon Valley chip designers—most notably Nvidia and Advanced Micro Devices—to resume shipments of specialized artificial intelligence accelerators to Chinese commercial customers, on the condition that **15% of all gross revenues are remitted directly to the U.S. Treasury** as a «National Defense Silicon Surcharge.»",
         "argumentId": "export-tax",
         "statValue": "15%",
         "statLabel": "Federal defense surcharge imposed on American AI chip exports to China"
@@ -403,39 +403,39 @@ window.MOCK_ARTICLES = [
       {
         "id": "ai-p2",
         "tier": "briefing",
-        "text": "The arrangement represents an unprecedented blend of national security mercantilism. For Washington, the levy generates billions in federal revenues to fund domestic CHIPS Act subsidies while nominally throttling the compute density available to Chinese military AI labs. For American semiconductor executives, the agreement preserves vital market access to the world's fastest-growing artificial intelligence ecosystem, which still accounts for nearly 20% of global datacenter hardware demand.",
+        "text": "The arrangement represents an unprecedented blend of **national security mercantilism**. For Washington, the levy generates billions in federal revenues to fund domestic CHIPS Act subsidies while nominally throttling the compute density available to Chinese military AI labs. For American semiconductor executives, the agreement preserves vital market access to the world's fastest-growing artificial intelligence ecosystem, which still accounts for **nearly 20% of global datacenter hardware demand**.",
         "argumentId": "technological-decoupling"
       },
       {
         "id": "ai-p3",
         "tier": "analytical",
-        "text": "However, Beijing has no intention of quietly subsidizing the American defense budget. Within days of the revenue-sharing framework's implementation, the Cyberspace Administration of China (CAC) summoned top executives from Nvidia's Asia-Pacific division in Beijing. The CAC initiated an intrusive cybersecurity compliance probe into Nvidia's customized HGX H20 graphic processor, alleging that American microcode contains 'dormant telemetry pathways and remote administrative kill-switches' capable of disabling Chinese datacenters during a geopolitical crisis.",
+        "text": "### Beijing's Cybersecurity Counter-Offensive\n\nHowever, Beijing has no intention of quietly subsidizing the American defense budget. Within days of the revenue-sharing framework's implementation, the Cyberspace Administration of China (CAC) summoned top executives from Nvidia's Asia-Pacific division in Beijing. The CAC initiated an intrusive cybersecurity compliance probe into Nvidia's customized HGX H20 graphic processor, alleging that American microcode contains **«dormant telemetry pathways and remote administrative kill-switches»** capable of disabling Chinese datacenters during a geopolitical crisis.",
         "argumentId": "cybersecurity-backdoor",
         "quote": "Beijing initiated an intrusive cybersecurity probe, alleging American microcode contains dormant telemetry pathways."
       },
       {
         "id": "ai-p4",
         "tier": "analytical",
-        "text": "Western hardware engineers reject Beijing's kill-switch accusations as technologically baseless propaganda designed to justify state-backed market displacement. Modern GPU architectures rely on low-level firmware signed with cryptographic public keys, but executing remote bricking operations across firewalled Chinese sovereign cloud clusters like Alibaba Cloud and Tencent would require persistent outbound network access that enterprise datacenters rigorously isolate.",
+        "text": "Western hardware engineers reject Beijing's kill-switch accusations as **technologically baseless propaganda** designed to justify state-backed market displacement. Modern GPU architectures rely on low-level firmware signed with cryptographic public keys, but executing remote bricking operations across firewalled Chinese sovereign cloud clusters like Alibaba Cloud and Tencent would require persistent outbound network access that enterprise datacenters rigorously isolate.",
         "argumentId": "export-tax"
       },
       {
         "id": "ai-p5",
         "tier": "analytical",
-        "text": "Yet the true motive behind the CAC's sudden national security review is industrial strategy. By instilling regulatory fear among Chinese cloud operators regarding American chip reliability, the State Council aims to create guaranteed procurement demand for domestic semiconductor champions, specifically Huawei Technologies' Ascend 910B and 910C neural processing units.",
+        "text": "Yet the true motive behind the CAC's sudden national security review is **industrial strategy**. By instilling regulatory fear among Chinese cloud operators regarding American chip reliability, the State Council aims to create guaranteed procurement demand for domestic semiconductor champions, specifically **Huawei Technologies' Ascend 910B and 910C neural processing units**.",
         "argumentId": "cybersecurity-backdoor"
       },
       {
         "id": "ai-p6",
         "tier": "full",
-        "text": "Huawei has made remarkable strides despite severe U.S. sanctions targeting its access to Dutch ASML extreme ultraviolet (EUV) lithography systems. Utilizing multi-patterning techniques on older deep ultraviolet (DUV) equipment at Semiconductor Manufacturing International Corporation (SMIC) in Shanghai, Huawei has achieved production yields sufficient to supply over 400,000 Ascend accelerators to Chinese telecommunications providers this year.",
+        "text": "### Technological Containment vs. Indigenous Innovation\n\nHuawei has made remarkable strides despite severe U.S. sanctions targeting its access to Dutch ASML extreme ultraviolet (EUV) lithography systems. Utilizing multi-patterning techniques on older deep ultraviolet (DUV) equipment at Semiconductor Manufacturing International Corporation (SMIC) in Shanghai, Huawei has achieved production yields sufficient to supply **over 400,000 Ascend accelerators** to Chinese telecommunications providers this year.",
         "argumentId": "technological-decoupling",
         "quote": "Utilizing multi-patterning on older DUV tools, Huawei supplied over 400,000 Ascend accelerators this year."
       },
       {
         "id": "ai-p7",
         "tier": "full",
-        "text": "The geopolitical dilemma facing Western policymakers is profound. Complete technological containment is proving to be an illusion that merely accelerates Chinese self-reliance. As Nvidia Chief Executive Jensen Huang repeatedly warned Capitol Hill, denying American companies access to the Chinese market deprives Silicon Valley of the tens of billions of dollars in commercial profits required to finance the next generation of American quantum and biological computing breakthroughs.",
+        "text": "The geopolitical dilemma facing Western policymakers is profound. **Complete technological containment is proving to be an illusion** that merely accelerates Chinese self-reliance. As Nvidia Chief Executive Jensen Huang repeatedly warned Capitol Hill, denying American companies access to the Chinese market deprives Silicon Valley of the tens of billions of dollars in commercial profits required to finance the next generation of American quantum and biological computing breakthroughs.",
         "argumentId": "technological-decoupling"
       }
     ],
@@ -489,338 +489,129 @@ window.MOCK_ARTICLES = [
   }
 ];
 
-window.CURRENT_USER = {
-  "name": "Dr. Felix Meier",
-  "email": "felix.meier@nzz-fellows.ch",
-  "membership": "NZZ Pro Global Subscriber",
-  "memberSince": "Member since October 2019",
-  "minutesReadToday": 18,
-  "minutesSavedToday": 42,
-  "syncDevice": "iPhone 14 Pro · Zurich HB (14m ago)",
-  "avatarInitials": "FM"
+/**
+ * Randomize user age between 1 and 100
+ */
+window.randomizeUserAge = function() {
+  return Math.floor(Math.random() * 100) + 1;
 };
 
-// Browser API helper for asynchronous REST communication
-window.NzzApiClient = {
-  cache: new Map(),
+/**
+ * Randomize daily average reading time between 5 and 30 minutes
+ */
+window.randomizeDailyReadingMinutes = function() {
+  return Math.floor(Math.random() * (30 - 5 + 1)) + 5;
+};
 
-  parseRawContentToSemanticParagraphs(rawText, readingTimes) {
-    if (!rawText) return [];
-    const rawChunks = rawText.split(/\n\s*\n/).map(c => c.trim()).filter(Boolean);
-    const total = rawChunks.length;
+/**
+ * Generate randomized profile statistics, modal reading time, and reading history
+ */
+window.generateRandomizedProfileStats = function(seedDailyMinutes, seedAge) {
+  const age = seedAge !== undefined ? seedAge : window.randomizeUserAge();
+  const dailyAverageReadingMinutes = seedDailyMinutes !== undefined ? seedDailyMinutes : window.randomizeDailyReadingMinutes();
+  const monthlyAverageReadingMinutes = dailyAverageReadingMinutes * 30;
 
-    return rawChunks.map((chunk, idx) => {
-      const id = 'p-' + (idx + 1);
-      let layer = 'context';
-      let minTier = 'full';
-      let text = chunk;
-      let statsMetric = undefined;
+  // Determine modal reading tier based on daily average reading time
+  let modalTier = 'analytical';
+  let modalTierMinutes = 7;
+  let modalTierName = 'Analytical Depth (7 min)';
 
-      if (idx === 0 || (total > 4 && idx < 2) || (total <= 4 && idx === 0)) {
-        minTier = 'briefing';
-      } else if (idx < Math.max(3, Math.ceil(total * 0.55))) {
-        minTier = 'analytical';
-      } else {
-        minTier = 'full';
-      }
-
-      if (chunk.startsWith('### ') || chunk.startsWith('## ')) {
-        layer = 'thesis';
-        text = chunk.replace(/^#+\s*/, '');
-      } else if (chunk.startsWith('- **') || chunk.startsWith('* **')) {
-        const match = chunk.match(/^[-*]\s*\*\*([^*]+)\*\*:\s*(.*)$/s);
-        if (match) {
-          const tag = match[1].toLowerCase();
-          text = '**' + match[1] + ':** ' + match[2];
-          if (tag.includes('metric') || tag.includes('data') || tag.includes('figure') || tag.includes('rate') || /\d+%|\$[\d.]+|€[\d.]+|\d+\s*billion|\d+\s*million/.test(match[2])) {
-            layer = 'data';
-            const statMatch = match[2].match(/(\d+(?:\.\d+)?%|\$\d+(?:\.\d+)?(?:\s*[mb]illion)?|€\d+(?:\.\d+)?(?:\s*[mb]illion)?)/i);
-            if (statMatch) {
-              statsMetric = { value: statMatch[1], label: match[1] };
-            }
-          } else if (tag.includes('tension') || tag.includes('conflict') || tag.includes('counter') || tag.includes('critic') || tag.includes('dilemma')) {
-            layer = 'counterpoint';
-          } else if (tag.includes('evidence') || tag.includes('pillar') || tag.includes('development') || tag.includes('shift')) {
-            layer = 'evidence';
-          } else if (tag.includes('essential') || tag.includes('briefing') || tag.includes('crux') || tag.includes('takeaway')) {
-            layer = 'thesis';
-          } else {
-            layer = 'context';
-          }
-        } else {
-          layer = 'evidence';
-        }
-      } else if (/\d+%|\$[\d.]+|€[\d.]+|\b\d+\s*billion\b|\b\d+\s*million\b/.test(chunk) && chunk.length < 250) {
-        layer = 'data';
-        const statMatch = chunk.match(/(\d+(?:\.\d+)?%|\$\d+(?:\.\d+)?(?:\s*[mb]illion)?|€\d+(?:\.\d+)?(?:\s*[mb]illion)?)/i);
-        if (statMatch) {
-          statsMetric = { value: statMatch[1], label: 'Empirical Indicator' };
-        }
-      } else if (idx === 0) {
-        layer = 'thesis';
-      } else if (idx === 1) {
-        layer = 'evidence';
-      } else if (chunk.toLowerCase().includes('however') || chunk.toLowerCase().includes('on the other hand') || chunk.toLowerCase().includes('critics argue')) {
-        layer = 'counterpoint';
-      }
-
-      return { id, layer, minTier, text, statsMetric };
-    });
-  },
-
-  adaptBackendArticle(doc) {
-    const id = String(doc.id || doc.nzz_id || doc.document_id || 'unknown');
-    const slug = doc.slug || id;
-    const title = doc.title || doc.headline || 'Untitled NZZ Article';
-    const subtitle = doc.subtitle || doc.lead || '';
-    const kicker = (doc.kicker || doc.ressort_path || (doc.original_de && doc.original_de.kicker) || doc.section || 'NZZ EDITORIAL').toUpperCase();
-    const topic = doc.topic || doc.section || doc.genre_flag || 'General';
-
-    let author = 'NZZ Editorial Board';
-    if (doc.author) {
-      author = doc.author;
-    } else if (doc.author_line) {
-      author = doc.author_line;
-    } else if (Array.isArray(doc.authors) && doc.authors.length > 0) {
-      author = typeof doc.authors[0] === 'string' ? doc.authors[0] : (doc.authors[0].name || 'NZZ Redaktion');
-    }
-
-    const authorRole = doc.authorRole || doc.author_role || 'Senior Geopolitical & Economics Editor, Zurich';
-    const date = doc.date || doc.published_at || 'August 2026';
-    const publishedAt = doc.publishedAt || doc.published_at || doc.date || 'August 2026';
-
-    let heroImage = 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80';
-    if (doc.heroImage) {
-      heroImage = doc.heroImage;
-    } else if (doc.teaser_image && doc.teaser_image.url) {
-      heroImage = doc.teaser_image.url;
-    } else if (doc.image_url) {
-      heroImage = doc.image_url;
-    }
-
-    const rtSeconds = doc.reading_time_seconds || (doc.preprocessing && doc.preprocessing.reading_time) || 960;
-    const fullMins = Math.max(15, Math.ceil(rtSeconds / 60));
-    const readingTimes = doc.readingTimes || {
-      briefing: 5,
-      analytical: 10,
-      full: fullMins
-    };
-
-    const summaryBullets = (doc.summaryBullets && doc.summaryBullets.length > 0)
-      ? doc.summaryBullets
-      : (doc.summary_bullets_en && doc.summary_bullets_en.length > 0)
-        ? doc.summary_bullets_en
-        : (doc.takeaways && doc.takeaways.length > 0)
-          ? doc.takeaways
-          : [subtitle].filter(Boolean);
-
-    const takeaways = (doc.takeaways && doc.takeaways.length > 0)
-      ? doc.takeaways
-      : summaryBullets;
-
-    let paragraphs = doc.paragraphs;
-    if (!paragraphs || paragraphs.length === 0) {
-      const rawText = doc.raw_content || doc.body_text || (Array.isArray(doc.body) ? doc.body.map(b => b.text).join('\n\n') : '') || subtitle;
-      paragraphs = this.parseRawContentToSemanticParagraphs(rawText, readingTimes);
-    }
-
-    let argumentFocusTopics = doc.argumentFocusTopics;
-    if (!argumentFocusTopics || argumentFocusTopics.length === 0) {
-      const pIds = paragraphs.map(p => p.id);
-      argumentFocusTopics = [
-        {
-          id: 'core-thesis',
-          label: '1. Strategic Pillar & Core Developments',
-          tag: 'STRATEGY',
-          summary: summaryBullets[0] || 'Core strategic implications and immediate geopolitical ramifications.',
-          paragraphIds: pIds.slice(0, Math.min(3, pIds.length))
-        },
-        {
-          id: 'economic-impact',
-          label: '2. Economic Analysis & Empirical Evidence',
-          tag: 'IMPACT',
-          summary: summaryBullets[1] || 'Macroeconomic variables, market pressures, and stakeholder responses.',
-          paragraphIds: pIds.slice(Math.min(3, pIds.length), Math.min(7, pIds.length))
-        }
-      ];
-    }
-
-    return {
-      id,
-      slug,
-      kicker,
-      title,
-      subtitle,
-      author,
-      authorRole,
-      date,
-      publishedAt,
-      topic,
-      heroImage,
-      readingTimes,
-      summaryBullets,
-      takeaways,
-      argumentFocusTopics,
-      paragraphs,
-      expanders: doc.expanders || doc.progressiveExpanders || [],
-      progressiveExpanders: doc.progressiveExpanders || doc.expanders || []
-    };
-  },
-
-  async fetchArticles(topicOrOptions, query, optOffset, optLimit) {
-    let topic, q, offset, limit;
-    if (topicOrOptions && typeof topicOrOptions === 'object') {
-      topic = topicOrOptions.topic;
-      q = topicOrOptions.q;
-      offset = topicOrOptions.offset ?? 0;
-      limit = topicOrOptions.limit ?? 24;
-    } else {
-      topic = topicOrOptions;
-      q = query;
-      offset = optOffset ?? 0;
-      limit = optLimit ?? 24;
-    }
-
-    const params = [];
-    if (topic && topic !== 'All') params.push('section=' + encodeURIComponent(topic));
-    if (q) {
-      params.push('search=' + encodeURIComponent(q));
-      params.push('q=' + encodeURIComponent(q));
-    }
-    params.push('offset=' + offset);
-    params.push('limit=' + limit);
-    const qs = '?' + params.join('&');
-
-    const endpoints = [
-      '/api/articles' + qs,
-      'http://127.0.0.1:8000/api/articles' + qs
-    ];
-
-    for (const url of endpoints) {
-      try {
-        const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
-        if (res.ok) {
-          const raw = await res.json();
-          let list = [];
-          let total = 0;
-          let respOffset = offset;
-          let respLimit = limit;
-
-          if (Array.isArray(raw)) {
-            list = raw;
-            total = raw.length;
-          } else if (raw && Array.isArray(raw.articles)) {
-            list = raw.articles;
-            total = typeof raw.total === 'number' ? raw.total : list.length;
-            respOffset = typeof raw.offset === 'number' ? raw.offset : offset;
-            respLimit = typeof raw.limit === 'number' ? raw.limit : limit;
-          }
-          if (list.length > 0) {
-            const adapted = list.map(item => this.adaptBackendArticle(item));
-            return {
-              articles: adapted,
-              total,
-              offset: respOffset,
-              limit: respLimit
-            };
-          }
-        }
-      } catch (e) {
-        // try next endpoint
-      }
-    }
-
-    let list = (window.MOCK_ARTICLES || []).map(a => this.adaptBackendArticle(a));
-    if (topic && topic !== 'All') {
-      list = list.filter(a => a.topic.toLowerCase() === topic.toLowerCase());
-    }
-    if (q) {
-      const queryLower = q.toLowerCase();
-      list = list.filter(a => a.title.toLowerCase().includes(queryLower) || a.subtitle.toLowerCase().includes(queryLower));
-    }
-    const total = list.length;
-    const paginated = list.slice(offset, offset + limit);
-    return {
-      articles: paginated,
-      total,
-      offset,
-      limit
-    };
-  },
-
-  async fetchArticleById(id) {
-    if (this.cache.has(id)) return this.cache.get(id);
-
-    const endpoints = [
-      '/api/articles/' + encodeURIComponent(id),
-      'http://127.0.0.1:8000/api/articles/' + encodeURIComponent(id)
-    ];
-
-    for (const url of endpoints) {
-      try {
-        const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
-        if (res.ok) {
-          const raw = await res.json();
-          if (raw && (raw.id || raw.nzz_id || raw.headline || raw.title)) {
-            const adapted = this.adaptBackendArticle(raw);
-            this.cache.set(adapted.id, adapted);
-            return adapted;
-          }
-        }
-      } catch (e) {}
-    }
-
-    const found = (window.MOCK_ARTICLES || []).find(a => a.id === id || a.slug === id) || null;
-    if (found) {
-      const adapted = this.adaptBackendArticle(found);
-      this.cache.set(adapted.id, adapted);
-      return adapted;
-    }
-    return null;
-  },
-
-  async fetchReadingVariant(articleId, targetTierOrMinutes, wpm = 220) {
-    let targetMins = 5;
-    if (typeof targetTierOrMinutes === 'number') {
-      targetMins = targetTierOrMinutes;
-    } else if (targetTierOrMinutes === 'briefing' || targetTierOrMinutes === '5') {
-      targetMins = 5;
-    } else if (targetTierOrMinutes === 'analytical' || targetTierOrMinutes === '10') {
-      targetMins = 10;
-    } else if (targetTierOrMinutes === 'full' || targetTierOrMinutes === '15') {
-      targetMins = 15;
-    }
-
-    const endpoints = [
-      `/api/articles/${encodeURIComponent(articleId)}/read?target_time_minutes=${targetMins}&wpm=${wpm}`,
-      `http://127.0.0.1:8000/api/articles/${encodeURIComponent(articleId)}/read?target_time_minutes=${targetMins}&wpm=${wpm}`
-    ];
-
-    for (const url of endpoints) {
-      try {
-        const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
-        if (res.ok) {
-          return await res.json();
-        }
-      } catch (e) {}
-    }
-    return null;
-  },
-
-  async recordReadingTime(minutesSaved, minutesRead) {
-    try {
-      const res = await fetch('/api/user/reading-time', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ minutesSaved, minutesRead })
-      });
-      if (res.ok) return await res.json();
-    } catch (e) {}
-    if (window.CURRENT_USER) {
-      window.CURRENT_USER.minutesSavedToday += (minutesSaved || 0);
-      window.CURRENT_USER.minutesReadToday += (minutesRead || 0);
-      return window.CURRENT_USER;
-    }
-    return null;
+  if (dailyAverageReadingMinutes <= 9) {
+    modalTier = 'briefing';
+    modalTierMinutes = 3;
+    modalTierName = 'Executive Briefing (3 min)';
+  } else if (dailyAverageReadingMinutes >= 24) {
+    modalTier = 'full';
+    modalTierMinutes = 16;
+    modalTierName = 'Full Narrative (16 min)';
+  } else {
+    modalTier = 'analytical';
+    modalTierMinutes = 7;
+    modalTierName = 'Analytical Depth (7 min)';
   }
+
+  const readingHistory = [
+    {
+      articleId: 'trump-tariff-deal-eu',
+      articleTitle: "Three takes on Trump's tariff deal with the EU",
+      tierChosen: modalTier,
+      minutesRead: modalTierMinutes,
+      readAt: 'Yesterday'
+    },
+    {
+      articleId: 'swiss-us-investment-paradox',
+      articleTitle: 'Swiss companies are world leaders in US investment',
+      tierChosen: modalTier === 'full' ? 'analytical' : 'briefing',
+      minutesRead: modalTier === 'full' ? 5 : 2,
+      readAt: '2 days ago'
+    },
+    {
+      articleId: 'us-china-chip-chokepoint',
+      articleTitle: 'US-China dispute over tiny AI chip highlights dilemma',
+      tierChosen: modalTier,
+      minutesRead: modalTierMinutes,
+      readAt: '4 days ago'
+    }
+  ];
+
+  return {
+    age,
+    dailyAverageReadingMinutes,
+    monthlyAverageReadingMinutes,
+    modalReadingTierMinutes: modalTierMinutes,
+    modalReadingTierName: modalTierName,
+    readingHistory
+  };
+};
+
+/**
+ * Recommends an optimal reading time and tier for an article based on the user's reading history and average pace
+ */
+window.getRecommendedReadingTier = function(article, user) {
+  const times = (article && article.readingTimes) || { briefing: 3, analytical: 7, full: 16 };
+
+  if (!user) {
+    return {
+      tier: 'analytical',
+      minutes: times.analytical,
+      label: `${times.analytical}m Rec`,
+      reason: 'Recommended for standard analytical focus'
+    };
+  }
+
+  const history = user.readingHistory || [];
+  let briefingCount = 0;
+  let analyticalCount = 0;
+  let fullCount = 0;
+
+  history.forEach(entry => {
+    if (entry.tierChosen === 'briefing') briefingCount++;
+    else if (entry.tierChosen === 'analytical') analyticalCount++;
+    else if (entry.tierChosen === 'full') fullCount++;
+  });
+
+  const dailyAvg = user.dailyAverageReadingMinutes || 15;
+
+  let recommendedTier = 'analytical';
+  let reason = '';
+
+  if (dailyAvg <= 8 || briefingCount > analyticalCount + fullCount) {
+    recommendedTier = 'briefing';
+    reason = `Based on your ${dailyAvg}m daily reading pace and fast briefing history`;
+  } else if (dailyAvg >= 22 && fullCount >= analyticalCount) {
+    recommendedTier = 'full';
+    reason = `Based on your ${dailyAvg}m daily reading budget and preference for long-form narrative`;
+  } else {
+    recommendedTier = 'analytical';
+    reason = `Based on your modal reading depth (${user.modalReadingTierName || 'Analytical Depth'})`;
+  }
+
+  const minutes = times[recommendedTier] || times.analytical;
+
+  return {
+    tier: recommendedTier,
+    minutes,
+    label: `${minutes}m Rec`,
+    reason
+  };
 };

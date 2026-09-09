@@ -71,36 +71,10 @@ class NZZRequestHandler(http.server.SimpleHTTPRequestHandler):
         self.send_cors_headers()
         self.end_headers()
 
-    def forward_to_backend(self, method='GET', body_bytes=None):
-        backend_url = f"http://127.0.0.1:8000{self.path}"
-        try:
-            req_headers = {k: v for k, v in self.headers.items() if k.lower() not in ('host', 'content-length')}
-            if body_bytes:
-                req_headers['Content-Length'] = str(len(body_bytes))
-            req = urllib.request.Request(backend_url, data=body_bytes, headers=req_headers, method=method)
-            with urllib.request.urlopen(req, timeout=3) as resp:
-                data = resp.read()
-                self.send_response(resp.status)
-                for k, v in resp.getheaders():
-                    if k.lower() not in ('transfer-encoding', 'content-length', 'access-control-allow-origin'):
-                        self.send_header(k, v)
-                self.send_cors_headers()
-                self.send_header('Content-Length', str(len(data)))
-                self.end_headers()
-                self.wfile.write(data)
-                return True
-        except Exception:
-            return False
-
     def do_GET(self):
         parsed = urllib.parse.urlparse(self.path)
         path = parsed.path
         query = urllib.parse.parse_qs(parsed.query)
-
-        # First attempt to proxy API requests to live FastAPI backend at port 8000
-        if path.startswith('/api/'):
-            if self.forward_to_backend(method='GET'):
-                return
 
         if path == '/api/health':
             articles = load_articles()
@@ -116,8 +90,6 @@ class NZZRequestHandler(http.server.SimpleHTTPRequestHandler):
             articles = load_articles()
             topic_filter = query.get('topic', [None])[0]
             search_query = query.get('q', [None])[0]
-            offset = int(query.get('offset', ['0'])[0])
-            limit = int(query.get('limit', ['24'])[0])
             full_detail = query.get('full', ['0'])[0] in ('1', 'true', 'yes')
 
             results = articles
@@ -158,16 +130,7 @@ class NZZRequestHandler(http.server.SimpleHTTPRequestHandler):
                     "dossierCount": len(a.get("progressiveExpanders", a.get("expanders", []))),
                     "paragraphsCount": len(a.get("paragraphs", []))
                 })
-
-            total = len(summaries)
-            paginated = summaries[offset : offset + limit]
-            return self.send_json({
-                "total": total,
-                "count": len(paginated),
-                "offset": offset,
-                "limit": limit,
-                "articles": paginated
-            })
+            return self.send_json(summaries)
 
         if path.startswith('/api/articles/'):
             article_id = path.replace('/api/articles/', '').strip('/')
@@ -185,15 +148,11 @@ class NZZRequestHandler(http.server.SimpleHTTPRequestHandler):
     def do_POST(self):
         parsed = urllib.parse.urlparse(self.path)
         path = parsed.path
-        content_length = int(self.headers.get('Content-Length', 0))
-        raw_body = self.rfile.read(content_length) if content_length > 0 else None
-
-        if path.startswith('/api/'):
-            if self.forward_to_backend(method='POST', body_bytes=raw_body):
-                return
 
         if path == '/api/user/reading-time':
-            if raw_body:
+            content_length = int(self.headers.get('Content-Length', 0))
+            if content_length > 0:
+                raw_body = self.rfile.read(content_length)
                 try:
                     payload = json.loads(raw_body.decode('utf-8'))
                     saved = payload.get('minutesSaved', 0)

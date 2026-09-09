@@ -1,28 +1,33 @@
-import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Article, ReadingTier, ArgumentFocusTopic, SemanticParagraph, ProgressiveExpander } from '../types';
+import React, { useState, useEffect, useRef } from 'react';
+import { Article, ReadingTier, ArgumentFocusTopic, SemanticParagraph, ProgressiveExpander, UserProfile } from '../types';
+import { getRecommendedReadingTier } from '../services/articleApi';
 import { ReadMoreDecisionHub } from './ReadMoreDecisionHub';
 import { FloatingDepthBubble } from './FloatingDepthBubble';
 import { NzzTransitionOverlay, TransitionMeta } from './NzzTransitionOverlay';
-import { fetchReadingVariant, parseRawContentToSemanticParagraphs, DynamicReadVariant } from '../services/articleApi';
+import { EditorialMarkdown } from './EditorialMarkdown';
 
 interface FlexReaderViewProps {
   article: Article;
   articles: Article[];
+  user?: UserProfile;
   initialTier?: ReadingTier;
   onBack: () => void;
   onUpdateStats: (mins: number) => void;
-  onSelectArticle: (article: Article, budgetTier?: string) => void;
+  onSelectArticle: (article: Article, budgetTier?: ReadingTier | string) => void;
 }
 
 export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   article,
   articles,
+  user,
   initialTier = 'briefing',
   onBack,
   onUpdateStats,
   onSelectArticle
 }) => {
-  const [tier, setTier] = useState<ReadingTier>(initialTier);
+  const rec = getRecommendedReadingTier(article, user);
+  const effectiveInitialTier: ReadingTier = initialTier === 'recommended' ? rec.tier : initialTier;
+  const [tier, setTier] = useState<ReadingTier>(effectiveInitialTier);
   const [selectedArgumentId, setSelectedArgumentId] = useState<string>('all');
   const [showLayerFilters, setShowLayerFilters] = useState(false);
   const [activeLayers, setActiveLayers] = useState<Record<string, boolean>>({
@@ -33,12 +38,7 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
     data: true
   });
   const [expandedIds, setExpandedIds] = useState<Record<string, boolean>>({});
-  const [audioPlaying, setAudioPlaying] = useState(false);
   const [readCompleted, setReadCompleted] = useState(false);
-
-  // Dynamic AI Reading Variant State
-  const [variantData, setVariantData] = useState<DynamicReadVariant | null>(null);
-  const [loadingVariant, setLoadingVariant] = useState<boolean>(false);
 
   // NZZ Broadsheet Transition Animation State
   const [isTransitioning, setIsTransitioning] = useState(false);
@@ -46,10 +46,12 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   const [isReflowing, setIsReflowing] = useState(false);
   const transitionTimerRef = useRef<NodeJS.Timeout | null>(null);
 
-  const TIERS_META = {
+  const TIERS_META: Record<string, { name: string; time: number }> = {
     briefing: { name: 'Executive Briefing', time: article.readingTimes.briefing },
     analytical: { name: 'Analytical Depth', time: article.readingTimes.analytical },
-    full: { name: 'Full Narrative', time: article.readingTimes.full }
+    full: { name: 'Full Narrative', time: article.readingTimes.full },
+    recommended: { name: `Recommended (${rec.minutes}m)`, time: rec.minutes },
+    bullets: { name: 'Bullet Mode (Summary)', time: 2 }
   };
 
   useEffect(() => {
@@ -61,33 +63,10 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
     setExpandedIds({});
     setIsTransitioning(false);
     setTransitionMeta(null);
-    setVariantData(null);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, [article.id, initialTier]);
 
-  // Dynamically load tailored reading variant from backend (5m, 10m, 15m)
-  useEffect(() => {
-    let isCurrent = true;
-    const targetMins = tier === 'briefing' ? 5 : (tier === 'analytical' ? 10 : 15);
-    setLoadingVariant(true);
-
-    fetchReadingVariant(article.id, targetMins)
-      .then(data => {
-        if (isCurrent && data) {
-          setVariantData(data);
-        }
-      })
-      .catch(err => {
-        console.warn('[FlexReaderView] Dynamic reading variant fetch failed:', err);
-      })
-      .finally(() => {
-        if (isCurrent) setLoadingVariant(false);
-      });
-
-    return () => { isCurrent = false; };
-  }, [article.id, tier]);
-
-  const changeReadingTier = (targetTier: 'briefing' | 'analytical' | 'full') => {
+  const changeReadingTier = (targetTier: ReadingTier) => {
     if (targetTier === tier) return;
 
     const fromMeta = TIERS_META[tier] || TIERS_META.briefing;
@@ -95,7 +74,11 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
     const diff = toMeta.time - fromMeta.time;
 
     let deltaText = 'Recalibrating reading depth';
-    if (tier === 'briefing' && targetTier === 'analytical') {
+    if (targetTier === 'bullets') {
+      deltaText = 'Distilling core arguments & executive bullet points';
+    } else if (tier === 'bullets') {
+      deltaText = `Expanding from Bullet Mode into ${toMeta.name}`;
+    } else if (tier === 'briefing' && targetTier === 'analytical') {
       deltaText = '+4 min deeper · Expanding institutional context & counter-arguments';
     } else if (tier === 'analytical' && targetTier === 'full') {
       deltaText = '+11 min deeper · Unlocking full broadsheet prose & historical documentation';
@@ -153,35 +136,21 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   };
 
   const handleMarkComplete = () => {
-    let saved = 0;
-    if (variantData && variantData.time_saved_seconds) {
-      saved = Math.round(variantData.time_saved_seconds / 60);
-    } else {
-      saved = article.readingTimes.full - article.readingTimes[tier];
-    }
+    const tierTime = (tier === 'bullets' ? 2 : (article.readingTimes[tier as 'briefing' | 'analytical' | 'full'] || 3));
+    const saved = article.readingTimes.full - tierTime;
     onUpdateStats(Math.max(2, saved));
     setReadCompleted(true);
   };
 
-  const tierRanking = { briefing: 1, analytical: 2, full: 3 };
-  const currentTierRank = tierRanking[tier];
+  const tierRanking: Record<string, number> = { briefing: 1, analytical: 2, full: 3, bullets: 3, recommended: 2 };
+  const currentTierRank = tierRanking[tier] || 1;
 
-  // Derive semantic paragraphs from backend dynamic variant if available
-  const dynamicParagraphs = useMemo(() => {
-    if (variantData && variantData.actual_content) {
-      return parseRawContentToSemanticParagraphs(variantData.actual_content);
-    }
-    return null;
-  }, [variantData]);
-
-  const paragraphsSource = dynamicParagraphs || article.paragraphs;
-
-  const visibleParagraphs = paragraphsSource.filter(p => {
-    if (!dynamicParagraphs) {
-      const pRank = tierRanking[p.minTier];
-      if (pRank > currentTierRank) return false;
-    }
-    return activeLayers[p.layer];
+  const visibleParagraphs = (article.paragraphs || []).filter(p => {
+    const tierLevel = p.minTier || p.tier || 'briefing';
+    const pRank = tierRanking[tierLevel] || 1;
+    if (pRank > currentTierRank) return false;
+    if (p.layer && activeLayers && activeLayers[p.layer] === false) return false;
+    return true;
   });
 
   const argumentTopics = article.argumentFocusTopics || [];
@@ -191,10 +160,6 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
   const estimatedSeconds = Math.round((wordsCount / 220) * 60);
   const estMins = Math.floor(estimatedSeconds / 60);
   const estSecs = estimatedSeconds % 60;
-
-  const displayedTitle = (variantData && variantData.title) ? variantData.title : article.title;
-  const displayedSubtitle = (variantData && variantData.summary) ? variantData.summary : article.subtitle;
-  const readoutTierTime = (variantData && variantData.estimated_reading_time_minutes) ? variantData.estimated_reading_time_minutes : article.readingTimes[tier];
 
   return (
     <div className="flex-reader-page">
@@ -215,24 +180,12 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
             <span className="reader-article-kicker">{article.kicker}</span>
             <span className="reader-dot">·</span>
             <span className="reader-time-readout">
-              {tier === 'briefing' ? `${readoutTierTime}m Briefing` : tier === 'analytical' ? `${readoutTierTime}m Analytical` : `${readoutTierTime}m Full`}
-              {' '}(~{estMins > 0 ? `${estMins}m ` : ''}{estSecs}s at 220 wpm{loadingVariant ? ' · Updating…' : ''})
+              {tier === 'briefing' ? `${article.readingTimes.briefing}m Briefing` : tier === 'analytical' ? `${article.readingTimes.analytical}m Analytical` : `${article.readingTimes.full}m Full`}
+              {' '}(~{estMins > 0 ? `${estMins}m ` : ''}{estSecs}s at 220 wpm)
             </span>
           </div>
 
-          <div className="reader-bar-right">
-            <button
-              onClick={() => setAudioPlaying(!audioPlaying)}
-              className={`btn-audio-toggle ${audioPlaying ? 'playing' : ''}`}
-              title="Listen to synthesized NZZ editorial briefing"
-            >
-              <span>{audioPlaying ? 'Pause Briefing' : 'Audio Briefing'}</span>
-            </button>
-
-            <div className="reader-voice-badge" title="NZZ Editorial Voice Preserved">
-              <span>NZZ Voice Preserved</span>
-            </div>
-          </div>
+          <div className="reader-bar-right" aria-hidden="true"></div>
         </div>
       </header>
 
@@ -243,8 +196,8 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
           {/* Authentic Broadsheet Header: Headline, Kicker, Subtitle, Byline */}
           <header className="article-headline-block">
             <div className="article-kicker-tag">{article.kicker}</div>
-            <h1 className="article-title">{displayedTitle}</h1>
-            <p className="article-subtitle">{displayedSubtitle}</p>
+            <h1 className="article-title">{article.title}</h1>
+            <p className="article-subtitle">{article.subtitle}</p>
 
             <div className="article-byline-bar">
               <div className="byline-meta">
@@ -271,7 +224,7 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
                     onClick={() => changeReadingTier('briefing')}
                   >
                     <span className="depth-pill-time">{article.readingTimes.briefing}m</span>
-                    <span className="depth-pill-title">Executive Briefing</span>
+                    <span className="depth-pill-title">Briefing</span>
                   </button>
 
                   <button
@@ -281,7 +234,7 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
                     onClick={() => changeReadingTier('analytical')}
                   >
                     <span className="depth-pill-time">{article.readingTimes.analytical}m</span>
-                    <span className="depth-pill-title">Analytical Depth</span>
+                    <span className="depth-pill-title">Analytical</span>
                   </button>
 
                   <button
@@ -291,7 +244,29 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
                     onClick={() => changeReadingTier('full')}
                   >
                     <span className="depth-pill-time">{article.readingTimes.full}m</span>
-                    <span className="depth-pill-title">Full Narrative</span>
+                    <span className="depth-pill-title">Full</span>
+                  </button>
+
+                  <button
+                    role="tab"
+                    aria-selected={tier === rec.tier}
+                    className={`depth-pill-btn depth-pill-rec ${tier === rec.tier ? 'active' : ''}`}
+                    onClick={() => changeReadingTier(rec.tier)}
+                    title={`${rec.reason} (${rec.minutes}m)`}
+                  >
+                    <span className="depth-pill-time">★ {rec.minutes}m</span>
+                    <span className="depth-pill-title">Rec</span>
+                  </button>
+
+                  <button
+                    role="tab"
+                    aria-selected={tier === 'bullets'}
+                    className={`depth-pill-btn depth-pill-bullets ${tier === 'bullets' ? 'active' : ''}`}
+                    onClick={() => changeReadingTier('bullets')}
+                    title="View key points and main arguments in Bullet Mode"
+                  >
+                    <span className="depth-pill-time">●</span>
+                    <span className="depth-pill-title">Bullet Mode</span>
                   </button>
                 </div>
               </div>
@@ -355,7 +330,7 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
           </header>
 
           {/* Key Strategic Takeaways (shown in Briefing & Analytical) */}
-          {((article.summaryBullets && article.summaryBullets.length > 0) || ((article as any).takeaways && (article as any).takeaways.length > 0)) && tier !== 'full' && (
+          {((article.summaryBullets && article.summaryBullets.length > 0) || ((article as any).takeaways && (article as any).takeaways.length > 0)) && tier !== 'full' && tier !== 'bullets' && (
             <div className="executive-takeaways-card">
               <div className="takeaways-header">
                 <span>Key Strategic Takeaways</span>
@@ -388,48 +363,152 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
             </div>
           )}
 
-          {/* Pure Editorial Prose Flow */}
-          <div className="paragraphs-flow">
-            {visibleParagraphs.map((p, idx) => {
-              const layerClassMap: Record<string, string> = {
-                thesis: 'layer-type-thesis',
-                evidence: 'layer-type-evidence',
-                counterpoint: 'layer-type-counterpoint',
-                data: 'layer-type-data',
-                context: 'layer-type-context'
-              };
+          {/* Main Article Content: Bullet Mode OR Paragraph Flow */}
+          {tier === 'bullets' ? (
+            <div className="bullet-mode-container">
+              <div className="bullet-mode-intro-banner">
+                <div className="bullet-mode-kicker">NZZ FLEX READ · BULLET MODE</div>
+                <h2 className="bullet-mode-headline">Core Points & Strategic Takeaways</h2>
+                <p className="bullet-mode-description">
+                  Essential bullet breakdown of the core thesis, causal evidence, institutional positions, and geopolitical takeaways.
+                </p>
+              </div>
 
-              const isMatch = selectedArgumentId === 'all' ||
-                (p.argumentId && p.argumentId === selectedArgumentId) ||
-                (activeArgumentTopic && activeArgumentTopic.paragraphIds && activeArgumentTopic.paragraphIds.includes(p.id));
+              {/* Section 1: Core Editorial Takeaways */}
+              <div className="bullet-mode-section">
+                <h3 className="bullet-section-title">Key Executive Points</h3>
+                <ul className="bullet-mode-list">
+                  {(article.takeaways || article.summaryBullets || []).map((point, idx) => (
+                    <li key={idx} className="bullet-mode-item">
+                      <span className="bullet-mode-marker" aria-hidden="true">■</span>
+                      <div className="bullet-mode-text">
+                        <EditorialMarkdown text={point} />
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
 
-              const isDimmed = selectedArgumentId !== 'all' && !isMatch;
-              const statValue = p.statsMetric ? p.statsMetric.value : (p as any).statValue;
-              const statLabel = p.statsMetric ? p.statsMetric.label : (p as any).statLabel;
-
-              return (
-                <div
-                  key={p.id || idx}
-                  className={`semantic-paragraph-block ${layerClassMap[p.layer]} ${statValue ? 'stat-callout-block' : ''} ${isMatch && selectedArgumentId !== 'all' ? 'paragraph-argument-focused' : ''} ${isDimmed ? 'paragraph-argument-dimmed' : ''}`}
-                >
-                  {isMatch && selectedArgumentId !== 'all' && activeArgumentTopic && (
-                    <div className="argument-match-chip">
-                      <span>Argument: {activeArgumentTopic.tag}</span>
-                    </div>
-                  )}
-
-                  {statValue && (
-                    <div className="stat-callout-card">
-                      <span className="stat-value">{statValue}</span>
-                      <span className="stat-desc">{statLabel}</span>
-                    </div>
-                  )}
-
-                  <p className="paragraph-text">{p.text}</p>
+              {/* Section 2: Core Argument Pillars */}
+              {article.argumentFocusTopics && article.argumentFocusTopics.length > 0 && (
+                <div className="bullet-mode-section">
+                  <h3 className="bullet-section-title">Argument Structure & Core Pillars</h3>
+                  <div className="bullet-pillars-grid">
+                    {article.argumentFocusTopics.map((topic) => (
+                      <div key={topic.id} className="bullet-pillar-card">
+                        <div className="bullet-pillar-header">
+                          <span className="pillar-tag">{topic.tag}</span>
+                          <span className="pillar-title">{topic.label}</span>
+                        </div>
+                        <p className="pillar-summary">{topic.summary}</p>
+                      </div>
+                    ))}
+                  </div>
                 </div>
-              );
-            })}
-          </div>
+              )}
+
+              {/* Section 3: Empirical Evidence & Key Quotes in Bullet Form */}
+              {visibleParagraphs.some(p => p.statsMetric || (p as any).quote) && (
+                <div className="bullet-mode-section">
+                  <h3 className="bullet-section-title">Empirical Evidence & Key Quotes</h3>
+                  <ul className="bullet-mode-list">
+                    {visibleParagraphs
+                      .filter(p => p.statsMetric || (p as any).quote)
+                      .map((p, idx) => (
+                        <li key={p.id || idx} className="bullet-mode-item bullet-item-evidence">
+                          <span className="bullet-mode-marker" aria-hidden="true">◆</span>
+                          <div className="bullet-mode-text">
+                            {p.statsMetric && (
+                              <strong className="bullet-metric-highlight">[{p.statsMetric.value}] {p.statsMetric.label}: </strong>
+                            )}
+                            {(p as any).quote && (
+                              <em className="bullet-quote-highlight">"{ (p as any).quote }" &mdash; </em>
+                            )}
+                            <EditorialMarkdown text={p.keyTakeaway || p.text.split('.')[0] + '.'} />
+                          </div>
+                        </li>
+                      ))}
+                  </ul>
+                </div>
+              )}
+
+              {/* Bottom Quick-Switch */}
+              <div className="bullet-mode-footer-switch">
+                <span className="footer-switch-label">Ready to explore full investigative prose?</span>
+                <div className="footer-switch-buttons">
+                  <button
+                    type="button"
+                    className="btn-switch-tier"
+                    onClick={() => changeReadingTier('analytical')}
+                  >
+                    Switch to Analytical Depth ({article.readingTimes.analytical}m)
+                  </button>
+                  <button
+                    type="button"
+                    className="btn-switch-tier"
+                    onClick={() => changeReadingTier('full')}
+                  >
+                    Read Full Broadsheet ({article.readingTimes.full}m)
+                  </button>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <div className="paragraphs-flow">
+              {visibleParagraphs.map((p, idx) => {
+                const layerClassMap: Record<string, string> = {
+                  thesis: 'layer-type-thesis',
+                  evidence: 'layer-type-evidence',
+                  counterpoint: 'layer-type-counterpoint',
+                  data: 'layer-type-data',
+                  context: 'layer-type-context'
+                };
+
+                const isMatch = selectedArgumentId === 'all' ||
+                  (p.argumentId && p.argumentId === selectedArgumentId) ||
+                  (activeArgumentTopic && activeArgumentTopic.paragraphIds && activeArgumentTopic.paragraphIds.includes(p.id));
+
+                const isDimmed = selectedArgumentId !== 'all' && !isMatch;
+                const statValue = p.statsMetric ? p.statsMetric.value : (p as any).statValue;
+                const statLabel = p.statsMetric ? p.statsMetric.label : (p as any).statLabel;
+
+                return (
+                  <div
+                    key={p.id || idx}
+                    className={`semantic-paragraph-block ${layerClassMap[p.layer]} ${statValue ? 'stat-callout-block' : ''} ${isMatch && selectedArgumentId !== 'all' ? 'paragraph-argument-focused' : ''} ${isDimmed ? 'paragraph-argument-dimmed' : ''}`}
+                  >
+                    {isMatch && selectedArgumentId !== 'all' && activeArgumentTopic && (
+                      <div className="argument-match-chip">
+                        <span>Argument: {activeArgumentTopic.tag}</span>
+                      </div>
+                    )}
+
+                    {statValue && (
+                      <div className="stat-callout-card">
+                        <span className="stat-value">{statValue}</span>
+                        <span className="stat-desc">{statLabel}</span>
+                      </div>
+                    )}
+
+                    {(p as any).quote && (
+                      <figure className="editorial-pull-quote-figure">
+                        <blockquote className="editorial-pull-quote">
+                          <span className="quote-mark-icon" aria-hidden="true">“</span>
+                          <p className="quote-body-text">{(p as any).quote}</p>
+                        </blockquote>
+                        <figcaption className="quote-attribution">
+                          <span className="quote-tag">REDAKTIONELLER SCHLÜSSELSATZ</span>
+                          <span className="quote-author-name">{article.author || 'NZZ Redaktion'}</span>
+                        </figcaption>
+                      </figure>
+                    )}
+
+                    <EditorialMarkdown text={p.text} className="paragraph-text" />
+                  </div>
+                );
+              })}
+            </div>
+          )}
 
           {/* Progressive Disclosure Expanders */}
           {(() => {
@@ -512,7 +591,7 @@ export const FlexReaderView: React.FC<FlexReaderViewProps> = ({
                             {/* Full Investigative Narrative */}
                             <div className="dossier-prose-stream">
                               {proseParagraphs.map((pText: string, pIdx: number) => (
-                                <p key={pIdx} className="dossier-prose-paragraph">{pText}</p>
+                                <EditorialMarkdown key={pIdx} text={pText} className="dossier-prose-paragraph" />
                               ))}
                             </div>
 

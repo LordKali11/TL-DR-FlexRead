@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, type ReactElement } from 'react';
 import TopBar from './components/TopBar';
 import EditorialPanel from './components/EditorialPanel';
 import AuthCard from './components/AuthCard';
@@ -18,7 +18,14 @@ import {
   UserProfile,
   ReadingTier
 } from './types';
-import { fetchArticles, fetchArticleById, recordReadingTime, MOCK_ARTICLES } from './services/articleApi';
+import {
+  fetchArticles,
+  fetchArticleById,
+  recordReadingTime,
+  MOCK_ARTICLES,
+  generateRandomizedProfileStats,
+  getRecommendedReadingTier
+} from './services/articleApi';
 
 // Helper to determine active client device dynamically
 function detectClientDevice(): string {
@@ -31,7 +38,7 @@ function detectClientDevice(): string {
   return 'Desktop Synced';
 }
 
-// Fallback guest user for type safety
+// Fallback guest user for type safety with randomized metrics
 const DEFAULT_GUEST_USER: UserProfile = {
   name: 'NZZ Subscriber',
   email: 'reader@nzz.ch',
@@ -40,10 +47,31 @@ const DEFAULT_GUEST_USER: UserProfile = {
   minutesReadToday: 0,
   minutesSavedToday: 0,
   syncDevice: 'Device Synced',
-  avatarInitials: 'NZ'
+  avatarInitials: 'NZ',
+  age: 38,
+  dailyAverageReadingMinutes: 18,
+  monthlyAverageReadingMinutes: 540,
+  modalReadingTierMinutes: 7,
+  modalReadingTierName: 'Analytical Depth (7 min)',
+  readingHistory: [
+    {
+      articleId: 'trump-tariff-deal-eu',
+      articleTitle: "Three takes on Trump's tariff deal with the EU",
+      tierChosen: 'analytical',
+      minutesRead: 7,
+      readAt: 'Yesterday'
+    },
+    {
+      articleId: 'swiss-us-investment-paradox',
+      articleTitle: 'Swiss companies are world leaders in US investment',
+      tierChosen: 'briefing',
+      minutesRead: 2,
+      readAt: '2 days ago'
+    }
+  ]
 };
 
-export default function App(): React.ReactElement {
+export default function App(): ReactElement {
   // FIRST PAGE MUST BE AUTH (Sign In or Create Profile)
   const [currentView, setCurrentView] = useState<'auth' | 'dashboard'>('auth');
 
@@ -82,46 +110,14 @@ export default function App(): React.ReactElement {
     newsletter: true
   });
 
-  const [totalArticles, setTotalArticles] = useState<number>(0);
-  const [offset, setOffset] = useState<number>(0);
-  const [hasMore, setHasMore] = useState<boolean>(true);
-  const [isLoadingMore, setIsLoadingMore] = useState<boolean>(false);
-
-  // Load articles from service / API dynamically with pagination
+  // Load articles from service / API dynamically
   useEffect(() => {
-    fetchArticles({ offset: 0, limit: 24 }).then((res) => {
-      if (res && res.articles && res.articles.length > 0) {
-        setArticles(res.articles);
-        setTotalArticles(res.total);
-        const newOffset = res.articles.length;
-        setOffset(newOffset);
-        setHasMore(newOffset < res.total);
+    fetchArticles().then((data) => {
+      if (data && data.length > 0) {
+        setArticles(data);
       }
     });
   }, []);
-
-  const handleLoadMore = useCallback(() => {
-    if (isLoadingMore || !hasMore) return;
-    setIsLoadingMore(true);
-    fetchArticles({ offset, limit: 24 })
-      .then((res) => {
-        if (res && res.articles && res.articles.length > 0) {
-          setArticles((prev) => [...prev, ...res.articles]);
-          setTotalArticles(res.total);
-          const newOffset = offset + res.articles.length;
-          setOffset(newOffset);
-          setHasMore(newOffset < res.total);
-        } else {
-          setHasMore(false);
-        }
-      })
-      .catch((err) => {
-        console.warn('Failed to load more articles:', err);
-      })
-      .finally(() => {
-        setIsLoadingMore(false);
-      });
-  }, [offset, hasMore, isLoadingMore]);
 
   const showToast = useCallback((title: string, message: string, type: ToastType = 'info') => {
     const id = Date.now().toString() + Math.random().toString(36).substring(2, 6);
@@ -167,6 +163,7 @@ export default function App(): React.ReactElement {
 
     const currentDevice = detectClientDevice();
     const currentDate = new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date());
+    const randomStats = generateRandomizedProfileStats();
 
     const authenticatedUser: UserProfile = {
       name: displayName,
@@ -176,7 +173,13 @@ export default function App(): React.ReactElement {
       minutesReadToday: 0,
       minutesSavedToday: 0,
       syncDevice: currentDevice,
-      avatarInitials: displayInitials
+      avatarInitials: displayInitials,
+      age: randomStats.age,
+      dailyAverageReadingMinutes: randomStats.dailyAverageReadingMinutes,
+      monthlyAverageReadingMinutes: randomStats.monthlyAverageReadingMinutes,
+      modalReadingTierMinutes: randomStats.modalReadingTierMinutes,
+      modalReadingTierName: randomStats.modalReadingTierName,
+      readingHistory: randomStats.readingHistory
     };
 
     setUser(authenticatedUser);
@@ -198,6 +201,7 @@ export default function App(): React.ReactElement {
 
     const currentDevice = detectClientDevice();
     const currentDate = new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date());
+    const randomStats = generateRandomizedProfileStats();
 
     const createdUser: UserProfile = {
       name: fullName,
@@ -207,7 +211,13 @@ export default function App(): React.ReactElement {
       minutesReadToday: 0,
       minutesSavedToday: 0,
       syncDevice: currentDevice,
-      avatarInitials: initials
+      avatarInitials: initials,
+      age: randomStats.age,
+      dailyAverageReadingMinutes: randomStats.dailyAverageReadingMinutes,
+      monthlyAverageReadingMinutes: randomStats.monthlyAverageReadingMinutes,
+      modalReadingTierMinutes: randomStats.modalReadingTierMinutes,
+      modalReadingTierName: randomStats.modalReadingTierName,
+      readingHistory: randomStats.readingHistory
     };
 
     setUser(createdUser);
@@ -227,22 +237,36 @@ export default function App(): React.ReactElement {
     );
   };
 
-  const handleOpenReader = async (article: Article, initialTier: ReadingTier = 'briefing') => {
+  const handleOpenReader = (article: Article, initialTier: ReadingTier | string = 'briefing'): void => {
+    let resolvedTier: ReadingTier = 'briefing';
+    if (initialTier === 'recommended') {
+      const rec = getRecommendedReadingTier(article, activeUser);
+      resolvedTier = rec.tier;
+    } else if (initialTier === 'bullets') {
+      resolvedTier = 'bullets';
+    } else if (initialTier === 'analytical' || initialTier === 'full') {
+      resolvedTier = initialTier;
+    } else {
+      resolvedTier = 'briefing';
+    }
+
     if (!article.paragraphs || article.paragraphs.length === 0 || !article.progressiveExpanders || article.progressiveExpanders.length === 0) {
-      try {
-        const full = await fetchArticleById(article.id);
-        if (full) {
-          setActiveArticle(full);
-          setReaderTier(initialTier);
+      fetchArticleById(article.id)
+        .then((full) => {
+          setActiveArticle(full || article);
+          setReaderTier(resolvedTier);
           window.scrollTo({ top: 0, behavior: 'smooth' });
-          return;
-        }
-      } catch (e) {
-        console.warn('Error fetching full article detail:', e);
-      }
+        })
+        .catch((e) => {
+          console.warn('Error fetching full article detail:', e);
+          setActiveArticle(article);
+          setReaderTier(resolvedTier);
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      return;
     }
     setActiveArticle(article);
-    setReaderTier(initialTier);
+    setReaderTier(resolvedTier);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
@@ -251,11 +275,21 @@ export default function App(): React.ReactElement {
   };
 
   const handleUpdateStats = (savedMinutes: number) => {
+    const minutesRead = Math.max(1, Math.round(savedMinutes * 0.4));
     setUser((prev) => {
       const current = prev || DEFAULT_GUEST_USER;
-      const updated = {
+      const newHistoryEntry = {
+        articleId: activeArticle?.id || 'reading-session',
+        articleTitle: activeArticle?.title || 'Editorial Reading Session',
+        tierChosen: readerTier,
+        minutesRead,
+        readAt: 'Just now'
+      };
+      const updated: UserProfile = {
         ...current,
-        minutesSavedToday: current.minutesSavedToday + savedMinutes
+        minutesSavedToday: current.minutesSavedToday + savedMinutes,
+        minutesReadToday: current.minutesReadToday + minutesRead,
+        readingHistory: [newHistoryEntry, ...(current.readingHistory || [])].slice(0, 10)
       };
       try {
         sessionStorage.setItem('nzz_active_user', JSON.stringify(updated));
@@ -263,7 +297,7 @@ export default function App(): React.ReactElement {
       return updated;
     });
 
-    recordReadingTime(savedMinutes, Math.round(savedMinutes * 0.4)).catch(() => {});
+    recordReadingTime(savedMinutes, minutesRead).catch(() => {});
 
     showToast('Reading session logged', `${savedMinutes} minutes saved via semantic argument distillation.`, 'success');
   };
@@ -275,6 +309,7 @@ export default function App(): React.ReactElement {
     } catch {}
     showToast('Signed out', 'You have been signed out. Sign in or create a profile to continue.', 'info');
     setCurrentView('auth');
+    setActiveArticle(null);
     setActiveTab('login');
   };
 
@@ -301,81 +336,81 @@ export default function App(): React.ReactElement {
 
   const activeUser = user || DEFAULT_GUEST_USER;
 
+  // 1. Auth View: First access page (Sign in or Create Profile)
+  if (currentView === 'auth') {
+    return (
+      <>
+        <TopBar />
+        <main className="page-wrapper">
+          <div className="content-grid">
+            <EditorialPanel />
+            <AuthCard
+              activeTab={activeTab}
+              setActiveTab={setActiveTab}
+              onOpenForgotPassword={handleOpenForgotPassword}
+              onLoginSuccess={handleLoginSuccess}
+              onRegisterSuccess={handleRegisterSuccess}
+              onShowToast={showToast}
+              loginIdentifier={loginIdentifier}
+              setLoginIdentifier={setLoginIdentifier}
+              loginPassword={loginPassword}
+              setLoginPassword={setLoginPassword}
+              regData={regData}
+              setRegData={setRegData}
+              onFillDemo={handleFillDemo}
+            />
+          </div>
+        </main>
+        <Footer />
+        <ForgotPasswordModal
+          isOpen={isForgotModalOpen}
+          initialEmail={forgotInitialEmail}
+          onClose={() => setIsForgotModalOpen(false)}
+          onSubmitSuccess={handleForgotSuccess}
+        />
+        <ToastContainer toasts={toasts} onDismiss={dismissToast} />
+      </>
+    );
+  }
+
+  // 2. Reader View: Dynamic semantic reader canvas
+  if (activeArticle) {
+    return (
+      <>
+        <FlexReaderView
+          article={activeArticle}
+          user={activeUser}
+          initialTier={readerTier}
+          articles={articles}
+          onBack={handleCloseReader}
+          onUpdateStats={handleUpdateStats}
+          onSelectArticle={handleOpenReader}
+        />
+        <ToastContainer toasts={toasts} onDismiss={dismissToast} />
+      </>
+    );
+  }
+
+  // 3. Subscriber Dashboard View: Grid of Articles + Profile Modal
   return (
     <>
-      {currentView === 'dashboard' ? (
-        activeArticle ? (
-          <FlexReaderView
-            article={activeArticle}
-            user={activeUser}
-            initialTier={readerTier}
-            articles={articles}
-            onBack={handleCloseReader}
-            onUpdateStats={handleUpdateStats}
-            onSelectArticle={handleOpenReader}
-          />
-        ) : (
-          <>
-            <DashboardTopBar
-              user={activeUser}
-              onOpenProfile={() => setIsProfileOpen(true)}
-              onSignOut={handleSignOut}
-            />
-            <ArticleGrid
-              articles={articles}
-              user={activeUser}
-              onOpenReader={handleOpenReader}
-              onLoadMore={handleLoadMore}
-              hasMore={hasMore}
-              isLoadingMore={isLoadingMore}
-              totalArticles={totalArticles}
-            />
-            <Footer />
-            <ProfileModal
-              isOpen={isProfileOpen}
-              user={activeUser}
-              onClose={() => setIsProfileOpen(false)}
-              onSignOut={handleSignOut}
-            />
-          </>
-        )
-      ) : (
-        <>
-          {/* TopBar without Flex Read button on taskbar */}
-          <TopBar />
-
-          <main className="page-wrapper">
-            <div className="content-grid">
-              <EditorialPanel />
-              <AuthCard
-                activeTab={activeTab}
-                setActiveTab={setActiveTab}
-                onOpenForgotPassword={handleOpenForgotPassword}
-                onLoginSuccess={handleLoginSuccess}
-                onRegisterSuccess={handleRegisterSuccess}
-                onShowToast={showToast}
-                loginIdentifier={loginIdentifier}
-                setLoginIdentifier={setLoginIdentifier}
-                loginPassword={loginPassword}
-                setLoginPassword={setLoginPassword}
-                regData={regData}
-                setRegData={setRegData}
-                onFillDemo={handleFillDemo}
-              />
-            </div>
-          </main>
-
-          <Footer />
-
-          <ForgotPasswordModal
-            isOpen={isForgotModalOpen}
-            initialEmail={forgotInitialEmail}
-            onClose={() => setIsForgotModalOpen(false)}
-            onSubmitSuccess={handleForgotSuccess}
-          />
-        </>
-      )}
-
+      <DashboardTopBar
+        user={activeUser}
+        onOpenProfile={() => setIsProfileOpen(true)}
+        onSignOut={handleSignOut}
+      />
+      <ArticleGrid
+        articles={articles}
+        user={activeUser}
+        onOpenReader={handleOpenReader}
+      />
+      <Footer />
+      <ProfileModal
+        isOpen={isProfileOpen}
+        user={activeUser}
+        onClose={() => setIsProfileOpen(false)}
+        onSignOut={handleSignOut}
+      />
       <ToastContainer toasts={toasts} onDismiss={dismissToast} />
     </>
   );

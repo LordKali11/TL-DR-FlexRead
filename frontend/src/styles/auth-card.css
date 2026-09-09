@@ -72,7 +72,7 @@
 }
 
 .tab-btn.active::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: -2px;
   left: 0;
@@ -163,7 +163,9 @@
   background-color: #ffffff;
   border: 1px solid var(--nzz-border-color);
   border-radius: var(--radius-xs);
-  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  transition:
+    border-color var(--transition-fast),
+    box-shadow var(--transition-fast);
   outline: none;
 }
 
@@ -249,3 +251,4 @@
 
 .radio-pill {
   flex: 1;
+}

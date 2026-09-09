@@ -1,48 +1,49 @@
 /* End-of-Article 'Want to Read More?' Decision Hub */
 /* Read More Decision Hub at End of Article */
 .read-more-options-section {
-  margin-top: 3.5rem;
-  padding: 2.25rem 2rem;
-  background: #ffffff;
-  border: 2px solid var(--nzz-black);
+  margin-top: 2rem;
+  padding: 1.15rem 1.35rem;
+  background: #fafaf8;
+  border: 1px solid #dcdbd5;
+  border-top: 3px solid var(--nzz-black);
   border-radius: 4px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
 }
 
 .read-more-header {
-  margin-bottom: 2rem;
+  margin-bottom: 0.85rem;
 }
 
 .read-more-kicker {
   display: block;
   font-family: var(--font-sans);
-  font-size: 0.75rem;
+  font-size: 0.6875rem;
   font-weight: 700;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   color: var(--nzz-red);
   text-transform: uppercase;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
 }
 
 .read-more-title {
   font-family: var(--font-serif);
-  font-size: 1.55rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: var(--nzz-black);
-  line-height: 1.25;
-  margin-bottom: 0.6rem;
+  line-height: 1.2;
+  margin-bottom: 0.35rem;
 }
 
 .read-more-subtitle {
-  font-size: 0.9375rem;
-  color: #555552;
-  line-height: 1.55;
+  font-size: 0.8125rem;
+  color: #666662;
+  line-height: 1.45;
   margin: 0;
 }
 
 .read-more-block {
-  margin-top: 1.75rem;
-  padding-top: 1.5rem;
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
   border-top: 1px solid #e5e4de;
 }
 
@@ -179,63 +180,64 @@
 .next-articles-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1.25rem;
+  gap: 0.75rem;
 }
 
 .next-article-card {
   border: 1px solid #e0dfd8;
   background: #ffffff;
-  border-radius: 4px;
-  padding: 1.25rem;
+  border-radius: 3px;
+  padding: 0.75rem 0.95rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  transition: border-color var(--transition-fast);
+  transition: all var(--transition-fast);
 }
 
 .next-article-card:hover {
   border-color: #a01a1e;
+  box-shadow: 0 2px 8px rgba(160, 26, 30, 0.05);
 }
 
 .next-article-kicker {
-  font-size: 0.6875rem;
+  font-size: 0.625rem;
   font-weight: 700;
   color: var(--nzz-red);
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.2rem;
   display: block;
 }
 
 .next-article-title {
   font-family: var(--font-serif);
-  font-size: 1.05rem;
+  font-size: 0.9375rem;
   font-weight: 700;
   color: var(--nzz-black);
   line-height: 1.3;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.25rem;
 }
 
 .next-article-author {
-  font-size: 0.8125rem;
+  font-size: 0.75rem;
   color: #767672;
-  margin-bottom: 1rem;
+  margin-bottom: 0.55rem;
 }
 
 .next-article-time-buttons {
   display: flex;
   align-items: center;
-  gap: 0.45rem;
+  gap: 0.35rem;
   flex-wrap: wrap;
-  padding-top: 0.85rem;
+  padding-top: 0.5rem;
   border-top: 1px solid #f0efe9;
 }
 
 .next-time-prompt {
-  font-size: 0.75rem;
+  font-size: 0.6875rem;
   font-weight: 700;
-  color: #666662;
-  margin-right: 0.2rem;
+  color: #767672;
+  margin-right: 0.15rem;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
@@ -244,15 +246,15 @@
   background: #ffffff;
   border: 1px solid #d4d3cc;
   border-radius: 3px;
-  padding: 0.4rem 0.65rem;
-  font-size: 0.78125rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.71875rem;
   font-weight: 600;
   color: var(--nzz-black);
   cursor: pointer;
   transition: all var(--transition-fast);
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
+  gap: 0.25rem;
   font-family: var(--font-sans);
 }
 
@@ -269,14 +271,14 @@
 
 /* Read More Footer Actions */
 .read-more-footer-actions {
-  margin-top: 2rem;
-  padding-top: 1.5rem;
-  border-top: 2px solid var(--nzz-black);
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e0dfd8;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 1.25rem;
+  gap: 0.75rem;
 }
 
 .completion-status-info strong {
@@ -343,9 +345,9 @@
   background: #111111;
   color: #ffffff;
   border: 1px solid #111111;
-  padding: 0.6rem 1.15rem;
+  padding: 0.45rem 0.95rem;
   font-family: 'Inter', sans-serif;
-  font-size: 0.8125rem;
+  font-size: 0.78125rem;
   font-weight: 600;
   border-radius: 3px;
   cursor: pointer;
@@ -361,9 +363,9 @@
   background: #ffffff;
   color: #111111;
   border: 1px solid #d5d5d0;
-  padding: 0.6rem 1.15rem;
+  padding: 0.45rem 0.95rem;
   font-family: 'Inter', sans-serif;
-  font-size: 0.8125rem;
+  font-size: 0.78125rem;
   font-weight: 600;
   border-radius: 3px;
   cursor: pointer;
